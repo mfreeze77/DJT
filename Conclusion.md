@@ -1,8 +1,3 @@
-Understood. I will conduct a comprehensive forensic analysis using all available Markdown files from the GitHub repository you provided, along with any relevant internal references and high-quality external sources where needed. 
-
-The final report will be structured in Markdown format, maintaining an academic and evidence-based approach while ensuring a thorough evaluation of the information. I will critically assess the data, analyze patterns, and reach a reasoned conclusion based on the weight of the evidence. 
-
-I will let you know when the report is ready for your review.
 
 # Introduction 
 The term **“Manchurian Candidate”** refers to a politician being secretly controlled or heavily influenced by a hostile foreign power – essentially a puppet of an enemy nation ([Manchurian candidate Meaning | Politics by Dictionary.com](https://www.dictionary.com/e/politics/manchurian-candidate/#:~:text=,mean)). It originates from a Cold War-era novel/film where an American is brainwashed to serve communist handlers. In modern usage, calling someone a Manchurian Candidate implies disloyalty or undue foreign influence, whether witting or not ([Manchurian candidate Meaning | Politics by Dictionary.com](https://www.dictionary.com/e/politics/manchurian-candidate/#:~:text=,mean)). 
