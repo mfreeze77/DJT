@@ -1,6 +1,6 @@
 ## **Outline for the Report:**
 ### **Title:**  
-**Assessing the Likelihood of [Politician’s Name] as a "Manchurian Candidate": A Forensic Analysis of Foreign Influence and Hidden Agendas**
+**Assessing the Likelihood of Donald J. Trump as a "Manchurian Candidate": A Forensic Analysis of Foreign Influence and Hidden Agendas**
 
 ---
 
