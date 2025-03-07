@@ -2,6 +2,8 @@
 ### **Title:**  Case Study- Donald J. Trump 
 **Assessing the Likelihood of Donald J. Trump as a "Manchurian Candidate": A Forensic Analysis of Foreign Influence and Hidden Agendas**
 
+### **This report was powered by Xai Grok model 3**
+
 ---
 
 ## **1. Introduction**
