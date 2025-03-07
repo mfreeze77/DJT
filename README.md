@@ -1,5 +1,5 @@
 ## **Outline for the Report:**
-### **Title:**  
+### **Title:**  Case Study- Donald J. Trump 
 **Assessing the Likelihood of Donald J. Trump as a "Manchurian Candidate": A Forensic Analysis of Foreign Influence and Hidden Agendas**
 
 ---
