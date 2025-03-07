@@ -1,4 +1,4 @@
-# Investigative Profiles of Key Individuals Supporting Tmanch_Ch4.md research (2001–2014)
+# Investigative Profiles of Key Individuals Supporting Tmanch_CH4.md research (2001–2014)
 
 ## Tevfik Arif
 
