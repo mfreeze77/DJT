@@ -62,7 +62,7 @@ This report will use an **evidence-based approach**, leveraging **public records
 
 ---
 
-## **3. Case Study: Applying the Criteria to [Politician’s Name]**
+## **3. Case Study: Applying the Criteria to Donald J. Trump**
    - **Overview of the Politician’s Career and Public Statements**  
    - **Financial Ties & Donations Analysis**  
      - Breakdown of campaign funding sources  
@@ -95,7 +95,7 @@ This report will use an **evidence-based approach**, leveraging **public records
    - **Summary of Evidence**  
      - Does the evidence **support or contradict** the Manchurian Candidate hypothesis?  
    - **Final Verdict**  
-     - Based on the findings, is it **highly likely, somewhat plausible, or unlikely** that [Politician’s Name] is under foreign control?  
+     - Based on the findings, is it **highly likely, somewhat plausible, or unlikely** that Donald J. Trump is under foreign control?  
    - **Recommendations**  
      - Further areas of investigation  
      - Policy recommendations for **preventing foreign influence in politics**  
