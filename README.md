@@ -1,5 +1,5 @@
 ## **Outline for the Report:**
-### **Title:**  Case Study- Donald J. Trump- The Muscovy Canditate
+### **Title:**  Case Study- Donald J. Trump- The Muscovy Candidate
 **Assessing the Likelihood of Donald J. Trump as a "Manchurian Candidate": A Forensic Analysis of Foreign Influence and Hidden Agendas**
 
 ### **This report was powered by Xai Grok model 3**
