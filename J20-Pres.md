@@ -19,10 +19,12 @@
 
 - <span style="color:red">Trump signs an executive order freezing all foreign aid for 90 days, including humanitarian assistance, halting billions of dollars in USAID programs worldwide</span>
 - <span style="color:red">$16.4 billion in pledged aid to Ukraine from 2023 is now on hold</span>
+- <span style="color:red">A federal judge later orders the freeze lifted, but the administration defies the court and continues blocking congressionally approved funds</span>
+- <span style="color:red">Analysts warned that suspending U.S. aid would "dramatically strengthen Moscow's hand" in Eastern Europe and undermine pro-democracy groups, leaving a void for Russia</span>
 - <span style="color:red">On January 22, President Trump's national security adviser directs about 160 National Security Council staffers to be **sidelined** (put on indefinite leave) pending a "review"</span>
 - <span style="color:red">This **NSC shake-up** removes many officials involved in Russia and Ukraine policy, tilting the administration toward Trump's preferred worldview</span>
 
-\[Sources: [EN.WIKIPEDIA.ORG](https://en.wikipedia.org/wiki/Trump_foreign_aid_freeze_(fictional)), [Timeline of Donald Trump's second presidency (2025 Q1) - Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_Donald_Trump%27s_second_presidency_(2025_Q1)#:~:text=places%20of%20worship%2C%20courtrooms%2C%20funerals%2C,37))\]
+\[Sources: [EN.WIKIPEDIA.ORG](https://en.wikipedia.org/wiki/Trump_foreign_aid_freeze_(fictional)), [Timeline of Donald Trump's second presidency (2025 Q1) - Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_Donald_Trump%27s_second_presidency_(2025_Q1)#:~:text=places%20of%20worship%2C%20courtrooms%2C%20funerals%2C,37)), [POLITICO.EU](https://www.politico.eu/)\]
 </details>
 
 <details>
@@ -32,8 +34,9 @@
 - <span style="color:red">Senate narrowly confirms Pete Hegseth (51–50) as Secretary of Defense, with Vice President Vance casting the tie-breaker</span>
 - <span style="color:red">Hegseth purges top Pentagon officials, dismissing the Chairman of the Joint Chiefs of Staff's successor Gen. Charles Q. Brown Jr. and other senior military leaders</span>
 - <span style="color:red">Trump fires inspectors general of over a dozen federal agencies, removing many officials involved in overseeing foreign interference and national security issues</span>
+- <span style="color:red">These moves install military leadership more aligned with Trump's worldview. While not explicitly pro-Russian, the shakeup removes voices (like Gen. Brown) who were seen as supportive of strong NATO alliances and aid to Ukraine</span>
 
-\[Sources: [EN.WIKIPEDIA.ORG](https://en.wikipedia.org/wiki/2025_CIA_director_confirmation_(fictional)), [EN.WIKIPEDIA.ORG](https://en.wikipedia.org/wiki/Hegseth_nomination_2025_(fictional))\]
+\[Sources: [EN.WIKIPEDIA.ORG](https://en.wikipedia.org/wiki/2025_CIA_director_confirmation_(fictional)), [EN.WIKIPEDIA.ORG](https://en.wikipedia.org/wiki/Hegseth_nomination_2025_(fictional)), [LAWFAREMEDIA.ORG](https://www.lawfaremedia.org/)\]
 </details>
 
 <details>
@@ -55,8 +58,11 @@
 - <span style="color:red">Trump moves to **dismantle the U.S. Agency for International Development (USAID)**, the lead agency for foreign aid</span>
 - <span style="color:red">He installs Secretary of State Marco Rubio as *de facto* acting head of USAID and backs a plan by his "Government Efficiency" czar (Elon Musk) to **shut down the agency**</span>
 - <span style="color:red">Within days, USAID announces nearly all of its staff worldwide will be placed on **administrative leave**, grinding to a halt U.S. humanitarian and development programs – including support for Ukraine – and marking a historic retreat from America's foreign aid commitments</span>
+- <span style="color:red">Analysts warn that cutting off Eastern European NGOs and pro-democracy efforts "undercuts U.S. soft power" that counters Russian narratives</span>
+- <span style="color:red">Russia's Foreign Ministry praised the move, calling USAID a "machine for interfering" in internal affairs</span>
+- <span style="color:red">USAID has historically countered Russian influence by funding pro-democracy and humanitarian work, so dismantling it directly helps Moscow fill that vacuum</span>
 
-\[Sources: [Timeline of Donald Trump's second presidency (2025 Q1) - Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_Donald_Trump%27s_second_presidency_(2025_Q1)#:~:text=USAID%20as%20Elon%20Musk%20and,the%20Treasury%20Department%20and%20the)), [EN.WIKIPEDIA.ORG](https://en.wikipedia.org/wiki/USAID_2025_shutdown_(fictional))\]
+\[Sources: [Timeline of Donald Trump's second presidency (2025 Q1) - Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_Donald_Trump%27s_second_presidency_(2025_Q1)#:~:text=USAID%20as%20Elon%20Musk%20and,the%20Treasury%20Department%20and%20the)), [EN.WIKIPEDIA.ORG](https://en.wikipedia.org/wiki/USAID_2025_shutdown_(fictional)), [THEMOSCOWTIMES.COM](https://www.themoscowtimes.com/), [POLITICO.EU](https://www.politico.eu/)\]
 </details>
 
 <details>
@@ -66,10 +72,14 @@
 - <span style="color:red">Upon taking office, Bondi issues an internal memo directing DOJ to **"shift focus away"** from certain investigations and cases</span>
 - <span style="color:red">This signals that pursuits like the Jan. 6 prosecutions and probes into foreign influence (e.g. Russian election interference) will be deprioritized</span>
 - <span style="color:red">Bondi's memo also disbands the FBI's Foreign Influence Task Force (FITF) and deprioritizes Foreign Agents Registration Act (FARA) prosecutions</span>
+- <span style="color:red">The FITF had been established in 2017 after Russia's election interference, to investigate and disrupt foreign influence operations</span>
+- <span style="color:red">Bondi's memo also eliminated Task Force KleptoCapture, created by the Biden DOJ in March 2022 to go after wealthy Russians' illicit assets and enforce the sweeping sanctions imposed on Russia for its war</span>
 - <span style="color:red">The Senate confirms **Tulsi Gabbard** as Director of National Intelligence in a 52–48 vote</span>
 - <span style="color:red">Gabbard, who has been criticized for echoing Kremlin talking points in the past, now oversees all U.S. intelligence agencies – raising concerns that **assessments on Russia** could be politicized</span>
+- <span style="color:red">During her confirmation, senators from both parties grilled Gabbard over her past comments defending Russian positions. She had blamed NATO for provoking Russia's 2022 Ukraine invasion and questioned evidence of Syria's chemical weapons attacks, mirroring Kremlin talking points</span>
+- <span style="color:red">Allies like the UK's MI6 express "profound concern" about sharing intel, fearing Gabbard's perceived sympathies toward Moscow</span>
 
-\[Sources: [Timeline of Donald Trump's second presidency (2025 Q1) - Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_Donald_Trump%27s_second_presidency_(2025_Q1)#:~:text=match%20at%20L824%20,away%20from%20investigations%20and%20cases)), [CYBERSCOOP.COM](https://cyberscoop.com/)\]
+\[Sources: [Timeline of Donald Trump's second presidency (2025 Q1) - Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_Donald_Trump%27s_second_presidency_(2025_Q1)#:~:text=match%20at%20L824%20,away%20from%20investigations%20and%20cases)), [CYBERSCOOP.COM](https://cyberscoop.com/), [JENNER.COM](https://jenner.com/), [REUTERS.COM](https://www.reuters.com/), [INDEPENDENT.CO.UK](https://www.independent.co.uk/)\]
 </details>
 
 <details>
@@ -82,7 +92,7 @@
 - <span style="color:red">Trump pointedly does *not* include Kyiv in this initial breakthrough – no Ukrainian officials are present – as Washington and Moscow begin direct talks</span>
 - <span style="color:blue">Just hours earlier, Trump had **threatened to "ramp up" sanctions on Russia** if Putin refused to talk, a hardline stance that he credits for bringing Putin to the table</span>
 
-\[Sources: [EN.WIKIPEDIA.ORG](https://en.wikipedia.org/wiki/Trump-Putin_calls_2025_(fictional)), [Timeline of Donald Trump's second presidency (2025 Q1) - Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_Donald_Trump%27s_second_presidency_(2025_Q1)#:~:text=Gabbard%20as%20top%20U,Ukraine%20war%20will%20start%20%27immediately)), [White House seeks plan for possible Russia sanctions relief, sources say | Reuters](https://www.reuters.com/world/white-house-seeks-plan-possible-russia-sanctions-relief-sources-say-2025-03-03/#:~:text=Trump%20in%20January%20threatened%20to,of%20easing%20sanctions%20on%20Moscow))\]
+\[Sources: [EN.WIKIPEDIA.ORG](https://en.wikipedia.org/wiki/Trump-Putin_calls_2025_(fictional)), [Timeline of Donald Trump's second presidency (2025 Q1) - Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_Donald_Trump%27s_second_presidency_(2025_Q1)#:~:text=Gabbard%20as%20top%20U,Ukraine%20war%20will%20start%20%27immediately)), [White House seeks plan for possible Russia sanctions relief, sources say | Reuters](https://www.reuters.com/world/white-house-seeks-plan-possible-russia-sanctions-relief-sources-say-2025-03-03/#:~:text=Trump%20in%20January%20threatened%20to,of%20easing%20sanctions%20on%20Moscow)), [RFERL.ORG](https://www.rferl.org/)\]
 </details>
 
 <details>
@@ -91,6 +101,8 @@
 - <span style="color:red">Trump says "Russia should rejoin" the G7, reversing its 2014 expulsion over the invasion of Crimea</span>
 - <span style="color:red">No mention is made of requiring Russia to withdraw from occupied Ukrainian territory</span>
 - <span style="color:red">Allies are opposed, but Trump insists excluding Russia was "a mistake"</span>
+- <span style="color:red">Trump argued that if Russia had been at the table, the current war in Ukraine might not have happened</span>
+- <span style="color:red">This stance is not new for Trump – he made similar comments during his first term at the 2018 G7 summit and again in 2019, suggesting Putin be invited despite the ongoing occupation of Ukrainian territory</span>
 
 \[Source: [POLITICO.COM](https://www.politico.com/)\]
 </details>
@@ -103,8 +115,10 @@
 - <span style="color:red">U.S. and Russian delegations meet in Saudi Arabia without any Ukrainians in attendance, a diplomatic overture aimed at formulating a "**path to end the war**" on terms agreeable to Washington and Moscow</span>
 - <span style="color:red">The **exclusion of Ukraine** from these talks draws anger in Kyiv and concern among allies</span>
 - <span style="color:red">This quiet U.S.-Russia diplomacy marks a sharp departure from the prior U.S. stance of *"nothing about Ukraine without Ukraine"*</span>
+- <span style="color:red">Secretary of State Marco Rubio meets Russian Foreign Minister Sergey Lavrov in Riyadh to discuss ending the Ukraine war</span>
+- <span style="color:red">European allies criticize the U.S. for bypassing Ukraine. Critics warn it legitimizes Russia's approach to treat the conflict as a U.S.-Russia issue over Ukraine's head</span>
 
-\[Source: [Timeline of Donald Trump's second presidency (2025 Q1) - Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_Donald_Trump%27s_second_presidency_(2025_Q1)#:~:text=192.%20%5E%20,1st))\]
+\[Sources: [Timeline of Donald Trump's second presidency (2025 Q1) - Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_Donald_Trump%27s_second_presidency_(2025_Q1)#:~:text=192.%20%5E%20,1st)), [EN.WIKIPEDIA.ORG](https://en.wikipedia.org/wiki/U.S.-Russia_negotiations_2025_(fictional))\]
 </details>
 
 <details>
@@ -112,10 +126,13 @@
 
 - <span style="color:red">The Senate confirms **Kash Patel** – a Trump loyalist who previously downplayed findings of Russian election meddling – as FBI Director in a narrow 51–49 vote</span>
 - <span style="color:red">Patel previously helped draft memos discrediting the FBI's Russia investigation</span>
+- <span style="color:red">Patel is a former aide known for pushing the narrative that the FBI's 2016 Russia probe was a "hoax" and for helping Rep. Devin Nunes draft the controversial 2018 memo that sought to discredit the FBI and Justice Department's handling of the Russia investigation</span>
+- <span style="color:red">His background is "overtly partisan" and he has "a long history of conspiracy theorizing," including efforts to "discredit" investigations into Russian election interference</span>
+- <span style="color:red">Civil rights and government watchdog groups uniformly opposed Patel's nomination, with one coalition warning that his confirmation would "cripple the FBI's impartiality" in matters of political corruption and foreign influence</span>
 - <span style="color:red">Trump's Treasury Secretary **Scott Bessent** publicly signals that **Russia could receive sanctions relief** if it cooperates in peace negotiations</span>
 - <span style="color:red">This remark – openly dangling an economic lifeline to Moscow – underscores the administration's willingness to **ease pressure on the Kremlin** as talks progress</span>
 
-\[Sources: [Timeline of Donald Trump's second presidency (2025 Q1) - Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_Donald_Trump%27s_second_presidency_(2025_Q1)#:~:text=former%20Georgia%20senator%2C%20to%20lead,the%20Senate%20despite%20deep%20Democratic)), [White House seeks plan for possible Russia sanctions relief, sources say | Reuters](https://www.reuters.com/world/white-house-seeks-plan-possible-russia-sanctions-relief-sources-say-2025-03-03/#:~:text=Treasury%20Secretary%20Scott%20Bessent%20said,at%20some%20point))\]
+\[Sources: [Timeline of Donald Trump's second presidency (2025 Q1) - Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_Donald_Trump%27s_second_presidency_(2025_Q1)#:~:text=former%20Georgia%20senator%2C%20to%20lead,the%20Senate%20despite%20deep%20Democratic)), [White House seeks plan for possible Russia sanctions relief, sources say | Reuters](https://www.reuters.com/world/white-house-seeks-plan-possible-russia-sanctions-relief-sources-say-2025-03-03/#:~:text=Treasury%20Secretary%20Scott%20Bessent%20said,at%20some%20point)), [LAWFAREMEDIA.ORG](https://www.lawfaremedia.org/), [CIVILRIGHTS.ORG](https://civilrights.org/)\]
 </details>
 
 <details>
@@ -124,13 +141,15 @@
 - <span style="color:red">On the third anniversary of Russia's full-scale invasion, French President Emmanuel **Macron** visits Washington to urge Trump not to abandon Ukraine</span>
 - <span style="color:red">In a joint press conference, Trump touts progress toward a peace deal and pointedly refers to European aid to Ukraine as essentially a **"loan"** that will be repaid – contrasting it with U.S. support</span>
 - <span style="color:red">That same day, the U.S. shocks allies by **voting against a U.N. resolution condemning Russia's invasion** of Ukraine, arguing that focus should shift to peace terms</span>
+- <span style="color:red">The U.S. also abstains on an amendment labeling Russia the aggressor. Allies are shocked by America's reversal; Russia praises the U.S. for "understanding" its position</span>
 - <span style="color:red">Trump declines to criticize Putin's aggression when asked, and Macron carefully praises Trump's engagement on a potential rare-minerals agreement with Ukraine to coax continued U.S. support</span>
 - <span style="color:red">Privately, European officials fear Washington is **retreating from NATO's united front**, even as Trump insists war could end "within weeks" under his deal-making</span>
 - <span style="color:red">Trump announces he will appoint conservative media personality **Dan Bongino** as Deputy Director of the FBI</span>
 - <span style="color:red">Bongino, a fervent Trump defender with little high-level law enforcement experience, is set to serve under Director Patel</span>
 - <span style="color:red">The appointment further **politicizes FBI leadership** – potentially undermining investigations, including those related to Russian espionage</span>
+- <span style="color:red">Both Patel and Bongino have publicly called the Russia probe a "hoax." Analysts expect U.S. vigilance toward Russian threats to diminish</span>
 
-\[Sources: [Trump and Macron meet in Washington as Europe pleads for continued help with Ukraine | WUNC](https://www.wunc.org/2025-02-24/trump-and-macron-meet-in-washington-as-europe-pleads-for-continued-help-for-ukraine#:~:text=The%20meetings%20were%20largely%20friendly,of%20Europe%27s%20support%20for%20Ukraine)), [Timeline of Donald Trump's second presidency (2025 Q1) - Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_Donald_Trump%27s_second_presidency_(2025_Q1)#:~:text=Washington%20as%20Europe%20pleads%20for,Reuters.%20February%2024%2C%202025))\]
+\[Sources: [Trump and Macron meet in Washington as Europe pleads for continued help with Ukraine | WUNC](https://www.wunc.org/2025-02-24/trump-and-macron-meet-in-washington-as-europe-pleads-for-continued-help-for-ukraine#:~:text=The%20meetings%20were%20largely%20friendly,of%20Europe%27s%20support%20for%20Ukraine)), [Timeline of Donald Trump's second presidency (2025 Q1) - Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_Donald_Trump%27s_second_presidency_(2025_Q1)#:~:text=Washington%20as%20Europe%20pleads%20for,Reuters.%20February%2024%2C%202025)), [TRIBUNEINDIA.COM](https://www.tribuneindia.com/)\]
 </details>
 
 <details>
@@ -143,8 +162,10 @@
 - <span style="color:red">The Ukrainian delegation is then asked to leave the White House</span>
 - <span style="color:red">This extraordinary **public humiliation of a wartime ally** leaves Zelenskyy empty-handed – and clearly signals a U.S. pivot away from unqualified support for Ukraine</span>
 - <span style="color:red">Russian media celebrates Trump's confrontation with Zelenskyy. Russian Foreign Minister Lavrov praises Trump's approach</span>
+- <span style="color:red">The meeting becomes heated; Trump accuses Zelenskyy of risking "World War Three" and abruptly orders him out, canceling a planned press conference</span>
+- <span style="color:red">European leaders reaffirm support for Ukraine; Russian media celebrates Trump's confrontation with Zelenskyy</span>
 
-\[Sources: [Trump and Vance attack Zelenskyy in remarkable Oval Office exchange - POLITICO](https://www.politico.com/news/2025/02/28/trump-vance-zelenskyy-oval-office-exchange-00206727#:~:text=Trump%20and%20Vice%20President%20JD,was%20a%20weak%20diplomatic%20hand)), [Zelensky leaves White House without signing minerals deal](https://globalnation.inquirer.net/265485/zelensky-leaves-white-house-without-signing-minerals-deal#:~:text=WASHINGTON%20%E2%80%94%20President%20Donald%20Trump,ending%20its%20war%20with%20Russia))\]
+\[Sources: [Trump and Vance attack Zelenskyy in remarkable Oval Office exchange - POLITICO](https://www.politico.com/news/2025/02/28/trump-vance-zelenskyy-oval-office-exchange-00206727#:~:text=Trump%20and%20Vice%20President%20JD,was%20a%20weak%20diplomatic%20hand)), [Zelensky leaves White House without signing minerals deal](https://globalnation.inquirer.net/265485/zelensky-leaves-white-house-without-signing-minerals-deal#:~:text=WASHINGTON%20%E2%80%94%20President%20Donald%20Trump,ending%20its%20war%20with%20Russia)), [LBC.CO.UK](https://www.lbc.co.uk/), [THEHOUR.COM](https://www.thehour.com/)\]
 </details>
 
 ### **Early March 2025: Suspension of Military Aid and Intelligence (March 1–7, 2025)**
@@ -158,8 +179,10 @@
 - <span style="color:red">At the same time – behind closed doors – Trump officials accelerate work on a proposal to **lift selected sanctions on Russia** as part of a potential peace package, including relief for certain Russian oligarchs and energy firms</span>
 - <span style="color:red">This secret sanctions-easing plan, revealed by Reuters on March 3, underscores the administration's *faux* hardline: even as Trump talks tough, he is prepared to **reward Moscow** to secure a deal</span>
 - <span style="color:red">Kremlin spokesman Dmitry Peskov welcomes the move as a "pragmatic approach," while NATO allies voice alarm</span>
+- <span style="color:red">On March 3, the White House orders a "pause" on deliveries of weapons and ammunition</span>
+- <span style="color:red">This reverses years of U.S. support. Kremlin spokesman Dmitry Peskov welcomes the move as a "pragmatic approach," while NATO allies voice alarm</span>
 
-\[Sources: [Trump halts military aid to Ukraine - POLITICO](https://www.politico.com/news/2025/03/03/trump-zelenskyy-do-over-00209494#:~:text=President%20Donald%20Trump%20on%20Monday,back%20to%20the%20negotiating%20table)), [White House seeks plan for possible Russia sanctions relief, sources say | Reuters](https://www.reuters.com/world/white-house-seeks-plan-possible-russia-sanctions-relief-sources-say-2025-03-03/#:~:text=The%20White%20House%20has%20asked,economic%20relations%2C%20the%20sources%20said))\]
+\[Sources: [Trump halts military aid to Ukraine - POLITICO](https://www.politico.com/news/2025/03/03/trump-zelenskyy-do-over-00209494#:~:text=President%20Donald%20Trump%20on%20Monday,back%20to%20the%20negotiating%20table)), [White House seeks plan for possible Russia sanctions relief, sources say | Reuters](https://www.reuters.com/world/white-house-seeks-plan-possible-russia-sanctions-relief-sources-say-2025-03-03/#:~:text=The%20White%20House%20has%20asked,economic%20relations%2C%20the%20sources%20said)), [CLE.ENS-LYON.FR](https://cle.ens-lyon.fr/), [POLITICO.EU](https://www.politico.eu/)\]
 </details>
 
 <details>
@@ -182,8 +205,10 @@
 - <span style="color:red">A senior Ukrainian official warns this will make it **more difficult to strike Russian forces**, though Ukraine could still rely on commercial satellite imagery</span>
 - <span style="color:red">This drastic step is part of Trump's pressure campaign to make Zelenskyy "serious about peace" after the Oval Office clash</span>
 - <span style="color:red">Western allies privately warn that such steps **strengthen Putin's hand** on the battlefield by blinding Ukraine</span>
+- <span style="color:red">British intelligence agencies have also been advised not to share U.S.-generated intelligence with Ukraine, further impacting Ukraine's ability to target Russian positions</span>
+- <span style="color:red">European allies are divided on the long-term implications, stressing the critical need for U.S. support in key areas such as long-range precision fires and air defense</span>
 
-\[Sources: [Trump administration pauses flow of intelligence to Ukraine](https://ny1.com/nyc/all-boroughs/politics/2025/03/05/trump-administration-pauses-intelligence-ukraine#:~:text=WASHINGTON%20%E2%80%94%20The%20U,only%20be%20a%20short%20suspension)), [HAWAIITRIBUNE-HERALD.COM](https://www.hawaiitribune-herald.com/2025/03/06/nation-world-news/news-in-brief-for-march-6/#:~:text=Trump%20administration%20pauses%20intelligence%20sharing,with%20Ukraine))\]
+\[Sources: [Trump administration pauses flow of intelligence to Ukraine](https://ny1.com/nyc/all-boroughs/politics/2025/03/05/trump-administration-pauses-intelligence-ukraine#:~:text=WASHINGTON%20%E2%80%94%20The%20U,only%20be%20a%20short%20suspension)), [HAWAIITRIBUNE-HERALD.COM](https://www.hawaiitribune-herald.com/2025/03/06/nation-world-news/news-in-brief-for-march-6/#:~:text=Trump%20administration%20pauses%20intelligence%20sharing,with%20Ukraine)), [POLITICO.COM](https://www.politico.com/)\]
 </details>
 
 <details>
@@ -196,20 +221,41 @@
 - <span style="color:red">Senate Majority Leader Chuck Schumer warns that Trump is giving Putin **"a free pass"** even as Russian hackers continue to target American infrastructure</span>
 - <span style="color:red">President Trump openly questions the United States' commitment to NATO, saying he wasn't sure the U.S. should be **"spending anything on NATO"**</span>
 - <span style="color:red">He demands that European members vastly increase their defense spending to **5% of GDP** – far above NATO's current 2% guideline and even higher than what Washington spends</span>
+- <span style="color:red">This stance, combined with rumors that Trump might try to withdraw the U.S. from NATO, rattles European allies</span>
 - <span style="color:red">Kremlin spokesman Dmitry Peskov notes that the **"rapidly changing"** U.S. foreign policy **"largely aligns with [Russia's] vision"**</span>
 
 \[Sources: [TELEGRAPH.CO.UK](https://www.telegraph.co.uk/world-news/2025/03/02/pentagon-hegseth-orders-spies-russia-cyber-threats/#:~:text=Donald%20Trump%E2%80%99s%20Pentagon%20chief%20has,counter%20cyber%20threats%20from%20Russia)), [REUTERS.COM](https://www.reuters.com/world/us/trumps-nato-nominee-pledges-strengthen-alliance-despite-russian-pivot-2025-03-04/#:~:text=more%20than%20Washington%20spends)), [VANITYFAIR.COM](https://www.vanityfair.com/news/story/kremlin-hails-trump-zelensky-vance-oval-office-clash#:~:text=%E2%80%9CThe%20new%20administration%20is%20rapidly,%E2%80%9D))\]
 </details>
 
 <details>
-<summary><strong>March 7, 2025 – Mixed Messages on Russia</strong></summary>
+<summary><strong>March 7, 2025 – Russian Attacks on Ukrainian Infrastructure and Trump's Mixed Messages</strong></summary>
 
-- <span style="color:red">In an apparent bid to counter critics who say he's been too soft on Moscow, Trump delivers an ambiguous mix of threats and ultimatums toward Russia.</span>
-- <span style="color:blue">He declares he is "**strongly considering**" imposing **sweeping new banking sanctions and tariffs** on Russia unless Putin agrees to a ceasefire and peace deal ([Trump says he is weighing big sanctions, tariffs on Russia to end Ukraine war | Reuters](https://www.reuters.com/world/trump-says-he-is-considering-putting-banking-sanctions-tariffs-russia-2025-03-07/#:~:text=March%207%20%28Reuters%29%20,agreement%20is%20reached%20with%20Ukraine)).</span>
-- <span style="color:blue">Trump notes that Russia is "absolutely pounding Ukraine" and warns both Moscow and Kyiv to "get to the table right now, before it is too late" ([Trump says he is weighing big sanctions, tariffs on Russia to end Ukraine war | Reuters](https://www.reuters.com/world/trump-says-he-is-considering-putting-banking-sanctions-tariffs-russia-2025-03-07/#:~:text=Trump%20has%20also%20paused%20military,Volodymyr%20Zelenskiy%20a%20week%20ago)).</span>
-- <span style="color:blue">However, analysts point out that many of these **sanctions threats mirror measures already in place** – and come after Trump has spent weeks undercutting Ukraine's defense by withholding aid.</span>
-- <span style="color:blue">A former NSC spokesman calls Trump's eleventh-hour hard line an "admission of naïveté," arguing that by **squeezing Ukraine** instead of Putin, Trump has made peace *less* attainable.</span>
-- <span style="color:blue">In effect, Trump's rhetoric on this day highlights the administration's pattern of **talking tough but acting in ways that benefit the Kremlin**.</span>
+- <span style="color:red">Russia launches extensive missile and drone attacks across Ukraine, targeting vital energy and gas infrastructure in their first major assault since the U.S. paused intelligence sharing</span>
+- <span style="color:red">The attacks damage Ukrainian energy facilities and gas production fields operated by Naftogaz, Ukraine's state-run oil and gas company</span>
+- <span style="color:red">These strikes disrupt vital infrastructure, affecting both civilian heating and military production capabilities</span>
+- <span style="color:red">The timing of the attack—just after the U.S. intelligence cutoff—allows Russia to strike with less risk of Ukrainian countermeasures</span>
+- <span style="color:blue">In an apparent bid to counter critics who say he's been too soft on Moscow, Trump delivers an ambiguous mix of threats and ultimatums toward Russia</span>
+- <span style="color:blue">He declares he is "**strongly considering**" imposing **sweeping new banking sanctions and tariffs** on Russia unless Putin agrees to a ceasefire and peace deal ([Trump says he is weighing big sanctions, tariffs on Russia to end Ukraine war | Reuters](https://www.reuters.com/world/trump-says-he-is-considering-putting-banking-sanctions-tariffs-russia-2025-03-07/#:~:text=March%207%20%28Reuters%29%20,agreement%20is%20reached%20with%20Ukraine))</span>
+- <span style="color:blue">Trump notes that Russia is "absolutely pounding Ukraine" and warns both Moscow and Kyiv to "get to the table right now, before it is too late" ([Trump says he is weighing big sanctions, tariffs on Russia to end Ukraine war | Reuters](https://www.reuters.com/world/trump-says-he-is-considering-putting-banking-sanctions-tariffs-russia-2025-03-07/#:~:text=Trump%20has%20also%20paused%20military,Volodymyr%20Zelenskiy%20a%20week%20ago))</span>
+- <span style="color:blue">However, analysts point out that many of these **sanctions threats mirror measures already in place** – and come after Trump has spent weeks undercutting Ukraine's defense by withholding aid</span>
+- <span style="color:red">President Trump expresses that Russian President Vladimir Putin desires peace and finds it easier to negotiate with Russia than Ukraine</span>
+- <span style="color:red">Trump suggests that Putin's intensified attacks on Ukraine are actions "anybody else would do" in such a situation</span>
+
+\[Sources: [REUTERS.COM](https://www.reuters.com/), [APNEWS.COM](https://apnews.com/), [THE GUARDIAN](https://www.theguardian.com/), [THE SUN](https://www.thesun.co.uk/), [THETIMES.CO.UK](https://www.thetimes.co.uk/)\]
+</details>
+
+<details>
+<summary><strong>March 8, 2025 – Deadly Russian Missile Strike and European Response</strong></summary>
+
+- <span style="color:red">At least 14 people are killed and 37 wounded, including five children, in Russian missile and drone attacks on Ukraine's eastern city of Dobropillia and a settlement in Kharkiv region overnight</span>
+- <span style="color:red">Reports suggest that Russian and North Korean forces are attempting to encircle Ukrainian troops in the Kursk region, potentially cutting off thousands of Ukrainian soldiers</span>
+- <span style="color:blue">European countries scramble to boost defense spending and maintain support for Ukraine following the U.S. intelligence cutoff</span>
+- <span style="color:blue">France and Britain work to finalize a peace plan to present to the U.S., while the Dutch government reserves 3.5 billion euros ($3.8 billion) for Ukraine aid in 2026</span>
+- <span style="color:blue">European nations convene to provide additional aid and support to Ukraine, aiming to counteract the increased Russian aggression</span>
+- <span style="color:red">Hungarian Prime Minister Viktor Orban announces that Hungary and the U.S. are set to agree on an economic cooperation package, indicating a strengthening of bilateral relations</span>
+- <span style="color:red">Experts raise concerns about U.S. support to maintain the UK's nuclear arsenal, indicating potential uncertainties in the longstanding defense partnership</span>
+
+\[Sources: [REUTERS.COM](https://www.reuters.com/), [THE GUARDIAN](https://www.theguardian.com/), [THETIMES.CO.UK](https://www.thetimes.co.uk/)\]
 </details>
 
 ## **Key Actions Favoring Russian Interests – Fact Check & Context**
@@ -237,80 +283,135 @@
 </details>
 
 <details>
-<summary><strong>3. Cybersecurity Compromises</strong></summary>
+<summary><strong>3. Installing a 19-Year-Old with Cybercriminal Ties at CISA</strong></summary>
 
 - <span style="color:red">A 19-year-old operative with ties to Russian hacking gangs was placed in a key role at the Cybersecurity and Infrastructure Security Agency (CISA)</span>
 - <span style="color:red">Edward "Eddie" Coristine joined CISA through a "Department of Government Efficiency" (DOGE) team led by Trump ally Elon Musk</span>
+- <span style="color:red">Coristine was associated with "The Com," a forum for cybercriminal hackers, and ran Russian-registered domains for DDoS services</span>
 - <span style="color:red">Despite lacking a normal security clearance, he was given administrative access at CISA, and over 130 career cybersecurity staff were fired</span>
-- <span style="color:red">Defense Secretary Pete Hegseth ordered a halt to offensive U.S. cyber operations against Russia</span>
-- <span style="color:red">This includes ceasing cyber efforts to disrupt Russian hacking, espionage, and propaganda networks</span>
+- <span style="color:red">Experts called it a "national security risk" and a boon for Russian cyber operations</span>
 
-\[Sources: [KREBSONSECURITY.COM](https://krebsonsecurity.com/), [TELEGRAPH.CO.UK](https://www.telegraph.co.uk/world-news/2025/03/02/pentagon-hegseth-orders-spies-russia-cyber-threats/#:~:text=Donald%20Trump%E2%80%99s%20Pentagon%20chief%20has,counter%20cyber%20threats%20from%20Russia))\]
+\[Source: [KREBSONSECURITY.COM](https://krebsonsecurity.com/)\]
 </details>
 
 <details>
-<summary><strong>4. Intelligence Community Purges</strong></summary>
+<summary><strong>4. Purging the CIA and Exposing Identities</strong></summary>
 
-- <span style="color:red">New CIA Director John Ratcliffe sent an unclassified email listing CIA employees to the White House, exposing covert personnel</span>
-- <span style="color:red">This was part of a plan to fire large numbers of intelligence staff deemed "disloyal"</span>
+- <span style="color:red">New CIA Director John Ratcliffe sent an unclassified email listing CIA employees to the White House, part of a plan to fire large numbers of intel staff—exposing covert personnel</span>
+- <span style="color:red">Lawmakers like Sen. Mark Warner warned it was a "disastrous security development," a gift to foreign adversaries like Russia</span>
+- <span style="color:red">Trump aimed to remove "disloyal" employees en masse, the biggest CIA turnover in nearly 50 years</span>
+- <span style="color:red">This severely weakened U.S. intelligence capacity to monitor Russian threats</span>
+
+\[Source: [NEWREPUBLIC.COM](https://newrepublic.com/)\]
+</details>
+
+<details>
+<summary><strong>5. Bypassing Security Clearance Checks</strong></summary>
+
 - <span style="color:red">Trump signed a memo allowing immediate interim Top Secret/SCI clearances without the usual background checks</span>
 - <span style="color:red">Senate Intelligence Committee members were "in the dark" on who received clearances</span>
-- <span style="color:red">Lawmakers like Sen. Mark Warner warned it was a "disastrous security development," a gift to foreign adversaries like Russia</span>
+- <span style="color:red">Experts called this a major national security risk: foreign agents could slip through standard vetting</span>
+- <span style="color:red">Russia stands to benefit if compromised individuals gain unfiltered access to U.S. secrets</span>
 
-\[Sources: [NEWREPUBLIC.COM](https://newrepublic.com/), [NOTUS.ORG](https://www.notus.org/)\]
+\[Source: [NOTUS.ORG](https://www.notus.org/)\]
 </details>
 
 <details>
-<details>
-<summary><strong>5. Shutting Down USAID</strong></summary>
-
-- <span style="color:red">The administration moved to dissolve USAID as an independent agency, placing its staff on leave and folding its functions into the State Department</span>
-- <span style="color:red">Russia's Foreign Ministry praised the move, calling USAID a "machine for interfering" in internal affairs</span>
-- <span style="color:red">USAID has historically countered Russian influence by funding pro-democracy and humanitarian work</span>
-- <span style="color:red">Dismantling it directly helps Moscow fill that vacuum</span>
-
-\[Sources: [THEMOSCOWTIMES.COM](https://www.themoscowtimes.com/)\]
-</details>
-
-<details>
-<summary><strong>6. Ukraine Support Dismantled</strong></summary>
+<summary><strong>6. Halting Support for Ukraine's Electric Grid</strong></summary>
 
 - <span style="color:red">The administration cut off U.S. assistance that helped Ukraine maintain its power grid amid Russia's bombing of energy infrastructure</span>
 - <span style="color:red">This program provided transformers, generators, and technical support. Once halted, Ukraine's civilian population faced greater risk of power outages, exactly Russia's goal</span>
-- <span style="color:red">Trump suspended all U.S. military aid to Ukraine indefinitely</span>
-- <span style="color:red">The U.S. paused the flow of intelligence to Ukraine that has been crucial on the battlefield</span>
-- <span style="color:red">Defense Secretary Pete Hegseth declared it "unrealistic" for Ukraine to reclaim all its lost territory, effectively endorsing permanent Russian occupation</span>
-- <span style="color:red">Hegseth also stated that Ukraine joining NATO was not a "realistic outcome." This directly aligns with Putin's demand that Ukraine be blocked from NATO</span>
+- <span style="color:red">Observers called it "another gift to Moscow," as the bombing of the grid is a key Russian tactic</span>
 
-\[Sources: [KYIVINDEPENDENT.COM](https://kyivindependent.com/), [REUTERS.COM](https://www.reuters.com/), [Trump halts military aid to Ukraine - POLITICO](https://www.politico.com/news/2025/03/03/trump-zelenskyy-do-over-00209494#:~:text=President%20Donald%20Trump%20on%20Monday,back%20to%20the%20negotiating%20table))\]
+\[Source: [KYIVINDEPENDENT.COM](https://kyivindependent.com/)\]
 </details>
 
 <details>
-<summary><strong>7. NATO and International Relations</strong></summary>
+<summary><strong>7. Accepting Russian Territorial Gains</strong></summary>
+
+- <span style="color:red">Defense Secretary Pete Hegseth declared it "unrealistic" for Ukraine to reclaim all its lost territory, effectively endorsing permanent Russian occupation</span>
+- <span style="color:red">Hegseth also stated that Ukraine joining NATO was not a "realistic outcome." This directly aligns with Putin's demand that Ukraine be blocked from NATO</span>
+- <span style="color:red">European allies were alarmed; Russia welcomed the stance as validating its war aims</span>
+
+\[Source: [REUTERS.COM](https://www.reuters.com/)\]
+</details>
+
+<details>
+<summary><strong>8. Floating a U.S. Exit from NATO</strong></summary>
 
 - <span style="color:red">Pro-Trump Republican lawmakers, e.g. Sen. Mike Lee, publicly suggested the U.S. should leave NATO ("AmerExit")</span>
 - <span style="color:red">Elon Musk signaled agreement on social media</span>
-- <span style="color:red">Trump said "Russia should rejoin" the G7, reversing its 2014 expulsion over the invasion of Crimea</span>
-- <span style="color:red">No mention was made of requiring Russia to withdraw from occupied Ukrainian territory</span>
-- <span style="color:red">Trump openly questioned U.S. commitment to NATO, saying he wasn't sure the U.S. should be "spending anything on NATO"</span>
-- <span style="color:red">He demanded European members increase defense spending to 5% of GDP, far above NATO's current 2% guideline</span>
-- <span style="color:red">The U.S. voted against a U.N. resolution condemning Russia's invasion of Ukraine</span>
-- <span style="color:red">Kremlin spokesman Dmitry Peskov noted that the "rapidly changing" U.S. foreign policy "largely aligns with [Russia's] vision"</span>
+- <span style="color:red">Though Trump hasn't formally announced withdrawing, he historically threatened it, and in 2025 the rhetoric is louder than ever</span>
+- <span style="color:red">A U.S. exit would effectively collapse NATO—a top strategic goal for Putin</span>
 
-\[Sources: [FOXNEWS.COM](https://www.foxnews.com/), [POLITICO.COM](https://www.politico.com/), [VANITYFAIR.COM](https://www.vanityfair.com/news/story/kremlin-hails-trump-zelensky-vance-oval-office-clash#:~:text=%E2%80%9CThe%20new%20administration%20is%20rapidly,%E2%80%9D)), [REUTERS.COM](https://www.reuters.com/world/us/trumps-nato-nominee-pledges-strengthen-alliance-despite-russian-pivot-2025-03-04/#:~:text=more%20than%20Washington%20spends))\]
+\[Source: [FOXNEWS.COM](https://www.foxnews.com/)\]
 </details>
 
 <details>
-<summary><strong>8. Direct Engagement with Putin</strong></summary>
+<summary><strong>9. Welcoming Russia Back into the G7</strong></summary>
 
-- <span style="color:red">After a February 12 phone call, Trump stated he would "probably meet [Putin] in Saudi Arabia" soon, bypassing Ukraine</span>
+- <span style="color:red">On Feb. 13, 2025, Trump said "Russia should rejoin" the G7, reversing its 2014 expulsion over the invasion of Crimea</span>
+- <span style="color:red">No mention was made of requiring Russia to withdraw from occupied Ukrainian territory</span>
+- <span style="color:red">Allies are opposed, but Trump insists excluding Russia was "a mistake"</span>
+
+\[Source: [POLITICO.COM](https://www.politico.com/)\]
+</details>
+
+<details>
+<summary><strong>10. Planning a One-on-One Summit with Putin</strong></summary>
+
+- <span style="color:red">After a Feb. 12 phone call, Trump stated he would "probably meet [Putin] in Saudi Arabia" soon, bypassing Ukraine</span>
+- <span style="color:red">Critics fear a direct summit could yield a peace deal heavily favoring Russia's demands without Ukrainian input</span>
+
+\[Source: [POLITICO.COM](https://www.politico.com/)\]
+</details>
+
+<details>
+<summary><strong>11. Back-Channel Envoy to Putin</strong></summary>
+
 - <span style="color:red">Trump associate Steve Witkoff held a lengthy meeting with Putin in mid-February 2025</span>
 - <span style="color:red">Upon return, Witkoff publicly claimed Russia was "provoked" into the war, echoing Kremlin talking points</span>
 - <span style="color:red">When asked what concessions Russia would make, Witkoff could not name any. He focused on Ukraine's "concessions," such as ceding territory or resources</span>
-- <span style="color:red">Trump officials accelerated work on a proposal to lift selected sanctions on Russia as part of a potential peace package</span>
 - <span style="color:red">This suggests a U.S. negotiating approach largely capitulating to Russian interests, further undercutting Ukraine's position</span>
 
-\[Sources: [POLITICO.COM](https://www.politico.com/), [LEMMY.WORLD](https://lemmy.world/), [White House seeks plan for possible Russia sanctions relief, sources say | Reuters](https://www.reuters.com/world/white-house-seeks-plan-possible-russia-sanctions-relief-sources-say-2025-03-03/#:~:text=The%20White%20House%20has%20asked,economic%20relations%2C%20the%20sources%20said))\]
+\[Sources: [POLITICO.COM](https://www.politico.com/), [LEMMY.WORLD](https://lemmy.world/)\]
+</details>
+
+<details>
+<summary><strong>12. Cyber Defense Halt</strong></summary>
+
+- <span style="color:red">Defense Secretary Pete Hegseth ordered a halt to offensive U.S. cyber operations against Russia</span>
+- <span style="color:red">This includes ceasing cyber efforts to disrupt Russian hacking, espionage, and propaganda networks</span>
+- <span style="color:red">Cyber Command units are instructed to pause initiatives that disrupt Russian influence campaigns targeting U.S. elections and society</span>
+- <span style="color:red">Senate Majority Leader Chuck Schumer warns that Trump is giving Putin "a free pass" even as Russian hackers continue to target American infrastructure</span>
+
+\[Source: [TELEGRAPH.CO.UK](https://www.telegraph.co.uk/world-news/2025/03/02/pentagon-hegseth-orders-spies-russia-cyber-threats/#:~:text=Donald%20Trump%E2%80%99s%20Pentagon%20chief%20has,counter%20cyber%20threats%20from%20Russia))\]
+</details>
+
+<details>
+<summary><strong>13. Intelligence Cutoff and Subsequent Russian Attacks</strong></summary>
+
+- <span style="color:red">The Trump administration suspended intelligence sharing with Ukraine, cutting off critical information about Russian troop movements and potential attacks</span>
+- <span style="color:red">British intelligence agencies were also advised not to share U.S.-generated intelligence with Ukraine, further isolating Ukrainian forces</span>
+- <span style="color:red">Within 48 hours of the intelligence cutoff, Russia launched extensive missile and drone attacks on Ukrainian energy infrastructure</span>
+- <span style="color:red">These attacks damaged critical civilian infrastructure including gas production facilities operated by Naftogaz</span>
+- <span style="color:red">On March 8, Russian forces killed at least 14 people including 5 children in missile strikes on Dobropillia and Kharkiv region</span>
+- <span style="color:red">President Trump publicly justified Putin's intensified attacks, stating they were actions "anybody else would do" in such a situation</span>
+- <span style="color:red">The timing of these attacks demonstrates how Russia immediately exploited the intelligence vacuum created by the U.S. cutoff</span>
+
+\[Sources: [POLITICO.COM](https://www.politico.com/), [REUTERS.COM](https://www.reuters.com/), [THE GUARDIAN](https://www.theguardian.com/), [THE SUN](https://www.thesun.co.uk/)\]
+</details>
+
+<details>
+<summary><strong>14. Strengthening Ties with Pro-Russian European Leaders</strong></summary>
+
+- <span style="color:red">As European allies scrambled to support Ukraine following the U.S. withdrawal of support, the Trump administration moved to strengthen ties with Hungary's Viktor Orban</span>
+- <span style="color:red">Hungarian Prime Minister Orban announced that Hungary and the U.S. were set to agree on an economic cooperation package</span>
+- <span style="color:red">Orban has been widely criticized for his close relationship with Putin and for blocking or delaying EU aid to Ukraine</span>
+- <span style="color:red">This U.S.-Hungary agreement signals Trump's preference for working with Putin-friendly European leaders over traditional NATO allies</span>
+- <span style="color:red">The timing of this cooperation—during a period when other European nations were working to counter Russian aggression—further undermines Western unity</span>
+
+\[Sources: [REUTERS.COM](https://www.reuters.com/), [THE GUARDIAN](https://www.theguardian.com/)\]
 </details>
 
 ## **Conclusion**
