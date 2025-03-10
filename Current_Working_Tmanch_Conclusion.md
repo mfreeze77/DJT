@@ -197,7 +197,7 @@ In conclusion, **the evidence compellingly points to Trump behaving – wittingl
 
 Every warning sign on this checklist applies to Donald Trump. Taken together, they reveal a deeply troubling pattern: a U.S. President whose words, deeds, and policies have aligned—again and again—with Russian interests. If every clue points in the same direction, what are we afraid to admit, or even ask? The label Manchurian Candidate may seem provocative, but history reminds us that the most dangerous betrayals are often dismissed as unthinkable—until they are not.
 
-History may not repeat itself, but it rhymes. And in this moment, the music is deafening. The only question left is whether we will continue to hum along—or change the tune?
+History may not repeat itself, but it rhymes. And in this moment, the music is deafening. The only question left is whether we will continue to hum along—or change the tune.
 
 **Sources:**
 
