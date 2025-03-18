@@ -1,8 +1,7 @@
-# **MASTER LIST: Trump Administration Actions & Fact-Check (Jan 20 – Mar 8, 2025)**
+# **MASTER LIST: Trump Administration Actions & Fact-Check (Jan 20 – Mar 88, 2025)**
 
-## **Timeline of Trump Administration Actions Aligning with Russian Interests**
+## **Timeline of Trump Administration Actions Aligning with Russian Interests Vs American Interests**
 
-### **Inauguration and Immediate Policy Shifts (January 20–31, 2025)**
 
 <details>
 <summary><strong>January 20, 2025 – Inauguration</strong></summary>
@@ -258,6 +257,108 @@
 \[Sources: [REUTERS.COM](https://www.reuters.com/), [THE GUARDIAN](https://www.theguardian.com/), [THETIMES.CO.UK](https://www.thetimes.co.uk/)\]
 </details>
 
+
+### **Mid-March 2025: Ceasefire Negotiations and Limited Agreement (March 8-18, 2025)**
+
+<details>
+<summary><strong>March 8-10, 2025 – Intelligence Cutoff Expands and Russian Attacks Intensify</strong></summary>
+
+- <span style="color:red">The Trump administration's pause on support to Ukraine extends further: the U.S. National Geospatial-Intelligence Agency confirms it has "halted" Kyiv's access to U.S.-procured satellite imagery</span>
+- <span style="color:red">Commercial provider Maxar likewise suspends Ukraine's access to satellite imagery at Washington's request</span>
+- <span style="color:red">This move effectively cuts off a key source of battlefield intelligence for Ukraine, leaving it more vulnerable to Russian attacks</span>
+- <span style="color:red">Russia exploits this intelligence vacuum by launching more aggressive operations, particularly in the Kursk region</span>
+- <span style="color:red">Trump continues to justify Putin's actions, stating that the Russian attacks are what "anybody in that position would be doing"</span>
+
+\[Source: [Russia attacks Ukraine's energy supplies as US cuts its access to satellite images - WNYT.com NewsChannel 13](https://wnyt.com/us-news/russia-attacks-ukraines-energy-supplies-as-us-cuts-its-access-to-satellite-images/#:~:text=The%20U,it%20fight%20back%20against%20Russia))\]
+</details>
+
+<details>
+<summary><strong>March 11, 2025 – Saudi Arabia Meeting and Ceasefire Proposal</strong></summary>
+
+- <span style="color:blue">American and Ukrainian officials meet in Jeddah, Saudi Arabia and reach a breakthrough after days of tense diplomacy</span>
+- <span style="color:blue">The U.S. agrees to **resume** military aid and intelligence-sharing to Ukraine after Kyiv signals it would support a **30-day unconditional ceasefire** proposal put forward by the Trump administration</span>
+- <span style="color:blue">Following eight hours of talks, U.S. Secretary of State Marco Rubio announces that the deal would be taken to Moscow, saying "the ball is in Moscow's court"</span>
+- <span style="color:blue">Rubio expresses hope that Russia would quickly accept so that "real negotiations" on ending the war could begin</span>
+- <span style="color:red">Washington and Kyiv also pledge to swiftly finalize a delayed agreement on developing Ukraine's critical mineral resources, highlighting Trump's continued focus on extracting economic concessions from Ukraine</span>
+- <span style="color:red">The meeting represents a partial reconciliation after the acrimonious Trump–Zelenskyy Oval Office clash, but only after Ukraine agreed to Trump's ceasefire terms</span>
+
+\[Source: [US to resume security support to Ukraine as Kyiv says it is ready to accept ceasefire proposal | Reuters](https://www.reuters.com/world/us-ukraine-meet-saudi-arabia-after-disastrous-white-house-talks-2025-03-11/#:~:text=JEDDAH%2C%20March%2011%20%28Reuters%29%20,said%20in%20a%20joint%20statement))\]
+</details>
+
+<details>
+<summary><strong>March 13, 2025 – Putin's Response to Ceasefire Initiative</strong></summary>
+
+- <span style="color:red">The Kremlin responds cautiously to the ceasefire initiative, with President Vladimir Putin saying he **supports** the idea of a truce "in principle"</span>
+- <span style="color:red">Putin insists that fighting could not pause until it resulted in a **"long-term peace"** that addressed Russia's core demands</span>
+- <span style="color:red">Putin outlines stringent conditions – including Ukraine's neutrality (no NATO membership), recognition of Russian control over occupied territories, limits on Ukraine's military capabilities, and relief from Western sanctions</span>
+- <span style="color:red">He also demands Kyiv hold new elections despite the ongoing war, a condition widely seen as an attempt to install pro-Russian leadership</span>
+- <span style="color:red">President Trump welcomes Putin's remarks as "very promising," expressing hope that Moscow would "do the right thing"</span>
+- <span style="color:red">Trump reveals that his envoy, **Steve Witkoff**, had met with Russian officials in Moscow that day to advance the U.S. proposal</span>
+- <span style="color:red">Ukrainian President Zelenskyy voices skepticism, suggesting Putin's added conditions were meant to **stall** any agreement</span>
+- <span style="color:red">European allies grow anxious that Trump might strike a grand **bargain** with Putin at **Europe's expense** given the sweeping nature of the talks</span>
+
+\[Source: [Putin suggests US ceasefire idea for Ukraine needs serious reworking | Reuters](https://www.reuters.com/world/europe/russia-close-ejecting-ukrainian-forces-kursk-kremlin-says-2025-03-13/#:~:text=,and%20we%20certainly%20support%20it))\]
+</details>
+
+<details>
+<summary><strong>March 14, 2025 – G7 Statement on Ceasefire</strong></summary>
+
+- <span style="color:blue">In a show of transatlantic unity, the **Group of Seven (G7)** foreign ministers issue a stern joint statement urging Russia to join the 30-day ceasefire "on equal terms" with Ukraine</span>
+- <span style="color:blue">Meeting in Canada, the G7 warns that Moscow must reciprocate Kyiv's commitment or face **additional sanctions**</span>
+- <span style="color:blue">The statement emphasizes that any truce must come with "robust and credible" security arrangements to prevent Russia from simply regrouping for new attacks</span>
+- <span style="color:blue">This coordinated response underscores U.S. allies' support for a negotiated pause in fighting, but also their resolve to hold Russia accountable if it exploits the ceasefire in bad faith</span>
+- <span style="color:red">Despite this show of unity, European diplomats privately express concern that Trump might undermine the G7 position by making separate concessions to Putin</span>
+
+\[Source: [G7 warn Russia of new sanctions if no ceasefire agreed | Reuters](https://www.reuters.com/world/europe/urgent-g7-warn-russia-new-sanctions-if-no-ceasefire-agreed-2025-03-14/#:~:text=LA%20MALBAIE%2C%20Canada%2C%20March%2014,to%20a%20final%20draft%20statement))\]
+</details>
+
+<details>
+<summary><strong>March 16-17, 2025 – Trump's Preparations for Putin Call</strong></summary>
+
+- <span style="color:red">President Trump confirms that he will speak with Putin on March 18, signaling optimism that a deal is within reach</span>
+- <span style="color:red">Flying home from a weekend trip, Trump tells reporters that "a lot of work's been done" and hints that negotiators are already discussing sensitive issues like **"land"** and **"power plants"** as part of a potential settlement</span>
+- <span style="color:red">This confirms fears that Trump is willing to consider territorial concessions and control of critical infrastructure like the Zaporizhzhia nuclear plant as bargaining chips</span>
+- <span style="color:red">U.S. envoy Steve **Witkoff**, fresh off a meeting with Putin, describes progress in talks, saying the Russian and Ukrainian sides are "a lot closer" to agreement</span>
+- <span style="color:red">Witkoff notes that implementing a ceasefire would be complex, touching on contested territorial lines, control of critical infrastructure, and access to ports</span>
+- <span style="color:red">On March 17, the Kremlin **confirms** that Putin will speak with Trump the next day, highlighting the whirlwind of diplomacy underway</span>
+- <span style="color:red">Both Washington and Moscow publicly set expectations that the high-stakes conversation could bring a tangible step toward peace in Ukraine</span>
+- <span style="color:red">Notably absent from these preparations is any significant consultation with Ukraine or European allies about the specific terms being discussed</span>
+
+\[Sources: [Russia Analytical Report, March 10-17, 2025 | Russia Matters](https://www.russiamatters.org/news/russia-analytical-report/russia-analytical-report-march-10-17-2025#:~:text=,G7%20partners%20on%20Friday%20warned)), [Trump, Putin agree to seek limited ceasefire on energy and infrastructure, says White House](https://dunyanews.tv/index.php/en/World/874125#:~:text=Earlier%2C%20the%20Kremlin%20has%20confirmed,end%20the%20conflict%20in%20Ukraine))\]
+</details>
+
+<details>
+<summary><strong>March 18, 2025 – Trump-Putin Phone Call and Limited Ceasefire Agreement</strong></summary>
+
+- <span style="color:red">President Trump and President Putin hold a much-anticipated phone call, culminating in a preliminary **ceasefire understanding**</span>
+- <span style="color:red">According to the White House, the two leaders **agree to seek a limited ceasefire** halting attacks on energy and critical infrastructure targets, framing it as the first step in a "movement to peace"</span>
+- <span style="color:red">They direct negotiators to immediately begin work on expanding this truce – including talks on a potential **maritime ceasefire** in the Black Sea</span>
+- <span style="color:red">The ultimate goal is described as achieving a full and lasting end to the fighting, though the terms remain vague</span>
+- <span style="color:red">Crucially, Putin stops short of a full battlefield ceasefire, continuing offensive operations on the ground while only agreeing to pause strikes on energy infrastructure</span>
+- <span style="color:red">As Reuters analysis notes, **Moscow's half-measure "reflected Trump's desire to normalize relations… and suggests that Putin may be playing for time"**</span>
+- <span style="color:red">Trump casts himself as a broker of mutual desire for peace, writing that "Many elements of a Contract for Peace were discussed, including the fact that thousands of soldiers are being killed"</span>
+- <span style="color:red">It is not immediately clear whether **Ukraine** is on board with this limited ceasefire arrangement at the time of the call</span>
+- <span style="color:blue">The announcement draws cautious hope from some, who see it as the first step toward ending the devastating conflict</span>
+- <span style="color:blue">However, U.S. partners and Ukrainian officials await details to ensure that any pause would truly serve as a stepping stone to a durable peace, not a concession to aggression</span>
+
+\[Sources: [Trump, Putin agree to seek limited ceasefire on energy and infrastructure, says White House](https://dunyanews.tv/index.php/en/World/874125#:~:text=NEW%20YORK%20%28AP%29%20,according%20to%20the%20White%20House)), [Putin agrees to 30-day halt on energy facility strikes but no full ceasefire | Reuters](https://www.reuters.com/world/europe/trump-hold-call-with-putin-test-deal-making-strength-2025-03-18/#:~:text=U))\]
+</details>
+
+<details>
+<summary><strong>March 18, 2025 – Baltic States' Response to U.S.-Russia Rapprochement</strong></summary>
+
+- <span style="color:blue">On the same day as the Trump-Putin call, Poland, Lithuania, Latvia, and Estonia jointly announce plans to **withdraw from a treaty banning landmines**</span>
+- <span style="color:red">The Baltic states cite the *"significantly increased"* military threat from Russia as justification for this dramatic step</span>
+- <span style="color:blue">Their defense ministers declare: *"With this decision, we are sending a clear message: Our countries are prepared and can use every necessary measure to defend our territory"*</span>
+- <span style="color:blue">These frontline states explicitly warn that the **"rapprochement between Russia and the US threatens their security, as well as that of Ukraine"**</span>
+- <span style="color:blue">This unprecedented move signals that NATO's eastern flank is taking independent defensive measures, no longer fully trusting U.S. security guarantees</span>
+- <span style="color:blue">European Commission President Ursula von der Leyen issues a stark warning that **Russia is rearming for "future confrontation with European democracies"**</span>
+- <span style="color:blue">Germany's Chancellor Olaf Scholz cautiously welcomes the limited pause as *"an important first step"* but **insists it must be expanded** to a complete ceasefire</span>
+- <span style="color:blue">Scholz stresses that *"Ukraine must be part of any final decision"* on peace terms, reflecting European concerns about being sidelined</span>
+
+\[Sources: [Poland and Baltic states to dump landmine treaty citing Russian threat | News | Al Jazeera](https://www.aljazeera.com/news/2025/3/18/poland-and-baltic-states-to-dump-landmine-treaty-citing-russian-threat#:~:text=%E2%80%9Cfundamentally%20deteriorated%E2%80%9D%20since%20the%20treaty,the%20United%20States%20signed%20up)), [Putin agrees to 30-day halt on energy facility strikes but no full ceasefire | Reuters](https://www.reuters.com/world/europe/trump-hold-call-with-putin-test-deal-making-strength-2025-03-18/#:~:text=Speaking%20at%20a%20press%20conference,part%20of%20any%20final%20decision))\]
+</details>
+
 ## **Key Actions Favoring Russian Interests – Fact Check & Context**
 
 <details>
@@ -437,6 +538,8 @@ While the administration occasionally uses tough rhetoric regarding Russia, part
 <span style="color:red">
 Each of these developments has been welcomed by Moscow while causing alarm among Western allies. While framed as "peace-seeking" or "America First" policies, these actions have consistently weakened Ukraine's position while strengthening Russia's hand both on the battlefield and at the negotiating table.
 </span>
+
+
 
 ### **Sources**
 
