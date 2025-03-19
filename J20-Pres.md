@@ -1,4 +1,4 @@
-# **MASTER LIST: Trump Administration Actions & Fact-Check (Jan 20 – Mar 88, 2025)**
+# **MASTER LIST: Trump Administration Actions & Fact-Check (Jan 20 – Mar 8, 2025)**
 
 ## **Timeline of Trump Administration Actions Aligning with Russian Interests Vs American Interests**
 
