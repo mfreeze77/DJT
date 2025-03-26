@@ -1,0 +1,462 @@
+{
+  "events": [
+    {
+      "id": "event-061",
+      "date": "2007-04-01",
+      "startDate": "2007-04-01",
+      "endDate": "2007-04-01",
+      "title": "Vornado acquires majority stake in Trump's office towers",
+      "description": "Vornado Realty Trust acquires 70% stake in the entity owning 1290 Avenue of the Americas (NYC) and 555 California Street (San Francisco) for $1.78 billion, making Trump an unlikely minority partner. Trump had previously tried to block the sale but lost that case.",
+      "categories": ["business", "financial"],
+      "importance": 7,
+      "moneyFlow": {
+        "amount": 534000000,
+        "direction": "to-trump",
+        "isDirectFlow": false,
+        "entities": ["entity-001", "entity-042"]
+      },
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-042"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_205-208.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-062",
+      "date": "2007-05-22",
+      "startDate": "2007-05-22",
+      "endDate": "2007-05-22",
+      "title": "FL Group invests $50 million in Bayrock for Trump projects",
+      "description": "Icelandic investment fund FL Group invests $50 million with Bayrock Group for profit participation in Trump-branded projects including Trump SoHo and Fort Lauderdale. The joint venture was intended for worldwide real estate opportunities.",
+      "categories": ["business", "financial"],
+      "importance": 8,
+      "moneyFlow": {
+        "amount": 50000000,
+        "direction": "to-bayrock",
+        "isDirectFlow": false,
+        "entities": ["entity-043", "entity-044"]
+      },
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-043", "entity-044"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_205-208.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "Investment of $50m in US-based real estate development",
+          "url": "https://www.globenewswire.com/news-release/2007/05/22/96900/0/en/Investment-of-50m-in-US-based-real-estate-development-projects.html",
+          "documentType": "press release",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-063",
+      "date": "2007-07-15",
+      "startDate": "2007-07-15",
+      "endDate": "2007-07-15",
+      "title": "Trump announces Cap Cana Dominican Republic resort project",
+      "description": "Trump partners with Dominican developers (the Hazoury family) to plan a $2 billion resort at Cap Cana, DR, featuring Trump Farallón Estates luxury homes. Trump would brand and market the project for an equity stake or royalty.",
+      "categories": ["business"],
+      "importance": 6,
+      "moneyFlow": {
+        "amount": 20000000,
+        "direction": "to-trump",
+        "isDirectFlow": true,
+        "entities": ["entity-001", "entity-045"]
+      },
+      "location": {
+        "country": "Dominican Republic",
+        "city": "Cap Cana",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-045"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_205-208.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "Associated Press: Meet the $2 Billion \"TRUMP at CAP CANA\"",
+          "url": "https://dr1.com/forums/threads/associated-press-meet-the-2-billion-trump-at-cap-cana.53573/",
+          "documentType": "forum post",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-064",
+      "date": "2007-09-01",
+      "startDate": "2007-09-01",
+      "endDate": "2007-09-01",
+      "title": "Trump SoHo nears completion in Manhattan",
+      "description": "The 46-story Trump SoHo condo-hotel project, a joint venture between Trump Organization, Bayrock Group, and Sapir Organization, approaches topping out. Trump contributed his brand for an 18% equity stake without directly financing construction.",
+      "categories": ["business"],
+      "importance": 7,
+      "moneyFlow": {
+        "amount": 25000000,
+        "direction": "to-trump",
+        "isDirectFlow": false,
+        "entities": ["entity-001", "entity-044", "entity-046"]
+      },
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-044", "entity-046"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_205-208.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "Bayrock Group - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bayrock_Group",
+          "documentType": "online encyclopedia",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": ["event-062"],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-065",
+      "date": "2007-11-01",
+      "startDate": "2007-11-01",
+      "endDate": "2007-11-01",
+      "title": "Trump International Hotel & Tower Toronto announced",
+      "description": "Trump announces the Toronto hotel-condo skyscraper in partnership with Russian-Canadian billionaire Alex Shnaider. Shnaider's Talon International would handle financing and construction while Trump's role was licensing and managing.",
+      "categories": ["business"],
+      "importance": 6,
+      "moneyFlow": {
+        "amount": 15000000,
+        "direction": "to-trump",
+        "isDirectFlow": true,
+        "entities": ["entity-001", "entity-047"]
+      },
+      "location": {
+        "country": "Canada",
+        "city": "Toronto",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-047"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_205-208.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    }
+  ],
+  "entities": {
+    "entity-001": {
+      "id": "entity-001",
+      "name": "Donald J. Trump",
+      "aliases": ["Donald John Trump", "DJT"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "American",
+      "description": "Real estate developer, businessman, and television personality. In 2007, expanded his brand globally and formed new partnerships to finance ambitious projects across multiple countries.",
+      "roles": ["developer", "businessman", "television personality"],
+      "affiliation": [],
+      "significance": 10,
+      "firstAppearance": "1977-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-042": {
+      "id": "entity-042",
+      "name": "Vornado Realty Trust",
+      "aliases": ["Vornado"],
+      "type": "organization",
+      "subtype": "real estate investment trust",
+      "nationality": "American",
+      "description": "One of America's largest commercial real estate companies. In 2007, acquired a 70% stake in properties where Trump held a minority interest, effectively inheriting Trump as a partner in prime office buildings.",
+      "roles": ["property owner", "real estate investor"],
+      "affiliation": [],
+      "significance": 6,
+      "firstAppearance": "2007-04-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-043": {
+      "id": "entity-043",
+      "name": "FL Group",
+      "aliases": ["Stodir"],
+      "type": "organization",
+      "subtype": "investment firm",
+      "nationality": "Icelandic",
+      "description": "Icelandic investment fund that invested $50 million with Bayrock Group in 2007 for profit participation in Trump-branded projects. The fund collapsed in Iceland's 2008 banking crisis.",
+      "roles": ["investor"],
+      "affiliation": [],
+      "significance": 7,
+      "firstAppearance": "2007-05-22",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": "Later allegations suggested some FL Group money may have originated from Russian sources."
+    },
+    "entity-044": {
+      "id": "entity-044",
+      "name": "Bayrock Group",
+      "aliases": [],
+      "type": "organization",
+      "subtype": "real estate development firm",
+      "nationality": "American",
+      "description": "New York real estate firm founded by Tevfik Arif that partnered with Trump on projects like Trump SoHo and Trump Fort Lauderdale. Provided capital and development work while Trump lent his name and took minority equity.",
+      "roles": ["real estate developer"],
+      "affiliation": [],
+      "significance": 8,
+      "firstAppearance": "2005-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-045": {
+      "id": "entity-045",
+      "name": "Hazoury family",
+      "aliases": [],
+      "type": "organization",
+      "subtype": "family business",
+      "nationality": "Dominican",
+      "description": "Dominican developers who partnered with Trump in 2007 to plan a $2 billion resort at Cap Cana, which ultimately stalled and never materialized after the 2008 financial crisis.",
+      "roles": ["real estate developers"],
+      "affiliation": [],
+      "significance": 5,
+      "firstAppearance": "2007-07-15",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-046": {
+      "id": "entity-046",
+      "name": "Sapir Organization",
+      "aliases": [],
+      "type": "organization",
+      "subtype": "real estate firm",
+      "nationality": "American",
+      "description": "Real estate development firm led by Tamir Sapir that partnered with Trump and Bayrock Group on the Trump SoHo project in New York City.",
+      "roles": ["real estate developer"],
+      "affiliation": [],
+      "significance": 6,
+      "firstAppearance": "2006-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-047": {
+      "id": "entity-047",
+      "name": "Alex Shnaider",
+      "aliases": [],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "Russian-Canadian",
+      "description": "Russian-Canadian billionaire whose company Talon International partnered with Trump on the Trump International Hotel & Tower in Toronto. Shnaider handled financing and construction while Trump provided branding.",
+      "roles": ["businessman", "investor"],
+      "affiliation": ["Talon International"],
+      "significance": 6,
+      "firstAppearance": "2007-11-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    }
+  },
+  "relationships": [
+    {
+      "id": "relationship-vornado",
+      "source": "entity-001",
+      "target": "entity-042",
+      "type": "business-partnership",
+      "subtype": "joint ownership",
+      "description": "Trump became a 30% minority partner with Vornado Realty Trust in ownership of prime office buildings in New York and San Francisco.",
+      "strength": 7,
+      "startDate": "2007-04-01",
+      "endDate": "",
+      "isBidirectional": true,
+      "relatedEvents": ["event-061"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": "Trump had previously tried to prevent this partnership through litigation."
+    },
+    {
+      "id": "relationship-fl-bayrock",
+      "source": "entity-043",
+      "target": "entity-044",
+      "type": "business-partnership",
+      "subtype": "investment",
+      "description": "FL Group invested $50 million with Bayrock Group in 2007 for profit participation in Trump-branded projects.",
+      "strength": 8,
+      "startDate": "2007-05-22",
+      "endDate": "2008-10-01",
+      "isBidirectional": true,
+      "relatedEvents": ["event-062"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": "The partnership ended with FL Group's collapse in the 2008 financial crisis."
+    },
+    {
+      "id": "relationship-trump-bayrock",
+      "source": "entity-001",
+      "target": "entity-044",
+      "type": "business-partnership",
+      "subtype": "real estate development",
+      "description": "Trump partnered with Bayrock Group on multiple real estate projects, providing his brand name in exchange for equity stakes while Bayrock provided financing and development work.",
+      "strength": 9,
+      "startDate": "2005-01-01",
+      "endDate": "",
+      "isBidirectional": true,
+      "relatedEvents": ["event-062", "event-064"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    {
+      "id": "relationship-trump-hazoury",
+      "source": "entity-001",
+      "target": "entity-045",
+      "type": "business-partnership",
+      "subtype": "licensing deal",
+      "description": "Trump partnered with the Hazoury family on the Cap Cana resort project in the Dominican Republic, providing his brand name and marketing in exchange for fees or equity.",
+      "strength": 6,
+      "startDate": "2007-07-15",
+      "endDate": "2008-12-01",
+      "isBidirectional": true,
+      "relatedEvents": ["event-063"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": "The partnership effectively ended when the project stalled due to the financial crisis."
+    },
+    {
+      "id": "relationship-trump-shnaider",
+      "source": "entity-001",
+      "target": "entity-047",
+      "type": "business-partnership",
+      "subtype": "licensing deal",
+      "description": "Trump partnered with Alex Shnaider on the Trump International Hotel & Tower in Toronto, providing his brand name and management in exchange for fees.",
+      "strength": 6,
+      "startDate": "2007-11-01",
+      "endDate": "",
+      "isBidirectional": true,
+      "relatedEvents": ["event-065"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    }
+  ],
+  "transactions": [
+    {
+      "id": "transaction-fl-bayrock",
+      "date": "2007-05-22",
+      "fromEntity": "entity-043",
+      "toEntity": "entity-044",
+      "intermediaries": [],
+      "amount": 50000000,
+      "currency": "USD",
+      "amountUSD": 50000000,
+      "type": "investment",
+      "subtype": "joint venture",
+      "description": "FL Group invested $50 million with Bayrock Group in exchange for profit participation in Trump-branded real estate projects.",
+      "purpose": "Real estate development investment",
+      "method": "Wire transfer",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-062"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "Later allegations suggested some FL Group money may have originated from Russian sources, though never conclusively proven."
+    }
+  ],
+  "intelligenceActivities": []
+}

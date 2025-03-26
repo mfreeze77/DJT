@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Trump-Russia Timeline Visualization</title>
+  
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+  
+  <!-- Required libraries -->
+  <script src="https://unpkg.com/cytoscape@3.26.0/dist/cytoscape.min.js"></script>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  
+  <style>
+    /* Critical styles for visualization */
+    .filtered {
+      display: none !important;
+      visibility: hidden !important;
+      opacity: 0 !important;
+      pointer-events: none !important;
+    }
+    
+    /* Basic layout */
+    body {
+      font-family: 'Roboto', sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    
+    header {
+      background-color: #1a237e;
+      color: white;
+      padding: 15px 0;
+      text-align: center;
+    }
+    
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 20px;
+    }
+    
+    .visualization-wrapper {
+      display: flex;
+      position: relative;
+      margin: 20px 0;
+    }
+    
+    .money-container {
+      width: 200px;
+      flex-shrink: 0;
+    }
+    
+    .center-container {
+      flex-grow: 1;
+      height: 600px;
+    }
+    
+    .floating {
+      background: rgba(240, 248, 255, 0.9);
+      border-radius: 10px;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+      padding: 15px;
+    }
+    
+    .timeline-controls {
+      margin: 20px 0;
+    }
+    
+    .timeline-year-slider {
+      display: flex;
+      align-items: center;
+      gap: 15px;
+    }
+    
+    .timeline-year-slider input {
+      flex-grow: 1;
+    }
+    
+    /* Date display */
+    .date-display {
+      font-size: 24px;
+      font-weight: bold;
+      min-width: 180px;
+      text-align: center;
+      margin: 10px 0;
+    }
+    
+    /* Date navigation controls */
+    .date-navigation {
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+      margin-top: 10px;
+    }
+    
+    .date-nav-btn {
+      padding: 5px 10px;
+      background-color: #3498db;
+      border: none;
+      border-radius: 4px;
+      color: white;
+      cursor: pointer;
+      transition: background-color 0.2s;
+    }
+    
+    .date-nav-btn:hover {
+      background-color: #2980b9;
+    }
+    
+    /* Event info display */
+    .event-info {
+      position: absolute;
+      bottom: 80px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: rgba(255, 255, 255, 0.9);
+      border-radius: 8px;
+      padding: 15px;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+      max-width: 400px;
+      z-index: 1000;
+    }
+    
+    /* Node opacity classes */
+    .node-opacity-100 { opacity: 1 !important; }
+    .node-opacity-90 { opacity: 0.9 !important; }
+    .node-opacity-80 { opacity: 0.8 !important; }
+    .node-opacity-70 { opacity: 0.7 !important; }
+    .node-opacity-60 { opacity: 0.6 !important; }
+    .node-opacity-50 { opacity: 0.5 !important; }
+    .node-opacity-40 { opacity: 0.4 !important; }
+    .node-opacity-30 { opacity: 0.3 !important; }
+    .node-opacity-20 { opacity: 0.2 !important; }
+    .node-opacity-10 { opacity: 0.1 !important; }
+    
+    .filter-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 15px;
+      margin: 15px 0;
+    }
+    
+    .category-filters {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 15px;
+    }
+    
+    .category-filters label {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      cursor: pointer;
+    }
+    
+    footer {
+      background-color: #f5f5f5;
+      padding: 15px 0;
+      text-align: center;
+      margin-top: 20px;
+    }
+  </style>
+<link rel="icon" href="favicon.ico"><script defer src="bundle.js"></script></head>
+<body>
+  <header>
+    <div class="header-content">
+      <h1 class="header-title">Trump-Russia Timeline (1977-Present)</h1>
+    </div>
+  </header>
+  
+  <main class="container">
+    <!-- Main visualization container with umbrella layout -->
+    <div class="visualization-wrapper">
+      <!-- Money counter on the right side -->
+      <div id="money-tracker" class="money-container floating"></div>
+      
+      <!-- Network in the center (umbrella of connections above Trump) -->
+      <div id="network-container" class="center-container"></div>
+    </div>
+    
+    <!-- Timeline controls at the bottom -->
+    <div class="timeline-controls">
+      <div class="timeline-year-slider">
+        <input type="range" id="date-slider" min="0" max="100" value="50" class="w-100">
+        <div id="current-date" class="date-display">January 1, 1987</div>
+      </div>
+      
+      <!-- Date navigation controls -->
+      <div class="date-navigation mt-1">
+        <button id="prev-month-btn" class="date-nav-btn" title="Previous Month">&lt;&lt;</button>
+        <button id="prev-day-btn" class="date-nav-btn" title="Previous Day">&lt;</button>
+        <button id="next-day-btn" class="date-nav-btn" title="Next Day">&gt;</button>
+        <button id="next-month-btn" class="date-nav-btn" title="Next Month">&gt;&gt;</button>
+      </div>
+    </div>
+    
+    <!-- Simple category filters -->
+    <div class="filter-row">
+      <div class="category-filters">
+        <label><input type="checkbox" data-category="financial" checked> Financial</label>
+        <label><input type="checkbox" data-category="intelligence" checked> Intelligence</label>
+        <label><input type="checkbox" data-category="business" checked> Business</label>
+        <label><input type="checkbox" data-category="political" checked> Political</label>
+        <label><input type="checkbox" data-category="legal" checked> Legal</label>
+        <label><input type="checkbox" data-category="personal" checked> Personal</label>
+      </div>
+    </div>
+  </main>
+  
+  <footer>
+    <div class="container">
+      <p>Trump-Russia Timeline Visualization | © 2025</p>
+    </div>
+  </footer>
+  
+  <!-- Application script bundled with webpack -->
+  <script src="bundle.js"></script>
+</body>
+</html>

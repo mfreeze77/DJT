@@ -1,0 +1,392 @@
+{
+  "events": [
+    {
+      "id": "event-033",
+      "date": "1993-01-01",
+      "startDate": "1993-01-01",
+      "endDate": "1993-01-01",
+      "title": "NJ Casino Commission fines Trump Castle for Fred Trump chip loan scheme",
+      "description": "Regulators impose a $65,000 penalty on Trump Castle for the 1990 incident in which Fred Trump purchased $3.5M in casino chips without gambling, deemed an illegal, undeclared loan.",
+      "categories": ["legal", "financial"],
+      "importance": 5,
+      "moneyFlow": {
+        "amount": 65000,
+        "direction": "from-trump",
+        "isDirectFlow": true,
+        "entities": ["entity-001", "entity-003"],
+        "description": "The New Jersey Casino Commission imposed a $65,000 fine on Trump Castle for an illegal loan scheme involving Fred Trump's purchase of $3.5 million in casino chips without gambling in 1990. This regulatory action penalized the casino for what was deemed an undeclared loan that violated state regulations. The original transaction had been a desperate measure to help Trump Castle meet a bond payment, demonstrating how Fred Trump provided financial support to his son's struggling businesses during the early 1990s crisis."
+      },
+      "location": {
+        "country": "United States",
+        "city": "Atlantic City",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-003"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_90-93.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": ["event-028"],
+      "era": "era-002",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-034",
+      "date": "1993-06-01",
+      "startDate": "1993-06-01",
+      "endDate": "1993-06-01",
+      "title": "Trump proposes a $130 million riverboat casino in Gary, Indiana",
+      "description": "Donald Trump launches an aggressive pitch for a riverboat casino on U.S. Steel property in Gary, unveiling plans for a gambling boat, hotel, and entertainment complex. Indiana opens bidding later that year.",
+      "categories": ["business"],
+      "importance": 6,
+      "moneyFlow": {
+        "amount": 130000000,
+        "direction": "investment",
+        "isDirectFlow": false,
+        "entities": ["entity-001"],
+        "description": "Trump's proposal for a $130 million riverboat casino in Gary, Indiana represented a planned investment rather than an immediate financial outflow. The proposal included plans for a gambling boat, hotel, and entertainment complex on U.S. Steel property. This proposed venture was part of Trump's strategy to expand his casino operations beyond Atlantic City and diversify his revenue streams as he worked to rebuild his financial position after the early 1990s crisis. The actual financing and capital commitment would only materialize if his bid was successful, which occurred the following year."
+      },
+      "location": {
+        "country": "United States",
+        "city": "Gary",
+        "coordinates": []
+      },
+      "entities": ["entity-001"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_93-96.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-002",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-035",
+      "date": "1993-08-01",
+      "startDate": "1993-08-01",
+      "endDate": "1993-08-01",
+      "title": "Trump attempts eminent domain against Vera Coking in Atlantic City",
+      "description": "Seeking to build a limousine parking lot near Trump Plaza, Donald Trump pushes the city to condemn Vera Coking's boarding house. She fights back in court, ultimately defeating Trump's bid to take her property.",
+      "categories": ["business", "legal"],
+      "importance": 7,
+      "moneyFlow": {
+        "amount": 0,
+        "direction": "from-trump",
+        "isDirectFlow": false,
+        "entities": ["entity-001", "entity-032"],
+        "description": "Trump's attempt to use eminent domain against Vera Coking's property involved legal costs rather than direct property acquisition expenditures. Trump sought to have the city condemn her boarding house to build a limousine parking lot near Trump Plaza casino. While the potential value of Coking's property was significant, no money changed hands as Coking successfully fought the condemnation in court. The attempted use of government power for private development highlighted Trump's aggressive expansion tactics and willingness to leverage political connections, but ultimately resulted in no financial transaction as Trump was unable to acquire the property."
+      },
+      "location": {
+        "country": "United States",
+        "city": "Atlantic City",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-032"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_93-96.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "Vera Coking house - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Vera_Coking_house",
+          "documentType": "online encyclopedia",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-002",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-036",
+      "date": "1993-11-01",
+      "startDate": "1993-11-01",
+      "endDate": "1993-11-01",
+      "title": "Trump buys additional Palm Beach properties near Mar-a-Lago",
+      "description": "Despite tight finances, Trump acquires a 6,462-square-foot mansion for $1.6M and contracts to buy another house for ~$700k, expanding his Palm Beach footprint around Mar-a-Lago.",
+      "categories": ["business", "financial"],
+      "importance": 5,
+      "moneyFlow": {
+        "amount": 2300000,
+        "direction": "from-trump",
+        "isDirectFlow": true,
+        "entities": ["entity-001"],
+        "description": "Despite his financial difficulties during this period, Trump spent approximately $2.3 million to acquire additional properties near Mar-a-Lago in Palm Beach. This included a 6,462-square-foot mansion for $1.6 million and a contract to purchase another house for about $700,000. These acquisitions expanded Trump's footprint in the exclusive Palm Beach area and were part of his strategy to enhance the value of his Mar-a-Lago estate, which would be converted to a private club the following year. The purchases demonstrated Trump's continued ability to make significant real estate investments even while working through financial restructuring elsewhere in his business empire."
+      },
+      "location": {
+        "country": "United States",
+        "city": "Palm Beach",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-025"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_93-96.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-002",
+      "mediaUrls": []
+    }
+  ],
+  "entities": {
+    "entity-001": {
+      "id": "entity-001",
+      "name": "Donald J. Trump",
+      "aliases": ["Donald John Trump", "DJT"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "American",
+      "description": "Real estate developer, 45th President of the US. By 1993, was rebuilding his business after financial difficulties in the early 1990s.",
+      "roles": ["developer", "casino operator"],
+      "affiliation": [],
+      "significance": 10,
+      "firstAppearance": "1977-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-003": {
+      "id": "entity-003",
+      "name": "Fred C. Trump",
+      "aliases": ["Fred Trump"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "American",
+      "description": "Donald Trump's father, a successful real estate developer who created a substantial portfolio of middle-class housing in New York City. Provided financial support and business mentorship to Donald throughout his career.",
+      "roles": ["real estate developer", "businessman"],
+      "affiliation": [],
+      "significance": 8,
+      "firstAppearance": "",
+      "lastAppearance": "1999-06-25",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": "Fred Trump's illegal $3.5 million chip purchase at Trump Castle in 1990 resulted in regulatory fines in 1993."
+    },
+    "entity-025": {
+      "id": "entity-025",
+      "name": "Mar-a-Lago",
+      "aliases": [],
+      "type": "property",
+      "subtype": "estate",
+      "nationality": "American",
+      "description": "Historic 126-room Palm Beach mansion built in the 1920s by cereal heiress Marjorie Merriweather Post. Purchased by Trump in 1985 for $8 million (including furnishings). Initially a private residence, later converted to a private club in 1994 to offset maintenance costs.",
+      "roles": [],
+      "affiliation": [],
+      "significance": 7,
+      "firstAppearance": "1985-07-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {
+        "location": "Palm Beach, Florida",
+        "propertyValue": 8000000
+      },
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [
+        {
+          "description": "Mar-a-Lago - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mar-a-Lago",
+          "documentType": "online encyclopedia",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": "Mar-a-Lago represented Trump's expansion into Palm Beach high society and luxury property ownership beyond New York."
+    },
+    "entity-032": {
+      "id": "entity-032",
+      "name": "Vera Coking",
+      "aliases": [],
+      "type": "person",
+      "subtype": "",
+      "nationality": "American",
+      "description": "Atlantic City homeowner who famously fought Donald Trump's 1993 eminent domain attempt and won.",
+      "roles": [],
+      "affiliation": [],
+      "significance": 5,
+      "firstAppearance": "1993-08-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    }
+  },
+  "relationships": [
+    {
+      "id": "relationship-011",
+      "source": "entity-001",
+      "target": "entity-032",
+      "type": "legal conflict",
+      "subtype": "eminent domain dispute",
+      "description": "Trump sought condemnation of Vera Coking's property near Trump Plaza in 1993, but lost in court.",
+      "strength": 7,
+      "startDate": "1993-08-01",
+      "endDate": "1998-01-01",
+      "isBidirectional": true,
+      "relatedEvents": ["event-035"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    }
+  ],
+  "transactions": [
+    {
+      "id": "transaction-008",
+      "date": "1993-11-01",
+      "fromEntity": "entity-001",
+      "toEntity": "",
+      "intermediaries": [],
+      "amount": 2300000,
+      "currency": "USD",
+      "amountUSD": 2300000,
+      "type": "property",
+      "subtype": "residential purchase",
+      "description": "Two Palm Beach houses near Mar-a-Lago acquired by Trump for a combined ~$2.3 million.",
+      "purpose": "Expand real estate holdings around Mar-a-Lago",
+      "method": "Real estate purchase",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-036"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": ""
+    },
+    {
+      "id": "transaction-casino-fine",
+      "date": "1993-01-01",
+      "fromEntity": "entity-001",
+      "toEntity": "",
+      "intermediaries": [],
+      "amount": 65000,
+      "currency": "USD",
+      "amountUSD": 65000,
+      "type": "regulatory",
+      "subtype": "fine",
+      "description": "New Jersey Casino Commission fined Trump Castle $65,000 for the 1990 incident in which Fred Trump purchased $3.5 million in casino chips without gambling, which was deemed an illegal, undeclared loan.",
+      "purpose": "Regulatory enforcement",
+      "method": "Financial penalty",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-033"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "The fine was the resolution of a regulatory investigation into Fred Trump's $3.5 million chip purchase in 1990, which had been a desperate attempt to help Trump Castle meet bond payments during the financial crisis."
+    },
+    {
+      "id": "transaction-coking-litigation",
+      "date": "1993-08-01",
+      "fromEntity": "entity-001",
+      "toEntity": "",
+      "intermediaries": [],
+      "amount": 0,
+      "currency": "USD",
+      "amountUSD": 0,
+      "type": "legal",
+      "subtype": "eminent domain",
+      "description": "Trump initiated eminent domain proceedings against Vera Coking's Atlantic City boarding house, seeking to have the city condemn her property to build a limousine parking lot for Trump Plaza casino.",
+      "purpose": "Property acquisition",
+      "method": "Legal action",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-035"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "This eminent domain attempt was ultimately unsuccessful, as Coking fought the case in court and won. The case became emblematic of Trump's aggressive business tactics and willingness to use government power for private development."
+    },
+    {
+      "id": "transaction-gary-proposal",
+      "date": "1993-06-01",
+      "fromEntity": "entity-001",
+      "toEntity": "",
+      "intermediaries": [],
+      "amount": 0,
+      "currency": "USD",
+      "amountUSD": 0,
+      "type": "business",
+      "subtype": "bid submission",
+      "description": "Trump submitted a proposal for a $130 million riverboat casino development in Gary, Indiana, including plans for a gambling boat, hotel, and entertainment complex on U.S. Steel property.",
+      "purpose": "Business expansion",
+      "method": "Project proposal",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-034"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "This proposal was part of Trump's strategy to expand his casino operations beyond Atlantic City. The proposal would be successful the following year when Indiana regulators approved the license."
+    }
+  ],
+  "intelligenceActivities": []
+}

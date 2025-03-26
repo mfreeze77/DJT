@@ -1,0 +1,565 @@
+{
+  "events": [
+    {
+      "id": "event-029",
+      "date": "1991-07-16",
+      "startDate": "1991-07-16",
+      "endDate": "1991-07-16",
+      "title": "Trump Taj Mahal files for Chapter 11 bankruptcy",
+      "description": "Just 15 months after its grand opening, the Trump Taj Mahal Casino Resort files for Chapter 11 bankruptcy protection. Unable to generate enough revenue to cover the $675 million in high-interest junk bonds used to finance its construction, the casino defaulted on its debt payments. As part of the restructuring plan, Trump gave up 50% ownership to bondholders in exchange for reduced interest rates and extended payment terms. This marked the first of four business bankruptcies Trump would experience in the early 1990s, as his highly leveraged empire began to collapse.",
+      "categories": [
+        "financial",
+        "business",
+        "legal"
+      ],
+      "importance": 9,
+      "moneyFlow": {
+        "amount": 675000000,
+        "direction": "restructuring",
+        "isDirectFlow": false,
+        "entities": ["entity-001", "entity-037"],
+        "description": "The Trump Taj Mahal bankruptcy involved the restructuring of $675 million in high-interest junk bonds used to finance the casino's construction. Trump surrendered 50% ownership in the casino to bondholders in exchange for more favorable interest rates and extended payment terms, allowing the casino to continue operating. This financial restructuring represented Trump's first major business bankruptcy and signaled the beginning of his empire's collapse under the weight of excessive debt financing."
+      },
+      "location": {
+        "country": "United States",
+        "city": "Atlantic City",
+        "coordinates": [
+          39.3643,
+          -74.4229
+        ]
+      },
+      "entities": [
+        "entity-001",
+        "entity-037",
+        "entity-038"
+      ],
+      "sources": [
+        {
+          "description": "PolitiFact | Yep, Donald Trump's companies have declared bankruptcy...more than four times",
+          "url": "https://www.politifact.com/factchecks/2016/jun/21/hillary-clinton/yep-donald-trumps-companies-have-declared-bankrupt/",
+          "documentType": "news article",
+          "citation": "He funded the construction of the $1 billion Trump Taj Mahal casino in Atlantic City, calling it the \"eighth wonder of the world.\" Within a year, it had filed for Chapter 11 bankruptcy protection, according to the New York Times."
+        },
+        {
+          "description": "Business career of Donald Trump - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Business_career_of_Donald_Trump",
+          "documentType": "encyclopedia",
+          "citation": "The Taj Mahal emerged from bankruptcy on October 5, 1991, with Trump ceding 50 percent ownership in the casino to the bondholders in exchange for lowered interest rates and a longer payoff schedule."
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [
+        "event-027"
+      ],
+      "era": "era-002",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-030",
+      "date": "1991-06-07",
+      "startDate": "1991-06-07",
+      "endDate": "1991-06-07",
+      "title": "Trump Plaza Casino fined $200,000 for discriminating against Black employees",
+      "description": "The New Jersey Casino Control Commission fines Trump Plaza Casino $200,000 for removing Black dealers from tables at the request of a high-roller gambler, Robert LiButti, who had known ties to mob boss John Gotti. The commission found that the casino had violated anti-discrimination laws by accommodating LiButti's racist requests. Trump Plaza managers admitted they had transferred Black and female dealers away from LiButti's table to avoid losing his high-stakes business. This incident highlighted both racial discrimination issues and Trump's casinos' connections to individuals with organized crime ties.",
+      "categories": [
+        "legal",
+        "business"
+      ],
+      "importance": 6,
+      "moneyFlow": {
+        "amount": 200000,
+        "direction": "from-trump",
+        "isDirectFlow": true,
+        "entities": [
+          "entity-001",
+          "entity-022",
+          "entity-041"
+        ]
+      },
+      "location": {
+        "country": "United States",
+        "city": "Atlantic City",
+        "coordinates": [
+          39.3643,
+          -74.4229
+        ]
+      },
+      "entities": [
+        "entity-001",
+        "entity-022",
+        "entity-041",
+        "entity-042"
+      ],
+      "sources": [
+        {
+          "description": "Trump Plaza fined $200,000 for discrimination - UPI Archives",
+          "url": "https://www.upi.com/Archives/1991/06/06/Trump-Plaza-fined-200000-for-discrimination/2869676180800/",
+          "documentType": "news article",
+          "citation": "Trump Plaza fined $200,000 for discrimination by transferring black and female dealers off tables to accommodate the prejudices of a high roller."
+        },
+        {
+          "description": "Congressional Record, Volume 162 Issue 145",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2016-09-26/html/CREC-2016-09-26-pt1-PgS6073-2.htm",
+          "documentType": "government document",
+          "citation": "In the 1990s, John O'Donnell, who had been president of Trump Plaza Hotel and Casino, wrote in a tell-all book that Trump had criticized a Black accountant and said: 'Black guys counting my money! I hate it. The only kind of people I want counting my money are short guys that wear yarmulkes every day.'"
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-002",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-031",
+      "date": "1991-09-24",
+      "startDate": "1991-09-24",
+      "endDate": "1991-09-24",
+      "title": "Trump sells Trump Princess yacht to Prince Al-Waleed bin Talal",
+      "description": "Facing a severe cash crunch, Trump sells his 282-foot yacht Trump Princess to Saudi Prince Al-Waleed bin Talal for approximately $20 million, significantly less than the $29 million Trump had paid for it in 1987. This sale was part of Trump's desperate efforts to raise cash and reduce debt during his financial crisis.",
+      "categories": [
+        "business",
+        "financial"
+      ],
+      "importance": 6,
+      "moneyFlow": {
+        "amount": 20000000,
+        "direction": "to-trump",
+        "isDirectFlow": true,
+        "entities": [
+          "entity-001",
+          "entity-043"
+        ]
+      },
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": [
+          40.7128,
+          -74.006
+        ]
+      },
+      "entities": [
+        "entity-001",
+        "entity-043",
+        "entity-031"
+      ],
+      "sources": [
+        {
+          "description": "Kingdom 5KR - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kingdom_5KR",
+          "documentType": "encyclopedia",
+          "citation": "Trump was forced to sell the yacht to Prince Al-Waleed bin Talal as part of a deal to restructure his debts."
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [
+        "event-021"
+      ],
+      "era": "era-002",
+      "mediaUrls": []
+    }
+  ],
+  "entities": {
+    "entity-001": {
+      "id": "entity-001",
+      "name": "Donald J. Trump",
+      "aliases": ["Donald John Trump", "DJT"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "American",
+      "description": "Real estate developer, 45th President of the US. In 1991, was experiencing severe financial difficulties as his highly leveraged business empire began to collapse under debt burden.",
+      "roles": ["developer", "casino operator"],
+      "affiliation": [],
+      "significance": 10,
+      "firstAppearance": "1977-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": "1991 marked the beginning of Trump's business bankruptcies and financial restructuring that would continue through the early 1990s."
+    },
+    "entity-022": {
+      "id": "entity-022",
+      "name": "Trump Plaza Casino",
+      "aliases": ["Trump Plaza Hotel and Casino"],
+      "type": "property",
+      "subtype": "casino",
+      "nationality": "American",
+      "description": "Trump's first Atlantic City casino, opened in 1984 as a joint venture with Holiday Inn/Harrah's. Trump later bought out his partner's interest and operated the property until financial difficulties led to bankruptcy in spring 1992.",
+      "roles": [],
+      "affiliation": [],
+      "significance": 7,
+      "firstAppearance": "1984-05-15",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {
+        "location": "Atlantic City, New Jersey"
+      },
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": "In 1991, Trump Plaza was fined $200,000 for discriminating against Black employees at the request of high-roller Robert LiButti."
+    },
+    "entity-031": {
+      "id": "entity-031",
+      "name": "Trump Princess",
+      "aliases": ["Nabila"],
+      "type": "property",
+      "subtype": "yacht",
+      "nationality": "American",
+      "description": "Luxury 282-foot yacht purchased by Trump in 1987 for $29 million from arms dealer Adnan Khashoggi. Trump renamed it from 'Nabila' to 'Trump Princess' and used it as a status symbol and corporate entertainment venue.",
+      "roles": [],
+      "affiliation": [],
+      "significance": 6,
+      "firstAppearance": "1987-01-01",
+      "lastAppearance": "1991-09-24",
+      "images": [],
+      "properties": {
+        "size": "282 feet"
+      },
+      "intelligenceConnections": {},
+      "financialData": {
+        "purchasePrice": 29000000,
+        "salePrice": 20000000
+      },
+      "sources": [],
+      "documentationLink": "",
+      "notes": "The yacht was sold to Prince Al-Waleed bin Talal in 1991 as Trump faced severe financial difficulties and needed to raise cash."
+    },
+    "entity-037": {
+      "id": "entity-037",
+      "name": "Trump Taj Mahal Casino Resort",
+      "aliases": ["Taj Mahal"],
+      "type": "property",
+      "subtype": "casino",
+      "nationality": "American",
+      "description": "Atlantic City casino opened by Trump in April 1990 at a cost of $1.1 billion, dubbed the 'eighth wonder of the world.' It was financed largely with $675 million in high-interest junk bonds and filed for bankruptcy just 15 months after opening.",
+      "roles": [],
+      "affiliation": [],
+      "significance": 9,
+      "firstAppearance": "1990-04-02",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {
+        "location": "Atlantic City, New Jersey",
+        "constructionCost": 1100000000
+      },
+      "intelligenceConnections": {},
+      "financialData": {
+        "debt": 675000000
+      },
+      "sources": [],
+      "documentationLink": "",
+      "notes": "The Taj Mahal's bankruptcy in 1991 was the first of Trump's four business bankruptcies in the early 1990s and highlighted the unsustainable debt burden of his business empire."
+    },
+    "entity-038": {
+      "id": "entity-038",
+      "name": "Taj Mahal Bondholders",
+      "aliases": [],
+      "type": "organization",
+      "subtype": "investors",
+      "nationality": "American",
+      "description": "Group of investors who held the $675 million in junk bonds used to finance the Trump Taj Mahal casino. They received 50% ownership of the casino in the bankruptcy restructuring.",
+      "roles": ["creditors", "investors"],
+      "affiliation": [],
+      "significance": 7,
+      "firstAppearance": "1990-04-02",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {
+        "investment": 675000000
+      },
+      "sources": [],
+      "documentationLink": "",
+      "notes": "The bondholders accepted reduced interest rates and extended payment terms in exchange for equity in the casino."
+    },
+    "entity-041": {
+      "id": "entity-041",
+      "name": "New Jersey Casino Control Commission",
+      "aliases": ["NJCCC"],
+      "type": "organization",
+      "subtype": "government agency",
+      "nationality": "American",
+      "description": "State regulatory body responsible for licensing and oversight of Atlantic City casinos. The commission imposed fines and enforced regulations on Trump's casino operations.",
+      "roles": ["regulator"],
+      "affiliation": [],
+      "significance": 6,
+      "firstAppearance": "1977-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": "The commission fined Trump Plaza Casino $200,000 in 1991 for discriminating against Black employees at the request of high-roller Robert LiButti."
+    },
+    "entity-042": {
+      "id": "entity-042",
+      "name": "Robert LiButti",
+      "aliases": [],
+      "type": "person",
+      "subtype": "gambler",
+      "nationality": "American",
+      "description": "High-stakes gambler with known ties to mob boss John Gotti. LiButti frequented Trump Plaza Casino and made racist demands that Black dealers be removed from his table.",
+      "roles": ["high-roller", "organized crime associate"],
+      "affiliation": [],
+      "significance": 6,
+      "firstAppearance": "1991-06-07",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {
+        "criminalConnections": ["John Gotti", "Organized crime"]
+      },
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": "LiButti's demands for removal of Black dealers led to a $200,000 fine against Trump Plaza for discrimination in 1991. He was later banned from Atlantic City casinos."
+    },
+    "entity-043": {
+      "id": "entity-043",
+      "name": "Prince Al-Waleed bin Talal",
+      "aliases": ["Al-Waleed bin Talal"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "Saudi",
+      "description": "Saudi billionaire investor and member of the Saudi royal family. In 1991, he purchased Trump's yacht for approximately $20 million, providing Trump with desperately needed cash during his financial crisis.",
+      "roles": ["investor", "royal family member"],
+      "affiliation": [],
+      "significance": 7,
+      "firstAppearance": "1991-09-24",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": "Prince Al-Waleed would later purchase Trump's Plaza Hotel in 1995, again providing financial relief to Trump. In the Panama Papers, he appears as 'Bin Abdulaziz Alsaud - HRH Prince Alwaleed Bin Talal' with offshore structures in the Cayman Islands, though these were established after the 1991 yacht purchase."
+    }
+  },
+  "relationships": [
+    {
+      "id": "relationship-008",
+      "source": "entity-001",
+      "target": "entity-037",
+      "type": "ownership",
+      "subtype": "business",
+      "description": "Donald Trump owned the Trump Taj Mahal Casino Resort, though his ownership was reduced to 50% following the 1991 bankruptcy restructuring.",
+      "strength": 9,
+      "startDate": "1990-04-02",
+      "endDate": "",
+      "isBidirectional": false,
+      "relatedEvents": ["event-029"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": "Trump's ownership was diluted in the bankruptcy reorganization, as he gave up 50% equity to bondholders in exchange for more favorable debt terms."
+    },
+    {
+      "id": "relationship-009",
+      "source": "entity-001",
+      "target": "entity-022",
+      "type": "ownership",
+      "subtype": "business",
+      "description": "Donald Trump owned Trump Plaza Casino in Atlantic City, which would file for bankruptcy the following year.",
+      "strength": 8,
+      "startDate": "1984-05-15",
+      "endDate": "",
+      "isBidirectional": false,
+      "relatedEvents": ["event-030"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": "Trump Plaza was fined $200,000 in 1991 for discriminating against Black employees at the request of high-roller Robert LiButti."
+    },
+    {
+      "id": "relationship-010",
+      "source": "entity-001",
+      "target": "entity-031",
+      "type": "ownership",
+      "subtype": "property",
+      "description": "Donald Trump owned the luxury yacht Trump Princess until selling it to Prince Al-Waleed bin Talal in September 1991.",
+      "strength": 7,
+      "startDate": "1987-01-01",
+      "endDate": "1991-09-24",
+      "isBidirectional": false,
+      "relatedEvents": ["event-031"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": "Trump sold the yacht at a $9 million loss as part of his desperate efforts to raise cash during his financial crisis."
+    },
+    {
+      "id": "relationship-011",
+      "source": "entity-042",
+      "target": "entity-022",
+      "type": "business",
+      "subtype": "patron",
+      "description": "Robert LiButti was a high-stakes gambler at Trump Plaza Casino who demanded that Black dealers be removed from his table.",
+      "strength": 6,
+      "startDate": "1990-01-01",
+      "endDate": "1991-06-07",
+      "isBidirectional": false,
+      "relatedEvents": ["event-030"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": "LiButti's demands for racial discrimination led to a $200,000 fine against Trump Plaza by the New Jersey Casino Control Commission."
+    },
+    {
+      "id": "relationship-012",
+      "source": "entity-043",
+      "target": "entity-031",
+      "type": "ownership",
+      "subtype": "property",
+      "description": "Prince Al-Waleed bin Talal purchased the Trump Princess yacht from Donald Trump in September 1991.",
+      "strength": 7,
+      "startDate": "1991-09-24",
+      "endDate": "",
+      "isBidirectional": false,
+      "relatedEvents": ["event-031"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": "The sale provided Trump with approximately $20 million in desperately needed cash during his financial crisis."
+    },
+    {
+      "id": "relationship-013",
+      "source": "entity-001",
+      "target": "entity-043",
+      "type": "financial",
+      "subtype": "business",
+      "description": "Donald Trump sold his yacht to Prince Al-Waleed bin Talal in 1991, establishing a financial relationship that would continue with the Plaza Hotel sale in 1995.",
+      "strength": 7,
+      "startDate": "1991-09-24",
+      "endDate": "",
+      "isBidirectional": true,
+      "relatedEvents": ["event-031"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": "Prince Al-Waleed effectively became a financial lifeline for Trump during his 1990s debt crisis, purchasing distressed assets at discounted prices."
+    },
+    {
+      "id": "relationship-014",
+      "source": "entity-037",
+      "target": "entity-038",
+      "type": "financial",
+      "subtype": "debtor-creditor",
+      "description": "The Trump Taj Mahal owed $675 million to its bondholders, who received 50% ownership in the casino as part of the bankruptcy restructuring.",
+      "strength": 9,
+      "startDate": "1990-04-02",
+      "endDate": "",
+      "isBidirectional": true,
+      "relatedEvents": ["event-029"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": "The bondholders accepted reduced interest rates and extended payment terms in exchange for equity in the casino."
+    }
+  ],
+  "transactions": [
+    {
+      "id": "transaction-taj-bankruptcy",
+      "date": "1991-07-16",
+      "fromEntity": "entity-001",
+      "toEntity": "entity-038",
+      "intermediaries": ["entity-037"],
+      "amount": 675000000,
+      "currency": "USD",
+      "amountUSD": 675000000,
+      "type": "financial",
+      "subtype": "bankruptcy",
+      "description": "Trump Taj Mahal Casino Resort filed for Chapter 11 bankruptcy protection, restructuring $675 million in junk bonds. Trump surrendered 50% ownership to bondholders in exchange for reduced interest rates and extended payment terms.",
+      "purpose": "Debt restructuring",
+      "method": "Chapter 11 bankruptcy",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-029"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "This was the first of Trump's four business bankruptcies in the early 1990s, marking the beginning of his empire's financial restructuring."
+    },
+    {
+      "id": "transaction-plaza-fine",
+      "date": "1991-06-07",
+      "fromEntity": "entity-022",
+      "toEntity": "entity-041",
+      "intermediaries": [],
+      "amount": 200000,
+      "currency": "USD",
+      "amountUSD": 200000,
+      "type": "legal",
+      "subtype": "regulatory fine",
+      "description": "New Jersey Casino Control Commission fined Trump Plaza Casino $200,000 for removing Black dealers from tables at the request of high-roller gambler Robert LiButti, violating anti-discrimination laws.",
+      "purpose": "Regulatory enforcement",
+      "method": "Financial penalty",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-030"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "This fine highlighted both racial discrimination issues and Trump's casinos' connections to individuals with organized crime ties."
+    },
+    {
+      "id": "transaction-yacht-sale",
+      "date": "1991-09-24",
+      "fromEntity": "entity-001",
+      "toEntity": "entity-043",
+      "intermediaries": ["entity-031"],
+      "amount": 20000000,
+      "currency": "USD",
+      "amountUSD": 20000000,
+      "type": "asset",
+      "subtype": "yacht sale",
+      "description": "Donald Trump sold his 282-foot yacht Trump Princess to Saudi Prince Al-Waleed bin Talal for approximately $20 million, significantly less than the $29 million Trump had paid for it in 1987.",
+      "purpose": "Asset liquidation",
+      "method": "Private sale",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-031"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "This sale was part of Trump's desperate efforts to raise cash and reduce debt during his financial crisis. While Prince Al-Waleed later appears in the Panama Papers with offshore structures in the Cayman Islands, those structures were established after this 1991 transaction."
+    }
+  ],
+  "intelligenceActivities": []
+}

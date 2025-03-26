@@ -1,0 +1,134 @@
+/* 
+ * Network visualization effects
+ * CSS for the network graph visualization, primarily opacity transitions
+ */
+
+/* Base network node styling - Cytoscape uses node (not .node) */
+node {
+  transition: opacity 0.3s ease-in-out;
+}
+
+/* Base network edge styling */
+edge {
+  transition: opacity 0.3s ease-in-out;
+}
+
+/* ========== UMBRELLA STYLING ========== */
+
+/* Trump node - the umbrella handle */
+node.trump-node {
+  background-color: #ffa500 !important;
+  border-width: 3px !important;
+  border-color: #cc5500 !important;
+  border-style: solid !important;
+  width: 40px !important;
+  height: 40px !important;
+  font-size: 18px !important;
+  font-weight: bold !important;
+  position: fixed !important;
+  z-index: 1000 !important;
+  bottom: 50px !important;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3) !important;
+}
+
+/* Event nodes - the umbrella ribs */
+.event-node {
+  border-style: dashed !important;
+  border-width: 2px !important;
+  background-color: #4299e1 !important;
+  color: white !important;
+  text-shadow: 0 0 2px black !important;
+  font-weight: bold !important;
+  z-index: 900 !important;
+  text-overflow: ellipsis !important;
+  max-width: 120px !important;
+  min-width: 30px !important;
+  transition: all 0.3s ease-in-out !important;
+}
+
+.event-node:hover {
+  transform: scale(1.2) !important;
+  z-index: 999 !important;
+}
+
+/* Event connections - umbrella spokes */
+.event-connection {
+  stroke-width: 3px !important;
+  line-color: #718096 !important;
+  curve-style: straight !important;
+  target-arrow-shape: none !important;
+  opacity: 0.9 !important;
+  z-index: 800 !important;
+}
+
+/* Entity connections */
+.entity-connection {
+  stroke-width: 1.5px !important;
+  line-color: #a0aec0 !important;
+  opacity: 0.7 !important;
+  z-index: 700 !important;
+}
+
+/* Different opacity levels for temporal relevance */
+.node-opacity-100 { opacity: 1 !important; }
+.node-opacity-90 { opacity: 0.9 !important; }
+.node-opacity-80 { opacity: 0.8 !important; }
+.node-opacity-70 { opacity: 0.7 !important; }
+.node-opacity-60 { opacity: 0.6 !important; }
+.node-opacity-50 { opacity: 0.5 !important; }
+.node-opacity-40 { opacity: 0.4 !important; }
+.node-opacity-30 { opacity: 0.3 !important; }
+.node-opacity-20 { opacity: 0.2 !important; }
+.node-opacity-10 { opacity: 0.1 !important; }
+
+/* Edge opacity classes match their connected nodes */
+.edge-opacity-100 { opacity: 1 !important; }
+.edge-opacity-90 { opacity: 0.9 !important; }
+.edge-opacity-80 { opacity: 0.8 !important; }
+.edge-opacity-70 { opacity: 0.7 !important; }
+.edge-opacity-60 { opacity: 0.6 !important; }
+.edge-opacity-50 { opacity: 0.5 !important; }
+.edge-opacity-40 { opacity: 0.4 !important; }
+.edge-opacity-30 { opacity: 0.3 !important; }
+.edge-opacity-20 { opacity: 0.2 !important; }
+.edge-opacity-10 { opacity: 0.1 !important; }
+
+/* Date display */
+.date-display {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  margin: 10px 0;
+}
+
+/* Event info panel */
+.event-info {
+  position: absolute;
+  bottom: 80px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 8px;
+  padding: 15px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+  max-width: 400px;
+  z-index: 1000;
+}
+
+.event-info h3 {
+  margin-top: 0;
+  margin-bottom: 5px;
+  color: #333;
+}
+
+.event-date {
+  color: #666;
+  font-size: 0.9em;
+  margin-bottom: 10px;
+}
+
+.filtered {
+  opacity: 0 !important;
+  visibility: hidden !important;
+  display: none !important;
+}

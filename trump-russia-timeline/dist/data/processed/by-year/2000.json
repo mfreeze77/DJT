@@ -1,0 +1,240 @@
+{
+  "events": [
+    {
+      "id": "event-048",
+      "date": "2000-01-01",
+      "startDate": "2000-01-01",
+      "endDate": "2000-02-14",
+      "title": "Donald Trump explores Reform Party presidential candidacy",
+      "description": "Trump publicly flirts with a run for president under the Reform Party banner, appearing on talk shows. He withdraws by February 2000, criticizing party infighting.",
+      "categories": ["political"],
+      "importance": 6,
+      "moneyFlow": {
+        "amount": 0,
+        "direction": "from-trump",
+        "isDirectFlow": true,
+        "entities": ["entity-001"],
+        "description": "Trump's brief exploration of a Reform Party presidential candidacy in early 2000 involved campaign expenses, but the total amount spent was minimal as he withdrew by February 14, 2000, before establishing a formal campaign operation. This political venture was primarily a publicity effort rather than a significant financial investment."
+      },
+      "location": {
+        "country": "United States",
+        "city": "",
+        "coordinates": []
+      },
+      "entities": ["entity-001"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_97-20_Assoc_TLDR.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-002",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-040",
+      "date": "2000-02-14",
+      "startDate": "1999-10-07",
+      "endDate": "2000-02-14",
+      "title": "Trump explores Reform Party candidacy",
+      "description": "Trump briefly explores running for president as the Reform Party candidate. He forms an exploratory committee, releases a book ('The America We Deserve'), and campaigns in several states before withdrawing from the race on February 14, 2000.",
+      "categories": ["political"],
+      "importance": 7,
+      "moneyFlow": {
+        "amount": 0,
+        "direction": "from-trump",
+        "isDirectFlow": true,
+        "entities": ["entity-001", "entity-043"],
+        "description": "Trump's exploration of a Reform Party candidacy was primarily a publicity effort. While he spent minimal personal funds on the effort, the real value came from free media coverage that both promoted his book and overall brand."
+      },
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-043"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_97-20.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-002",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-046",
+      "date": "2000-11-13",
+      "startDate": "2000-11-13",
+      "endDate": "2000-11-13",
+      "title": "TRUMPP EQUITIES LIMITED established in BVI",
+      "description": "TRUMPP EQUITIES LIMITED was incorporated in the British Virgin Islands, with Serik Rakhmetov (likely of Kazakh origin) identified as a shareholder. The timing coincided with Trump's Reform Party presidential campaign and issues with the New York State Lobbying Commission.",
+      "categories": ["business", "financial"],
+      "importance": 7,
+      "moneyFlow": {
+        "amount": 0,
+        "direction": "restructuring",
+        "isDirectFlow": false,
+        "entities": ["entity-001", "entity-102", "entity-103"],
+        "description": "The creation of TRUMPP EQUITIES LIMITED in the British Virgin Islands represented an offshore financial structure with a connection to a Kazakh individual named Serik Rakhmetov. While the exact monetary value is unknown, this entity could potentially have been used to facilitate investments in Trump properties by Central Asian investors."
+      },
+      "location": {
+        "country": "British Virgin Islands",
+        "city": "",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-102", "entity-103"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_97-20_PP.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": ["event-040"],
+      "era": "era-002",
+      "mediaUrls": []
+    }
+  ],
+  "entities": {
+    "entity-001": {
+      "id": "entity-001",
+      "name": "Donald J. Trump",
+      "aliases": ["Donald John Trump", "DJT"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "American",
+      "description": "Real estate developer, future 45th President of the US. In 2000, made his first serious venture into politics by exploring a presidential run with the Reform Party, establishing himself as a political figure.",
+      "roles": ["developer", "casino operator", "political figure"],
+      "affiliation": [],
+      "significance": 10,
+      "firstAppearance": "1977-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-102": {
+      "id": "entity-102",
+      "name": "TRUMPP EQUITIES LIMITED",
+      "aliases": [],
+      "type": "organization",
+      "subtype": "offshore company",
+      "nationality": "British Virgin Islands",
+      "description": "Offshore company incorporated in the British Virgin Islands on November 13, 2000. The company name appears to reference Trump, though with an extra 'P', and had a Central Asian shareholder named Serik Rakhmetov.",
+      "roles": ["investment vehicle"],
+      "affiliation": [],
+      "significance": 7,
+      "firstAppearance": "2000-11-13",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [
+        {
+          "description": "Tmanch_Fin_97-20_PP.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": "Discovered in the Panama Papers investigations."
+    },
+    "entity-103": {
+      "id": "entity-103",
+      "name": "Serik Rakhmetov",
+      "aliases": [],
+      "type": "person",
+      "subtype": "investor",
+      "nationality": "Kazakh",
+      "description": "Individual of apparent Kazakh origin identified in the Panama Papers as a shareholder of TRUMPP EQUITIES LIMITED, an offshore company with a name similar to Trump.",
+      "roles": ["investor"],
+      "affiliation": [],
+      "significance": 6,
+      "firstAppearance": "2000-11-13",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [
+        {
+          "description": "Tmanch_Fin_97-20_PP.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": "Discovered in the Panama Papers investigations."
+    }
+  },
+  "relationships": [
+    {
+      "id": "relationship-003",
+      "source": "entity-001",
+      "target": "entity-102",
+      "type": "financial",
+      "subtype": "potential investment connection",
+      "description": "TRUMPP EQUITIES LIMITED, an offshore company with a name similar to Trump's, was established in the British Virgin Islands during Trump's Reform Party candidacy. While direct ownership by Trump is not confirmed, the name suggests a connection.",
+      "strength": 5,
+      "startDate": "2000-11-13",
+      "endDate": "",
+      "isBidirectional": false,
+      "relatedEvents": ["event-046"],
+      "evidenceStrength": "speculative",
+      "sources": [
+        {
+          "description": "Tmanch_Fin_97-20_PP.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": "The connection is implied by the company name but requires further investigation."
+    },
+    {
+      "id": "relationship-004",
+      "source": "entity-103",
+      "target": "entity-102",
+      "type": "financial",
+      "subtype": "ownership",
+      "description": "Serik Rakhmetov, an individual of apparent Kazakh origin, is identified in the Panama Papers as a shareholder of TRUMPP EQUITIES LIMITED.",
+      "strength": 8,
+      "startDate": "2000-11-13",
+      "endDate": "",
+      "isBidirectional": true,
+      "relatedEvents": ["event-046"],
+      "evidenceStrength": "confirmed",
+      "sources": [
+        {
+          "description": "Tmanch_Fin_97-20_PP.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": "This relationship is directly confirmed by the Panama Papers data."
+    }
+  ],
+  "transactions": [],
+  "intelligenceActivities": []
+}

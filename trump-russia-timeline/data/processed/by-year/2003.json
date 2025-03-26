@@ -1,0 +1,136 @@
+{
+  "events": [
+    {
+      "id": "event-051",
+      "date": "2003-05-01",
+      "startDate": "2003-05-01",
+      "endDate": "2003-05-01",
+      "title": "Sale of GM Building for $1.4 billion",
+      "description": "Trump and partners sell the General Motors Building in Manhattan to Harry Macklowe's group for $1.4 billion, then the highest price paid for a U.S. office building. Trump's share yields hundreds of millions in profit.",
+      "categories": ["business", "financial"],
+      "importance": 8,
+      "moneyFlow": {
+        "amount": 1400000000,
+        "direction": "to-trump",
+        "isDirectFlow": false,
+        "entities": ["entity-001"],
+        "description": "Trump and partners sold the General Motors Building in Manhattan to Harry Macklowe's group for $1.4 billion. Trump's exact share is not precisely documented but estimated to be hundreds of millions in profit. This was the highest price ever paid for a U.S. office building at the time."
+      },
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-037"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_201-204_pp.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    }
+  ],
+  "entities": {
+    "entity-001": {
+      "id": "entity-001",
+      "name": "Donald J. Trump",
+      "aliases": ["Donald John Trump", "DJT"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "American",
+      "description": "Real estate developer and businessman. In 2003, sold the GM Building in Manhattan with partners for a record $1.4 billion, generating substantial profit and further enhancing his reputation as a successful dealmaker.",
+      "roles": ["developer", "businessman"],
+      "affiliation": [],
+      "significance": 10,
+      "firstAppearance": "1977-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-037": {
+      "id": "entity-037",
+      "name": "Harry Macklowe",
+      "aliases": [],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "American",
+      "description": "Real estate developer who purchased the GM Building from Trump and partners in 2003 for $1.4 billion, then a record price for a U.S. office building.",
+      "roles": ["real estate developer"],
+      "affiliation": [],
+      "significance": 5,
+      "firstAppearance": "2003-05-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    }
+  },
+  "relationships": [
+    {
+      "id": "relationship-gm-building",
+      "source": "entity-001",
+      "target": "entity-037",
+      "type": "business-transaction",
+      "subtype": "real estate sale",
+      "description": "Trump and partners sold the GM Building to Harry Macklowe's group for $1.4 billion in 2003.",
+      "strength": 7,
+      "startDate": "2003-05-01",
+      "endDate": "2003-05-01",
+      "isBidirectional": true,
+      "relatedEvents": ["event-051"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    }
+  ],
+  "transactions": [
+    {
+      "id": "transaction-gm-building",
+      "date": "2003-05-01",
+      "fromEntity": "entity-037",
+      "toEntity": "entity-001",
+      "intermediaries": [],
+      "amount": 1400000000,
+      "currency": "USD",
+      "amountUSD": 1400000000,
+      "type": "property",
+      "subtype": "real estate sale",
+      "description": "Sale of the General Motors Building in Manhattan to Harry Macklowe's group for $1.4 billion, with Trump receiving a significant portion as a partner in the selling entity.",
+      "purpose": "Real estate transaction",
+      "method": "Property sale",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-051"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "This was the highest price ever paid for a U.S. office building at the time."
+    }
+  ],
+  "intelligenceActivities": []
+}

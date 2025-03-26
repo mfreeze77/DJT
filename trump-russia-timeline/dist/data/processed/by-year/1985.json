@@ -1,0 +1,908 @@
+{
+  "events": [
+    {
+      "id": "event-012",
+      "date": "1985-05-02",
+      "startDate": "1985-05-02",
+      "endDate": "1985-05-02",
+      "title": "Creation of Process Consultants Inc. in Panama",
+      "description": "Process Consultants Inc. is established in Panama through Mossack Fonseca with UBS Private Banking Deutschland AG as the intermediary. This shell company would later purchase a unit in Trump Palace in 1991 and sell it in 1994, with Trump's company acting as broker for the sale. The company utilized bearer shares, allowing for completely anonymous ownership where possession of physical certificates determined control.",
+      "categories": ["financial"],
+      "importance": 6,
+      "moneyFlow": {
+        "amount": 5000,
+        "direction": "indirect",
+        "isDirectFlow": false,
+        "entities": ["entity-030", "entity-032"],
+        "description": "While the initial creation of Process Consultants Inc. in Panama involved relatively modest setup fees (estimated at $5,000), its significance lies in establishing an offshore shell company structure that would later transact with Trump's organization. The company was created with bearer shares, allowing for completely anonymous ownership where possession of physical certificates determined control, a method frequently used to obscure beneficial ownership and avoid taxes. This Panama-based entity would later purchase a unit in Trump Palace in 1991 and sell it in 1994, with Trump's company acting as broker for the sale, creating a direct financial connection to Trump's business empire."
+      },
+      "location": {
+        "country": "Panama",
+        "city": "Panama City",
+        "coordinates": [8.9936, -79.5199]
+      },
+      "entities": ["entity-030", "entity-032"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_PP_83-86_support.md - Process Consultants Inc. analysis",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_Fin_PP_83-86_support.md",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "ICIJ Offshore Leaks Database - Process Consultants Inc.",
+          "url": "https://offshoreleaks.icij.org/nodes/10073321",
+          "documentType": "database record",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": ["event-002"],
+      "era": "era-001",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-004",
+      "date": "1985-06-17",
+      "startDate": "1985-06-17",
+      "endDate": "1985-06-17",
+      "title": "Trump acquires unfinished Hilton casino, renames it Trump's Castle",
+      "description": "After Hilton Hotels Corp. fails to secure a gaming license, Trump purchases their nearly completed Atlantic City casino-hotel for approximately $320 million. Trump places his then-wife Ivana in charge as president of the property, which opens as Trump's Castle. This acquisition gives Trump control of his second Atlantic City casino within little more than a year, rapidly expanding his gaming empire using primarily borrowed money.",
+      "categories": ["business", "financial"],
+      "importance": 7,
+      "moneyFlow": {
+        "amount": 320000000,
+        "direction": "from-trump",
+        "isDirectFlow": true,
+        "entities": ["entity-001", "entity-020"],
+        "description": "Trump's $320 million acquisition of the unfinished Hilton casino in Atlantic City represented one of his largest financial investments to date. The transaction was heavily leveraged, adding significantly to Trump's overall debt burden. This opportunistic purchase occurred after Hilton failed to secure a gaming license, allowing Trump to acquire a nearly completed property and quickly expand his Atlantic City casino empire. By placing his then-wife Ivana in charge of the property, Trump kept management control within the family while gaining his second major Atlantic City casino within barely a year."
+      },
+      "location": {
+        "country": "United States",
+        "city": "Atlantic City",
+        "coordinates": [39.3770, -74.4217]
+      },
+      "entities": ["entity-001", "entity-002", "entity-023", "entity-020"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_83-86.md – 1985 purchase of Hilton property",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_Fin_83-86.md",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "Casino Where Ivana Holds Court - The New York Times",
+          "url": "https://www.nytimes.com/1985/06/23/nyregion/casino-where-ivana-holds-court.html",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": ["event-003"],
+      "era": "era-001",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-005",
+      "date": "1985-07-01",
+      "startDate": "1985-07-01",
+      "endDate": "1985-07-01",
+      "title": "Purchase of Mar-a-Lago estate in Palm Beach",
+      "description": "Donald Trump acquires the historic 126-room Mar-a-Lago mansion in Palm Beach, Florida, for $5 million (plus $3 million for furnishings) from the Post Foundation. The property, originally built by cereal heiress Marjorie Merriweather Post in the 1920s, encompasses 17 acres of prime oceanfront real estate. Trump initially uses it as a private residence before later converting it to a private club in 1994 to offset maintenance costs.",
+      "categories": ["business", "financial", "personal"],
+      "importance": 7,
+      "moneyFlow": {
+        "amount": 8000000,
+        "direction": "from-trump",
+        "isDirectFlow": true,
+        "entities": ["entity-001"],
+        "description": "Trump's $8 million acquisition of Mar-a-Lago ($5 million for the property plus $3 million for furnishings) was a prestigious purchase that established his presence in Palm Beach high society. Unlike his heavily leveraged business deals, this personal residence purchase was reportedly made with cash. The historic 126-room mansion built by cereal heiress Marjorie Merriweather Post gave Trump a foothold in the exclusive Palm Beach community and would later become a significant asset when converted to a private club in 1994, generating substantial membership fees and providing Trump with a luxury winter residence."
+      },
+      "location": {
+        "country": "United States",
+        "city": "Palm Beach",
+        "coordinates": [26.6769, -80.0370]
+      },
+      "entities": ["entity-001", "entity-025"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_83-86.md – 1985 Mar-a-Lago purchase",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_Fin_83-86.md",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "Mar-a-Lago - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mar-a-Lago",
+          "documentType": "online encyclopedia",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-001",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-006",
+      "date": "1985-09-15",
+      "startDate": "1985-09-15",
+      "endDate": "1985-09-15",
+      "title": "Partnership with Lee Iacocca on West Palm Beach condos",
+      "description": "Trump teams with Chrysler CEO and auto industry legend Lee Iacocca to rescue and complete a stalled luxury condominium project in West Palm Beach, launching \"Trump Plaza of the Palm Beaches.\" The partnership gives Trump a presence in the West Palm Beach real estate market complementing his Mar-a-Lago acquisition, while lending Iacocca's credibility to Trump's expanding brand outside New York.",
+      "categories": ["business", "financial"],
+      "importance": 6,
+      "moneyFlow": {
+        "amount": 10000000,
+        "direction": "investment",
+        "isDirectFlow": true,
+        "entities": ["entity-001", "entity-026"],
+        "description": "Trump and Lee Iacocca's partnership to rescue and complete a stalled luxury condominium project in West Palm Beach represented an estimated $10 million joint investment (exact figures not publicly documented). This partnership provided financial benefits to both parties: for Trump, it expanded his Palm Beach area holdings beyond Mar-a-Lago and generated real estate sales revenue; for Iacocca, it revived a struggling development. The partnership also had significant branding value, with Iacocca's reputation as a respected business leader lending credibility to Trump's Florida expansion."
+      },
+      "location": {
+        "country": "United States",
+        "city": "West Palm Beach",
+        "coordinates": [26.7056, -80.0364]
+      },
+      "entities": ["entity-001", "entity-026"],
+      "sources": [
+        {
+          "description": "Tmanch_CH2.md - Bogatin transaction",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_CH2.md#early-soviet-bloc-buyers",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": ["event-005"],
+      "era": "era-001",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-007",
+      "date": "1985-10-09",
+      "startDate": "1985-10-09",
+      "endDate": "1986-01-15",
+      "title": "Unveiling of massive 'Television City' project on West Side rail yards",
+      "description": "Trump proposes an ambitious $4–5 billion complex on Manhattan's Upper West Side, to include 8,000 apartments, television/film studios for NBC, and the world's tallest building (a 150-story skyscraper). The massive development, planned for 76 acres of former rail yards purchased years earlier, faces significant opposition from community groups and NYC Mayor Ed Koch over requested tax abatements. Trump's financing remains unclear despite the project's enormous scale.",
+      "categories": ["business", "political"],
+      "importance": 8,
+      "moneyFlow": {
+        "amount": 100000000,
+        "direction": "projected-investment",
+        "isDirectFlow": false,
+        "entities": ["entity-001", "entity-024"],
+        "description": "Trump's Television City project announcement represented a proposed $4-5 billion investment, though Trump had only invested an estimated $100 million in acquiring the land at this point. The massive development plans included 8,000 apartments, television/film studios for NBC, and the world's tallest building. Trump sought substantial tax abatements from New York City to make the project financially viable, leading to conflicts with Mayor Ed Koch. The projected financial flows were enormous, but the actual initial investment was much smaller, with Trump seeking outside investors and government subsidies to fund the ambitious development."
+      },
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": [40.7730, -73.9903]
+      },
+      "entities": ["entity-001", "entity-024"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_83-86.md – 1985–86 Television City details",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_Fin_83-86.md",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "The Lost City of Trump - POLITICO Magazine",
+          "url": "https://www.politico.com/magazine/story/2018/06/29/trump-robert-moses-new-york-television-city-urban-development-1980s-218836/",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-001",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-008",
+      "date": "1985-10-21",
+      "startDate": "1985-10-21",
+      "endDate": "1986-07-15",
+      "title": "Drug trafficking indictment of Joseph Weichselbaum, Trump's helicopter operator",
+      "description": "Joseph Weichselbaum, who operated helicopters ferrying VIPs to Trump's Atlantic City casinos, is indicted on drug trafficking charges by federal prosecutors. Despite the serious felony charges, Trump continued employing Weichselbaum's helicopter service for his casinos, and later writes a personal letter to the judge requesting leniency in his sentencing. This connection raises questions about Trump's associations and judgment regarding individuals with criminal backgrounds in his business operations.",
+      "categories": ["legal", "business"],
+      "importance": 6,
+      "moneyFlow": {
+        "amount": 2000000,
+        "direction": "to-trump",
+        "isDirectFlow": true,
+        "entities": ["entity-001", "entity-012"],
+        "description": "While not a direct investment, this relationship represented an ongoing financial arrangement where Trump's casinos paid Weichselbaum's helicopter service an estimated $2 million annually to ferry VIP gamblers to Atlantic City. Despite Weichselbaum's indictment on drug trafficking charges, Trump maintained this business relationship and even wrote a character reference letter to the judge before Weichselbaum's sentencing. The willingness to continue this financial arrangement with an individual under criminal investigation demonstrated Trump's prioritization of operational needs over potential reputational risks."
+      },
+      "location": {
+        "country": "United States",
+        "city": "",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-012"],
+      "sources": [
+        {
+          "description": "Tmanch_CH2_support.md – 1985–86 Weichselbaum indictment",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_CH2_support.md",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "Donald Trump's Worst Deal | The New Yorker",
+          "url": "https://www.newyorker.com/magazine/2017/03/13/donald-trumps-worst-deal",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-001",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-013",
+      "date": "1985-10-15",
+      "startDate": "1985-09-01",
+      "endDate": "1986-02-15",
+      "title": "Holiday Inn sues Trump over Atlantic City casino management",
+      "description": "Holiday Inns, Inc. sues Trump alleging violation of their partnership agreement for the Trump Plaza casino. The lawsuit claims Trump is improperly diverting resources to his newly acquired Trump's Castle and blocking construction of a shared parking garage. They also object to Trump naming his second casino 'Trump's Castle,' causing brand confusion with 'Harrah's Marina.' Rather than endure a prolonged trial, the parties negotiate a settlement where Trump buys out Holiday Inn's stake.",
+      "categories": ["legal", "business"],
+      "importance": 6,
+      "moneyFlow": {
+        "amount": 1000000,
+        "direction": "legal-cost",
+        "isDirectFlow": true,
+        "entities": ["entity-001", "entity-019"],
+        "description": "The Holiday Inn lawsuit against Trump over Atlantic City casino management represented an estimated $1 million in legal expenses for both parties (exact figures not publicly documented). While not a direct investment or acquisition cost, these legal proceedings had significant financial implications as they ultimately led to Trump buying out Holiday Inn's stake in Trump Plaza for $70 million in 1986. The lawsuit highlighted the financial tensions between Trump and his business partners regarding resource allocation between his growing portfolio of Atlantic City properties."
+      },
+      "location": {
+        "country": "United States",
+        "city": "Atlantic City",
+        "coordinates": [39.3643, -74.4229]
+      },
+      "entities": ["entity-001", "entity-019", "entity-022"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_83-86.md - Legal disputes and Holiday Inn lawsuit",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_Fin_83-86.md",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "Holiday Inns, Inc. v. Trump, 617 F. Supp. 1443 (D.N.J. 1985)",
+          "url": "https://law.justia.com/cases/federal/district-courts/FSupp/617/1443/2245697/",
+          "documentType": "court case",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": ["event-003", "event-009"],
+      "era": "era-001",
+      "mediaUrls": []
+    }
+  ],
+  "entities": {
+    "entity-001": {
+      "id": "entity-001",
+      "name": "Donald J. Trump",
+      "aliases": ["Donald John Trump", "DJT"],
+      "type": "person",
+      "subtype": "",
+      "nationality": "American",
+      "description": "Real estate developer, 45th President of the US. Key figure in the 1977–1983 Manhattan real estate deals and later expansions.",
+      "roles": ["developer", "political figure"],
+      "affiliation": [],
+      "significance": 10,
+      "firstAppearance": "1977-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-002": {
+      "id": "entity-002",
+      "name": "Ivana Trump (née Zelníčková)",
+      "aliases": ["Ivana Zelníčková", "Ivana Winklmayr"],
+      "type": "person",
+      "subtype": "",
+      "nationality": "Czech, Austrian, later American",
+      "description": "Donald Trump's first wife. Emigrated from communist Czechoslovakia via a marriage of convenience. Drew interest from StB due to her father's informant status.",
+      "roles": ["spouse of Donald Trump"],
+      "affiliation": [],
+      "significance": 8,
+      "firstAppearance": "1971-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-012": {
+      "id": "entity-012",
+      "name": "Joseph Weichselbaum",
+      "aliases": ["Joey Weichselbaum"],
+      "type": "person",
+      "subtype": "criminal",
+      "nationality": "American",
+      "description": "Operator of Trump's helicopter service for Atlantic City casinos who was indicted for cocaine trafficking in 1985. Despite the serious charges, Trump continued using his services and later wrote a character reference letter to the judge before his sentencing. Weichselbaum served three years in prison.",
+      "roles": ["helicopter service operator", "drug trafficker"],
+      "affiliation": [],
+      "significance": 6,
+      "firstAppearance": "1985-10-21",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [
+        {
+          "description": "Tmanch_CH2_support.md - Weichselbaum references",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_CH2_support.md",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": "The Weichselbaum relationship demonstrates Trump's willingness to maintain business ties with individuals under criminal investigation."
+    },
+    "entity-019": {
+      "id": "entity-019",
+      "name": "Holiday Inn Corporation",
+      "aliases": [],
+      "type": "organization",
+      "subtype": "hospitality",
+      "nationality": "American",
+      "description": "Hotel company that co-financed Trump's first Atlantic City casino (via its Harrah's division) in 1982.",
+      "roles": [],
+      "affiliation": [],
+      "significance": 7,
+      "firstAppearance": "1982-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-020": {
+      "id": "entity-020",
+      "name": "Hilton Hotels Corporation",
+      "aliases": ["Hilton"],
+      "type": "organization",
+      "subtype": "hospitality",
+      "nationality": "American",
+      "description": "Major hotel chain from which Trump purchased an unfinished Atlantic City casino property in 1985 after Hilton failed to obtain a gaming license.",
+      "roles": [],
+      "affiliation": [],
+      "significance": 6,
+      "firstAppearance": "1985-06-17",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-022": {
+      "id": "entity-022",
+      "name": "Trump Plaza (Atlantic City)",
+      "aliases": ["Trump Plaza"],
+      "type": "property",
+      "subtype": "casino",
+      "nationality": "American",
+      "description": "Trump's first Atlantic City casino, opened in May, 1984 as a joint venture with Holiday Inn/Harrah's. Initially branded as 'Harrah's at Trump Plaza' until Trump bought out his partners in 1986, renaming it simply 'Trump Plaza.' The 39-story, 614-room casino-hotel was located on the Boardwalk.",
+      "roles": [],
+      "affiliation": [],
+      "significance": 7,
+      "firstAppearance": "1984-05-14",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {
+        "location": "Atlantic City, New Jersey",
+        "propertyValue": 210000000
+      },
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [
+        {
+          "description": "Tmanch_Fin_83-86.md - Trump Plaza details",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_Fin_83-86.md",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": "Trump Plaza marked Trump's first major expansion beyond New York real estate into the casino industry."
+    },
+    "entity-023": {
+      "id": "entity-023",
+      "name": "Trump's Castle",
+      "aliases": ["Trump Castle"],
+      "type": "property",
+      "subtype": "casino",
+      "nationality": "American",
+      "description": "Atlantic City casino-hotel acquired by Trump from Hilton Hotels in 1985 after Hilton failed to secure a gaming license. Located in the marina district, away from the Boardwalk. Ivana Trump was placed in charge as president, overseeing operations and design.",
+      "roles": [],
+      "affiliation": [],
+      "significance": 7,
+      "firstAppearance": "1985-06-17",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {
+        "location": "Atlantic City, New Jersey",
+        "propertyValue": 320000000
+      },
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [
+        {
+          "description": "Tmanch_Fin_83-86.md - Trump's Castle details",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_Fin_83-86.md",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": "Trump's Castle represented Trump's second major casino acquisition in Atlantic City, significantly increasing his gaming industry footprint."
+    },
+    "entity-024": {
+      "id": "entity-024",
+      "name": "Ed Koch",
+      "aliases": ["Edward Koch"],
+      "type": "person",
+      "subtype": "politician",
+      "nationality": "American",
+      "description": "Mayor of New York City (1978-1989) who frequently clashed with Trump over tax abatements and development proposals. Koch opposed Trump's requests for tax breaks on the ambitious Television City project on Manhattan's Upper West Side.",
+      "roles": ["politician", "mayor"],
+      "affiliation": [],
+      "significance": 6,
+      "firstAppearance": "",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {
+        "position": "Mayor of New York City"
+      },
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [
+        {
+          "description": "Tmanch_Fin_83-86.md - Koch opposition",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_Fin_83-86.md",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": "The Koch-Trump feud became a significant element of New York City politics in the 1980s."
+    },
+    "entity-025": {
+      "id": "entity-025",
+      "name": "Mar-a-Lago",
+      "aliases": [],
+      "type": "property",
+      "subtype": "estate",
+      "nationality": "American",
+      "description": "Historic 126-room Palm Beach mansion built in the 1920s by cereal heiress Marjorie Merriweather Post. Purchased by Trump in 1985 for $8 million (including furnishings). Initially a private residence, later converted to a private club in 1994 to offset maintenance costs.",
+      "roles": [],
+      "affiliation": [],
+      "significance": 7,
+      "firstAppearance": "1985-07-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {
+        "location": "Palm Beach, Florida",
+        "propertyValue": 8000000
+      },
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [
+        {
+          "description": "Mar-a-Lago - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mar-a-Lago",
+          "documentType": "online encyclopedia",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": "Mar-a-Lago represented Trump's expansion into Palm Beach high society and luxury property ownership beyond New York."
+    },
+    "entity-026": {
+      "id": "entity-026",
+      "name": "Lee Iacocca",
+      "aliases": ["Lido Anthony Iacocca"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "American",
+      "description": "Celebrated auto industry executive who led both Ford and Chrysler. Partnered with Trump in 1985 to complete a luxury condominium project in West Palm Beach, lending his considerable business credibility to Trump's Florida expansion.",
+      "roles": ["business executive", "business partner"],
+      "affiliation": [],
+      "significance": 5,
+      "firstAppearance": "1985-09-15",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {
+        "position": "CEO, Chrysler Corporation"
+      },
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [
+        {
+          "description": "Tmanch_Fin_83-86.md - Iacocca partnership",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_Fin_83-86.md",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": "Iacocca's involvement added credibility to Trump's Florida ventures just as Trump was establishing his Palm Beach presence."
+    },
+    "entity-030": {
+      "id": "entity-030",
+      "name": "Process Consultants Inc.",
+      "aliases": [],
+      "type": "organization",
+      "subtype": "shell company",
+      "nationality": "Panama",
+      "description": "Panamanian shell company established in 1985 through Mossack Fonseca. Later purchased a unit in Trump Palace in 1991, with Trump's company acting as broker for its sale in 1994. Utilized bearer shares for anonymous ownership.",
+      "roles": [],
+      "affiliation": ["entity-032"],
+      "significance": 6,
+      "firstAppearance": "1985-05-02",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [
+        {
+          "description": "ICIJ Offshore Leaks Database - Process Consultants Inc.",
+          "url": "https://offshoreleaks.icij.org/nodes/10073321",
+          "documentType": "database record",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-032": {
+      "id": "entity-032",
+      "name": "UBS Private Banking Deutschland AG",
+      "aliases": ["UBS Private Banking"],
+      "type": "financial-institution",
+      "subtype": "bank",
+      "nationality": "German",
+      "description": "German private banking institution that acted as intermediary for the creation of Process Consultants Inc. through Mossack Fonseca in Panama.",
+      "roles": [],
+      "affiliation": [],
+      "significance": 5,
+      "firstAppearance": "1985-05-02",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    }
+  },
+  "relationships": [
+    {
+      "id": "relationship-ivana-castle",
+      "source": "entity-002",
+      "target": "entity-023",
+      "type": "management",
+      "subtype": "executive",
+      "description": "Ivana Trump was appointed president of Trump's Castle casino in Atlantic City by Donald Trump after its acquisition from Hilton in 1985.",
+      "strength": 8,
+      "startDate": "1985-06-17",
+      "endDate": "",
+      "isBidirectional": false,
+      "relatedEvents": ["event-004"],
+      "evidenceStrength": "confirmed",
+      "sources": [
+        {
+          "description": "Casino Where Ivana Holds Court - The New York Times",
+          "url": "https://www.nytimes.com/1985/06/23/nyregion/casino-where-ivana-holds-court.html",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": "Ivana's management role demonstrated Trump's trust in her business capabilities and kept casino leadership within the family."
+    },
+    {
+      "id": "relationship-trump-iacocca",
+      "source": "entity-001",
+      "target": "entity-026",
+      "type": "business-partnership",
+      "subtype": "",
+      "description": "Trump partnered with Lee Iacocca on a West Palm Beach condominium project in 1985, shortly after acquiring Mar-a-Lago.",
+      "strength": 6,
+      "startDate": "1985-09-15",
+      "endDate": "",
+      "isBidirectional": true,
+      "relatedEvents": ["event-006"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    {
+      "id": "relationship-trump-weichselbaum",
+      "source": "entity-001",
+      "target": "entity-012",
+      "type": "business",
+      "subtype": "service contract",
+      "description": "Trump maintained a business relationship with Joseph Weichselbaum, whose helicopter company provided transportation services for Trump's Atlantic City casinos, even after Weichselbaum was indicted for drug trafficking.",
+      "strength": 7,
+      "startDate": "1985-01-01",
+      "endDate": "1988-01-01",
+      "isBidirectional": true,
+      "relatedEvents": ["event-008"],
+      "evidenceStrength": "confirmed",
+      "sources": [
+        {
+          "description": "Tmanch_CH2_support.md - Weichselbaum references",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_CH2_support.md",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": "Trump later wrote a character reference letter to the judge before Weichselbaum's sentencing, demonstrating a personal connection beyond a standard business relationship."
+    },
+    {
+      "id": "relationship-process-consultants",
+      "source": "entity-030",
+      "target": "entity-001",
+      "type": "financial",
+      "subtype": "future real estate transaction",
+      "description": "Process Consultants Inc., a Panamanian shell company created in 1985, would later purchase a unit in Trump Palace in 1991 and sell it in 1994, with Trump's company acting as broker for the sale.",
+      "strength": 7,
+      "startDate": "1985-05-02",
+      "endDate": "1994-09-15",
+      "isBidirectional": false,
+      "relatedEvents": ["event-012"],
+      "evidenceStrength": "confirmed",
+      "sources": [
+        {
+          "description": "Earliest Trump mention in Panama Papers dates to 1990s: Report - Fox News",
+          "url": "https://www.foxnews.com/politics/earliest-trump-mention-in-panama-papers-dates-to-1990s-report",
+          "documentType": "news article",
+          "citation": "A Panamanian shell company that prosecutors later said was formed 'for tax advantages,' called Process Consultants, Inc., bought a 16th floor condominium at Trump Palace on the Upper East Side in 1991."
+        }
+      ],
+      "documentationLink": "",
+      "notes": "The use of bearer shares by Process Consultants Inc. made it impossible to determine the true beneficial owner, creating a completely anonymous channel for real estate investment in Trump properties."
+    },
+    {
+      "id": "relationship-ubs-process",
+      "source": "entity-032",
+      "target": "entity-030",
+      "type": "financial-services",
+      "subtype": "offshore formation",
+      "description": "UBS Private Banking Deutschland AG acted as the intermediary for the creation of Process Consultants Inc. through Mossack Fonseca in Panama.",
+      "strength": 8,
+      "startDate": "1985-05-02",
+      "endDate": "",
+      "isBidirectional": false,
+      "relatedEvents": ["event-012"],
+      "evidenceStrength": "confirmed",
+      "sources": [
+        {
+          "description": "ICIJ Offshore Leaks Database - Process Consultants Inc.",
+          "url": "https://offshoreleaks.icij.org/nodes/10073321",
+          "documentType": "database record",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": "UBS's role as intermediary highlights how major financial institutions facilitated the creation of offshore structures that would later interact with Trump's business empire."
+    }
+  ],
+  "transactions": [
+    {
+      "id": "transaction-process-consultants",
+      "date": "1985-05-02",
+      "fromEntity": "entity-030",
+      "toEntity": "",
+      "intermediaries": ["entity-032"],
+      "amount": 5000,
+      "currency": "USD",
+      "amountUSD": 5000,
+      "type": "financial",
+      "subtype": "shell company formation",
+      "description": "Creation of Process Consultants Inc. in Panama through Mossack Fonseca with UBS Private Banking Deutschland AG as the intermediary.",
+      "purpose": "Offshore entity formation",
+      "method": "Bearer shares",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "Panama",
+      "relatedEvents": ["event-012"],
+      "evidenceStrength": "confirmed",
+      "sources": [
+        {
+          "description": "ICIJ Offshore Leaks Database - Process Consultants Inc.",
+          "url": "https://offshoreleaks.icij.org/nodes/10073321",
+          "documentType": "database record",
+          "citation": ""
+        }
+      ],
+      "panamaConnection": {
+        "isInPanamaPapers": true,
+        "offshoreEntities": ["Process Consultants Inc."],
+        "beneficiaries": ["Unknown (bearer shares)"],
+        "jurisdictions": ["Panama"],
+        "leakSource": "Panama Papers"
+      },
+      "documentationLink": "",
+      "notes": "This shell company, created with bearer shares for complete anonymity, would later purchase a unit in Trump Palace in 1991 and sell it in 1994, with Trump's company acting as broker. This represents one of the earliest documented connections between Trump's business operations and the offshore financial system revealed in the Panama Papers."
+    },
+    {
+      "id": "transaction-castle",
+      "date": "1985-06-17",
+      "fromEntity": "entity-001",
+      "toEntity": "entity-020",
+      "intermediaries": [],
+      "amount": 320000000,
+      "currency": "USD",
+      "amountUSD": 320000000,
+      "type": "property",
+      "subtype": "acquisition",
+      "description": "Trump's purchase of the unfinished Hilton casino in Atlantic City for $320 million, later renamed Trump's Castle.",
+      "purpose": "Casino acquisition",
+      "method": "Primarily financed through debt",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-004"],
+      "evidenceStrength": "confirmed",
+      "sources": [
+        {
+          "description": "Tmanch_Fin_83-86.md - 1985 purchase of Hilton property",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_Fin_83-86.md",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "This acquisition significantly increased Trump's Atlantic City casino footprint and debt load."
+    },
+    {
+      "id": "transaction-mar-a-lago",
+      "date": "1985-07-01",
+      "fromEntity": "entity-001",
+      "toEntity": "entity-025",
+      "intermediaries": [],
+      "amount": 8000000,
+      "currency": "USD",
+      "amountUSD": 8000000,
+      "type": "property",
+      "subtype": "residential purchase",
+      "description": "Trump's purchase of the Mar-a-Lago estate in Palm Beach for $5 million plus $3 million for furnishings from the Post Foundation.",
+      "purpose": "Personal residence acquisition",
+      "method": "Cash purchase",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-005"],
+      "evidenceStrength": "confirmed",
+      "sources": [
+        {
+          "description": "Tmanch_Fin_83-86.md – 1985 Mar-a-Lago purchase",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_Fin_83-86.md",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "This historic estate would later become a significant part of Trump's brand and image."
+    },
+    {
+      "id": "transaction-iacocca-partnership",
+      "date": "1985-09-15",
+      "fromEntity": "entity-001",
+      "toEntity": "entity-026",
+      "intermediaries": [],
+      "amount": 10000000,
+      "currency": "USD",
+      "amountUSD": 10000000,
+      "type": "business",
+      "subtype": "partnership formation",
+      "description": "Trump's partnership with Lee Iacocca to rescue and complete a stalled luxury condominium project in West Palm Beach, launching 'Trump Plaza of the Palm Beaches.'",
+      "purpose": "Real estate development",
+      "method": "Joint investment",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-006"],
+      "evidenceStrength": "confirmed",
+      "sources": [
+        {
+          "description": "Tmanch_CH2.md - Bogatin transaction",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_CH2.md#early-soviet-bloc-buyers",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "This partnership gave Trump a presence in the West Palm Beach real estate market complementing his Mar-a-Lago acquisition, while lending Iacocca's credibility to Trump's expanding brand outside New York."
+    },
+    {
+      "id": "transaction-weichselbaum-service",
+      "date": "1985-10-21",
+      "fromEntity": "entity-001",
+      "toEntity": "entity-012",
+      "intermediaries": [],
+      "amount": 2000000,
+      "currency": "USD",
+      "amountUSD": 2000000,
+      "type": "business",
+      "subtype": "service contract",
+      "description": "Trump's casinos continued to contract helicopter services from Joseph Weichselbaum's company even after his indictment on drug trafficking charges.",
+      "purpose": "VIP transportation",
+      "method": "Ongoing business relationship",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-008"],
+      "evidenceStrength": "confirmed",
+      "sources": [
+        {
+          "description": "Tmanch_CH2_support.md – 1985–86 Weichselbaum indictment",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_CH2_support.md",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "Trump's willingness to maintain a business relationship with an individual under indictment for drug trafficking, and later writing a character reference letter for him, raised questions about Trump's judgment and associations."
+    }
+  ]
+}

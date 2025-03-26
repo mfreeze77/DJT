@@ -1,0 +1,65 @@
+{
+  "events": [
+    {
+      "id": "event-049",
+      "date": "2001-01-01",
+      "startDate": "2001-01-01",
+      "endDate": "2001-01-01",
+      "title": "Completion of Trump World Tower",
+      "description": "Donald Trump finalizes the 72-story luxury Trump World Tower across from the UN in Manhattan, financed partly by Daewoo Group. It becomes one of the world's tallest residential buildings.",
+      "categories": ["business"],
+      "importance": 7,
+      "moneyFlow": {
+        "amount": 300000000,
+        "direction": "restructuring",
+        "isDirectFlow": false,
+        "entities": ["entity-001", "Daewoo Group"],
+        "description": "The Trump World Tower was a $300 million project developed by Trump with partners including Daewoo of South Korea. Completed in 2001, the 72-story luxury condominium building was financed through a combination of partnerships, construction loans from Deutsche Bank, and pre-sales of condominium units to buyers worldwide."
+      },
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": []
+      },
+      "entities": ["entity-001"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_201-204.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    }
+  ],
+  "entities": {
+    "entity-001": {
+      "id": "entity-001",
+      "name": "Donald J. Trump",
+      "aliases": ["Donald John Trump", "DJT"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "American",
+      "description": "Real estate developer and businessman. In 2001, completed the prestigious Trump World Tower in Manhattan, adding to his portfolio of high-profile properties.",
+      "roles": ["developer", "businessman"],
+      "affiliation": [],
+      "significance": 10,
+      "firstAppearance": "1977-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    }
+  },
+  "relationships": [],
+  "transactions": [],
+  "intelligenceActivities": []
+}

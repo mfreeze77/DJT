@@ -1,0 +1,484 @@
+{
+  "events": [
+    {
+      "id": "event-066",
+      "date": "2009-02-13",
+      "startDate": "2009-02-13",
+      "endDate": "2009-02-13",
+      "title": "Trump Entertainment Resorts files for bankruptcy",
+      "description": "Trump's casino holding company files for Chapter 11 bankruptcy protection, burdened by $1.2 billion in debt. Trump and his daughter Ivanka resigned from the company's board just before the filing. Trump would ultimately retain a 10% stake and licensing agreement for his name but lose controlling interest.",
+      "categories": ["business", "financial", "legal"],
+      "importance": 7,
+      "moneyFlow": null,
+      "location": {
+        "country": "United States",
+        "city": "Atlantic City",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-045"],
+      "sources": [
+        {
+          "description": "Trump Entertainment Resorts - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Trump_Entertainment_Resorts",
+          "documentType": "reference",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-067",
+      "date": "2009-02-17",
+      "startDate": "2009-02-17",
+      "endDate": "2009-02-17",
+      "title": "Trump acquires Lowes Island Golf Club",
+      "description": "Trump purchases the Lowes Island Golf Club in Virginia and rebrands it Trump National Golf Club, Washington, D.C. The 800-acre property in Loudoun County was acquired for an undisclosed sum, though it had been put on the market for $18 million by its previous owner. Trump would only say he \"paid a lot\" for the club and immediately announced plans for extensive renovations to upgrade it to Trump-brand luxury standards.",
+      "categories": ["business", "financial"],
+      "importance": 6,
+      "moneyFlow": {
+        "amount": 18000000,
+        "direction": "from-trump",
+        "isDirectFlow": true,
+        "entities": ["entity-001"]
+      },
+      "location": {
+        "country": "United States",
+        "city": "Loudoun County",
+        "coordinates": []
+      },
+      "entities": ["entity-001"],
+      "sources": [
+        {
+          "description": "Donald Trump buys Lowes Island Club - Washington Business Journal",
+          "url": "https://www.bizjournals.com/washington/stories/2009/02/16/daily6.html",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-068",
+      "date": "2009-01-01",
+      "startDate": "2009-01-01",
+      "endDate": "2009-03-31",
+      "title": "Trump settles Chicago tower dispute with Deutsche Bank",
+      "description": "After suing Deutsche Bank for $3 billion in 2008 and being countersued for his $40 million personal guarantee, Trump reaches a settlement with the bank in early 2009. The agreement extends the loan terms for the Trump International Hotel & Tower in Chicago and avoids a judgment against Trump.",
+      "categories": ["financial", "legal", "business"],
+      "importance": 8,
+      "moneyFlow": {
+        "amount": 270000000,
+        "direction": "to-trump",
+        "isDirectFlow": false,
+        "entities": ["entity-001", "entity-041"]
+      },
+      "location": {
+        "country": "United States",
+        "city": "Chicago",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-041"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_209-212.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": ["event-060", "event-061"],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-069",
+      "date": "2009-04-30",
+      "startDate": "2009-04-30",
+      "endDate": "2009-04-30",
+      "title": "Trump International Hotel & Tower Chicago completed",
+      "description": "After four years of construction, the 92-story Trump International Hotel & Tower in Chicago is fully completed. The skyscraper faced financial difficulties during the 2008 financial crisis, resulting in a loan default and legal battle with Deutsche Bank, but eventually opened as one of Trump's signature properties.",
+      "categories": ["business"],
+      "importance": 7,
+      "moneyFlow": null,
+      "location": {
+        "country": "United States",
+        "city": "Chicago",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-041"],
+      "sources": [
+        {
+          "description": "Trump International Hotel and Tower, Chicago - Hotel Management Network",
+          "url": "https://www.hotelmanagement-network.com/projects/trumpinternational/",
+          "documentType": "reference",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": ["event-060", "event-061", "event-068"],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-070",
+      "date": "2009-01-01",
+      "startDate": "2009-01-01",
+      "endDate": "2009-12-31",
+      "title": "Trump withdraws from Fort Lauderdale tower project",
+      "description": "Trump officially withdraws his name from the unfinished Trump International Hotel & Tower in Fort Lauderdale after the developers ran out of financing. The 24-story oceanfront condo-hotel project, announced in 2005, goes into foreclosure with $185 million in debt. Over 100 condo buyers who lost their deposits filed lawsuits against Trump and the developers.",
+      "categories": ["business", "legal"],
+      "importance": 6,
+      "moneyFlow": null,
+      "location": {
+        "country": "United States",
+        "city": "Fort Lauderdale",
+        "coordinates": []
+      },
+      "entities": ["entity-001"],
+      "sources": [
+        {
+          "description": "PolitiFact | Did Trump bail on building condos in Florida?",
+          "url": "https://www.politifact.com/factchecks/2016/jul/29/tim-kaine/did-trump-bail-building-condos-florida/",
+          "documentType": "fact check",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": ["event-065"],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-071",
+      "date": "2009-09-15",
+      "startDate": "2009-09-15",
+      "endDate": "2009-09-15",
+      "title": "Judge dismisses Trump's defamation lawsuit against author",
+      "description": "A New Jersey judge dismisses Trump's $5 billion defamation lawsuit against author Timothy O'Brien, whose book 'TrumpNation' suggested Trump's net worth was only $150-250 million rather than the billions Trump claimed. During depositions, Trump reportedly admitted that he often 'inflated' valuations in public statements.",
+      "categories": ["legal"],
+      "importance": 5,
+      "moneyFlow": null,
+      "location": {
+        "country": "United States",
+        "city": "",
+        "coordinates": []
+      },
+      "entities": ["entity-001"],
+      "sources": [
+        {
+          "description": "Personal and business legal affairs of Donald Trump - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Personal_and_business_legal_affairs_of_Donald_Trump",
+          "documentType": "reference",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-072",
+      "date": "2009-12-31",
+      "startDate": "2009-03-01",
+      "endDate": "2009-12-31",
+      "title": "Trump SoHo condo owners allege misrepresentations",
+      "description": "Owners at Trump SoHo accuse Trump's children (Donald Jr. and Ivanka) of having misled them about sell-through rates. Marketing materials claimed the project was 50-60% sold when in reality far fewer units were sold. The allegations would eventually lead to a 2011 settlement.",
+      "categories": ["business", "legal"],
+      "importance": 6,
+      "moneyFlow": null,
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-040", "entity-046"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_205-208_pp.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-073",
+      "date": "2009-03-17",
+      "startDate": "2009-03-17",
+      "endDate": "2009-03-17",
+      "title": "David Murcia Guzmán convicted of money laundering",
+      "description": "Colombian businessman David Murcia Guzmán is convicted of laundering drug money through real estate, including units in Trump Ocean Club Panama. U.S. prosecutors found he had funneled over $10 million in drug proceeds through companies and luxury condos. The scandal connected Trump's Panama tower to narcotics money laundering, though the Trump Organization claimed it merely licensed its name.",
+      "categories": ["legal", "financial"],
+      "importance": 7,
+      "moneyFlow": null,
+      "location": {
+        "country": "United States",
+        "city": "",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-042", "entity-043"],
+      "sources": [
+        {
+          "description": "Narco-a-lago: Money Laundering at Trump Ocean Club Panama - Global Witness",
+          "url": "https://www.globalwitness.org/en/campaigns/corruption-and-money-laundering/narco-a-lago-panama/",
+          "documentType": "report",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": ["event-063"],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-074",
+      "date": "2009-01-01",
+      "startDate": "2009-01-01",
+      "endDate": "2009-12-31",
+      "title": "Revenue from The Apprentice TV show",
+      "description": "Trump's NBC reality show The Apprentice (and its celebrity spinoff) remained a major income source through 2009. Tax filings later showed that The Apprentice and related licensing deals became a financial lifeline during this era, generating substantial cash while many of Trump's real estate businesses suffered losses. In the late 2000s, Trump was making tens of millions per year from the show.",
+      "categories": ["business", "financial", "entertainment"],
+      "importance": 7,
+      "moneyFlow": {
+        "amount": 35000000,
+        "direction": "to-trump",
+        "isDirectFlow": true,
+        "entities": ["entity-001"]
+      },
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": []
+      },
+      "entities": ["entity-001"],
+      "sources": [
+        {
+          "description": "Donald Trump Raked in $427 Million on 'the Apprentice': NYT - Business Insider",
+          "url": "https://www.businessinsider.com/donald-trump-raked-in-427-million-on-the-apprentice-nyt-2020-9",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    }
+  ],
+  "entities": {
+    "entity-001": {
+      "id": "entity-001",
+      "name": "Donald J. Trump",
+      "aliases": ["Donald John Trump", "DJT"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "American",
+      "description": "Real estate developer, businessman, and television personality. In 2009, faced multiple significant events: casino company bankruptcy, Chicago tower completion, and settlement with Deutsche Bank over loan default.",
+      "roles": ["developer", "businessman", "television personality"],
+      "affiliation": [],
+      "significance": 10,
+      "firstAppearance": "1977-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-040": {
+      "id": "entity-040",
+      "name": "Donald Trump Jr.",
+      "aliases": ["Don Jr."],
+      "type": "person",
+      "subtype": "",
+      "nationality": "American",
+      "description": "Eldest son of Donald Trump who works as an executive in the Trump Organization. In 2009, along with his sister Ivanka, was accused of misleading condo buyers about sell-through rates at Trump SoHo.",
+      "roles": ["business executive"],
+      "affiliation": ["Trump Organization"],
+      "significance": 7,
+      "firstAppearance": "2008-07-02",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-041": {
+      "id": "entity-041",
+      "name": "Deutsche Bank",
+      "aliases": [],
+      "type": "organization",
+      "subtype": "financial-institution",
+      "nationality": "German",
+      "description": "German multinational investment bank and financial services company that provided financing for Trump's Chicago tower project. Was sued by Trump in 2008 amid the financial crisis and reached a settlement in 2009.",
+      "roles": ["lender"],
+      "affiliation": [],
+      "significance": 8,
+      "firstAppearance": "2008-11-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-042": {
+      "id": "entity-042",
+      "name": "David Helmut Murcia Guzmán",
+      "aliases": ["DMG"],
+      "type": "person",
+      "subtype": "criminal",
+      "nationality": "Colombian",
+      "description": "Colombian businessman who operated a massive pyramid scheme (DMG Grupo) and was convicted in 2009 of laundering drug money through real estate, including units in Trump Ocean Club Panama.",
+      "roles": ["money launderer", "fraudster"],
+      "affiliation": ["DMG Grupo"],
+      "significance": 7,
+      "firstAppearance": "2008-11-18",
+      "lastAppearance": "2009-03-17",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-043": {
+      "id": "entity-043",
+      "name": "Alexandre Ventura Nogueira",
+      "aliases": ["Ventura Nogueira"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "Brazilian",
+      "description": "Brazilian broker living in Panama who became a lead seller for Trump Ocean Club condos. He facilitated purchases for buyers using anonymous offshore companies and worked with Murcia Guzmán.",
+      "roles": ["real estate broker"],
+      "affiliation": [],
+      "significance": 7,
+      "firstAppearance": "2008-11-18",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-045": {
+      "id": "entity-045",
+      "name": "Trump Entertainment Resorts",
+      "aliases": ["TER"],
+      "type": "organization",
+      "subtype": "business",
+      "nationality": "American",
+      "description": "Trump's casino holding company that owned the Trump Taj Mahal, Trump Plaza, and Trump Marina casinos in Atlantic City. Filed for Chapter 11 bankruptcy in February 2009, its third bankruptcy filing.",
+      "roles": ["casino operator"],
+      "affiliation": ["entity-001"],
+      "significance": 7,
+      "firstAppearance": "2009-02-13",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-046": {
+      "id": "entity-046",
+      "name": "Ivanka Trump",
+      "aliases": [],
+      "type": "person",
+      "subtype": "",
+      "nationality": "American",
+      "description": "Daughter of Donald Trump and executive in the Trump Organization. In 2009, along with her brother Donald Jr., was accused of misleading condo buyers about sell-through rates at Trump SoHo.",
+      "roles": ["business executive"],
+      "affiliation": ["Trump Organization"],
+      "significance": 7,
+      "firstAppearance": "2009-12-31",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    }
+  },
+  "relationships": [
+    {
+      "id": "relationship-deutsche-bank-settlement",
+      "source": "entity-001",
+      "target": "entity-041",
+      "type": "legal resolution",
+      "subtype": "debt restructuring",
+      "description": "After suing Deutsche Bank in 2008 and being countersued, Trump reaches a settlement with the bank in 2009 regarding the Chicago tower loan.",
+      "strength": 8,
+      "startDate": "2009-01-01",
+      "endDate": "2009-03-31",
+      "isBidirectional": true,
+      "relatedEvents": ["event-060", "event-061", "event-068"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    {
+      "id": "relationship-trump-entertainment-bankruptcy",
+      "source": "entity-001",
+      "target": "entity-045",
+      "type": "business",
+      "subtype": "ownership",
+      "description": "Trump loses majority control of Trump Entertainment Resorts after its 2009 bankruptcy filing, but retains a 10% stake and licensing agreement for his name on the casinos.",
+      "strength": 6,
+      "startDate": "2009-02-13",
+      "endDate": "",
+      "isBidirectional": true,
+      "relatedEvents": ["event-066"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    {
+      "id": "relationship-trump-soho-misrepresentation",
+      "source": "entity-040",
+      "target": "entity-046",
+      "type": "business collaboration",
+      "subtype": "alleged fraud",
+      "description": "Donald Trump Jr. and Ivanka Trump were accused of jointly misleading condo buyers about sell-through rates at Trump SoHo.",
+      "strength": 7,
+      "startDate": "2009-03-01",
+      "endDate": "2009-12-31",
+      "isBidirectional": true,
+      "relatedEvents": ["event-072"],
+      "evidenceStrength": "alleged",
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    }
+  ],
+  "transactions": [],
+  "intelligenceActivities": []
+}

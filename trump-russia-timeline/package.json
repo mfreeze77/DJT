@@ -1,0 +1,47 @@
+{
+  "name": "trump-russia-timeline",
+  "version": "1.0.0",
+  "description": "Interactive visualization of Trump-Russia connections from 1977-2023",
+  "main": "src/js/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack serve",
+    "build": "webpack --mode=production",
+    "dev": "webpack --mode=development",
+    "watch": "webpack --watch",
+    "serve": "http-server ./dist -o",
+    "process-data": "node data/helpers/process_markdown.js"
+  },
+  "keywords": [
+    "visualization",
+    "timeline",
+    "network",
+    "data",
+    "interactive"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "d3": "^7.8.5",
+    "d3-force": "^3.0.0",
+    "d3-time-format": "^4.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.5",
+    "@babel/preset-env": "^7.20.2",
+    "babel-loader": "^9.1.0",
+    "copy-webpack-plugin": "^11.0.0",
+    "css-loader": "^6.7.2",
+    "html-webpack-plugin": "^5.5.0",
+    "http-server": "^14.1.1",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1",
+    "webpack-dev-server": "^4.15.2"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}

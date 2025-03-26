@@ -1,0 +1,140 @@
+{
+  "events": [
+    {
+      "id": "event-011",
+      "date": "1982-01-01",
+      "startDate": "1982-01-01",
+      "endDate": "1982-01-01",
+      "title": "Trump's first Atlantic City casino partnership",
+      "description": "Trump partners with Holiday Inn / Harrah's to develop his first Atlantic City casino, financed through a major corporate investment and regulated by the New Jersey Casino Control Commission. This partnership represents Trump's entry into the gaming industry, with Holiday Inn/Harrah's providing the majority of capital and gaming expertise while Trump contributes the land and project oversight. The casino would later open in 1984 as 'Harrah's at Trump Plaza' before Trump buys out his partners in 1986.",
+      "categories": ["business", "financial"],
+      "importance": 8,
+      "moneyFlow": {
+        "amount": 210000000,
+        "direction": "investment",
+        "isDirectFlow": false,
+        "entities": ["entity-001", "entity-009", "entity-010"],
+        "description": "The $210 million Trump Plaza casino-hotel represented Trump's first major expansion into the Atlantic City gaming industry. The financial structure was a joint venture where Trump contributed the land and project oversight while Holiday Inn/Harrah's provided the majority of the capital and gaming expertise. This arrangement allowed Trump to establish a foothold in the lucrative casino business with minimal upfront investment of his own capital, leveraging his brand and real estate expertise instead."
+      },
+      "location": {
+        "country": "United States",
+        "city": "Atlantic City",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-009", "entity-010"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_77-83_Assoc.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-002",
+      "mediaUrls": []
+    }
+  ],
+  "entities": {
+    "entity-001": {
+      "id": "entity-001",
+      "name": "Donald J. Trump",
+      "aliases": ["Donald John Trump", "DJT"],
+      "type": "person",
+      "subtype": "",
+      "nationality": "American",
+      "description": "Real estate developer, 45th President of the US. Key figure in the 1977–1983 Manhattan real estate deals and later expansions.",
+      "roles": ["developer", "political figure"],
+      "affiliation": [],
+      "significance": 10,
+      "firstAppearance": "1977-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-009": {
+      "id": "entity-009",
+      "name": "Holiday Inn Corporation",
+      "aliases": [],
+      "type": "organization",
+      "subtype": "hospitality",
+      "nationality": "American",
+      "description": "Hotel company that co-financed Trump's first Atlantic City casino (via its Harrah's division) in 1982.",
+      "roles": [],
+      "affiliation": [],
+      "significance": 7,
+      "firstAppearance": "1982-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-010": {
+      "id": "entity-010",
+      "name": "Harrah's",
+      "aliases": [],
+      "type": "organization",
+      "subtype": "casino",
+      "nationality": "American",
+      "description": "A division of Holiday Inn that financed Donald Trump's first Atlantic City casino in 1982.",
+      "roles": [],
+      "affiliation": ["entity-009"],
+      "significance": 7,
+      "firstAppearance": "1982-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    }
+  },
+  "relationships": [
+    {
+      "id": "relationship-008",
+      "source": "entity-001",
+      "target": "entity-009",
+      "type": "business-partnership",
+      "subtype": "",
+      "description": "Holiday Inn co-financed Trump's first Atlantic City casino in 1982.",
+      "strength": 6,
+      "startDate": "1982-01-01",
+      "endDate": "",
+      "isBidirectional": true,
+      "relatedEvents": ["event-011"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    {
+      "id": "relationship-009",
+      "source": "entity-001",
+      "target": "entity-010",
+      "type": "business-partnership",
+      "subtype": "",
+      "description": "Harrah's, part of Holiday Inn, partnered with Trump to launch the Atlantic City casino.",
+      "strength": 6,
+      "startDate": "1982-01-01",
+      "endDate": "",
+      "isBidirectional": true,
+      "relatedEvents": ["event-011"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    }
+  ]
+}

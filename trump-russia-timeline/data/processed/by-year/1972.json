@@ -1,0 +1,78 @@
+{
+  "events": [
+    {
+      "id": "event-002",
+      "date": "1972-01-01",
+      "startDate": "1972-01-01",
+      "endDate": "1972-01-01",
+      "title": "Ivana obtains Austrian citizenship",
+      "description": "Ivana receives her Austrian passport, enabling her to leave communist Czechoslovakia legally.",
+      "categories": ["personal"],
+      "importance": 5,
+      "moneyFlow": null,
+      "location": {
+        "country": "Austria",
+        "city": "",
+        "coordinates": []
+      },
+      "entities": ["entity-002", "entity-004"],
+      "sources": [
+        {
+          "description": "Ivana Trump - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ivana_Trump",
+          "documentType": "online encyclopedia",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-001",
+      "mediaUrls": []
+    }
+  ],
+  "entities": {
+    "entity-002": {
+      "id": "entity-002",
+      "name": "Ivana Trump (née Zelníčková)",
+      "aliases": ["Ivana Zelníčková", "Ivana Winklmayr"],
+      "type": "person",
+      "subtype": "",
+      "nationality": "Czech, Austrian, later American",
+      "description": "Donald Trump's first wife. Emigrated from communist Czechoslovakia via a marriage of convenience. Drew interest from StB due to her father's informant status.",
+      "roles": ["spouse of Donald Trump"],
+      "affiliation": [],
+      "significance": 8,
+      "firstAppearance": "1971-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-004": {
+      "id": "entity-004",
+      "name": "Alfred Winklmayr",
+      "aliases": [],
+      "type": "person",
+      "subtype": "",
+      "nationality": "Austrian",
+      "description": "Ivana's first husband. Ski instructor and real estate agent. Marriage used for Ivana's emigration from Czechoslovakia.",
+      "roles": [],
+      "affiliation": [],
+      "significance": 4,
+      "firstAppearance": "1971-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    }
+  },
+  "relationships": []
+}

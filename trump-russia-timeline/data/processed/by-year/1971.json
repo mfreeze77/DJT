@@ -1,0 +1,109 @@
+{
+  "events": [
+    {
+      "id": "event-001",
+      "date": "1971-01-01",
+      "startDate": "1971-01-01",
+      "endDate": "1971-01-01",
+      "title": "Ivana Zelníčková marries Alfred Winklmayr",
+      "description": "Ivana marries Austrian skier/real-estate agent Alfred Winklmayr in a marriage of convenience to obtain Austrian citizenship and leave communist Czechoslovakia.",
+      "categories": ["personal"],
+      "importance": 7,
+      "moneyFlow": null,
+      "location": {
+        "country": "Czechoslovakia",
+        "city": "",
+        "coordinates": []
+      },
+      "entities": ["entity-002", "entity-004"],
+      "sources": [
+        {
+          "description": "Secret FBI files reveal questions over Ivana Trump's immigration status",
+          "url": "https://www.the-independent.com/news/world/americas/ivana-trump-fbi-secret-files-b2354794.html",
+          "documentType": "news article",
+          "citation": ""
+        },
+        {
+          "description": "Tmanch_CH1.md",
+          "url": "https://raw.githubusercontent.com/mfreeze77/DJT/main/Tmanch_CH1.md",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-001",
+      "mediaUrls": []
+    }
+  ],
+  "entities": {
+    "entity-002": {
+      "id": "entity-002",
+      "name": "Ivana Trump (née Zelníčková)",
+      "aliases": ["Ivana Zelníčková", "Ivana Winklmayr"],
+      "type": "person",
+      "subtype": "",
+      "nationality": "Czech, Austrian, later American",
+      "description": "Donald Trump's first wife. Emigrated from communist Czechoslovakia via a marriage of convenience. Drew interest from StB due to her father's informant status.",
+      "roles": ["spouse of Donald Trump"],
+      "affiliation": [],
+      "significance": 8,
+      "firstAppearance": "1971-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-004": {
+      "id": "entity-004",
+      "name": "Alfred Winklmayr",
+      "aliases": [],
+      "type": "person",
+      "subtype": "",
+      "nationality": "Austrian",
+      "description": "Ivana's first husband. Ski instructor and real estate agent. Marriage used for Ivana's emigration from Czechoslovakia.",
+      "roles": [],
+      "affiliation": [],
+      "significance": 4,
+      "firstAppearance": "1971-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    }
+  },
+  "relationships": [
+    {
+      "id": "relationship-001",
+      "source": "entity-002",
+      "target": "entity-004",
+      "type": "married",
+      "subtype": "",
+      "description": "Ivana's first marriage of convenience to Alfred Winklmayr (1971–1973).",
+      "strength": 5,
+      "startDate": "1971-01-01",
+      "endDate": "1973-01-01",
+      "isBidirectional": true,
+      "relatedEvents": ["event-001", "event-003"],
+      "evidenceStrength": "confirmed",
+      "sources": [
+        {
+          "description": "Ivana Trump - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ivana_Trump",
+          "documentType": "online encyclopedia",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": ""
+    }
+  ]
+}

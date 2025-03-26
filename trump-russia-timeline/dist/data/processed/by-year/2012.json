@@ -1,0 +1,684 @@
+{
+  "events": [
+    {
+      "id": "event-077",
+      "date": "2012-01-31",
+      "startDate": "2012-01-31",
+      "endDate": "2012-01-31",
+      "title": "Trump International Hotel & Tower Toronto opens",
+      "description": "The 65-story Trump-branded luxury hotel and condominium tower opens in Toronto, developed by Russian-Canadian businessman Alexander Shnaider. The project, which began in 2007, was partly funded through Shnaider's sale of a Ukrainian steel mill to Russian state bank VEB.",
+      "categories": ["business", "financial", "international"],
+      "importance": 8,
+      "moneyFlow": null,
+      "location": {
+        "country": "Canada",
+        "city": "Toronto",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-055", "entity-056"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_209-212_PP.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "There is evidence that Russian money flowed to Trump through Toronto hotel project",
+          "url": "https://www.businessinsider.com/russian-money-trump-toronto-hotel-through-alexander-shnaider-2018-5",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": ["event-076"],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-078",
+      "date": "2012-02-15",
+      "startDate": "2012-02-15",
+      "endDate": "2012-02-15",
+      "title": "Trump acquires Doral Golf Resort & Spa",
+      "description": "Trump purchases the Doral Golf Resort & Spa in Miami out of bankruptcy for $150 million. The purchase was financed with a $125 million loan from Deutsche Bank in 2011, which was approved based on Trump's financial statements.",
+      "categories": ["business", "financial"],
+      "importance": 7,
+      "moneyFlow": {
+        "amount": 150000000,
+        "direction": "from-trump",
+        "isDirectFlow": true,
+        "entities": ["entity-001", "entity-041"]
+      },
+      "location": {
+        "country": "United States",
+        "city": "Miami",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-041"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_209-212_PP.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "Trump buys Miami's Doral resort, kicks out Marriott - Tampa Bay Business Journal",
+          "url": "https://www.bizjournals.com/tampabay/blog/morning-edition/2012/02/trump-buys-miamis-doral-resort-kicks.html",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-079",
+      "date": "2012-07-10",
+      "startDate": "2012-07-10",
+      "endDate": "2012-07-10",
+      "title": "Trump International Golf Links Scotland opens",
+      "description": "Trump's controversial golf resort in Aberdeenshire, Scotland officially opens after years of environmental disputes and legal battles with local residents. Trump had purchased the estate in 2006 and fought numerous legal challenges to develop it.",
+      "categories": ["business"],
+      "importance": 6,
+      "moneyFlow": null,
+      "location": {
+        "country": "United Kingdom",
+        "city": "Aberdeenshire",
+        "coordinates": []
+      },
+      "entities": ["entity-001"],
+      "sources": [
+        {
+          "description": "Trump International Golf Links Scotland",
+          "url": "https://linksgolfstandrews.com/courses/trump-international-golf-links-scotland/",
+          "documentType": "website",
+          "citation": ""
+        },
+        {
+          "description": "Tmanch_Fin_209-212_PP.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-080",
+      "date": "2012-02-02",
+      "startDate": "2012-02-02",
+      "endDate": "2012-02-02",
+      "title": "Trump endorses Mitt Romney for president",
+      "description": "After deciding not to run for president himself, Trump publicly endorses Mitt Romney for the Republican nomination at a press event at Trump International Hotel in Las Vegas. This marks Trump's increased involvement in national Republican politics.",
+      "categories": ["political"],
+      "importance": 6,
+      "moneyFlow": null,
+      "location": {
+        "country": "United States",
+        "city": "Las Vegas",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-057"],
+      "sources": [
+        {
+          "description": "Trump buys Miami's Doral golf resort for $150 million | Reuters",
+          "url": "https://www.reuters.com/article/world/americas/trump-buys-miamis-doral-golf-resort-for-150-million-idUSTRE81R1C7/",
+          "documentType": "news article",
+          "citation": ""
+        },
+        {
+          "description": "Tmanch_Fin_209-212_PP.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": ["event-071"],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-081",
+      "date": "2012-11-15",
+      "startDate": "2012-11-15",
+      "endDate": "2012-11-15",
+      "title": "Deutsche Bank approves $107 million Chicago tower loan",
+      "description": "Deutsche Bank approves a $107 million loan to Trump related to the Chicago tower project. The loan was approved based on Trump's financial statements, despite the previous legal disputes between Trump and the bank over the property.",
+      "categories": ["financial", "business"],
+      "importance": 7,
+      "moneyFlow": {
+        "amount": 107000000,
+        "direction": "to-trump",
+        "isDirectFlow": true,
+        "entities": ["entity-001", "entity-041"]
+      },
+      "location": {
+        "country": "United States",
+        "city": "Chicago",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-041"],
+      "sources": [
+        {
+          "description": "Trump's financial statements were key to loan approvals, says banker",
+          "url": "https://www.business-standard.com/world-news/trump-s-financial-statements-were-key-to-loan-approvals-says-banker-123101200057_1.html",
+          "documentType": "news article",
+          "citation": ""
+        },
+        {
+          "description": "Tmanch_Fin_209-212_PP.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": ["event-060", "event-061"],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-082",
+      "date": "2012-11-28",
+      "startDate": "2012-11-28",
+      "endDate": "2012-11-28",
+      "title": "Trump announces Batumi tower project in Georgia",
+      "description": "Trump and Georgian President Mikheil Saakashvili announce a licensing agreement for a Trump Tower in Batumi, Georgia. Trump traveled to the former Soviet republic to unveil plans for a 47-story luxury condo tower to be developed by the Silk Road Group.",
+      "categories": ["business", "international"],
+      "importance": 7,
+      "moneyFlow": null,
+      "location": {
+        "country": "Georgia",
+        "city": "Batumi",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-058", "entity-059"],
+      "sources": [
+        {
+          "description": "Saakashvili, Trump Unveil Tower Project, Praise Each Other – Civil Georgia",
+          "url": "https://civil.ge/archives/121876",
+          "documentType": "news article",
+          "citation": ""
+        },
+        {
+          "description": "Tmanch_Fin_209-212_PP.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-083",
+      "date": "2012-10-25",
+      "startDate": "2012-10-25",
+      "endDate": "2012-10-25",
+      "title": "Trump offers $5 million for Obama records",
+      "description": "Trump offers to donate $5 million to charity if President Obama releases his college records and passport applications, continuing his questioning of Obama's background despite the release of Obama's long-form birth certificate in 2011.",
+      "categories": ["political"],
+      "importance": 6,
+      "moneyFlow": null,
+      "location": {
+        "country": "United States",
+        "city": "",
+        "coordinates": []
+      },
+      "entities": ["entity-001"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_209-212_PP.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": ["event-071"],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-084",
+      "date": "2012-11-13",
+      "startDate": "2012-11-01",
+      "endDate": "2012-11-30",
+      "title": "1290 Avenue of the Americas refinancing with Bank of China",
+      "description": "Vornado Realty Trust, in which Trump holds a minority stake, refinances 1290 Avenue of the Americas with a $950 million loan, including $211 million from the Bank of China. This creates an indirect financial connection between Trump and a Chinese state-owned bank.",
+      "categories": ["business", "financial", "international"],
+      "importance": 7,
+      "moneyFlow": {
+        "amount": 211000000,
+        "direction": "to-trump",
+        "isDirectFlow": false,
+        "entities": ["entity-001", "entity-060", "entity-061"]
+      },
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-060", "entity-061"],
+      "sources": [
+        {
+          "description": "Trump owed tens of millions to Bank of China - POLITICO",
+          "url": "https://www.politico.com/news/2020/04/24/trump-biden-china-debt-205475",
+          "documentType": "news article",
+          "citation": ""
+        },
+        {
+          "description": "Tmanch_Fin_209-212_PP.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    }
+  ],
+  "entities": {
+    "entity-001": {
+      "id": "entity-001",
+      "name": "Donald J. Trump",
+      "aliases": ["Donald John Trump", "DJT"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "American",
+      "description": "Real estate developer, businessman, and television personality. In 2012, continued expanding his global brand with new international properties, made significant acquisitions like Doral resort, and increased his political involvement by endorsing Mitt Romney.",
+      "roles": ["developer", "businessman", "television personality"],
+      "affiliation": [],
+      "significance": 10,
+      "firstAppearance": "1977-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-041": {
+      "id": "entity-041",
+      "name": "Deutsche Bank",
+      "aliases": [],
+      "type": "organization",
+      "subtype": "financial-institution",
+      "nationality": "German",
+      "description": "German multinational investment bank that provided significant financing to Trump in 2012, including loans for the Doral resort and Chicago tower, despite previous legal disputes between the bank and Trump.",
+      "roles": ["lender"],
+      "affiliation": [],
+      "significance": 8,
+      "firstAppearance": "2008-11-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-055": {
+      "id": "entity-055",
+      "name": "Alexander Shnaider",
+      "aliases": [],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "Russian-Canadian",
+      "description": "Russian-born Canadian businessman who developed the Trump International Hotel & Tower in Toronto, which opened in 2012. His company Midland Group received funding from Russian state bank VEB in 2011, which was then directed to the Trump Toronto project.",
+      "roles": ["businessman", "developer"],
+      "affiliation": ["Midland Group"],
+      "significance": 7,
+      "firstAppearance": "2007-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-056": {
+      "id": "entity-056",
+      "name": "Vnesheconombank",
+      "aliases": ["VEB"],
+      "type": "organization",
+      "subtype": "financial-institution",
+      "nationality": "Russian",
+      "description": "Russian state-owned development bank that provided $850 million to Alexander Shnaider's Midland Group in 2011, funds that were subsequently used in part for the Trump Toronto project that opened in 2012. VEB is closely tied to the Kremlin.",
+      "roles": ["state bank", "development bank"],
+      "affiliation": ["Russian government"],
+      "significance": 8,
+      "firstAppearance": "2011-06-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-057": {
+      "id": "entity-057",
+      "name": "Mitt Romney",
+      "aliases": [],
+      "type": "person",
+      "subtype": "politician",
+      "nationality": "American",
+      "description": "American businessman and politician who was the Republican presidential nominee in 2012. Trump publicly endorsed Romney in February 2012 at an event at Trump's Las Vegas hotel.",
+      "roles": ["politician", "businessman"],
+      "affiliation": ["Republican Party"],
+      "significance": 5,
+      "firstAppearance": "2012-02-02",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-058": {
+      "id": "entity-058",
+      "name": "Mikheil Saakashvili",
+      "aliases": [],
+      "type": "person",
+      "subtype": "politician",
+      "nationality": "Georgian",
+      "description": "President of Georgia (2004-2013) who partnered with Trump to announce a Trump Tower project in Batumi, Georgia in 2012. The project was ultimately canceled after Saakashvili left office.",
+      "roles": ["politician", "president"],
+      "affiliation": [],
+      "significance": 6,
+      "firstAppearance": "2012-11-28",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-059": {
+      "id": "entity-059",
+      "name": "Silk Road Group",
+      "aliases": ["SRG"],
+      "type": "organization",
+      "subtype": "business",
+      "nationality": "Georgian",
+      "description": "Georgian development company that partnered with Trump to build a Trump Tower in Batumi, Georgia, announced in 2012. The project was never constructed and was officially canceled in 2017.",
+      "roles": ["real estate developer"],
+      "affiliation": [],
+      "significance": 6,
+      "firstAppearance": "2012-11-28",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-060": {
+      "id": "entity-060",
+      "name": "Bank of China",
+      "aliases": ["BOC"],
+      "type": "organization",
+      "subtype": "financial-institution",
+      "nationality": "Chinese",
+      "description": "Chinese state-owned bank that provided $211 million as part of a $950 million refinancing in 2012 for 1290 Avenue of the Americas, a building in which Trump held a minority stake through Vornado Realty Trust.",
+      "roles": ["lender", "state bank"],
+      "affiliation": ["Chinese government"],
+      "significance": 7,
+      "firstAppearance": "2012-11-13",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-061": {
+      "id": "entity-061",
+      "name": "Vornado Realty Trust",
+      "aliases": [],
+      "type": "organization",
+      "subtype": "business",
+      "nationality": "American",
+      "description": "American real estate investment trust that owned a 70% stake in 1290 Avenue of the Americas in New York, with Trump holding the remaining 30% stake. In 2012, Vornado refinanced the property with a loan that included financing from Bank of China.",
+      "roles": ["real estate investment trust"],
+      "affiliation": [],
+      "significance": 6,
+      "firstAppearance": "2007-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    }
+  },
+  "relationships": [
+    {
+      "id": "relationship-trump-deutsche-2012",
+      "source": "entity-001",
+      "target": "entity-041",
+      "type": "financial",
+      "subtype": "loan",
+      "description": "Deutsche Bank provided Trump with two significant loans in 2012: a $125 million loan for the Doral resort purchase and a $107 million loan related to the Chicago tower project.",
+      "strength": 8,
+      "startDate": "2012-01-01",
+      "endDate": "",
+      "isBidirectional": true,
+      "relatedEvents": ["event-078", "event-081"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    {
+      "id": "relationship-trump-vornado-china",
+      "source": "entity-001",
+      "target": "entity-060",
+      "type": "financial",
+      "subtype": "indirect loan",
+      "description": "Through his 30% stake in 1290 Avenue of the Americas owned with Vornado Realty Trust, Trump became indirectly connected to the Bank of China, which provided $211 million of the $950 million refinancing for the property in 2012.",
+      "strength": 6,
+      "startDate": "2012-11-13",
+      "endDate": "",
+      "isBidirectional": false,
+      "relatedEvents": ["event-084"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    {
+      "id": "relationship-trump-shnaider-toronto",
+      "source": "entity-001",
+      "target": "entity-055",
+      "type": "business-partnership",
+      "subtype": "licensing",
+      "description": "Trump partnered with Alexander Shnaider on the Trump International Hotel & Tower Toronto, which opened in 2012. Trump licensed his name and provided management services, while Shnaider developed and financed the project.",
+      "strength": 7,
+      "startDate": "2007-01-01",
+      "endDate": "",
+      "isBidirectional": true,
+      "relatedEvents": ["event-077"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    {
+      "id": "relationship-shnaider-veb",
+      "source": "entity-055",
+      "target": "entity-056",
+      "type": "financial",
+      "subtype": "transaction",
+      "description": "Alexander Shnaider's Midland Group received $850 million from Russian state bank VEB in 2011-2012, related to the sale of his Ukrainian steel mill. Some of these funds were then directed to the Trump Toronto project.",
+      "strength": 8,
+      "startDate": "2011-06-01",
+      "endDate": "",
+      "isBidirectional": true,
+      "relatedEvents": ["event-076", "event-077"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    {
+      "id": "relationship-trump-saakashvili",
+      "source": "entity-001",
+      "target": "entity-058",
+      "type": "business-political",
+      "subtype": "licensing agreement",
+      "description": "Trump and Georgian President Mikheil Saakashvili jointly announced a Trump Tower project in Batumi, Georgia in 2012. The project was a licensing deal between Trump and the Silk Road Group, but was never completed.",
+      "strength": 6,
+      "startDate": "2012-11-28",
+      "endDate": "",
+      "isBidirectional": true,
+      "relatedEvents": ["event-082"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    {
+      "id": "relationship-trump-romney",
+      "source": "entity-001",
+      "target": "entity-057",
+      "type": "political",
+      "subtype": "endorsement",
+      "description": "Trump publicly endorsed Mitt Romney for the Republican presidential nomination in February 2012, marking Trump's increased involvement in national Republican politics.",
+      "strength": 6,
+      "startDate": "2012-02-02",
+      "endDate": "",
+      "isBidirectional": true,
+      "relatedEvents": ["event-080"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    }
+  ],
+  "transactions": [
+    {
+      "id": "transaction-doral-purchase",
+      "date": "2012-02-15",
+      "fromEntity": "entity-001",
+      "toEntity": "unknown",
+      "intermediaries": ["entity-041"],
+      "amount": 150000000,
+      "currency": "USD",
+      "amountUSD": 150000000,
+      "type": "property",
+      "subtype": "real estate purchase",
+      "description": "Trump purchases the Doral Golf Resort & Spa in Miami for $150 million, financed by a $125 million loan from Deutsche Bank.",
+      "purpose": "Asset acquisition",
+      "method": "Loan-financed purchase",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-078"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": ""
+    },
+    {
+      "id": "transaction-chicago-loan",
+      "date": "2012-11-15",
+      "fromEntity": "entity-041",
+      "toEntity": "entity-001",
+      "intermediaries": [],
+      "amount": 107000000,
+      "currency": "USD",
+      "amountUSD": 107000000,
+      "type": "loan",
+      "subtype": "refinancing",
+      "description": "Deutsche Bank provides a $107 million loan to Trump related to the Chicago tower project, despite previous legal disputes over the property.",
+      "purpose": "Refinancing",
+      "method": "Bank loan",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-081"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": ""
+    },
+    {
+      "id": "transaction-avenue-americas-refinancing",
+      "date": "2012-11-13",
+      "fromEntity": "entity-060",
+      "toEntity": "entity-061",
+      "intermediaries": [],
+      "amount": 211000000,
+      "currency": "USD",
+      "amountUSD": 211000000,
+      "type": "loan",
+      "subtype": "refinancing",
+      "description": "Bank of China provides $211 million as part of a $950 million refinancing for 1290 Avenue of the Americas, a building in which Trump held a 30% stake through Vornado Realty Trust.",
+      "purpose": "Refinancing",
+      "method": "Bank loan",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-084"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "While Trump held a minority stake in the property, he was not directly involved in the refinancing negotiations."
+    }
+  ],
+  "intelligenceActivities": []
+}

@@ -1,0 +1,504 @@
+{
+  "events": [
+    {
+      "id": "event-026",
+      "date": "1990-03-13",
+      "startDate": "1990-03-13",
+      "endDate": "1990-03-13",
+      "title": "Australian police report reveals rejection of Trump's Sydney casino bid due to mafia connections",
+      "description": "A confidential report by the New South Wales Police Board, which became public years later, reveals that Trump's 1987 attempt to build a casino in Sydney, Australia was rejected due to concerns about his \"mafia connections.\" Australian authorities cited Trump's alleged associations with organized crime figures in Atlantic City and deemed his revenue forecasts \"not soundly based.\" This overseas rejection highlights how Trump's reputation for questionable associations was recognized internationally before his domestic financial troubles came to light.",
+      "categories": [
+        "business",
+        "legal"
+      ],
+      "importance": 7,
+      "moneyFlow": {
+        "amount": 0,
+        "direction": "from-trump",
+        "isDirectFlow": false,
+        "entities": ["entity-001", "entity-040"],
+        "description": "The rejected casino bid represented a potential investment of hundreds of millions of dollars that never materialized. The Australian authorities' rejection, based on concerns about Trump's 'mafia connections', prevented what would have been a significant financial outflow from Trump's organization and stopped his attempt to expand his casino empire internationally."
+      },
+      "location": {
+        "country": "Australia",
+        "city": "Sydney",
+        "coordinates": [
+          -33.8688,
+          151.2093
+        ]
+      },
+      "entities": [
+        "entity-001",
+        "entity-040"
+      ],
+      "sources": [
+        {
+          "description": "'Mafia connections' halted Trump's 1987 casino plan - Taipei Times",
+          "url": "https://www.taipeitimes.com/News/world/archives/2017/09/08/2003678048",
+          "documentType": "news article",
+          "citation": "'Atlantic City would be a dubious model for Sydney and in our judgment, the Trump mafia connections should exclude the Kern/Trump consortium,' said the summary of the police board's report dated April 3, 1987."
+        },
+        {
+          "description": "Trump's 1987 bid for Sydney casino derailed by police concerns - SMH",
+          "url": "https://www.smh.com.au/national/nsw/trumps-bid-for-sydney-casino-derailed-by-police-20170809-gxsepn.html",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-002",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-027",
+      "date": "1990-04-02",
+      "startDate": "1990-04-02",
+      "endDate": "1990-04-02",
+      "title": "Opening of the Trump Taj Mahal Casino in Atlantic City",
+      "description": "Trump opens the Trump Taj Mahal Casino Resort in Atlantic City with great fanfare, promoting it as the \"Eighth Wonder of the World\" and the largest casino ever built at a cost of $1.1 billion. Financed primarily with $675 million in high-interest junk bonds (14%), the casino faced enormous debt service requirements from day one. Industry analysts warned the project was overleveraged and couldn't generate sufficient cash flow to cover its debt. The casino became the centerpiece of Trump's gaming empire but would file for bankruptcy protection just over a year later.",
+      "categories": [
+        "business",
+        "financial"
+      ],
+      "importance": 9,
+      "moneyFlow": {
+        "amount": 675000000,
+        "direction": "investment",
+        "isDirectFlow": true,
+        "entities": ["entity-001", "entity-037"],
+        "description": "The opening of the Trump Taj Mahal casino represented a massive financial investment, with $675 million in high-interest (14%) junk bonds used to finance its construction. These bonds created an enormous debt service requirement from day one, requiring the casino to generate about $1 million per day just to cover interest payments. This overleveraged investment would prove unsustainable, leading to bankruptcy just 15 months later."
+      },
+      "location": {
+        "country": "United States",
+        "city": "Atlantic City",
+        "coordinates": [
+          39.3643,
+          -74.4229
+        ]
+      },
+      "entities": [
+        "entity-001",
+        "entity-037",
+        "entity-038"
+      ],
+      "sources": [
+        {
+          "description": "How the Atlantic City Disaster Set Trump up to Pay No Taxes for Years - Business Insider",
+          "url": "https://www.businessinsider.com/how-atlantic-city-disaster-casinos-hotels-trump-pay-no-taxes-2020-10",
+          "documentType": "news article",
+          "citation": "But all was not well behind the glitz and glamour. Even before the ribbon was cut, Trump's finances were cascading down on Trump's seaside empire."
+        },
+        {
+          "description": "Trump casino empire dogged by bad bets in Atlantic City",
+          "url": "https://www.newscentermaine.com/article/news/nation-now/trump-casino-empire-dogged-by-bad-bets-in-atlantic-city/97-264767870",
+          "documentType": "news article",
+          "citation": "The Taj Mahal soon attracted the unwanted attention of the New Jersey Division of Gaming Enforcement, which had been wary from the start about whether the casino could generate the revenue needed to cover its costs."
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [
+        "event-024"
+      ],
+      "era": "era-002",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-028",
+      "date": "1990-12-19",
+      "startDate": "1990-12-19",
+      "endDate": "1990-12-19",
+      "title": "Fred Trump's illegal $3.5 million casino chips purchase to rescue Trump Castle",
+      "description": "Fred Trump, Donald's father, sends a lawyer to Trump Castle casino to purchase $3.5 million in chips without any intention of gambling, essentially providing an illegal, undeclared loan to help his son make a bond payment. This desperate measure came as Trump faced a financial crisis with over $3.4 billion in debt and approximately $900 million in personal loan guarantees. New Jersey regulators later fined the casino $65,000 for the violation, though by then the emergency cash infusion had achieved its purpose of preventing an immediate default.",
+      "categories": [
+        "financial",
+        "legal"
+      ],
+      "importance": 8,
+      "moneyFlow": {
+        "amount": 3500000,
+        "direction": "to-trump",
+        "isDirectFlow": true,
+        "entities": ["entity-001", "entity-003", "entity-023"],
+        "description": "Fred Trump's purchase of $3.5 million in casino chips without gambling constituted an illegal, undeclared loan to help his son make a bond payment. This desperate measure came as Trump faced a financial crisis, and represented a significant financial infusion from Fred Trump to his son's struggling business. New Jersey regulators would later fine the casino $65,000 for this regulatory violation."
+      },
+      "location": {
+        "country": "United States",
+        "city": "Atlantic City",
+        "coordinates": [
+          39.3643,
+          -74.4229
+        ]
+      },
+      "entities": [
+        "entity-001",
+        "entity-003",
+        "entity-023",
+        "entity-041"
+      ],
+      "sources": [
+        {
+          "description": "Fred Trump - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Fred_Trump",
+          "documentType": "encyclopedia",
+          "citation": "In December 1990, Fred Trump's lawyer Howard Snyder purchased $3.5 million gaming chips from the Trump Castle casino, but did not gamble with them, thereby providing Donald Trump with an illegal loan and failing to document it for the Casino Control Commission."
+        },
+        {
+          "description": "How the Atlantic City Disaster Set Trump up to Pay No Taxes for Years - Business Insider",
+          "url": "https://www.businessinsider.com/how-atlantic-city-disaster-casinos-hotels-trump-pay-no-taxes-2020-10",
+          "documentType": "news article",
+          "citation": "By that point, Trump's father had to purchase $3.5 million in casino chips to help Trump pay his debt on Trump Castle, a gambit the gaming commission later deemed illegal."
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-002",
+      "mediaUrls": []
+    }
+  ],
+  "entities": {
+    "entity-001": {
+      "id": "entity-001",
+      "name": "Donald J. Trump",
+      "aliases": ["Donald John Trump", "DJT"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "American",
+      "description": "Real estate developer, 45th President of the US. In 1990, was facing a severe financial crisis with over $3.4 billion in debt and approximately $900 million in personal loan guarantees.",
+      "roles": ["developer", "casino operator"],
+      "affiliation": [],
+      "significance": 10,
+      "firstAppearance": "1977-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {
+        "debt": 3400000000,
+        "personalGuarantees": 900000000
+      },
+      "sources": [],
+      "documentationLink": "",
+      "notes": "1990 marked the beginning of Trump's financial crisis, with the opening of the overleveraged Taj Mahal, bond payment issues at Trump Castle, and the public revelation of Australian authorities' concerns about his 'mafia connections'."
+    },
+    "entity-003": {
+      "id": "entity-003",
+      "name": "Fred C. Trump",
+      "aliases": ["Fred Trump"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "American",
+      "description": "Donald Trump's father, a successful real estate developer who created a substantial portfolio of middle-class housing in New York City. Provided financial support and business mentorship to Donald throughout his career.",
+      "roles": ["real estate developer", "businessman"],
+      "affiliation": [],
+      "significance": 8,
+      "firstAppearance": "",
+      "lastAppearance": "1999-06-25",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": "In 1990, Fred Trump provided a crucial financial lifeline to his son by purchasing $3.5 million in chips at Trump Castle casino without gambling, effectively providing an illegal loan to help meet a bond payment."
+    },
+    "entity-023": {
+      "id": "entity-023",
+      "name": "Trump Castle",
+      "aliases": ["Trump's Castle"],
+      "type": "property",
+      "subtype": "casino",
+      "nationality": "American",
+      "description": "Trump's second Atlantic City casino, acquired in 1985 when Trump purchased a Hilton hotel project. The property struggled financially in the early 1990s, requiring emergency cash infusions to meet debt obligations.",
+      "roles": [],
+      "affiliation": [],
+      "significance": 7,
+      "firstAppearance": "1985-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {
+        "location": "Atlantic City, New Jersey"
+      },
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": "In December 1990, Trump Castle received an illegal $3.5 million loan via Fred Trump's chip purchase, which helped meet an impending bond payment but later resulted in regulatory fines."
+    },
+    "entity-037": {
+      "id": "entity-037",
+      "name": "Trump Taj Mahal Casino Resort",
+      "aliases": ["Taj Mahal"],
+      "type": "property",
+      "subtype": "casino",
+      "nationality": "American",
+      "description": "Atlantic City casino opened by Trump in April 1990 at a cost of $1.1 billion, dubbed the 'eighth wonder of the world.' It was financed largely with $675 million in high-interest junk bonds and would file for bankruptcy just 15 months after opening.",
+      "roles": [],
+      "affiliation": [],
+      "significance": 9,
+      "firstAppearance": "1990-04-02",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {
+        "location": "Atlantic City, New Jersey",
+        "constructionCost": 1100000000
+      },
+      "intelligenceConnections": {},
+      "financialData": {
+        "debt": 675000000,
+        "interestRate": 14
+      },
+      "sources": [],
+      "documentationLink": "",
+      "notes": "The Taj Mahal was overleveraged from the beginning, requiring approximately $1 million per day just to service its debt, which would prove unsustainable and lead to bankruptcy in July 1991."
+    },
+    "entity-038": {
+      "id": "entity-038",
+      "name": "Taj Mahal Bondholders",
+      "aliases": [],
+      "type": "organization",
+      "subtype": "investors",
+      "nationality": "American",
+      "description": "Group of investors who held the $675 million in junk bonds used to finance the Trump Taj Mahal casino. They would later receive 50% ownership of the casino in the 1991 bankruptcy restructuring.",
+      "roles": ["creditors", "investors"],
+      "affiliation": [],
+      "significance": 7,
+      "firstAppearance": "1990-04-02",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {
+        "investment": 675000000
+      },
+      "sources": [],
+      "documentationLink": "",
+      "notes": "The bondholders purchased high-yield (14%) junk bonds to finance the Trump Taj Mahal, but would later have to accept equity in the casino when it couldn't meet its debt obligations."
+    },
+    "entity-040": {
+      "id": "entity-040",
+      "name": "New South Wales Police Board",
+      "aliases": ["NSW Police Board"],
+      "type": "organization",
+      "subtype": "government agency",
+      "nationality": "Australian",
+      "description": "Australian law enforcement agency that conducted background checks on casino license applicants in Sydney. In 1987, they prepared a confidential report on Trump's casino bid that was made public in 1990.",
+      "roles": ["regulator"],
+      "affiliation": [],
+      "significance": 6,
+      "firstAppearance": "1987-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": "The Board's report cited Trump's 'mafia connections' and questioned his revenue forecasts, leading to the rejection of his Sydney casino bid."
+    },
+    "entity-041": {
+      "id": "entity-041",
+      "name": "New Jersey Casino Control Commission",
+      "aliases": ["NJCCC"],
+      "type": "organization",
+      "subtype": "government agency",
+      "nationality": "American",
+      "description": "State regulatory body responsible for licensing and oversight of Atlantic City casinos. The commission imposed fines and enforced regulations on Trump's casino operations.",
+      "roles": ["regulator"],
+      "affiliation": [],
+      "significance": 6,
+      "firstAppearance": "1977-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": "The commission would later fine Trump Castle $65,000 in 1993 for the illegal loan via Fred Trump's chip purchase in 1990."
+    }
+  },
+  "relationships": [
+    {
+      "id": "relationship-007",
+      "source": "entity-001",
+      "target": "entity-037",
+      "type": "ownership",
+      "subtype": "business",
+      "description": "Donald Trump owned the Trump Taj Mahal Casino Resort after its opening in April 1990.",
+      "strength": 9,
+      "startDate": "1990-04-02",
+      "endDate": "",
+      "isBidirectional": false,
+      "relatedEvents": ["event-027"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": "The casino was heavily financed with $675 million in junk bonds at 14% interest, creating an enormous debt burden that would lead to bankruptcy in 1991."
+    },
+    {
+      "id": "relationship-008",
+      "source": "entity-001",
+      "target": "entity-023",
+      "type": "ownership",
+      "subtype": "business",
+      "description": "Donald Trump owned Trump Castle casino in Atlantic City, which faced financial difficulties in 1990.",
+      "strength": 8,
+      "startDate": "1985-01-01",
+      "endDate": "",
+      "isBidirectional": false,
+      "relatedEvents": ["event-028"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": "Trump Castle required an emergency cash infusion from Fred Trump in December 1990 to meet bond payments."
+    },
+    {
+      "id": "relationship-009",
+      "source": "entity-003",
+      "target": "entity-001",
+      "type": "financial",
+      "subtype": "loan",
+      "description": "Fred Trump provided financial support to his son Donald, including an illegal $3.5 million loan disguised as a casino chip purchase in 1990.",
+      "strength": 8,
+      "startDate": "1990-12-19",
+      "endDate": "",
+      "isBidirectional": false,
+      "relatedEvents": ["event-028"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": "This financial support was crucial in helping Trump Castle meet its bond payment but violated casino regulations by circumventing proper loan documentation and approval processes."
+    },
+    {
+      "id": "relationship-010",
+      "source": "entity-037",
+      "target": "entity-038",
+      "type": "financial",
+      "subtype": "debtor-creditor",
+      "description": "The Trump Taj Mahal owed $675 million to its bondholders, who had financed the casino's construction through high-interest junk bonds.",
+      "strength": 9,
+      "startDate": "1990-04-02",
+      "endDate": "",
+      "isBidirectional": true,
+      "relatedEvents": ["event-027"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": "The 14% interest rate on these bonds meant the casino needed to generate approximately $1 million per day just to service its debt."
+    },
+    {
+      "id": "relationship-011",
+      "source": "entity-040",
+      "target": "entity-001",
+      "type": "regulatory",
+      "subtype": "rejection",
+      "description": "The New South Wales Police Board in Australia rejected Trump's casino bid due to concerns about his 'mafia connections' and questionable revenue forecasts.",
+      "strength": 7,
+      "startDate": "1987-04-03",
+      "endDate": "1990-03-13",
+      "isBidirectional": false,
+      "relatedEvents": ["event-026"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": "The report was prepared in 1987 but became public in 1990, highlighting international concerns about Trump's business associations."
+    }
+  ],
+  "transactions": [
+    {
+      "id": "transaction-taj-opening",
+      "date": "1990-04-02",
+      "fromEntity": "entity-038",
+      "toEntity": "entity-001",
+      "intermediaries": ["entity-037"],
+      "amount": 675000000,
+      "currency": "USD",
+      "amountUSD": 675000000,
+      "type": "financial",
+      "subtype": "bond issuance",
+      "description": "Trump financed the construction and opening of the Trump Taj Mahal casino with $675 million in high-interest junk bonds at 14% interest rate.",
+      "purpose": "Casino financing",
+      "method": "Junk bond issuance",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-027"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "The high interest rate and massive debt burden made the Taj Mahal financially unsustainable from its opening day, requiring approximately $1 million daily just to service the debt."
+    },
+    {
+      "id": "transaction-fred-chip-purchase",
+      "date": "1990-12-19",
+      "fromEntity": "entity-003",
+      "toEntity": "entity-001",
+      "intermediaries": ["entity-023"],
+      "amount": 3500000,
+      "currency": "USD",
+      "amountUSD": 3500000,
+      "type": "financial",
+      "subtype": "illegal loan",
+      "description": "Fred Trump sent his lawyer to Trump Castle to purchase $3.5 million in casino chips without gambling, effectively providing an illegal, undeclared loan to help his son make a bond payment.",
+      "purpose": "Emergency financing",
+      "method": "Disguised loan",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-028"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "This transaction violated New Jersey casino regulations by circumventing proper loan documentation and approval processes. The Casino Control Commission would later fine Trump Castle $65,000 for this violation in 1993."
+    },
+    {
+      "id": "transaction-sydney-rejection",
+      "date": "1990-03-13",
+      "fromEntity": "entity-040",
+      "toEntity": "entity-001",
+      "intermediaries": [],
+      "amount": 0,
+      "currency": "USD",
+      "amountUSD": 0,
+      "type": "regulatory",
+      "subtype": "license rejection",
+      "description": "A confidential report by the New South Wales Police Board, which became public in 1990, revealed that Trump's 1987 attempt to build a casino in Sydney, Australia was rejected due to concerns about his 'mafia connections.'",
+      "purpose": "Regulatory oversight",
+      "method": "Background investigation",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "Australia",
+      "relatedEvents": ["event-026"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "This public revelation in 1990 was significant as it highlighted international concerns about Trump's business associations at a time when his financial empire was beginning to unravel."
+    }
+  ],
+  "intelligenceActivities": []
+}

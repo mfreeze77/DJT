@@ -1,0 +1,651 @@
+{
+  "events": [
+    {
+      "id": "event-092",
+      "date": "2014-02-11",
+      "startDate": "2014-02-11",
+      "endDate": "2014-02-11",
+      "title": "Trump purchases Doonbeg Golf Resort in Ireland",
+      "description": "Trump acquired the Doonbeg Golf Resort in County Clare, Ireland for approximately €15 million ($20 million). This purchase came shortly after Trump lost a court battle against the Scottish government over an offshore wind farm near his Aberdeenshire golf course.",
+      "categories": ["business", "financial", "international"],
+      "importance": 6,
+      "moneyFlow": {
+        "amount": 20000000,
+        "direction": "from-trump",
+        "isDirectFlow": true,
+        "entities": ["entity-001"]
+      },
+      "location": {
+        "country": "Ireland",
+        "city": "County Clare",
+        "coordinates": []
+      },
+      "entities": ["entity-001"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_213-217.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "Donald Trump buys Irish golf resort after losing Scotland court battle",
+          "url": "https://www.theguardian.com/uk-news/2014/feb/11/donald-trump-irish-golf-scotland-windfarm",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-093",
+      "date": "2014-04-29",
+      "startDate": "2014-04-29",
+      "endDate": "2014-04-29",
+      "title": "Trump purchases Turnberry golf resort in Scotland",
+      "description": "Trump purchased the iconic Turnberry golf resort in Scotland for approximately $60 million in cash, part of a broader trend where he spent hundreds of millions acquiring properties outright rather than using bank loans. He rebranded it Trump Turnberry and claimed to have invested around $200 million in renovations.",
+      "categories": ["business", "financial", "international"],
+      "importance": 7,
+      "moneyFlow": {
+        "amount": 60000000,
+        "direction": "from-trump",
+        "isDirectFlow": true,
+        "entities": ["entity-001"]
+      },
+      "location": {
+        "country": "United Kingdom",
+        "city": "Turnberry, Scotland",
+        "coordinates": []
+      },
+      "entities": ["entity-001"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_213-217_PP.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "Business career of Donald Trump - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Business_career_of_Donald_Trump",
+          "documentType": "encyclopedia",
+          "citation": ""
+        },
+        {
+          "description": "Trump's Dirty Money - Institute for Policy Studies",
+          "url": "https://ips-dc.org/trumps-dirty-money/",
+          "documentType": "report",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-094",
+      "date": "2014-05-20",
+      "startDate": "2014-05-20",
+      "endDate": "2014-05-20",
+      "title": "Eric Trump claims \"we have all the funding we need out of Russia\"",
+      "description": "According to a golf journalist, Eric Trump allegedly stated that the Trump Organization wasn't relying on American banks for their golf course acquisitions but rather \"we have all the funding we need out of Russia.\" This statement, which Eric Trump later denied making, suggests Russian capital was funding Trump ventures during a period when traditional financing was difficult to obtain.",
+      "categories": ["business", "financial"],
+      "importance": 8,
+      "moneyFlow": null,
+      "location": {
+        "country": "United States",
+        "city": "",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-074"],
+      "sources": [
+        {
+          "description": "Tmanch_CH4.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "Tmanch_ML_RP.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "How Russian Money Helped Save Trump's Business – Foreign Policy",
+          "url": "https://foreignpolicy.com/2018/12/21/how-russian-money-helped-save-trumps-business/",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-095",
+      "date": "2014-08-05",
+      "startDate": "2014-08-05",
+      "endDate": "2014-08-05",
+      "title": "Trump sues to remove his name from Atlantic City casinos",
+      "description": "Trump sued Trump Entertainment Resorts to have his name removed from Atlantic City casinos, including the Trump Plaza and Trump Taj Mahal, arguing that the deteriorating properties no longer met the quality standards for the Trump brand. He had previously resigned from the board just before the company's 2009 bankruptcy filing.",
+      "categories": ["business", "legal"],
+      "importance": 6,
+      "moneyFlow": null,
+      "location": {
+        "country": "United States",
+        "city": "Atlantic City",
+        "coordinates": []
+      },
+      "entities": ["entity-001"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_209-212_PP.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "Donald Trump wants name removed from Atlantic City casinos",
+          "url": "https://www.upi.com/Top_News/US/2014/08/06/Donald-Trump-wants-name-removed-from-Atlantic-City-casinos/9231407345555/",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-096",
+      "date": "2014-09-15",
+      "startDate": "2014-09-15",
+      "endDate": "2014-09-15",
+      "title": "Trump establishes TRUMPFIELD LTD in the Bahamas",
+      "description": "Trump Organization established TRUMPFIELD LTD, an offshore entity in the Bahamas. This entity was part of Trump's global network of companies and corporate structures used for international business operations.",
+      "categories": ["business", "financial", "international"],
+      "importance": 7,
+      "moneyFlow": null,
+      "location": {
+        "country": "Bahamas",
+        "city": "",
+        "coordinates": []
+      },
+      "entities": ["entity-001"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_213-217_PP.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-097",
+      "date": "2014-12-31",
+      "startDate": "2014-01-01",
+      "endDate": "2014-12-31",
+      "title": "Trump Tower Moscow project with Agalarovs stalls",
+      "description": "The potential Trump Tower Moscow project being discussed with Aras and Emin Agalarov, which began after the 2013 Miss Universe pageant, ultimately stalled by the end of 2014. According to Donald Trump Jr., the project \"died of deal fatigue.\" The deteriorating geopolitical climate following Russia's annexation of Crimea in early 2014 and resulting sanctions likely contributed to the project's demise.",
+      "categories": ["business", "financial", "international"],
+      "importance": 9,
+      "moneyFlow": null,
+      "location": {
+        "country": "Russia",
+        "city": "Moscow",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-064", "entity-065"],
+      "sources": [
+        {
+          "description": "Tmanch_CH4.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "Trump's Moscow Tower Problem",
+          "url": "https://www.wnycstudios.org/podcasts/trumpinc/episodes/trump-inc-trump-moscow-tower-problem",
+          "documentType": "podcast",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": ["event-090"],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-098",
+      "date": "2014-03-03",
+      "startDate": "2014-03-03",
+      "endDate": "2014-03-03",
+      "title": "Trump criticizes Obama's handling of Russia-Ukraine crisis",
+      "description": "After Russia's military intervention in Ukraine and annexation of Crimea in early 2014, Trump publicly criticized the Obama administration's response. At CPAC in March 2014, Trump said of Putin, \"He's a strong guy, although I don't like what he's doing,\" while lambasting President Obama as ineffective. Trump continued to praise Putin's leadership while arguing that the U.S. should focus on improving relations with Russia.",
+      "categories": ["political", "international"],
+      "importance": 8,
+      "moneyFlow": null,
+      "location": {
+        "country": "United States",
+        "city": "",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-071"],
+      "sources": [
+        {
+          "description": "Tmanch_CH4.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "Trump Praised Putin on the National Stage Again — Here's What It Means",
+          "url": "https://www.businessinsider.com/donald-trump-vladimir-putin-strong-leader-obama-2016-9",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-099",
+      "date": "2014-04-16",
+      "startDate": "2014-04-16",
+      "endDate": "2014-04-16",
+      "title": "Ivanka Trump and Jared Kushner socialize with Roman Abramovich in Russia",
+      "description": "Ivanka Trump and Jared Kushner traveled to Russia as guests of Dasha Zhukova, the wife of Russian oligarch Roman Abramovich. They attended a gala where they sat at Abramovich's table. This personal relationship created a direct line between the Trump family and one of Putin's inner-circle oligarchs.",
+      "categories": ["personal", "international"],
+      "importance": 7,
+      "moneyFlow": null,
+      "location": {
+        "country": "Russia",
+        "city": "Moscow",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-072", "entity-073", "entity-075"],
+      "sources": [
+        {
+          "description": "Tmanch_CH4_support.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "Roman Abramovich: billionaire oligarch, Chelsea owner, Kremlin ally",
+          "url": "https://www.scmp.com/news/world/russia-central-asia/article/2107335/roman-abramovich-billionaire-oligarch-chelsea-owner",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-100",
+      "date": "2014-03-18",
+      "startDate": "2014-03-18",
+      "endDate": "2014-03-18",
+      "title": "Trump Trump Ocean Club Unit 2710, Inc. defaults in Panama",
+      "description": "Trump Ocean Club Unit 2710, Inc., a Panama-registered company associated with the Trump Ocean Club development in Panama City, defaulted in 2014. This was part of a pattern of financial troubles in the Panama development, where Trump had licensed his name and provided management services.",
+      "categories": ["business", "financial", "international"],
+      "importance": 6,
+      "moneyFlow": null,
+      "location": {
+        "country": "Panama",
+        "city": "Panama City",
+        "coordinates": []
+      },
+      "entities": ["entity-001"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_209-212_PP.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    }
+  ],
+  "entities": {
+    "entity-001": {
+      "id": "entity-001",
+      "name": "Donald J. Trump",
+      "aliases": ["Donald John Trump", "DJT"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "American",
+      "description": "Real estate developer, businessman, and television personality. In 2014, Trump expanded his international golf portfolio with major cash purchases in Scotland and Ireland, while also continuing to pursue deals in Russia and manage his global business interests.",
+      "roles": ["developer", "businessman", "television personality"],
+      "affiliation": [],
+      "significance": 10,
+      "firstAppearance": "1977-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-064": {
+      "id": "entity-064",
+      "name": "Aras Agalarov",
+      "aliases": ["The Trump of Russia"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "Azerbaijani-Russian",
+      "description": "Azerbaijani-born Russian billionaire developer and close Putin ally who partnered with Trump to host the 2013 Miss Universe pageant in Moscow. In 2014, his discussions with Trump about a potential Trump Tower Moscow project stalled, though the relationship between the Agalarovs and Trump remained.",
+      "roles": ["businessman", "developer"],
+      "affiliation": ["Crocus Group"],
+      "significance": 9,
+      "firstAppearance": "2013-06-15",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-065": {
+      "id": "entity-065",
+      "name": "Emin Agalarov",
+      "aliases": ["Emin"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "Azerbaijani-Russian",
+      "description": "Son of Aras Agalarov, Russian-Azerbaijani pop singer and businessman who was instrumental in bringing the 2013 Miss Universe pageant to Moscow. In 2014, he continued to serve as a communications link between Trump and his father regarding the potential Trump Tower Moscow project before it stalled.",
+      "roles": ["businessman", "musician", "developer"],
+      "affiliation": ["Crocus Group"],
+      "significance": 8,
+      "firstAppearance": "2013-06-15",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-071": {
+      "id": "entity-071",
+      "name": "Vladimir Putin",
+      "aliases": [],
+      "type": "person",
+      "subtype": "politician",
+      "nationality": "Russian",
+      "description": "President of Russia. In 2014, Putin orchestrated the annexation of Crimea from Ukraine, leading to international sanctions against Russia. Despite these actions, Trump continued to express admiration for Putin's leadership style while criticizing the Obama administration's response to the crisis.",
+      "roles": ["president", "politician"],
+      "affiliation": ["Russian government"],
+      "significance": 9,
+      "firstAppearance": "2013-11-09",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-072": {
+      "id": "entity-072",
+      "name": "Ivanka Trump",
+      "aliases": [],
+      "type": "person",
+      "subtype": "businesswoman",
+      "nationality": "American",
+      "description": "Daughter of Donald Trump and Executive Vice President of the Trump Organization. In 2014, she traveled to Russia with her husband Jared Kushner and socialized with Roman Abramovich, creating a direct line between the Trump family and one of Putin's inner-circle oligarchs.",
+      "roles": ["businesswoman", "executive"],
+      "affiliation": ["Trump Organization"],
+      "significance": 8,
+      "firstAppearance": "2014-04-16",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-073": {
+      "id": "entity-073",
+      "name": "Jared Kushner",
+      "aliases": [],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "American",
+      "description": "Husband of Ivanka Trump and real estate developer. In 2014, he traveled to Russia with Ivanka Trump as guests of Dasha Zhukova, and socialized with Russian oligarch Roman Abramovich, establishing personal connections with influential Russian business figures.",
+      "roles": ["businessman", "real estate developer"],
+      "affiliation": ["Kushner Companies"],
+      "significance": 7,
+      "firstAppearance": "2014-04-16",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-074": {
+      "id": "entity-074",
+      "name": "Eric Trump",
+      "aliases": [],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "American",
+      "description": "Son of Donald Trump and Executive Vice President of the Trump Organization. In 2014, he allegedly told a golf journalist that the Trump Organization wasn't relying on American banks but had \"all the funding we need out of Russia\" for their golf course acquisitions, though he later denied making this statement.",
+      "roles": ["businessman", "executive"],
+      "affiliation": ["Trump Organization"],
+      "significance": 8,
+      "firstAppearance": "2014-05-20",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-075": {
+      "id": "entity-075",
+      "name": "Roman Abramovich",
+      "aliases": [],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "Russian",
+      "description": "Russian billionaire oligarch with close ties to Vladimir Putin. In 2014, he hosted Ivanka Trump and Jared Kushner in Russia, establishing a social connection between the Trump family and Putin's inner circle. Abramovich was identified by the U.S. Treasury in 2018 as one of the Russian oligarchs closest to Putin's government.",
+      "roles": ["businessman", "oligarch"],
+      "affiliation": [],
+      "significance": 8,
+      "firstAppearance": "2014-04-16",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    }
+  },
+  "relationships": [
+    {
+      "id": "relationship-trump-agalarov-2014",
+      "source": "entity-001",
+      "target": "entity-064",
+      "type": "business",
+      "subtype": "negotiations",
+      "description": "Throughout 2014, Trump continued negotiations with Aras Agalarov regarding a potential Trump Tower Moscow project, though the deal ultimately stalled by the end of the year due to geopolitical tensions following Russia's annexation of Crimea and resulting sanctions.",
+      "strength": 8,
+      "startDate": "2014-01-01",
+      "endDate": "2014-12-31",
+      "isBidirectional": true,
+      "relatedEvents": ["event-097"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    {
+      "id": "relationship-trump-emin-2014",
+      "source": "entity-001",
+      "target": "entity-065",
+      "type": "business-personal",
+      "subtype": "communication",
+      "description": "In 2014, Emin Agalarov served as a communications link between Trump and his father Aras regarding the potential Trump Tower Moscow project. Donald Trump Jr. communicated with Emin about site scouting and possible locations for the project before it ultimately stalled.",
+      "strength": 7,
+      "startDate": "2014-01-01",
+      "endDate": "2014-12-31",
+      "isBidirectional": true,
+      "relatedEvents": ["event-097"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    {
+      "id": "relationship-ivanka-abramovich",
+      "source": "entity-072",
+      "target": "entity-075",
+      "type": "personal",
+      "subtype": "social",
+      "description": "In 2014, Ivanka Trump and her husband Jared Kushner developed a personal relationship with Russian oligarch Roman Abramovich, visiting him in Russia and attending social events. This friendship created a direct line between the Trump family and one of Putin's inner-circle oligarchs.",
+      "strength": 7,
+      "startDate": "2014-04-16",
+      "endDate": "",
+      "isBidirectional": true,
+      "relatedEvents": ["event-099"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    {
+      "id": "relationship-kushner-abramovich",
+      "source": "entity-073",
+      "target": "entity-075",
+      "type": "personal",
+      "subtype": "social",
+      "description": "In 2014, Jared Kushner, along with his wife Ivanka Trump, socialized with Roman Abramovich in Russia, establishing a personal connection with a prominent Russian oligarch close to Vladimir Putin.",
+      "strength": 7,
+      "startDate": "2014-04-16",
+      "endDate": "",
+      "isBidirectional": true,
+      "relatedEvents": ["event-099"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    {
+      "id": "relationship-trump-putin-2014",
+      "source": "entity-001",
+      "target": "entity-071",
+      "type": "political-admiration",
+      "subtype": "public statements",
+      "description": "Throughout 2014, Trump continued to express admiration for Vladimir Putin's leadership style, even as Russia annexed Crimea and international tensions rose. Trump criticized the Obama administration's response to the crisis while maintaining that the U.S. should improve relations with Russia.",
+      "strength": 7,
+      "startDate": "2014-03-03",
+      "endDate": "2014-12-31",
+      "isBidirectional": false,
+      "relatedEvents": ["event-098"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    }
+  ],
+  "transactions": [
+    {
+      "id": "transaction-turnberry-purchase",
+      "date": "2014-04-29",
+      "fromEntity": "entity-001",
+      "toEntity": "unknown",
+      "intermediaries": [],
+      "amount": 60000000,
+      "currency": "USD",
+      "amountUSD": 60000000,
+      "type": "property",
+      "subtype": "real estate purchase",
+      "description": "Trump purchased the Turnberry golf resort in Scotland for approximately $60 million in cash, part of a trend where he began making large all-cash purchases of properties rather than using traditional financing. This purchase raised questions about the source of Trump's cash flow during this period.",
+      "purpose": "Asset acquisition",
+      "method": "Cash purchase",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United Kingdom",
+      "relatedEvents": ["event-093"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "The source of the funds for this all-cash purchase later became the subject of speculation and investigation, particularly after Eric Trump's alleged comment about Russian funding."
+    },
+    {
+      "id": "transaction-doonbeg-purchase",
+      "date": "2014-02-11",
+      "fromEntity": "entity-001",
+      "toEntity": "unknown",
+      "intermediaries": [],
+      "amount": 20000000,
+      "currency": "USD",
+      "amountUSD": 20000000,
+      "type": "property",
+      "subtype": "real estate purchase",
+      "description": "Trump purchased the Doonbeg Golf Resort in County Clare, Ireland for approximately €15 million ($20 million). This acquisition came shortly after Trump lost a court battle against the Scottish government regarding an offshore wind farm near his Aberdeenshire golf course.",
+      "purpose": "Asset acquisition",
+      "method": "Cash purchase",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "Ireland",
+      "relatedEvents": ["event-092"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "Like the Turnberry purchase, this acquisition was part of Trump's expansion into international golf properties using cash rather than traditional financing."
+    }
+  ],
+  "intelligenceActivities": []
+}

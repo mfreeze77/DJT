@@ -1,0 +1,139 @@
+{
+  "nodes": [
+    {
+      "id": "entity-001",
+      "label": "Donald Trump",
+      "group": "trump",
+      "type": "person",
+      "startDate": "1977-01-01",
+      "endDate": "2025-01-01"
+    },
+    {
+      "id": "entity-002",
+      "label": "Ivana Trump",
+      "group": "person",
+      "type": "person",
+      "startDate": "1977-01-01",
+      "endDate": "2025-01-01"
+    },
+    {
+      "id": "entity-003",
+      "label": "Fred Trump",
+      "group": "person",
+      "type": "person",
+      "startDate": "1977-01-01",
+      "endDate": "1999-06-25"
+    },
+    {
+      "id": "entity-004",
+      "label": "Trump Organization",
+      "group": "organization",
+      "type": "organization",
+      "startDate": "1977-01-01",
+      "endDate": "2025-01-01"
+    },
+    {
+      "id": "entity-005",
+      "label": "Trump Tower",
+      "group": "property",
+      "type": "property",
+      "startDate": "1983-11-15",
+      "endDate": "2025-01-01"
+    },
+    {
+      "id": "entity-006",
+      "label": "Deutsche Bank",
+      "group": "financial-institution",
+      "type": "organization",
+      "startDate": "1977-01-01",
+      "endDate": "2025-01-01"
+    },
+    {
+      "id": "entity-007",
+      "label": "Taj Mahal Casino",
+      "group": "property",
+      "type": "property",
+      "startDate": "1990-04-02",
+      "endDate": "2016-10-10"
+    },
+    {
+      "id": "entity-008",
+      "label": "Yuri Dubinin",
+      "group": "russian",
+      "type": "person",
+      "startDate": "1986-03-01",
+      "endDate": "1990-12-31"
+    },
+    {
+      "id": "entity-009",
+      "label": "Soviet Government",
+      "group": "russian",
+      "type": "organization",
+      "startDate": "1977-01-01",
+      "endDate": "1991-12-26"
+    },
+    {
+      "id": "entity-010",
+      "label": "KGB",
+      "group": "intelligence",
+      "type": "organization",
+      "startDate": "1977-01-01",
+      "endDate": "1991-12-26"
+    },
+    {
+      "id": "entity-011",
+      "label": "Intourist",
+      "group": "russian",
+      "type": "organization",
+      "startDate": "1977-01-01",
+      "endDate": "1991-12-26"
+    },
+    {
+      "id": "entity-012",
+      "label": "Michael Cohen",
+      "group": "person",
+      "type": "person",
+      "startDate": "2006-01-01",
+      "endDate": "2025-01-01"
+    }
+  ],
+  "links": [
+    {
+      "source": "entity-001",
+      "target": "entity-002",
+      "type": "marital",
+      "value": 9,
+      "startDate": "1977-04-01",
+      "endDate": "1992-03-22"
+    },
+    {
+      "source": "entity-001",
+      "target": "entity-003",
+      "type": "family",
+      "value": 10,
+      "startDate": "1977-01-01",
+      "endDate": "1999-06-25"
+    },
+    {
+      "source": "entity-001",
+      "target": "entity-004",
+      "type": "owns",
+      "value": 10,
+      "startDate": "1977-01-01",
+      "endDate": "2025-01-01"
+    },
+    {
+      "source": "entity-004",
+      "target": "entity-005",
+      "type": "owns",
+      "value": 8,
+      "startDate": "1983-11-15",
+      "endDate": "2025-01-01"
+    },
+    {
+      "source": "entity-001",
+      "target": "entity-006",
+      "type": "financial",
+      "value": 7,
+      "startDate": "1998-01-01",
+      "endDate": "2025-01-01"

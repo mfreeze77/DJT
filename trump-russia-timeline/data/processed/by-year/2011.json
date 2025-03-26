@@ -1,0 +1,754 @@
+{
+  "events": [
+    {
+      "id": "event-066",
+      "date": "2011-07-06",
+      "startDate": "2011-07-06",
+      "endDate": "2011-07-06",
+      "title": "Trump Ocean Club International Hotel and Tower opens in Panama",
+      "description": "Trump's first international hotel-condo venture opens in Panama City. The 70-story waterfront skyscraper was developed by Roger Khafif, with Trump providing his name and management services in exchange for licensing fees and a share of unit sales.",
+      "categories": ["business", "financial"],
+      "importance": 8,
+      "moneyFlow": {
+        "amount": 32000000,
+        "direction": "to-trump",
+        "isDirectFlow": true,
+        "entities": ["entity-001", "entity-045"]
+      },
+      "location": {
+        "country": "Panama",
+        "city": "Panama City",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-045", "entity-042", "entity-043"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_209-212_PP.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "What is Trump's history with Panama? Threats, money-laundering claims and a hotel battle",
+          "url": "https://www.the-independent.com/news/world/americas/us-politics/trump-panama-canal-hotel-lawsuit-history-b2669911.html",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": ["event-063"],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-067",
+      "date": "2011-04-20",
+      "startDate": "2011-04-20",
+      "endDate": "2011-04-20",
+      "title": "Trump purchases Kluge estate and winery",
+      "description": "Trump acquires the foreclosed 776-acre Kluge Estate Winery and Vineyard near Charlottesville, Virginia, for $6.2 million, a fraction of its previous $100 million value. Trump rebrands it as Trump Vineyard Estates.",
+      "categories": ["business", "financial"],
+      "importance": 6,
+      "moneyFlow": {
+        "amount": 6200000,
+        "direction": "from-trump",
+        "isDirectFlow": true,
+        "entities": ["entity-001", "entity-046"]
+      },
+      "location": {
+        "country": "United States",
+        "city": "Charlottesville",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-046"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_209-212_PP.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "What Exactly Is Donald Trump's Deal?",
+          "url": "https://www.theatlantic.com/magazine/archive/2013/04/whats-the-deal-with-donald-trump/309261/",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-068",
+      "date": "2011-04-30",
+      "startDate": "2011-04-01",
+      "endDate": "2011-04-30",
+      "title": "Trump Towers Istanbul officially opens",
+      "description": "The Trump-branded twin-tower complex in Istanbul, Turkey opens. Developed by Turkish billionaire Aydın Doğan under license from Trump, the project consists of one residential tower and one office tower.",
+      "categories": ["business", "international"],
+      "importance": 7,
+      "moneyFlow": {
+        "amount": 5000000,
+        "direction": "to-trump",
+        "isDirectFlow": true,
+        "entities": ["entity-001", "entity-047"]
+      },
+      "location": {
+        "country": "Turkey",
+        "city": "Istanbul",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-047"],
+      "sources": [
+        {
+          "description": "Timeline & History",
+          "url": "https://www.trump.com/timeline",
+          "documentType": "corporate website",
+          "citation": ""
+        },
+        {
+          "description": "Behind Trump-Erdogan 'bromance,' a White House meeting to repair U.S.-Turkey ties",
+          "url": "https://www.reuters.com/article/world/behind-trump-erdogan-bromance-a-white-house-meeting-to-repair-us-turkey-tie-idUSKBN1XM0EZ/",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-069",
+      "date": "2011-11-03",
+      "startDate": "2011-11-03",
+      "endDate": "2011-11-03",
+      "title": "Trump SoHo settles fraud lawsuit with condo buyers",
+      "description": "Trump and his partners settle a lawsuit with Trump SoHo condo buyers who alleged they were misled about sales figures. The settlement refunds 90% of deposits (about $3.16 million) to approximately 10 buyers in exchange for dropping fraud claims.",
+      "categories": ["legal", "business", "financial"],
+      "importance": 7,
+      "moneyFlow": {
+        "amount": 3160000,
+        "direction": "from-trump",
+        "isDirectFlow": true,
+        "entities": ["entity-001"]
+      },
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-040", "entity-048", "entity-049"],
+      "sources": [
+        {
+          "description": "Trump SoHo Settles Fraud Suit by Returning a Big Chunk of Cash to Buyers - Business Insider",
+          "url": "https://www.businessinsider.com/trump-soho-fraud-lawsuit-settled-2011-11",
+          "documentType": "news article",
+          "citation": ""
+        },
+        {
+          "description": "Tmanch_Fin_209-212_PP.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-070",
+      "date": "2011-01-01",
+      "startDate": "2011-01-01",
+      "endDate": "2011-12-31",
+      "title": "Trump University investigated and renamed",
+      "description": "Trump University (operating since 2005) changes its name to 'Trump Entrepreneur Initiative' after the New York Attorney General opens an investigation into illegal business practices. The investigation would lead to lawsuits in 2013.",
+      "categories": ["legal", "business"],
+      "importance": 7,
+      "moneyFlow": null,
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-050"],
+      "sources": [
+        {
+          "description": "Trump University - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Trump_University",
+          "documentType": "encyclopedia",
+          "citation": ""
+        },
+        {
+          "description": "Tmanch_Fin_209-212_PP.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-071",
+      "date": "2011-05-16",
+      "startDate": "2011-01-01",
+      "endDate": "2011-05-16",
+      "title": "Trump explores and declines 2012 presidential run",
+      "description": "After months of high-profile speculation about running for president in 2012, including promotion of the 'birther' conspiracy questioning President Obama's birthplace, Trump announces he will not run and renews his contract with NBC for Celebrity Apprentice.",
+      "categories": ["political"],
+      "importance": 7,
+      "moneyFlow": null,
+      "location": {
+        "country": "United States",
+        "city": "",
+        "coordinates": []
+      },
+      "entities": ["entity-001"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_209-212_PP.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "Birtherism: Where it all began - POLITICO",
+          "url": "https://www.politico.com/story/2011/04/birtherism-where-it-all-began-053563",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-072",
+      "date": "2011-05-31",
+      "startDate": "2011-05-31",
+      "endDate": "2011-05-31",
+      "title": "Trump Entertainment Resorts exits bankruptcy",
+      "description": "Trump's casino company emerges from its fourth bankruptcy filing (initiated in 2009). The restructured company operates under new ownership, with Trump retaining a 10% stake and licensing agreement for his name on the properties.",
+      "categories": ["business", "financial", "legal"],
+      "importance": 6,
+      "moneyFlow": null,
+      "location": {
+        "country": "United States",
+        "city": "Atlantic City",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-051"],
+      "sources": [
+        {
+          "description": "Trump Entertainment Resorts - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Trump_Entertainment_Resorts",
+          "documentType": "encyclopedia",
+          "citation": ""
+        },
+        {
+          "description": "Tmanch_Fin_209-212_PP.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-073",
+      "date": "2011-05-01",
+      "startDate": "2010-12-01",
+      "endDate": "2011-05-01",
+      "title": "Jody Kriss lawsuit against Bayrock Group progresses",
+      "description": "A lawsuit filed by Bayrock's former finance director Jody Kriss against the company moves forward. The suit alleges that Bayrock, Trump's partner on Trump SoHo and other projects, engaged in fraud and money laundering connected to Russian and Kazakh sources.",
+      "categories": ["legal", "business", "financial"],
+      "importance": 8,
+      "moneyFlow": null,
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-052", "entity-053"],
+      "sources": [
+        {
+          "description": "Tmanch_CH4.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "Tevfik Arif | Committee to Investigate Russia",
+          "url": "https://investigaterussia.org/players/tevfik-arif",
+          "documentType": "report",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-074",
+      "date": "2011-10-25",
+      "startDate": "2010-10-25",
+      "endDate": "2011-10-25",
+      "title": "Tevfik Arif acquitted of prostitution charges in Turkey",
+      "description": "Tevfik Arif, the Bayrock Group founder and Trump business partner, is acquitted in a Turkish court of charges related to organizing prostitution. He had been arrested in 2010 during a raid on a yacht party with high-profile businessmen and young women.",
+      "categories": ["legal"],
+      "importance": 6,
+      "moneyFlow": null,
+      "location": {
+        "country": "Turkey",
+        "city": "",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-053"],
+      "sources": [
+        {
+          "description": "Tevfik Arif | Committee to Investigate Russia",
+          "url": "https://investigaterussia.org/players/tevfik-arif",
+          "documentType": "report",
+          "citation": ""
+        },
+        {
+          "description": "Tmanch_CH4.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": ["event-073"],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-075",
+      "date": "2011-02-01",
+      "startDate": "2011-02-01",
+      "endDate": "2011-02-01",
+      "title": "Russian oligarch Oleg Misevra buys Trump Hollywood penthouse",
+      "description": "Russian coal magnate Oleg Misevra purchases a penthouse in Trump Hollywood for $6.8 million. This is part of a pattern of wealthy Russians investing in Trump-branded properties in South Florida during this period.",
+      "categories": ["business", "financial"],
+      "importance": 7,
+      "moneyFlow": {
+        "amount": 6800000,
+        "direction": "to-trump",
+        "isDirectFlow": false,
+        "entities": ["entity-001", "entity-054"]
+      },
+      "location": {
+        "country": "United States",
+        "city": "Hollywood, Florida",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-054"],
+      "sources": [
+        {
+          "description": "Russian elite invested nearly $100 million in Trump buildings",
+          "url": "https://www.reuters.com/investigates/special-report/usa-trump-property/",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-076",
+      "date": "2011-06-01",
+      "startDate": "2011-06-01",
+      "endDate": "2011-06-01",
+      "title": "VEB directs funds to Trump Toronto project",
+      "description": "Russian state-owned bank VEB (Vnesheconombank) provides $850 million to Russian-Canadian developer Alexander Shnaider's Midland Group. Shortly after, Shnaider uses some of these funds for the Trump International Hotel & Tower Toronto project.",
+      "categories": ["business", "financial", "international"],
+      "importance": 8,
+      "moneyFlow": {
+        "amount": 100000000,
+        "direction": "to-trump",
+        "isDirectFlow": false,
+        "entities": ["entity-001", "entity-055", "entity-056"]
+      },
+      "location": {
+        "country": "Canada",
+        "city": "Toronto",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-055", "entity-056"],
+      "sources": [
+        {
+          "description": "Tmanch_CH4.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "There is evidence that Russian money flowed to Trump through Toronto hotel project",
+          "url": "https://www.businessinsider.com/russian-money-trump-toronto-hotel-through-alexander-shnaider-2018-5",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    }
+  ],
+  "entities": {
+    "entity-001": {
+      "id": "entity-001",
+      "name": "Donald J. Trump",
+      "aliases": ["Donald John Trump", "DJT"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "American",
+      "description": "Real estate developer, businessman, and television personality. In 2011, expanded his global brand with new international properties, explored a presidential run, and settled legal challenges.",
+      "roles": ["developer", "businessman", "television personality"],
+      "affiliation": [],
+      "significance": 10,
+      "firstAppearance": "1977-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-040": {
+      "id": "entity-040",
+      "name": "Donald Trump Jr.",
+      "aliases": ["Don Jr."],
+      "type": "person",
+      "subtype": "",
+      "nationality": "American",
+      "description": "Eldest son of Donald Trump who works as an executive in the Trump Organization. Involved in the Trump SoHo project's marketing and named in fraud allegations settled in 2011.",
+      "roles": ["business executive"],
+      "affiliation": ["Trump Organization"],
+      "significance": 7,
+      "firstAppearance": "2008-07-02",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-042": {
+      "id": "entity-042",
+      "name": "David Helmut Murcia Guzmán",
+      "aliases": ["DMG"],
+      "type": "person",
+      "subtype": "criminal",
+      "nationality": "Colombian",
+      "description": "Colombian businessman who operated a massive pyramid scheme (DMG Grupo) and was later convicted of laundering drug money through real estate, including units in Trump Ocean Club Panama.",
+      "roles": ["money launderer", "fraudster"],
+      "affiliation": ["DMG Grupo"],
+      "significance": 7,
+      "firstAppearance": "2008-11-18",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-043": {
+      "id": "entity-043",
+      "name": "Alexandre Ventura Nogueira",
+      "aliases": ["Ventura Nogueira"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "Brazilian",
+      "description": "Brazilian broker living in Panama who became a lead seller for Trump Ocean Club condos. He facilitated purchases for buyers using anonymous offshore companies and worked with Murcia Guzmán.",
+      "roles": ["real estate broker"],
+      "affiliation": [],
+      "significance": 7,
+      "firstAppearance": "2008-11-18",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-045": {
+      "id": "entity-045",
+      "name": "Roger Khafif",
+      "aliases": [],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "Panamanian",
+      "description": "Panamanian developer who partnered with Trump to build the Trump Ocean Club in Panama City. His company later defaulted on the bond payments, though Trump had already profited from the licensing and management fees.",
+      "roles": ["real estate developer"],
+      "affiliation": ["Newland International Properties Corp."],
+      "significance": 6,
+      "firstAppearance": "2006-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-046": {
+      "id": "entity-046",
+      "name": "Patricia Kluge",
+      "aliases": [],
+      "type": "person",
+      "subtype": "businesswoman",
+      "nationality": "American",
+      "description": "Former socialite and winery owner who lost her estate to foreclosure, which Trump then purchased at a steep discount. Trump kept her on as a consultant after buying the property.",
+      "roles": ["winery owner", "businesswoman"],
+      "affiliation": ["Kluge Estate Winery and Vineyard"],
+      "significance": 5,
+      "firstAppearance": "2011-04-20",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-047": {
+      "id": "entity-047",
+      "name": "Aydın Doğan",
+      "aliases": ["Aydin Dogan"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "Turkish",
+      "description": "Turkish billionaire and head of Doğan Holding who developed the Trump Towers Istanbul under a licensing deal with the Trump Organization. The complex opened in 2011.",
+      "roles": ["businessman", "developer"],
+      "affiliation": ["Doğan Holding"],
+      "significance": 6,
+      "firstAppearance": "2011-04-30",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-048": {
+      "id": "entity-048",
+      "name": "Ivanka Trump",
+      "aliases": [],
+      "type": "person",
+      "subtype": "businesswoman",
+      "nationality": "American",
+      "description": "Daughter of Donald Trump who works as an executive in the Trump Organization. Involved in marketing Trump SoHo and implicated in misrepresentations about unit sales that led to the 2011 lawsuit settlement.",
+      "roles": ["business executive"],
+      "affiliation": ["Trump Organization"],
+      "significance": 7,
+      "firstAppearance": "2008-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-049": {
+      "id": "entity-049",
+      "name": "Bayrock Group",
+      "aliases": [],
+      "type": "organization",
+      "subtype": "real estate developer",
+      "nationality": "American",
+      "description": "New York-based real estate development company founded by Tevfik Arif that partnered with Trump on the Trump SoHo project and other developments. Later became embroiled in multiple lawsuits alleging fraud and money laundering.",
+      "roles": ["real estate developer"],
+      "affiliation": [],
+      "significance": 8,
+      "firstAppearance": "2005-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-050": {
+      "id": "entity-050",
+      "name": "New York Attorney General's Office",
+      "aliases": ["NYAG"],
+      "type": "organization",
+      "subtype": "government",
+      "nationality": "American",
+      "description": "State law enforcement agency that investigated Trump University in 2011, forcing its name change and later filing fraud charges against the organization in 2013.",
+      "roles": ["law enforcement", "regulator"],
+      "affiliation": [],
+      "significance": 7,
+      "firstAppearance": "2011-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-051": {
+      "id": "entity-051",
+      "name": "Trump Entertainment Resorts",
+      "aliases": ["TER"],
+      "type": "organization",
+      "subtype": "business",
+      "nationality": "American",
+      "description": "Trump's casino company which emerged from its fourth bankruptcy in 2011. Trump retained a 10% stake and licensing deal for his name on the properties after restructuring.",
+      "roles": ["casino operator"],
+      "affiliation": [],
+      "significance": 6,
+      "firstAppearance": "1995-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-052": {
+      "id": "entity-052",
+      "name": "Jody Kriss",
+      "aliases": [],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "American",
+      "description": "Former finance director at Bayrock Group who filed a lawsuit against the company in 2010, alleging fraud and money laundering connected to Russian and Kazakh money. The lawsuit progressed in 2011.",
+      "roles": ["finance executive", "whistleblower"],
+      "affiliation": ["Bayrock Group"],
+      "significance": 7,
+      "firstAppearance": "2010-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-053": {
+      "id": "entity-053",
+      "name": "Tevfik Arif",
+      "aliases": [],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "Kazakh",
+      "description": "Founder of Bayrock Group and Trump's business partner on Trump SoHo and other projects. Arif was arrested in Turkey in 2010 and later acquitted in 2011 of charges related to organizing prostitution.",
+      "roles": ["businessman", "developer"],
+      "affiliation": ["Bayrock Group"],
+      "significance": 7,
+      "firstAppearance": "2005-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-054": {
+      "id": "entity-054",
+      "name": "Oleg Misevra",
+      "aliases": [],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "Russian",
+      "description": "Russian coal magnate who purchased a penthouse in Trump Hollywood for $6.8 million in 2011, part of a broader pattern of wealthy Russians investing in Trump-branded properties.",
+      "roles": ["businessman", "investor"],
+      "affiliation": ["Siberian Coal Energy Company"],
+      "significance": 6,
+      "firstAppearance": "2011-02-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-055": {
+      "id": "entity-055",
+      "name": "Alexander Shnaider",
+      "aliases": [],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "Russian-Canadian",
+      "description": "Russian-born Canadian businessman who developed the Trump International Hotel & Tower in Toronto. In 2011, his company Midland Group received funding from Russian state bank VEB, which was then directed to the Trump Toronto project.",
+      "roles": ["businessman", "developer"],
+      "affiliation": ["Midland Group"],
+      "significance": 7,
+      "firstAppearance": "2007-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-056": {
+      "id": "entity-056",
+      "name": "Vnesheconombank",
+      "aliases": ["VEB"],
+      "type": "organization",
+      "subtype": "financial-institution",
+      "nationality": "Russian",
+      "description": "Russian state-owned development bank that provided $850 million to Alexander Shnaider's Midland Group in 2011, funds that were subsequently used in part for the Trump Toronto project. VEB is closely tied to the Kremlin and often used for strategic projects.",
+      "roles": ["state bank", "development bank"],
+      "affiliation": ["Russian government"],
+      "significance": 8,
+      "firstAppearance": "2011-06-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    }
+  },
+  "relationships": [],
+  "transactions": [],
+  "intelligenceActivities": []
+}

@@ -1,0 +1,270 @@
+{
+  "events": [
+    {
+      "id": "event-010",
+      "date": "1983-11-01",
+      "startDate": "1979-01-01",
+      "endDate": "1983-11-01",
+      "title": "Construction and opening of Trump Tower",
+      "description": "Donald Trump acquires the Bonwit Teller building and partners with Equitable Life Assurance. Over four years, he develops the 58-story Trump Tower on Fifth Avenue. Officially opens on 1983-11-01. The skyscraper includes luxury condos, retail space, and the Trump Organization headquarters, and serves as Trump's personal residence. The project's success significantly raises Trump's national profile.",
+      "categories": ["business", "financial"],
+      "importance": 10,
+      "moneyFlow": {
+        "amount": 200000000,
+        "direction": "investment",
+        "isDirectFlow": true,
+        "entities": ["entity-001", "entity-017", "entity-021"],
+        "description": "The construction of Trump Tower represented a major investment, with an estimated cost of around $200 million. The financial structure was a partnership between Trump and Equitable Life Assurance, where Equitable contributed the valuable Fifth Avenue land (the former Bonwit Teller building site) in exchange for a 50% ownership stake. This arrangement allowed Trump to develop a prestigious Manhattan skyscraper without having to purchase the extremely expensive land outright, while Equitable received half-ownership of what would become an iconic New York property. The project significantly elevated Trump's status and brand in the real estate world."
+      },
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": [40.7624, -73.9738]
+      },
+      "entities": ["entity-001", "entity-021", "entity-017"],
+      "sources": [
+        {
+          "description": "Business career of Donald Trump - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Business_career_of_Donald_Trump",
+          "documentType": "online encyclopedia",
+          "citation": ""
+        },
+        {
+          "description": "Tmanch_Fin_83-86.md – Trump Tower completion 1983",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_Fin_83-86.md",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "Tmanch_CH2.md – references to Trump Tower opening",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_CH2.md",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_CH2.md#the-trump-zelníčková-marriage",
+      "relatedEvents": ["event-003"],
+      "era": "era-001",
+      "mediaUrls": []
+    }
+  ],
+  "entities": {
+    "entity-001": {
+      "id": "entity-001",
+      "name": "Donald J. Trump",
+      "aliases": ["Donald John Trump", "DJT"],
+      "type": "person",
+      "subtype": "",
+      "nationality": "American",
+      "description": "Real estate developer, 45th President of the US. Key figure in the 1977–1983 Manhattan real estate deals and later expansions.",
+      "roles": ["developer", "political figure"],
+      "affiliation": [],
+      "significance": 10,
+      "firstAppearance": "1977-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-017": {
+      "id": "entity-017",
+      "name": "Equitable Life Assurance Society",
+      "aliases": ["Equitable Life Assurance", "Equitable"],
+      "type": "financial-institution",
+      "subtype": "insurance",
+      "nationality": "American",
+      "description": "Major U.S. insurance company and co-owner with Trump in the Trump Tower project. Contributed land in exchange for a 50% stake.",
+      "roles": [],
+      "affiliation": [],
+      "significance": 6,
+      "firstAppearance": "1979-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-021": {
+      "id": "entity-021",
+      "name": "Trump Tower",
+      "aliases": [],
+      "type": "property",
+      "subtype": "mixed-use skyscraper",
+      "nationality": "American",
+      "description": "Flagship 58-story skyscraper on Fifth Avenue, New York City. Opened in 1983, featuring luxury condominiums, retail space, and the Trump Organization headquarters. Became a status symbol attracting wealthy foreign buyers, including several with connections to Russian organized crime.",
+      "roles": [],
+      "affiliation": [],
+      "significance": 9,
+      "firstAppearance": "1983-11-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {
+        "location": "725 Fifth Avenue, New York City",
+        "propertyValue": 600000000
+      },
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [
+        {
+          "description": "Trump Tower - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Trump_Tower",
+          "documentType": "online encyclopedia",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": "Trump Tower established the Trump brand globally and became the centerpiece of his business image."
+    }
+  },
+  "relationships": [
+    {
+      "id": "relationship-001",
+      "source": "entity-001",
+      "target": "entity-017",
+      "type": "business-partnership",
+      "subtype": "joint venture",
+      "description": "Donald Trump partnered with Equitable Life Assurance Society to develop Trump Tower, with Equitable contributing the land in exchange for a 50% ownership stake in the project.",
+      "strength": 9,
+      "startDate": "1979-01-01",
+      "endDate": "1983-11-01",
+      "isBidirectional": true,
+      "relatedEvents": ["event-010"],
+      "evidenceStrength": "confirmed",
+      "sources": [
+        {
+          "description": "Tmanch_Fin_83-86.md – Trump Tower completion 1983",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_Fin_83-86.md",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": "This partnership with a major financial institution was crucial for Trump to establish himself as a major developer in Manhattan."
+    },
+    {
+      "id": "relationship-002",
+      "source": "entity-001",
+      "target": "entity-021",
+      "type": "ownership",
+      "subtype": "property development",
+      "description": "Donald Trump developed and owned Trump Tower through his company, establishing it as the headquarters for the Trump Organization and his personal residence.",
+      "strength": 10,
+      "startDate": "1979-01-01",
+      "endDate": "",
+      "isBidirectional": false,
+      "relatedEvents": ["event-010"],
+      "evidenceStrength": "confirmed",
+      "sources": [
+        {
+          "description": "Tmanch_CH2.md – references to Trump Tower opening",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_CH2.md",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": "Trump Tower became the centerpiece of Trump's brand and business empire."
+    },
+    {
+      "id": "relationship-003",
+      "source": "entity-017",
+      "target": "entity-021",
+      "type": "ownership",
+      "subtype": "property investment",
+      "description": "Equitable Life Assurance Society owned a 50% stake in Trump Tower after contributing the land for its development.",
+      "strength": 8,
+      "startDate": "1979-01-01",
+      "endDate": "",
+      "isBidirectional": false,
+      "relatedEvents": ["event-010"],
+      "evidenceStrength": "confirmed",
+      "sources": [
+        {
+          "description": "Tmanch_Fin_83-86.md – Trump Tower completion 1983",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_Fin_83-86.md",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": "Equitable's land contribution was essential to making the project financially viable."
+    },
+    {
+      "id": "relationship-004",
+      "source": "entity-021",
+      "target": "entity-001",
+      "type": "business-strategy",
+      "subtype": "marketing",
+      "description": "Trump Tower was one of the first high-rises in New York to readily accept anonymous shell-company buyers for its luxury condominiums, making it attractive to wealthy foreign investors seeking privacy or ways to move money into U.S. real estate.",
+      "strength": 9,
+      "startDate": "1983-11-01",
+      "endDate": "",
+      "isBidirectional": false,
+      "relatedEvents": ["event-010"],
+      "evidenceStrength": "confirmed",
+      "sources": [
+        {
+          "description": "Trump's Russian Laundromat | The New Republic",
+          "url": "https://newrepublic.com/article/143586/trumps-russian-laundromat-trump-tower-luxury-high-rises-dirty-money-international-crime-syndicate",
+          "documentType": "news article",
+          "citation": ""
+        },
+        {
+          "description": "Donald Trump's Tower of Trouble - The Village Voice",
+          "url": "https://www.villagevoice.com/donald-trumps-tower-of-trouble/",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": "By 1987, over 20% of Trump Tower units were owned by corporations or anonymous entities – an unusually high ratio. Several units were later confirmed to have been purchased for money laundering purposes, including those bought by Russian emigre David Bogatin in 1984."
+    }
+  ],
+  "transactions": [
+    {
+      "id": "transaction-001",
+      "date": "1983-11-01",
+      "fromEntity": "entity-001",
+      "toEntity": "entity-021",
+      "intermediaries": ["entity-017"],
+      "amount": 200000000,
+      "currency": "USD",
+      "amountUSD": 200000000,
+      "type": "property",
+      "subtype": "development completion",
+      "description": "Completion and opening of Trump Tower, a 58-story luxury skyscraper on Fifth Avenue in Manhattan.",
+      "purpose": "Real estate development",
+      "method": "Construction project",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-010"],
+      "evidenceStrength": "confirmed",
+      "sources": [
+        {
+          "description": "Tmanch_Fin_83-86.md – Trump Tower completion 1983",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_Fin_83-86.md",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "Trump Tower established Trump as a major developer in Manhattan and significantly elevated his public profile and brand value. The building would later become known for attracting wealthy foreign buyers, including several with connections to Russian organized crime."
+    }
+  ]
+}

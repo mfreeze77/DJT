@@ -1,0 +1,96 @@
+{
+  "events": [
+    {
+      "id": "event-010",
+      "date": "1979-01-01",
+      "startDate": "1979-01-01",
+      "endDate": "1983-11-01",
+      "title": "Construction and opening of Trump Tower",
+      "description": "Trump acquires the Bonwit Teller building and, with Equitable Life Assurance as co-owner, builds Trump Tower on Fifth Avenue. Officially opens in 1983.",
+      "categories": ["business", "financial"],
+      "importance": 9,
+      "moneyFlow": null,
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-008"],
+      "sources": [
+        {
+          "description": "Business career of Donald Trump - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Business_career_of_Donald_Trump",
+          "documentType": "online encyclopedia",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-002",
+      "mediaUrls": []
+    }
+  ],
+  "entities": {
+    "entity-001": {
+      "id": "entity-001",
+      "name": "Donald J. Trump",
+      "aliases": ["Donald John Trump", "DJT"],
+      "type": "person",
+      "subtype": "",
+      "nationality": "American",
+      "description": "Real estate developer, 45th President of the US. Key figure in the 1977–1983 Manhattan real estate deals and later expansions.",
+      "roles": ["developer", "political figure"],
+      "affiliation": [],
+      "significance": 10,
+      "firstAppearance": "1977-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-008": {
+      "id": "entity-008",
+      "name": "Equitable Life Assurance Society",
+      "aliases": ["Equitable Life Assurance", "Equitable"],
+      "type": "financial-institution",
+      "subtype": "insurance",
+      "nationality": "American",
+      "description": "Major U.S. insurance company and co-owner with Trump in the Trump Tower project. Contributed land in exchange for a 50% stake.",
+      "roles": [],
+      "affiliation": [],
+      "significance": 7,
+      "firstAppearance": "1979-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    }
+  },
+  "relationships": [
+    {
+      "id": "relationship-007",
+      "source": "entity-001",
+      "target": "entity-008",
+      "type": "co-ownership",
+      "subtype": "",
+      "description": "Equitable Life Assurance contributed land for Trump Tower in exchange for a 50% stake.",
+      "strength": 7,
+      "startDate": "1979-01-01",
+      "endDate": "",
+      "isBidirectional": true,
+      "relatedEvents": ["event-010"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    }
+  ]
+}

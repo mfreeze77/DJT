@@ -1,0 +1,84 @@
+{
+  "events": [
+    {
+      "id": "event-005",
+      "date": "1975-01-01",
+      "startDate": "1975-01-01",
+      "endDate": "1975-01-01",
+      "title": "Donald Trump obtains options on West Side Rail Yards",
+      "description": "Donald Trump secures options from the bankrupt Penn Central Railroad on two large rail yard properties on Manhattan's West Side.",
+      "categories": ["business"],
+      "importance": 7,
+      "moneyFlow": null,
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-017"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_77-83.md",
+          "url": "https://raw.githubusercontent.com/mfreeze77/DJT/main/Tmanch_Fin_77-83.md",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "The Lost City of Trump - POLITICO Magazine",
+          "url": "https://www.politico.com/magazine/story/2018/06/29/trump-robert-moses-new-york-television-city-urban-development-1980s-218836",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-001",
+      "mediaUrls": []
+    }
+  ],
+  "entities": {
+    "entity-001": {
+      "id": "entity-001",
+      "name": "Donald J. Trump",
+      "aliases": ["Donald John Trump", "DJT"],
+      "type": "person",
+      "subtype": "",
+      "nationality": "American",
+      "description": "Real estate developer, 45th President of the US. Key figure in the 1977–1983 Manhattan real estate deals and later expansions.",
+      "roles": ["developer", "political figure"],
+      "affiliation": [],
+      "significance": 10,
+      "firstAppearance": "1977-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-017": {
+      "id": "entity-017",
+      "name": "Penn Central Railroad",
+      "aliases": [],
+      "type": "organization",
+      "subtype": "transportation",
+      "nationality": "American",
+      "description": "Bankrupt railroad from which Donald Trump obtained options on West Side rail yards in the mid-1970s.",
+      "roles": [],
+      "affiliation": [],
+      "significance": 6,
+      "firstAppearance": "",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    }
+  },
+  "relationships": []
+}

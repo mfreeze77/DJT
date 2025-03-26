@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Trump-Russia Timeline: Single Event View</title>
+  
+  <!-- Google Fonts (same as main app) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+  
+  <style>
+    /* Using CSS variables and styles from main.css */
+    :root {
+      /* Color palette */
+      --color-primary: #2c3e50;
+      --color-secondary: #34495e;
+      --color-accent: #3498db;
+      --color-light: #ecf0f1;
+      --color-dark: #1a252f;
+      --color-warning: #e74c3c;
+      --color-success: #27ae60;
+      --color-info: #3498db;
+      
+      /* Category colors */
+      --color-financial: #27ae60;   /* Green */
+      --color-intelligence: #8e44ad; /* Purple */
+      --color-business: #3498db;    /* Blue */
+      --color-political: #e74c3c;   /* Red */
+      --color-legal: #f39c12;       /* Orange */
+      --color-personal: #7f8c8d;    /* Gray */
+      
+      /* Typography */
+      --font-primary: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+      --font-secondary: 'Georgia', 'Times New Roman', serif;
+      --font-size-small: 0.875rem;
+      --font-size-normal: 1rem;
+      --font-size-medium: 1.25rem;
+      --font-size-large: 1.5rem;
+      --font-size-xlarge: 2rem;
+      
+      /* Spacing */
+      --spacing-xs: 0.25rem;
+      --spacing-sm: 0.5rem;
+      --spacing-md: 1rem;
+      --spacing-lg: 1.5rem;
+      --spacing-xl: 2.5rem;
+      
+      /* Borders and shadows */
+      --border-radius-sm: 3px;
+      --border-radius-md: 5px;
+      --border-radius-lg: 10px;
+      --box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      --box-shadow-hover: 0 4px 10px rgba(0, 0, 0, 0.15);
+    }
+
+    /* Base styling */
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html, body {
+      height: 100%;
+      font-family: var(--font-primary);
+      font-size: 16px;
+      line-height: 1.5;
+      color: var(--color-primary);
+      background-color: var(--color-light);
+      overflow-x: hidden;
+    }
+
+    /* Typography */
+    h1, h2, h3, h4, h5, h6 {
+      margin-bottom: var(--spacing-md);
+      font-weight: 700;
+      line-height: 1.2;
+      color: var(--color-primary);
+    }
+
+    h1 {
+      font-size: var(--font-size-xlarge);
+      margin-top: var(--spacing-lg);
+    }
+
+    h2 {
+      font-size: var(--font-size-large);
+      margin-top: var(--spacing-lg);
+      padding-bottom: var(--spacing-sm);
+      border-bottom: 1px solid var(--color-secondary);
+    }
+
+    p {
+      margin-bottom: var(--spacing-md);
+    }
+
+    /* Page structure */
+    .container {
+      width: 100%;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: var(--spacing-lg);
+    }
+
+    header {
+      background-color: #1a237e;
+      color: white;
+      padding: 15px 0;
+      text-align: center;
+    }
+
+    .header-content {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 0 var(--spacing-lg);
+    }
+
+    .header-title {
+      font-size: var(--font-size-large);
+      margin: 0;
+    }
+
+    main {
+      margin: var(--spacing-lg) 0;
+    }
+
+    footer {
+      background-color: #f5f5f5;
+      padding: 15px 0;
+      text-align: center;
+      margin-top: 20px;
+    }
+
+    /* Card styling */
+    .card {
+      background-color: white;
+      border-radius: var(--border-radius-md);
+      box-shadow: var(--box-shadow);
+      padding: var(--spacing-md);
+      margin-bottom: var(--spacing-md);
+      transition: box-shadow 0.2s ease;
+    }
+
+    .card:hover {
+      box-shadow: var(--box-shadow-hover);
+    }
+
+    .card-title {
+      margin-top: 0;
+      margin-bottom: var(--spacing-sm);
+    }
+
+    /* Event date display */
+    .event-date {
+      color: #666;
+      margin-bottom: 10px;
+    }
+
+    /* Network visualization */
+    #network-container {
+      width: 100%;
+      height: 500px;
+      background-color: #f9f9f9;
+      background-image: linear-gradient(to bottom, rgba(173, 216, 230, 0.2), rgba(255, 255, 255, 0.9));
+      border-radius: 5px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      overflow: hidden;
+      position: relative;
+      margin-top: 20px;
+    }
+
+    /* Node styles */
+    .network-node {
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    /* Trump node styling */
+    .trump-node {
+      background-color: #FFA500 !important;
+      border-width: 3px !important;
+      border-color: #cc5500 !important;
+      border-style: solid !important;
+      width: 40px !important;
+      height: 40px !important;
+      font-size: 18px !important;
+      font-weight: bold !important;
+      z-index: 1000 !important;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3) !important;
+    }
+
+    /* Event nodes */
+    .event-node {
+      border-style: dashed !important;
+      border-width: 2px !important;
+      background-color: #4299e1 !important;
+      color: white !important;
+      font-weight: bold !important;
+      z-index: 900 !important;
+    }
+
+    .event-node:hover {
+      transform: scale(1.2) !important;
+      z-index: 999 !important;
+    }
+
+    /* Event connections */
+    .event-connection {
+      stroke-width: 3px !important;
+      line-color: #718096 !important;
+      curve-style: straight !important;
+      opacity: 0.9 !important;
+      z-index: 800 !important;
+    }
+
+    /* Entity connections */
+    .entity-connection {
+      stroke-width: 1.5px !important;
+      line-color: #a0aec0 !important;
+      opacity: 0.7 !important;
+      z-index: 700 !important;
+    }
+
+    /* Node label */
+    .node-label {
+      text-shadow: 0 0 3px white;
+      font-weight: bold;
+    }
+    
+    /* Current date display */
+    .date-display {
+      font-size: 24px;
+      font-weight: bold;
+      text-align: center;
+      margin: 10px 0;
+    }
+    
+    /* Error message */
+    .error-message {
+      background-color: rgba(231, 76, 60, 0.1);
+      border-left: 4px solid var(--color-warning);
+      padding: var(--spacing-md);
+      margin-bottom: var(--spacing-md);
+      color: var(--color-warning);
+    }
+    
+    /* Entity styling based on category */
+    .category-financial { color: var(--color-financial); }
+    .category-intelligence { color: var(--color-intelligence); }
+    .category-business { color: var(--color-business); }
+    .category-political { color: var(--color-political); }
+    .category-legal { color: var(--color-legal); }
+    .category-personal { color: var(--color-personal); }
+    
+    /* Utility classes */
+    .mt-0 { margin-top: 0; }
+    .mb-0 { margin-bottom: 0; }
+    .mt-1 { margin-top: var(--spacing-sm); }
+    .mb-1 { margin-bottom: var(--spacing-sm); }
+    .mt-2 { margin-top: var(--spacing-md); }
+    .mb-2 { margin-bottom: var(--spacing-md); }
+    .mt-3 { margin-top: var(--spacing-lg); }
+    .mb-3 { margin-bottom: var(--spacing-lg); }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="header-content">
+      <h1 class="header-title">Trump-Russia Timeline: Single Event View</h1>
+    </div>
+  </header>
+  
+  <main class="container">
+    <a href="index.html" style="display: inline-block; margin-bottom: 20px;">← Back to full timeline</a>
+    
+    <!-- Current date display -->
+    <div id="current-date" class="date-display">January 1, 1987</div>
+    
+    <!-- Event information card -->
+    <div id="event-container">
+      <!-- Event details will be populated here by JavaScript -->
+      <div class="card">
+        <h2 class="card-title">Loading event...</h2>
+        <p>Please wait while the event details are being loaded.</p>
+      </div>
+    </div>
+    
+    <!-- Network visualization container -->
+    <div id="network-container">
+      <!-- Network visualization will be generated here by JavaScript -->
+    </div>
+  </main>
+  
+  <footer>
+    <div class="container">
+      <p>Trump-Russia Timeline Visualization | © 2025</p>
+    </div>
+  </footer>
+  
+  <!-- Include the simple-event-display.js script -->
+  <script src="../src/js/simple-event-display.js"></script>
+</body>
+</html>
