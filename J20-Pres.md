@@ -257,7 +257,6 @@
 \[Sources: [REUTERS.COM](https://www.reuters.com/), [THE GUARDIAN](https://www.theguardian.com/), [THETIMES.CO.UK](https://www.thetimes.co.uk/)\]
 </details>
 
-
 ### **Mid-March 2025: Ceasefire Negotiations and Limited Agreement (March 8-18, 2025)**
 
 <details>
@@ -283,6 +282,19 @@
 - <span style="color:red">The meeting represents a partial reconciliation after the acrimonious Trump–Zelenskyy Oval Office clash, but only after Ukraine agreed to Trump's ceasefire terms</span>
 
 \[Source: [US to resume security support to Ukraine as Kyiv says it is ready to accept ceasefire proposal | Reuters](https://www.reuters.com/world/us-ukraine-meet-saudi-arabia-after-disastrous-white-house-talks-2025-03-11/#:~:text=JEDDAH%2C%20March%2011%20%28Reuters%29%20,said%20in%20a%20joint%20statement))\]
+</details>
+
+<details>
+<summary><strong>March 13, 2025 – Envoy Witkoff Meets Putin in Moscow</strong></summary>
+
+- <span style="color:red">Trump's special envoy, real-estate mogul Steve Witkoff, arrives in Moscow to present a U.S. proposal for a 30-day Ukraine ceasefire</span>
+- <span style="color:red">Putin keeps Witkoff waiting for over 8 hours, meeting Belarus' leader first, in what observers call a classic power play</span>
+- <span style="color:red">In a closed-door late-night meeting, Putin signals he would only consider a ceasefire on *his* terms</span>
+- <span style="color:red">At a press conference with Belarus' President, Putin insists on addressing the "root causes" – effectively demanding all of Russia's red lines be met, including no NATO membership for Ukraine, no Western peacekeepers, and Russia keeping occupied territories</span>
+- <span style="color:red">The envoy departs Moscow overnight with *"a list of demands"* rather than an agreement</span>
+- <span style="color:red">This secretive backchannel diplomacy – bypassing traditional diplomats – worries U.S. allies, who see Trump's envoy (a novice in foreign policy) potentially conceding too much to the Kremlin</span>
+
+\[Source: [Trump's fixer was made to wait eight hours to meet Putin - it felt like a classic power play | World News | Sky News](https://news.sky.com/story/trumps-fixer-was-made-to-wait-eight-hours-to-meet-putin-it-felt-like-a-classic-power-play-13328525))\]
 </details>
 
 <details>
@@ -313,6 +325,21 @@
 </details>
 
 <details>
+<summary><strong>March 15, 2025 – Signal Chat Blunder & Yemen Airstrike Leak</strong></summary>
+
+- <span style="color:red">U.S. forces launch airstrikes against Iran-backed Houthi militants in Yemen – but a major security gaffe precedes the bombing</span>
+- <span style="color:red">Defense Secretary Pete Hegseth and other top officials had been coordinating the strike in a Signal messaging group *meant for principals* – and they accidentally included Jeffrey Goldberg, a journalist, in the chat</span>
+- <span style="color:red">At 11:44 a.m. ET, Hegseth shares *"precise information about weapons packages, targets, and timing"* for the Yemen operation</span>
+- <span style="color:red">Goldberg realizes within two hours that the plans are real when explosions strike Houthi targets around 2 p.m. ET</span>
+- <span style="color:red">The leak, caused by inadvertently adding the wrong contact (Goldberg) to the encrypted chat, means a reporter has advance access to U.S. war plans – an almost unheard-of security breach</span>
+- <span style="color:red">Officials quickly remove him from the group, but not before sensitive military details are exposed</span>
+- <span style="color:red">Former National Security Adviser John Bolton expresses astonishment: *"These are Cabinet-level people…not one of them ever said, 'Why are we on Signal?'"*</span>
+- <span style="color:red">In military parlance this is a disastrous "spillage" of sensitive information, sparking immediate internal panic even as the Yemen strikes go forward successfully</span>
+
+\[Sources: [The Trump Administration Accidentally Texted Me Its War Plans - The Atlantic](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/), [Days after the Signal leak, the Pentagon warned the app was the target of hackers : NPR](https://www.npr.org/2025/03/25/nx-s1-5339801/pentagon-email-signal-vulnerability)\]
+</details>
+
+<details>
 <summary><strong>March 16-17, 2025 – Trump's Preparations for Putin Call</strong></summary>
 
 - <span style="color:red">President Trump confirms that he will speak with Putin on March 18, signaling optimism that a deal is within reach</span>
@@ -325,6 +352,20 @@
 - <span style="color:red">Notably absent from these preparations is any significant consultation with Ukraine or European allies about the specific terms being discussed</span>
 
 \[Sources: [Russia Analytical Report, March 10-17, 2025 | Russia Matters](https://www.russiamatters.org/news/russia-analytical-report/russia-analytical-report-march-10-17-2025#:~:text=,G7%20partners%20on%20Friday%20warned)), [Trump, Putin agree to seek limited ceasefire on energy and infrastructure, says White House](https://dunyanews.tv/index.php/en/World/874125#:~:text=Earlier%2C%20the%20Kremlin%20has%20confirmed,end%20the%20conflict%20in%20Ukraine))\]
+</details>
+
+<details>
+<summary><strong>March 18, 2025 – NSA Alert on Signal Phishing Vulnerability</strong></summary>
+
+- <span style="color:red">A Pentagon-wide memo dated March 18 warns U.S. defense personnel to be cautious using the Signal messaging app</span>
+- <span style="color:red">The advisory – issued just days after the Yemen chat fiasco – states *"A vulnerability has been identified in the Signal Messenger Application"* and notes that Russian hacking groups are exploiting Signal's **"linked devices"** feature via sophisticated phishing to eavesdrop on encrypted chats</span>
+- <span style="color:red">In fact, an NSA special bulletin a month earlier had already cautioned that Signal's popularity with officials made it a "high value target" and that Russian hackers were using phishing scams to bypass its end-to-end encryption</span>
+- <span style="color:red">The Pentagon email urges that third-party apps like Signal not be used for any sensitive or non-public communications</span>
+- <span style="color:red">Signal's developers respond that there is no fundamental flaw in the app's cryptography – the issue is users falling for impersonation attacks – and say they had added new safeguards and warnings "months ago" to combat such phishing tactics</span>
+- <span style="color:red">Cybersecurity experts echo that the real vulnerability isn't Signal's encryption but human error: officials' poor operational security in handling the app</span>
+- <span style="color:red">The warning underscores growing concern that foreign adversaries (especially Russia) are actively targeting communication tools trusted by U.S. officials, and that basic mistakes could have devastating security consequences</span>
+
+\[Sources: [Days after the Signal leak, the Pentagon warned the app was the target of hackers : NPR](https://www.npr.org/2025/03/25/nx-s1-5339801/pentagon-email-signal-vulnerability), [NSA warned of vulnerabilities in Signal app a month before Houthi strike chat - CBS News](https://www.cbsnews.com/news/nsa-signal-app-vulnerabilities-before-houthi-strike-chat/), [The Signal Chat Leak and the NSA - Schneier on Security](https://www.schneier.com/blog/archives/2025/03/the-signal-chat-leak-and-the-nsa.html)\]
 </details>
 
 <details>
@@ -359,188 +400,133 @@
 \[Sources: [Poland and Baltic states to dump landmine treaty citing Russian threat | News | Al Jazeera](https://www.aljazeera.com/news/2025/3/18/poland-and-baltic-states-to-dump-landmine-treaty-citing-russian-threat#:~:text=%E2%80%9Cfundamentally%20deteriorated%E2%80%9D%20since%20the%20treaty,the%20United%20States%20signed%20up)), [Putin agrees to 30-day halt on energy facility strikes but no full ceasefire | Reuters](https://www.reuters.com/world/europe/trump-hold-call-with-putin-test-deal-making-strength-2025-03-18/#:~:text=Speaking%20at%20a%20press%20conference,part%20of%20any%20final%20decision))\]
 </details>
 
-## **Key Actions Favoring Russian Interests – Fact Check & Context**
-
 <details>
-<summary><strong>1. Disbanding Foreign Influence Investigations</strong></summary>
+<summary><strong>March 19, 2025 – U.S. Halts Offensive Cyber Ops Against Russia</strong></summary>
 
-- <span style="color:red">The administration immediately shut down the FBI's Foreign Influence Task Force (FITF), created to counter foreign political interference (like Russia's 2016 meddling)</span>
-- <span style="color:red">AG Pam Bondi issued a memo disbanding the FITF and deprioritizing Foreign Agents Registration Act (FARA) prosecutions</span>
-- <span style="color:red">This effectively halted investigations into foreign interference, "blinding U.S. law enforcement" to foreign influence efforts</span>
-- <span style="color:red">Historically, FARA enforcement had been ramped up post-2016. Critics note this change benefits adversaries like Russia</span>
+- <span style="color:red">Media reports emerge that the Trump administration has quietly ordered U.S. Cyber Command and other agencies to **pause** or scale back offensive cyber and counter-disinformation operations targeting Russia</span>
+- <span style="color:red">This move is part of Trump's outreach to Moscow to facilitate Ukraine peace talks, but it alarms many security experts and allies</span>
+- <span style="color:red">Reuters reveals that several national security agencies have **"halted work"** on efforts to counter Russian sabotage and hacking, essentially easing pressure on Moscow as Trump pursues a deal</span>
+- <span style="color:red">These changes represent a sharp reversal from late 2024, when the outgoing Biden team had set up robust interagency groups to confront Russia's hybrid warfare</span>
+- <span style="color:blue">The news draws immediate condemnation from NATO allies and U.S. lawmakers</span>
+- <span style="color:blue">France's digital minister expresses confusion, noting Europe is "constantly" targeted by Russian cyberattacks</span>
+- <span style="color:blue">Senate Minority Leader Chuck Schumer blasts the administration for giving Moscow *"a free pass as Russia continues to launch cyber operations and ransomware attacks against critical American infrastructure"*</span>
+- <span style="color:red">The Pentagon and DHS publicly deny any change in posture – calling reports "fake" – but insiders indicate offensive cyber missions are indeed on hold pending the diplomatic efforts</span>
+- <span style="color:blue">Cybersecurity professionals warn that standing down U.S. cyber operations cedes the initiative to Russian hackers and could blind the U.S. to looming threats</span>
 
-\[Sources: [CYBERSCOOP.COM](https://cyberscoop.com/), [JENNER.COM](https://jenner.com/)\]
+\[Sources: [Exclusive: US suspends some efforts to counter Russian sabotage as Trump moves closer to Putin | Reuters](https://www.reuters.com/world/us-suspends-some-efforts-counter-russian-sabotage-trump-moves-closer-putin-2025-03-19/), [DoD, CISA Deny Reports of Pausing Cyber Operations Against Russia | MSSP Alert](https://www.msspalert.com/news/dod-cisa-deny-reports-of-pausing-cyber-operations-against-russia), [Hegseth suspends offensive cyber operations against Russia: reports](https://www.axios.com/2025/03/03/hegseth-trump-russia-cyber-operations-ukraine)\]
 </details>
 
 <details>
-<summary><strong>2. Ending Sanctions Enforcement on Russia</strong></summary>
+<summary><strong>March 21, 2025 – Witkoff Praises Putin, Stirring Criticism</strong></summary>
 
-- <span style="color:red">The administration disbanded Task Force KleptoCapture, an interagency team launched in 2022 to seize Russian oligarchs' assets and enforce sanctions</span>
-- <span style="color:red">AG Bondi's memo shut down KleptoCapture and the DOJ's Kleptocracy Asset Recovery Initiative</span>
-- <span style="color:red">This ended federal efforts to pursue sanctioned Russian wealth, undoing measures designed to deter Putin's aggression</span>
-- <span style="color:red">Russia's Foreign Ministry openly welcomed the move</span>
+- <span style="color:red">In an interview that airs just days before new peace talks, envoy Steve Witkoff makes remarkably conciliatory remarks about Vladimir Putin, sparking backlash in Washington and Europe</span>
+- <span style="color:red">Speaking to former Fox News host Tucker Carlson, Witkoff says he *"liked"* Putin, did *"not regard [him] as a bad guy,"* and even calls the Russian leader *"super smart"*</span>
+- <span style="color:red">He downplays Putin's aggressive intentions, opining that *"I just don't see that he wants to take all of Europe,"* and hints that Europeans are coming around to that view</span>
+- <span style="color:blue">These comments – essentially absolving Putin – are **widely criticized** by European officials and NATO allies</span>
+- <span style="color:blue">Critics in the U.S. compare Witkoff's flattery of Putin to appeasement; it reinforces fears that the Trump team might strike a deal favoring Russia</span>
+- <span style="color:red">Russia's Foreign Minister Sergei Lavrov mockingly notes that Witkoff's sunny optimism ignores the stance of "European elites" who won't let Zelensky *"give in"* easily</span>
+- <span style="color:blue">The interview undermines U.S. negotiating leverage (by signaling eagerness for a deal) and draws bipartisan ire back home</span>
+- <span style="color:blue">Many in Washington point out the contrast with longstanding U.S. policy viewing Putin as an adversary, not a partner</span>
 
-\[Sources: [HAPPYSCRIBE.COM](https://www.happyscribe.com/), [JENNER.COM](https://jenner.com/), [PBS.ORG](https://www.pbs.org/)\]
+\[Source: [Gulf in US and Russian expectations marks start of latest ceasefire talks | Ukraine | The Guardian](https://www.theguardian.com/world/2025/mar/23/gulf-in-us-and-russian-expectations-marks-start-of-latest-ceasefire-talks), [Russia, Ukraine agree to sea, energy truce; Washington seeks easing of sanctions | Reuters](https://www.reuters.com/world/europe/russia-us-are-studying-outcome-talks-ukraine-riyadh-kremlin-says-2025-03-25/)\]
 </details>
 
 <details>
-<summary><strong>3. Installing a 19-Year-Old with Cybercriminal Ties at CISA</strong></summary>
+<summary><strong>March 23, 2025 – Ceasefire Talks in Saudi Arabia and Partial Truce</strong></summary>
 
-- <span style="color:red">A 19-year-old operative with ties to Russian hacking gangs was placed in a key role at the Cybersecurity and Infrastructure Security Agency (CISA)</span>
-- <span style="color:red">Edward "Eddie" Coristine joined CISA through a "Department of Government Efficiency" (DOGE) team led by Trump ally Elon Musk</span>
-- <span style="color:red">Coristine was associated with "The Com," a forum for cybercriminal hackers, and ran Russian-registered domains for DDoS services</span>
-- <span style="color:red">Despite lacking a normal security clearance, he was given administrative access at CISA, and over 130 career cybersecurity staff were fired</span>
-- <span style="color:red">Experts called it a "national security risk" and a boon for Russian cyber operations</span>
+- <span style="color:blue">On Sunday, March 23, U.S., Ukrainian, and Russian officials converge in Riyadh, Saudi Arabia for back-to-back peace discussions</span>
+- <span style="color:red">Steve Witkoff strikes an upbeat tone in a Fox News interview that morning, claiming *"I feel that [Putin] wants peace"* and predicting "real progress" in the upcoming talks</span>
+- <span style="color:blue">Talks begin with a U.S.-Ukraine meeting that day, followed by a direct U.S.-Russia meeting on Monday</span>
+- <span style="color:blue">A key focus is implementing limited ceasefires: Witkoff speaks of a possible **Black Sea maritime truce** to protect shipping, which he suggests could naturally *"gravitate into a full-on shooting ceasefire"* over time</span>
+- <span style="color:blue">He also notes Putin has agreed, at least temporarily, to stop attacking Ukraine's energy infrastructure (honoring the pause from March 18)</span>
+- <span style="color:blue">Ukraine's defense minister Rustem Umerov, present in Riyadh, calls Sunday's discussions "constructive" – focusing on safeguarding the energy sector and humanitarian issues</span>
+- <span style="color:blue">The U.S. side also raises "confidence-building measures," such as addressing the fate of Ukrainian children taken to Russia</span>
+- <span style="color:red">The Kremlin dampens expectations, with spokesman Dmitry Peskov warning that *"difficult negotiations"* lie ahead and *"we are only at the beginning of this path"*</span>
+- <span style="color:red">In fact, even as delegates meet, intense fighting continues in Ukraine: overnight March 23, Russia launches 147 drones at Ukrainian cities, killing at least seven civilians (including a child) amid ongoing carnage</span>
 
-\[Source: [KREBSONSECURITY.COM](https://krebsonsecurity.com/)\]
+\[Sources: [US envoy Witkoff optimistic about Ukraine talks, says Putin wants peace | Reuters](https://www.reuters.com/world/us-envoy-witkoff-optimistic-ukraine-talks-says-putin-wants-peace-2025-03-23/), [Gulf in US and Russian expectations marks start of latest ceasefire talks | Ukraine | The Guardian](https://www.theguardian.com/world/2025/mar/23/gulf-in-us-and-russian-expectations-marks-start-of-latest-ceasefire-talks)\]
 </details>
 
 <details>
-<summary><strong>4. Purging the CIA and Exposing Identities</strong></summary>
+<summary><strong>March 24, 2025 – Signal Leak Exposed to Public</strong></summary>
 
-- <span style="color:red">New CIA Director John Ratcliffe sent an unclassified email listing CIA employees to the White House, part of a plan to fire large numbers of intel staff—exposing covert personnel</span>
-- <span style="color:red">Lawmakers like Sen. Mark Warner warned it was a "disastrous security development," a gift to foreign adversaries like Russia</span>
-- <span style="color:red">Trump aimed to remove "disloyal" employees en masse, the biggest CIA turnover in nearly 50 years</span>
-- <span style="color:red">This severely weakened U.S. intelligence capacity to monitor Russian threats</span>
+- <span style="color:red">The secret White House Signal chat debacle bursts into the open when *The Atlantic* publishes a bombshell first-person account by Jeffrey Goldberg, the very journalist accidentally added to the Yemen war group</span>
+- <span style="color:red">Titled "The Trump Administration Accidentally Texted Me Its War Plans," Goldberg's piece (published Monday) details how he was invited to a Signal group on March 11 by what appeared to be NSA Mike Waltz's account</span>
+- <span style="color:red">By March 15, he found himself reading along as top national security officials – including the defense secretary, national security advisor, CIA director (John Ratcliffe), DNI (Tulsi Gabbard), even Vice President J.D. Vance – discussed striking the Houthis</span>
+- <span style="color:red">Goldberg recounts receiving Hegseth's detailed strike plan message and his disbelief that it was real until the explosions confirmed it</span>
+- <span style="color:red">The article underscores the stunning negligence of conducting military planning on a personal app</span>
+- <span style="color:red">It also raises the question of whether Waltz's Signal account had been hacked or spoofed – Waltz ambiguously suggests Goldberg might have "hacked his way in," which Goldberg flatly denies</span>
+- <span style="color:red">The administration scrambles to contain the fallout, with intelligence chiefs preparing to testify before Congress the next day</span>
+- <span style="color:blue">The story fuels criticism that Trump's team is inexperienced and reckless, even in matters of war and peace</span>
 
-\[Source: [NEWREPUBLIC.COM](https://newrepublic.com/)\]
+\[Sources: [The Trump Administration Accidentally Texted Me Its War Plans - The Atlantic](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/), [The Signal Chat Leak and the NSA - Schneier on Security](https://www.schneier.com/blog/archives/2025/03/the-signal-chat-leak-and-the-nsa.html), [Intel leaders testify in Congress amid war group chat fallout : NPR](https://www.npr.org/2025/03/25/nx-s1-5339484/signal-war-plans-congress)\]
 </details>
 
 <details>
-<summary><strong>5. Bypassing Security Clearance Checks</strong></summary>
+<summary><strong>March 25, 2025 – U.S.-Russia Agree to Partial Ceasefires & Sanctions Concessions</strong></summary>
 
-- <span style="color:red">Trump signed a memo allowing immediate interim Top Secret/SCI clearances without the usual background checks</span>
-- <span style="color:red">Senate Intelligence Committee members were "in the dark" on who received clearances</span>
-- <span style="color:red">Experts called this a major national security risk: foreign agents could slip through standard vetting</span>
-- <span style="color:red">Russia stands to benefit if compromised individuals gain unfiltered access to U.S. secrets</span>
+- <span style="color:blue">In a breakthrough following the Riyadh meetings, Washington announces that it has brokered **two parallel interim truces** – one with Ukraine and one with Russia – to pause certain hostilities</span>
+- <span style="color:blue">The deals, revealed on March 25, call for a halt to attacks in two critical areas: the *Black Sea* and *energy infrastructure*</span>
+- <span style="color:blue">Effective immediately, both Ukraine and Russia agree to cease targeting each other's ships and ports, and to stop strikes on power plants, oil/gas facilities, and the electricity grid</span>
+- <span style="color:red">To secure Moscow's assent, the U.S. makes a significant offer: **Washington would push for relief from some international sanctions on Russia**, specifically those hindering Russia's agricultural and fertilizer exports</span>
+- <span style="color:red">Shortly after the announcement, the Kremlin adds more strings: it declares the maritime pact wouldn't take effect unless Russian banks regained access to the global financial system (e.g. reconnecting some banks to SWIFT)</span>
+- <span style="color:blue">President Zelensky, who had accepted the partial ceasefire plan, pushes back firmly – saying **no such sanctions relief was agreed** and calling Moscow's last-minute demand a bad-faith *"manipulation"*</span>
+- <span style="color:blue">*"They are already trying to distort agreements…deceive…the world,"* Zelensky says in his nightly address, stressing that the truce carried **no hidden concessions** from Ukraine's side</span>
+- <span style="color:red">Both Kyiv and Moscow make it clear that they expect the U.S. to enforce compliance: each side is skeptical the other will hold fire without American pressure</span>
+- <span style="color:red">Foreign Minister Sergei Lavrov bluntly states that only an "order from Washington to Zelenskiy" would ensure Ukrainian compliance</span>
+- <span style="color:blue">For his part, Zelensky warns if Russia violates the deal, he'd urge Trump to re-freeze sanctions or send more weapons</span>
+- <span style="color:blue">In the first hours after the ceasefires are declared, both sides accuse each other of sporadic drone attacks – yet notably **no new strikes are reported on energy facilities or shipping**</span>
 
-\[Source: [NOTUS.ORG](https://www.notus.org/)\]
+\[Source: [Russia, Ukraine agree to sea, energy truce; Washington seeks easing of sanctions | Reuters](https://www.reuters.com/world/europe/russia-us-are-studying-outcome-talks-ukraine-riyadh-kremlin-says-2025-03-25/)\]
 </details>
 
 <details>
-<summary><strong>6. Halting Support for Ukraine's Electric Grid</strong></summary>
+<summary><strong>March 25, 2025 – Congressional Grilling over Signal Leak</strong></summary>
 
-- <span style="color:red">The administration cut off U.S. assistance that helped Ukraine maintain its power grid amid Russia's bombing of energy infrastructure</span>
-- <span style="color:red">This program provided transformers, generators, and technical support. Once halted, Ukraine's civilian population faced greater risk of power outages, exactly Russia's goal</span>
-- <span style="color:red">Observers called it "another gift to Moscow," as the bombing of the grid is a key Russian tactic</span>
+- <span style="color:red">The same day the ceasefire deal is unveiled, the Senate Intelligence Committee holds a heated hearing probing the Signal chat leak and the administration's handling of classified info</span>
+- <span style="color:red">The same day the ceasefire deal is unveiled, the Senate Intelligence Committee holds a heated hearing probing the Signal chat leak and the administration's handling of classified info</span>
+- <span style="color:red">CIA Director John Ratcliffe and DNI Tulsi Gabbard testify, facing bipartisan outrage just 24 hours after Goldberg's story broke</span>
+- <span style="color:red">Ratcliffe maintains, *"My communications... in a Signal message group were entirely permissible and lawful and did not include classified information."*</span>
+- <span style="color:red">Gabbard refuses to even confirm if she was part of the group chat (though Goldberg's article identified her as one of 18 participants), but likewise insists she'd never share classified intel improperly</span>
+- <span style="color:blue">Senators are unconvinced. Ranking Member Mark Warner scolds the officials, saying *"If there was no classified material, share it with the committee…You can't have it both ways."*</span>
+- <span style="color:blue">Lawmakers stress that even if the exact text wasn't formally classified, discussing live military operations on an unofficial app was a severe security lapse</span>
+- <span style="color:blue">Multiple senators cite the incident as symptomatic of larger chaos in Trump's national security process</span>
+- <span style="color:blue">Comparisons are drawn to historical blunders – some liken it to officials leaving a war plan on a café table, others evoke Hillary Clinton's email saga, pointing out the irony of Trump officials now caught using insecure channels</span>
+- <span style="color:blue">Former officials testify that *any* leak of operational details is extremely dangerous, potentially tipping off adversaries</span>
+- <span style="color:red">The Pentagon's inspector general opens an inquiry into how the Yemen planning was handled</span>
 
-\[Source: [KYIVINDEPENDENT.COM](https://kyivindependent.com/)\]
+\[Sources: [Intel leaders testify in Congress amid war group chat fallout : NPR](https://www.npr.org/2025/03/25/nx-s1-5339484/signal-war-plans-congress)\]
 </details>
 
 <details>
-<summary><strong>7. Accepting Russian Territorial Gains</strong></summary>
+<summary><strong>March 28, 2025 – Allies and Experts Warn Against "Bad Peace"</strong></summary>
 
-- <span style="color:red">Defense Secretary Pete Hegseth declared it "unrealistic" for Ukraine to reclaim all its lost territory, effectively endorsing permanent Russian occupation</span>
-- <span style="color:red">Hegseth also stated that Ukraine joining NATO was not a "realistic outcome." This directly aligns with Putin's demand that Ukraine be blocked from NATO</span>
-- <span style="color:red">European allies were alarmed; Russia welcomed the stance as validating its war aims</span>
+- <span style="color:blue">By late March, while Washington touts partial progress, U.S. allies in Europe grow more vocally concerned about the trajectory of Trump's diplomacy</span>
+- <span style="color:blue">Many fear that an interim ceasefire would freeze the conflict on Russia's terms</span>
+- <span style="color:blue">Defense ministers of the Baltic states (Estonia, Latvia, Lithuania) warn that any Ukraine ceasefire now would **dramatically increase the threat to NATO's eastern flank**, as Russia could use a lull to rebuild forces and redeploy units right up to their borders</span>
+- <span style="color:blue">They publicly push back against what they perceive as a premature deal, invoking history: Eastern Europeans see echoes of past "betrayals" when great powers negotiate over their heads</span>
+- <span style="color:blue">Indeed, commentators in the West openly compare Trump's approach to **Neville Chamberlain's 1938 appeasement at Munich**</span>
+- <span style="color:blue">Influential columnist Robert Kagan writes that Trump is effectively offering Putin "a Munich-like settlement" – giving Putin almost everything he wants (Ukraine's neutrality, territory, sanctions relief) without securing any fundamental concessions</span>
+- <span style="color:blue">The worry, Kagan and others argue, is that like Hitler in 1938, Putin would only be emboldened by Western concessions and use a ceasefire to prepare a bigger offensive later</span>
+- <span style="color:blue">In EU capitals, there are also murmurs of discontent that Washington has not closely coordinated its moves – an EU official grumbles that the U.S. seems to be *"dictating terms to Kyiv"* that Europe might not endorse</span>
+- <span style="color:blue">Internally, the Ukrainian government is careful: Zelensky walks a fine line of thanking Trump for peace efforts while also insisting no agreement would compromise Ukraine's sovereignty</span>
 
-\[Source: [REUTERS.COM](https://www.reuters.com/)\]
+\[Sources: [Ukraine ceasefire to increase Russian threat in Baltic region ...](https://www.ft.com/content/9b509d8c-3d59-401e-a57c-e689934ce0bf), [Baltic states concerned over potential ceasefire in Ukraine, FT says](https://www.pravda.com.ua/eng/news/2025/03/30/7505216/), [Trump Is Offering Putin Another Munich - The Atlantic](https://www.theatlantic.com/international/archive/2025/03/putin-hitler-munich-parallel/681973/)\]
 </details>
 
 <details>
-<summary><strong>8. Floating a U.S. Exit from NATO</strong></summary>
+<summary><strong>March 30, 2025 – Trump's Frustration Grows, Threatens Tougher Stance</strong></summary>
 
-- <span style="color:red">Pro-Trump Republican lawmakers, e.g. Sen. Mike Lee, publicly suggested the U.S. should leave NATO ("AmerExit")</span>
-- <span style="color:red">Elon Musk signaled agreement on social media</span>
-- <span style="color:red">Though Trump hasn't formally announced withdrawing, he historically threatened it, and in 2025 the rhetoric is louder than ever</span>
-- <span style="color:red">A U.S. exit would effectively collapse NATO—a top strategic goal for Putin</span>
+- <span style="color:red">By the end of March, the anticipated breakthrough has not materialized, and President Trump pivots to a harder line publicly</span>
+- <span style="color:red">In an interview aired March 30 on NBC News, Trump says he is *"pissed off"* at Putin over the slow pace of negotiations</span>
+- <span style="color:red">In a sharp reversal of tone, he threatens to impose **severe secondary tariffs (25–50%) on any country buying Russian oil** if Moscow continues blocking a Ukraine ceasefire</span>
+- <span style="color:red">*"If Russia and I are unable to make a deal… and if I think it was Russia's fault, I will put…a 25% to 50% tariff on all oil coming out of Russia,"* Trump warns, essentially aiming to squeeze Russia's main revenue source</span>
+- <span style="color:red">He also reportedly bristles at Putin's dismissive comments about Zelensky's leadership, which had aired on Russian TV the week before</span>
+- <span style="color:red">This saber-rattling marks a notable shift – after months of conciliatory gestures toward the Kremlin, Trump is now signaling possible punitive action</span>
+- <span style="color:red">White House aides indicate Trump plans to speak directly with Putin again within days to convey his displeasure</span>
+- <span style="color:blue">Analysts view the move as Trump attempting to regain leverage: the U.S. had offered carrots, now comes the stick</span>
+- <span style="color:blue">The threat of oil tariffs particularly grabs Europe's attention, as it could roil global energy markets</span>
+- <span style="color:blue">Some in Washington see the tough talk as too little, too late – essentially acknowledging that Putin is *dragging his feet* on peace (a fact U.S. intelligence had long suggested)</span>
 
-\[Source: [FOXNEWS.COM](https://www.foxnews.com/)\]
+\[Source: ['Pissed off' at Putin, Trump threatens tariffs on Russian oil if Moscow blocks Ukraine deal | Reuters](https://www.reuters.com/world/trump-threatens-secondary-tariffs-russian-oil-if-unable-make-deal-ukraine-2025-03-30/)\]
 </details>
-
-<details>
-<summary><strong>9. Welcoming Russia Back into the G7</strong></summary>
-
-- <span style="color:red">On Feb. 13, 2025, Trump said "Russia should rejoin" the G7, reversing its 2014 expulsion over the invasion of Crimea</span>
-- <span style="color:red">No mention was made of requiring Russia to withdraw from occupied Ukrainian territory</span>
-- <span style="color:red">Allies are opposed, but Trump insists excluding Russia was "a mistake"</span>
-
-\[Source: [POLITICO.COM](https://www.politico.com/)\]
-</details>
-
-<details>
-<summary><strong>10. Planning a One-on-One Summit with Putin</strong></summary>
-
-- <span style="color:red">After a Feb. 12 phone call, Trump stated he would "probably meet [Putin] in Saudi Arabia" soon, bypassing Ukraine</span>
-- <span style="color:red">Critics fear a direct summit could yield a peace deal heavily favoring Russia's demands without Ukrainian input</span>
-
-\[Source: [POLITICO.COM](https://www.politico.com/)\]
-</details>
-
-<details>
-<summary><strong>11. Back-Channel Envoy to Putin</strong></summary>
-
-- <span style="color:red">Trump associate Steve Witkoff held a lengthy meeting with Putin in mid-February 2025</span>
-- <span style="color:red">Upon return, Witkoff publicly claimed Russia was "provoked" into the war, echoing Kremlin talking points</span>
-- <span style="color:red">When asked what concessions Russia would make, Witkoff could not name any. He focused on Ukraine's "concessions," such as ceding territory or resources</span>
-- <span style="color:red">This suggests a U.S. negotiating approach largely capitulating to Russian interests, further undercutting Ukraine's position</span>
-
-\[Sources: [POLITICO.COM](https://www.politico.com/), [LEMMY.WORLD](https://lemmy.world/)\]
-</details>
-
-<details>
-<summary><strong>12. Cyber Defense Halt</strong></summary>
-
-- <span style="color:red">Defense Secretary Pete Hegseth ordered a halt to offensive U.S. cyber operations against Russia</span>
-- <span style="color:red">This includes ceasing cyber efforts to disrupt Russian hacking, espionage, and propaganda networks</span>
-- <span style="color:red">Cyber Command units are instructed to pause initiatives that disrupt Russian influence campaigns targeting U.S. elections and society</span>
-- <span style="color:red">Senate Majority Leader Chuck Schumer warns that Trump is giving Putin "a free pass" even as Russian hackers continue to target American infrastructure</span>
-
-\[Source: [TELEGRAPH.CO.UK](https://www.telegraph.co.uk/world-news/2025/03/02/pentagon-hegseth-orders-spies-russia-cyber-threats/#:~:text=Donald%20Trump%E2%80%99s%20Pentagon%20chief%20has,counter%20cyber%20threats%20from%20Russia))\]
-</details>
-
-<details>
-<summary><strong>13. Intelligence Cutoff and Subsequent Russian Attacks</strong></summary>
-
-- <span style="color:red">The Trump administration suspended intelligence sharing with Ukraine, cutting off critical information about Russian troop movements and potential attacks</span>
-- <span style="color:red">British intelligence agencies were also advised not to share U.S.-generated intelligence with Ukraine, further isolating Ukrainian forces</span>
-- <span style="color:red">Within 48 hours of the intelligence cutoff, Russia launched extensive missile and drone attacks on Ukrainian energy infrastructure</span>
-- <span style="color:red">These attacks damaged critical civilian infrastructure including gas production facilities operated by Naftogaz</span>
-- <span style="color:red">On March 8, Russian forces killed at least 14 people including 5 children in missile strikes on Dobropillia and Kharkiv region</span>
-- <span style="color:red">President Trump publicly justified Putin's intensified attacks, stating they were actions "anybody else would do" in such a situation</span>
-- <span style="color:red">The timing of these attacks demonstrates how Russia immediately exploited the intelligence vacuum created by the U.S. cutoff</span>
-
-\[Sources: [POLITICO.COM](https://www.politico.com/), [REUTERS.COM](https://www.reuters.com/), [THE GUARDIAN](https://www.theguardian.com/), [THE SUN](https://www.thesun.co.uk/)\]
-</details>
-
-<details>
-<summary><strong>14. Strengthening Ties with Pro-Russian European Leaders</strong></summary>
-
-- <span style="color:red">As European allies scrambled to support Ukraine following the U.S. withdrawal of support, the Trump administration moved to strengthen ties with Hungary's Viktor Orban</span>
-- <span style="color:red">Hungarian Prime Minister Orban announced that Hungary and the U.S. were set to agree on an economic cooperation package</span>
-- <span style="color:red">Orban has been widely criticized for his close relationship with Putin and for blocking or delaying EU aid to Ukraine</span>
-- <span style="color:red">This U.S.-Hungary agreement signals Trump's preference for working with Putin-friendly European leaders over traditional NATO allies</span>
-- <span style="color:red">The timing of this cooperation—during a period when other European nations were working to counter Russian aggression—further undermines Western unity</span>
-
-\[Sources: [REUTERS.COM](https://www.reuters.com/), [THE GUARDIAN](https://www.theguardian.com/)\]
-</details>
-
-## **Conclusion**
-
-<span style="color:red">
-From January 20 to March 7, 2025, the Trump administration has taken multiple actions that align with Russian strategic interests:
-
-1. **Security apparatus restructuring**: Purging career experts from national security positions and installing loyalists who have historically downplayed Russian threats
-
-2. **Aid suspension**: Freezing and then suspending critical military, financial, and intelligence support to Ukraine
-
-3. **Diplomatic realignment**: Engaging directly with Russia while sidelining Ukraine, voting against UN resolutions condemning Russia, and questioning NATO commitments
-
-4. **Enforcement reduction**: Dismantling task forces that investigated foreign influence and enforced sanctions against Russian oligarchs
-
-5. **Mixed messaging**: Publicly threatening new sanctions while simultaneously planning sanctions relief and cutting off Ukraine's support systems
-</span>
-
-<span style="color:blue">
-While the administration occasionally uses tough rhetoric regarding Russia, particularly in the March 7 statements about potential new sanctions, these verbal threats contrast sharply with the administration's actual policy actions.
-</span>
-
-<span style="color:red">
-Each of these developments has been welcomed by Moscow while causing alarm among Western allies. While framed as "peace-seeking" or "America First" policies, these actions have consistently weakened Ukraine's position while strengthening Russia's hand both on the battlefield and at the negotiating table.
-</span>
-
-
-
-### **Sources**
-
-This timeline and fact-check is compiled from reputable mainstream reports and official statements, including the Associated Press, Reuters, NPR, Politico, CBS News, and others. Each entry's citations link to the underlying news reporting for verification.
