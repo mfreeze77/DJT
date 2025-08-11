@@ -1,4 +1,4 @@
-# **MASTER LIST: Trump Administration Actions & Fact-Check (Jan 20 – Aug 11, 2025)**
+# **MASTER LIST: Trump Administration Actions (Jan 20 – Aug 11, 2025)**
 
 ## 📊 Actions Scorecard (January 20 - August 11, 2025)
 
