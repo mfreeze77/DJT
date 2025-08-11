@@ -530,3 +530,344 @@
 
 \[Source: ['Pissed off' at Putin, Trump threatens tariffs on Russian oil if Moscow blocks Ukraine deal | Reuters](https://www.reuters.com/world/trump-threatens-secondary-tariffs-russian-oil-if-unable-make-deal-ukraine-2025-03-30/)\]
 </details>
+
+</details>
+
+<details>
+<summary><strong>April 2, 2025 – Reciprocal Tariff Framework (Not Russia-Specific)</strong></summary>
+
+- <span style="color:red">Trump signs Executive Order 14257 establishing a global "reciprocal tariff" framework on imports</span>
+- <span style="color:blue">Context: This is a broad trade move, not Russia-specific. U.S.-Russia goods trade was already near zero due to existing sanctions</span>
+- <span style="color:blue">The order explicitly notes Russia is excluded because sanctions have "already rendered trade between the two countries as zero"</span>
+
+[Sources: [The White House](https://www.whitehouse.gov/presidential-actions/2025/04/), [FRED Economic Data](https://fred.stlouisfed.org/series/IMP4621)]
+</details>
+
+<details>
+<summary><strong>April 7-10, 2025 – OFAC Easing + Embassy Talks + Emergency Extension</strong></summary>
+
+- <span style="color:red">April 7: OFAC issues General License 13M authorizing certain administrative transactions previously prohibited</span>
+- <span style="color:red">April 8-10: U.S. and Russia meet in Istanbul to normalize embassy operations; State Dept confirms Ukraine is NOT on the agenda</span>
+- <span style="color:red">April 10: Trump formally extends the Russia sanctions national emergency under EO 14024 for one year</span>
+- <span style="color:blue">Pattern emerges: Easing certain restrictions while maintaining overall sanctions framework</span>
+
+[Sources: [Reuters](https://www.reuters.com/world/russia-us-hold-new-round-consultations-istanbul), [State Department](https://www.state.gov/briefings/department-press-briefing-april-10-2025)]
+</details>
+
+<details>
+<summary><strong>April 17-18, 2025 – Trump's "Final Offer" and Rubio's Ultimatum</strong></summary>
+
+- <span style="color:red">Special envoy Steve Witkoff delivers what the administration calls the "final offer from the United States to both sides"</span>
+- <span style="color:red">The proposal includes: U.S. legal recognition of Russia's control over Crimea and parts of southern/eastern Ukraine, security guarantees without NATO membership, and beginning to lift sanctions on Russia as part of a deal</span>
+- <span style="color:red">April 18: Secretary of State Marco Rubio threatens to abandon U.S. peace efforts unless there's progress "within days," warning Washington won't pursue talks "for weeks and months"</span>
+- <span style="color:blue">European officials view the proposal as excessively conciliatory toward Moscow</span>
+- <span style="color:blue">Ukrainian counter-proposals defer territorial issues until after a ceasefire and demand robust security guarantees similar to NATO's Article 5</span>
+
+[Sources: [Reuters exclusive](https://www.reuters.com/world/), [Axios](https://www.axios.com/2025/04/22/trump-russia-ukraine-peace-plan-crimea-donbas)]
+</details>
+
+<details>
+<summary><strong>April 21-23, 2025 – Putin Opens to Talks; London Collapse</strong></summary>
+
+- <span style="color:red">April 21: Under U.S. pressure, Putin tells Russian television he's open to bilateral peace talks with Ukraine for the first time in years, proposing more ceasefires following a unilateral 30-hour Easter truce</span>
+- <span style="color:red">April 23: High-level peace talks in London collapse after Ukraine rejects the April 17 "final offer"</span>
+- <span style="color:red">Trump lashes out on Truth Social: Zelensky's rejection of ceding Crimea constitutes "inflammatory statements that make it so difficult to settle this War"</span>
+- <span style="color:red">Trump warns Ukraine could "fight for another three years before losing the whole Country" and demands Zelensky "GET IT DONE" despite having "no cards to play"</span>
+
+[Sources: [NDTV/Reuters](https://www.ndtv.com/world-news/), [NBC News](https://www.nbcnews.com/news/world/ukraine-talks-rubio-witkoff-london), [NPR](https://www.npr.org/2025/04/23/)]
+</details>
+
+<details>
+<summary><strong>April 24, 2025 – "Vladimir, STOP!" After Kyiv Strikes</strong></summary>
+
+- <span style="color:red">Following Russia's devastating attack on Kyiv that killed 12 people including 2 children, Trump posts on Truth Social: "I am not happy with the Russian strikes on KYIV. Not necessary, and very bad timing. Vladimir, STOP! 5000 soldiers a week are dying. Let's get the Peace Deal DONE!"</span>
+- <span style="color:red">In the Oval Office, Trump suggests "it might be easier to deal with Zelenskyy. So far, it's been harder"</span>
+- <span style="color:blue">No concrete action follows the Truth Social post – no new sanctions or military response</span>
+
+[Sources: [NPR](https://www.npr.org/2025/04/24/), [CNBC](https://www.cnbc.com/2025/04/24/trump-putin-russia-ukraine-kyiv.html)]
+</details>
+
+<details>
+<summary><strong>April 26, 2025 – Rome Meeting and First Secondary Sanctions Threat</strong></summary>
+
+- <span style="color:red">Trump meets Zelensky at Pope Francis's funeral – their first in-person meeting since February's contentious Oval Office encounter</span>
+- <span style="color:red">On Truth Social, Trump acknowledges Russia "stole Crimea from Ukraine" while blaming Obama</span>
+- <span style="color:red">Trump threatens Putin might need to be "dealt with differently, through 'Banking' or 'Secondary Sanctions'" if attacks continue, suggesting Putin is "just tapping me along"</span>
+- <span style="color:blue">Despite the threats, no actual banking restrictions or secondary sanctions are implemented</span>
+
+[Sources: [CNBC](https://www.cnbc.com/2025/04/26/trump-russia-zelenskyy-pope-funeral.html)]
+</details>
+
+<details>
+<summary><strong>April 30, 2025 – US-Ukraine Reconstruction Fund / Putin's Limited Ceasefire Offer</strong></summary>
+
+- <span style="color:red">White House announces establishment of the United States-Ukraine Reconstruction Investment Fund</span>
+- <span style="color:red">The agreement gives the U.S. first choice to acquire Ukrainian natural resources with 50% of royalties from natural resource projects</span>
+- <span style="color:red">Statement declares: "No state, company, or person who financed or supplied the Russian war machine will be allowed to benefit from the reconstruction"</span>
+- <span style="color:red">Same day: Putin responds to Trump's "permanent ceasefire" demand with only a three-day offer</span>
+- <span style="color:blue">Critics note the reconstruction fund primarily benefits U.S. companies rather than pressuring Russia</span>
+
+[Sources: [White House Fact Sheet](https://www.whitehouse.gov/fact-sheets/2025/05/), [Treasury](https://home.treasury.gov/news/press-releases/sb0126), [Al Jazeera](https://www.aljazeera.com/news/2025/4/30/)]
+</details>
+
+<details>
+<summary><strong>May 15-16, 2025 – OFAC Easing and Istanbul Prisoner Exchange</strong></summary>
+
+- <span style="color:red">May 15: OFAC issues General License 124 authorizing petroleum services for the Caspian Pipeline Consortium</span>
+- <span style="color:red">May 16: First direct Russia-Ukraine talks since the invasion begin in Istanbul, facilitated by Turkey</span>
+- <span style="color:red">Results limited to prisoner exchange of over 1,000 detainees from each side</span>
+- <span style="color:blue">Russia sends what Ukraine describes as a "low-level delegation with no decision-making powers"</span>
+- <span style="color:blue">The general license facilitates Russian oil flow rather than restricting it</span>
+
+[Sources: [OFAC](https://ofac.treasury.gov/), [NPR](https://www.npr.org/2025/06/02/nx-s1-5414522/)]
+</details>
+
+<details>
+<summary><strong>May 18, 2025 – Trump's Frustration with Pace of Talks</strong></summary>
+
+- <span style="color:red">Trump expresses increasing frustration with the slow progress of peace negotiations</span>
+- <span style="color:blue">No new concrete actions taken despite mounting rhetoric</span>
+
+[Sources: [CNN](https://www.cnn.com/politics/live-news/trump-presidency-news-05-18-25)]
+</details>
+
+<details>
+<summary><strong>May 25-27, 2025 – "Putin Has Gone Absolutely CRAZY!"</strong></summary>
+
+- <span style="color:red">Following the largest Russian drone/missile attack on Ukraine in over three years, Trump posts increasingly hostile messages</span>
+- <span style="color:red">May 26: "I've always had a very good relationship with Vladimir Putin of Russia, but something has happened to him. He has gone absolutely CRAZY!"</span>
+- <span style="color:red">May 27: "What Vladimir Putin doesn't realize is that if it weren't for me, lots of really bad things would have already happened in Russia, and I mean REALLY BAD. He's playing with fire"</span>
+- <span style="color:blue">Despite the harsh rhetoric, no new sanctions or military responses follow</span>
+
+[Sources: [Al Jazeera](https://www.aljazeera.com/news/2025/5/26/), [Atlantic Council](https://www.atlanticcouncil.org/blogs/)]
+</details>
+
+<details>
+<summary><strong>May 28, 2025 – Russia's Medvedev Rebukes Trump</strong></summary>
+
+- <span style="color:red">Former Russian President Dmitry Medvedev responds to Trump's "crazy Putin" posts with threats</span>
+- <span style="color:blue">This begins an escalating war of words that will culminate in Trump's submarine deployment threat in July</span>
+
+[Sources: [Al Jazeera](https://www.aljazeera.com/news/2025/5/28/)]
+</details>
+
+<details>
+<summary><strong>June 2, 2025 – NPR Analysis: Trump's Failed "Day One" Peace Promise</strong></summary>
+
+- <span style="color:blue">NPR publishes comprehensive analysis showing Trump has failed to deliver on his campaign promise to end the war "within a day"</span>
+- <span style="color:blue">Report details how Trump's approach has evolved from confidence to frustration as Putin proves intransigent</span>
+
+[Sources: [NPR](https://www.npr.org/2025/06/02/nx-s1-5414522/ukraine-peace-talks-russia-trump-putin-istanbul)]
+</details>
+
+<details>
+<summary><strong>June 18, 2025 – OFAC Extends Sakhalin-2 Authorization</strong></summary>
+
+- <span style="color:red">OFAC issues General License 55D extending authorization for the Sakhalin-2 petroleum project</span>
+- <span style="color:blue">Another easing measure that allows continued business with Russian energy sector</span>
+
+[Sources: [Federal Register](https://www.federalregister.gov/documents/2025/07/23/)]
+</details>
+
+<details>
+<summary><strong>June 24-25, 2025 – NATO Summit in The Hague</strong></summary>
+
+- <span style="color:red">NATO allies agree to increase defense spending to 5% of GDP by 2035 (3.5% core defense + 1.5% broader security)</span>
+- <span style="color:red">Defense Secretary Pete Hegseth calls Ukrainian NATO membership "unrealistic"</span>
+- <span style="color:red">Trump questions whether countries not meeting defense spending targets deserve U.S. protection</span>
+- <span style="color:blue">European allies express concern about U.S. commitment to collective defense</span>
+
+[Sources: [Washington Post](https://www.washingtonpost.com/politics/2025/06/25/), [Al Jazeera](https://www.aljazeera.com/news/2025/2/18/)]
+</details>
+
+<details>
+<summary><strong>June 27, 2025 – Nuclear Sanctions EASED</strong></summary>
+
+- <span style="color:red">Treasury updates General License 115B, removing restrictions on the Russian-backed Paks II nuclear power plant project in Hungary</span>
+- <span style="color:red">Authorization for civil nuclear project transactions extended through December 19, 2025</span>
+- <span style="color:blue">Administration maintains this is a "technical extension," not a sanctions lift</span>
+- <span style="color:blue">Critics note this facilitates Russian nuclear projects rather than restricting them</span>
+
+[Sources: [OFAC](https://ofac.treasury.gov/), [Snopes fact-check](https://www.snopes.com/news/2025/07/12/)]
+</details>
+
+<details>
+<summary><strong>July 1, 2025 – Cyber Sanctions AND Weapons Pause Begin</strong></summary>
+
+- <span style="color:red">OFAC adds Russia-linked cyber actors (AEZA Group and related entities) to SDN list – the only new Russia sanctions designation in this entire period</span>
+- <span style="color:red">Same day: Defense Secretary Pete Hegseth unilaterally pauses ALL U.S. weapons deliveries to Ukraine without White House approval</span>
+- <span style="color:red">Halted systems include: Patriot missiles, GMLRS precision-guided rockets, Hellfire missiles, 155mm Howitzer rounds</span>
+- <span style="color:blue">Hegseth cites concerns about U.S. stockpiles and need for "America First" policy review</span>
+- <span style="color:blue">Congressional leaders from both parties immediately condemn the pause</span>
+
+[Sources: [OFAC](https://ofac.treasury.gov/), [CNN](https://www.cnn.com/2025/07/08/politics/hegseth-did-not-inform-white-house-ukraine-weapons-pause), [NBC News](https://www.nbcnews.com/news/military/hegseth-halted-weapons-ukraine)]
+</details>
+
+<details>
+<summary><strong>July 8, 2025 – Weapons Resume, More OFAC Easing</strong></summary>
+
+- <span style="color:red">Trump reverses Hegseth's weapons pause after intense backlash, orders Pentagon to resume deliveries</span>
+- <span style="color:red">Pentagon confirms 155mm artillery munitions and precision-guided rockets are first shipments restarted</span>
+- <span style="color:red">Same day: OFAC issues General License 13N continuing to authorize administrative transactions</span>
+- <span style="color:blue">Pentagon spokesman: This will "ensure the Ukrainians can defend themselves while we work to secure a lasting peace"</span>
+- <span style="color:blue">The week-long pause created battlefield uncertainty during critical fighting</span>
+
+[Sources: [Pentagon](https://www.defense.gov/News/Releases/), [OFAC](https://ofac.treasury.gov/)]
+</details>
+
+<details>
+<summary><strong>July 14, 2025 – NATO Weapons Corridor and 50-Day Ultimatum</strong></summary>
+
+- <span style="color:red">Trump announces significant policy shift allowing European NATO allies to purchase U.S. weapons and transfer them to Ukraine</span>
+- <span style="color:red">Describes it as "sending weapons to NATO, and NATO is paying for those weapons 100%... then NATO is going to be giving those weapons"</span>
+- <span style="color:red">Simultaneously sets 50-day deadline (until September 2) for Russia to agree to ceasefire or face "100% tariffs" and secondary sanctions</span>
+- <span style="color:blue">Deadline would fall AFTER the planned Alaska summit, reducing its credibility</span>
+
+[Sources: [NPR](https://www.npr.org/2025/07/14/), [CNN](https://www.cnn.com/2025/07/14/politics/us-ukraine-weapons-trump), [CNBC](https://www.cnbc.com/2025/07/14/trump-trade-russia-ukraine.html)]
+</details>
+
+<details>
+<summary><strong>July 28, 2025 – Deadline Dramatically Shortened</strong></summary>
+
+- <span style="color:red">Trump suddenly shortens deadline to "10 or 12 days from today" (around August 7-9)</span>
+- <span style="color:red">"There's no reason in waiting. I want to be generous, but we just don't see any progress being made"</span>
+- <span style="color:blue">CNN analysis notes skepticism about Trump's shifting deadlines and lack of follow-through on previous threats</span>
+
+[Sources: [CNN](https://www.cnn.com/2025/07/28/politics/deadline-russia-ukraine-trump)]
+</details>
+
+<details>
+<summary><strong>July 30, 2025 – Nuclear Submarine Deployment Threat</strong></summary>
+
+- <span style="color:red">Following provocative statements from Dmitry Medvedev, Trump posts: "I have ordered two Nuclear Submarines to be positioned in the appropriate regions, just in case these foolish and inflammatory statements are more than just that"</span>
+- <span style="color:red">"Tell Medvedev, the failed former President of Russia, who thinks he's still President, to watch his words"</span>
+- <span style="color:blue">Pentagon does not confirm actual submarine movements</span>
+- <span style="color:blue">Analysts view this as theatrical posturing rather than substantive military action</span>
+
+[Sources: [Al Jazeera](https://www.aljazeera.com/news/2025/8/2/), [Fox News](https://www.foxnews.com/politics/), [CNBC](https://www.cnbc.com/2025/08/01/)]
+</details>
+
+<details>
+<summary><strong>August 1-5, 2025 – Witkoff's Moscow Preparations</strong></summary>
+
+- <span style="color:red">Steve Witkoff travels to Russia for "last chance" ceasefire talks ahead of sanctions deadline</span>
+- <span style="color:red">State Department confirms diplomatic push but provides few details</span>
+- <span style="color:blue">European allies express concern about being excluded from negotiations</span>
+
+[Sources: [ABC News](https://abcnews.go.com/International/), [State Department](https://www.state.gov/briefings/department-press-briefing-august-5-2025)]
+</details>
+
+<details>
+<summary><strong>August 6, 2025 – India Tariffs and "Highly Productive" Putin Meeting</strong></summary>
+
+- <span style="color:red">Trump signs Executive Order 14329 "Addressing Threats to The United States by the Government of the Russian Federation"</span>
+- <span style="color:red">Imposes 25% additional tariff on ALL imports from India as punishment for buying Russian oil</span>
+- <span style="color:red">CRITICAL: Tariffs don't take effect until August 27, 2025 – 12 days AFTER Putin summit</span>
+- <span style="color:red">Same day: Steve Witkoff meets Putin in Moscow for three hours in what Trump calls a "highly productive meeting"</span>
+- <span style="color:red">Putin reportedly presents concrete ceasefire proposal involving territorial concessions</span>
+- <span style="color:blue">This is the first actual secondary sanctions measure implemented, but strategically timed to not affect summit</span>
+
+[Sources: [White House](https://www.whitehouse.gov/presidential-actions/2025/08/), [Al Jazeera](https://www.aljazeera.com/news/2025/8/6/), [CNN](https://www.cnn.com/2025/08/08/politics/trump-putin-summit-sanctions-deadline)]
+</details>
+
+<details>
+<summary><strong>August 8, 2025 – Alaska Summit Announcement and "Territorial Swapping"</strong></summary>
+
+- <span style="color:red">Trump announces on Truth Social: "The highly anticipated meeting between myself, as President of the United States of America, and President Vladimir Putin, of Russia, will take place next Friday, August 15, 2025, in the Great State of Alaska"</span>
+- <span style="color:red">BOMBSHELL: "It's very complicated. But we're going to get some back, and we're going to get some switched. There'll be some swapping of territories to the betterment of both"</span>
+- <span style="color:red">This represents the first explicit U.S. endorsement of territorial exchanges in the conflict</span>
+- <span style="color:blue">CNN analysis notes this "resembles a slow defeat for Ukraine"</span>
+- <span style="color:blue">The summit is strategically scheduled BEFORE India tariffs take effect</span>
+
+[Sources: [CBS News](https://www.cbsnews.com/news/trump-and-putin-could-meet-in-alaska-sources-say/), [CNN](https://www.cnn.com/2025/08/08/politics/trump-putin-meeting), [Al Jazeera](https://www.aljazeera.com/news/2025/8/8/), [NPR](https://www.npr.org/2025/08/08/)]
+</details>
+
+<details>
+<summary><strong>August 10, 2025 – European and Ukrainian Pushback</strong></summary>
+
+- <span style="color:blue">Joint statement from France, Italy, Germany, Poland, Britain, Finland and the European Commission: "The path to peace in Ukraine cannot be decided without Ukraine"</span>
+- <span style="color:blue">"International borders must not be changed by force" and "a ceasefire must precede negotiations"</span>
+- <span style="color:blue">Statement emphasizes need for "robust and credible security guarantees for Ukraine; the front line should not become a border"</span>
+- <span style="color:red">Zelensky's chief of staff Andriy Yermak: "A ceasefire is needed but Ukraine will not surrender territory"</span>
+- <span style="color:red">Zelensky: "Ukrainians will not give their land to the occupier. Any decisions that are against us, any decisions that are without Ukraine, are also decisions against peace"</span>
+- <span style="color:blue">European diplomats propose counter-proposal requiring reciprocal territorial exchanges and firm security guarantees</span>
+
+[Sources: [Al Jazeera](https://www.aljazeera.com/news/2025/8/10/), [Arab News/Reuters](https://www.arabnews.com/), [PBS/AP](https://www.pbs.org/newshour/)]
+</details>
+
+<details>
+<summary><strong>August 10-11, 2025 – Allied Compensation and U.S. Force Posture</strong></summary>
+
+- <span style="color:blue">Netherlands commits over €500 million specifically for Patriot missiles for Ukraine</span>
+- <span style="color:blue">Denmark, Norway, and Sweden jointly contribute ~$500 million for U.S.-made equipment under NATO's Prioritized Ukraine Requirements List (PURL)</span>
+- <span style="color:blue">U.S. maintains 80,000-100,000 troops in Europe despite Pentagon proposals to reduce by 10,000</span>
+- <span style="color:blue">DEFENDER-25 exercises conducted April-June with airborne operations in Finland, Norway, Sweden, Latvia, Lithuania</span>
+
+[Sources: [Ukrinform](https://www.ukrinform.net/), [CFR](https://www.cfr.org/article/where-are-us-forces-deployed-europe), [High North News](https://www.highnorthnews.com/)]
+</details>
+
+---
+
+## Key Patterns and Analysis (April 1 - August 11, 2025)
+
+### Actions Aligning with Russian Interests:
+
+1. **Territorial Concessions Evolution**
+   - April 17: Proposes recognizing Russia's Crimea annexation
+   - August 8: Explicitly endorses "swapping of territories"
+   - Pattern: Steady movement toward legitimizing Russian territorial gains
+
+2. **Sanctions Relief Pattern**
+   - 5 General Licenses issued, all easing restrictions:
+     - GL 13M (April 7) - Administrative transactions
+     - GL 124 (May 15) - Caspian Pipeline petroleum services
+     - GL 55D (June 18) - Sakhalin-2 extension
+     - GL 115B (June 27) - Civil nuclear through December 19
+     - GL 13N (July 8) - Administrative transactions
+   - Only ONE new sanctions designation: AEZA Group cyber actors (July 1)
+
+3. **Military Aid Disruption**
+   - March 3-11: First weapons review/pause (from previous reporting)
+   - July 1-8: Second unauthorized weapons pause
+   - Creates battlefield uncertainty, weakens Ukraine's negotiating position
+
+4. **Summit Timing Gives Putin Maximum Leverage**
+   - August 15 summit occurs BEFORE:
+     - India tariffs take effect (August 27)
+     - Any threatened 100% tariffs on Russia (never implemented)
+     - Secondary sanctions on China (remain threats only)
+   - Putin enters knowing Trump has taken minimal concrete actions
+
+### The Rhetoric-Reality Gap:
+
+**Threats Not Implemented:**
+- "100% tariffs" on Russia → Never materialized
+- "Banking restrictions" → None enacted
+- "Secondary sanctions" → Only India, after summit
+- Multiple deadline extensions without consequences
+
+**Actions Actually Taken:**
+- Maintained existing sanctions framework (from Biden era)
+- Added one cyber sanctions designation
+- Announced India tariffs (but delayed until after summit)
+- Briefly paused then resumed weapons to Ukraine
+- Issued multiple licenses easing restrictions
+
+### Congressional and Allied Concerns:
+
+- Bipartisan criticism of weapons pause
+- European allies warn against "Munich-like" appeasement
+- Baltic states fear ceasefire would increase threat to NATO's eastern flank
+- Ukraine insists no territorial concessions, opposes bilateral U.S.-Russia negotiations
+
+---
+
+## Bottom Line Assessment:
+
+Between April 1 and August 11, 2025, the Trump administration's concrete actions against Russia consisted of:
+- ONE new sanctions designation (cyber actors)
+- ONE secondary tariff announced but not yet implemented (India)
+- FIVE general licenses easing restrictions
+- ONE week weapons pause to Ukraine (reversed after backlash)
+
+The August 15 Alaska summit is strategically timed to give Putin maximum leverage, occurring before any threatened measures take effect and after Trump has publicly endorsed territorial swaps. The pattern suggests either deliberate accommodation of Russian interests or inability to follow through on threats—either interpretation benefits Moscow's negotiating position.
