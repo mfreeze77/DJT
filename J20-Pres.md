@@ -1,8 +1,8 @@
-# **MASTER LIST: Trump Administration Actions (Jan 20 – Aug 11, 2025)**
+# **MASTER LIST: Trump Administration Actions (Jan 20 – Dec 6, 2025)**
 
-## 📊 Actions Scorecard (January 20 - August 11, 2025)
+## 📊 Actions Scorecard (January 20 - December 6, 2025)
 
-### 🇷🇺 Actions Benefiting Russia: **31**
+### 🇷🇺 Actions Benefiting Russia: **42**
 
 **Personnel & Institutional Dismantling:**
 - 🇷🇺 Foreign aid freeze including $16.4B Ukraine aid (Jan 21-22)
@@ -47,9 +47,20 @@
 - 🇷🇺 Offering sanctions relief for cooperation (March 25)
 - 🇷🇺 **U.S. President traveling to meet Putin on American soil without preconditions**
 
-### 🇺🇸 Actions Benefiting America/Ukraine: **2.5**
+**November-December 2025 Additions:**
+- 🇷🇺 NSS explicitly prioritizing "strategic stability with Russia" over Ukraine support (Nov 2025)
+- 🇷🇺 NSS calling for "cultivating resistance to Europe's current trajectory" (Nov 2025)
+- 🇷🇺 Administration support for "patriotic European parties" skeptical of Ukraine aid (Feb-Nov 2025)
+- 🇷🇺 Vance meeting AfD leader Weidel, criticizing German "firewall" against far-right (Feb 2025)
+- 🇷🇺 Trump/Vance/Musk defending Le Pen after embezzlement conviction (April 2025)
+- 🇷🇺 US lobbying EU countries to block use of €210B frozen Russian assets for Ukraine (Dec 5)
+- 🇷🇺 28-point peace plan proposing to unfreeze Russian assets into US-Russia investment fund (Nov-Dec 2025)
+- 🇷🇺 Lukoil sanctions waiver extended to April 2026 (Dec 4)
+
+### 🇺🇸 Actions Benefiting America/Ukraine: **4.5**
 - 🇺🇸 1 OFAC cyber sanctions designation (AEZA Group, July 1)
 - 🇺🇸 Maintained existing sanctions framework from Biden era
+- 🇺🇸 New sanctions on Lukoil and Rosneft (October 2025)
 - ⏳ 0.5 Secondary tariff on India (25%, effective August 27)*
   - *Counted as half since summit occurs first, giving Putin leverage to negotiate away
 
@@ -67,12 +78,12 @@
 - ❌ "Sweeping new banking sanctions" (March 7)
 - ❓ Nuclear submarine deployment (unconfirmed by Pentagon)
 
-### 📈 Current Score: **Russia 31, America 2.5** (12.4:1 ratio)
+### 📈 Current Score: **Russia 42, America 4.5** (~9.3:1 ratio)
 
 **⚠️ Symbolic Surrender:** A U.S. President hosting a sanctioned adversary on American soil (Alaska) without extracting any concessions beforehand represents an unprecedented diplomatic gift to Putin.
 
 ---
-*Last Updated: August 11, 2025 | [Jump to Timeline](#timeline)*
+*Last Updated: December 6, 2025 | [Jump to Timeline](#timeline)*
 
 ## **Timeline of Trump Administration Actions Aligning with Russian Interests Vs American Interests**
 
@@ -880,46 +891,233 @@
 [Sources: [Ukrinform](https://www.ukrinform.net/), [CFR](https://www.cfr.org/article/where-are-us-forces-deployed-europe), [High North News](https://www.highnorthnews.com/)]
 </details>
 
----
-## **Assessment: The Systematic Capitulation (January 20 - August 11, 2025)**
+<details>
+<summary><strong>October 22-23, 2025 – First Major Oil Sanctions on Rosneft and Lukoil</strong></summary>
 
-Over 204 days, the Trump administration executed what can only be described as a systematic dismantling of U.S. opposition to Russian aggression:
+- <span style="color:blue">After months of threats but no major new action, the Trump administration announces fresh sanctions targeting Russia’s oil sector, including measures against state giant <strong>Rosneft</strong> and privately held <strong>Lukoil</strong>, two of Moscow’s largest producers.</span>
+- <span style="color:blue">The designations are framed as the first significant new Russia sanctions of Trump’s second term and are explicitly linked to Moscow’s refusal to move toward a peace deal in Ukraine.</span>
+- <span style="color:red">Analysts note that the measures are narrower than earlier G7/Biden-era oil sanctions and contain carve-outs to avoid major disruption of global supply, limiting the overall economic shock to Russia.</span>
+
+[Sources: [Reuters](https://www.reuters.com/business/energy/us-hits-top-russian-oil-companies-with-sanctions-eu-bans-russian-lng-2025-10-22/), [U.S. Treasury](https://home.treasury.gov/news/press-releases/sb0290), [BIPC](https://www.bipc.com/the-politics-of-oil-historic-u.s.-sanctions-against-russian-oil-companies)]
+</details>
+
+<details>
+<summary><strong>November 19-26, 2025 – U.S. 28-Point Peace Plan and Land-Swap Framework</strong></summary>
+
+- <span style="color:red">Reuters and other outlets reveal a secret <strong>28-point U.S. peace plan</strong> for Ukraine, drawn in significant part from a Russian-authored paper and developed by Trump adviser Jared Kushner and envoy Steve Witkoff.</span>
+- <span style="color:red">The draft would give Russia <strong>de facto control over all of Crimea, Luhansk, and Donetsk</strong> and freeze the frontline in Kherson and Zaporizhzhia, effectively recognizing Russia’s occupation of roughly one-fifth of Ukraine.</span>
+- <span style="color:red">The plan caps Ukraine’s armed forces, bars NATO membership in Ukraine’s constitution, and restricts permanent NATO basing on Ukrainian soil, while promising Russia staged <strong>sanctions relief, economic reintegration, and a path back to the G7/G8</strong>.</span>
+- <span style="color:red">On the economic side, the framework uses a portion of frozen Russian sovereign assets for Ukraine’s reconstruction but with <strong>no explicit reparations bill</strong> for Moscow and a structure under which U.S. investors capture a substantial share of profits as assets are gradually unfrozen.</span>
+- <span style="color:red">According to multiple reports, Washington gives President Zelenskyy roughly <strong>a week</strong> to accept the framework and privately warns that refusal could lead to a cutoff or downgrading of U.S. weapons deliveries and intelligence sharing.</span>
+- <span style="color:blue">Ukrainian and European officials describe the document as a “capitulation plan” and begin drafting counter-proposals that would toughen security guarantees for Kyiv and dilute some of the most pro-Russian provisions.</span>
+
+[Sources: [Reuters](https://www.reuters.com/world/europe/draft-us-backed-peace-proposal-ukraine-2025-11-21/), [Reuters](https://www.reuters.com/world/europe/us-peace-plan-ukraine-drew-russian-document-sources-say-2025-11-26/), [Reuters](https://www.reuters.com/world/europe/europeans-push-back-us-plan-that-would-force-concessions-ukraine-2025-11-20/), [Sky News](https://news.sky.com/story/trumps-28-point-ukraine-peace-plan-in-full-including-land-kyiv-must-hand-to-russia-and-when-elections-must-be-held-13473491), [Al Jazeera](https://www.aljazeera.com/news/2025/11/26/russia-ukraine-peace-plan-whats-the-latest-version-after-us-kyiv-talks)]
+</details>
+
+<details>
+<summary><strong>November 2025 – National Security Strategy Released</strong></summary>
+
+- <span style="color:red">The Trump administration releases its **National Security Strategy** (NSS), which explicitly states it is a "core interest of the United States to negotiate an expeditious cessation of hostilities in Ukraine...and reestablish strategic stability with Russia" (p. 25)</span>
+- <span style="color:red">The NSS calls for "cultivating resistance to Europe's current trajectory within European nations" (p. 27) and praises "patriotic European parties" (p. 26) – a reference to far-right parties skeptical of Ukraine support</span>
+- <span style="color:red">The document criticizes EU activities including "migration policies...censorship of free speech and suppression of political opposition" (p. 25)</span>
+- <span style="color:red">While stating Europe "remains strategically and culturally vital," the NSS prioritizes rapprochement with Russia over continued Ukraine support</span>
+
+\[Source: [White House NSS PDF](https://www.whitehouse.gov/wp-content/uploads/2025/12/2025-National-Security-Strategy.pdf)\]
+</details>
+
+<details>
+<summary><strong>December 1, 2025 – Der Spiegel Leaked Call: Europeans Warn Zelenskyy</strong></summary>
+
+- <span style="color:red">Der Spiegel obtains a leaked transcript of a December 1 call between European leaders and Zelenskyy</span>
+- <span style="color:red">Participants: French President Macron, German Chancellor-candidate Merz, NATO Secretary General Rutte, Finnish President Stubb, and others</span>
+- <span style="color:red">**Key quotes from the leaked transcript:**</span>
+  - <span style="color:red">Macron: warned of "possibility that US will betray Ukraine on issue of territory without clarity on security guarantees"</span>
+  - <span style="color:red">Merz to Zelenskyy: "extremely careful in coming days...they are playing games with you and with us" (referring to Witkoff/Kushner)</span>
+  - <span style="color:red">Finnish President Stubb: "We cannot leave Ukraine and Volodymyr alone with these guys"</span>
+  - <span style="color:red">NATO's Rutte: "I agree with Alexander — we must protect Volodymyr"</span>
+- <span style="color:red">Macron's office denied he used the word "betrayal" but did not dispute the substance</span>
+
+\[Sources: [Der Spiegel](https://www.spiegel.de/), [Politico](https://www.politico.eu/)\]
+</details>
+
+<details>
+<summary><strong>December 1, 2025 – Drone Incident Near Zelenskyy's Plane (Dublin)</strong></summary>
+
+- <span style="color:red">Four military-style drones breach the no-fly zone near Dublin Airport during Zelenskyy's visit to Ireland</span>
+- <span style="color:red">The drones reached the location where Zelenskyy's plane was expected to pass at 11pm; the plane landed early, avoiding them by minutes</span>
+- <span style="color:red">The drones then orbited the Irish Navy vessel LÉ William Butler Yeats</span>
+- <span style="color:red">Irish security officials classified the incident as a potential "hybrid attack"; drones described as large, expensive, military-specification</span>
+- <span style="color:red">Origin unidentified, but Russia suspected given pattern of similar incidents across Europe</span>
+
+\[Sources: [The Journal (Ireland)](https://www.thejournal.ie/), [Irish Times](https://www.irishtimes.com/), [CBS News](https://www.cbsnews.com/), [Newsweek](https://www.newsweek.com/)\]
+</details>
+
+<details>
+<summary><strong>December 2, 2025 – U.S. Suspends Some Weapons and Cuts Direct Channel With German Army</strong></summary>
+
+- <span style="color:red">Ukrainian defense outlet <em>Militarnyi</em> reports that the United States has <strong>suspended the supply of certain weapons to Ukraine</strong> and <strong>cut off one of the direct communication channels</strong> with German generals coordinating assistance to Kyiv.</span>
+- <span style="color:red">Bundeswehr Lieutenant General <strong>Christian Freuding</strong>, former head of Germany’s Ukraine support cell and now commander of the German Army, says the Trump administration did not warn Berlin before halting deliveries of specific weapons.</span>
+- <span style="color:red">Freuding explains that he had been able to exchange messages with Pentagon counterparts “<strong>day and night</strong>,” but that line has now been “<strong>cut off, really cut off</strong>,” forcing him to route queries through the German Embassy in Washington where one staffer is “trying to find at least someone in the Pentagon.”</span>
+- <span style="color:red">Reports in Ukrainian and German media stress that the suspended items include <strong>high-end U.S. systems critical to Ukraine’s defense</strong>, and that the loss of a real-time channel seriously degrades allied coordination on Ukraine aid.</span>
+
+[Sources: [Militarnyi](https://militarnyi.com/en/news/us-closes-one-of-the-communication-channels-with-germany-regarding-assistance-to-ukraine), [RBC-Ukraine](https://newsukraine.rbc.ua/news/us-halts-deliveries-of-certain-weapons-to-1764700729.html), [Ukraine Today](https://ukrainetoday.org/breaking-news-the-united-states-has-closed-one-of-the-channels-of-communication-with-germany-regarding-the-provision-of-aid-to-ukraine/), [Reddit /r/worldnews](https://www.reddit.com/r/worldnews/comments/1pcb1cw/us_closes_one_of_the_communication_channels_with/)]
+</details>
+
+<details>
+<summary><strong>December 2, 2025 – Witkoff & Kushner’s Five-Hour Kremlin Meeting on Revised Peace Plan</strong></summary>
+
+- <span style="color:red">On the same day that the Freuding story breaks, Trump envoy <strong>Steve Witkoff</strong> and adviser <strong>Jared Kushner</strong> hold a <strong>multi-hour meeting</strong> with Vladimir Putin at the Kremlin to discuss a revised version of the U.S. peace framework.</span>
+- <span style="color:red">Russian officials describe the talks as “constructive” but insist that only the original, more pro-Russian U.S. draft can serve as the basis for ending the war, rejecting European and Ukrainian attempts to toughen security guarantees or roll back territorial concessions.</span>
+- <span style="color:red">Putin publicly warns that Russia is “ready” for war with Europe if NATO states continue to arm Ukraine and threatens to cut Ukraine off from the sea, using the stalled talks to project confidence and deterrence rather than compromise.</span>
+- <span style="color:blue">U.S. officials highlight modest progress on potential security assurances for Ukraine and say President Trump and President Zelenskyy will have to take the final decisions, but offer no sign that Washington is prepared to abandon the core land-swap logic of the plan.</span>
+
+[Sources: [Reuters](https://www.reuters.com/world/china/witkoff-kushner-meet-putin-moscow-discuss-an-end-ukraine-war-2025-12-02/), [Reuters](https://www.reuters.com/world/europe/putin-says-that-if-europe-wants-war-then-russia-is-ready-2025-12-02/), [The Guardian](https://www.theguardian.com/world/2025/dec/02/witkoff-in-moscow-for-talks-as-putin-claims-to-have-taken-key-ukrainian-city)]
+</details>
+
+<details>
+<summary><strong>December 4, 2025 – Lukoil Sanctions Waiver Extended; Drones Over French Nuclear Base</strong></summary>
+
+- <span style="color:red">Treasury extends the waiver for **Lukoil gas stations outside Russia** until **April 29, 2026**</span>
+- <span style="color:red">The waiver allows foreign gas stations to continue operating while Lukoil divests assets; American companies (Carlyle, ExxonMobil) are reportedly interested buyers</span>
+- <span style="color:blue">Note: This follows new sanctions on Lukoil/Rosneft in October 2025 – the waiver manages the transition rather than simply removing sanctions</span>
+- <span style="color:red">**Drone incident at French nuclear submarine base (Île Longue):** Five drones detected over the base housing France's nuclear ballistic missile submarines</span>
+- <span style="color:red">French military engaged with counter-drone measures (electronic jamming); origin unidentified</span>
+- <span style="color:red">The incident fits a pattern of suspected Russian hybrid warfare across Europe (similar incidents in Denmark, Netherlands, Belgium)</span>
+
+[Sources: [Bloomberg](https://www.bloomberg.com/), [Kyiv Independent](https://kyivindependent.com/), [Moscow Times](https://www.themoscowtimes.com/), [Euronews](https://www.euronews.com/), [Defense News](https://www.defensenews.com/), [Washington Post](https://www.washingtonpost.com/)]
+</details>
+
+<details>
+<summary><strong>December 5, 2025 – US Lobbies Against Using Frozen Russian Assets for Ukraine</strong></summary>
+
+- <span style="color:red">Bloomberg reports that the U.S. has been **lobbying several EU countries to block a plan to use €210 billion in frozen Russian assets** to back a massive loan for Ukraine</span>
+- <span style="color:red">**U.S. argument:** The assets are "needed to help secure peace deal between Kyiv and Moscow and should not be used to prolong the war"</span>
+- <span style="color:red">EU Commission President von der Leyen had proposed using the frozen assets to back a €90 billion loan to Ukraine</span>
+- <span style="color:red">Belgium (which hosts most of the funds) also resisted due to legal concerns</span>
+- <span style="color:red">The U.S. 28-point peace plan suggests **unfreezing the assets** and creating a **US-Russia joint investment fund** rather than using them for Ukraine reconstruction</span>
+- <span style="color:red">Euronews confirmed the plan would "unblock Russian assets" and turn them into a "US-managed investment platform"</span>
+
+[Sources: [Bloomberg](https://www.bloomberg.com/news/articles/2025-12-05/us-lobbied-eu-to-block-using-frozen-russian-assets-for-ukraine), [Euronews](https://www.euronews.com/)]
+</details>
+
+<details>
+<summary><strong>February-November 2025 – Administration Support for "Patriotic European Parties"</strong></summary>
+
+The NSS references "patriotic European parties" giving "cause for great optimism." Documented administration actions identify which parties this refers to:
+
+**Alternative for Germany (AfD):**
+- <span style="color:red">**February 2025:** VP Vance meets AfD leader Alice Weidel at Munich Security Conference</span>
+- <span style="color:red">Vance criticizes Germany's "firewall" against AfD, says "no room for firewalls"</span>
+- <span style="color:red">Vance argues Europe's threat is "from within" not from Russia or China</span>
+- <span style="color:red">Elon Musk endorses AfD before German election</span>
+- <span style="color:red">Note: German intelligence has AfD under surveillance for suspected extremism</span>
+
+**Marine Le Pen's National Rally (France):**
+- <span style="color:red">**April 2025:** After Le Pen convicted of embezzlement and banned from 2027 election:</span>
+  - <span style="color:red">Trump calls it "Witch Hunt" by "European Leftists"</span>
+  - <span style="color:red">Musk posts "Free Le Pen!"</span>
+  - <span style="color:red">Vance warns relationship with Europe would be "stressed" if they "keep trying to throw opposition leaders in jail"</span>
+
+**Reform UK (Britain):**
+- <span style="color:red">Musk endorses Reform UK, says they'd "win next election"</span>
+- <span style="color:red">Musk reportedly considers $100M donation to Nigel Farage</span>
+- <span style="color:red">Trump maintains "good relationship" with Farage</span>
+
+[Sources: [Politico](https://www.politico.eu/), [The Guardian](https://www.theguardian.com/), [Reuters](https://www.reuters.com/)]
+</details>
+
+
+---
+## **Assessment: The Systematic Capitulation (January 20 - December 6, 2025)**
+
+Over 321 days, the Trump administration executed what can only be described as a systematic dismantling of U.S. opposition to Russian aggression – capped by a "peace plan" that largely codifies Russia's gains while actively lobbying against using frozen Russian assets to help Ukraine.
 
 ### **The Numbers Tell the Story:**
-- **Actions Benefiting Russia: 31** (one every 6.6 days)
-- **Actions Benefiting America/Ukraine: 2.5** (one every 81.6 days)
-- **Ratio: 12.4 to 1 in Russia's favor**
+- **Actions Benefiting Russia: 42** (about one every 7.6 days)
+- **Actions Benefiting America/Ukraine: 4.5** (about one every 71 days)
+- **Ratio: ~9.3 to 1 in Russia's favor**
 
 ### **The Demolition Pattern:**
 
-**Week 1:** Froze $16.4B in Ukraine aid, purged 160 NSC officials handling Russia policy
-**Month 1:** Dismantled USAID, installed Russia-sympathetic leadership (Gabbard, Patel), began prisoner exchanges favoring Moscow
-**Month 2:** Cut military aid, intelligence sharing, and satellite access to Ukraine while proposing Russia rejoin G7
-**Months 3-7:** Issued 5 sanctions waivers while making only 1 new designation, endorsed Russian territorial gains, repeatedly threatened but never implemented serious consequences
+**Week 1:** Froze $16.4B in Ukraine aid, purged 160 NSC officials handling Russia policy.
+**Month 1:** Dismantled USAID, installed Russia-sympathetic leadership (Gabbard, Patel), began prisoner exchanges favoring Moscow.
+**Month 2:** Cut military aid, intelligence sharing, and satellite access to Ukraine while proposing Russia rejoin G7. VP Vance meets with AfD leader, criticizes European democracies' efforts to contain far-right.
+**Months 3–7:** Issued 5 sanctions waivers while making only 1 new designation, endorsed Russian territorial gains, repeatedly threatened but never implemented serious consequences.
+
+**Months 8–10 (Post–Alaska, early fall):**  
+- Europe races to compensate: Dutch, Nordic, Baltic, and other Allies collectively channel billions through NATO’s PURL scheme to buy U.S.-made weapons for Ukraine because Washington refuses to put new American money on the table.  
+- The U.S. itself stays mostly on the sidelines: few new aid commitments, no major new sanctions until late October, and an explicit shift toward “peace first” diplomacy that assumes Ukraine cannot win outright.
+
+**A Single Real Punch (Late October):**  
+- In late October, after months of empty threats, the administration finally delivers one significant blow: new sanctions on **Rosneft and Lukoil**, Russia’s two largest oil producers – the first major new Russia sanctions of Trump’s second term. It proves the White House can hurt the Kremlin when it chooses to.
+
+**November–December: The Coercive Peace Phase**
+- The **National Security Strategy** explicitly prioritizes "strategic stability with Russia" and praises "patriotic European parties" skeptical of Ukraine aid.
+- Washington rolls out a U.S. "peace plan" heavily based on a Russian draft that:
+  - Recognizes or freezes in place Russian control over large swathes of Ukrainian territory, including all of Crimea, Luhansk, Donetsk, and current front lines in Kherson and Zaporizhzhia.
+  - Caps Ukraine's army, bans NATO membership and permanent NATO bases, and promises Russia staged sanctions relief, reintegration, and a path back to the G7/G8.
+  - Uses frozen Russian assets so that only a fraction is directed to Ukraine, while much of Moscow's money is ultimately unfrozen or put into U.S.–Russian investment vehicles, with U.S. investors taking a large profit share.
+- The U.S. actively **lobbies EU countries to block using €210B in frozen Russian assets for Ukraine** (Dec 5), arguing assets should be preserved for the peace deal.
+- The plan is paired with an ultimatum: accept within days or risk losing U.S. weapons and intelligence. Ukraine is forced to choose between "losing dignity or losing a major partner."
+- When Kyiv and key European allies resist, the administration doesn't escalate pressure on Moscow; instead, it:
+  - Quietly **suspends some weapons deliveries** to Ukraine.
+  - **Closes a direct 24/7 channel** between German generals and the Pentagon, forcing communication through a single embassy contact.
+  - Sends envoy Steve Witkoff and Jared Kushner back to the Kremlin for a multi-hour session treating the U.S. draft as the starting point, even as Putin refuses to budge on maximalist demands.
+- European leaders warn Zelenskyy in a leaked call (Dec 1) that the U.S. may "betray" Ukraine and that they "cannot leave Volodymyr alone with these guys."
+- Suspected Russian hybrid attacks continue: drones near Zelenskyy's plane in Dublin (Dec 1), drones over France's nuclear submarine base (Dec 4).
 
 ### **The Meetings That Mattered:**
-- **Saudi Arabia:** U.S.-Russia talks without Ukraine
-- **White House:** Zelenskyy publicly humiliated and expelled
-- **Moscow:** Witkoff praises Putin as "super smart, not a bad guy"
-- **Alaska:** Putin welcomed on American soil with zero preconditions
+
+- **Saudi Arabia:** U.S.-Russia talks without Ukraine, breaking the principle of "nothing about Ukraine without Ukraine."
+- **White House:** Zelenskyy publicly humiliated, scolded over "World War III," and sent home without a deal.
+- **Munich Security Conference (Feb):** Vance meets AfD leader Weidel, criticizes German democracy for excluding far-right parties.
+- **Moscow (spring):** Witkoff praises Putin as "super smart, not a bad guy," signalling where the emotional weight of the diplomacy lies.
+- **Alaska (summer):** Putin welcomed on American soil with zero preconditions and talk of "territorial swaps," before any serious economic pain is applied.
+- **Geneva and later meetings (late fall):** U.S. and Ukrainian negotiators tweak the plan's language but leave its core architecture – territorial concessions, military limits, and NATO renunciation – intact.
+- **Kremlin (Dec 2):** Witkoff and Kushner sit with Putin for hours; Moscow insists that only the original, more pro-Russian U.S. plan is acceptable, while Putin threatens he is "ready" for war with Europe if his terms are not met.
+
+### **The European Dimension:**
+
+The NSS explicitly calls for "cultivating resistance to Europe's current trajectory" and praises "patriotic European parties." Administration actions make clear which parties this means:
+
+- **AfD (Germany):** Vance met leader Weidel, criticized German efforts to exclude far-right; Musk endorsed party under intelligence surveillance for extremism.
+- **National Rally (France):** Trump called Le Pen's conviction a "witch hunt"; Vance warned of "stressed" relations if Europe prosecutes far-right leaders.
+- **Reform UK:** Musk endorsed, considered $100M donation to Farage.
+
+These parties share skepticism of NATO, Ukraine aid, and European integration – positions aligned with Russian interests.
 
 ### **The Threats That Weren't:**
-While Trump posted increasingly desperate messages ("Vladimir, STOP!" "Putin has gone CRAZY!"), he systematically:
-- Threatened 100% tariffs on Russian oil buyers → **Never implemented**
-- Promised banking restrictions → **Never enacted**
-- Set multiple "final" deadlines → **All passed without action**
-- Warned of secondary sanctions → **Only hit India, after summit**
 
-### **The Strategic Surrender:**
-By scheduling the Alaska summit for August 15—before any threatened measures could take effect—Trump handed Putin his greatest diplomatic victory since the invasion began. Putin arrives knowing:
-- The U.S. has already endorsed territorial swaps
-- Ukraine's military intelligence is compromised
-- American cyber operations against Russia are suspended
-- Five sanctions waivers are active
-- Every U.S. threat has proven hollow
+While Trump repeatedly warned of "really bad things" for Russia – 100% tariffs on oil buyers, sweeping banking sanctions, nuclear posturing – his actual negotiating document:
+
+- Lets Russia keep all the territory it currently holds (and more, through land swaps).
+- Imposes no meaningful reparations or binding war-crimes accountability.
+- Offers Russia sanctions relief, economic reintegration, and G7/G8 return in exchange for signing – not for reversing aggression.
+- **Protects frozen Russian assets** by lobbying the EU not to use them for Ukraine.
+
+In practice, nearly every major threat either fizzles, is walked back, or is transformed into leverage against Ukraine instead of leverage against Russia.
+
+### **The Strategic Surrender (Two Acts):**
+
+**Act I – Up to the Alaska Summit:**  
+Before any serious new costs are imposed on Moscow, Trump meets Putin on U.S. soil, signaling that re-legitimizing the Russian leader is a higher priority than enforcing consequences.
+
+**Act II – The Coercive Peace:**
+After Alaska, the core innovation is not new pressure on Russia but a new way to squeeze Kyiv:
+- A U.S.-drafted framework that encodes Russian red lines on territory, neutrality, and Ukraine's force posture.
+- U.S. weapons and intelligence turned into bargaining chips to force Ukrainian concessions.
+- European allies sidelined, then left to fund the bulk of Ukraine's defense through PURL and national packages.
+- Coordination with Germany, the central logistics hub for Western aid, deliberately downgraded at a critical moment.
+- Active U.S. lobbying against European plans to use frozen Russian assets for Ukraine.
+- NSS explicitly prioritizing "strategic stability with Russia" and supporting European parties opposed to Ukraine aid.
+
+The net effect is to move the United States from Ukraine's indispensable backer to Russia's indispensable intermediary: the one actor capable of pressuring Kyiv to accept what Moscow wants.
 
 ### **The Historical Parallel:**
-This isn't just diplomatic weakness—it's active enablement. Where Churchill warned against feeding the crocodile hoping to be eaten last, Trump appears to be seasoning himself. The administration didn't merely fail to confront Russian aggression; it systematically removed every obstacle in Putin's path while undermining America's own ally.
 
-**The Bottom Line:** In 204 days, through 31 concrete actions favoring Russia against 2.5 favoring America, the Trump administration transformed the United States from Ukraine's essential defender into Russia's de facto ally. The Alaska summit isn't a negotiation—it's a surrender ceremony, and Trump is bringing the white flag.
+This is not just diplomatic weakness – it is a pattern of active enablement punctuated by a single major sanction that proves the exception, not the rule.
+
+Where Churchill warned against feeding the crocodile in hopes of being eaten last, the Trump plan effectively debates which parts of another country the crocodile gets to keep. The administration does not merely fail to confront Russian aggression; it systematically clears obstacles from Putin’s path while pressuring Ukraine and its allies to live with the new map.
+
+**The Bottom Line:** In 321 days, through **42** concrete actions favoring Russia against **4.5** favoring America/Ukraine, the Trump administration has transformed the United States from Ukraine's essential defender into the main architect of a coerced peace that locks in Russian gains. The Alaska summit was not the end of that process but the midpoint; by December 6, the White House is no longer just bringing the white flag – it is actively lobbying Europe not to fund Ukraine's resistance while supporting political parties that share Russia's vision for a divided, weakened continent.
 
