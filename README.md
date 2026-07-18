@@ -87,7 +87,7 @@ This report will use an **evidence-based approach**, leveraging **public records
    - **Coincidence vs. Intentional Influence**  
      - Are policy decisions just **aligned by chance** or clear evidence of manipulation?  
    - **Legitimate Diplomacy vs. Foreign Subservience**  
-     - Where is the line between normal diplomatic engagement and undue foreign influence?  
+     - Where is the line between normal diplomatic engagement and undue influence?  
    - **Domestic vs. Foreign Power Struggles**  
      - Could the allegations be politically motivated attacks?  
 
@@ -115,4 +115,17 @@ This report will use an **evidence-based approach**, leveraging **public records
 ### **Why This Outline Works**
 - **Balanced & Objective**: It allows both **accusations and counterarguments** to be considered.  
 - **Evidence-Based**: Ensures that findings are **rooted in verifiable data**, avoiding conspiracy-driven assumptions.  
-- **Actionable Insights**: Instead of just theorizing, it suggests **concrete ways to address foreign influence in politics**.  
+- **Actionable Insights**: Instead of just theorizing, it suggests **concrete ways to address foreign influence in politics**.
+
+---
+
+## Chapter 1 Expansion Research
+
+The Chapter 1 expansion treats the existing findings as the verified baseline and develops the unexplained exception pattern around Ivana Zelníčková’s sporting identity, controlled mobility, marriages and status changes, StB family access, FBI counterintelligence inquiry, and role as Donald Trump’s original bridge into the Soviet-bloc world.
+
+- [Chapter 1: Ivana Trump and the Original Eastern Bloc Bridge](Tmanch_CH1.md)
+- [Expanded Chapter 1 supporting research](Tmanch_CH1_support.md)
+- [Chapter 1 claim ledger](Tmanch_CH1_claim_ledger.csv)
+- [Chapter 1 primary-source inventory](Tmanch_CH1_primary_sources.md)
+- [Chapter 1 hypothesis tests and counterevidence](Tmanch_CH1_counterevidence.md)
+- [Chapter 1 open questions and records plan](Tmanch_CH1_open_questions.md)
