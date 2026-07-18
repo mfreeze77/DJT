@@ -115,4 +115,18 @@ This report will use an **evidence-based approach**, leveraging **public records
 ### **Why This Outline Works**
 - **Balanced & Objective**: It allows both **accusations and counterarguments** to be considered.  
 - **Evidence-Based**: Ensures that findings are **rooted in verifiable data**, avoiding conspiracy-driven assumptions.  
-- **Actionable Insights**: Instead of just theorizing, it suggests **concrete ways to address foreign influence in politics**.  
+- **Actionable Insights**: Instead of just theorizing, it suggests **concrete ways to address foreign influence in politics**.
+
+---
+
+## **Primary-Record Research Tranches**
+
+The following supplements convert the late-1970s and early-1980s research into court-record, property-record, FOIA, FOIL, and OPRA acquisition plans. They distinguish allegations from findings and require transaction-level identifiers before treating separate networks as connected.
+
+- **[Primary-record and FOIA index](./Tmanch_FOIA_Index.md)** — filing order, evidence controls, common request language, fee-waiver language, appeals, and production workflow.
+- **[1977–1983 Manhattan tranche](./Tmanch_Fin_77-83_FOIA_Tranche.md)** — Grand Hyatt, Trump Tower, S&A Concrete, Local 282, John Cody, property records, and an event-centered FBI request.
+- **[1983–1986 Atlantic City and aviation tranche](./Tmanch_Fin_83-86_FOIA_Tranche.md)** — S&G Associates, Daniel Sullivan, Kenneth Shapiro, DGE/CCC records, Joseph Weichselbaum, and Damin Aviation.
+- **[1979–1985 Cuba-route tranche](./Tmanch_FOIA_Cuba_79-85.md)** — United States v. Jaime Guillot-Lara et al., No. 82-643 Cr-JE, precise names and assets, agency request drafts, and cross-match methodology.
+- **[FOIA and public-record request tracker](./Tmanch_FOIA_Request_Tracker.csv)** — planned submissions, prerequisites, status, response estimates, appeal deadlines, and production locations.
+
+**Current evidentiary boundary:** the public record provides a strong basis for targeted research, but these materials do not presently establish that proceeds from the Guillot-Lara route or another Cuba-linked narcotics operation entered a Trump property. The requests are designed to test that proposition and to document negative findings as carefully as positive ones.
