@@ -228,7 +228,7 @@ This domestic network demonstrates a pattern of business behavior relevant to la
 
 In 1984, Soviet émigré David Bogatin acquired five Trump Tower condominiums for nearly **$6 million**. Contemporary legal and press records later connected Bogatin to a large gasoline-tax-evasion operation.
 
-A 1992 *Washington Post* report, relying on New York law-enforcement records, noted that Bogatin had pleaded guilty in 1987 to filing false tax returns in a multimillion-dollar gasoline scheme and had purchased the Trump Tower units after only several years in the United States. See [“U.S. Seeks Extradition of Soviet Emigre”](https://www.washingtonpost.com/archive/politics/1992/01/27/us-seeks-extradition-of-soviet-emigre/).
+A 1992 *Washington Post* report, relying on New York law-enforcement records, noted that Bogatin had pleaded guilty in 1987 to filing false tax returns in a multimillion-dollar gasoline scheme and had purchased the Trump Tower units after only several years in the United States. See [“New Polish Bank Scandal Involves U.S. Tax Felon”](https://www.washingtonpost.com/archive/politics/1992/01/27/new-polish-bank-scandal-involves-us-tax-felon/d673ff42-7981-4df5-9ebf-e19c7612adb2/).
 
 The units were later seized, and reporting on the forfeiture describes authorities as treating them as assets used to launder or conceal proceeds. The precise forfeiture order and complete property schedules remain priority records.
 
