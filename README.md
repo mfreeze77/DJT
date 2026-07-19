@@ -129,3 +129,16 @@ The Chapter 1 expansion treats the existing findings as the verified baseline an
 - [Chapter 1 primary-source inventory](Tmanch_CH1_primary_sources.md)
 - [Chapter 1 hypothesis tests and counterevidence](Tmanch_CH1_counterevidence.md)
 - [Chapter 1 open questions and records plan](Tmanch_CH1_open_questions.md)
+
+---
+
+## Chapter 2 Expansion Research
+
+The Chapter 2 expansion follows the Chapter 1 access chain into direct Soviet cultivation and then separates the distinct intelligence, political, organized-crime, property, aviation, narcotics, casino-compliance, and financial-vulnerability mechanisms that converged around Trump between 1977 and 1990.
+
+- [Chapter 2: From Eastern Bloc Access to Soviet Cultivation and Networked Vulnerability](Tmanch_CH2.md)
+- [Expanded Chapter 2 supporting research](Tmanch_CH2_support.md)
+- [Chapter 2 claim ledger](Tmanch_CH2_claim_ledger.csv)
+- [Chapter 2 primary-source inventory](Tmanch_CH2_primary_sources.md)
+- [Chapter 2 hypothesis tests and counterevidence](Tmanch_CH2_counterevidence.md)
+- [Chapter 2 open questions and records plan](Tmanch_CH2_open_questions.md)
