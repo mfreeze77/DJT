@@ -155,3 +155,16 @@ The Chapter 3 expansion reconstructs Trump’s 1990s recovery as a staged capita
 - [Chapter 3 primary-source inventory](Tmanch_CH3_primary_sources.md)
 - [Chapter 3 hypothesis tests and counterevidence](Tmanch_CH3_counterevidence.md)
 - [Chapter 3 open questions and records plan](Tmanch_CH3_open_questions.md)
+
+---
+
+## Chapter 4 Expansion Research
+
+The Chapter 4 expansion follows the recovery model into an international brand-and-access platform. It reconstructs Bayrock ownership and capital, Sater’s criminal/cooperation dual history, Trump SoHo presale and sales mechanics, FL Group’s $50 million investment, Deutsche Bank’s separate credit and Russian-AML systems, foreign-buyer liquidity, indirect state-linked pathways, and the Agalarov commercial relationship that became a durable political-access channel.
+
+- [Chapter 4: From Brand Licensing to a Post-Soviet Capital Platform](Tmanch_CH4.md)
+- [Expanded Chapter 4 supporting research](Tmanch_CH4_support.md)
+- [Chapter 4 claim ledger](Tmanch_CH4_claim_ledger.csv)
+- [Chapter 4 primary-source inventory](Tmanch_CH4_primary_sources.md)
+- [Chapter 4 hypothesis tests and counterevidence](Tmanch_CH4_counterevidence.md)
+- [Chapter 4 open questions and records plan](Tmanch_CH4_open_questions.md)
