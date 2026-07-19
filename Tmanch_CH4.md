@@ -1,232 +1,511 @@
-# Chapter 4: Trump's Deepening Russian Entanglements (2001-2014)
+# Chapter 4: From Brand Licensing to a Post-Soviet Capital Platform (2001–2014)
 
-The period from 2001 to 2014 represents a critical phase in Donald Trump's business evolution and his connections to Russia. Following his financial difficulties in the 1990s, Trump rebuilt his empire with a new business model that increasingly relied on foreign capital—particularly from Russia and the former Soviet states. This chapter examines how Russian money and relationships became progressively more important to Trump's business operations during this period, creating financial entanglements that would later raise significant national security concerns.
+## Bayrock, Trump SoHo, Deutsche Bank, foreign buyers, global licensing, and the 2013 Moscow bridge
 
-During these years, several key developments shaped Trump's Russian connections: his partnership with Bayrock Group (led by Soviet-born businessmen), his unusual relationship with Deutsche Bank (later implicated in Russian money laundering), the influx of Russian buyers into Trump-branded properties, and his 2013 Miss Universe pageant in Moscow. By 2014, as Trump prepared to enter politics, he had established a complex network of business ties to Russia that far exceeded those of typical American real estate developers. These connections would later become the subject of intense scrutiny by intelligence agencies, investigators, and the media.
+## Introduction
 
-This chapter traces the evolution of Trump's Russian entanglements chronologically, examining how his business practices and public statements about Russia developed over time, and analyzing the implications of these relationships for his later political career.
+Chapter 3 showed how Donald Trump’s 1990s recovery changed the way his business obtained capital. Banks, bondholders, foreign trophy-asset buyers, public investors, joint-venture partners, construction lenders, presale purchasers, and private-credit intermediaries supplied most of the money and risk. Trump increasingly supplied a name, sales platform, management role, minority interest, personal guarantee, and access to publicity.
 
-## Trump's Financial Recovery and New Russian Connections (2001-2005)
+Between 2001 and 2014, that model became an international business system. Trump-branded projects could be launched without Trump supplying most of the development capital. A local or foreign partner acquired land, organized debt, created project entities, hired contractors, and found buyers. The Trump Organization licensed the name, participated in sales and design, managed the hotel or property, and sometimes received equity, fees, or a share of revenue.
 
-### Trump's Business Model Evolution
+That structure was commercially powerful and unusually compatible with wealth moving out of the former Soviet Union:
 
-By the early 2000s, Donald Trump had begun to rebuild his business empire following the financial crises of the 1990s. Having learned from his earlier overextension, Trump shifted toward a less capital-intensive business model. Rather than developing properties directly, he increasingly focused on licensing his name to other developers and taking a fee or percentage ([Tevfik Arif | Committee to Investigate Russia](https://investigaterussia.org/players/tevfik-arif#:~:text=Tevrik%20Arif%20hired%20Felix%20Sater%2C,expand%20his%20portfolio%20through%20them)). This approach reduced Trump's financial exposure while allowing him to continue expanding his brand globally.
+- developers from post-Soviet states wanted a globally recognizable Western brand;
+- buyers wanted prestigious U.S. or European assets;
+- intermediaries could supply introductions, private credit, offshore entities, and high-net-worth customers;
+- single-purpose companies separated each project from the larger network;
+- preconstruction sales and foreign demand could help validate a project before completion;
+- licensing permitted Trump to earn money even when a project failed; and
+- the division between owner, developer, manager, licensor, broker, lender, and purchaser could make responsibility and beneficial ownership difficult to reconstruct.
 
-However, Trump still faced significant challenges in securing traditional financing. His history of bankruptcies and defaults had made most major U.S. banks wary of lending to him ([How Russian Money Helped Save Trump's Business – Foreign Policy](https://foreignpolicy.com/2018/12/21/how-russian-money-helped-save-trumps-business/#:~:text=with%20him,financial%20industry%20at%20that%20juncture)). This financing gap created an opportunity for alternative sources of capital—particularly from Russia and the former Soviet states, where newly wealthy individuals were eager to move money into Western real estate.
+This chapter treats the user’s “six degrees of separation” approach as a disciplined research method. Recurring people, companies, lenders, lawyers, buyers, brokers, title agents, and political contacts are leads. They become evidence of reciprocity only when documents show a corresponding transaction, benefit, instruction, side agreement, or source of funds.
 
-### The Bayrock Connection Begins
+The central finding is:
 
-In 2003, Trump's business trajectory was significantly altered when he was introduced to **Bayrock Group**, a real estate development firm that would become one of his closest partners. Bayrock had been founded in 2001 by **Tevfik Arif**, a Kazakh-born former Soviet commerce official who had built businesses in Turkey and Central Asia after the USSR's collapse ([Tevfik Arif | Committee to Investigate Russia](https://investigaterussia.org/players/tevfik-arif#:~:text=Tevfik%20Arif%20was%20born%20to,Ministry%20of%20Commerce%20and%20Trade)) ([Tevfik Arif | Committee to Investigate Russia](https://investigaterussia.org/players/tevfik-arif#:~:text=With%20the%20break%20up%20of,his%20firm%20the%20Bayrock%20Group)). Notably, Bayrock established its offices on the 24th floor of Trump Tower—just two floors below Trump's own office ([Felix Sater | Committee to Investigate Russia](https://investigaterussia.org/players/felix-sater#:~:text=Felix%20Sater%20is%20a%20Russian,Russian%20and%20American%20organized%20crime)) ([Felix Sater | Committee to Investigate Russia](https://investigaterussia.org/players/felix-sater#:~:text=firm%20with%20an%20office%20two,Russian%20and%20American%20organized%20crime)).
+> **From 2001 through 2014, Trump’s business evolved from a recovered real-estate operation into a brand-and-access platform that repeatedly paired the Trump name with outside debt, opaque project entities, foreign developers, international buyers, politically exposed partners, and post-Soviet intermediaries. The public record demonstrates a system hospitable to opaque capital and recurring high-risk relationships. It does not yet establish that the system was centrally directed by the Kremlin or that Trump knew the criminal provenance of every partner’s or buyer’s funds.**
 
-Arif had hired **Felix Sater** as Bayrock's managing director ([Tevfik Arif | Committee to Investigate Russia](https://investigaterussia.org/players/tevfik-arif#:~:text=his%20firm%20the%20Bayrock%20Group)) ([Tevfik Arif | Committee to Investigate Russia](https://investigaterussia.org/players/tevfik-arif#:~:text=Tevrik%20Arif%20hired%20Felix%20Sater%2C,expand%20his%20portfolio%20through%20them)). Sater, a Soviet-born U.S. citizen, had a checkered past: in 1998, he had pleaded guilty to a $40 million stock fraud scheme linked to organized crime and had reportedly become an FBI informant ([Trump Org. to Cut Ties With Trump SoHo Developed With Sater, Bayrock - Business Insider](https://www.businessinsider.com/trump-org-to-cut-ties-with-trump-soho-developed-with-sater-bayrock-2017-11#:~:text=Trump%20worked%20with%C2%A0Bayrock%20on%20at,scheme%20involving%20four%20Mafia%20families)). It was Sater who introduced Bayrock to Trump in 2003, pitching him on licensing his name to Bayrock's development projects ([Tevfik Arif | Committee to Investigate Russia](https://investigaterussia.org/players/tevfik-arif#:~:text=Tevrik%20Arif%20hired%20Felix%20Sater%2C,expand%20his%20portfolio%20through%20them)).
+---
 
-Trump, impressed by Arif's international contacts, agreed to partner with Bayrock. They struck a deal whereby **Trump would license his brand and sometimes take an equity stake in Bayrock-led projects**, while Bayrock and its partners would provide the financing and development work ([Tevfik Arif | Committee to Investigate Russia](https://investigaterussia.org/players/tevfik-arif#:~:text=Tevrik%20Arif%20hired%20Felix%20Sater%2C,expand%20his%20portfolio%20through%20them)) ([Tevfik Arif | Committee to Investigate Russia](https://investigaterussia.org/players/tevfik-arif#:~:text=in%20Florida%2C%20Arizona%2C%20and%20New,expand%20his%20portfolio%20through%20them)). This arrangement would prove highly beneficial to Trump, allowing him to expand his brand with minimal personal capital at risk.
+# 1. Bayrock transformed the Chapter 3 network into a development platform
 
-### Early Russian Buyers and Market Interest
+## 1.1 Tevfik Arif and the Trump Tower location
 
-Even before the Bayrock partnership fully developed, Trump properties had begun attracting Russian buyers. Following the pattern established in the late 1990s (as detailed in Chapter 3), wealthy Russians continued to purchase condos in Trump-branded buildings in New York and Florida. Real estate broker **Dolly Lenz** later revealed that she had sold dozens of units in Manhattan's Trump World Tower to Russian clients in the early 2000s, noting that *"If you didn't target the Russian billionaires, then you shouldn't be in the business"* ([A Timeline of Trump's Deals and Investments in Eastern Europe and Central Asia - The Moscow Project](https://themoscowproject.org/explainers/a-timeline-of-trumps-deals-and-investments-in-eastern-europe-and-central-asia/index.html#:~:text=trademark%20his%20name%20in%20Russia,%E2%80%9D)).
+Tevfik Arif, a Kazakh-born former Soviet commerce official, founded Bayrock Group in New York in 2001. Bayrock established offices on the 24th floor of Trump Tower, placing the company physically inside Trump’s headquarters and close to the Trump Organization’s executives.
 
-Among these purchasers was **Roman Abramovich's family**—Abramovich's wife Dasha Zhukova reportedly bought a condo in Trump World Tower around 2003. This influx of Russian buyers provided Trump with much-needed liquidity as he rebuilt his business empire.
+Bayrock was not one simple operating company. Federal litigation describes a set of commonly controlled but separately owned limited-liability companies connected to individual projects. Among the relevant entities were:
 
-### Trump's Initial Russian Market Explorations
+- Bayrock Spring Street, associated with Trump SoHo;
+- Bayrock Merrimac, associated with Fort Lauderdale;
+- Bayrock Camelback, associated with the Phoenix proposal;
+- Bayrock Whitestone;
+- Bayrock Ocean Club; and
+- upper-tier Bayrock entities that held interests in the project companies.
 
-During this early period, Trump began to express interest in the Russian market itself. In 2005, the Trump Organization signed a one-year deal with Bayrock Group to locate a Moscow site for a Trump Tower ([Trump Tower Moscow - Wikipedia](https://en.wikipedia.org/wiki/Trump_Tower_Moscow#:~:text=Trump%27s%20interest%20in%20a%20Moscow,11)). Felix Sater—Bayrock's managing director—scouted a potential site and even planned to brand the spa "The Spa by Ivanka Trump" ([Trump Tower Moscow - Wikipedia](https://en.wikipedia.org/wiki/Trump_Tower_Moscow#:~:text=Trump%27s%20interest%20in%20a%20Moscow,11)). This 2005–06 project did not materialize ([Trump Tower Moscow - Wikipedia](https://en.wikipedia.org/wiki/Trump_Tower_Moscow#:~:text=branded%20,11)), but it marked the beginning of Trump's renewed efforts to establish a presence in Russia.
+This structure matters because money, ownership, debt, tax treatment, and liability could differ at each tier. A statement that “Bayrock invested” or “Trump partnered with Bayrock” may conceal several separate agreements among several separate entities.
 
-Trump's children also began playing key roles in exploring Russian opportunities. Donald Trump Jr. later recounted that he and Ivanka traveled to Moscow "many times" in the mid-2000s seeking deals, including scouting a Moscow golf resort in 2006 ([Trump's Moscow Tower Problem | Trump, Inc. | WNYC Studios](https://www.wnycstudios.org/podcasts/trumpinc/episodes/trump-inc-trump-moscow-tower-problem#:~:text=DONALD%20TRUMP%20JR,changed%20in%202005%2C%202006%2C%202007)) ([Trump's Moscow Tower Problem | Trump, Inc. | WNYC Studios](https://www.wnycstudios.org/podcasts/trumpinc/episodes/trump-inc-trump-moscow-tower-problem#:~:text=DON%20JR,at%20a%20potential%20golf%20development)). During a 2006 trip, Sater even arranged a tour of the Kremlin for Ivanka, boasting he got her to sit in Vladimir Putin's private office chair ([Felix Sater: 'I Arranged for Ivanka to Sit in Putins Private Chair' - Business Insider](https://www.businessinsider.com/ivanka-trump-putin-chair-felix-sater-russia-2017-8#:~:text=The%20first%20line%20of%20the,took%20in%202006)).
+Source: [Kriss v. BayRock Group LLC, SDNY Document 439](https://law.justia.com/cases/federal/district-courts/new-york/nysdce/1%3A2010cv03959/362805/439/).
 
-By 2005, Trump had established a clear pattern: he was actively courting Russian buyers for his U.S. properties while simultaneously exploring opportunities to develop Trump-branded projects in Russia itself. This dual approach would characterize his Russian business strategy throughout the period covered in this chapter.
+## 1.2 Felix Sater’s dual status
 
-## The Bayrock Years and Trump SoHo (2005-2010)
+Felix Sater became one of Bayrock’s principal dealmakers. His history cannot be reduced to either “mobster” or “informant.” Both parts are material.
 
-### The Trump-Bayrock Partnership
+The Second Circuit records that:
 
-The partnership between Trump and Bayrock Group expanded significantly between 2005 and 2010, resulting in several high-profile projects. Throughout this period, Trump worked with Bayrock on at least **four projects** ([Trump Org. to Cut Ties With Trump SoHo Developed With Sater, Bayrock - Business Insider](https://www.businessinsider.com/trump-org-to-cut-ties-with-trump-soho-developed-with-sater-bayrock-2017-11#:~:text=with%20nearly%20a%20decade%20ago,develop%20the%20troubled%20hotel%3A%20Bayrock)):
+- Sater pleaded guilty in 1998 to participating in a racketeering enterprise involving a pump-and-dump securities-fraud scheme and La Cosa Nostra organized-crime families;
+- he then cooperated secretly with the federal government for more than a decade;
+- his cooperation supplied valuable foreign intelligence and information concerning dangerous criminals; and
+- the cooperation remained sealed until an accidental disclosure in 2012.
 
-1. **Trump SoHo (New York City)**: A 46-story condo-hotel in Manhattan announced in 2006. Bayrock and the Sapir Organization (headed by Soviet-born billionaire Tamir Sapir) developed it, with Trump receiving 18% equity and management fees ([Tevfik Arif | Committee to Investigate Russia](https://investigaterussia.org/players/tevfik-arif#:~:text=Their%20most%20high%20profile%20project,share)). Trump's children Ivanka and Don Jr. were closely involved in this project ([A Timeline of Trump's Deals and Investments in Eastern Europe and Central Asia - The Moscow Project](https://themoscowproject.org/explainers/a-timeline-of-trumps-deals-and-investments-in-eastern-europe-and-central-asia/index.html#:~:text=filed%20in%20Florida.%20,In%202011%2C%20Roger%20Khafif%E2%80%99s)).
+Source: [Oberlander v. United States / In re Grand Jury Proceeding, Second Circuit](https://law.justia.com/cases/federal/appellate-courts/ca2/18-3485/18-3485-2020-06-03.html).
 
-2. **Trump International Hotel & Tower Fort Lauderdale**: A planned Florida condo-hotel. Construction began in 2005 but the project failed by 2009, ending in foreclosure (Trump had licensed his name; Bayrock was a developer partner).
+This dual status created several investigable possibilities:
 
-3. **Trump International Hotel & Tower Phoenix (Scottsdale)**: A proposed hotel/condo in Arizona that never proceeded past initial stages (Bayrock had acquired land options).
+1. Sater could provide Bayrock with access to post-Soviet business and criminal networks.
+2. He could also provide U.S. law enforcement with information about those networks.
+3. Counterparties might know only one side of his role.
+4. His sealed cooperation could affect due diligence, disclosure, prosecution, and civil litigation.
+5. Trump’s later statements minimizing the relationship should be compared with contracts, calendars, phone records, business cards, office-access records, deposition testimony, and project documents.
 
-4. **Trump Tower Moscow**: Bayrock and Sater also pitched Trump on a Moscow development around 2005–07, separate from the later Agalarov effort. In 2007, Sater lined up investors and a letter of intent for a Moscow Trump project – Trump even mentioned this deal in a deposition, though it fell through ([A Timeline of Trump's Deals and Investments in Eastern Europe and Central Asia - The Moscow Project](https://themoscowproject.org/explainers/a-timeline-of-trumps-deals-and-investments-in-eastern-europe-and-central-asia/index.html#:~:text=company%20defaults%20on%20its%20debt,files%20for%20trademark%20application%20in)).
+No public record presently establishes that the FBI or another agency directed Sater’s Bayrock work or his relationship with Trump. The fact of cooperation does not transform every Sater transaction into a government operation.
 
-The business structure of these deals was consistent: Bayrock would create single-purpose entities for each project and attract outside investors, while Trump would contribute his brand name and sometimes take an equity stake without investing significant capital. This arrangement allowed Trump to expand his brand with minimal financial risk.
+## 1.3 The Trump contribution
 
-### Bayrock's Russian and Post-Soviet Connections
+The Bayrock partnership fit the recovery-era model. Bayrock and project partners generally supplied development organization, land, debt, and investor capital. Trump supplied some combination of:
 
-From its inception, Bayrock was deeply intertwined with Soviet/post-Soviet networks. Tevfik Arif's background as a Soviet commerce official and his business connections across Central Asia and Russia provided Bayrock with access to investors and partners from the former Soviet Union ([Tevfik Arif | Committee to Investigate Russia](https://investigaterussia.org/players/tevfik-arif#:~:text=Tevfik%20Arif%20was%20born%20to,Ministry%20of%20Commerce%20and%20Trade)) ([Tevfik Arif | Committee to Investigate Russia](https://investigaterussia.org/players/tevfik-arif#:~:text=With%20the%20break%20up%20of,his%20firm%20the%20Bayrock%20Group)).
+- the Trump name;
+- sales appearances and publicity;
+- hotel management;
+- design and branding participation;
+- access to the Trump family and headquarters;
+- a minority equity or profit interest; and
+- credibility with prospective buyers and lenders.
 
-Felix Sater's connections to Russia were even more concerning. Sater's father had reportedly worked for **Semion Mogilevich**, a notorious Russian mob boss ([A Timeline of Trump's Deals and Investments in Eastern Europe and Central Asia - The Moscow Project](https://themoscowproject.org/explainers/a-timeline-of-trumps-deals-and-investments-in-eastern-europe-and-central-asia/index.html#:~:text=largest%20gasoline%20bootlegging%20operations%20in,Russian%20mob%20boss%20Semion%20Mogilevich)). Emails later revealed that Sater maintained extensive connections in Moscow; in 2015 he would boast, *"I can get Putin on this program"* regarding a Trump Tower Moscow deal ([How Russian Money Helped Save Trump's Business – Foreign Policy](https://foreignpolicy.com/2018/12/21/how-russian-money-helped-save-trumps-business/#:~:text=were%20exaggerating%20their%20relations%20with,%E2%80%9D)).
+The structure let Trump participate in several projects while committing far less capital than a conventional principal developer. It also allowed the Trump Organization to distinguish itself from the project sponsor or developer when litigation or foreclosure followed.
 
-Bayrock actively sought capital from wealthy ex-Soviet individuals. In 2007, Bayrock secured a **$50 million investment from an Icelandic firm called FL Group** ([Tevfik Arif | Committee to Investigate Russia](https://investigaterussia.org/players/tevfik-arif#:~:text=In%202007%2C%20Bayrock%20secured%20%2450,all%20signed%20paperwork%20indicating)). According to later court filings, FL Group was **"preferred by wealthy Russians 'in favor with' President Putin"**, implying that some of the funds Bayrock put into Trump developments (like Trump SoHo) came from oligarch-connected sources ([Tevfik Arif | Committee to Investigate Russia](https://investigaterussia.org/players/tevfik-arif#:~:text=In%202007%2C%20Bayrock%20secured%20%2450,all%20signed%20paperwork%20indicating)).
+---
 
-### Trump SoHo: Development, Marketing, and Legal Issues
+# 2. Trump SoHo: debt, foreign investment, presales, and sales representations
 
-**Trump SoHo** was the signature Trump-Bayrock collaboration and encapsulates the nature of their partnership. Announced in 2006 with great fanfare (Trump and his children appeared with Arif and Sater to launch it ([A Timeline of Trump's Deals and Investments in Eastern Europe and Central Asia - The Moscow Project](https://themoscowproject.org/explainers/a-timeline-of-trumps-deals-and-investments-in-eastern-europe-and-central-asia/index.html#:~:text=filed%20in%20Florida.%20,In%202011%2C%20Roger%20Khafif%E2%80%99s))), the project opened in 2010.
+## 2.1 The project structure
 
-From the beginning, Trump SoHo was marketed heavily to Russian buyers. One marketing agent said *"As the past few years show, the best property buyers now are Russian"* ([A Timeline of Trump's Deals and Investments in Eastern Europe and Central Asia - The Moscow Project](https://themoscowproject.org/explainers/a-timeline-of-trumps-deals-and-investments-in-eastern-europe-and-central-asia/index.html#:~:text=%E2%80%9CAs%20the%20experience%20of%20the,%E2%80%9D)) during the sales push. Inside Trump SoHo, sales agents like **Igor Bogomolny** aggressively targeted Russian investors ([A Timeline of Trump's Deals and Investments in Eastern Europe and Central Asia - The Moscow Project](https://themoscowproject.org/explainers/a-timeline-of-trumps-deals-and-investments-in-eastern-europe-and-central-asia/index.html#:~:text=,the%20units%20to%20Russian%20consumers)).
+Trump SoHo was a 46-story, 391-unit hotel-condominium at 246 Spring Street. Bayrock and the Sapir Organization were the principal development partners. The Trump Organization licensed the name, participated in marketing and management, and held an economic interest.
 
-By 2011, the project faced serious legal issues. Buyers who had been promised robust sales figures sued, alleging that the Trumps and Bayrock **misled them about the condo sell-through rates**. The Manhattan District Attorney investigated claims that Ivanka and Don Jr. gave false information to buyers; ultimately the case was settled without criminal charges, with buyers receiving partial refunds ([Trump Org. to Cut Ties With Trump SoHo Developed With Sater, Bayrock - Business Insider](https://www.businessinsider.com/trump-org-to-cut-ties-with-trump-soho-developed-with-sater-bayrock-2017-11#:~:text=,campaign%20colluded%20with%20Moscow%20during)) ([Trump Org. to Cut Ties With Trump SoHo Developed With Sater, Bayrock - Business Insider](https://www.businessinsider.com/trump-org-to-cut-ties-with-trump-soho-developed-with-sater-bayrock-2017-11#:~:text=The%20Trump%20Organization%20will%20cut,and%20electoral%20victory%20in%20November)).
+The project connected several networks already identified in Chapter 3:
 
-### Legal Controversies and the Kriss Lawsuit
+- Tamir Sapir, the former Joy-Lud partner whose Soviet commodity relationships helped finance his Manhattan real-estate career;
+- Tevfik Arif and Bayrock’s post-Soviet development network;
+- Felix Sater’s dealmaking and intelligence/criminal dual history;
+- outside construction debt;
+- FL Group’s $50 million investment;
+- foreign condominium purchasers; and
+- the Trump family’s sales and management platform.
 
-The Bayrock relationship eventually led to significant legal troubles. In 2010, Bayrock's former finance director, **Jody Kriss**, filed a massive lawsuit accusing Bayrock's principals of fraud and racketeering. Kriss alleged that **Arif and Sater stole millions from him and others, laundered funds, and hid Sater's criminal record from investors and Trump** ([Trump Org. to Cut Ties With Trump SoHo Developed With Sater, Bayrock - Business Insider](https://www.businessinsider.com/trump-org-to-cut-ties-with-trump-soho-developed-with-sater-bayrock-2017-11#:~:text=A%20lawsuit%20brought%20in%202010,conspiracy%3B%20bribery%3B%20extortion%3B%20and%20embezzlement)). In a 2017 ruling, a New York judge allowed parts of Kriss's suit (including racketeering claims) to move forward ([Trump Org. to Cut Ties With Trump SoHo Developed With Sater, Bayrock - Business Insider](https://www.businessinsider.com/trump-org-to-cut-ties-with-trump-soho-developed-with-sater-bayrock-2017-11#:~:text=bribery%3B%20extortion%3B%20and%20embezzlement.)).
+The exact ownership percentages, management fees, license fees, guarantees, and capital contributions should be taken from the executed joint-venture, license, management, and operating agreements rather than repeated from summaries.
 
-Kriss's complaint painted Bayrock as a **quasi-criminal enterprise** that used Trump's projects to launder illicit money – effectively accusing Trump's partners of using his brand to legitimize dirty funds ([Trump Org. to Cut Ties With Trump SoHo Developed With Sater, Bayrock - Business Insider](https://www.businessinsider.com/trump-org-to-cut-ties-with-trump-soho-developed-with-sater-bayrock-2017-11#:~:text=fraud%20and%20money,four%20Mafia%20families)). While Trump himself was not a defendant in that case, the allegations underscore the reputational risk of his Bayrock ties.
+## 2.2 Development debt and risk allocation
 
-Tevfik Arif had his own scandal: In 2010, he was arrested in Turkey during a raid on a $60M luxury yacht (once owned by Atatürk) where authorities charged that an underage prostitution ring was operating ([Tevfik Arif | Committee to Investigate Russia](https://investigaterussia.org/players/tevfik-arif#:~:text=In%202010%2C%20Tevfik%20Arif%20was,court%20acquitted%20him%20in%202012)). Arif was one of 10 people charged with human trafficking and running prostitutes for wealthy clients (reports said several Russian businessmen and Kazakh officials were on board) ([Kazakh businessman Tevfik Arif denies sex party allegations](https://www.theguardian.com/p/2mxdj/tf#:~:text=allegations%20www,prostitution%20ring%20aboard%20the)). He spent nearly two years fighting the charges and was acquitted by a Turkish court in 2012 ([Tevfik Arif | Committee to Investigate Russia](https://investigaterussia.org/players/tevfik-arif#:~:text=In%202010%2C%20Tevfik%20Arif%20was,court%20acquitted%20him%20in%202012)).
+The Kriss litigation recites allegations that Spring Street obtained approximately $275 million in financing from iStar and that other Bayrock projects used Capmark financing. Those facts should be verified against the executed loan agreements, recorded mortgages, UCC filings, guarantees, draw schedules, completion covenants, and intercreditor agreements.
 
-Felix Sater's criminal past also re-emerged publicly in 2007 when his records were unsealed, embarrassing Trump. In depositions in 2013, Trump downplayed his relationship with Sater, famously saying, *"If [Sater] were sitting in the room right now, I really wouldn't know what he looked like,"* even though Sater had had an office in Trump Tower and met with Trump frequently ([Trump Org. to Cut Ties With Trump SoHo Developed With Sater, Bayrock - Business Insider](https://www.businessinsider.com/trump-org-to-cut-ties-with-trump-soho-developed-with-sater-bayrock-2017-11#:~:text=Trump%20worked%20with%C2%A0Bayrock%20on%20at,scheme%20involving%20four%20Mafia%20families)).
+The mechanism is clear even before every loan document is obtained:
 
-By 2010, the Bayrock relationship had become a significant liability for Trump, even as it had provided him with crucial financing and development opportunities during his business recovery.
+> A highly leveraged project could convert the Trump name and projected sales demand into lender confidence, while the principal development and construction risk remained in project entities and with outside lenders and investors.
 
-## Financial Crisis and Russian Capital (2008-2010)
+## 2.3 FL Group’s $50 million investment is established
 
-### The Rybolovlev Mansion Sale
+FL Group’s own May 22, 2007 announcement states that it invested **$50 million** alongside Bayrock in four U.S. projects:
 
-The 2008 global financial crisis created new challenges for Trump's business empire, but it also coincided with one of his most profitable and controversial transactions involving a Russian buyer. In **July 2008**, billionaire **Dmitry Rybolovlev**—a Russian fertilizer magnate—paid Trump \$95 million for a Palm Beach, FL mansion (called Maison de L'Amitié) ([A Timeline of Trump's Deals and Investments in Eastern Europe and Central Asia - The Moscow Project](https://themoscowproject.org/explainers/a-timeline-of-trumps-deals-and-investments-in-eastern-europe-and-central-asia/index.html#:~:text=travels%20to%20Russia%20at%20least,ABC%20News%2C%20Sergei%20Millian%20describes)). Trump had purchased and renovated the property only four years earlier for about \$41 million. The **2008 sale price was more than double** Trump's purchase price, netting him a hefty profit even as the U.S. real estate market was crashing ([How Russian Money Helped Save Trump's Business – Foreign Policy](https://foreignpolicy.com/2018/12/21/how-russian-money-helped-save-trumps-business/#:~:text=billionaire%20Dmitry%20Rybolovlev%20is%20also,an%20investigation%20into%20the%20sale)) ([How Russian Money Helped Save Trump's Business – Foreign Policy](https://foreignpolicy.com/2018/12/21/how-russian-money-helped-save-trumps-business/#:~:text=the%20house%20for%20such%20a,an%20investigation%20into%20the%20sale)).
+- Trump SoHo;
+- Trump Lauderdale;
+- Whitestone, Queens; and
+- Camelback in Phoenix.
 
-The timing and magnitude of this deal raised eyebrows. Senator Ron Wyden later asked the Treasury Department to review this **unusually lucrative deal for potential money-laundering** concerns ([How Russian Money Helped Save Trump's Business – Foreign Policy](https://foreignpolicy.com/2018/12/21/how-russian-money-helped-save-trumps-business/#:~:text=the%20house%20for%20such%20a,an%20investigation%20into%20the%20sale)). Special Counsel Mueller's team also reportedly examined the transaction ([How Russian Money Helped Save Trump's Business – Foreign Policy](https://foreignpolicy.com/2018/12/21/how-russian-money-helped-save-trumps-business/#:~:text=In%20a%202016%20interview%20with,prices%20were%20plummeting%20in%20the))).
+The announcement says the investment would be funded with equity and debt, identifies **Alfa Investment Consulting** as facilitator and adviser to Bayrock, and announces a separate 50:50 FL Group–Bayrock joint venture for international real-estate projects.
 
-Trump defended the sale, noting simply that he "sold it for \$100 million to a Russian" and chalking the markup up to property improvements ([How Russian Money Helped Save Trump's Business – Foreign Policy](https://foreignpolicy.com/2018/12/21/how-russian-money-helped-save-trumps-business/#:~:text=In%20a%202016%20interview%20with,prices%20were%20plummeting%20in%20the)). Rybolovlev never lived in the mansion and eventually demolished it and subdivided the property, fueling speculation that the purchase may have been more about moving money than acquiring real estate ([How Russian Money Helped Save Trump's Business – Foreign Policy](https://foreignpolicy.com/2018/12/21/how-russian-money-helped-save-trumps-business/#:~:text=the%20house%20for%20such%20a,an%20investigation%20into%20the%20sale)). Notably, in 2018 Rybolovlev appeared on a U.S. list of oligarchs close to Putin ([How Russian Money Helped Save Trump's Business – Foreign Policy](https://foreignpolicy.com/2018/12/21/how-russian-money-helped-save-trumps-business/#:~:text=%E2%80%9CThat%20deal%20delivered%20so%20much,are%20considered%20close%20to%20Putin)).
+Source: [FL Group, “Investment of $50m in US-based real estate development projects”](https://www.globenewswire.com/news-release/2007/05/22/96900/0/en/investment-of-50m-in-us-based-real-estate-development-projects.html).
 
-### The Deutsche Bank Relationship
+The 2016 Kriss opinion records materially different allegations concerning the transaction:
 
-By the early 2000s, after his string of 1990s bankruptcies, Trump had trouble borrowing from most U.S. banks ([How Russian Money Helped Save Trump's Business – Foreign Policy](https://foreignpolicy.com/2018/12/21/how-russian-money-helped-save-trumps-business/#:~:text=with%20him,financial%20industry%20at%20that%20juncture)) ([How Russian Money Helped Save Trump's Business – Foreign Policy](https://foreignpolicy.com/2018/12/21/how-russian-money-helped-save-trumps-business/#:~:text=Trump%20Organization%20was%20prospering%20again%E2%80%94that,%E2%80%9D)). The major exception was **Deutsche Bank**, which became Trump's primary lender. In 2005, Deutsche Bank's commercial real estate arm provided a **$640 million construction loan** for Trump International Hotel & Tower in Chicago ([Trump sues Deutsche Bank over Chicago tower | Reuters](https://www.reuters.com/article/business/trump-sues-deutsche-bank-over-chicago-tower-idUSTRE4A983H/#:~:text=The%20unfinished%2092,2009)).
+- Bayrock projected approximately $227.5 million in profits from four entities;
+- FL Group offered $50 million for interests allegedly entitling it to 62% of total profits;
+- some documents characterized the transaction as a loan; and
+- the plaintiffs alleged that the economic substance was a sale of profit interests and that the transaction infringed other members’ interests.
 
-When the 2008 financial crisis hit and condo sales slowed, Trump defaulted on the loan's payment. In November 2008 he brazenly **sued Deutsche Bank and other lenders for \$3 billion**, claiming the economic crisis was an unforeseeable "force majeure" that excused repayment ([Trump sues Deutsche Bank over Chicago tower | Reuters](https://www.reuters.com/article/business/trump-sues-deutsche-bank-over-chicago-tower-idUSTRE4A983H/#:~:text=NEW%20YORK%20%28Reuters%29%20,Hotel%20and%20Tower%20in%20Chicago)). Deutsche Bank countersued, noting Trump still owed \$40 million personally guaranteed ([A Timeline of Trump's Deals and Investments in Eastern Europe and Central Asia - The Moscow Project](https://themoscowproject.org/explainers/a-timeline-of-trumps-deals-and-investments-in-eastern-europe-and-central-asia/index.html#:~:text=pouring%20in%20from%20Russia)).
+Source: [Kriss v. BayRock Group LLC, SDNY Document 439](https://law.justia.com/cases/federal/district-courts/new-york/nysdce/1%3A2010cv03959/362805/439/).
 
-Remarkably, rather than cutting ties, Deutsche Bank's **Private Wealth division** (led by banker **Rosemary Vrablic**) then began lending to Trump again ([Trump and Deutsche Bank: It's Complicated | Trump, Inc. | WNYC Studios](https://www.wnycstudios.org/podcasts/trumpinc/episodes/trump-inc-trump-deutsche-bank-its-complicated#:~:text=match%20at%20L504%20Rosemary%20Vrablic,point%2C%20is%20willing%20to%20do)) ([Trump and Deutsche Bank: It's Complicated | Trump, Inc. | WNYC Studios](https://www.wnycstudios.org/podcasts/trumpinc/episodes/trump-inc-trump-deutsche-bank-its-complicated#:~:text=Rosemary%20Vrablic%20and%20Donald%20Trump,point%2C%20is%20willing%20to%20do)). In 2012, Vrablic's team approved a **$106 million loan to Trump** for the purchase and renovation of the Doral Golf Resort in Florida ([Trump and Deutsche Bank: It's Complicated | Trump, Inc. | WNYC Studios](https://www.wnycstudios.org/podcasts/trumpinc/episodes/trump-inc-trump-deutsche-bank-its-complicated#:~:text=match%20at%20L561%20Trump%20flies,Bank%20loans%20him%20%24106%20million)).
+Those were civil allegations accepted as true for purposes of deciding a motion to dismiss. They were not a final judicial finding that the transaction committed tax fraud or that the funds were Russian state money. The litigation later settled without a merits judgment.
 
-Deutsche Bank's continued support, despite Trump's prior default, raised questions – especially since around the same period (2011–2015) Deutsche Bank was penalized for facilitating **major Russian money-laundering schemes**. In early 2017, New York regulators fined Deutsche Bank \$425 million for a "mirror trading" scandal that **moved \$10 billion out of Russia** through its Moscow, London and New York offices ([Trump and Deutsche Bank: It's Complicated | Trump, Inc. | WNYC Studios](https://www.wnycstudios.org/podcasts/trumpinc/episodes/trump-inc-trump-deutsche-bank-its-complicated#:~:text=VULLO%3A%20These%20flaws%20allowed%20a,York%20to%20their%20improper%20purpose)) ([Trump and Deutsche Bank: It's Complicated | Trump,
+The records still needed include:
 
-Deutsche Bank's continued support, despite Trump's prior default, raised questions – especially since around the same period (2011–2015) Deutsche Bank was penalized for facilitating **major Russian money-laundering schemes**. In early 2017, New York regulators fined Deutsche Bank \$425 million for a "mirror trading" scandal that **moved \$10 billion out of Russia** through its Moscow, London and New York offices ([Trump and Deutsche Bank: It's Complicated | Trump, Inc. | WNYC Studios](https://www.wnycstudios.org/podcasts/trumpinc/episodes/trump-inc-trump-deutsche-bank-its-complicated#:~:text=VULLO%3A%20These%20flaws%20allowed%20a,York%20to%20their%20improper%20purpose)).
+- the investment agreement;
+- loan or profit-participation instruments;
+- wire instructions and bank statements;
+- tax opinions;
+- side letters;
+- partner approvals;
+- beneficial owners of all investing vehicles;
+- Alfa Investment Consulting’s engagement file; and
+- the allocation of the $50 million among the four projects.
 
-These mirror trades involved clients buying stocks in Moscow and selling identical amounts in London, effectively laundering rubles into dollars ([Trump and Deutsche Bank: It's Complicated | Trump, Inc. | WNYC Studios](https://www.wnycstudios.org/podcasts/trumpinc/episodes/trump-inc-trump-deutsche-bank-its-complicated#:~:text=BERNSTEIN%3A%20So%20then%20what%20would,%E2%80%9D)). While there is no public evidence that these particular illicit funds directly financed Trump projects, the **coincidence** that Deutsche Bank was funneling vast Russian capital abroad at the same time it was Trump's chief financier has drawn scrutiny.
+## 2.4 Sales velocity was economically and legally material
 
-By 2014, Trump's debt to Deutsche Bank was sizable (reports indicate over \$300 million by 2016). This unusual financial relationship with a bank implicated in Russian money laundering would later become a focus of investigators examining Trump's Russian connections.
+Trump SoHo’s offering plan required a minimum number of non-defaulted contracts before the plan could be declared effective. Buyer allegations and contemporaneous reporting identify a threshold of approximately 15%, or 60 units.
 
-### Russian Condo Buyers During the Financial Crisis
+Purchasers later alleged that public statements represented the project as 30%, 40%, 50%, or 60% sold when the effective-plan filing reflected approximately 62 of 391 units—roughly 16%.
 
-As the U.S. real estate market crashed in 2008-2009, Russian buyers became even more important to Trump's business. A Reuters investigation found **at least 63 individuals with Russian passports or addresses bought \$98.4 million** worth of property in seven Trump-branded luxury towers in Florida alone ([Russian elite invested nearly $100 million in Trump buildings](http://www.reuters.com/investigates/special-report/usa-trump-property/#:~:text=A%20Reuters%20review%20found%20that,luxury%20towers%20in%20southern%20Florida)) ([Russian elite invested nearly $100 million in Trump buildings](http://www.reuters.com/investigates/special-report/usa-trump-property/#:~:text=But%20in%20the%20United%20States%2C,documents%2C%20interviews%20and%20corporate%20records)).
+Sources:
 
-Many of these purchases occurred during or shortly after the financial crisis. For example, **Alexander Yuzvik**, a former executive at a Russian state construction firm (Spetstroi), purchased a $1.3 million apartment in the Trump Palace tower in 2010 ([Russian elite invested nearly $100 million in Trump buildings](http://www.reuters.com/investigates/special-report/usa-trump-property/#:~:text=One%20wealthy%20Russian%20buyer%20was,an%20online%20real%20estate%20listing)). **Andrey Truskov**, co-owner of a Russian electronics and banking conglomerate, bought a $1.4 million condo in Trump Hollywood in 2011 ([Russian elite invested nearly $100 million in Trump buildings](http://www.reuters.com/investigates/special-report/usa-trump-property/#:~:text=Andrey%20Truskov%2C%20another%20Trump%20condo,not%20disclose%20its%20financial%20results)). **Alexey Ustaev**, founder of St. Petersburg's Viking Bank, paid $1.2 million in cash for a Sunny Isles Trump Palace unit in 2009 and later $5.2 million for a penthouse in Trump Royale in 2011 ([Russian elite invested nearly $100 million in Trump buildings](http://www.reuters.com/investigates/special-report/usa-trump-property/#:~:text=In%202009%2C%20Ustaev%20bought%20unit,2%20million)).
+- [Reuters-derived report on the 2010 complaint](https://www.newsmax.com/finance/streettalk/donald-trump-sued-fraud-soho-condo/2010/08/03/id/366470/)
+- [Contemporaneous account of the complaint and 62-unit figure](https://therealdeal.com/new-york/2010/08/03/trump-soho-buyers-sue-citing-inflated-sales-figures/)
 
-Another politically-connected investor, **Oleg Misevra**, a coal baron from Russia's Far East, paid $6.8 million in 2010 for the penthouse of Trump Hollywood via an offshore company ([Russian elite invested nearly $100 million in Trump buildings](http://www.reuters.com/investigates/special-report/usa-trump-property/#:~:text=Many%20of%20the%20Russian%20buyers,and%20answer%20session%20with%20him)) ([Russian elite invested nearly $100 million in Trump buildings](http://www.reuters.com/investigates/special-report/usa-trump-property/#:~:text=A%20corporation%20Misevra%20controls%2C%20Swiss,respond%20to%20requests%20for%20comment)). Notably, some of these figures kept their U.S. holdings opaque (neither Yuzvik nor Misevra disclosed their Trump condos in required Russian asset declarations) ([Russian elite invested nearly $100 million in Trump buildings](http://www.reuters.com/investigates/special-report/usa-trump-property/#:~:text=stepped%20down%20in%20March%202016)) ([Russian elite invested nearly $100 million in Trump buildings](http://www.reuters.com/investigates/special-report/usa-trump-property/#:~:text=As%20a%20member%20of%20the,no%20mention%20of%20the%20apartment)).
+The claims were material for more than marketing. Presales could affect:
 
-### "Russians Make Up a Pretty Disproportionate Cross-Section of Our Assets"
+- whether the offering plan became effective;
+- whether buyers retained rescission rights;
+- lender perceptions of project viability;
+- availability of end-loan financing for purchasers;
+- hotel-condominium operating assumptions;
+- sponsor carrying costs; and
+- the market value of remaining inventory.
 
-In September 2008, at the height of the financial crisis, Donald Trump Jr. made a revealing statement at a real estate conference in New York. He said: *"Russians make up a pretty disproportionate cross-section of a lot of our assets. … We see a lot of money pouring in from Russia."* ([A Timeline of Trump's Deals and Investments in Eastern Europe and Central Asia - The Moscow Project](https://themoscowproject.org/explainers/a-timeline-of-trumps-deals-and-investments-in-eastern-europe-and-central-asia/index.html#:~:text=apartments%20with%20cash)). This candid admission confirmed what industry observers had noted: Russian capital had become a crucial component of the Trump Organization's business model.
+In 2011, ten purchasers received 90% refunds of their deposits in a settlement. The defendants admitted no wrongdoing.
 
-The timing of this statement is significant. It came just as the global financial system was collapsing and real estate values were plummeting. Traditional sources of financing had dried up, making Russian buyers and investors even more valuable to Trump's operations. The Rybolovlev mansion sale, which closed just two months earlier, had injected nearly $100 million into Trump's accounts at a critical moment.
+Source: [Trump SoHo settlement report](https://therealdeal.com/new-york/2011/11/03/bayrock-group-and-sapir-organization-settle-federal-lawsuit-at-trump-soho-at-246-spring-street-give-buyers-refunds/).
 
-In a similar vein, Eric Trump allegedly told golf writer James Dodson in 2014 that *"We don't rely on American banks. We have all the funding we need out of Russia"* when asked how the Trump Organization was financing new golf courses during a credit crunch ([How Russian Money Helped Save Trump's Business – Foreign Policy](https://foreignpolicy.com/2018/12/21/how-russian-money-helped-save-trumps-business/#:~:text=make%20up%20a%20pretty%20disproportionate,Trump%20denied%20making%20the%20comment)). While Eric later denied making this comment, it aligns with the pattern of Russian capital flowing into Trump ventures during this period.
+The settlement does not establish criminal fraud. It does establish that sales representations, presale thresholds, and purchaser deposits were central to the project’s viability and litigation risk.
 
-### Russian State-Linked Capital in Trump Projects
+## 2.5 Later Almaty/BTA litigation connects Sater and Bayrock to a proven laundering judgment
 
-There is evidence that Russian state-linked capital reached Trump projects via intermediaries. In 2010, Trump's Canadian partner **Alexander Shnaider** sold a Ukraine steel plant to the Russian government's bank **Vnesheconombank (VEB)** for \$850 million, and **about \$15 million of that went into finishing Trump's troubled Toronto Tower** ([Russian Vnesheconombank Helped Finance Trump's Toronto Hotel, Report Says - Business Insider](https://www.businessinsider.com/russian-vnesheconombank-trump-toronto-hotel-2017-5#:~:text=The%20bank%2C%20Vnesheconombank%2C%20or%20VEB%2C,Street%20Journal%20reported%20on%20Wednesday)) ([Russian Vnesheconombank Helped Finance Trump's Toronto Hotel, Report Says - Business Insider](https://www.businessinsider.com/russian-vnesheconombank-trump-toronto-hotel-2017-5#:~:text=to%20The%20Journal)).
+Later litigation brought by the City of Almaty and BTA Bank alleged that Sater, Bayrock entities, and others helped move stolen Kazakh funds through several investments, including Trump SoHo-related transactions. Trump and the Trump Organization were not defendants in that action.
 
-Though Trump had no equity in the Toronto project, it bore his name and illustrates how **Russian state funds indirectly propped up Trump-branded developments abroad**. VEB was not an ordinary commercial bank; it was a Russian state development bank whose supervisory board was chaired by Vladimir Putin himself ([Russian Vnesheconombank Helped Finance Trump's Toronto Hotel, Report Says - Business Insider](https://www.businessinsider.com/russian-vnesheconombank-trump-toronto-hotel-2017-5#:~:text=The%20bank%2C%20Vnesheconombank%2C%20or%20VEB%2C,Street%20Journal%20reported%20on%20Wednesday)).
+The litigation developed beyond a complaint:
 
-By the end of the financial crisis, Trump had weathered the storm better than many real estate developers, in large part due to the influx of Russian capital through various channels: direct property purchases, financing via intermediaries like Deutsche Bank, and partnerships with developers who had access to Russian funds.
+- a 2024 jury returned a verdict for the plaintiffs;
+- the court ordered a new trial on certain claims because of a limitations instruction;
+- an October 2025 retrial produced a reported $52 million verdict;
+- the district court entered judgment on February 27, 2026; and
+- Sater opened an appeal in the Second Circuit, No. 26-780, in March 2026.
 
-## Miss Universe and Pre-Campaign Positioning (2011-2014)
+Sources:
 
-### The Agalarov Relationship
+- [August 6, 2025 SDNY opinion](https://docs.justia.com/cases/federal/district-courts/new-york/nysdce/1%3A2019cv02645/512427/761)
+- [October 2025 verdict report](https://www.law360.co.uk/articles/2398678/ex-trump-ally-felix-sater-liable-in-money-laundering-trial)
+- [Second Circuit appeal docket, No. 26-780](https://dockets.justia.com/docket/circuit-courts/ca2/26-780)
 
-Trump's most significant business venture in Russia during this period was bringing the Miss Universe pageant to Moscow in November 2013. The key figures in this endeavor were Russian real estate magnate **Aras Agalarov** and his son **Emin**—who met Trump earlier that year at the Miss USA pageant in Las Vegas ([When Donald Trump brought Miss Universe to Moscow - POLITICO](https://www.politico.com/story/2016/05/donald-trump-russia-moscow-miss-universe-223173#:~:text=Soon%20after%20meeting%20Trump%2C%20the,cost%20%2420%20million%20to%20host)).
+The finding materially strengthens the research into Sater’s post-Soviet capital network. It does **not** establish that Trump knew the source of the funds, participated in the laundering, or received the entire judgment amount through Trump SoHo. The transaction-level question is which units, deposits, entities, bank accounts, commissions, and meetings involved the allegedly stolen funds.
 
-The Agalarovs were well-connected in Russia. Aras Agalarov had received the Order of Honor from Putin, one of Russia's highest civilian awards, and his Crocus Group had completed numerous government contracts ([When Donald Trump brought Miss Universe to Moscow - POLITICO](https://www.politico.com/story/2016/05/donald-trump-russia-moscow-miss-universe-223173#:~:text=The%20elder%20Agalarov%20was%20born,of%20honor%20on%20Agalarov%E2%80%99s%20lapel)). Emin was not only a real estate executive but also a pop singer who had married the daughter of Azerbaijan's president (though they later divorced).
+---
 
-In June 2013, Trump dined in Las Vegas with the Agalarovs and music promoter Rob Goldstone to cement the deal for hosting Miss Universe in Moscow ([Trump's Moscow Tower Problem | Trump, Inc. | WNYC Studios](https://www.wnycstudios.org/podcasts/trumpinc/episodes/trump-inc-trump-moscow-tower-problem#:~:text=BERNSTEIN%3A%20They%20pitch%20the%20Trumps,which%20Trump%20owns%2C%20to%20Moscow)). Agalarov agreed to pay Trump roughly **$20 million** for the hosting rights ([Following the Money: Trump and Russia-Linked Transactions From the Campaign to the Presidential Inauguration - Center for American Progress](https://www.americanprogress.org/article/following-the-money/#:~:text=not%20trivial,168)). This payment was made through a complex structure involving a Swiss bank account and a Delaware shell company ([Following the Money: Trump and Russia-Linked Transactions From the Campaign to the Presidential Inauguration - Center for American Progress](https://www.americanprogress.org/article/following-the-money/#:~:text=Agalarov%20used%20a%20Swiss%20bank,company%E2%80%99s%20president%20and%20director%20in)).
+# 3. Bayrock’s failed projects reveal a repeatable licensing mechanism
 
-### The 2013 Miss Universe Pageant in Moscow
+Bayrock and Trump pursued additional projects in Fort Lauderdale, Phoenix, and Moscow. Several failed, entered foreclosure, or never advanced beyond preliminary agreements.
 
-The Miss Universe pageant took place at the Agalarovs' Crocus City Hall in Moscow on November 9, 2013. For Trump, this event was not just about the pageant itself but about building relationships and exploring business opportunities in Russia. By Trump's own account, he saw the pageant as opening doors: "One of the great families in Russia [the Agalarovs] is our partner in this endeavor," he announced, adding that *"we wanted Moscow all the way."* ([When Donald Trump brought Miss Universe to Moscow - POLITICO](https://www.politico.com/story/2016/05/donald-trump-russia-moscow-miss-universe-223173#:~:text=Trump%20announced%20the%20venue%20in,%E2%80%9D)) Privately, Trump hoped the pageant would catalyze a long-desired Moscow real estate project ([When Donald Trump brought Miss Universe to Moscow - POLITICO](https://www.politico.com/story/2016/05/donald-trump-russia-moscow-miss-universe-223173#:~:text=great%20families%20in%20Russia%20is,%E2%80%9D)).
+The failures are analytically useful because the Trump Organization could still obtain benefits from:
 
-During his visit to Moscow, Trump networked extensively with Russian business and political figures. He later boasted that *"almost all of the oligarchs were in the room"* at the pageant finals ([When Donald Trump brought Miss Universe to Moscow - POLITICO](https://www.politico.com/story/2016/05/donald-trump-russia-moscow-miss-universe-223173#:~:text=The%20father%20and%20son%20are,%E2%80%9D)). Among the attendees was **Herman Gref**, the head of Sberbank (Russia's largest state-owned bank) and a close Putin ally ([Trump's Moscow Tower Problem | Trump, Inc. | WNYC Studios](https://www.wnycstudios.org/podcasts/trumpinc/episodes/trump-inc-trump-moscow-tower-problem#:~:text=DONALD%20TRUMP%3A%20,The%20richest%20men%20in%20Russia)).
+- upfront license payments;
+- development fees;
+- management rights;
+- publicity;
+- buyer deposits;
+- sales commissions; or
+- the increased marketability of the Trump name.
 
-Trump's public overtures to **Vladimir Putin** during this period were striking. Before the trip, he tweeted: *"Do you think Putin will be going to The Miss Universe Pageant…if so, will he become my new best friend?"* ([When Donald Trump brought Miss Universe to Moscow - POLITICO](https://www.politico.com/story/2016/05/donald-trump-russia-moscow-miss-universe-223173#:~:text=%E2%80%9CThe%20Miss%20Universe%20Pageant%20will,will%20bring%20our%20countries%20together%21%E2%80%9D)). While Putin did not attend the pageant, he reportedly sent Trump a gift and a warm note ([When Donald Trump brought Miss Universe to Moscow - POLITICO](https://www.politico.com/story/2016/05/donald-trump-russia-moscow-miss-universe-223173#:~:text=Putin%20sent%20a%20decorative%20lacquered,to%20meet%20with%20the%20American)).
+The relevant comparison for every project is:
 
-### The Trump Tower Moscow Discussions
+| Question | Record needed |
+|---|---|
+| How much cash did Trump contribute? | Capital-call and bank records |
+| Who owned the land? | Deeds and entity records |
+| Who guaranteed completion and debt? | Loan and guaranty agreements |
+| What did Trump receive before completion? | License, management, and fee ledgers |
+| Were deposits released or escrowed? | Offering plan and escrow agreement |
+| Who supplied buyers? | Broker, referral, and commission files |
+| Who absorbed foreclosure losses? | Bankruptcy and lender records |
 
-Throughout his Moscow visit, Trump discussed plans for a **"Trump Tower Moscow"** with the Agalarovs ([When Donald Trump brought Miss Universe to Moscow - POLITICO](https://www.politico.com/story/2016/05/donald-trump-russia-moscow-miss-universe-223173#:~:text=connected%20and%20with%20whom%20he,%E2%80%9D)). He even tweeted on his way home: "TRUMP TOWER-MOSCOW is next." ([Trump Tower Moscow - Wikipedia](https://en.wikipedia.org/wiki/Trump_Tower_Moscow#:~:text=branded%20,11)).
+This project-by-project method prevents a failed Trump-branded development from being confused with a failed Trump-owned development.
 
-The proposed Trump Tower Moscow with the Agalarovs advanced to discussions of sites and financing in late 2013, but ultimately **"died of deal fatigue" by the end of 2014** according to Donald Jr. ([Trump's Moscow Tower Problem | Trump, Inc. | WNYC Studios](https://www.wnycstudios.org/podcasts/trumpinc/episodes/trump-inc-trump-moscow-tower-problem#:~:text=projects)) ([Trump's Moscow Tower Problem | Trump, Inc. | WNYC Studios](https://www.wnycstudios.org/podcasts/trumpinc/episodes/trump-inc-trump-moscow-tower-problem#:~:text=Donald%20Trump%20Jr,understand%20the%20details%20of%20why)). Geopolitical events (such as early 2014 sanctions after Russia's Crimea intervention) likely dampened the prospects of that deal ([Trump's Moscow Tower Problem | Trump, Inc. | WNYC Studios](https://www.wnycstudios.org/podcasts/trumpinc/episodes/trump-inc-trump-moscow-tower-problem#:~:text=Donald%20Trump%20continues%20to%20look,This%20deal%20goes%20much%20further)).
+---
 
-The U.S. Senate Intelligence Committee's review of this trip (drawing on classified sources) found that **Trump was given an "escort" in Moscow – a young American businessman, David Geovanis, who was essentially assigned to squire Trump around the city** ([A Collusion Reading Diary: What Did the Senate Intelligence Committee Find? | Lawfare](https://www.lawfaremedia.org/article/collusion-reading-diary-what-did-senate-intelligence-committee-find#:~:text=The%20report%20documents%20in%20detail%E2%80%94including,the%20trip%20in%20which%20%E2%80%9CTrump)). There were rumors of lavish parties during the visit, and while much of the Senate's information on this is redacted, it hinted at the **possibility of kompromat** – compromising material – being gathered during Trump's 2013 stay.
+# 4. Deutsche Bank: adversarial default, renewed lending, and separate Russian AML failures
 
-### Trump's Public Statements About Russia (2011-2014)
+## 4.1 The Chicago default and litigation
 
-Throughout 2011–2014, Donald Trump's public comments about Russia were generally positive or aspirational, reflecting either business interest or admiration for strong leadership. In a 2007 deposition related to a libel suit, Trump expressed bullishness on Russia: *"Russia is one of the hottest places in the world for investment."* ([Trump Org. to Cut Ties With Trump SoHo Developed With Sater, Bayrock - Business Insider](https://www.businessinsider.com/trump-org-to-cut-ties-with-trump-soho-developed-with-sater-bayrock-2017-11#:~:text=,in%20the%20world%20for%20investment)) He even deemed it "ridiculous" to think he'd avoid Russia – signaling that he saw alignment, not conflict, with Russian interests.
+Deutsche Bank supplied a major construction loan for Trump’s Chicago hotel and condominium project. During the 2008 financial crisis, the bank alleged that hundreds of millions remained due. Trump responded by invoking force majeure and suing Deutsche Bank for approximately $3 billion, arguing that the bank’s conduct contributed to the financial crisis.
 
-After the Miss Universe pageant, Trump told **MSNBC** that Putin had "done a really great job of outsmarting our country" under Obama. He consistently contrasted Putin's decisiveness with what he considered weak U.S. leadership. For instance, at CPAC in March 2014, Trump said of Putin, *"He's a strong guy, although I don't like what he's doing,"* while lambasting President Obama as ineffective ([Trump Praised Putin on the National Stage Again — Here's What It Means - Business Insider](https://www.businessinsider.com/donald-trump-vladimir-putin-strong-leader-obama-2016-9#:~:text=system%20he%27s%20been%20a%20leader%2C,president%20has%20been%20a%20leader)) ([Trump Praised Putin on the National Stage Again — Here's What It Means - Business Insider](https://www.businessinsider.com/donald-trump-vladimir-putin-strong-leader-obama-2016-9#:~:text=positive%20thought%20from%20the%20Republican,about%20the%20autocratic%20Russian%20leader)).
+The dispute was settled in 2010. The exact settlement, debt cancellation, collateral transfer, and tax consequences require the full settlement agreement and bank account records.
 
-Another recurring element was Trump's argument that the U.S. and Russia should be friendly. Returning from Moscow in November 2013, Trump said on Fox News, *"I know Russia well"* due to his pageant, and that the Russians he met **"want to be friendly with the United States. Wouldn't it be nice if we actually got along with somebody?"** ([When Donald Trump brought Miss Universe to Moscow - POLITICO](https://www.politico.com/story/2016/05/donald-trump-russia-moscow-miss-universe-223173#:~:text=%E2%80%9CI%20know%20Russia%20well%2C%E2%80%9D%20Trump,%E2%80%9D)). This sentiment – that fighting with Russia was unnecessary and partnership could be beneficial – was **a sharp break from the typical American political stance**, especially after Putin's 2014 annexation of Crimea.
+The important structural fact is that the relationship did not end permanently after severe default litigation.
 
-By 2014, as tensions over Ukraine grew, Trump **criticized U.S. sanctions and responses** as weak, stating that Putin was "outsmarting" the Obama administration. He tweeted in March 2014 that Putin **"is playing [Obama] like a drum"**, signaling approval of Putin's savvy. These comments were not heavy on policy specifics but projected Trump's respect for Putin's assertiveness.
+## 4.2 Lending resumed through a different bank unit
 
-## Analysis and Implications
+Later loans were originated through Deutsche Bank’s private-wealth operation rather than the original commercial-real-estate channel. New York’s civil-fraud litigation later established that Trump entities used false or misleading statements of financial condition in connection with major loans, including:
 
-### Pattern of Russian Financial Entanglement
+- a $125 million Doral loan closed June 11, 2012;
+- a $130 million Chicago refinancing closed November 9, 2012; and
+- a $170 million Old Post Office construction loan closed August 12, 2014.
 
-The period from 2001 to 2014 reveals a clear pattern of increasing financial entanglement between Donald Trump and Russian money. This pattern includes:
+Source: [People v. Trump, 2025 NY Slip Op 04756](https://www.nycourts.gov/reporter/3dseries/2025/2025_04756.htm).
 
-1. **Direct property sales to Russian buyers**, from individual condo units to the $95 million Rybolovlev mansion deal
-2. **Business partnerships with Russian-connected firms** like Bayrock Group
-3. **Financing from banks implicated in Russian money laundering** (Deutsche Bank)
-4. **Indirect Russian state funding** through intermediaries (VEB's role in Trump Toronto)
-5. **Direct business in Russia** (the Miss Universe pageant and Trump Tower Moscow discussions)
+The appellate court preserved the fraud liability while vacating the monetary disgorgement remedy. The finding is relevant because personal guarantees and net-worth covenants allowed Trump to obtain lower-cost private-bank credit after his prior commercial-real-estate default.
 
-By 2014, these connections had created a significant financial relationship between Trump and Russian capital. As veteran journalist Craig Unger wrote, *"foreign money played a large role in reviving his fortunes, in particular investment by wealthy people from Russia and the former Soviet republics."* ([How Russian Money Helped Save Trump's Business – Foreign Policy](https://foreignpolicy.com/2018/12/21/how-russian-money-helped-save-trumps-business/#:~:text=But%20Trump%20eventually%20made%20a,%E2%80%9CRussians%20make%20up%20a%20pretty)). Trump's longtime architect Alan Lapidus put it bluntly: after U.S. banks shunned Trump, **"it was all coming out of Russia"** ([How Russian Money Helped Save Trump's Business – Foreign Policy](https://foreignpolicy.com/2018/12/21/how-russian-money-helped-save-trumps-business/#:~:text=Trump%20Organization%20was%20prospering%20again%E2%80%94that,%E2%80%9D)).
+## 4.3 The Russian mirror-trading scandal is a separate documented fact
 
-### Comparison to Other Developers
+New York’s Department of Financial Services found that Deutsche Bank’s Moscow, London, and New York operations facilitated mirror trades that improperly moved approximately **$10 billion out of Russia**. DFS imposed a $425 million penalty and identified severe AML, know-your-customer, staffing, and governance failures.
 
-In the 2000s, many luxury real estate developers worldwide sold properties to rich Russians, as part of a broader wave of Russian capital flight into safe assets. High-end markets in London, New York, and Miami saw an influx of oligarch wealth. However, **Trump's pattern was somewhat atypical in scope and direct cultivation.** Dolly Lenz, who brokered Trump condos, noted that **Trump personally met and befriended many of her Russian clients** – *"They all wanted to meet Donald. They became very friendly."* ([A Timeline of Trump's Deals and Investments in Eastern Europe and Central Asia - The Moscow Project](https://themoscowproject.org/explainers/a-timeline-of-trumps-deals-and-investments-in-eastern-europe-and-central-asia/index.html#:~:text=65%20units%20in%20Trump%20World,%E2%80%9D)).
+Source: [New York DFS, January 30, 2017](https://www.dfs.ny.gov/reports_and_publications/press_releases/pr1701301).
 
-Moreover, Trump's business model after 2003 relied heavily on international licensing deals, and he gravitated towards partners from the former USSR (whether it was Bayrock in the U.S., the Agalarovs in Russia, or the Silk Road Group in Georgia). **Other comparable real estate moguls** like the Related Company's Stephen Ross or Vornado's Steve Roth largely used institutional financing and domestic partners, rather than seeking out investors from Russia.
+The mirror-trading scheme makes scrutiny of Deutsche Bank’s Russian exposure and internal controls legitimate. It does not establish that mirror-trading proceeds financed Trump’s loans. The research must keep separate:
 
-Another contrast is that **Trump openly marketed to Russians** (with ads, translated websites, and PR events), whereas others did so more passively. In 2008, Eric Trump said about their SoHo project, *"We go where the money is, and nowadays the money is in Russia,"* which was a blunt admission ([A Timeline of Trump's Deals and Investments in Eastern Europe and Central Asia - The Moscow Project](https://themoscowproject.org/explainers/a-timeline-of-trumps-deals-and-investments-in-eastern-europe-and-central-asia/index.html#:~:text=%E2%80%9CAs%20the%20experience%20of%20the,%E2%80%9D)).
+- the Moscow equities desk;
+- Deutsche Bank Trust Company of the Americas;
+- commercial-real-estate lending;
+- private-wealth lending;
+- loan syndication and risk transfer;
+- collateral and guarantor structures; and
+- any Russian or offshore beneficial owners of participations.
 
-### Intelligence Community Assessments
+The precise six-degrees question is whether the personnel, counterparties, correspondent accounts, credit committees, risk-transfer vehicles, or beneficial owners ever crossed between the Russian AML system and Trump-related credit.
 
-By the end of our period (2014), intelligence assessments of Trump's Russian financial ties remained mostly **internal or classified**, only coming to light later. However, retrospective analyses by intelligence professionals connect the dots: Trump's **unusual deference to Putin, the long trail of Russian money in his businesses, and his public statements** all suggest to many in the intelligence community that Russia saw Trump as a favorable figure to **influence or even support**, based on mutual financial interests.
+---
 
-Former CIA Deputy Director **Michael Morell** stated in August 2016 that **"Putin had recruited Trump as an unwitting agent of the Russian Federation."** ([Senior ex-CIA official: Putin made Trump 'an unwitting agent' of Russia | Reuters](https://www.reuters.com/article/world/senior-ex-cia-official-putin-made-trump-an-unwitting-agent-of-russia-idUSKCN10G1NS/#:~:text=Putin%20had%20flattered%20Trump%20into,in%20The%20New%20York%20Times)) He argued that Putin cleverly used **business flattery and deals** to gain Trump's sympathies, effectively leveraging Trump's financial and ego-driven vulnerabilities.
+# 5. Foreign property demand supplied liquidity and recurring relationships
 
-**British intelligence veterans** also weighed in: Former MI6 chief **Sir Richard Dearlove** said in 2017 that Trump's finances **"would have made him a target for Russian intelligence"**, given the debt and cash needs in the 2000s. He and others posited that **Trump's openness to Russian money** created a situation where Moscow could have **"leveraging information"** – not necessarily kompromat in the salacious sense, but simply knowledge of Trump's dependence on Russian funds which could be wielded implicitly.
+## 5.1 Russian and post-Soviet condominium demand
 
-The U.S. Senate Intelligence Committee's 2020 bipartisan report concluded that Trump's campaign was susceptible to Russian influence, in part because of **"Trump's previous business engagements in Russia and Ukraine"** (which include dealings during 2001–2014) ([How Russian Money Helped Save Trump's Business – Foreign Policy](https://foreignpolicy.com/2018/12/21/how-russian-money-helped-save-trumps-business/#:~:text=What%20remains%20unclear%20is%20whether,%E2%80%9D)) ([How Russian Money Helped Save Trump's Business – Foreign Policy](https://foreignpolicy.com/2018/12/21/how-russian-money-helped-save-trumps-business/#:~:text=were%20exaggerating%20their%20relations%20with,%E2%80%9D)).
+A Reuters property-record investigation found that at least 63 people using Russian passports or addresses purchased at least **$98.4 million** in property in seven Trump-branded South Florida towers. Reuters found no evidence of wrongdoing by Trump or the identified purchasers and no identified buyer from Putin’s innermost circle. The count was conservative because at least 703 of 2,044 units were owned by limited-liability companies whose beneficial owners could not be determined.
 
-### Potential Leverage and National Security Implications
+Source: [Reuters special report reproduced by Yahoo](https://www.yahoo.com/news/special-report-russian-elite-invested-nearly-100-million-180436652.html).
 
-The financial relationships documented in this chapter created potential leverage points that would later raise national security concerns. These include:
+This was not necessarily direct capital to a Trump-owned developer. Trump’s economics varied by building and could include licensing, management, marketing, or sales commissions. The records needed for each building are:
 
-1. **Financial dependency**: By 2014, Trump had received significant capital from Russian sources, creating a potential dependency.
-2. **Compromising business practices**: The legal issues surrounding Trump SoHo and other Bayrock projects could potentially be used as leverage.
-3. **Knowledge of unreported transactions**: Russian intelligence would likely be aware of any problematic financial dealings involving Russian nationals.
-4. **Ongoing business aspirations**: Trump's continued desire to build in Moscow (which extended beyond 2014) created an incentive to maintain good relations with the Russian government.
+- license and management agreements;
+- developer payment ledgers;
+- unit-level deeds;
+- beneficial-owner files;
+- sales commissions;
+- mortgages and private loans;
+- deposit and closing dates;
+- broker referrals;
+- title-company records; and
+- repeat buyers across other Trump properties.
 
-While there is no definitive evidence that Russia exercised this potential leverage during the period covered in this chapter, the financial entanglements created a foundation for potential influence that would become a major concern during Trump's later political career.
+## 5.2 Donald Trump Jr.’s 2008 description of Russian demand
 
-## Conclusion
+At a 2008 real-estate conference, Donald Trump Jr. said Russians constituted a disproportionate cross-section of Trump assets and that the company saw money pouring in from Russia. That statement is most useful as evidence of market awareness: the Trump Organization knew Russian demand was material to its business.
 
-The period from 2001 to 2014 represents a critical phase in Donald Trump's business evolution and his connections to Russia. Following his financial difficulties in the 1990s, Trump rebuilt his empire with a new business model that increasingly relied on Russian capital and partnerships with individuals connected to the former Soviet Union.
+It is not a transaction ledger and does not establish the source of every buyer’s funds.
 
-Key developments during this period included:
-- The partnership with Bayrock Group and its Soviet-born principals
-- The influx of Russian buyers into Trump-branded properties
-- The unusual relationship with Deutsche Bank amid its Russian money laundering scandals
-- The $95 million Rybolovlev mansion sale
-- The 2013 Miss Universe pageant in Moscow and relationship with the Agalarovs
-- Trump's increasingly positive public statements about Putin and Russia
+## 5.3 The Rybolovlev Palm Beach sale
 
-By 2014, as Trump prepared to enter politics, he had established a complex network of business ties to Russia that far exceeded those of typical American real estate developers. These connections created potential points of leverage and would later become the subject of intense scrutiny by intelligence agencies, investigators, and the media.
+In 2008, Russian businessman Dmitry Rybolovlev purchased Trump’s Palm Beach mansion for $95 million. Trump had paid approximately $41.35 million in 2004. The sale delivered a very large gain and liquidity during the financial crisis.
 
-The financial relationships established during this period would have significant implications for Trump's subsequent political career, raising questions about potential conflicts of interest and susceptibility to foreign influence. As Trump moved toward announcing his presidential candidacy in 2015, these Russian connections—built over more than a decade—would take on new significance in the context of American national security and electoral politics.
+The Senate Finance Committee later sought Treasury records and Suspicious Activity Reports concerning the transaction, noting the price increase and later sales of subdivided tracts to shell companies without clear beneficial owners.
 
-**Sources:**
+Source: [Senate Finance Committee, February 9, 2018](https://www.finance.senate.gov/ranking-members-news/wyden-requests-financial-records-related-to-dmitry-rybolovlev-and-purchase-of-trump-palm-beach-property).
 
-- WNYC Studios, *Trump, Inc.* podcast – "Trump's Moscow Tower Problem" (Mar. 21, 2019) ([Trump's Moscow Tower Problem | Trump, Inc. | WNYC Studios](https://www.wnycstudios.org/podcasts/trumpinc/episodes/trump-inc-trump-moscow-tower-problem#:~:text=BERNSTEIN%3A%20Trump%20goes%20to%20Moscow%2C,Emin%20was%20WOW%21%E2%80%9D)) ([Trump's Moscow Tower Problem | Trump, Inc. | WNYC Studios](https://www.wnycstudios.org/podcasts/trumpinc/episodes/trump-inc-trump-moscow-tower-problem#:~:text=Donald%20Trump%20Jr,understand%20the%20details%20of%20why))  
-- **Politico:** "When Donald Trump brought Miss Universe to Moscow" (May 2016) ([When Donald Trump brought Miss Universe to Moscow - POLITICO](https://www.politico.com/story/2016/05/donald-trump-russia-moscow-miss-universe-223173#:~:text=Soon%20after%20meeting%20Trump%2C%20the,cost%20%2420%20million%20to%20host)) ([When Donald Trump brought Miss Universe to Moscow - POLITICO](https://www.politico.com/story/2016/05/donald-trump-russia-moscow-miss-universe-223173#:~:text=The%20father%20and%20son%20are,%E2%80%9D))  
-- **Center for American Progress:** "Following the Money: Trump and Russia-Linked Transactions" (2018) ([Following the Money: Trump and Russia-Linked Transactions From the Campaign to the Presidential Inauguration - Center for American Progress](https://www.americanprogress.org/article/following-the-money/#:~:text=not%20trivial,168))
+Counterevidence is also material. Rybolovlev later subdivided the land, and the parcels reportedly sold for an aggregate amount exceeding his purchase price. That weakens any simplistic claim that the entire $95 million represented a valueless overpayment.
+
+The unresolved questions include:
+
+- independent appraisals;
+- Rybolovlev’s source and purpose of funds;
+- intermediaries and lawyers;
+- whether the divorce and asset-protection context affected the purchase;
+- communications between the parties;
+- SARs or bank compliance reviews; and
+- any business or political relationship beyond the transaction.
+
+The sale is a documented liquidity event, not proof of a bribe or laundering scheme.
+
+---
+
+# 6. Indirect state-bank and licensing pathways
+
+## 6.1 Trump Toronto and VEB
+
+Trump Toronto illustrates how state-linked money could potentially reach a Trump-branded project without a direct loan to Trump.
+
+Reporting based on transaction records states that developer Alexander Shnaider sold a Ukrainian steel interest in a transaction financed by Russia’s state development bank Vnesheconombank, or VEB. A lawyer initially stated that approximately $15 million of sale proceeds went into completing Trump Toronto, then withdrew that account. The Trump Organization said it had no equity in the project and no dealings with VEB, but earned licensing and management revenue.
+
+Source: [Axios summary of the Wall Street Journal investigation](https://www.axios.com/2017/12/15/trump-property-financed-by-russian-government-bank-1513302329).
+
+The correct classification is **unresolved indirect-capital pathway**. The full proof requires:
+
+- Shnaider’s steel-sale closing statement;
+- VEB loan and security documents;
+- Toronto project bank statements;
+- shareholder and intercompany ledgers;
+- Trump license and management payments; and
+- correspondence among Shnaider, VEB, the Toronto lenders, and Trump executives.
+
+## 6.2 Baku: licensing with politically exposed partners
+
+The Trump Tower Baku project paired the Trump name with the Mammadov family, whose senior member Ziya Mammadov was Azerbaijan’s transportation minister. Reporting identified extensive corruption indicators and business relationships between the Mammadov network and companies associated with veterans of Iran’s Islamic Revolutionary Guard Corps.
+
+The Trump Organization’s counsel later acknowledged that the company learned of the suspected Iran-linked relationship in 2015. The project remained under contract until after the 2016 election and reportedly paid the Trump Organization several million dollars in fees.
+
+Sources:
+
+- [The New Yorker, “Donald Trump’s Worst Deal”](https://www.newyorker.com/magazine/2017/03/13/donald-trumps-worst-deal)
+- [The New Yorker, “The Iran Business Ties Trump Didn’t Disclose”](https://www.newyorker.com/news/news-desk/the-iran-business-ties-trump-didnt-disclose)
+
+This evidence supports a due-diligence and politically exposed person finding. It does not establish that Trump intentionally dealt with the IRGC or that project fees originated from sanctioned funds. The required records are the license agreement, diligence files, accounting-access provisions, bank wires, contractor payments, beneficial ownership, and internal decisions after the risk was identified.
+
+## 6.3 Panama: bulk purchases and anonymous special-purpose companies
+
+The Trump Ocean Club in Panama provides a comparative example of how a Trump-branded presale project could attract bulk buyers and anonymous vehicles. Global Witness identified at least 139 special-purpose companies created during the preconstruction period, many named for particular units, with nominee ownership structures that obscured ultimate purchasers. The investigation also identified bulk purchases, cash transactions, flipping, and bearer-share structures as warning signs.
+
+Source: [Global Witness, Trump Ocean Club Panama investigation](https://globalwitness.org/en/campaigns/corruption-and-money-laundering/narco-a-lago-money-laundering-at-the-trump-ocean-club-panama/meet-the-brokers/).
+
+Global Witness’s conclusions are investigative findings, not criminal judgments against Trump. The project is relevant because it shows the same transaction architecture seen elsewhere:
+
+> Preconstruction contracts, bulk buyers, assignable interests, anonymous entities, broker networks, and a famous licensor can create sales velocity while making beneficial ownership difficult to see.
+
+---
+
+# 7. Miss Universe Moscow converted a paid business event into durable political access
+
+## 7.1 The Agalarov transaction
+
+Aras Agalarov’s Crocus Group funded and hosted the 2013 Miss Universe pageant in Moscow. The Senate Intelligence Committee later found that the Agalarovs sustained a large loss while the Moscow event was among the most lucrative deals in Miss Universe Organization history.
+
+Source: [Lawfare analysis of Senate Intelligence Committee Volume 5](https://www.lawfaremedia.org/article/collusion-reading-diary-what-did-senate-intelligence-committee-find).
+
+The pageant should be analyzed as a paid access platform, not only entertainment. It brought Trump into a room and relationship network containing:
+
+- major Russian business figures;
+- state-bank executives;
+- politically connected developers;
+- people with military, intelligence, energy, and organized-crime associations;
+- Rob Goldstone;
+- Emin and Aras Agalarov; and
+- future participants or intermediaries in the 2016 Trump Tower meeting.
+
+## 7.2 The effort to obtain a Putin meeting
+
+The Senate report found that Trump and his representatives made repeated efforts to secure a meeting with Vladimir Putin. Aras Agalarov was personally involved. Putin did not attend, but reportedly sent a senior official, a gift, and a letter. A note from Donald Trump Jr. told his father that he was being sent a gift from Putin.
+
+The evidence establishes that Trump actively sought personal Kremlin access and valued the appearance of a relationship with Putin. It does not establish that Trump actually met Putin in 2013.
+
+## 7.3 Trump Tower Moscow discussions followed the pageant
+
+The Miss Universe relationship immediately generated real-estate negotiations. The Mueller Report records that in December 2013 Irek Kaveladze and Donald Trump Jr. negotiated and signed preliminary terms for a Trump Tower Moscow proposal. The contemplated Trump economics included a percentage of sales, and the parties negotiated a letter of intent during early 2014.
+
+Source: [Lawfare compilation of the Mueller Report’s Trump-related findings](https://www.lawfaremedia.org/mueller-trump-everything-special-counsels-report-says-president-did-said-or-knew).
+
+The Agalarov relationship continued after the deal stalled. The parties exchanged messages and gifts, and the same family network later initiated the June 9, 2016 meeting.
+
+This is one of the strongest long-duration six-degrees chains in the project:
+
+1. a paid pageant creates business and social access;
+2. the host provides introductions to Russian elites and attempts Kremlin access;
+3. the event produces a Moscow development negotiation;
+4. gifts and communications maintain the relationship;
+5. the same network later offers political assistance during the presidential campaign.
+
+That chain does not prove that the pageant was designed from inception as an intelligence operation. It does show how a commercial relationship became a durable political-access channel.
+
+## 7.4 Counterintelligence risk and the Ritz-Carlton
+
+The Senate report considered allegations of compromising material associated with Trump’s Moscow visits and identified the Ritz-Carlton as a high counterintelligence-risk environment. It did not establish publicly that a compromising recording exists or influenced Trump.
+
+A factual correction is required in the old chapter: **David Geovanis was associated principally with Trump’s 1996 Moscow trip, not as the official escort for the 2013 pageant visit.** References placing him as Trump’s 2013 escort should be removed unless supported by a separate primary record.
+
+---
+
+# 8. Six-degrees network matrix
+
+| Network lead | Documented mechanism | What would establish reciprocity or coordination | Current assessment |
+|---|---|---|---|
+| **Sapir continuity** | Joy-Lud/Soviet commerce → commodities → Trump SoHo development | Capital ledgers, introductions, buyer referrals, side agreements | Strong long-duration business continuity |
+| **Sater dual role** | Racketeering plea → federal cooperation → Bayrock → Russian/Kazakh deals | Cooperation scope, tasking records, project communications | Criminal and cooperation histories established; government direction unproven |
+| **FL Group / Alfa adviser** | $50m investment in four Bayrock projects; global 50:50 JV | Wire records, beneficial owners, side letters, tax opinions | Investment established; Russian-state-source theory unproven |
+| **Trump SoHo presales** | Sales threshold, disputed sales representations, purchaser deposits | Offering plan, escrow ledger, lender covenants, draw schedules | Presale importance established; direct construction use unresolved |
+| **Almaty/BTA funds** | Later civil judgment against Sater/Bayrock entities; Trump SoHo-related allegations | Unit-level purchase and bank tracing | Sater/Bayrock liability established subject to appeal; Trump knowledge unproven |
+| **Deutsche Bank silos** | Commercial default followed by private-bank loans; Russian AML failures elsewhere | Personnel, credit, participation, correspondent, and beneficial-owner overlap | Both systems established; direct overlap unproven |
+| **Russian condo demand** | $98.4m identified in South Florida; many LLC owners | Complete beneficial-owner and commission ledger | Material buyer constituency established |
+| **Rybolovlev sale** | $95m liquidity event during crisis | SARs, appraisals, communications, source and purpose of funds | Large gain established; corrupt purpose unproven |
+| **Toronto / VEB** | Partner’s asset sale financed by VEB; disputed claim of project reinvestment | Bank and project ledgers | Plausible indirect pathway; not established |
+| **Baku** | PEP family, IRGC-linked counterparties, licensing fees | Diligence, wires, accounting access, contractor records | Serious due-diligence risk; intentional sanctions evasion unproven |
+| **Panama** | Bulk presales and anonymous unit companies | Beneficial owners, deposits, commissions, lender thresholds | Opaque sales architecture established |
+| **Agalarov chain** | Paid pageant → Putin access effort → tower talks → continuing contact → 2016 meeting | Full contracts, bank wires, communications, intelligence reporting | Durable commercial-to-political access chain established |
+
+---
+
+# 9. What the period establishes
+
+## Established or strongly documented
+
+- Trump’s model relied increasingly on outside development capital and brand licensing.
+- Bayrock operated through layered project entities inside Trump Tower.
+- Sater was both a convicted racketeering participant and a long-running federal cooperator.
+- FL Group invested $50 million in four Bayrock projects and created a global joint venture with Bayrock.
+- Trump SoHo’s presale threshold and sales representations were economically material.
+- Purchasers received major deposit refunds without an admission of wrongdoing.
+- Later litigation produced a judgment against Sater and Bayrock entities in a stolen-funds case now on appeal.
+- Deutsche Bank resumed major lending after adversarial Chicago default litigation.
+- Trump entities used false or misleading financial statements in later Deutsche Bank loan transactions.
+- Deutsche Bank separately operated a Russian mirror-trading system with severe AML failures.
+- Russian and post-Soviet buyers constituted a material market for Trump-branded properties.
+- The Rybolovlev sale provided a major crisis-era liquidity event.
+- Baku and Panama exposed the licensing model to politically exposed partners, opaque entities, and weak beneficial-ownership controls.
+- Miss Universe Moscow created a durable relationship with the Agalarov network and generated a Moscow tower negotiation.
+
+## Not established by the public record
+
+- that Bayrock was created or controlled by Russian intelligence;
+- that Trump knew Sater’s complete criminal or cooperation history at every relevant moment;
+- that FL Group’s $50 million came from the Russian state;
+- that Trump participated in the Kriss plaintiffs’ alleged tax scheme;
+- that Trump knew stolen Kazakh funds entered Trump SoHo;
+- that Deutsche Bank’s mirror-trading funds financed Trump loans;
+- that the Rybolovlev purchase was a bribe or laundering transaction;
+- that VEB directly financed Trump Toronto or paid Trump;
+- that Trump knowingly received IRGC funds in Baku;
+- that every anonymous Panama or Florida purchaser was criminal;
+- that Miss Universe Moscow was proven to be a state intelligence operation; or
+- that specific kompromat was obtained and used.
+
+---
+
+# Conclusion
+
+The 2001–2014 period completed the business transformation that began in the 1990s.
+
+Trump increasingly operated less like a conventional principal developer and more like the controlling personality of a platform. The platform could convert:
+
+- a famous name into project credibility;
+- credibility into lender and purchaser interest;
+- foreign partners into development capital;
+- preconstruction demand into market validation;
+- hotel management into recurring fees;
+- politically connected hosts into elite access;
+- and failed projects into limited losses for the licensor while lenders, developers, and purchasers absorbed most of the downside.
+
+The model was particularly attractive to post-Soviet wealth because it offered prestigious Western assets, large transaction values, private-company structures, international brokers, and access to a celebrity who personally cultivated important buyers and partners.
+
+The deepest new finding is not one isolated Russian payment. It is the **interoperability of the network**:
+
+- Sapir connects early Soviet-facing commerce to Trump SoHo;
+- Sater connects organized crime, federal intelligence cooperation, Bayrock, Kazakhstan, and Moscow proposals;
+- FL Group connects institutional foreign capital to four Bayrock projects and a planned global joint venture;
+- Deutsche Bank connects renewed personal-guarantee lending to a bank with independently proven Russian AML failures in separate units;
+- Russian buyers and private entities create a durable property-demand channel;
+- Baku, Panama, and Toronto demonstrate how indirect or opaque capital could reach a Trump-branded project without Trump being the principal developer; and
+- the Agalarov pageant relationship converts a commercial transaction into a continuing channel of political and Kremlin-adjacent access.
+
+The evidence supports a business system with recurring due-diligence failures, opacity, and susceptibility to foreign leverage. It supports deliberate cultivation by counterparties who understood that money, prestige, access, and future projects were powerful incentives for Trump. It does not yet prove one centrally directed Kremlin financing conspiracy.
+
+The next level of proof will come from transaction ledgers: executed licenses, joint-venture agreements, capital accounts, wire transfers, escrow accounts, offering plans, construction loans, private mortgages, title files, beneficial-owner records, compliance reviews, buyer referrals, commissions, pageant payments, and communications among the recurring intermediaries.
+
+Chapter 5 follows these channels into the 2015–2021 campaign, transition, presidency, foreign-government payments, Moscow negotiations, and official counterintelligence findings.
+
+---
+
+## Related research files
+
+- [Chapter 4 supporting research](Tmanch_CH4_support.md)
+- [Chapter 4 claim ledger](Tmanch_CH4_claim_ledger.csv)
+- [Chapter 4 primary-source inventory](Tmanch_CH4_primary_sources.md)
+- [Chapter 4 hypothesis tests and counterevidence](Tmanch_CH4_counterevidence.md)
+- [Chapter 4 open questions and records plan](Tmanch_CH4_open_questions.md)
+- [Chapter 3 recovery-capital research](Tmanch_CH3.md)
