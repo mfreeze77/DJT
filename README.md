@@ -87,7 +87,7 @@ This report will use an **evidence-based approach**, leveraging **public records
    - **Coincidence vs. Intentional Influence**  
      - Are policy decisions just **aligned by chance** or clear evidence of manipulation?  
    - **Legitimate Diplomacy vs. Foreign Subservience**  
-     - Where is the line between normal diplomatic engagement and undue influence?  
+     - Where is the line between normal diplomatic engagement and undue foreign influence?  
    - **Domestic vs. Foreign Power Struggles**  
      - Could the allegations be politically motivated attacks?  
 
@@ -168,3 +168,16 @@ The Chapter 4 expansion follows the recovery model into an international brand-a
 - [Chapter 4 primary-source inventory](Tmanch_CH4_primary_sources.md)
 - [Chapter 4 hypothesis tests and counterevidence](Tmanch_CH4_counterevidence.md)
 - [Chapter 4 open questions and records plan](Tmanch_CH4_open_questions.md)
+
+---
+
+## Chapter 5 Expansion Research
+
+The Chapter 5 expansion follows the commercial network into the 2016 campaign, transition, first administration, and 2020 election. It separates Russian interference, campaign receptivity, contact, coordination, criminal conspiracy, obstruction, financial conflicts, policy alignment, and counterintelligence vulnerability; reconstructs the Manafort–Kilimnik data channel and Agalarov political approach; and turns first-term Presidential records newly subject to PRA/FOIA into a targeted records program.
+
+- [Chapter 5: From Commercial Access to Electoral and Presidential Counterintelligence Risk](Tmanch_CH5.md)
+- [Expanded Chapter 5 supporting research](Tmanch_CH5_support.md)
+- [Chapter 5 claim ledger](Tmanch_CH5_claim_ledger.csv)
+- [Chapter 5 primary-source inventory](Tmanch_CH5_primary_sources.md)
+- [Chapter 5 hypothesis tests and counterevidence](Tmanch_CH5_counterevidence.md)
+- [Chapter 5 open questions and records plan](Tmanch_CH5_open_questions.md)
