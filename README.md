@@ -142,3 +142,16 @@ The Chapter 2 expansion follows the Chapter 1 access chain into direct Soviet cu
 - [Chapter 2 primary-source inventory](Tmanch_CH2_primary_sources.md)
 - [Chapter 2 hypothesis tests and counterevidence](Tmanch_CH2_counterevidence.md)
 - [Chapter 2 open questions and records plan](Tmanch_CH2_open_questions.md)
+
+---
+
+## Chapter 3 Expansion Research
+
+The Chapter 3 expansion reconstructs Trump’s 1990s recovery as a staged capital system: creditor-controlled survival, foreign-asset and public-market recapitalization, and a later partnership/presale/private-credit model in which post-Soviet buyers and intermediaries became increasingly important. It preserves reciprocal-finance, contractor, nominee-buyer, casino-benefit, and bulk-prepurchase ideas as transaction-level hypotheses with defined proof thresholds.
+
+- [Chapter 3: From Creditor Control to Foreign-Demand Recovery](Tmanch_CH3.md)
+- [Expanded Chapter 3 supporting research](Tmanch_CH3_support.md)
+- [Chapter 3 claim ledger](Tmanch_CH3_claim_ledger.csv)
+- [Chapter 3 primary-source inventory](Tmanch_CH3_primary_sources.md)
+- [Chapter 3 hypothesis tests and counterevidence](Tmanch_CH3_counterevidence.md)
+- [Chapter 3 open questions and records plan](Tmanch_CH3_open_questions.md)
