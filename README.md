@@ -181,3 +181,16 @@ The Chapter 5 expansion follows the commercial network into the 2016 campaign, t
 - [Chapter 5 primary-source inventory](Tmanch_CH5_primary_sources.md)
 - [Chapter 5 hypothesis tests and counterevidence](Tmanch_CH5_counterevidence.md)
 - [Chapter 5 open questions and records plan](Tmanch_CH5_open_questions.md)
+
+---
+
+## Chapter 6 Expansion Research
+
+The Chapter 6 expansion reconstructs the period from January 2021 through January 19, 2025 as a transition from legacy real-estate and bank exposure into a broader political-financial platform. It examines replacement property credit, Trump Media equity and emergency financing, foreign-state-linked golf and licensing arrangements, family sovereign-wealth fees, World Liberty Financial, the inauguration-adjacent meme coin, retained Presidential records, Russia's Americanized 2024 influence operations, the Smirnov information-laundering channel, and Orbán's private peace-diplomacy access.
+
+- [Chapter 6: From Post-Presidency Vulnerability to a Global Political-Financial Platform](Tmanch_CH6.md)
+- [Expanded Chapter 6 supporting research](Tmanch_CH6_support.md)
+- [Chapter 6 claim ledger](Tmanch_CH6_claim_ledger.csv)
+- [Chapter 6 primary-source inventory](Tmanch_CH6_primary_sources.md)
+- [Chapter 6 hypothesis tests and counterevidence](Tmanch_CH6_counterevidence.md)
+- [Chapter 6 open questions and records plan](Tmanch_CH6_open_questions.md)
