@@ -22,6 +22,17 @@ The research distinguishes:
 
 Circumstantial evidence is evaluated cumulatively. Timing or association alone is not treated as proof, but the absence of a signed confession does not erase a converging pattern of motive, access, opportunity, concealment, benefit, false explanations, institutional weakening, and subsequent reward.
 
+## Current synthesis and integrity controls
+
+- [Current Working Conclusion](Current_Working_Tmanch_Conclusion.md)
+- [Executive TLDR](DJT_TLDR.md)
+- [Counterevidence Attribution Matrix](Tmanch_Conclusion_Attribution_Matrix.csv)
+- [Source Integrity Audit](SOURCE_INTEGRITY_AUDIT.md)
+
+The active synthesis distinguishes Trump-originated actions from policies imposed or funded by Congress, allies, agencies, military officials, market conditions, or later reversals. It also identifies sanctions and threats that were announced but not implemented, implemented temporarily, or diluted through general licenses and waivers.
+
+The active conclusion, TLDR, and source-controlled `J20-Pres.md` contain no fictional-reference or placeholder URLs.
+
 ---
 
 # Chapter research packages
@@ -109,7 +120,7 @@ The Chapter 7 expansion covers January 20, 2025 through August 26, 2026. It reco
 
 ### `J20-Pres.md` reconciliation package
 
-- [Original rapid-response action ledger](J20-Pres.md)
+- [Source-controlled rapid-response action ledger](J20-Pres.md)
 - [Complete reconciliation and corrections](Tmanch_CH7_J20_reconciliation.md)
 - [Machine-readable event ledger](Tmanch_CH7_J20_event_ledger.csv)
 - [Russian official, state-media, Telegram, and forum reaction chronology](Tmanch_CH7_J20_russian_commentary.md)
@@ -131,8 +142,20 @@ The Chapter 5–7 records plans also include targeted Presidential Records Act, 
 
 ---
 
+# Legacy working papers
+
+Earlier large narrative files remain useful as research history and lead collections, but they do not supersede the source-controlled chapter packages, conclusion, TLDR, and ledgers:
+
+- `DJT 2015-2021.md`
+- `DJT 2021-Pres.md`
+- `Tmanch.md`
+
+Their remaining citations should be modernized before they are used as controlling evidence.
+
+---
+
 # Working analytical principle
 
 The project’s central test is not whether every fact independently proves the entire hypothesis. It is whether multiple independently sourced facts converge on the same explanation more strongly than they support ordinary politics, legitimate commerce, bureaucratic coincidence, or unrelated personal preference.
 
-Serious evidence is not minimized. Weak evidence is not inflated. Counterevidence is preserved because the conclusions that survive it are substantially stronger.
+Serious evidence is not minimized. Weak evidence is not inflated. Counterevidence is preserved and correctly attributed because the conclusions that survive it are substantially stronger.
