@@ -33,6 +33,16 @@ The active synthesis distinguishes Trump-originated actions from policies impose
 
 The active conclusion, TLDR, and source-controlled `J20-Pres.md` contain no fictional-reference or placeholder URLs.
 
+## Russian-linked financial and AML research
+
+- [Russian Capital, AML Exposure, and Influence Matrix](Tmanch_Russian_Capital_AML_Influence_Matrix.md)
+- [Russian-Linked Financial Flow Ledger](Tmanch_Russian_Linked_Financial_Flows.csv)
+- [Financial Quantification and No-Double-Counting Methodology](Tmanch_Russian_Linked_Financial_Methodology.md)
+- [Financial Source Inventory](Tmanch_Russian_Linked_Financial_Sources.md)
+- [Visual Timeline Financial Reconciliation](Tmanch_Visual_Timeline_Financial_Reconciliation.md)
+
+The stand-alone matrix distinguishes direct Trump receipts, project-level transaction value, branded-property volume, indirect capital, prospective deals, and non-cash cultivation. It also reconciles the 2026 Capital One litigation: Capital One says it closed most of a hundreds-account Trump relationship for AML reasons, while the Trump plaintiffs allege the AML rationale was a political pretext. Neither party’s theory has been adjudicated. The matrix explains why the bank action is material independent institutional-risk evidence without mislabeling it a criminal money-laundering finding.
+
 ---
 
 # Chapter research packages
