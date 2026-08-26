@@ -194,3 +194,18 @@ The Chapter 6 expansion reconstructs the period from January 2021 through Januar
 - [Chapter 6 primary-source inventory](Tmanch_CH6_primary_sources.md)
 - [Chapter 6 hypothesis tests and counterevidence](Tmanch_CH6_counterevidence.md)
 - [Chapter 6 open questions and records plan](Tmanch_CH6_open_questions.md)
+
+---
+
+## Chapter 7 Expansion Research
+
+The Chapter 7 expansion replaces the original speculative second-term draft with a documented mosaic through August 26, 2026. It integrates Russian official and business-media reactions, Russian military/nationalist Telegram as controlled perception evidence, the Witkoff–Dmitriev diplomatic-investment channel, Anchorage and later peace negotiations, the August 2026 intelligence reset, and a formal **value → access → requested benefit → official action** payoff framework. Parallel crypto and foreign-value cases are used as methodological controls rather than automatically treated as Russian evidence.
+
+- [Chapter 7: Russia, Ukraine, Private Value, and the Payoff Test](Tmanch_CH7.md)
+- [Expanded Chapter 7 supporting research](Tmanch_CH7_support.md)
+- [Chapter 7 claim ledger](Tmanch_CH7_claim_ledger.csv)
+- [Chapter 7 primary/documentary source inventory](Tmanch_CH7_primary_sources.md)
+- [Chapter 7 hypothesis tests and counterevidence](Tmanch_CH7_counterevidence.md)
+- [Chapter 7 open questions and records plan](Tmanch_CH7_open_questions.md)
+- [Chapter 7 Russian-source annex](Tmanch_CH7_russian_source_annex.md)
+- [Chapter 7 value-to-payoff ledger](Tmanch_CH7_payoff_ledger.csv)
