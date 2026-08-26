@@ -27,9 +27,12 @@ Circumstantial evidence is evaluated cumulatively. Timing or association alone i
 - [Current Working Conclusion](Current_Working_Tmanch_Conclusion.md)
 - [Executive TLDR](DJT_TLDR.md)
 - [Counterevidence Attribution Matrix](Tmanch_Conclusion_Attribution_Matrix.csv)
+- [Transatlantic Deterrence and Russia-Pressure Architecture Matrix](Tmanch_CH7_Transatlantic_Pressure_Architecture_Matrix.md)
 - [Source Integrity Audit](SOURCE_INTEGRITY_AUDIT.md)
 
 The active synthesis distinguishes Trump-originated actions from policies imposed or funded by Congress, allies, agencies, military officials, market conditions, or later reversals. It also identifies sanctions and threats that were announced but not implemented, implemented temporarily, or diluted through general licenses and waivers.
+
+The transatlantic matrix distinguishes formal NATO membership and sanctions listings from operational effectiveness. It reweights Article 5 ambiguity, Ukraine-support suspensions, territorial-recognition policy, specialist enforcement dismantling, hybrid-defense reductions, and the domestic beneficial-ownership rollback. Its weighted **55–70 percent** pressure-architecture degradation range is an explicit analytical estimate—not an audited claim that 55–70 percent of statutory sanctions were repealed.
 
 The active conclusion, TLDR, and source-controlled `J20-Pres.md` contain no fictional-reference or placeholder URLs.
 
@@ -126,6 +129,7 @@ The Chapter 7 expansion covers January 20, 2025 through August 26, 2026. It reco
 - [Primary-source inventory](Tmanch_CH7_primary_sources.md)
 - [Russian-language source appendix](Tmanch_CH7_russian_sources.md)
 - [Counterevidence and hypothesis tests](Tmanch_CH7_counterevidence.md)
+- [Transatlantic Deterrence and Russia-Pressure Architecture Matrix](Tmanch_CH7_Transatlantic_Pressure_Architecture_Matrix.md)
 - [Open questions and records plan](Tmanch_CH7_open_questions.md)
 
 ### `J20-Pres.md` reconciliation package
