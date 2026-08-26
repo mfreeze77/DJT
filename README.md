@@ -194,3 +194,18 @@ The Chapter 6 expansion reconstructs the period from January 2021 through Januar
 - [Chapter 6 primary-source inventory](Tmanch_CH6_primary_sources.md)
 - [Chapter 6 hypothesis tests and counterevidence](Tmanch_CH6_counterevidence.md)
 - [Chapter 6 open questions and records plan](Tmanch_CH6_open_questions.md)
+
+---
+
+## Chapter 7 Expansion Research
+
+The Chapter 7 expansion applies the completed Chapters 1–6 network to the second administration. It tests pre-inauguration private or political value against post-inauguration policy, regulatory, enforcement, trade, technology, clemency, and diplomatic outcomes. It also adds a Russian-language official, state-media, Telegram, and message-board appendix and a dedicated payoff ledger connecting providers, recipients, interests, official actions, counterevidence, and missing records.
+
+- [Chapter 7: From Pre-Inauguration Value to Second-Term Payoff Networks](Tmanch_CH7.md)
+- [Expanded Chapter 7 supporting research](Tmanch_CH7_support.md)
+- [Chapter 7 claim ledger](Tmanch_CH7_claim_ledger.csv)
+- [Chapter 7 payoff ledger](Tmanch_CH7_payoff_ledger.csv)
+- [Chapter 7 primary-source inventory](Tmanch_CH7_primary_sources.md)
+- [Chapter 7 Russian-language source appendix](Tmanch_CH7_russian_sources.md)
+- [Chapter 7 hypothesis tests and counterevidence](Tmanch_CH7_counterevidence.md)
+- [Chapter 7 open questions and records-compulsion plan](Tmanch_CH7_open_questions.md)
