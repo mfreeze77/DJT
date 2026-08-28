@@ -148,13 +148,15 @@ Security Advisor, and Presidential briefing materials.
 # Program 9 — Russian intelligence receipt and operational use of Manafort data
 
 - **Priority:** Highest
-- **Question:** Which service received the information and how was it used?
+- **Question:** Which service received the information and how was it assessed, disseminated, retained, or operationally used?
+- **Analytical baseline:** Treasury establishes Russian intelligence receipt. Meaningful assessment or exploitation is substantially more probable than no use. A specific IRA, Facebook, GRU, or publication-channel application remains unproved.
 - **Custodians:** Treasury sanctions office; ODNI; CIA; NSA; FBI; NARA; allied intelligence archives subject to lawful release.
 - **Date range:** 2016–2017
 - **Search terms:** Kilimnik; polling data; campaign strategy; RIS; GRU; FSB; SVR; IRA; Deripaska.
 - **Records:** Sanctions evidentiary memorandum; intelligence reports; dissemination; analytic products; operational tasking; liaison reporting.
-- **Would establish:** Connection between campaign data and Russian influence operations.
-- **Would falsify stronger claims:** Intelligence received but did not use, considered unreliable, or unrelated to election operations.
+- **Would establish:** Russian analytic use, dissemination, leadership briefing, operational guidance, or a direct connection between campaign data and a Russian influence component.
+- **Would establish a specific Facebook/GRU claim:** Matching unique fields, file hashes, target segments, geographic priorities, release discussions, or operator testimony linking a campaign file to an identified action.
+- **Would falsify stronger claims:** Records showing the information was stale, public, rejected as unreliable, retained only in a non-election business or Ukraine-policy channel, or affirmatively not disseminated to an influence component.
 
 ### Treasury request module
 

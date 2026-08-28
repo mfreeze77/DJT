@@ -314,6 +314,19 @@ The commercial network did not disappear when the campaign began. It changed fun
 
 The transfer of sensitive campaign information into a Russian intelligence channel is established at an official level. The public record does not fully establish whether Manafort intended to assist Russian intelligence, expected a particular reciprocal benefit, or knew how the information would be used.
 
+The downstream-use question should not be treated as an even choice between use and non-use. The probability-weighted assessment is:
+
+1. **Strategic or counterintelligence assessment — highly probable.** Russian intelligence had obvious reasons to evaluate internal polling, battleground assumptions, campaign vulnerabilities, resource plans, and the reliability of Manafort as a channel.
+2. **Dissemination or operational guidance to one or more influence components — moderate to high probability.** Compartmentation could convert raw information into sanitized themes, priorities, timing judgments, or leadership guidance without exposing the original source.
+3. **Direct use by a named IRA or GRU operator for a particular Facebook audience, district, advertisement, or release — plausible but not publicly established.**
+4. **Receipt followed by no meaningful assessment or exploitation — the weakest comprehensive explanation.** It requires an active hostile service to disregard uniquely valuable inside-campaign information during a priority election mission.
+
+The exact downstream route remains a highest-priority records question. The most defensible present wording is:
+
+> **Russian intelligence receipt is established. Meaningful assessment or exploitation is highly probable. Specific Facebook, IRA, GRU, or publication routing remains unproved publicly.**
+
+See the [Manafort–Kilimnik Operational-Use Matrix](Tmanch_CH5_Manafort_Kilimnik_Operational_Use_Matrix.md).
+
 ---
 
 # 6. Transition channel matrix

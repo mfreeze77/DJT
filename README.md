@@ -107,6 +107,7 @@ The Chapter 5 expansion follows commercial networks into the 2016 campaign, tran
 - [Claim ledger](Tmanch_CH5_claim_ledger.csv)
 - [Primary-source inventory](Tmanch_CH5_primary_sources.md)
 - [Counterevidence and hypothesis tests](Tmanch_CH5_counterevidence.md)
+- [Manafort–Kilimnik Operational-Use Matrix](Tmanch_CH5_Manafort_Kilimnik_Operational_Use_Matrix.md)
 - [Open questions and records plan](Tmanch_CH5_open_questions.md)
 
 ## Chapter 6 — Post-presidency political-financial platform
