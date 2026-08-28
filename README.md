@@ -29,11 +29,14 @@ Circumstantial evidence is evaluated cumulatively. Timing or association alone i
 - [Counterevidence Attribution Matrix](Tmanch_Conclusion_Attribution_Matrix.csv)
 - [Transatlantic Deterrence and Russia-Pressure Architecture Matrix](Tmanch_CH7_Transatlantic_Pressure_Architecture_Matrix.md)
 - [Russia–China–Iran Targeting and U.S. Casualty Matrix](Tmanch_CH7_Russia_China_Iran_Targeting_Casualty_Matrix.md)
+- [Russia–Iran Targeting and Sanctions High-Magnitude Red-Flag Finding](Tmanch_CH7_Russia_Iran_Sanctions_High_Magnitude_Red_Flag.md)
 - [Source Integrity Audit](SOURCE_INTEGRITY_AUDIT.md)
 
 The active synthesis distinguishes Trump-originated actions from policies imposed or funded by Congress, allies, agencies, military officials, market conditions, or later reversals. It also identifies sanctions and threats that were announced but not implemented, implemented temporarily, or diluted through general licenses and waivers.
 
 The transatlantic matrix distinguishes formal NATO membership and sanctions listings from operational effectiveness. It reweights Article 5 ambiguity, Ukraine-support suspensions, territorial-recognition policy, specialist enforcement dismantling, hybrid-defense reductions, and the domestic beneficial-ownership rollback. Its weighted **55–70 percent** pressure-architecture degradation range is an explicit analytical estimate—not an audited claim that 55–70 percent of statutory sanctions were repealed.
+
+The Russia–Iran high-magnitude red-flag synthesis isolates the combined significance of American casualties, credible Russian targeting support, Trump’s minimization, public reliance on Moscow’s denial, differential punishment of China-based providers, and successive OFAC licenses preserving qualifying Russian-origin oil transactions. It distinguishes targeted sanctions loosening from wholesale repeal while treating the timing and response asymmetry as a controlling Chapter 7 finding.
 
 The active conclusion, TLDR, and source-controlled `J20-Pres.md` contain no fictional-reference or placeholder URLs.
 
@@ -132,6 +135,7 @@ The Chapter 7 expansion covers January 20, 2025 through August 27, 2026. It reco
 - [Counterevidence and hypothesis tests](Tmanch_CH7_counterevidence.md)
 - [Transatlantic Deterrence and Russia-Pressure Architecture Matrix](Tmanch_CH7_Transatlantic_Pressure_Architecture_Matrix.md)
 - [Russia–China–Iran Targeting and U.S. Casualty Matrix](Tmanch_CH7_Russia_China_Iran_Targeting_Casualty_Matrix.md)
+- [Russia–Iran Targeting and Sanctions High-Magnitude Red-Flag Finding](Tmanch_CH7_Russia_Iran_Sanctions_High_Magnitude_Red_Flag.md)
 - [Open questions and records plan](Tmanch_CH7_open_questions.md)
 
 ### `J20-Pres.md` reconciliation package
