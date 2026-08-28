@@ -387,6 +387,59 @@ Each entry records what the source establishes and what it cannot establish by i
 
 ---
 
+
+## Cambridge Analytica, Facebook targeting, WikiLeaks interest, and Russia-related access risks
+
+### CH5-SRC-046 — FTC Cambridge Analytica final opinion and order
+
+- **Agency:** Federal Trade Commission
+- **Date:** December 2019
+- **Location:** [FTC Cambridge Analytica case](https://www.ftc.gov/legal-library/browse/cases-proceedings/182-3107-cambridge-analytica-llc-matter)
+- **Supports:** FTC finding that Cambridge Analytica deceptively harvested personal information for voter profiling and targeting.
+- **Does not establish:** Russian access, use on a particular Trump audience, or election-result effect.
+
+### CH5-SRC-047 — FTC Kogan and Nix settlements and data-method summary
+
+- **Agency:** Federal Trade Commission
+- **Date:** July–December 2019
+- **Location:** [FTC Kogan/Nix matter](https://www.ftc.gov/legal-library/browse/cases-proceedings/182-3106-182-3107-aleksandr-kogan-alexander-nix-matter)
+- **Supports:** GSR application data collection; personality scoring; matching with U.S. voter records; targeted-advertising services; required deletion/destruction remedies.
+- **Does not establish:** A Cambridge Analytica–Russian intelligence relationship.
+
+### CH5-SRC-048 — Alexander Nix oral evidence concerning Assange
+
+- **Body:** UK House of Commons Digital, Culture, Media and Sport Committee
+- **Dates:** February 27 and June 6, 2018
+- **Locations:** [February testimony](https://committees.parliament.uk/oralevidence/7660/html/) · [June testimony](https://committees.parliament.uk/oralevidence/8065/html/)
+- **Supports:** Nix admitted Cambridge Analytica attempted to contact Assange through an intermediary to discuss reportedly election-relevant material; the approach was rejected.
+- **Does not establish:** Working relationship, possession of stolen material, release coordination, or Russian direction.
+
+### CH5-SRC-049 — Christopher Wylie oral evidence
+
+- **Body:** UK House of Commons Digital, Culture, Media and Sport Committee
+- **Date:** March 27, 2018
+- **Location:** [Wylie oral evidence](https://committees.parliament.uk/oralevidence/7803/html/)
+- **Supports:** Sworn account of Facebook-derived models, Ripon/AIQ architecture, Kogan's Russian work, Lukoil presentations, data-security risks, and limits on Wylie's allegations.
+- **Does not establish:** Truth of every allegation, Russian access, or knowing collusion.
+
+### CH5-SRC-050 — Wylie supplementary written evidence
+
+- **Body:** UK House of Commons Digital, Culture, Media and Sport Committee
+- **Date:** April 2018
+- **Location:** [Supplementary evidence](https://committees.parliament.uk/writtenevidence/89475/html/)
+- **Supports:** Documentary allegations concerning GSR/Facebook derivatives, Kogan's Russian research, Lukoil contacts, Ripon/AIQ, and security exposure.
+- **Does not establish:** Adjudicated Russian intelligence access or a Manafort-to-IRA bridge.
+
+### CH5-SRC-051 — House of Commons disinformation final report
+
+- **Body:** UK House of Commons Digital, Culture, Media and Sport Committee
+- **Date:** February 2019
+- **Location:** [Final report, foreign-influence section](https://publications.parliament.uk/pa/cm201719/cmselect/cmcumeds/1791/179109.htm)
+- **Supports:** Committee record of ICO findings concerning Russian/associated-state IP addresses connected to Kogan-related data/server activity and referral to relevant authorities/NCA.
+- **Does not establish:** Malicious access, Russian intelligence identity, access to the Trump campaign dataset, or operational use.
+
+---
+
 # Priority retrieval gaps
 
 The most important missing primary records are:

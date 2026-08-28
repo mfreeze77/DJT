@@ -327,6 +327,28 @@ The exact downstream route remains a highest-priority records question. The most
 
 See the [Manafort–Kilimnik Operational-Use Matrix](Tmanch_CH5_Manafort_Kilimnik_Operational_Use_Matrix.md).
 
+
+## 5A. Cambridge Analytica as capability, access risk, and possible—but unproved—routing node
+
+Cambridge Analytica should not be collapsed into the Manafort–Kilimnik chain as though the bridge were already proved.
+
+The public record supports four separate propositions:
+
+| Proposition | Present assessment |
+|---|---|
+| Cambridge Analytica possessed and deployed voter-profiling and targeted-advertising capability | **Established by FTC and company/parliamentary records** |
+| Cambridge Analytica leadership sought access to Assange's reportedly election-relevant material | **Established; approach rejected** |
+| Russia-related access risks existed around Kogan's Russian work, Lukoil contacts, insecure systems, and Russian-associated IP activity | **Documented risk leads; actual Russian access unproved** |
+| Cambridge Analytica transmitted Manafort data to Russia or converted Russian intelligence guidance into specific ads | **Not publicly established** |
+
+Cambridge Analytica matters even if it was not the bridge. It shows that the campaign had the machinery to transform voter information into targeted communications. It also shows how distributed vendors, models, datasets, subcontractors, and platform accounts could obscure who accessed a dataset and how derivative information moved.
+
+The strongest present formulation is:
+
+> **Russian intelligence receipt is established. Meaningful exploitation is highly probable. Cambridge Analytica is a plausible but unproved operational or security-risk node; no public record yet links a named campaign file to a named Cambridge Analytica audience, IRA advertisement, GRU action, or WikiLeaks release.**
+
+See the [Cambridge Analytica Data-Bridge Matrix](Tmanch_CH5_Cambridge_Analytica_Data_Bridge_Matrix.md).
+
 ---
 
 # 6. Transition channel matrix

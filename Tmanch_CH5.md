@@ -194,6 +194,28 @@ The evidentiary limit is important: no public record presently connects a specif
 
 See the [Manafort–Kilimnik Operational-Use Matrix](Tmanch_CH5_Manafort_Kilimnik_Operational_Use_Matrix.md) for the full evidence ladder, competing hypotheses, operational pathways, and records plan.
 
+
+## 3.3A Cambridge Analytica: campaign targeting capability and the missing operational bridge
+
+Cambridge Analytica is related to the Manafort–Kilimnik inquiry because it demonstrates that the Trump campaign possessed a mature domestic system for converting voter information into surveys, audience segments, message tests, and targeted digital advertising.
+
+The Federal Trade Commission found that Cambridge Analytica used deceptively collected Facebook information to generate personality scores, matched those scores with U.S. voter records, and used the resulting products for voter profiling and targeted-advertising services. That establishes campaign-era capability; it does not establish a Russian transfer.
+
+Cambridge Analytica also created additional counterintelligence questions:
+
+- Alexander Nix admitted that the company attempted to contact Julian Assange through an intermediary to discuss material reportedly relevant to the election; the approach was rejected.
+- Christopher Wylie testified and submitted documents concerning Aleksandr Kogan's Russian-funded psychological-profiling work while he was involved in the Facebook-data project.
+- Wylie described Cambridge Analytica presentations to Lukoil concerning American targeting capacity, data, disinformation, and rumor-campaign techniques; Nix described the contact as a benign Turkish customer-marketing proposal that never proceeded.
+- A House of Commons final report recorded that the UK Information Commissioner found Russian or associated-state IP addresses connected to data/server activity involving Kogan's earlier app and referred the issue to relevant authorities and the National Crime Agency.
+
+These facts make Cambridge Analytica a legitimate access-risk and routing node. They do **not** publicly establish that Cambridge Analytica transmitted Manafort's polling to Russia, received targeting instructions from Russian intelligence, or served as the bridge between Kilimnik and the IRA or GRU.
+
+The precise assessment is:
+
+> **Cambridge Analytica proves campaign-side data-to-message capability and creates a serious foreign-access-risk node. Manafort–Kilimnik proves Russian intelligence receipt of sensitive campaign information. The missing evidence is the operational routing record connecting those systems—or showing that Russian intelligence exploited the information through a different channel.**
+
+See the [Cambridge Analytica Data-Bridge Matrix](Tmanch_CH5_Cambridge_Analytica_Data_Bridge_Matrix.md).
+
 Manafort’s convictions and guilty plea involved tax offenses, bank fraud, unregistered foreign work, money laundering-related conspiracy, false statements, and witness tampering. He was not convicted of conspiring with Russia to interfere in the election.
 
 ## 3.4 Roger Stone, WikiLeaks, and the search for advance information

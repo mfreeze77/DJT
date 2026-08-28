@@ -267,6 +267,47 @@ The absence of the final public routing record limits specificity; it does not r
 
 ---
 
+
+# Hypothesis 9A — Cambridge Analytica was the missing bridge between Manafort data and Russian operations
+
+## Supporting evidence
+
+- Cambridge Analytica worked inside the Trump campaign's voter-targeting and digital-advertising environment.
+- The FTC found that Cambridge Analytica combined Facebook-derived information with voter records for profiling and targeted advertising.
+- Alexander Nix admitted seeking contact with Julian Assange concerning material reportedly relevant to the election; the approach was rejected.
+- Parliamentary testimony and submissions identified Russia-related security concerns involving Kogan's Russian work, Lukoil presentations, distributed technical systems, and Russian-associated IP activity.
+- Sensitive Manafort/Gates campaign information separately reached Russian intelligence while IRA and GRU operations were active.
+
+## Counterevidence
+
+- No public record shows Cambridge Analytica transmitted Manafort's polling to Kilimnik, Russia, the IRA, GRU, or WikiLeaks.
+- No public record shows Russian intelligence sent Cambridge Analytica targeting instructions.
+- Nix described the Lukoil work as a benign Turkish petrol-station marketing proposal that never proceeded.
+- Wylie expressly disclaimed alleging knowing Cambridge Analytica or Kogan collusion with Russia.
+- Russian actors possessed independent public, commercial, platform, and reconnaissance data.
+- The UK IP-address evidence was an investigative lead, not proof that Russian intelligence accessed the Trump campaign dataset.
+
+## What would establish the hypothesis
+
+- matching unique fields or audience hashes;
+- vendor access logs or transmissions;
+- Russian analytic products citing Cambridge Analytica or campaign models;
+- common administrators, accounts, payment instruments, or IP/device records;
+- operator testimony;
+- or communications linking Manafort/Kilimnik information to Cambridge Analytica, IRA, GRU, or WikiLeaks decisions.
+
+## Current assessment
+
+**Cambridge Analytica is a plausible and important routing or security-risk node, but it is not publicly established as the bridge.** Its proven significance is that it demonstrates campaign-side data-to-message capability and creates additional access pathways that require records-based testing.
+
+The correct distinction is:
+
+- **general Russian intelligence use of Manafort information:** highly probable;
+- **Cambridge Analytica involvement in that use:** plausible but unproved;
+- **a named file-to-Facebook or file-to-release action:** not publicly established.
+
+---
+
 # Hypothesis 10 — Roger Stone served as the campaign’s operational link to WikiLeaks and Russian intelligence
 
 ## Supporting evidence
