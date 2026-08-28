@@ -167,7 +167,17 @@ The Senate Intelligence Committee treated Manafort’s access and his relationsh
 
 Source: [Treasury, April 15, 2021](https://home.treasury.gov/news/press-releases/jy0126).
 
-This is among the strongest official findings in the entire record. It establishes that sensitive campaign information reached Russian intelligence through a campaign chairman’s long-term associate.
+This is among the strongest official findings in the entire record. It resolves the first half of the chain: **sensitive internal Trump campaign information reached Russian intelligence through the campaign chairman’s long-term associate while Russia was conducting several active election-influence operations.**
+
+Three propositions must be separated.
+
+| Proposition | Present assessment |
+|---|---|
+| Russian intelligence received sensitive polling and campaign-strategy information | **Officially established** |
+| Russian intelligence meaningfully assessed, circulated, retained, or exploited that information | **Highly probable analytical inference** |
+| A particular file directly selected a particular Facebook audience, district, advertisement, or GRU/WikiLeaks release date | **Plausible but not publicly established** |
+
+The second proposition is more probable than institutional inaction. An intelligence service conducting hacking, staged publication, false-persona, social-media, and political-influence operations had obvious reasons to exploit confidential information from inside one of the two presidential campaigns. The material could improve strategic assessment, validate battleground assumptions, reveal message or turnout vulnerabilities, guide resource allocation, inform release-impact analysis, or assess Manafort as a continuing channel without being handed directly to an Internet Research Agency advertisement buyer.
 
 The public record still leaves major questions:
 
@@ -175,9 +185,14 @@ The public record still leaves major questions:
 - how frequently they were updated;
 - what geographic or demographic detail they contained;
 - who within Russian intelligence received them;
-- how the information was analyzed or used;
+- which analytic products or briefings incorporated them;
+- whether they informed IRA messaging, Facebook targeting, GRU release timing, or another operation;
 - whether Manafort understood Kilimnik’s current intelligence role; and
 - whether the transfer was connected to debt, future business, Deripaska, a Ukraine peace plan, or another expected benefit.
+
+The evidentiary limit is important: no public record presently connects a specific Manafort file to a specific IRA advertisement, Facebook audience, voting district, GRU action, or WikiLeaks release. But the missing final routing record should not be mistaken for evidence that Russian intelligence received the material and did nothing meaningful with it.
+
+See the [Manafort–Kilimnik Operational-Use Matrix](Tmanch_CH5_Manafort_Kilimnik_Operational_Use_Matrix.md) for the full evidence ladder, competing hypotheses, operational pathways, and records plan.
 
 Manafort’s convictions and guilty plea involved tax offenses, bank fraud, unregistered foreign work, money laundering-related conspiracy, false statements, and witness tampering. He was not convicted of conspiring with Russia to interfere in the election.
 

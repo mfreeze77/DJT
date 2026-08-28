@@ -256,7 +256,14 @@ Each hypothesis is stated in its strongest useful form and tested against suppor
 
 ## Current assessment
 
-**Plausible and high priority, but not established publicly.**
+**A specific file-to-Facebook, file-to-IRA, or file-to-GRU operational bridge is not established publicly. Meaningful Russian intelligence assessment or exploitation of the data is nevertheless substantially more probable than institutional inaction.**
+
+The hypothesis should therefore be divided:
+
+- **General intelligence use:** high-probability inference based on official receipt, obvious value, timing, and the existence of active Russian election operations.
+- **Specific social-media or release use:** plausible and high priority, but unproved without matching files, analytic products, tasking, or operator testimony.
+
+The absence of the final public routing record limits specificity; it does not return the analysis to a neutral zero baseline.
 
 ---
 

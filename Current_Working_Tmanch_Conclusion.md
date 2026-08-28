@@ -400,6 +400,8 @@ The absence of proof for Proposition B does not erase the evidence supporting Pr
 - Trump retained ownership of businesses receiving foreign-government revenue;
 - and Russia conducted another Putin-authorized influence operation in 2020 using proxies and domestic laundering channels.
 
+The Manafort–Kilimnik chain deserves additional weight. Treasury’s finding establishes that sensitive internal polling and campaign-strategy information reached Russian intelligence while Russia was conducting simultaneous hacking, staged-publication, social-media, and influence operations. The public record does not show that a particular campaign file selected a particular Facebook audience, district, advertisement, or release date. But meaningful Russian intelligence assessment, dissemination, retention, or exploitation is substantially more probable than the proposition that an active hostile service received uniquely valuable inside-campaign information and did nothing consequential with it. The unresolved question is principally **how the information was used**, not whether it had obvious value. See the [Manafort–Kilimnik Operational-Use Matrix](Tmanch_CH5_Manafort_Kilimnik_Operational_Use_Matrix.md).
+
 Mueller did not establish a criminal campaign–Russian government conspiracy or coordination agreement. That finding must remain.
 
 It does not erase:
@@ -602,6 +604,10 @@ Bogatin, shell-company opacity, recurring bulk and all-cash purchases, casino BS
 ### Russia repeatedly acted to advance Trump’s political success
 
 The official record establishes Russian interference in 2016 and a Putin-authorized influence operation in 2020. The later record shows continued Russian preference and exploitation surrounding his return.
+
+### Sensitive inside-campaign information reached Russian intelligence during an active election operation
+
+Treasury’s official finding resolves receipt. Meaningful intelligence assessment or exploitation is highly probable from the information’s obvious value, timing, and the existence of simultaneous Russian influence operations. A specific Facebook, IRA, GRU, or publication-channel use remains unproved publicly.
 
 ### Trump and his orbit repeatedly accepted, concealed, or benefited from foreign approaches
 
