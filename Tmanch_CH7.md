@@ -1,9 +1,9 @@
 # Chapter 7: From Institutional Withdrawal to Second-Term Payoff Networks
-## January 20, 2025–August 26, 2026
+## January 20, 2025–August 27, 2026
 
-> **Research status:** Rebuilt from the completed Chapters 1–6, reconciled line by line against [`J20-Pres.md`](J20-Pres.md), and updated through August 26, 2026.  
+> **Research status:** Rebuilt from the completed Chapters 1–6, reconciled line by line against [`J20-Pres.md`](J20-Pres.md), and updated through August 27, 2026.  
 > **Supersedes:** The former prospective Chapter 7 and the narrower first reconstruction.  
-> **Related files:** [supporting research](Tmanch_CH7_support.md) · [claim ledger](Tmanch_CH7_claim_ledger.csv) · [payoff ledger](Tmanch_CH7_payoff_ledger.csv) · [J20 reconciliation](Tmanch_CH7_J20_reconciliation.md) · [J20 event ledger](Tmanch_CH7_J20_event_ledger.csv) · [OFAC matrix](Tmanch_CH7_OFAC_license_matrix.csv) · [primary sources](Tmanch_CH7_primary_sources.md) · [Russian-source appendix](Tmanch_CH7_russian_sources.md) · [J20 Russian commentary](Tmanch_CH7_J20_russian_commentary.md) · [counterevidence](Tmanch_CH7_counterevidence.md) · [open questions](Tmanch_CH7_open_questions.md)
+> **Related files:** [supporting research](Tmanch_CH7_support.md) · [claim ledger](Tmanch_CH7_claim_ledger.csv) · [payoff ledger](Tmanch_CH7_payoff_ledger.csv) · [J20 reconciliation](Tmanch_CH7_J20_reconciliation.md) · [J20 event ledger](Tmanch_CH7_J20_event_ledger.csv) · [OFAC matrix](Tmanch_CH7_OFAC_license_matrix.csv) · [primary sources](Tmanch_CH7_primary_sources.md) · [Russia–China–Iran targeting and casualty matrix](Tmanch_CH7_Russia_China_Iran_Targeting_Casualty_Matrix.md) · [Russian-source appendix](Tmanch_CH7_russian_sources.md) · [J20 Russian commentary](Tmanch_CH7_J20_russian_commentary.md) · [counterevidence](Tmanch_CH7_counterevidence.md) · [open questions](Tmanch_CH7_open_questions.md)
 
 ---
 
@@ -165,6 +165,22 @@ The administration also:
 - and remained part of a NATO framework pledging major Ukraine support in 2026 and 2027.
 
 The public record is therefore not uninterrupted obedience. It is a personalized, transactional, oscillating policy in which Trump’s preferences repeatedly generated Russian advantages while institutions, allies, markets, battlefield events, domestic politics, and Trump’s frustration imposed countervailing costs.
+
+## Finding 6A — Foreign targeting support reached Iran during lethal attacks on Americans, while Russian pressure was relaxed
+
+The Russia–Iran relationship became an American-casualty issue in 2026.
+
+Official U.S. military records establish that an Iranian unmanned aircraft struck a U.S. tactical operations facility at Port Shuaiba, Kuwait, on March 1, killing six Army Reserve soldiers and wounding additional personnel. U.S. intelligence reporting subsequently indicated that Russia supplied Iran with information concerning American warships, aircraft, and other military assets. A later intelligence assessment reviewed by Reuters described at least 24 Russian satellite surveys covering 46 military and critical-infrastructure objects in 11 Middle Eastern countries, with Iranian attacks reportedly following Russian collection in multiple cases.
+
+The public record does not yet identify which Russian intelligence product caused any individual casualty. It does, however, place Russian operational support inside the same campaign in which Americans were killed and wounded.
+
+The China evidence provides an important comparator. The State Department sanctioned three China-based geospatial companies and an Iranian intermediary on the ground that imagery of U.S. and allied military facilities enabled Iranian strikes against U.S. forces. The public attribution was company-specific; it did not establish that Beijing directed every transfer.
+
+Trump's response to the Russian allegation was markedly different. After attending the dignified transfer for the soldiers killed in Kuwait, he minimized the reported assistance and resisted treating it as a major rupture in U.S.–Russia relations. Witkoff later said Putin and Yuri Ushakov denied the assistance and that the United States could take them at their word, while acknowledging that intelligence agencies needed to determine the truth.
+
+At the same time, Treasury issued General License 133 and then the 134 series, authorizing delivery and sale of qualifying Russian-origin oil cargoes. GL 133 preceded public reporting of the intelligence allegation by one day; GL 134 and its extensions followed the public allegation and Trump's minimization. These were limited energy-market authorizations, not repeal of the Russia sanctions regime. They nevertheless preserved Russian transaction and revenue channels during a period when Moscow was credibly accused of helping Iran locate American military assets.
+
+The complete evidence and causation ladder appears in the [Russia–China–Iran Targeting and U.S. Casualty Matrix](Tmanch_CH7_Russia_China_Iran_Targeting_Casualty_Matrix.md).
 
 ## Finding 7 — The strongest financial-policy chain is UAE–World Liberty–AI chips–Binance
 
@@ -1013,6 +1029,71 @@ The public record does not establish the substance of the talks or an improper c
 
 ---
 
+# 17A. Russia–China–Iran targeting support and American casualties
+
+The Russia–Iran intelligence relationship became a direct commander-in-chief test when Iranian attacks killed and wounded American service members.
+
+## 17A.1 Established American casualties
+
+The U.S. Army Reserve confirmed that six soldiers assigned to the 103rd Sustainment Command died at Port Shuaiba, Kuwait, on March 1, 2026, during an Iranian unmanned-aircraft attack. CENTCOM also reported seriously wounded personnel and additional shrapnel and concussion injuries during the opening attacks.
+
+This casualty record is established independently of the foreign-intelligence question.
+
+## 17A.2 Russian targeting support
+
+On March 6, reporting based on three officials familiar with U.S. intelligence stated that Russia supplied Iran with targeting information including the locations of American warships and aircraft.
+
+Reuters later reviewed a Ukrainian intelligence assessment alleging that Russian satellites conducted at least 24 reconnaissance surveys covering 46 military and critical-infrastructure objects in 11 countries from March 21 through March 31. Iranian strikes reportedly followed Russian collection within days in multiple cases. The assessment described a sequence involving Prince Sultan Air Base: Russian collection preceded a March 27 Iranian strike that damaged a U.S. E-3 Sentry AWACS aircraft, followed by additional Russian collection on March 28. Reuters reported partial corroboration from two other Western or regional sources. Russia denied the allegation.
+
+The complete U.S. assessment, satellite tasking, imagery dissemination, Iranian receipt records, and strike packages remain unavailable publicly. The evidence is therefore stronger than rumor but narrower than a declassified final intelligence finding.
+
+## 17A.3 China-based imagery support
+
+The State Department separately sanctioned MizarVision/Meentropy Technology, The Earth Eye, Chang Guang Satellite Technology, and Iranian intermediary MINDEX. The official U.S. finding was that imagery of U.S. and allied military facilities enabled Iranian military strikes against U.S. forces.
+
+That establishes company-level enabling support. It does not establish that the Chinese central government directed every transaction.
+
+## 17A.4 Presidential response and Russian denials
+
+After attending the dignified transfer for the six soldiers killed in Kuwait, Trump publicly minimized the reported Russian assistance, saying in substance that it had not helped Iran much and resisting the conclusion that it should materially alter U.S.–Russia relations.
+
+Witkoff later said Putin and Ushakov denied sharing the information and that the United States could take them at their word, while also saying intelligence officials should determine the facts.
+
+The public response did not include an identified Russia-specific sanction tied to the targeting support, an explicit presidential warning, or a visible rupture in diplomacy.
+
+## 17A.5 Russian-oil authorizations during the controversy
+
+OFAC issued:
+
+- General License 133 on March 5;
+- General License 134 on March 12;
+- General License 134A on March 19;
+- General License 134B on April 17; and
+- General License 134C on May 18.
+
+The licenses authorized specified delivery and sale transactions involving Russian-origin crude oil and petroleum products. They served identifiable energy-market and supply-stabilization purposes. They did not delist Russia's major energy companies wholesale or repeal the broader sanctions system.
+
+Their significance lies in the chronology. GL 133 preceded public disclosure of the targeting allegation by one day. The broader 134 series continued after the allegation was public, after Trump minimized it, and while further Russian satellite-support reporting emerged.
+
+The result was an asymmetry:
+
+- China-based providers were publicly named and sanctioned for enabling strikes on U.S. forces;
+- Russia denied the allegation and received presidential minimization;
+- no equivalent public Russia-specific consequence tied to the targeting support has been identified;
+- and qualifying Russian oil transactions remained authorized through successive licenses.
+
+## 17A.6 August 27 continuation
+
+When asked on August 27 whether Russia should face punishment for doing business with Iran, Trump said Russia had behaved “quite well” concerning the Strait of Hormuz.
+
+The narrow reading is that he was evaluating Russian maritime behavior rather than revisiting the targeting allegation. The broader analytical significance is that the targeting controversy did not create a durable public presumption of hostility or end the exceptional trust framing applied to Moscow.
+
+## 17A.7 Current finding
+
+> **The public record does not show that Trump wanted American troops harmed, nor does it identify which Russian or Chinese intelligence product caused each casualty. It does establish that Russian state-linked and China-based actors supplied operational targeting support during a campaign that killed and wounded Americans; that the United States publicly sanctioned the named China-based providers; and that Trump's visible response to Russia emphasized minimization, Moscow's denial, continued diplomacy, and licensed Russian-oil pathways. That differential treatment materially strengthens the finding that Russia occupied an exceptional and unusually protected position in Trump's threat hierarchy.**
+
+See the [complete targeting, casualty, sanctions, and records matrix](Tmanch_CH7_Russia_China_Iran_Targeting_Casualty_Matrix.md).
+
 # 18. Circumstantial-evidence assessment
 
 ## 18.1 Directly established mechanisms
@@ -1105,6 +1186,8 @@ The reconciled 2025 action ledger establishes that the opening Russia pattern ex
 
 Russian officials, state media, nationalist channels, and public communities recognized many of those benefits in real time.
 
+The Russia–Iran targeting record adds a direct American-casualty dimension. Iranian attacks killed and wounded U.S. service members, including six Army Reserve soldiers at Port Shuaiba. U.S. intelligence reporting indicated that Russia supplied information concerning American military assets, and later reporting described Russian satellite collection preceding Iranian strikes. The State Department publicly sanctioned China-based geospatial companies for imagery that enabled attacks on U.S. forces. Trump instead minimized the Russian allegation, entertained Moscow's denial, maintained high-level engagement, and presided over successive authorizations for qualifying Russian-origin oil cargoes. The licenses had defensible energy-market purposes and did not erase Russia sanctions, but they preserved Russian transaction value during a period when Moscow was credibly accused of helping Iran target Americans. That response asymmetry is now part of the Chapter 7 payoff and influence analysis.
+
 The later record matters just as much. The United States restored weapons and intelligence support, maintained NATO, pressured Russian oil revenue, sanctioned major Russian energy companies, and participated in large allied commitments to Ukraine. The mixed record is inconsistent with a simple claim that every action was dictated by Moscow.
 
 The financial-payoff inquiry produces a separate and in some respects stronger conclusion. UAE–World Liberty–AI–Binance, Justin Sun’s purchases and regulatory interests, Qatar’s project and aircraft, Saudi sovereign/private overlap, and Vietnam’s project during tariff negotiations each demonstrate that foreign or regulated actors could deliver private value close in time to official benefit.
@@ -1141,6 +1224,7 @@ The next level of proof will come from records rather than rhetoric:
 - [Machine-readable J20 event ledger](Tmanch_CH7_J20_event_ledger.csv)
 - [OFAC license matrix](Tmanch_CH7_OFAC_license_matrix.csv)
 - [Chapter 7 primary-source inventory](Tmanch_CH7_primary_sources.md)
+- [Russia–China–Iran targeting and U.S. casualty matrix](Tmanch_CH7_Russia_China_Iran_Targeting_Casualty_Matrix.md)
 - [Russian-language source appendix](Tmanch_CH7_russian_sources.md)
 - [J20 Russian commentary chronology](Tmanch_CH7_J20_russian_commentary.md)
 - [Hypothesis tests and counterevidence](Tmanch_CH7_counterevidence.md)

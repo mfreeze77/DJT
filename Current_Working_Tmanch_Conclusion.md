@@ -1,9 +1,9 @@
 # Current Working Conclusion
 ## Donald J. Trump, Russian Influence, Financial Leverage, and the Functional-Agent Question
-### Coverage: 1977–August 26, 2026
+### Coverage: 1977–August 27, 2026
 
 > **Research status:** Reconstructed from the completed Chapters 1–7 evidence architecture and the financial-flow reconciliation.  
-> **Core supporting files:** [Russian Capital, AML, and Influence Matrix](Tmanch_Russian_Capital_AML_Influence_Matrix.md) · [Russian-linked financial-flow ledger](Tmanch_Russian_Linked_Financial_Flows.csv) · [financial methodology](Tmanch_Russian_Linked_Financial_Methodology.md) · [counterevidence attribution matrix](Tmanch_Conclusion_Attribution_Matrix.csv) · [Chapter 7 J20 reconciliation](Tmanch_CH7_J20_reconciliation.md)
+> **Core supporting files:** [Russian Capital, AML, and Influence Matrix](Tmanch_Russian_Capital_AML_Influence_Matrix.md) · [Russian-linked financial-flow ledger](Tmanch_Russian_Linked_Financial_Flows.csv) · [financial methodology](Tmanch_Russian_Linked_Financial_Methodology.md) · [counterevidence attribution matrix](Tmanch_Conclusion_Attribution_Matrix.csv) · [Chapter 7 J20 reconciliation](Tmanch_CH7_J20_reconciliation.md) · [Russia–China–Iran targeting and casualty matrix](Tmanch_CH7_Russia_China_Iran_Targeting_Casualty_Matrix.md)
 
 ---
 
@@ -98,7 +98,8 @@ The cumulative pattern includes:
 15. weakening of institutions designed to detect, expose, or punish foreign influence and illicit wealth;
 16. monetizable foreign-access channels tied to Trump and his family;
 17. later official benefits occurring near private-value channels; and
-18. independent banking scrutiny of hundreds of Trump-affiliated accounts for stated anti-money-laundering reasons.
+18. independent banking scrutiny of hundreds of Trump-affiliated accounts for stated anti-money-laundering reasons; and
+19. Russian and China-based targeting support supplied to Iran during attacks that killed and wounded American service members, followed by sharply different public consequences.
 
 The evidentiary force lies in the convergence.
 
@@ -501,9 +502,31 @@ Additional weapons, the India oil tariff, and Rosneft/Lukoil designations were r
 
 The accurate finding is not that Trump never acted against a Russian interest. It is that adverse action often emerged reactively, transactionally, or under institutional constraint rather than from a stable strategy of resisting Putin.
 
-## 8.4 Russia–Iran
+## 8.4 Russia–Iran targeting support, American casualties, and sanctions relief
 
-Russia’s strategic partnership with Iran and reported provision of targeting information concerning U.S. forces make later Russian-oil authorizations particularly revealing. Those authorizations did not abolish the sanctions regime, but they demonstrate that pressure on Moscow remained negotiable when it conflicted with Trump’s energy-price, market-stability, diplomatic, or short-term political priorities.
+The Russia–Iran seam now reaches beyond Ukraine and regional diplomacy into attacks on American personnel.
+
+Official U.S. military records establish that an Iranian unmanned aircraft struck a U.S. tactical operations facility at Port Shuaiba, Kuwait, on March 1, 2026, killing six Army Reserve soldiers and wounding additional personnel. U.S. intelligence reporting indicated that Russia supplied Iran with targeting information concerning American warships, aircraft, and other military assets.
+
+A later intelligence assessment reviewed by Reuters described at least 24 Russian satellite surveys covering 46 military and critical-infrastructure objects in 11 Middle Eastern countries from March 21 through March 31. Iranian attacks reportedly followed Russian collection within days in multiple cases. The assessment included a sequence involving Prince Sultan Air Base, where collection preceded an Iranian strike that damaged a U.S. E-3 Sentry AWACS aircraft. Reuters reported partial corroboration from other Western and regional sources. Russia denied the allegation.
+
+The public record does not establish which Russian intelligence product caused any individual casualty. That casualty-specific chain remains classified or unreleased. The operational assistance itself is strongly supported by intelligence reporting and a detailed collection-to-strike chronology.
+
+The China evidence provides a formal comparator. The State Department sanctioned three China-based geospatial companies and an Iranian intermediary on the ground that their imagery of U.S. and allied military facilities enabled Iranian strikes against U.S. forces. The attribution was company-specific and did not establish Chinese central-government direction of every transfer.
+
+Trump's response to Russia was markedly different. After attending the dignified transfer for the six soldiers killed in Kuwait, he minimized the reported Russian assistance and resisted treating it as a major rupture in U.S.–Russia relations. Witkoff later said Putin and Yuri Ushakov denied the assistance and that the United States could take them at their word, subject to intelligence review.
+
+Treasury simultaneously issued General License 133 and then General Licenses 134, 134A, 134B, and 134C, authorizing specified delivery and sale transactions involving Russian-origin crude oil and petroleum products. GL 133 preceded public disclosure of the targeting allegation by one day. The 134 series followed the public allegation and Trump's minimization.
+
+Those licenses served identifiable energy-supply and market-stability purposes. They did not repeal the Russia sanctions regime or prove a reward to Moscow. They nevertheless preserved Russian transaction and revenue pathways while Russia was credibly accused of helping Iran locate American military assets.
+
+As of August 27, this research has identified public sanctions against the named China-based providers but no equivalent publicly announced Russia-specific consequence imposed because of Moscow's reported targeting assistance. Trump later said Russia had behaved “quite well” concerning the Strait of Hormuz.
+
+The resulting finding is:
+
+> **The Russia–Iran targeting relationship converts the influence inquiry from abstract policy alignment into a question involving American blood. Foreign adversary-linked actors supplied operational targeting support during a lethal campaign against U.S. forces. Trump did not publicly respond to Russia with the attribution, warning, rupture, or sustained consequence applied to the China-based providers. Instead, he minimized the allegation, entertained Moscow's denial, preserved diplomacy, and allowed qualifying Russian oil transactions through successive licenses. This asymmetry materially strengthens the conclusion that Russia occupied an exceptional and unusually insulated position in Trump's threat hierarchy even when Russian conduct directly threatened American personnel.**
+
+The full causation ladder, source comparison, licensing chronology, alternative explanations, and records plan appear in the [Russia–China–Iran Targeting and U.S. Casualty Matrix](Tmanch_CH7_Russia_China_Iran_Targeting_Casualty_Matrix.md).
 
 ---
 
@@ -584,6 +607,10 @@ The official record establishes Russian interference in 2016 and a Putin-authori
 
 The Moscow project, June 9 meeting, Manafort–Kilimnik channel, Stone conduct, transition contacts, foreign-government spending, and later value channels establish the pattern.
 
+### Russia received exceptional presidential insulation even after reported support for attacks on Americans
+
+The American casualty record, U.S. intelligence reporting, Russia's denial, Trump's minimization, the absence of an identified public Russia-specific consequence, and contemporaneous Russian-oil authorizations support this finding. The public evidence does not establish casualty-by-casualty causation or prove that Trump protected Russia pursuant to an explicit bargain. It establishes a striking differential response to materially similar foreign targeting support.
+
 ### Trump repeatedly functioned as an agent of influence in effect
 
 His rhetoric, institutional attacks, alliance uncertainty, Ukraine pressure, Russian-benefit framing, financial conflicts, and weakening of safeguards repeatedly generated outcomes sought by Moscow.
@@ -638,6 +665,9 @@ The Russia, UAE, Binance, Justin Sun, Qatar, Saudi, Vietnam, and related chains 
 - complete contracts and side letters involving foreign-linked investors or Trump projects;
 - agency records showing politically directed closure of oligarch, sanctions, FARA, or influence cases;
 - the original Russian non-paper and its transmission chain into U.S. settlement proposals;
+- Russian and Iranian target-package, satellite-tasking, dissemination, and strike-assessment records;
+- the Trump–Putin and Witkoff/Kushner–Ushakov records concerning Russia's targeting-assistance denial;
+- OFAC decision memoranda for General Licenses 133 and 134 through 134C, including what officials knew about Russian support when each license was approved;
 - or corroborated participant testimony supported by contemporaneous records.
 
 ## Evidence that would weaken it
@@ -672,6 +702,7 @@ It is the pattern of a public figure who:
 - attacked the institutions investigating those relationships;
 - conducted diplomacy through private, personalized, and incomplete records;
 - weakened safeguards against oligarch wealth, foreign influence, and disinformation;
+- minimized reported Russian targeting support to Iran during lethal attacks on American forces while preserving Russian diplomatic and oil-transaction channels;
 - and repeatedly produced outcomes Russian officials publicly recognized as beneficial.
 
 The fact that Congress, NATO allies, military officers, intelligence agencies, Treasury personnel, market conditions, and battlefield realities sometimes constrained or reversed those outcomes does not demonstrate independence from Russian influence. It demonstrates that American and allied institutions sometimes limited the consequences.

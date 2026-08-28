@@ -28,6 +28,7 @@ Circumstantial evidence is evaluated cumulatively. Timing or association alone i
 - [Executive TLDR](DJT_TLDR.md)
 - [Counterevidence Attribution Matrix](Tmanch_Conclusion_Attribution_Matrix.csv)
 - [Transatlantic Deterrence and Russia-Pressure Architecture Matrix](Tmanch_CH7_Transatlantic_Pressure_Architecture_Matrix.md)
+- [Russia–China–Iran Targeting and U.S. Casualty Matrix](Tmanch_CH7_Russia_China_Iran_Targeting_Casualty_Matrix.md)
 - [Source Integrity Audit](SOURCE_INTEGRITY_AUDIT.md)
 
 The active synthesis distinguishes Trump-originated actions from policies imposed or funded by Congress, allies, agencies, military officials, market conditions, or later reversals. It also identifies sanctions and threats that were announced but not implemented, implemented temporarily, or diluted through general licenses and waivers.
@@ -118,7 +119,7 @@ The Chapter 6 expansion reconstructs January 2021 through January 19, 2025 as a 
 
 ## Chapter 7 — Institutional withdrawal and second-term payoff networks
 
-The Chapter 7 expansion covers January 20, 2025 through August 26, 2026. It reconciles the complete rapid-response presidency ledger, Russian official and public reaction, institutional and enforcement changes, Ukraine and NATO policy, sanctions licenses, late-2025 settlement terms, and private-value/public-action chains involving crypto, technology, sovereign-linked development, trade, defense, regulation, and clemency.
+The Chapter 7 expansion covers January 20, 2025 through August 27, 2026. It reconciles the complete rapid-response presidency ledger, Russian official and public reaction, institutional and enforcement changes, Ukraine and NATO policy, sanctions licenses, late-2025 settlement terms, and private-value/public-action chains involving crypto, technology, sovereign-linked development, trade, defense, regulation, and clemency.
 
 ### Main research package
 
@@ -130,6 +131,7 @@ The Chapter 7 expansion covers January 20, 2025 through August 26, 2026. It reco
 - [Russian-language source appendix](Tmanch_CH7_russian_sources.md)
 - [Counterevidence and hypothesis tests](Tmanch_CH7_counterevidence.md)
 - [Transatlantic Deterrence and Russia-Pressure Architecture Matrix](Tmanch_CH7_Transatlantic_Pressure_Architecture_Matrix.md)
+- [Russia–China–Iran Targeting and U.S. Casualty Matrix](Tmanch_CH7_Russia_China_Iran_Targeting_Casualty_Matrix.md)
 - [Open questions and records plan](Tmanch_CH7_open_questions.md)
 
 ### `J20-Pres.md` reconciliation package
