@@ -173,6 +173,46 @@ classified.
 
 ---
 
+
+# Program 9A — Cambridge Analytica, Project Alamo, vendor, and Facebook audience records
+
+- **Priority:** Highest
+- **Question:** Did Cambridge Analytica, SCL, AggregateIQ, the campaign digital operation, the RNC, Facebook personnel, or another vendor receive, model, translate, or deploy information derived from the Manafort–Kilimnik channel?
+- **Custodians:** Trump campaign; Cambridge Analytica/SCL administrators and bankruptcy estates; AggregateIQ; campaign digital vendors; RNC; Meta/Facebook; FTC; UK ICO; UK Parliament; National Crime Agency; FEC; DOJ; FBI; Treasury; ODNI.
+- **Date range:** January 1–November 30, 2016, with model-development records from 2013 onward.
+- **Search terms:** Manafort; Gates; Kilimnik; Fabrizio; Cambridge Analytica; SCL; Ripon; AggregateIQ; Project Alamo; Facebook; custom audience; lookalike; voter file; battleground; persuasion; turnout; psychographic; Kogan; GSR.
+- **Records:** Contracts; statements of work; data dictionaries; native files; model versions; custom-audience uploads; upload hashes; campaign IDs; targeting criteria; survey instruments; access logs; user permissions; vendor transfers; retention/deletion records; platform communications; billing; IP/device logs.
+- **Would establish:** A file-to-model, file-to-audience, vendor-to-Russia, or Russian-guidance-to-ad bridge.
+- **Would falsify stronger claims:** Complete records showing no shared access, no matching unique fields, no relevant vendor receipt, and independent audience construction.
+
+## Platform request/subpoena module
+
+```text
+Records sufficient to identify all custom audiences, lookalike audiences,
+audience seed files, upload hashes, targeting parameters, account users,
+payment instruments, IP/device logs, campaign identifiers, delivery reports,
+and communications associated with Donald J. Trump campaign, Cambridge
+Analytica, SCL, AggregateIQ, Giles-Parscale or related 2016 election
+advertising accounts. Include records sufficient to compare those audiences
+with the native campaign polling and strategy files transmitted through the
+Manafort/Gates–Kilimnik channel.
+```
+
+---
+
+# Program 9B — Kogan, Lukoil, Russian-associated access, and NCA disposition
+
+- **Priority:** High
+- **Question:** Did Russian government, intelligence, corporate, or proxy actors access Cambridge Analytica/SCL/GSR data, models, code, or derivative products?
+- **Custodians:** UK ICO; National Crime Agency; Cambridge University; GSR/Kogan records; Cambridge Analytica/SCL; Lukoil; AggregateIQ; FTC; Meta/Facebook; UK parliamentary archives; U.S. intelligence agencies.
+- **Date range:** January 1, 2013–December 31, 2018.
+- **Search terms:** Kogan; GSR; St Petersburg; Russia; Russian IP; Tor; Lukoil; FSB; Ripon; Facebook data; white paper; rumor campaign; disinformation; microtargeting; NCA referral.
+- **Records:** Server and access logs; IP attribution; forensic images; data exports; Kogan research contracts; Russian funding; Lukoil decks and correspondence; recipient lists; download logs; ICO analyses; NCA referral, investigative steps, and closing disposition; FTC/ICO cooperation records.
+- **Would establish:** Actual Russian access, intelligence interest, exfiltration, or use.
+- **Would falsify stronger claims:** Benign or unrelated IP activity, no relevant data exposure, no follow-up to Lukoil, and no Russian access to campaign-related data or derivatives.
+
+---
+
 # Program 10 — Manafort’s motive: debt, Deripaska, future business, or policy
 
 - **Priority:** Highest

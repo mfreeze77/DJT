@@ -106,6 +106,7 @@ The Chapter 5 expansion follows commercial networks into the 2016 campaign, tran
 - [Supporting research](Tmanch_CH5_support.md)
 - [Claim ledger](Tmanch_CH5_claim_ledger.csv)
 - [Primary-source inventory](Tmanch_CH5_primary_sources.md)
+- [Cambridge Analytica Data-Bridge Matrix](Tmanch_CH5_Cambridge_Analytica_Data_Bridge_Matrix.md)
 - [Counterevidence and hypothesis tests](Tmanch_CH5_counterevidence.md)
 - [Manafort–Kilimnik Operational-Use Matrix](Tmanch_CH5_Manafort_Kilimnik_Operational_Use_Matrix.md)
 - [Open questions and records plan](Tmanch_CH5_open_questions.md)
