@@ -1,5 +1,5 @@
 # Chapter 7 Primary-Source and Documentary Inventory
-## January 20, 2025–August 26, 2026
+## January 20, 2025–August 27, 2026
 
 Each entry states both its proper use and its limit. An official statement proves what an institution announced or represented; it is not automatically neutral proof of motive, implementation, private terms, or another party’s compliance.
 
@@ -145,7 +145,7 @@ Each entry states both its proper use and its limit. An official statement prove
 
 ## CH7-SRC-018 — Ratcliffe Moscow visit, Reuters
 
-- **Date:** August 26, 2026
+- **Date:** August 27, 2026
 - **Publisher:** Reuters
 - **Location:** https://www.reuters.com/world/kremlin-says-us-spy-chief-held-talks-with-russian-counterparts-during-moscow-2026-08-26/
 - **Supports:** Kremlin confirmation of intelligence-level talks and Putin briefing.
@@ -153,7 +153,7 @@ Each entry states both its proper use and its limit. An official statement prove
 
 ## CH7-SRC-019 — Ratcliffe Moscow visit, AP
 
-- **Date:** August 26, 2026
+- **Date:** August 27, 2026
 - **Publisher:** Associated Press
 - **Location:** https://apnews.com/article/russia-us-putin-trump-cia-director-visit-4efffcaac5ef6736e2b10cef73054e48
 - **Supports:** visit, rarity, and the attributed Ukrainian account of requested strike restraint.
@@ -493,6 +493,130 @@ Each entry states both its proper use and its limit. An official statement prove
   - https://pikabu.ru/story/peregovoryi_o_razdele_territoriy_ukrainyi_uzhe_idut_12517829
 - **Supports:** meme and public-narrative diffusion.
 - **Does not support:** representative Russian opinion, official direction, or private agreements.
+
+---
+
+# G. Russia–China–Iran targeting support, American casualties, and Russian-oil licensing
+
+## CH7-SRC-060 — U.S. Army Reserve Port Shuaiba casualty confirmation
+
+- **Date:** March 1–11, 2026
+- **Institution:** U.S. Army Reserve
+- **Location:** https://www.usar.army.mil/News/Article/4431227/media-release-army-reserve-confirms-casualty/
+- **Supports:** six Army Reserve soldiers killed at Port Shuaiba during an unmanned-aircraft attack; names, unit, date, and location.
+- **Does not support:** the intelligence source used by Iran to select or refine the target.
+
+## CH7-SRC-061 — CENTCOM opening casualty update
+
+- **Date:** March 1–2, 2026
+- **Institution:** U.S. Central Command
+- **Location:** https://www.centcom.mil/MEDIA/STATEMENTS/Statements-View/Article/4418924/operation-epic-fury-update/
+- **Supports:** killed, seriously wounded, and additional shrapnel/concussion casualties during Iran's opening attacks.
+- **Does not support:** final campaign-wide casualty totals or foreign-intelligence causation.
+
+## CH7-SRC-062 — Washington Post reporting on Russian targeting support
+
+- **Date:** March 6, 2026
+- **Publisher:** Washington Post
+- **Location:** https://www.washingtonpost.com/national-security/2026/03/06/russia-iran-intelligence-us-targets/
+- **Supports:** reporting from three officials familiar with U.S. intelligence that Russia supplied Iran locations and targeting information concerning American warships and aircraft.
+- **Does not support:** a declassified final assessment or casualty-by-casualty causal chain.
+
+## CH7-SRC-063 — AP on Trump minimization after dignified transfer
+
+- **Date:** March 7, 2026
+- **Publisher:** Associated Press
+- **Location:** https://apnews.com/article/iran-russia-intelligence-sharing-trump-oil-prices-109923968208e549fe1d674d7cb71978
+- **Supports:** Trump's public minimization, timing after the dignified transfer, and contemporaneous oil-license context.
+- **Does not support:** Trump's classified briefing record or private motive.
+
+## CH7-SRC-064 — Reuters on Russian denial and Witkoff response
+
+- **Date:** March 10, 2026
+- **Publisher:** Reuters
+- **Location:** https://www.reuters.com/world/middle-east/russia-told-trump-it-isnt-sharing-us-military-asset-info-with-iran-says-witkoff-2026-03-10/
+- **Supports:** Putin and Ushakov denials; Witkoff's statement that the United States could take them at their word while intelligence officials assessed the claim.
+- **Does not support:** truth of the denial.
+
+## CH7-SRC-065 — Reuters on Russian satellite and cyber support
+
+- **Date:** April 7, 2026
+- **Publisher:** Reuters
+- **Location:** https://www.reuters.com/world/europe/russia-supplies-iran-with-cyber-support-spy-imagery-hone-attacks-ukraine-says-2026-04-07/
+- **Supports:** reviewed intelligence assessment, 24 surveys, 46 objects, 11 countries, collection-to-strike chronology, Prince Sultan/AWACS sequence, treaty context, cyber support, and partial corroboration.
+- **Does not support:** every Ukrainian assertion as independently confirmed or direct causation for every strike.
+
+## CH7-SRC-066 — Reuters on alleged Russia–Iran intelligence blackmail
+
+- **Date:** March 25, 2026
+- **Publisher:** Reuters
+- **Location:** https://www.reuters.com/world/europe/russia-sought-blackmail-us-using-intelligence-iran-zelenskiy-says-2026-03-25/
+- **Supports:** Zelenskyy's attributed allegation that Russia offered to stop Iran support if the United States stopped Ukraine intelligence support.
+- **Does not support:** the allegation as established fact; underlying evidence was not released.
+
+## CH7-SRC-067 — U.S.–China Commission enabling-Iran timeline
+
+- **Date:** May 8, 2026
+- **Institution:** U.S.–China Economic and Security Review Commission
+- **Location:** https://www.uscc.gov/research/enabling-iran-timeline-chinas-role-during-and-after-operation-epic-fury
+- **Supports:** U.S. sanctions against named China-based geospatial firms and the official assertion that imagery enabled Iranian strikes against U.S. forces.
+- **Does not support:** Chinese central-government direction of every transfer.
+
+## CH7-SRC-068 — U.S. government statement on China-based imagery providers
+
+- **Date:** 2026
+- **Institution:** U.S. government / VOA editorial
+- **Location:** https://editorials.voa.gov/a/holding-china-accountable-for-support-of-iran/8148868.html
+- **Supports:** names, company roles, MINDEX intermediary, and official U.S. policy attribution.
+- **Does not support:** undisclosed intelligence or judicial findings beyond the sanctions action.
+
+## CH7-SRC-069 — OFAC General License 133
+
+- **Date:** March 5, 2026
+- **Agency:** Treasury / OFAC
+- **Location:** https://ofac.treasury.gov/recent-actions/20260305_33
+- **Supports:** specified delivery and sale of Russian-origin oil cargoes to India.
+- **Does not support:** reward motive, broad sanctions repeal, or knowledge of the targeting allegation without decision records.
+
+## CH7-SRC-070 — OFAC General License 134
+
+- **Date:** March 12, 2026
+- **Agency:** Treasury / OFAC
+- **Location:** https://ofac.treasury.gov/recent-actions/20260312_33
+- **Supports:** specified delivery and sale authorization for Russian-origin crude and petroleum products.
+- **Does not support:** unrestricted Russian oil trade.
+
+## CH7-SRC-071 — OFAC General License 134A
+
+- **Date:** March 19, 2026
+- **Agency:** Treasury / OFAC
+- **Location:** https://ofac.treasury.gov/recent-actions/20260319_33
+- **Supports:** amendment or extension of the GL 134 authorization.
+- **Does not support:** complete removal of energy sanctions.
+
+## CH7-SRC-072 — OFAC General License 134B
+
+- **Date:** April 17, 2026
+- **Agency:** Treasury / OFAC
+- **Location:** https://ofac.treasury.gov/recent-actions/20260417_33
+- **Supports:** continued specified Russian-origin oil delivery and sale authorization.
+- **Does not support:** a policy bargain with Russia.
+
+## CH7-SRC-073 — OFAC General License 134C
+
+- **Date:** May 18, 2026
+- **Agency:** Treasury / OFAC
+- **Location:** https://ofac.treasury.gov/recent-actions/20260518_33
+- **Supports:** final identified extension in the 134 series and its defined cargo conditions.
+- **Does not support:** unrestricted future trade or delisting.
+
+## CH7-SRC-074 — Reuters on August 27 Russia–Iran remarks
+
+- **Date:** August 27, 2026
+- **Publisher:** Reuters
+- **Location:** https://www.reuters.com/world/middle-east/trump-says-us-is-not-talking-with-iran-economic-war-focus-2026-08-27/
+- **Supports:** Trump's statement that Russia had behaved quite well concerning the Strait of Hormuz when asked about punishment for countries doing business with Iran.
+- **Does not support:** a conclusion that the remark addressed every prior targeting allegation.
 
 ---
 
