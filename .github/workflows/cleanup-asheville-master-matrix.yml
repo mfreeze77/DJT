@@ -1,0 +1,22 @@
+name: Cleanup Asheville master-matrix document order
+
+on:
+  push:
+    branches:
+      - agent/asheville-g20-master-matrix
+    paths:
+      - scripts/cleanup_asheville_master_matrix_order.py
+
+permissions:
+  contents: write
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: agent/asheville-g20-master-matrix
+          fetch-depth: 0
+      - name: Move additions into their proper master-document sections
+        run: python scripts/cleanup_asheville_master_matrix_order.py
