@@ -1,0 +1,23 @@
+name: Apply Asheville G20 master-matrix update
+
+on:
+  push:
+    branches:
+      - agent/asheville-g20-master-matrix
+    paths:
+      - scripts/apply_asheville_g20_master_matrix_update.py
+      - .github/workflows/apply-asheville-g20-master-matrix.yml
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: agent/asheville-g20-master-matrix
+          fetch-depth: 0
+      - name: Apply master-matrix and Chapter 7 updates
+        run: python scripts/apply_asheville_g20_master_matrix_update.py
