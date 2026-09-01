@@ -618,6 +618,56 @@ Each entry states both its proper use and its limit. An official statement prove
 - **Supports:** Trump's statement that Russia had behaved quite well concerning the Strait of Hormuz when asked about punishment for countries doing business with Iran.
 - **Does not support:** a conclusion that the remark addressed every prior targeting allegation.
 
+# H. Asheville G20 financial normalization
+
+## CH7-SRC-075 — Reuters on Russia’s return and European objections
+
+- **Date:** August 31, 2026
+- **Publisher:** Reuters
+- **Location:** https://www.reuters.com/business/finance/europeans-bristle-russias-return-g20-2026-08-31/
+- **Supports:** Siluanov’s in-person attendance; first such appearance since the 2022 invasion; bilateral with Bessent; European objections; refusal of the family photograph; host-setting context.
+- **Does not support:** an express U.S.–Russia bargain, sanctions relief granted in the room, or secret commitments.
+
+## CH7-SRC-076 — Reuters on Bessent’s condition
+
+- **Date:** August 31, 2026
+- **Publisher:** Reuters
+- **Location:** https://www.reuters.com/world/bessent-told-russian-finance-minister-no-economic-relief-until-ukraine-war-ends-2026-08-31/
+- **Supports:** attributed report that Bessent told Siluanov no economic relief or agreements on other subjects were possible until Russia ended the war and interrupted discussion of mutual interests.
+- **Does not support:** a complete transcript, proof that no other subject was discussed, or Russian compliance.
+
+## CH7-SRC-077 — Washington Post on the invitation and Trump rationale
+
+- **Date:** August 31, 2026
+- **Publisher:** Washington Post
+- **Location:** https://www.washingtonpost.com/world/2026/08/31/russian-finance-minister-invited-by-trump-draws-objections-g-20-meeting/
+- **Supports:** Trump’s statement that the administration liked getting along with everybody; European reaction; Treasury’s membership-and-dialogue rationale.
+- **Does not support:** private motive or a concession obtained from Moscow.
+
+## CH7-SRC-078 — TASS amplification of Trump’s rationale
+
+- **Date:** August 31, 2026
+- **Publisher:** TASS
+- **Location:** https://tass.com/world/2180105
+- **Supports:** Russian state-media amplification of Trump’s congeniality explanation and Russian presentation of the meeting as financial cooperation.
+- **Does not support:** neutral proof of U.S. motive or the full Bessent–Siluanov exchange.
+
+## CH7-SRC-079 — AP on the simultaneous SCO context
+
+- **Date:** August 30–31, 2026
+- **Publisher:** Associated Press
+- **Location:** https://apnews.com/article/cf543dfad0a20097ed4c2b415a26e8b4
+- **Supports:** simultaneous gathering of Russia, China, Iran, and other states at the SCO summit; the organization’s counter-Western and multipolar positioning.
+- **Does not support:** coordination between the Asheville invitation and SCO events.
+
+## CH7-SRC-080 — Russian Finance Ministry / Interfax readout
+
+- **Date:** August 31, 2026
+- **Publisher:** Interfax citing the Russian Finance Ministry
+- **Location:** https://interfax.com/newsroom/top-stories/118922/
+- **Supports:** Russian official description of the bilateral as discussion of Russian-American interaction on the financial track and G20 cooperation.
+- **Does not support:** completeness, the U.S. account of conditions, or an agreement to provide relief.
+
 ---
 
 # Source-control rules

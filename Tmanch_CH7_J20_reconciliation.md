@@ -1,7 +1,7 @@
 # Chapter 7 — `J20-Pres.md` Reconciliation
 ## Master action ledger, evidentiary promotion, corrections, Russian reception, and unresolved leads
 
-**Coverage:** January 20–December 6, 2025  
+**Coverage:** January 20, 2025–present  
 **Repository baseline:** [`J20-Pres.md`](J20-Pres.md)  
 **Chapter destination:** [`Tmanch_CH7.md`](Tmanch_CH7.md)  
 **Machine-readable ledger:** [`Tmanch_CH7_J20_event_ledger.csv`](Tmanch_CH7_J20_event_ledger.csv)  
@@ -732,3 +732,45 @@ The machine-readable event ledger now scores:
 18. December Moscow delegation instructions and complete readout.
 19. Russian internal diplomatic, Security Council, RDIF, and media-guidance records.
 20. Telegram, social-media, and forum preservation for contemporaneous reception analysis.
+
+# 2026 continuation — promoted master-ledger events
+
+The living J20 ledger now carries year-qualified 2026 entries rather than forcing new material into the closed 2025 numbering sequence. The first promoted continuation rows connect the Russia–Iran targeting and casualty record, contemporaneous Russian-oil licenses, presidential minimization, August intelligence diplomacy, and the Asheville G20 event.
+
+## August 31, 2026 — volunteered financial normalization at Asheville
+
+As host of the G20 finance ministers and central-bank governors meeting in Asheville, the United States restored Russian Finance Minister Anton Siluanov to in-person participation and granted him a bilateral meeting with Treasury Secretary Scott Bessent. It was Siluanov’s first in-person G20 finance appearance since Russia’s 2022 full-scale invasion of Ukraine.
+
+This was not mechanically compelled by a new Russian concession. No withdrawal, ceasefire, end to reported targeting support for Iran, acceptance of Ukrainian sovereignty, sanctions-compliance agreement, or NATO-related restraint was publicly announced before the invitation.
+
+The immediate Russian-side benefits were:
+
+- restored senior access to the U.S. Treasury secretary;
+- visible treatment as a normal great-power financial interlocutor;
+- domestic and international propaganda value;
+- a Russian official narrative of renewed bilateral financial interaction;
+- and allied division over whether Moscow should be normalized while its war continued.
+
+Trump defended the invitation by saying that he liked getting along with everybody. That rationale is direct presidential evidence that the invitation was framed as congenial engagement rather than as a publicly specified exchange for Russian performance.
+
+European officials treated the invitation as a troubling normalization signal and refused the customary group photograph with Siluanov.
+
+### Counterevidence
+
+Reuters reported that Bessent told Siluanov that there would be no economic relief or agreements on other matters until Russia ended its war and interrupted discussion of mutual interests to deliver that condition.
+
+That is substantive counterevidence to a claim that the bilateral itself granted immediate sanctions relief. It does not erase the volunteered status, access, legitimacy, propaganda, and allied-fracture benefits already delivered by the invitation.
+
+The controlling classification is:
+
+> **A verified, discretionary normalization event with immediate Russian status value, no publicly announced prior Russian concession, and real but limited Bessent counterevidence. The Russian benefit was front-loaded; the American condition remained prospective.**
+
+### Sources
+
+- [Reuters — Europeans bristle at Russia’s return to the G20](https://www.reuters.com/business/finance/europeans-bristle-russias-return-g20-2026-08-31/)
+- [Reuters — Bessent told Siluanov no economic relief until the war ends](https://www.reuters.com/world/bessent-told-russian-finance-minister-no-economic-relief-until-ukraine-war-ends-2026-08-31/)
+- [Reuters — U.S. host brings Russia back to G20 finance meeting](https://www.reuters.com/world/china/g20-host-us-pushes-growth-agenda-allay-debt-market-concerns-2026-08-31/)
+- [Washington Post — Trump defends the invitation](https://www.washingtonpost.com/world/2026/08/31/russian-finance-minister-invited-by-trump-draws-objections-g-20-meeting/)
+- [TASS — Trump says he wants to get along with everyone](https://tass.com/world/2180105)
+- [Interfax — Russian Finance Ministry readout](https://interfax.com/newsroom/top-stories/118922/)
+- [Associated Press — simultaneous SCO gathering involving Russia, China, and Iran](https://apnews.com/article/cf543dfad0a20097ed4c2b415a26e8b4)

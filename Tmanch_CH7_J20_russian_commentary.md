@@ -1,6 +1,6 @@
 # Chapter 7 — Russian Commentary on the `J20-Pres.md` Action Ledger
 ## Official reaction, state-media framing, military Telegram, and public message-board reception
-### Coverage: January 20–December 2025, with later context through August 2026
+### Coverage: January 20, 2025–present, with promoted 2026 continuation events
 
 **Related files:** [`J20-Pres.md`](J20-Pres.md) · [`Tmanch_CH7_J20_reconciliation.md`](Tmanch_CH7_J20_reconciliation.md) · [`Tmanch_CH7_J20_event_ledger.csv`](Tmanch_CH7_J20_event_ledger.csv) · [`Tmanch_CH7_russian_sources.md`](Tmanch_CH7_russian_sources.md)
 
@@ -586,3 +586,25 @@ For each Russian-language item retained in the final evidence set:
 ## Bottom-line Russian-source assessment
 
 > **Russian officials, state media, nationalist channels and public boards repeatedly recognized the opening Trump administration’s actions as delivering status, diplomatic framing, battlefield leverage, reduced Western institutional pressure and movement toward Russian territorial and security demands. Their later disappointment when weapons, NATO commitments and sanctions continued is equally important. The Russian-language record strengthens the cumulative circumstantial case that Moscow knew how to exploit Trump’s preferences and celebrated concrete gains; it does not demonstrate that every U.S. action was secretly ordered or that Russian control was complete.**
+
+## August 31, 2026 — Asheville G20 normalization
+
+Russian official and state-media framing treated Anton Siluanov’s return to an in-person G20 finance meeting as more than a technical attendance decision.
+
+- **TASS** centered Trump’s statement that he wanted to get along with everybody, giving Russian audiences a presidential rationale based on congeniality rather than punishment or conditionality.
+- **Russia’s Finance Ministry and Interfax** described the Bessent–Siluanov meeting as discussion of Russian-American interaction on the financial track and cooperation within the G20 framework.
+- The Russian public account omitted or deemphasized the sharper reported U.S. condition that no economic relief would be available until the Ukraine war ended.
+- The event supplied a visible narrative of restored bilateral status while Russia, China, Iran, and other SCO members were meeting in Bishkek around an explicitly multipolar institutional platform.
+
+This material is reception evidence. It does not prove that the United States intended to reward Russia or that Bessent offered relief. It proves that Russian official channels immediately converted the invitation, bilateral access, and Trump’s explanation into a normalization story.
+
+The event’s propaganda value came from a simple contrast:
+
+> **Europe said Russia could not be treated as normal; the U.S. host received Russia’s finance minister, granted a Treasury bilateral, and the American president publicly explained that he likes getting along with everybody.**
+
+### Sources
+
+- [TASS](https://tass.com/world/2180105)
+- [Interfax](https://interfax.com/newsroom/top-stories/118922/)
+- [Reuters on European objections](https://www.reuters.com/business/finance/europeans-bristle-russias-return-g20-2026-08-31/)
+- [Reuters on the Bessent condition](https://www.reuters.com/world/bessent-told-russian-finance-minister-no-economic-relief-until-ukraine-war-ends-2026-08-31/)

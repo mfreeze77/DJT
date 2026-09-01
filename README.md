@@ -124,7 +124,7 @@ The Chapter 6 expansion reconstructs January 2021 through January 19, 2025 as a 
 
 ## Chapter 7 — Institutional withdrawal and second-term payoff networks
 
-The Chapter 7 expansion covers January 20, 2025 through August 27, 2026. It reconciles the complete rapid-response presidency ledger, Russian official and public reaction, institutional and enforcement changes, Ukraine and NATO policy, sanctions licenses, late-2025 settlement terms, and private-value/public-action chains involving crypto, technology, sovereign-linked development, trade, defense, regulation, and clemency.
+The Chapter 7 expansion covers January 20, 2025 through August 31, 2026. It reconciles the complete rapid-response presidency ledger, Russian official and public reaction, institutional and enforcement changes, Ukraine and NATO policy, sanctions licenses, late-2025 settlement terms, and private-value/public-action chains involving crypto, technology, sovereign-linked development, trade, defense, regulation, and clemency.
 
 ### Main research package
 
@@ -149,6 +149,8 @@ The Chapter 7 expansion covers January 20, 2025 through August 27, 2026. It reco
 - [OFAC license-by-license matrix](Tmanch_CH7_OFAC_license_matrix.csv)
 
 The rapid ledger is retained as investigative evidence discovery. Every material event is promoted, qualified, merged as a duplicate, retained as an unresolved lead, or corrected with an explanation. Nothing is silently discarded.
+
+The living ledger now includes year-qualified 2026 continuation rows, including the Russia–Iran targeting and casualty sequence, Russian-oil licenses, presidential minimization, August intelligence diplomacy, and the volunteered Asheville G20 financial normalization event.
 
 ---
 

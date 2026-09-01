@@ -1,6 +1,6 @@
 # MASTER INVESTIGATIVE LEDGER
 ## Trump Administration actions affecting Russia, Ukraine, NATO, foreign influence, and enforcement
-### Coverage: January 20–December 2025
+### Coverage: January 20, 2025–present
 
 > **Status:** Source-controlled working evidence index.  
 > **Expanded analysis:** [Chapter 7](Tmanch_CH7.md)  
@@ -13,7 +13,7 @@
 
 ## How to use this ledger
 
-This file began as a rapid chronological notebook. It is now a source-controlled index rather than a running collection of headlines.
+This file began as a rapid chronological notebook. It is now a source-controlled living index rather than a running collection of headlines.
 
 Every event below has been reconciled against primary records or the strongest accessible documentary source. Placeholder URLs, fictional-reference links, generic publication homepages, and unsupported numerical claims have been removed. Where the original entry was directionally useful but overstated, the corrected finding is preserved instead of deleting the lead.
 
@@ -25,6 +25,8 @@ The two numeric columns are **investigative screening weights**, not legal findi
 A personnel appointment, technical sanctions license, temporary battlefield cutoff, and formal settlement proposal are not treated as equivalent events. The former 42-to-4.5 count is preserved as an early directional signal but retired as a literal metric.
 
 Russian official, state-media, Telegram, and message-board reactions are analyzed separately because they help establish what Moscow believed it was gaining, what narratives were being amplified, and when Russian nationalists became disappointed with later U.S. actions. Anonymous posts are used for reception and lead generation—not as standalone proof.
+
+2026 and later entries use year-qualified identifiers such as `J20-2026-001` so the established 2025 record is not renumbered as the living tracker expands.
 
 ---
 
@@ -43,6 +45,8 @@ The most consequential evidence is the combined pattern of:
 - settlement proposals aligning with Russian positions on Crimea, occupied territory, NATO, force limits, sanctions, and frozen assets;
 - and repeated threats against Russia that were delayed, narrowed, or not implemented as announced.
 
+- voluntary restoration of senior Russian financial access and status before any publicly announced Russian concession.
+
 ### Strongest counterevidence
 
 The record also includes:
@@ -55,6 +59,8 @@ The record also includes:
 - direct sanctions on Rosneft and Lukoil;
 - the U.S.–Ukraine Reconstruction Investment Fund;
 - and Russian nationalist frustration that Trump had not delivered Moscow’s complete territorial and security agenda.
+
+- and Bessent’s reported refusal to discuss economic relief with Anton Siluanov until Russia ended the war in Ukraine.
 
 The cumulative evidence supports susceptibility, exploitation, institutional weakening, and repeated Russia-favorable outcomes more strongly than it supports a claim of uniform Russian command over every decision.
 
@@ -114,6 +120,11 @@ The cumulative evidence supports susceptibility, exploitation, institutional wea
 | **J20-048** | December | The National Security Strategy formally endorsed political resistance to Europe’s current trajectory and prioritized strategic stability with Russia. | Verified official strategy | 4 | 3 | [2025 National Security Strategy](https://www.whitehouse.gov/wp-content/uploads/2025/12/2025-National-Security-Strategy.pdf) |
 | **J20-049** | Nov.–Dec. | Belgium’s legal and financial objections were central to the EU’s decision not to use the proposed Russian-asset loan; U.S. settlement pressure was an additional factor, not the sole cause. | Verified outcome; causation multifactorial | 3 | 3 | [Reuters](https://www.reuters.com/world/europe/eu-leaders-agree-ukraine-financing-2026-27-belgiums-approval-key-2025-12-18/) |
 | **J20-050** | 2025 overall | The original 42-to-4.5 count identified a genuine early directional imbalance but mixed unequal events, duplicates, technical licenses, proposals, and personnel indicators. The literal ratio is retired in favor of weighted evidence. | Investigative signal retained | — | — | [Full reconciliation](Tmanch_CH7_J20_reconciliation.md) |
+| **J20-2026-001** | Mar. 1–Apr. 7, 2026 | Iranian attacks killed and wounded U.S. service members while intelligence reporting indicated Russia supplied Iran targeting information concerning American military assets; later reporting described Russian satellite collection preceding Iranian strikes. Russia denied the allegations. | American casualties established; Russian support strongly reported; casualty-specific causation unresolved | 5 | 5 | [Russia–China–Iran targeting matrix](Tmanch_CH7_Russia_China_Iran_Targeting_Casualty_Matrix.md) |
+| **J20-2026-002** | Mar. 5–May 18 | OFAC issued GL 133 and the GL 134 series authorizing specified delivery and sale transactions involving Russian-origin oil. The licenses served energy-market purposes but preserved Russian transaction and revenue pathways during the targeting-assistance controversy. | Verified targeted sanctions loosening; not wholesale repeal | 4 | 1 | [OFAC license matrix](Tmanch_CH7_OFAC_license_matrix.csv) |
+| **J20-2026-003** | Mar. 7–10 | After the dignified transfer for six soldiers killed in Kuwait, Trump minimized reported Russian assistance; Witkoff repeated Putin and Ushakov’s denials and said the United States could take them at their word subject to intelligence review. | Verified presidential-response asymmetry | 4 | 3 | [High-magnitude red-flag synthesis](Tmanch_CH7_Russia_Iran_Sanctions_High_Magnitude_Red_Flag.md) |
+| **J20-2026-004** | Aug. 25–27 | CIA Director Ratcliffe made a rare Moscow visit; Trump publicly assured that Putin would not attack NATO based on their good talks and separately said Russia had behaved quite well concerning the Strait of Hormuz. | Verified access and trust-framing sequence; private purpose and commitments unresolved | 4 | 4 | [Chapter 7](Tmanch_CH7.md) |
+| **J20-2026-005** | Aug. 31 | As G20 host, the United States restored Russian Finance Minister Anton Siluanov to in-person participation and granted him a bilateral with Treasury Secretary Scott Bessent—the first such appearance since the 2022 full-scale invasion. European officials protested and refused the customary group photograph. Trump defended the invitation by saying he liked getting along with everybody; Russia framed the meeting as bilateral financial cooperation. Bessent reportedly told Siluanov no economic relief was possible until Russia ended the war. No prior Russian concession was publicly announced. | Verified discretionary normalization; immediate Russian status benefit; substantive Bessent counterevidence preserved | 4 | 3 | [Reuters on return and objections](https://www.reuters.com/business/finance/europeans-bristle-russias-return-g20-2026-08-31/) · [Reuters on Bessent warning](https://www.reuters.com/world/bessent-told-russian-finance-minister-no-economic-relief-until-ukraine-war-ends-2026-08-31/) |
 
 ---
 
@@ -157,4 +168,4 @@ See [`Tmanch_CH7_open_questions.md`](Tmanch_CH7_open_questions.md) for the filin
 
 # Working assessment
 
-> **The reconciled 2025 record supports a cumulative pattern in which Russia received repeated diplomatic, battlefield, institutional, and prospective economic advantages. Russian officials, state media, military commentators, and online communities recognized those advantages and sought to expand them. Later U.S. weapons support, NATO continuity, oil pressure, cyber designations, and direct energy sanctions show that the policy was not uniformly controlled by Moscow. The strongest current explanation is a highly susceptible, personalized, transactional system that Russia repeatedly exploited—constrained by allied institutions, domestic agencies, battlefield events, and Trump’s own reversals.**
+> **The reconciled 2025–present record supports a cumulative pattern in which Russia received repeated diplomatic, battlefield, institutional, and prospective economic advantages. Russian officials, state media, military commentators, and online communities recognized those advantages and sought to expand them. Later U.S. weapons support, NATO continuity, oil pressure, cyber designations, and direct energy sanctions show that the policy was not uniformly controlled by Moscow. The strongest current explanation is a highly susceptible, personalized, transactional system that Russia repeatedly exploited—constrained by allied institutions, domestic agencies, battlefield events, and Trump’s own reversals.**

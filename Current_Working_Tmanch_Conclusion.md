@@ -1,6 +1,6 @@
 # Current Working Conclusion
 ## Donald J. Trump, Russian Influence, Financial Leverage, and the Functional-Agent Question
-### Coverage: 1977–August 27, 2026
+### Coverage: 1977–August 31, 2026
 
 > **Research status:** Reconstructed from the completed Chapters 1–7 evidence architecture and the financial-flow reconciliation.  
 > **Core supporting files:** [Russian Capital, AML, and Influence Matrix](Tmanch_Russian_Capital_AML_Influence_Matrix.md) · [Russian-linked financial-flow ledger](Tmanch_Russian_Linked_Financial_Flows.csv) · [financial methodology](Tmanch_Russian_Linked_Financial_Methodology.md) · [counterevidence attribution matrix](Tmanch_Conclusion_Attribution_Matrix.csv) · [Chapter 7 J20 reconciliation](Tmanch_CH7_J20_reconciliation.md) · [Russia–China–Iran targeting and casualty matrix](Tmanch_CH7_Russia_China_Iran_Targeting_Casualty_Matrix.md)
@@ -525,13 +525,15 @@ Treasury simultaneously issued General License 133 and then General Licenses 134
 
 Those licenses served identifiable energy-supply and market-stability purposes. They did not repeal the Russia sanctions regime or prove a reward to Moscow. They nevertheless preserved Russian transaction and revenue pathways while Russia was credibly accused of helping Iran locate American military assets.
 
-As of August 27, this research has identified public sanctions against the named China-based providers but no equivalent publicly announced Russia-specific consequence imposed because of Moscow's reported targeting assistance. Trump later said Russia had behaved “quite well” concerning the Strait of Hormuz.
+As of August 31, this research has identified public sanctions against the named China-based providers but no equivalent publicly announced Russia-specific consequence imposed because of Moscow's reported targeting assistance. Trump later said Russia had behaved “quite well” concerning the Strait of Hormuz.
 
 The resulting finding is:
 
 > **The Russia–Iran targeting relationship converts the influence inquiry from abstract policy alignment into a question involving American blood. Foreign adversary-linked actors supplied operational targeting support during a lethal campaign against U.S. forces. Trump did not publicly respond to Russia with the attribution, warning, rupture, or sustained consequence applied to the China-based providers. Instead, he minimized the allegation, entertained Moscow's denial, preserved diplomacy, and allowed qualifying Russian oil transactions through successive licenses. This asymmetry materially strengthens the conclusion that Russia occupied an exceptional and unusually insulated position in Trump's threat hierarchy even when Russian conduct directly threatened American personnel.**
 
 The full causation ladder, source comparison, licensing chronology, alternative explanations, and records plan appear in the [Russia–China–Iran Targeting and U.S. Casualty Matrix](Tmanch_CH7_Russia_China_Iran_Targeting_Casualty_Matrix.md).
+
+Asheville extended that asymmetry into financial diplomacy. On August 31, the United States restored Russia’s finance minister to in-person G20 participation and a bilateral with the Treasury secretary before any publicly announced Russian concession. European allies protested the normalization signal. Bessent reportedly told Siluanov no economic relief was possible until the war ended, but the access, status, legitimacy, propaganda, and allied-fracture benefits had already been delivered. Trump defended the invitation by saying that he liked getting along with everybody.
 
 ---
 
@@ -618,7 +620,7 @@ The Moscow project, June 9 meeting, Manafort–Kilimnik channel, Stone conduct, 
 
 ### Russia received exceptional presidential insulation even after reported support for attacks on Americans
 
-The American casualty record, U.S. intelligence reporting, Russia's denial, Trump's minimization, the absence of an identified public Russia-specific consequence, and contemporaneous Russian-oil authorizations support this finding. The public evidence does not establish casualty-by-casualty causation or prove that Trump protected Russia pursuant to an explicit bargain. It establishes a striking differential response to materially similar foreign targeting support.
+The American casualty record, U.S. intelligence reporting, Russia's denial, Trump's minimization, the absence of an identified public Russia-specific consequence, and contemporaneous Russian-oil authorizations support this finding. The public evidence does not establish casualty-by-casualty causation or prove that Trump protected Russia pursuant to an explicit bargain. It establishes a striking differential response to materially similar foreign targeting support. The later restoration of Siluanov to in-person G20 participation and a Treasury bilateral—before any publicly announced Russian concession—extended that exceptional insulation into senior financial diplomacy.
 
 ### Trump repeatedly functioned as an agent of influence in effect
 
@@ -677,6 +679,8 @@ The Russia, UAE, Binance, Justin Sun, Qatar, Saudi, Vietnam, and related chains 
 - Russian and Iranian target-package, satellite-tasking, dissemination, and strike-assessment records;
 - the Trump–Putin and Witkoff/Kushner–Ushakov records concerning Russia's targeting-assistance denial;
 - OFAC decision memoranda for General Licenses 133 and 134 through 134C, including what officials knew about Russian support when each license was approved;
+
+- the Asheville G20 invitation decision, bilateral transcript, Trump and Treasury instructions, Russian requests, allied consultations, and any concession obtained or performed;
 - or corroborated participant testimony supported by contemporaneous records.
 
 ## Evidence that would weaken it
@@ -712,6 +716,8 @@ It is the pattern of a public figure who:
 - conducted diplomacy through private, personalized, and incomplete records;
 - weakened safeguards against oligarch wealth, foreign influence, and disinformation;
 - minimized reported Russian targeting support to Iran during lethal attacks on American forces while preserving Russian diplomatic and oil-transaction channels;
+
+- restored senior Russian financial status before a publicly announced concession, producing immediate access, legitimacy, propaganda, and allied-fracture value while the American condition remained prospective;
 - and repeatedly produced outcomes Russian officials publicly recognized as beneficial.
 
 The fact that Congress, NATO allies, military officers, intelligence agencies, Treasury personnel, market conditions, and battlefield realities sometimes constrained or reversed those outcomes does not demonstrate independence from Russian influence. It demonstrates that American and allied institutions sometimes limited the consequences.

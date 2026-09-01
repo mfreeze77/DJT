@@ -1,7 +1,7 @@
 # Chapter 7: From Institutional Withdrawal to Second-Term Payoff Networks
-## January 20, 2025–August 27, 2026
+## January 20, 2025–August 31, 2026
 
-> **Research status:** Rebuilt from the completed Chapters 1–6, reconciled line by line against [`J20-Pres.md`](J20-Pres.md), and updated through August 27, 2026.  
+> **Research status:** Rebuilt from the completed Chapters 1–6, reconciled line by line against [`J20-Pres.md`](J20-Pres.md), and updated through August 31, 2026.  
 > **Supersedes:** The former prospective Chapter 7 and the narrower first reconstruction.  
 > **Related files:** [supporting research](Tmanch_CH7_support.md) · [claim ledger](Tmanch_CH7_claim_ledger.csv) · [payoff ledger](Tmanch_CH7_payoff_ledger.csv) · [J20 reconciliation](Tmanch_CH7_J20_reconciliation.md) · [J20 event ledger](Tmanch_CH7_J20_event_ledger.csv) · [OFAC matrix](Tmanch_CH7_OFAC_license_matrix.csv) · [primary sources](Tmanch_CH7_primary_sources.md) · [Russia–China–Iran targeting and casualty matrix](Tmanch_CH7_Russia_China_Iran_Targeting_Casualty_Matrix.md) · [Russian-source appendix](Tmanch_CH7_russian_sources.md) · [J20 Russian commentary](Tmanch_CH7_J20_russian_commentary.md) · [counterevidence](Tmanch_CH7_counterevidence.md) · [open questions](Tmanch_CH7_open_questions.md)
 
@@ -1094,6 +1094,48 @@ The narrow reading is that he was evaluating Russian maritime behavior rather th
 
 See the [complete targeting, casualty, sanctions, and records matrix](Tmanch_CH7_Russia_China_Iran_Targeting_Casualty_Matrix.md).
 
+# 17B. Volunteered financial normalization at Asheville
+
+On August 31, 2026, the United States used its role as G20 host to restore Russian Finance Minister Anton Siluanov to in-person participation and grant him a bilateral meeting with Treasury Secretary Scott Bessent. It was Siluanov’s first in-person G20 finance appearance since Russia’s full-scale invasion in 2022.
+
+The event was discretionary in the form that mattered. Russia remained a G20 member, but the United States controlled the host setting, bilateral access, diplomatic presentation, and normalization signal. The administration had excluded or downgraded other participants while receiving Siluanov, weakening the claim that protocol mechanically dictated the outcome.
+
+No publicly announced Russian concession preceded the invitation. Russia had not ended the war, withdrawn from occupied territory, ended reported targeting assistance to Iran, accepted a broad ceasefire, or provided an identified NATO-related restraint.
+
+The immediate Russian benefits were:
+
+- restored senior financial access;
+- visible great-power status;
+- bilateral Treasury engagement;
+- propaganda value;
+- renewed discussion of financial-track cooperation;
+- and division with European allies seeking continued isolation.
+
+European officials objected publicly and refused the customary family photograph. Germany’s finance minister said Russia should not be received as a normal guest while people continued dying in Ukraine.
+
+Trump did not defend the invitation by identifying a concession extracted from Moscow. He said that the administration liked getting along with everybody and linked that preference to his own success.
+
+Russia’s official account described the bilateral as discussion of Russian-American financial interaction and G20 cooperation. TASS amplified Trump’s congeniality rationale.
+
+Bessent’s reported conduct is important counterevidence. Reuters reported that he told Siluanov no economic relief or agreements on other subjects were possible until Russia ended the war and cut off an attempt to discuss mutual interests.
+
+The bilateral therefore did not publicly deliver immediate sanctions relief. But it did deliver status, access, legitimacy, and propaganda value before Russian compliance.
+
+The correct cumulative finding is:
+
+> **The Asheville event was an affirmative, volunteered normalization step—not merely passive G20 attendance. Russia received immediate financial-diplomatic status and allied-fracture value without a publicly announced prior concession. Bessent’s reported warning limits an inference of unconditional economic accommodation; it does not erase the front-loaded normalization benefit or Trump’s decision to justify it through personal congeniality.**
+
+The event belongs in the same sequence as:
+
+- reported Russian targeting support to Iran during lethal attacks on American forces;
+- Trump’s minimization and repetition of Moscow’s denial;
+- successive Russian-origin oil authorizations;
+- Ratcliffe’s exceptional Moscow visit;
+- Trump’s personal assurance that Putin would not attack NATO;
+- and simultaneous Russian coordination with Iran and China through the SCO.
+
+Placed in that sequence, Asheville is not a stand-alone diplomatic curiosity. It is a continuation of the recurrent pattern in which Russia receives an immediate benefit while the American condition or promised Russian restraint is deferred.
+
 # 18. Circumstantial-evidence assessment
 
 ## 18.1 Directly established mechanisms
@@ -1187,6 +1229,8 @@ The reconciled 2025 action ledger establishes that the opening Russia pattern ex
 Russian officials, state media, nationalist channels, and public communities recognized many of those benefits in real time.
 
 The Russia–Iran targeting record adds a direct American-casualty dimension. Iranian attacks killed and wounded U.S. service members, including six Army Reserve soldiers at Port Shuaiba. U.S. intelligence reporting indicated that Russia supplied information concerning American military assets, and later reporting described Russian satellite collection preceding Iranian strikes. The State Department publicly sanctioned China-based geospatial companies for imagery that enabled attacks on U.S. forces. Trump instead minimized the Russian allegation, entertained Moscow's denial, maintained high-level engagement, and presided over successive authorizations for qualifying Russian-origin oil cargoes. The licenses had defensible energy-market purposes and did not erase Russia sanctions, but they preserved Russian transaction value during a period when Moscow was credibly accused of helping Iran target Americans. That response asymmetry is now part of the Chapter 7 payoff and influence analysis.
+
+The Asheville restoration added a financial-normalization dimension to that asymmetry. The United States granted Russia’s finance minister in-person status and a Treasury bilateral before any publicly announced Russian concession; European allies protested the signal. Bessent reportedly refused immediate relief, but the access and legitimacy benefit had already been delivered.
 
 The later record matters just as much. The United States restored weapons and intelligence support, maintained NATO, pressured Russian oil revenue, sanctioned major Russian energy companies, and participated in large allied commitments to Ukraine. The mixed record is inconsistent with a simple claim that every action was dictated by Moscow.
 

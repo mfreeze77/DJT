@@ -1,6 +1,6 @@
 # Chapter 7 Supporting Research
 ## Pre-Inauguration Value, Second-Term Payoffs, Russian Reactions, and Institutional Counterpressure
-### Coverage: January 20, 2025–August 26, 2026
+### Coverage: January 20, 2025–August 31, 2026
 
 ## Research purpose
 
@@ -646,3 +646,21 @@ The repository should distinguish:
 - [Russian-source appendix](Tmanch_CH7_russian_sources.md)
 - [Counterevidence](Tmanch_CH7_counterevidence.md)
 - [Open questions and records plan](Tmanch_CH7_open_questions.md)
+
+## August 31, 2026 — Asheville G20 financial normalization
+
+The U.S.-hosted G20 finance meeting restored Anton Siluanov to in-person participation for the first time since the 2022 invasion and provided a bilateral with Scott Bessent. European officials publicly objected and declined the customary family photograph. Trump defended the invitation through a general preference for getting along with everybody. Russian official reporting described bilateral financial-track and G20 cooperation.
+
+Reuters separately reported that Bessent told Siluanov no economic relief or agreements on other subjects would be available until Russia ended the war. That is meaningful counterevidence, but it occurred inside an already delivered normalization event.
+
+**Classification:** verified discretionary normalization; front-loaded Russian status/access benefit; back-loaded American condition; no publicly announced prior Russian concession.
+
+**Primary research location:** `J20-Pres.md` and `Tmanch_CH7_J20_event_ledger.csv`.
+
+**Sources:**
+
+- https://www.reuters.com/business/finance/europeans-bristle-russias-return-g20-2026-08-31/
+- https://www.reuters.com/world/bessent-told-russian-finance-minister-no-economic-relief-until-ukraine-war-ends-2026-08-31/
+- https://www.washingtonpost.com/world/2026/08/31/russian-finance-minister-invited-by-trump-draws-objections-g-20-meeting/
+- https://tass.com/world/2180105
+- https://interfax.com/newsroom/top-stories/118922/
