@@ -6,6 +6,7 @@ on:
       - agent/asheville-g20-master-matrix
     paths:
       - scripts/apply_asheville_g20_master_matrix_update.py
+      - scripts/fix_asheville_master_matrix_consistency.py
       - .github/workflows/apply-asheville-g20-master-matrix.yml
 
 permissions:
@@ -21,3 +22,5 @@ jobs:
           fetch-depth: 0
       - name: Apply master-matrix and Chapter 7 updates
         run: python scripts/apply_asheville_g20_master_matrix_update.py
+      - name: Finalize coverage and records consistency
+        run: python scripts/fix_asheville_master_matrix_consistency.py
