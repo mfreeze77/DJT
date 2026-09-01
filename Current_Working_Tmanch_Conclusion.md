@@ -525,7 +525,7 @@ Treasury simultaneously issued General License 133 and then General Licenses 134
 
 Those licenses served identifiable energy-supply and market-stability purposes. They did not repeal the Russia sanctions regime or prove a reward to Moscow. They nevertheless preserved Russian transaction and revenue pathways while Russia was credibly accused of helping Iran locate American military assets.
 
-As of August 27, this research has identified public sanctions against the named China-based providers but no equivalent publicly announced Russia-specific consequence imposed because of Moscow's reported targeting assistance. Trump later said Russia had behaved “quite well” concerning the Strait of Hormuz.
+As of August 31, this research has identified public sanctions against the named China-based providers but no equivalent publicly announced Russia-specific consequence imposed because of Moscow's reported targeting assistance. Trump later said Russia had behaved “quite well” concerning the Strait of Hormuz.
 
 The resulting finding is:
 
@@ -620,7 +620,7 @@ The Moscow project, June 9 meeting, Manafort–Kilimnik channel, Stone conduct, 
 
 ### Russia received exceptional presidential insulation even after reported support for attacks on Americans
 
-The American casualty record, U.S. intelligence reporting, Russia's denial, Trump's minimization, the absence of an identified public Russia-specific consequence, and contemporaneous Russian-oil authorizations support this finding. The public evidence does not establish casualty-by-casualty causation or prove that Trump protected Russia pursuant to an explicit bargain. It establishes a striking differential response to materially similar foreign targeting support.
+The American casualty record, U.S. intelligence reporting, Russia's denial, Trump's minimization, the absence of an identified public Russia-specific consequence, and contemporaneous Russian-oil authorizations support this finding. The public evidence does not establish casualty-by-casualty causation or prove that Trump protected Russia pursuant to an explicit bargain. It establishes a striking differential response to materially similar foreign targeting support. The later restoration of Siluanov to in-person G20 participation and a Treasury bilateral—before any publicly announced Russian concession—extended that exceptional insulation into senior financial diplomacy.
 
 ### Trump repeatedly functioned as an agent of influence in effect
 

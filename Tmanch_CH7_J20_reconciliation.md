@@ -1,7 +1,7 @@
 # Chapter 7 — `J20-Pres.md` Reconciliation
 ## Master action ledger, evidentiary promotion, corrections, Russian reception, and unresolved leads
 
-**Coverage:** January 20–December 6, 2025  
+**Coverage:** January 20, 2025–present  
 **Repository baseline:** [`J20-Pres.md`](J20-Pres.md)  
 **Chapter destination:** [`Tmanch_CH7.md`](Tmanch_CH7.md)  
 **Machine-readable ledger:** [`Tmanch_CH7_J20_event_ledger.csv`](Tmanch_CH7_J20_event_ledger.csv)  

@@ -1,6 +1,6 @@
 # Chapter 7 Supporting Research
 ## Pre-Inauguration Value, Second-Term Payoffs, Russian Reactions, and Institutional Counterpressure
-### Coverage: January 20, 2025–August 26, 2026
+### Coverage: January 20, 2025–August 31, 2026
 
 ## Research purpose
 

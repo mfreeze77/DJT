@@ -1,6 +1,6 @@
 # Russia–Iran Targeting and Sanctions Asymmetry
 ## High-Magnitude Red-Flag Finding for Chapter 7 and the Working Conclusion
-### Coverage: March 1–August 27, 2026
+### Coverage: March 1–August 31, 2026
 
 > **Analytical status:** Controlling synthesis of the Russia–Iran targeting, U.S.-casualty, presidential-response, and Russian-oil licensing chronology.  
 > **Companion record:** [Russia–China–Iran Targeting and U.S. Casualty Matrix](Tmanch_CH7_Russia_China_Iran_Targeting_Casualty_Matrix.md) · [OFAC License Matrix](Tmanch_CH7_OFAC_license_matrix.csv) · [Chapter 7](Tmanch_CH7.md) · [Working Conclusion](Current_Working_Tmanch_Conclusion.md)
