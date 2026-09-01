@@ -762,6 +762,56 @@ Records that reveal recurring intermediaries, public reaction, or alternative ex
 - **Records to preserve:** email, texts, Signal/WhatsApp/Telegram, call metadata, calendars, documents, drafts, wallets, KYC, transaction logs, visitor records, camera footage, and mobile-device backups.
 - **Purpose:** prevent routine deletion before subpoenas or litigation.
 
+## Program CH7-RP-050 — Asheville G20 invitation, bilateral, and normalization record
+
+- **Priority:** A
+- **Date range:** July 1–September 30, 2026
+- **Agencies and custodians:** White House, Treasury, State, NSC, U.S. G20 presidency staff, Secret Service, relevant allied finance ministries, and Russian Finance Ministry records where obtainable.
+- **Questions:**
+  - Who proposed and approved Anton Siluanov’s in-person participation?
+  - What alternatives were considered, including virtual participation, restricted attendance, or no bilateral?
+  - What Russian concession, if any, was requested before the invitation?
+  - What instructions did Bessent receive concerning Ukraine, sanctions, Iran, NATO, financial cooperation, and public messaging?
+  - What did Siluanov request, offer, reject, or promise?
+  - Were European allies consulted before the invitation and bilateral?
+  - Did the meeting produce any follow-up on sanctions licenses, frozen assets, banking, debt, investment, energy, or G20 cooperation?
+- **Records needed:** invitation memoranda; participant and protocol decisions; agenda and briefing book; bilateral transcript or memorandum of conversation; Bessent talking points; Trump instructions; Russian requests; sanctions and licensing options; allied demarches; press strategy; Russian readout comparison; follow-up tasking; and any performance milestones.
+- **Would strengthen the current inference:** evidence that status or access was granted without a requested concession, that Russia sought normalization as a benefit, or that economic subjects advanced despite the war and targeting controversy.
+- **Would weaken the current inference:** evidence that the invitation was necessary to secure a concrete U.S. objective, that Bessent obtained a material verifiable concession, or that the meeting imposed costs exceeding its status and propaganda value.
+
+### Filing-ready Treasury FOIA module
+
+```text
+Subject: FOIA Request — August 31, 2026 Asheville G20 invitation and
+Bessent–Siluanov bilateral meeting
+
+I request records dated July 1 through September 30, 2026 concerning
+Russian Finance Minister Anton Siluanov's participation in the U.S.-
+hosted G20 finance ministers and central bank governors meeting in
+Asheville, North Carolina, and his bilateral meeting with Treasury
+Secretary Scott Bessent.
+
+Please include:
+
+1. invitation, attendance, protocol, and participation decisions;
+2. White House, NSC, State, and Treasury recommendations or approvals;
+3. briefing materials, agendas, talking points, participant lists,
+   memoranda of conversation, notes, and follow-up tasking;
+4. records concerning Ukraine, sanctions relief, Russian-origin oil,
+   frozen assets, banking, debt, investment, Iran, NATO, or bilateral
+   financial cooperation;
+5. communications with allied governments concerning Russian
+   participation or objections;
+6. Russian proposals, commitments, denials, or requested benefits; and
+7. records sufficient to identify any concession obtained, condition
+   imposed, implementation milestone, or later Russian performance.
+
+I do not request properly classified intelligence-source identities or
+material protected by statute. Please release all reasonably segregable
+portions, including dates, titles, routing, participants, and factual
+summaries.
+```
+
 ---
 
 # 11. Filing-ready federal request modules
@@ -1080,53 +1130,3 @@ The governing question is:
 > **When independently verified private value, access, official interest, timing, governmental benefit, and concealment converge, does the reciprocal explanation fit the complete record better than ordinary diplomacy, legitimate commerce, ideology, or coincidence?**
 
 The answer must be reached chain by chain. The records above are capable of moving each chain from suspicion to disproof, corroborated circumstantial inference, or direct evidence.
-
-## Program CH7-RP-050 — Asheville G20 invitation, bilateral, and normalization record
-
-- **Priority:** A
-- **Date range:** July 1–September 30, 2026
-- **Agencies and custodians:** White House, Treasury, State, NSC, U.S. G20 presidency staff, Secret Service, relevant allied finance ministries, and Russian Finance Ministry records where obtainable.
-- **Questions:**
-  - Who proposed and approved Anton Siluanov’s in-person participation?
-  - What alternatives were considered, including virtual participation, restricted attendance, or no bilateral?
-  - What Russian concession, if any, was requested before the invitation?
-  - What instructions did Bessent receive concerning Ukraine, sanctions, Iran, NATO, financial cooperation, and public messaging?
-  - What did Siluanov request, offer, reject, or promise?
-  - Were European allies consulted before the invitation and bilateral?
-  - Did the meeting produce any follow-up on sanctions licenses, frozen assets, banking, debt, investment, energy, or G20 cooperation?
-- **Records needed:** invitation memoranda; participant and protocol decisions; agenda and briefing book; bilateral transcript or memorandum of conversation; Bessent talking points; Trump instructions; Russian requests; sanctions and licensing options; allied demarches; press strategy; Russian readout comparison; follow-up tasking; and any performance milestones.
-- **Would strengthen the current inference:** evidence that status or access was granted without a requested concession, that Russia sought normalization as a benefit, or that economic subjects advanced despite the war and targeting controversy.
-- **Would weaken the current inference:** evidence that the invitation was necessary to secure a concrete U.S. objective, that Bessent obtained a material verifiable concession, or that the meeting imposed costs exceeding its status and propaganda value.
-
-### Treasury FOIA module
-
-```text
-Subject: FOIA Request — August 31, 2026 Asheville G20 invitation and
-Bessent–Siluanov bilateral meeting
-
-I request records dated July 1 through September 30, 2026 concerning
-Russian Finance Minister Anton Siluanov's participation in the U.S.-
-hosted G20 finance ministers and central bank governors meeting in
-Asheville, North Carolina, and his bilateral meeting with Treasury
-Secretary Scott Bessent.
-
-Please include:
-
-1. invitation, attendance, protocol, and participation decisions;
-2. White House, NSC, State, and Treasury recommendations or approvals;
-3. briefing materials, agendas, talking points, participant lists,
-   memoranda of conversation, notes, and follow-up tasking;
-4. records concerning Ukraine, sanctions relief, Russian-origin oil,
-   frozen assets, banking, debt, investment, Iran, NATO, or bilateral
-   financial cooperation;
-5. communications with allied governments concerning Russian
-   participation or objections;
-6. Russian proposals, commitments, denials, or requested benefits; and
-7. records sufficient to identify any concession obtained, condition
-   imposed, implementation milestone, or later Russian performance.
-
-I do not request properly classified intelligence-source identities or
-material protected by statute. Please release all reasonably segregable
-portions, including dates, titles, routing, participants, and factual
-summaries.
-```

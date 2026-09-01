@@ -618,18 +618,6 @@ Each entry states both its proper use and its limit. An official statement prove
 - **Supports:** Trump's statement that Russia had behaved quite well concerning the Strait of Hormuz when asked about punishment for countries doing business with Iran.
 - **Does not support:** a conclusion that the remark addressed every prior targeting allegation.
 
----
-
-# Source-control rules
-
-1. Russian state media is used to establish Russian messaging and perception, not neutral truth.
-2. Telegram and forums are lead and reception evidence unless independently corroborated.
-3. Congressional minority reports and letters establish oversight claims and requested records, not guilt.
-4. Company releases establish announced projects, not hidden ownership, fees, or policy linkage.
-5. White House fact sheets establish announced agreements, not completed investment or lack of conflict.
-6. Documentary reporting is strongest when it identifies contracts, filings, witnesses, or records and includes denials.
-7. No source should be cited for a proposition broader than the record it contains.
-
 # H. Asheville G20 financial normalization
 
 ## CH7-SRC-075 — Reuters on Russia’s return and European objections
@@ -679,3 +667,15 @@ Each entry states both its proper use and its limit. An official statement prove
 - **Location:** https://interfax.com/newsroom/top-stories/118922/
 - **Supports:** Russian official description of the bilateral as discussion of Russian-American interaction on the financial track and G20 cooperation.
 - **Does not support:** completeness, the U.S. account of conditions, or an agreement to provide relief.
+
+---
+
+# Source-control rules
+
+1. Russian state media is used to establish Russian messaging and perception, not neutral truth.
+2. Telegram and forums are lead and reception evidence unless independently corroborated.
+3. Congressional minority reports and letters establish oversight claims and requested records, not guilt.
+4. Company releases establish announced projects, not hidden ownership, fees, or policy linkage.
+5. White House fact sheets establish announced agreements, not completed investment or lack of conflict.
+6. Documentary reporting is strongest when it identifies contracts, filings, witnesses, or records and includes denials.
+7. No source should be cited for a proposition broader than the record it contains.
