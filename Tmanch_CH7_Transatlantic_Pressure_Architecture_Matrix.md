@@ -441,3 +441,19 @@ The remaining barriers are increasingly:
 Those barriers demonstrate resilience. They do not demonstrate that Trump has consistently acted to preserve the system against Russian interests.
 
 > **The speed bumps are increasingly the institutions restraining Trump, not Trump restraining Russia.**
+
+## August 31, 2026 addendum — financial normalization and allied cohesion
+
+The transatlantic architecture is weakened not only through military withdrawals or Article 5 ambiguity. It can also be weakened when the United States unilaterally restores an adversary’s diplomatic and financial status while European allies are still attempting to maintain isolation.
+
+| Pressure dimension | Asheville event | Immediate effect | Counterevidence | Net assessment |
+|---|---|---|---|---|
+| Diplomatic isolation | First in-person G20 finance appearance by Siluanov since the 2022 invasion | Reduced Russia’s visible isolation | Russia remained a formal G20 member | Material normalization signal |
+| Senior financial access | Bilateral with U.S. Treasury secretary | Restored direct high-level financial channel | Bessent reportedly refused relief until war ended | Access delivered; relief withheld publicly |
+| Allied cohesion | European objection and refusal of family photo | Created visible U.S.–European division over treatment of Russia | Allies remained in the meeting | Moderate allied-fracture cost |
+| Presidential deterrence framing | Trump said he likes getting along with everybody | Replaced a concession-based public rationale with personalized congeniality | Full internal rationale is not public | Reinforces personalized Russia treatment |
+| Russian propaganda | TASS and official readout emphasized bilateral financial cooperation | Converted the U.S. invitation into status and normalization messaging | Russian state accounts omit adverse details | Immediate narrative benefit |
+
+This event does not by itself change the matrix’s weighted 55–70 percent degradation range. It adds another high-confidence observation to the diplomatic-isolation and allied-cohesion layer:
+
+> **The transatlantic system can remain formally intact while the American executive voluntarily degrades the common isolation posture and forces allies to signal resistance to Washington’s treatment of Russia.**

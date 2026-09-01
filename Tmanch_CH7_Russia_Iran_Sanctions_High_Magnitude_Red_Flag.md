@@ -260,3 +260,23 @@ It is strong outcome evidence that Russia occupied an unusually protected positi
 - OFAC GL 134B: https://ofac.treasury.gov/recent-actions/20260417_33
 - OFAC GL 134C: https://ofac.treasury.gov/recent-actions/20260518_33
 - Reuters on August 27 remarks: https://www.reuters.com/world/middle-east/trump-says-us-is-not-talking-with-iran-economic-war-focus-2026-08-27/
+
+# 11. August 31 continuation — financial normalization after the targeting controversy
+
+Four days after Trump said Russia had behaved quite well concerning the Strait of Hormuz, the U.S.-hosted G20 finance meeting restored Anton Siluanov to in-person participation and a bilateral with Scott Bessent.
+
+The event extended the high-magnitude sequence:
+
+1. Americans were killed and wounded in Iranian attacks.
+2. Russia was credibly reported to have supplied targeting support during that campaign.
+3. Trump minimized the allegation and Moscow’s denials received public weight.
+4. Russian-origin oil transaction authority continued through successive licenses.
+5. No equivalent public Russia-specific targeting penalty was identified.
+6. Trump continued favorable public framing of Russian conduct concerning Iran.
+7. The United States then delivered renewed senior financial access and status without a publicly announced prior Russian concession.
+
+Bessent reportedly told Siluanov no economic relief would be available until Russia ended the Ukraine war. That condition is real counterevidence and means the meeting cannot be described as an immediate sanctions grant.
+
+The cumulative red flag nevertheless grew because the administration delivered the normalization benefit first:
+
+> **The targeting controversy did not move Russia into a durably hostile category in Trump’s public threat hierarchy. It was followed by continued oil authorizations, favorable rhetoric, intelligence-level engagement, and finally a volunteered restoration of senior Russian financial status on American soil.**
