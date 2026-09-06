@@ -1,0 +1,41 @@
+name: Apply Witkoff-Putin diplomatic-language research update
+
+on:
+  push:
+    branches:
+      - agent/witkoff-putin-diplomatic-language
+    paths:
+      - scripts/apply_witkoff_putin_diplomatic_language_update.py
+      - .github/workflows/apply-witkoff-putin-diplomatic-language.yml
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: agent/witkoff-putin-diplomatic-language
+          fetch-depth: 0
+      - name: Apply master-ledger, Chapter 7, source, and conclusion updates
+        run: python scripts/apply_witkoff_putin_diplomatic_language_update.py
+      - name: Commit generated research changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add J20-Pres.md \
+            Tmanch_CH7_J20_event_ledger.csv \
+            Tmanch_CH7.md \
+            Tmanch_CH7_support.md \
+            Tmanch_CH7_primary_sources.md \
+            Tmanch_CH7_claim_ledger.csv \
+            Tmanch_CH7_open_questions.md \
+            Current_Working_Tmanch_Conclusion.md
+          if git diff --cached --quiet; then
+            echo "No generated changes to commit"
+          else
+            git commit -m "research: integrate Witkoff-Putin diplomatic-language comparison [skip ci]"
+            git push origin HEAD:agent/witkoff-putin-diplomatic-language
+          fi
