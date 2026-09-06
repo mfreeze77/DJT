@@ -679,7 +679,7 @@ Witkoff and Kushner returned to Moscow for more than three hours of talks with P
 
 **Bounded archival comparison:**
 
-The review found real precedents for unusually warm U.S. language toward Soviet or Russian leaders: Davies’s friendly relationship with Stalin; Truman’s Potsdam toast; Kissinger’s “friends” language and praise of Brezhnev; Shultz’s “good guy” assessment of Gorbachev; and Kerry’s cordial remarks to Putin. The Kissinger–Brezhnev record is the closest envoy precedent.
+The review found real precedents for unusually warm U.S. language toward Soviet or Russian leaders: Davies’s friendly relationship with Stalin; Eric Johnston’s 1944 statement that his Stalin meeting was the greatest of his pleasant Soviet memories; Truman’s Potsdam toast; Kissinger’s “friends” language and praise of Brezhnev; Shultz’s “good guy” assessment of Gorbachev; George W. Bush’s public trust and “sense of his soul” language toward Putin; and Kerry’s cordial remarks to Putin. Johnston is the closest verbal precedent, Kissinger the closest career-diplomatic analogue, and Bush the closest Putin-specific precedent for personalized public trust. None occurred in the same complete configuration as Witkoff’s September 2026 remark.
 
 The comparison did not identify a close modern instance combining all of the following:
 
@@ -698,6 +698,8 @@ The comparison did not identify a close modern instance combining all of the fol
 - https://www.reuters.com/world/europe/putin-says-us-russia-contacts-beneficial-talks-begin-with-witkoff-kushner-2026-09-05/
 - https://www.reuters.com/world/europe/putins-envoy-dmitriev-meet-witkoff-kushner-upon-their-arrival-moscow-sources-say-2026-09-05/
 - https://www.washingtonpost.com/world/2026/09/05/witkoff-kushner-arrive-moscow-talks-with-putin/
+- https://history.state.gov/historicaldocuments/frus1944v04/d884
+- https://georgewbush-whitehouse.archives.gov/news/releases/2001/06/text/20010616-6.html
 - https://history.state.gov/historicaldocuments/frus1969-76v16/d64
 - https://history.state.gov/historicaldocuments/frus1981-88v06/d84
 - https://history.state.gov/historicaldocuments/frus1945Berlinv02/d710a-82

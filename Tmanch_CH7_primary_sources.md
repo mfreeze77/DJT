@@ -742,6 +742,22 @@ Each entry states both its proper use and its limit. An official statement prove
 - **Supports:** Davies’s description of a cordial, friendly, informal meeting of more than two hours and his strong rapprochement orientation.
 - **Does not support:** a public statement to Stalin comparable to Witkoff’s wording.
 
+## CH7-SRC-090 — FRUS: Eric Johnston’s letter to Stalin
+
+- **Date:** July 7, 1944; reported by the U.S. Embassy July 11
+- **Institution:** U.S. Department of State, Office of the Historian
+- **Location:** https://history.state.gov/historicaldocuments/frus1944v04/d884
+- **Supports:** Johnston’s statement that his Kremlin meeting with Stalin was the greatest of the pleasant memories he would carry from the Soviet Union; Soviet publication of the letter; commercial and industrial-cooperation framing.
+- **Does not support:** equivalence to 2026 without accounting for the U.S.–Soviet wartime alliance, the shared fight against Nazi Germany, Johnston’s trade mission, or his status as a business leader serving as an emissary rather than a career diplomat.
+
+## CH7-SRC-091 — White House archive: George W. Bush and Putin, June 2001
+
+- **Date:** June 16, 2001
+- **Institution:** George W. Bush White House archive
+- **Location:** https://georgewbush-whitehouse.archives.gov/news/releases/2001/06/text/20010616-6.html
+- **Supports:** Bush’s public statements that Putin was straightforward and trustworthy, that Bush could sense his soul, and that Putin was a remarkable leader; also records contemporaneous discussion of NATO, missile defense, Chechnya, media freedom, and economic cooperation.
+- **Does not support:** an envoy-level precedent, a lifetime-memory formulation, or equivalence to diplomacy conducted during Russia’s full-scale war against Ukraine.
+
 ---
 
 # Source-control rules
