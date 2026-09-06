@@ -6,6 +6,7 @@ on:
       - agent/witkoff-putin-diplomatic-language
     paths:
       - scripts/apply_witkoff_putin_diplomatic_language_update.py
+      - scripts/refine_witkoff_historical_comparison.py
       - .github/workflows/apply-witkoff-putin-diplomatic-language.yml
 
 permissions:
@@ -21,6 +22,8 @@ jobs:
           fetch-depth: 0
       - name: Apply master-ledger, Chapter 7, source, and conclusion updates
         run: python scripts/apply_witkoff_putin_diplomatic_language_update.py
+      - name: Refine comparison with closest verbal and Putin-specific precedents
+        run: python scripts/refine_witkoff_historical_comparison.py
       - name: Commit generated research changes
         run: |
           git config user.name "github-actions[bot]"
@@ -36,6 +39,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No generated changes to commit"
           else
-            git commit -m "research: integrate Witkoff-Putin diplomatic-language comparison [skip ci]"
+            git commit -m "research: refine Witkoff-Putin historical comparison [skip ci]"
             git push origin HEAD:agent/witkoff-putin-diplomatic-language
           fi
