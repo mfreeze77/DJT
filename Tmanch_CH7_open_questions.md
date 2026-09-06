@@ -1,6 +1,6 @@
 # Chapter 7 Open Questions and Records-Compulsion Plan
 ## Pre-Inauguration Value → Post-Inauguration Benefit
-### Coverage: January 2024–August 31, 2026
+### Coverage: January 2024–September 6, 2026
 
 ## Purpose
 
@@ -810,6 +810,55 @@ I do not request properly classified intelligence-source identities or
 material protected by statute. Please release all reasonably segregable
 portions, including dates, titles, routing, participants, and factual
 summaries.
+```
+
+## Program CH7-RP-051 — September 2026 Moscow–Kyiv envoy posture, language, and negotiating record
+
+- **Priority:** A
+- **Date range:** August 20–September 30, 2026
+- **Agencies and custodians:** White House, State Department, NSC, U.S. special-envoy offices, Secret Service, intelligence agencies for final releasable assessments, and Presidential records custodians; Ukrainian and Russian records where obtainable.
+- **Questions:**
+  - Was Witkoff’s retirement-memory statement prepared, approved, rehearsed, or spontaneous?
+  - What guidance governed public praise, personal rapport, gifts, protocol, and bargaining posture?
+  - What did the United States ask Putin to concede before or during the meeting?
+  - What did Russia request concerning territory, NATO, sanctions, recognition, frozen assets, energy, investment, technology, or economic projects?
+  - What potentially major U.S.–Russia projects were discussed?
+  - Did the delegation use comparable personal language toward President Zelenskyy or Ukrainian negotiators the following day?
+  - How did U.S., Russian, Ukrainian, and allied officials assess the effect of the public opening?
+  - Did any later concession, ceasefire, or economic action result from the rapport strategy?
+- **Records needed:** full audiovisual record; official transcript and translation; prepared remarks and talking points; briefing books; participant notes; memorandum of conversation; gifts and protocol records; economic-project papers; messages with Dmitriev and Ushakov; delegation debrief; Kyiv meeting records; allied consultations; intelligence and public-diplomacy assessments; and follow-up tasking.
+- **Would strengthen the relationship-centered inference:** evidence that praise and personal status were intentionally granted without reciprocal concession, that economic normalization was prioritized, or that Russian officials viewed the envoys as unusually pliable or trusted.
+- **Would weaken it:** evidence that the language was an approved tactical device that produced a material, verifiable Russian concession exceeding its status value, or that comparable warmth was used symmetrically with Kyiv.
+
+### State Department / White House records module
+
+```text
+Subject: Records request — September 5–6, 2026 Witkoff–Kushner meetings
+in Moscow and Kyiv, public opening language, and negotiating outcomes
+
+I request releasable agency records dated August 20 through September
+30, 2026 concerning Steve Witkoff's and Jared Kushner's meetings with
+Vladimir Putin and Volodymyr Zelenskyy, including:
+
+1. agendas, briefing materials, prepared remarks, talking points, and
+   protocol or public-messaging guidance;
+2. memoranda of conversation, participant notes, transcripts,
+   translations, audiovisual records, and delegation debriefs;
+3. records concerning territorial demands, NATO, security guarantees,
+   sanctions, frozen assets, energy, trade, investment, technology, or
+   potentially major U.S.–Russia economic projects;
+4. records sufficient to show each proposal, concession requested,
+   concession offered, condition imposed, and follow-up milestone;
+5. communications with Kirill Dmitriev, Yuri Ushakov, Ukrainian
+   officials, and allied governments;
+6. records assessing the diplomatic, negotiating, alliance, or public-
+   diplomacy effect of the Kremlin-released opening exchange; and
+7. records sufficient to compare the delegation's public and private
+   language toward the Russian and Ukrainian sides.
+
+Please release all reasonably segregable portions, including dates,
+titles, participants, routing, and unclassified factual summaries where
+substantive material remains properly classified or privileged.
 ```
 
 ---

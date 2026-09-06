@@ -1,6 +1,6 @@
 # Chapter 7 Supporting Research
 ## Pre-Inauguration Value, Second-Term Payoffs, Russian Reactions, and Institutional Counterpressure
-### Coverage: January 20, 2025–August 31, 2026
+### Coverage: January 20, 2025–September 6, 2026
 
 ## Research purpose
 
@@ -664,3 +664,43 @@ Reuters separately reported that Bessent told Siluanov no economic relief or agr
 - https://www.washingtonpost.com/world/2026/08/31/russian-finance-minister-invited-by-trump-draws-objections-g-20-meeting/
 - https://tass.com/world/2180105
 - https://interfax.com/newsroom/top-stories/118922/
+
+## September 5–6, 2026 — Witkoff’s Putin memory tribute and historical-comparison finding
+
+Witkoff and Kushner returned to Moscow for more than three hours of talks with Putin and traveled to Kyiv the following day. The Kremlin-released opening showed Witkoff describing future retirement “stories and memories” and placing Putin-related memories “right at the top.” He identified Jared Kushner, Kirill Dmitriev, and Yuri Ushakov as participants in the conversation that produced the remark.
+
+**Verified event findings:**
+
+- Putin publicly said Russia found Witkoff and Kushner convenient to work with.
+- No breakthrough was announced.
+- Russia’s territorial and NATO demands remained unchanged.
+- Potential major U.S.–Russia economic projects were discussed.
+- The envoys subsequently visited Kyiv, which is relevant counterevidence to a claim that their mission consisted only of engagement with Moscow.
+
+**Bounded archival comparison:**
+
+The review found real precedents for unusually warm U.S. language toward Soviet or Russian leaders: Davies’s friendly relationship with Stalin; Truman’s Potsdam toast; Kissinger’s “friends” language and praise of Brezhnev; Shultz’s “good guy” assessment of Gorbachev; and Kerry’s cordial remarks to Putin. The Kissinger–Brezhnev record is the closest envoy precedent.
+
+The comparison did not identify a close modern instance combining all of the following:
+
+1. a subordinate U.S. envoy rather than the president;
+2. a public opening statement rather than a private retrospective;
+3. an unresolved war against a U.S.-supported state;
+4. unchanged maximalist demands from Moscow;
+5. no announced prior concession or breakthrough;
+6. a self-referential statement about the Russian leader’s place among the envoy’s greatest future memories; and
+7. Kremlin publication of the exchange as relationship-centered imagery.
+
+**Classification:** unusually effusive personalized diplomacy; historical warmth has precedents, but the complete configuration appears rare in the public record reviewed. The statement supports analysis of diplomatic posture and susceptibility to personalized engagement. It does not independently prove secret direction, disloyalty, or a policy bargain.
+
+**Sources:**
+
+- https://www.reuters.com/world/europe/putin-says-us-russia-contacts-beneficial-talks-begin-with-witkoff-kushner-2026-09-05/
+- https://www.reuters.com/world/europe/putins-envoy-dmitriev-meet-witkoff-kushner-upon-their-arrival-moscow-sources-say-2026-09-05/
+- https://www.washingtonpost.com/world/2026/09/05/witkoff-kushner-arrive-moscow-talks-with-putin/
+- https://history.state.gov/historicaldocuments/frus1969-76v16/d64
+- https://history.state.gov/historicaldocuments/frus1981-88v06/d84
+- https://history.state.gov/historicaldocuments/frus1945Berlinv02/d710a-82
+- https://history.state.gov/historicaldocuments/frus1933-39/d465
+- https://2009-2017.state.gov/secretary/remarks/2013/05/209065.htm
+- https://2009-2017.state.gov/secretary/remarks/2015/05/242214.htm

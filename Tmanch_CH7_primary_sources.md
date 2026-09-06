@@ -668,6 +668,80 @@ Each entry states both its proper use and its limit. An official statement prove
 - **Supports:** Russian official description of the bilateral as discussion of Russian-American interaction on the financial track and G20 cooperation.
 - **Does not support:** completeness, the U.S. account of conditions, or an agreement to provide relief.
 
+# I. September 2026 Witkoff–Putin language and historical comparison
+
+## CH7-SRC-081 — Reuters on opening remarks and mutual trust framing
+
+- **Date:** September 5, 2026
+- **Publisher:** Reuters
+- **Location:** https://www.reuters.com/world/europe/putin-says-us-russia-contacts-beneficial-talks-begin-with-witkoff-kushner-2026-09-05/
+- **Supports:** meeting date and participants; Putin’s statement that contacts were beneficial and Russia found the envoys convenient to work with; Witkoff’s transmission of Trump’s best wishes and thanks for the temporary strike pause.
+- **Does not support:** secret commitments, motive for the memory remark, or a completed settlement.
+
+## CH7-SRC-082 — Reuters on meeting outcome, Russian demands, and economic projects
+
+- **Date:** September 5, 2026
+- **Publisher:** Reuters
+- **Location:** https://www.reuters.com/world/europe/putins-envoy-dmitriev-meet-witkoff-kushner-upon-their-arrival-moscow-sources-say-2026-09-05/
+- **Supports:** more than three hours of talks; no announced breakthrough; unchanged Russian territorial and NATO demands; discussion of potentially major mutually beneficial U.S.–Russia projects; subsequent Kyiv visit.
+- **Does not support:** the undisclosed contents of the U.S. proposal or private concessions.
+
+## CH7-SRC-083 — Washington Post on Kremlin-released memory remark
+
+- **Date:** September 5, 2026
+- **Publisher:** Washington Post
+- **Location:** https://www.washingtonpost.com/world/2026/09/05/witkoff-kushner-arrive-moscow-talks-with-putin/
+- **Supports:** the opening wording in which Witkoff referred to future retirement stories and memories and placed Putin-related memories near the top; identification of Kushner, Dmitriev, and Ushakov in that framing.
+- **Does not support:** whether the language was scripted, tactical, sincere, or approved in advance.
+
+## CH7-SRC-084 — FRUS: Kissinger and Brezhnev, October 1974
+
+- **Date:** October 1974
+- **Institution:** U.S. Department of State, Office of the Historian
+- **Location:** https://history.state.gov/historicaldocuments/frus1969-76v16/d64
+- **Supports:** Kissinger’s statements that he came to meet friends and that Brezhnev would be remembered for contributions to peace; cordial banter during détente.
+- **Does not support:** equivalence between détente-era arms-control negotiations and the September 2026 Ukraine-war context.
+
+## CH7-SRC-085 — FRUS: Shultz and Gorbachev, October 1987
+
+- **Date:** October 23, 1987
+- **Institution:** U.S. Department of State, Office of the Historian
+- **Location:** https://history.state.gov/historicaldocuments/frus1981-88v06/d84
+- **Supports:** Shultz’s personal assessment that Gorbachev’s manner could lead Americans to consider him a good guy during detailed treaty negotiations.
+- **Does not support:** a personal lifetime-memory tribute or the absence of simultaneous substantive pressure.
+
+## CH7-SRC-086 — FRUS: Potsdam toast involving Truman and Stalin
+
+- **Date:** July 23, 1945
+- **Institution:** U.S. Department of State, Office of the Historian
+- **Location:** https://history.state.gov/historicaldocuments/frus1945Berlinv02/d710a-82
+- **Supports:** President Truman’s ceremonial statement that association with Churchill and Stalin was a great pleasure and privilege.
+- **Does not support:** comparison without accounting for the wartime-alliance, victory, presidential, and formal-toast context.
+
+## CH7-SRC-087 — State Department: Kerry and Putin, May 2013
+
+- **Date:** May 7, 2013
+- **Institution:** U.S. Department of State archive
+- **Location:** https://2009-2017.state.gov/secretary/remarks/2013/05/209065.htm
+- **Supports:** cordial opening language and thanks for Soviet sacrifice and Russian cooperation before the seizure of Crimea.
+- **Does not support:** a conflict-period personal tribute or equivalence to the 2026 context.
+
+## CH7-SRC-088 — State Department: Kerry’s Sochi visit after Crimea
+
+- **Date:** May 12, 2015
+- **Institution:** U.S. Department of State archive
+- **Location:** https://2009-2017.state.gov/secretary/remarks/2015/05/242214.htm
+- **Supports:** professional thanks for hosting and continued direct communication amid explicit disagreements over Ukraine and other issues.
+- **Does not support:** unusually personal admiration or a lifetime-memory formulation.
+
+## CH7-SRC-089 — FRUS: Ambassador Davies and Stalin, June 1938
+
+- **Date:** June 5, 1938
+- **Institution:** U.S. Department of State, Office of the Historian
+- **Location:** https://history.state.gov/historicaldocuments/frus1933-39/d465
+- **Supports:** Davies’s description of a cordial, friendly, informal meeting of more than two hours and his strong rapprochement orientation.
+- **Does not support:** a public statement to Stalin comparable to Witkoff’s wording.
+
 ---
 
 # Source-control rules
