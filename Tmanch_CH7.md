@@ -1,9 +1,9 @@
 # Chapter 7: From Institutional Withdrawal to Second-Term Payoff Networks
 ## January 20, 2025–September 17, 2026
 
-> **Research status:** Rebuilt from the completed Chapters 1–6, reconciled line by line against [`J20-Pres.md`](J20-Pres.md), and updated through September 6, 2026.  
+> **Research status:** Rebuilt from the completed Chapters 1–6, reconciled line by line against [`J20-Pres.md`](J20-Pres.md), and updated through September 17, 2026.  
 > **Supersedes:** The former prospective Chapter 7 and the narrower first reconstruction.  
-> **Related files:** [supporting research](Tmanch_CH7_support.md) · [claim ledger](Tmanch_CH7_claim_ledger.csv) · [payoff ledger](Tmanch_CH7_payoff_ledger.csv) · [J20 reconciliation](Tmanch_CH7_J20_reconciliation.md) · [J20 event ledger](Tmanch_CH7_J20_event_ledger.csv) · [OFAC matrix](Tmanch_CH7_OFAC_license_matrix.csv) · [primary sources](Tmanch_CH7_primary_sources.md) · [Russia–China–Iran targeting and casualty matrix](Tmanch_CH7_Russia_China_Iran_Targeting_Casualty_Matrix.md) · [Russian-source appendix](Tmanch_CH7_russian_sources.md) · [J20 Russian commentary](Tmanch_CH7_J20_russian_commentary.md) · [counterevidence](Tmanch_CH7_counterevidence.md) · [open questions](Tmanch_CH7_open_questions.md)
+> **Related files:** [supporting research](Tmanch_CH7_support.md) · [claim ledger](Tmanch_CH7_claim_ledger.csv) · [payoff ledger](Tmanch_CH7_payoff_ledger.csv) · [J20 reconciliation](Tmanch_CH7_J20_reconciliation.md) · [J20 event ledger](Tmanch_CH7_J20_event_ledger.csv) · [OFAC matrix](Tmanch_CH7_OFAC_license_matrix.csv) · [primary sources](Tmanch_CH7_primary_sources.md) · [Russia–China–Iran targeting and casualty matrix](Tmanch_CH7_Russia_China_Iran_Targeting_Casualty_Matrix.md) · [Russian-source appendix](Tmanch_CH7_russian_sources.md) · [J20 Russian commentary](Tmanch_CH7_J20_russian_commentary.md) · [counterevidence](Tmanch_CH7_counterevidence.md) · [open questions](Tmanch_CH7_open_questions.md) · [Chapter 9 family-value synthesis](Tmanch_CH9.md)
 
 ---
 
