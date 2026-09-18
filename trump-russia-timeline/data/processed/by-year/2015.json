@@ -1,0 +1,644 @@
+{
+  "events": [
+    {
+      "id": "event-101",
+      "date": "2015-01-07",
+      "startDate": "2015-01-07",
+      "endDate": "2015-01-07",
+      "title": "FinCEN fines Trump Taj Mahal $10 million for AML violations",
+      "description": "The Financial Crimes Enforcement Network (FinCEN) fined the Trump Taj Mahal Casino Resort $10 million for 'significant and long-standing anti-money laundering violations.' This was the largest penalty ever levied against a casino for AML failures, with FinCEN noting the casino had a 'long history of prior, repeated Bank Secrecy Act violations' dating back to 2003. Though Trump was no longer controlling the casino at this point, it still bore his name and the violations occurred during his ownership period.",
+      "categories": ["financial", "legal", "criminal"],
+      "importance": 8,
+      "moneyFlow": null,
+      "location": {
+        "country": "United States",
+        "city": "Atlantic City",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-076"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_97-20.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "FinCEN Fines Trump Taj Mahal Casino Resort $10 Million for Significant and Long Standing Anti-Money Laundering Violations",
+          "url": "https://www.fincen.gov/news/news-releases/fincen-fines-trump-taj-mahal-casino-resort-10-million-significant-and-long",
+          "documentType": "press release",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-006",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-102",
+      "date": "2015-06-16",
+      "startDate": "2015-06-16",
+      "endDate": "2015-06-16",
+      "title": "Trump announces presidential campaign",
+      "description": "Donald Trump officially announced his candidacy for President of the United States at Trump Tower in New York City, beginning a campaign that would focus heavily on immigration issues and 'making America great again.' Throughout the campaign, Trump maintained an unusually friendly stance toward Russia and Vladimir Putin while hiding his ongoing business dealings in Russia from voters.",
+      "categories": ["political"],
+      "importance": 10,
+      "moneyFlow": null,
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": []
+      },
+      "entities": ["entity-001"],
+      "sources": [
+        {
+          "description": "Tmanch_CH5.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "DJT 2015-2021.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-006",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-103",
+      "date": "2015-06-15",
+      "startDate": "2015-06-15",
+      "endDate": "2015-06-15",
+      "title": "Trump establishes Trumpet Global Ltd. in the Bahamas",
+      "description": "Trump Organization established Trumpet Global Ltd., an offshore entity in the Bahamas. This continued Trump's pattern of creating offshore entities for international business operations, similar to TRUMPFIELD LTD created in 2014.",
+      "categories": ["business", "financial", "international"],
+      "importance": 7,
+      "moneyFlow": null,
+      "location": {
+        "country": "Bahamas",
+        "city": "",
+        "coordinates": []
+      },
+      "entities": ["entity-001"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_213-217_PP.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": ["event-096"],
+      "era": "era-006",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-104",
+      "date": "2015-09-14",
+      "startDate": "2015-09-14",
+      "endDate": "2015-09-14",
+      "title": "Trump sells Miss Universe Organization",
+      "description": "Trump sold the Miss Universe Organization, which included the Miss USA and Miss Teen USA pageants, to WME/IMG talent agency for an undisclosed sum. This sale came shortly after Trump had bought out NBCUniversal's 50% stake in the organization following a public fallout with broadcast partners over Trump's controversial comments about immigrants during his presidential campaign launch.",
+      "categories": ["business", "financial"],
+      "importance": 6,
+      "moneyFlow": {
+        "amount": 15000000,
+        "direction": "to-trump",
+        "isDirectFlow": true,
+        "entities": ["entity-001", "entity-077"]
+      },
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-066", "entity-077"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_213-217.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "Donald Trump Sells Miss Universe Organization",
+          "url": "https://www.businessinsider.com/donald-trump-sells-miss-universe-img-2015-9",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": ["event-089"],
+      "era": "era-006",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-105",
+      "date": "2015-09-01",
+      "startDate": "2015-09-01",
+      "endDate": "2015-09-01",
+      "title": "Felix Sater begins work on Trump Tower Moscow project",
+      "description": "Felix Sater, a Russian-born developer with prior criminal convictions and longstanding business ties to Trump, began working with Trump's personal attorney Michael Cohen on a potential Trump Tower Moscow deal. This renewed effort came after earlier attempts with the Agalarovs had stalled in 2014.",
+      "categories": ["business", "financial", "international"],
+      "importance": 9,
+      "moneyFlow": null,
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-071", "entity-078", "entity-079"],
+      "sources": [
+        {
+          "description": "DJT 2015-2021.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "Tmanch_CH5.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": ["event-097"],
+      "era": "era-006",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-106",
+      "date": "2015-10-28",
+      "startDate": "2015-10-28",
+      "endDate": "2015-10-28",
+      "title": "Trump signs Letter of Intent for Trump Tower Moscow",
+      "description": "Donald Trump personally signed a Letter of Intent to develop a Trump Tower in Moscow with Russian developer I.C. Expert. This 17-page agreement was signed while Trump was a presidential candidate, though he repeatedly claimed publicly during the campaign that he had 'nothing to do with Russia.' The project proposed a major development in Moscow that could have been worth hundreds of millions of dollars to Trump's organization.",
+      "categories": ["business", "financial", "international", "political"],
+      "importance": 10,
+      "moneyFlow": null,
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-078", "entity-079", "entity-080"],
+      "sources": [
+        {
+          "description": "DJT 2015-2021.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "Trump signed off on Moscow project during campaign - Giuliani",
+          "url": "https://www.reuters.com/article/world/trump-signed-off-on-moscow-project-during-campaign-giuliani-idUSKCN1OI29Q/",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": ["event-105", "event-107"],
+      "era": "era-006",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-107",
+      "date": "2015-11-03",
+      "startDate": "2015-11-03",
+      "endDate": "2015-11-03",
+      "title": "Sater emails Cohen about Putin's support for Trump Tower Moscow and election",
+      "description": "Felix Sater sent an email to Michael Cohen regarding the Trump Tower Moscow project, claiming: 'I will get Putin on this program and we will get Donald elected... our boy can become president of the USA and we can engineer it.' Though Sater later admitted to exaggerating, the email reveals the perceived value of Kremlin connections to help both the Moscow deal and Trump's political aspirations.",
+      "categories": ["business", "political", "international"],
+      "importance": 9,
+      "moneyFlow": null,
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-071", "entity-078", "entity-079"],
+      "sources": [
+        {
+          "description": "DJT 2015-2021.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "'We Can Engineer It': Trump Associate Bragged About Using Deal with Putin to Help Win Election",
+          "url": "https://www.vanityfair.com/news/2017/08/trump-tower-moscow-russia-presidential-campaign",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": ["event-105", "event-106"],
+      "era": "era-006",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-108",
+      "date": "2015-12-30",
+      "startDate": "2015-01-01",
+      "endDate": "2015-12-31",
+      "title": "Allied intelligence agencies notice suspicious Trump-Russia connections",
+      "description": "Starting in 2015, several allied intelligence agencies (including Britain's GCHQ) began noticing suspicious interactions between Trump associates and known or suspected Russian agents. These communications were detected as part of routine surveillance of Russian targets, not as targeted monitoring of Trump's team. This intelligence was later shared with U.S. agencies as concerns about potential Russian influence grew.",
+      "categories": ["intelligence", "international", "political"],
+      "importance": 8,
+      "moneyFlow": null,
+      "location": {
+        "country": "United Kingdom",
+        "city": "London",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-071", "entity-081"],
+      "sources": [
+        {
+          "description": "Tmanch_CH1_support.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "Links between Trump associates and Russian officials - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Links_between_Trump_associates_and_Russian_officials",
+          "documentType": "encyclopedia",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-006",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-109",
+      "date": "2015-12-18",
+      "startDate": "2015-12-18",
+      "endDate": "2015-12-18",
+      "title": "Putin praises Trump as 'talented' and 'absolute leader'",
+      "description": "Russian President Vladimir Putin publicly praised Donald Trump as a 'talented person' and 'the absolute leader in the presidential race' during his annual press conference. Trump responded by saying it was 'a great honor to be so nicely complimented by a man so highly respected within his own country and beyond.' This unusual mutual admiration between a U.S. presidential candidate and the Russian leader attracted significant attention.",
+      "categories": ["political", "international"],
+      "importance": 8,
+      "moneyFlow": null,
+      "location": {
+        "country": "Russia",
+        "city": "Moscow",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-071"],
+      "sources": [
+        {
+          "description": "Tmanch_CH6.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "Putin praises 'bright and talented' Trump",
+          "url": "https://www.politico.com/story/2015/12/putin-trump-216929",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-006",
+      "mediaUrls": []
+    }
+  ],
+  "entities": {
+    "entity-001": {
+      "id": "entity-001",
+      "name": "Donald J. Trump",
+      "aliases": ["Donald John Trump", "DJT"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "American",
+      "description": "Real estate developer, businessman, television personality, and 2016 U.S. presidential candidate. In 2015, Trump announced his candidacy for president while simultaneously pursuing a Trump Tower project in Moscow and establishing additional offshore entities. He frequently praised Vladimir Putin on the campaign trail while publicly denying business ties to Russia.",
+      "roles": ["developer", "businessman", "television personality", "presidential candidate"],
+      "affiliation": ["Trump Organization", "Republican Party"],
+      "significance": 10,
+      "firstAppearance": "1977-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-071": {
+      "id": "entity-071",
+      "name": "Vladimir Putin",
+      "aliases": [],
+      "type": "person",
+      "subtype": "politician",
+      "nationality": "Russian",
+      "description": "President of Russia who publicly praised Trump in December 2015 as a 'talented person' and 'the absolute leader in the presidential race.' Despite international sanctions and tensions with the U.S., Putin cultivated a positive relationship with Trump through public statements, while Russian entities simultaneously pursued business deals with Trump's organization.",
+      "roles": ["president", "politician"],
+      "affiliation": ["Russian government"],
+      "significance": 9,
+      "firstAppearance": "2013-11-09",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-076": {
+      "id": "entity-076",
+      "name": "Financial Crimes Enforcement Network (FinCEN)",
+      "aliases": ["FinCEN"],
+      "type": "organization",
+      "subtype": "government agency",
+      "nationality": "American",
+      "description": "U.S. Treasury Department bureau responsible for combating money laundering and other financial crimes. In January 2015, FinCEN fined the Trump Taj Mahal Casino Resort $10 million for 'significant and long-standing anti-money laundering violations' - the largest penalty ever imposed on a casino at that time.",
+      "roles": ["regulatory agency", "law enforcement"],
+      "affiliation": ["U.S. Department of the Treasury"],
+      "significance": 7,
+      "firstAppearance": "2015-01-07",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-077": {
+      "id": "entity-077",
+      "name": "WME/IMG",
+      "aliases": ["William Morris Endeavor Entertainment"],
+      "type": "organization",
+      "subtype": "business",
+      "nationality": "American",
+      "description": "American talent agency and entertainment company that purchased the Miss Universe Organization from Donald Trump in September 2015 following controversy over Trump's campaign statements about immigrants.",
+      "roles": ["entertainment company", "talent agency"],
+      "affiliation": [],
+      "significance": 5,
+      "firstAppearance": "2015-09-14",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-078": {
+      "id": "entity-078",
+      "name": "Felix Sater",
+      "aliases": ["Felix Sheferovsky"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "Russian-American",
+      "description": "Russian-born businessman with a criminal history who worked with the Trump Organization on numerous projects. In 2015, Sater spearheaded the renewed Trump Tower Moscow project with Michael Cohen, claiming in emails that he could secure Vladimir Putin's support for both the development and Trump's presidential campaign.",
+      "roles": ["businessman", "developer", "consultant"],
+      "affiliation": ["Bayrock Group"],
+      "significance": 9,
+      "firstAppearance": "2015-09-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-079": {
+      "id": "entity-079",
+      "name": "Michael Cohen",
+      "aliases": [],
+      "type": "person",
+      "subtype": "lawyer",
+      "nationality": "American",
+      "description": "Personal attorney to Donald Trump and Executive Vice President of the Trump Organization who led negotiations for the Trump Tower Moscow project throughout 2015 and into 2016. Cohen worked with Felix Sater to advance the project, including reaching out to Putin's office for assistance, while Trump campaigned for president.",
+      "roles": ["lawyer", "executive", "fixer"],
+      "affiliation": ["Trump Organization"],
+      "significance": 9,
+      "firstAppearance": "2015-09-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-080": {
+      "id": "entity-080",
+      "name": "I.C. Expert",
+      "aliases": [],
+      "type": "organization",
+      "subtype": "business",
+      "nationality": "Russian",
+      "description": "Russian real estate development company that signed a Letter of Intent with the Trump Organization in October 2015 to develop a Trump Tower in Moscow. The company was represented by Andrey Rozov in negotiations with Trump's team.",
+      "roles": ["real estate developer"],
+      "affiliation": [],
+      "significance": 7,
+      "firstAppearance": "2015-10-28",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-081": {
+      "id": "entity-081",
+      "name": "GCHQ",
+      "aliases": ["Government Communications Headquarters"],
+      "type": "organization",
+      "subtype": "intelligence agency",
+      "nationality": "British",
+      "description": "British intelligence agency responsible for signals intelligence that reportedly first detected suspicious communications between Trump associates and Russian intelligence figures in late 2015. This intelligence was later shared with U.S. agencies as concerns about Russian influence in the U.S. election grew.",
+      "roles": ["intelligence agency"],
+      "affiliation": ["British government"],
+      "significance": 7,
+      "firstAppearance": "2015-12-30",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    }
+  },
+  "relationships": [
+    {
+      "id": "relationship-trump-sater-2015",
+      "source": "entity-001",
+      "target": "entity-078",
+      "type": "business",
+      "subtype": "real estate development",
+      "description": "Trump relied on Felix Sater to lead negotiations for a potential Trump Tower Moscow project in 2015, despite Sater's criminal history and Russian connections. Sater worked closely with Michael Cohen, Trump's personal attorney, to advance the project while Trump campaigned for president.",
+      "strength": 9,
+      "startDate": "2015-09-01",
+      "endDate": "",
+      "isBidirectional": true,
+      "relatedEvents": ["event-105", "event-106", "event-107"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    {
+      "id": "relationship-trump-cohen-2015",
+      "source": "entity-001",
+      "target": "entity-079",
+      "type": "business-personal",
+      "subtype": "legal representation",
+      "description": "Michael Cohen served as Trump's personal attorney and key representative in the Trump Tower Moscow negotiations in 2015. Cohen kept Trump regularly updated on the project's progress and later admitted that the discussions continued well into 2016, despite Trump's public denials of business ties with Russia.",
+      "strength": 10,
+      "startDate": "2015-09-01",
+      "endDate": "",
+      "isBidirectional": true,
+      "relatedEvents": ["event-105", "event-106", "event-107"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    {
+      "id": "relationship-trump-putin-2015",
+      "source": "entity-001",
+      "target": "entity-071",
+      "type": "political-business",
+      "subtype": "mutual admiration",
+      "description": "Throughout 2015, Trump repeatedly praised Vladimir Putin as a strong leader, while Putin reciprocated by calling Trump 'talented' and 'the absolute leader in the presidential race' in December 2015. Simultaneously, Trump was negotiating a major real estate deal in Moscow that would require Kremlin approval, creating an unusual alignment of political and business interests.",
+      "strength": 8,
+      "startDate": "2015-06-16",
+      "endDate": "",
+      "isBidirectional": true,
+      "relatedEvents": ["event-109"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    {
+      "id": "relationship-cohen-sater-2015",
+      "source": "entity-079",
+      "target": "entity-078",
+      "type": "business",
+      "subtype": "collaboration",
+      "description": "Michael Cohen and Felix Sater worked closely together on the Trump Tower Moscow project in 2015. Sater claimed to have connections to Putin and Russian officials that could help advance both the project and Trump's presidential campaign. Their collaboration included Sater's boastful email claiming 'I will get Putin on this program and we will get Donald elected.'",
+      "strength": 9,
+      "startDate": "2015-09-01",
+      "endDate": "",
+      "isBidirectional": true,
+      "relatedEvents": ["event-105", "event-107"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    {
+      "id": "relationship-trump-ic-expert",
+      "source": "entity-001",
+      "target": "entity-080",
+      "type": "business",
+      "subtype": "licensing agreement",
+      "description": "Trump signed a Letter of Intent with Russian development company I.C. Expert in October 2015 to develop a Trump Tower in Moscow. The project would have been a licensing deal with Trump's name and brand, similar to other international Trump developments.",
+      "strength": 8,
+      "startDate": "2015-10-28",
+      "endDate": "",
+      "isBidirectional": true,
+      "relatedEvents": ["event-106"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    }
+  ],
+  "transactions": [
+    {
+      "id": "transaction-miss-universe-sale",
+      "date": "2015-09-14",
+      "fromEntity": "entity-077",
+      "toEntity": "entity-001",
+      "intermediaries": [],
+      "amount": 15000000,
+      "currency": "USD",
+      "amountUSD": 15000000,
+      "type": "business",
+      "subtype": "asset sale",
+      "description": "Trump sold the Miss Universe Organization to WME/IMG in September 2015 for an undisclosed sum. According to Trump's financial disclosure, the Miss Universe Organization was valued between $5 million and $25 million prior to the sale.",
+      "purpose": "Asset liquidation",
+      "method": "Corporate acquisition",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-104"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "The exact sale price was not publicly disclosed, but Trump had previously claimed the organization was worth between $5 million and $25 million on financial disclosure forms."
+    }
+  ],
+  "intelligenceActivities": [
+    {
+      "id": "intel-001",
+      "date": "2015-12-30",
+      "startDate": "2015-01-01",
+      "endDate": "2015-12-31",
+      "agency": "GCHQ",
+      "country": "United Kingdom",
+      "activityType": "Signals intelligence",
+      "targets": ["entity-001"],
+      "operators": ["entity-081"],
+      "description": "British intelligence agency GCHQ detected suspicious communications between Trump associates and known or suspected Russian intelligence figures in late 2015. This intelligence was collected as part of routine surveillance of Russian targets, not as targeted monitoring of Trump's team, and was later shared with U.S. agencies.",
+      "objectives": ["Counterintelligence", "Foreign intelligence collection"],
+      "outcomes": ["Intelligence sharing with U.S. agencies"],
+      "relatedEvents": ["event-108"],
+      "classification": "Top Secret",
+      "declassificationDate": "",
+      "evidenceStrength": "reported",
+      "sources": [
+        {
+          "description": "Tmanch_CH1_support.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "British intelligence passed Trump associates' communications with Russians on to US counterparts",
+          "url": "https://www.theguardian.com/uk-news/2017/apr/13/british-spies-first-to-spot-trump-team-links-russia",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": "This intelligence collection reportedly began as Western agencies noticed an unusual pattern of contacts between Trump associates and Russian figures, raising early concerns about potential foreign influence."
+    }
+  ]
+}

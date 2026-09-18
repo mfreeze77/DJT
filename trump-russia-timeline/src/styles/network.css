@@ -1,0 +1,160 @@
+/* Network Visualization Styles */
+
+/* Make the umbrella layout more obvious */
+#network-container {
+  background-color: #f9f9f9;
+  background-image: linear-gradient(to bottom, rgba(173, 216, 230, 0.2), rgba(255, 255, 255, 0.9));
+}
+
+/* Umbrella specific styles - Make Trump node more distinctive and fixed at bottom */
+.trump-node {
+  background-color: #FFA500 !important; /* Orange */
+  border-width: 4px !important;
+  border-color: #d93025 !important;
+  height: 35px !important;
+  width: 35px !important;
+  font-size: 16px !important;
+  font-weight: bold !important;
+  z-index: 100 !important;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5) !important;
+  position: absolute !important; 
+  bottom: 50px !important;
+}
+
+/* Event nodes in umbrella layout */
+.event-node {
+  background-color: #3498db !important;
+  border-style: dashed !important;
+  border-width: 2px !important;
+  border-color: #2980b9 !important;
+  transition: opacity 0.3s ease-in-out, transform 0.2s ease-in-out !important;
+}
+
+.event-node:hover {
+  transform: scale(1.1) !important;
+  z-index: 10 !important;
+}
+
+/* Event connections (umbrella spokes) */
+.event-connection {
+  width: 2px !important;
+  line-color: #7f8c8d !important;
+  target-arrow-color: #7f8c8d !important;
+  curve-style: straight !important;
+  opacity: 0.7 !important;
+}
+
+/* Entity connections */
+.entity-connection {
+  width: 1.5px !important;
+  line-color: #95a5a6 !important;
+  target-arrow-color: #95a5a6 !important;
+  curve-style: bezier !important;
+  opacity: 0.6 !important;
+}
+
+/* Container */
+#network-container {
+  width: 100%;
+  height: 500px;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  position: relative;
+}
+
+/* Node Styles */
+.network-node {
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+/* Trump Node (T) */
+.trump-node {
+  background-color: #FFA500 !important; /* Orange */
+}
+
+/* Russian Node (R) */
+.russian-node {
+  background-color: #FF0000 !important; /* Red */
+}
+
+/* Intermediary Node (T/R) */
+.intermediary-node {
+  background-color: #FF6347 !important; /* Tomato */
+}
+
+/* Edge Styles */
+.network-edge {
+  opacity: 0.7;
+  transition: opacity 0.2s ease;
+}
+
+/* Hide filtered elements */
+.filtered {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+}
+
+/* Fade non-highlighted elements */
+.faded {
+  opacity: 0.2 !important;
+}
+
+/* Highlight styles */
+.highlighted {
+  z-index: 999 !important;
+}
+
+/* Add a label for the timeline bottom */
+.timeline-year-label {
+  text-align: center;
+  font-weight: bold;
+  margin-top: 10px;
+  font-size: 18px;
+}
+
+/* Custom style to make node labels more readable */
+.node-label {
+  text-shadow: 0 0 3px #000;
+  font-weight: bold;
+}
+
+/* Customize the Cytoscape.js styles */
+.cytoscape-container {
+  background-color: #f8f9fa;
+}
+
+/* Target Trump nodes specifically */
+node[type="trump"] {
+  background-color: #FFA500;
+  color: #000;
+  font-size: 24px;
+  text-outline-width: 0;
+}
+
+/* Target Russian nodes specifically */
+node[type="russian"] {
+  background-color: #FF0000;
+  color: #000;
+  font-size: 24px;
+  text-outline-width: 0;
+}
+
+/* Target intermediary nodes specifically */
+node[type="intermediary"] {
+  background-color: #FF6347;
+  color: #000;
+  font-size: 18px;
+  text-outline-width: 0;
+}
+
+/* Make sure arrows are visible */
+edge {
+  curve-style: bezier;
+  target-arrow-shape: triangle;
+  width: 2px;
+}

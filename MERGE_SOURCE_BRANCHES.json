@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "repository": "mfreeze77/DJT",
+  "snapshot_local_date": "2026-09-17",
+  "timezone": "America/Chicago",
+  "baseline_main": "bd26c11d957cf1bc874f6336e8f4271dccd07cc8",
+  "baseline_tree": "6edd39e2c8ff5d444b1f9d66f1551b8fcf4198bd",
+  "resolution": "Preserve every baseline file; import missing FOIA and visualization files; archive superseded PR 4 and PR 11 files; connect captured histories without reapplying already integrated patches.",
+  "source_branches": [
+    {"branch":"Visual_Timeline","sha":"9f01d75f6e678da76497a48ee7e89e3eefa830a0","disposition":"import_visualization_additively"},
+    {"branch":"agent/add-foia-research-tranche","sha":"ee62aebda94024281fca29766a9856f7c899d6c3","pr":3,"disposition":"import_five_missing_files_keep_current_readme"},
+    {"branch":"agent/asheville-g20-master-matrix","sha":"7ca77afd5bab20e3c74d9b8a53bdc553c52eaf4c","pr":20,"disposition":"retain_previously_merged_content_and_connect_history"},
+    {"branch":"agent/cambridge-analytica-bridge","sha":"f27f8ac717a17e616c06a2c75a535fe63deb0807","pr":19,"disposition":"retain_previously_merged_content_and_connect_history"},
+    {"branch":"agent/ch8-ch9-active-measures-value-channels","sha":"bdb1e42e47bfec308e0c8b21951ad25e55f21524","pr":22,"disposition":"retain_previously_merged_content_and_connect_history"},
+    {"branch":"agent/daily-research-monitor","sha":"8c22559841aec408e6c613fc349d16c7d9ecede6","disposition":"already_ancestor_of_baseline_no_new_files_or_schedule"},
+    {"branch":"agent/elevate-russia-iran-sanctions-red-flag","sha":"6e4c121cc31d8dd12c0e843f7a7e2a59036270ec","pr":17,"disposition":"retain_previously_merged_content_and_connect_history"},
+    {"branch":"agent/expand-chapter-1-ivana","sha":"5b626be1f3c98be1dc15f960b27739e8a7f87327","pr":5,"disposition":"retain_previously_merged_content_and_connect_history"},
+    {"branch":"agent/expand-chapter-2-soviet-cultivation","sha":"93c46cd01a6c9641782e86d83afbd0dc966fe9f9","pr":6,"disposition":"retain_previously_merged_content_and_connect_history"},
+    {"branch":"agent/expand-chapter-3-recovery-networks","sha":"81bb60007046bd4d4a7ce608f10a82f80036770a","pr":7,"disposition":"retain_previously_merged_content_and_connect_history"},
+    {"branch":"agent/expand-chapter-4-bayrock-capital","sha":"a24c26d5c630ec50d7924663527abc86da212696","pr":8,"disposition":"retain_previously_merged_content_and_connect_history"},
+    {"branch":"agent/expand-chapter-5-counterintelligence","sha":"6ba8b7e05557e69f1a63343bcef2e3ed6403ec42","pr":9,"disposition":"retain_previously_merged_content_and_connect_history"},
+    {"branch":"agent/expand-chapter-6-postpresidency-platform","sha":"29f68b37a0d1a20b26814b06df795b1c7d73b49b","pr":10,"disposition":"retain_previously_merged_content_and_connect_history"},
+    {"branch":"agent/expand-chapter-7-mosaic","sha":"be93fb8a840e288949715666f617f27a2cd0e531","pr":11,"disposition":"archive_nine_changed_files_keep_current_root_files"},
+    {"branch":"agent/expand-chapter-7-payoff-networks","sha":"93b3af29b666d0c40eb1893e34c5ad4b87f80634","pr":12,"disposition":"retain_previously_merged_content_and_connect_history"},
+    {"branch":"agent/manafort-kilimnik-operational-use","sha":"1b6469e93ae6d1044f902bcf2ad0443c4603cd8a","pr":18,"disposition":"retain_previously_merged_content_and_connect_history"},
+    {"branch":"agent/quantify-russian-linked-financial-flows","sha":"9356f50ae5c7d391d71e3861d317042e62876d7b","pr":14,"disposition":"retain_previously_merged_content_and_connect_history"},
+    {"branch":"agent/rebuild-chapter-7","sha":"2b69c48d0fdaa1864644b7bbb09f1826773ccbcb","pr":4,"disposition":"archive_six_changed_files_keep_current_root_files"},
+    {"branch":"agent/rebuild-working-conclusion-source-integrity","sha":"2ca80e8739f548d8b96d540e4e39d64028338bb0","pr":13,"disposition":"retain_previously_merged_content_and_connect_history"},
+    {"branch":"agent/russia-china-iran-targeting","sha":"cbc9d4de6588f8d3f24fc1a7efe7ac4a7ce3ca53","pr":16,"disposition":"retain_previously_merged_content_and_connect_history"},
+    {"branch":"agent/transatlantic-pressure-architecture","sha":"ddb8052e0988ccfeca82cbf068ebbacdb075af2c","pr":15,"disposition":"retain_previously_merged_content_and_connect_history"},
+    {"branch":"agent/witkoff-putin-diplomatic-language","sha":"ecc61cd75cef2004e5a778fc59df49d64600342f","pr":21,"disposition":"retain_previously_merged_content_and_connect_history"}
+  ],
+  "exact_tree_imports": [
+    {"source_branch":"Visual_Timeline","path":"trump-russia-timeline","sha":"62726fc70bc970ac6cc9d9cc3cd6808cb4653bbd"}
+  ],
+  "archive_directories": {
+    "pr_4":"archive/chapter-7/pr-4",
+    "pr_11":"archive/chapter-7/pr-11"
+  },
+  "validation_limitations": [
+    "No external-source factual audit",
+    "No runtime or browser validation of visualization",
+    "No promotion of archived ledger entries into current ledgers",
+    "No FOIA submission, deployment, or new recurring schedule"
+  ]
+}

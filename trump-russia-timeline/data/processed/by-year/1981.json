@@ -1,0 +1,113 @@
+{
+  "events": [
+    {
+      "id": "event-010",
+      "date": "1981-01-01",
+      "startDate": "1981-01-01",
+      "endDate": "1981-01-01",
+      "title": "Trump purchases Manhattan residential tower",
+      "description": "Donald Trump buys a 36-story residential tower at Third Avenue and East 61st Street, which he renovates and rebrands as Trump Plaza (not to be confused with the Atlantic City casino). By converting this rental building into cooperative apartments and selling off units, Trump generates substantial cash flow and further establishes his brand in Manhattan's upscale real estate market.",
+      "categories": ["business", "financial", "real-estate"],
+      "importance": 7,
+      "moneyFlow": {
+        "amount": 0,
+        "direction": "from-trump",
+        "isDirectFlow": true,
+        "entities": ["entity-001"],
+        "description": "Purchase of a 36-story residential tower that was converted to cooperative apartments, generating substantial cash flow through unit sales."
+      },
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": []
+      },
+      "entities": ["entity-001"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_77-83.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "Tmanch_Fin_77-83_Assoc.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-002",
+      "mediaUrls": []
+    }
+  ],
+  "entities": {
+    "entity-001": {
+      "id": "entity-001",
+      "name": "Donald J. Trump",
+      "aliases": ["Donald John Trump", "DJT"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "American",
+      "description": "Real estate developer who continued his expansion into Manhattan properties in 1981, purchasing a residential tower that he converted to cooperative apartments and rebranded as Trump Plaza. During this period, Trump was also focused on the construction of Trump Tower (which would open in 1983).",
+      "roles": ["developer", "businessman"],
+      "affiliation": [],
+      "significance": 10,
+      "firstAppearance": "1977-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    }
+  },
+  "relationships": [],
+  "transactions": [
+    {
+      "id": "transaction-trump-plaza-1981",
+      "date": "1981-01-01",
+      "title": "Trump purchases Manhattan residential tower",
+      "description": "Donald Trump buys a 36-story residential tower at Third Avenue and East 61st Street, converting it into an upmarket cooperative called Trump Plaza. This acquisition expands Trump's Manhattan real estate portfolio and establishes his brand in another upscale neighborhood.",
+      "type": "real-estate",
+      "amount": 0,
+      "currency": "USD",
+      "status": "completed",
+      "parties": {
+        "sender": {
+          "entity": "entity-001",
+          "role": "buyer"
+        },
+        "receiver": {
+          "entity": "Previous owner",
+          "role": "seller"
+        }
+      },
+      "locations": {
+        "source": "United States",
+        "destination": "United States"
+      },
+      "paymentMethod": "real-estate transaction",
+      "properties": {
+        "propertyAddress": "Third Avenue and East 61st Street, New York",
+        "propertySize": "36-story residential tower",
+        "propertyDescription": "Residential building converted to cooperative apartments"
+      },
+      "sources": [
+        {
+          "description": "Tmanch_Fin_77-83.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "relatedEvents": ["event-010"],
+      "relatedTransactions": [],
+      "notes": "This transaction helped Trump generate cash flow as he sold off cooperative units, and further established his brand in Manhattan's luxury real estate market. It was one of several smaller ventures Trump engaged in alongside his flagship Trump Tower project."
+    }
+  ],
+  "intelligenceActivities": []
+}

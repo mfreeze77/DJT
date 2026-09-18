@@ -1,0 +1,586 @@
+{
+  "events": [
+    {
+      "id": "event-037",
+      "date": "1994-04-01",
+      "startDate": "1994-04-01",
+      "endDate": "1994-04-01",
+      "title": "Mar-a-Lago officially becomes a private club",
+      "description": "Trump obtains local approvals and converts Mar-a-Lago from a costly personal estate into a private club, charging membership fees and shifting maintenance costs into a business enterprise.",
+      "categories": ["business"],
+      "importance": 6,
+      "moneyFlow": {
+        "amount": 0,
+        "direction": "restructuring",
+        "isDirectFlow": true,
+        "entities": ["entity-001", "entity-025"],
+        "description": "The conversion of Mar-a-Lago from a private residence to a private club represented a significant financial restructuring rather than a direct flow of funds. This business model transformation converted an expensive personal liability (costing Trump approximately $3 million annually in maintenance) into a revenue-generating asset through membership fees and event hosting. The club could charge initiation fees of $100,000+ per member and annual dues, creating a sustainable income stream."
+      },
+      "location": {
+        "country": "United States",
+        "city": "Palm Beach",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-025"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_93-96.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "Mar-a-Lago - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mar-a-Lago",
+          "documentType": "online encyclopedia",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": ["event-032"],
+      "era": "era-002",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-038",
+      "date": "1994-07-01",
+      "startDate": "1994-07-01",
+      "endDate": "1994-07-01",
+      "title": "Riverside South deal with Hong Kong consortium",
+      "description": "Facing large debt on his West Side rail yard project, Trump sells majority ownership to investors led by Henry Cheng and Vincent Lo. The rebranded 'Riverside South' proceeds with new financing, leaving Trump a minority stake.",
+      "categories": ["business", "financial"],
+      "importance": 8,
+      "moneyFlow": {
+        "amount": 90000000,
+        "direction": "to-trump",
+        "isDirectFlow": true,
+        "entities": ["entity-001", "entity-033", "entity-034"],
+        "description": "The Hong Kong consortium led by Henry Cheng and Vincent Lo paid approximately $90 million and assumed over $250 million of Trump's debt on the Riverside South development. Trump retained a 30% stake and management role while the Hong Kong investors provided the capital. The deal allowed Trump to maintain a presence in the project while eliminating his debt burden, effectively bailing him out of a potentially disastrous financial situation."
+      },
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-033", "entity-034"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_93-96.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-002",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-039",
+      "date": "1994-12-01",
+      "startDate": "1994-12-01",
+      "endDate": "1994-12-01",
+      "title": "Trump secures Gary, Indiana casino license",
+      "description": "After months of bidding, Trump's proposal for a riverboat casino in Gary is approved by Indiana regulators. Trump partners with local businessman Don Barden to move forward.",
+      "categories": ["business"],
+      "importance": 6,
+      "moneyFlow": {
+        "amount": 0,
+        "direction": "investment",
+        "isDirectFlow": false,
+        "entities": ["entity-001", "entity-035"],
+        "description": "The acquisition of the Gary, Indiana casino license did not involve an immediate significant cash flow, but rather represented a future investment opportunity. Trump partnered with local businessman Don Barden to secure regulatory approval for this new gambling venture. The license itself had significant potential value, as it would allow Trump to expand his casino operations beyond Atlantic City into the growing Midwest gaming market. While the exact commitment amount is unknown, Trump would later need to invest capital to develop and operate the riverboat casino."
+      },
+      "location": {
+        "country": "United States",
+        "city": "Gary",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-035"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_93-96.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": ["event-030"],
+      "era": "era-002",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-045",
+      "date": "1994-06-15",
+      "startDate": "1994-06-15",
+      "endDate": "1994-06-15",
+      "title": "DJ Aerospace Ltd. established in Bermuda",
+      "description": "Donald Trump establishes DJ Aerospace Ltd. in Bermuda, an offshore company likely created to park certain assets like his personal jet or helicopter outside U.S. tax jurisdiction.",
+      "categories": ["business", "financial"],
+      "importance": 7,
+      "moneyFlow": {
+        "amount": 0,
+        "direction": "restructuring",
+        "isDirectFlow": false,
+        "entities": ["entity-001", "entity-101"],
+        "description": "The creation of DJ Aerospace Ltd. in Bermuda represented an offshore financial structure likely intended to shelter Trump's aviation assets from U.S. taxation. While the exact monetary value is unknown, this move would allow Trump to potentially reduce tax liability on high-value assets like his personal jet and helicopter."
+      },
+      "location": {
+        "country": "Bermuda",
+        "city": "Hamilton",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-101"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_97-20_PP.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-002",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-046",
+      "date": "1994-07-15",
+      "startDate": "1994-07-15",
+      "endDate": "1994-07-15",
+      "title": "Process Consultants Inc. sells Trump Palace condo",
+      "description": "A mysterious Panamanian shell company called Process Consultants Inc. sells a 16th-floor condominium in Trump Palace that it had purchased in 1991. The Trump Corporation acts as the exclusive broker for the sale to a buyer from Hong Kong, earning commission on the transaction.",
+      "categories": ["business", "financial"],
+      "importance": 7,
+      "moneyFlow": {
+        "amount": 355000,
+        "direction": "from-trump",
+        "isDirectFlow": false,
+        "entities": ["entity-001"],
+        "description": "Process Consultants Inc., a Panamanian shell company with bearer shares (providing complete anonymity to the true owner), sold a Trump Palace condo for approximately $355,000 with the Trump Corporation acting as the exclusive broker. This transaction represents an early documented case of an offshore entity engaging in real estate transactions with Trump properties, with the Trump Organization earning commission on the sale while facilitating a transaction involving a secretive offshore entity."
+      },
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-102"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_93-96_PP.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-002",
+      "mediaUrls": []
+    }
+  ],
+  "entities": {
+    "entity-001": {
+      "id": "entity-001",
+      "name": "Donald J. Trump",
+      "aliases": ["Donald John Trump", "DJT"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "American",
+      "description": "Real estate developer, 45th President of the US. By 1994, was continuing to rebuild his business after financial difficulties in the early 1990s.",
+      "roles": ["developer", "casino operator"],
+      "affiliation": [],
+      "significance": 10,
+      "firstAppearance": "1977-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-025": {
+      "id": "entity-025",
+      "name": "Mar-a-Lago",
+      "aliases": [],
+      "type": "property",
+      "subtype": "private club",
+      "nationality": "American",
+      "description": "Historic 126-room Palm Beach mansion built in the 1920s by cereal heiress Marjorie Merriweather Post. Purchased by Trump in 1985 for $8 million. Converted from a private residence to a private club in 1994 to offset maintenance costs.",
+      "roles": [],
+      "affiliation": [],
+      "significance": 7,
+      "firstAppearance": "1985-07-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {
+        "location": "Palm Beach, Florida",
+        "propertyValue": 8000000
+      },
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [
+        {
+          "description": "Mar-a-Lago - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mar-a-Lago",
+          "documentType": "online encyclopedia",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": "Mar-a-Lago's conversion to a club in 1994 transformed a financial liability into a revenue source for Trump."
+    },
+    "entity-033": {
+      "id": "entity-033",
+      "name": "Henry Cheng",
+      "aliases": [],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "Hong Kong",
+      "description": "Hong Kong billionaire who led the consortium that bailed out Trump's West Side development project (Riverside South) in 1994.",
+      "roles": [],
+      "affiliation": [],
+      "significance": 6,
+      "firstAppearance": "1994-07-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-034": {
+      "id": "entity-034",
+      "name": "Vincent Lo",
+      "aliases": [],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "Hong Kong",
+      "description": "Hong Kong tycoon who partnered with Henry Cheng in the Riverside South (Trump City) project. Provided capital to rescue Trump's West Side deal.",
+      "roles": [],
+      "affiliation": [],
+      "significance": 6,
+      "firstAppearance": "1994-07-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-035": {
+      "id": "entity-035",
+      "name": "Don Barden",
+      "aliases": [],
+      "type": "person",
+      "subtype": "",
+      "nationality": "American",
+      "description": "Local businessman who joined Trump's riverboat casino venture in Gary, Indiana. Partnered with Trump after Indiana awarded the license in 1994.",
+      "roles": [],
+      "affiliation": [],
+      "significance": 5,
+      "firstAppearance": "1994-12-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-101": {
+      "id": "entity-101",
+      "name": "DJ Aerospace Ltd.",
+      "aliases": [],
+      "type": "organization",
+      "subtype": "offshore company",
+      "nationality": "Bermudian",
+      "description": "Offshore company established by Donald Trump in Bermuda, likely to park certain assets (such as his personal jet or helicopter) outside U.S. tax jurisdiction.",
+      "roles": ["asset holder"],
+      "affiliation": ["entity-001"],
+      "significance": 6,
+      "firstAppearance": "1994-06-15",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [
+        {
+          "description": "Tmanch_Fin_97-20_PP.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": "Discovered in the Panama Papers investigations."
+    },
+    "entity-102": {
+      "id": "entity-102",
+      "name": "Process Consultants Inc.",
+      "aliases": [],
+      "type": "organization",
+      "subtype": "offshore company",
+      "nationality": "Panamanian",
+      "description": "A mysterious Panamanian shell company with bearer shares that purchased a condo in Trump Palace in 1991 and sold it in 1994, with the Trump Corporation acting as the exclusive broker. The Panama Papers revealed this entity was structured to provide complete anonymity to its true owner, with Mossack Fonseca providing nominee directors.",
+      "roles": ["shell company"],
+      "affiliation": [],
+      "significance": 6,
+      "firstAppearance": "1991-01-01",
+      "lastAppearance": "1994-07-15",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [
+        {
+          "description": "Tmanch_Fin_93-96_PP.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": "Process Consultants Inc. is one of the earliest documented connections between Trump's business activities and the offshore financial system revealed in the Panama Papers. The true beneficial owner remains unknown, though investigators later tried to contact an Ecuadorian industrialist believed to be behind the company."
+    }
+  },
+  "relationships": [
+    {
+      "id": "relationship-012",
+      "source": "entity-001",
+      "target": "entity-035",
+      "type": "business-partnership",
+      "subtype": "",
+      "description": "Trump teams with Don Barden to develop the Gary, Indiana riverboat casino after securing the license.",
+      "strength": 6,
+      "startDate": "1994-12-01",
+      "endDate": "",
+      "isBidirectional": true,
+      "relatedEvents": ["event-039"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    {
+      "id": "relationship-013",
+      "source": "entity-001",
+      "target": "entity-033",
+      "type": "business-partnership",
+      "subtype": "",
+      "description": "Henry Cheng's Hong Kong group purchased majority control of Trump's West Side rail yards, rebranded Riverside South.",
+      "strength": 7,
+      "startDate": "1994-07-01",
+      "endDate": "",
+      "isBidirectional": true,
+      "relatedEvents": ["event-038"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    {
+      "id": "relationship-014",
+      "source": "entity-001",
+      "target": "entity-034",
+      "type": "business-partnership",
+      "subtype": "",
+      "description": "Vincent Lo joined Henry Cheng to finance and develop Riverside South in collaboration with Trump.",
+      "strength": 7,
+      "startDate": "1994-07-01",
+      "endDate": "",
+      "isBidirectional": true,
+      "relatedEvents": ["event-038"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    {
+      "id": "relationship-015",
+      "source": "entity-001",
+      "target": "entity-101",
+      "type": "financial",
+      "subtype": "tax structure",
+      "description": "Donald Trump established DJ Aerospace Ltd. in Bermuda as an offshore entity, likely to shelter aviation assets from U.S. taxation.",
+      "strength": 7,
+      "startDate": "1994-06-15",
+      "endDate": "",
+      "isBidirectional": true,
+      "relatedEvents": ["event-045"],
+      "evidenceStrength": "confirmed",
+      "sources": [
+        {
+          "description": "Tmanch_Fin_97-20_PP.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": "This offshore structure was revealed in the Panama Papers."
+    },
+    {
+      "id": "relationship-016",
+      "source": "entity-001",
+      "target": "entity-102",
+      "type": "business",
+      "subtype": "broker-client",
+      "description": "Trump Corporation acted as the exclusive broker for Process Consultants Inc. when the Panamanian shell company sold its Trump Palace condo in 1994.",
+      "strength": 6,
+      "startDate": "1994-07-15",
+      "endDate": "1994-07-15",
+      "isBidirectional": true,
+      "relatedEvents": ["event-046"],
+      "evidenceStrength": "confirmed",
+      "sources": [
+        {
+          "description": "Tmanch_Fin_93-96_PP.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": "This relationship is notable as it directly connects Trump's business to an offshore entity revealed in the Panama Papers. The Trump Organization facilitated the transaction and earned commission, despite the secretive nature of the shell company."
+    }
+  ],
+  "transactions": [
+    {
+      "id": "transaction-riverside-south",
+      "date": "1994-07-01",
+      "fromEntity": "entity-033",
+      "toEntity": "entity-001",
+      "intermediaries": ["entity-034"],
+      "amount": 90000000,
+      "currency": "USD",
+      "amountUSD": 90000000,
+      "type": "real estate",
+      "subtype": "investment",
+      "description": "Hong Kong investors led by Henry Cheng and Vincent Lo paid approximately $90 million and assumed over $250 million in debt on Trump's Riverside South development in Manhattan, acquiring majority control while allowing Trump to retain a 30% stake.",
+      "purpose": "Development financing",
+      "method": "Direct investment",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-038"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": ["Hong Kong"],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "While not directly implicated in the Panama Papers, this transaction is notable as it involves foreign capital from Hong Kong rescuing Trump's distressed project. The Hong Kong investors later used corporate structures in Hong Kong for their ongoing development activities."
+    },
+    {
+      "id": "transaction-mar-a-lago",
+      "date": "1994-04-01",
+      "fromEntity": "entity-001",
+      "toEntity": "entity-025",
+      "intermediaries": [],
+      "amount": 0,
+      "currency": "USD",
+      "amountUSD": 0,
+      "type": "business",
+      "subtype": "restructuring",
+      "description": "Trump converted Mar-a-Lago from a private residence to a private club, transforming a financial liability into a revenue-generating asset. This involved securing approval from Palm Beach local authorities.",
+      "purpose": "Cost reduction and revenue generation",
+      "method": "Business restructuring",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-037"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "This transaction represented a structural change in business model rather than a direct financial transaction. By converting the property to a private club, Trump was able to offset the $3 million annual maintenance costs through membership fees and event revenue."
+    },
+    {
+      "id": "transaction-gary-casino",
+      "date": "1994-12-01",
+      "fromEntity": "entity-001",
+      "toEntity": "",
+      "intermediaries": ["entity-035"],
+      "amount": 0,
+      "currency": "USD",
+      "amountUSD": 0,
+      "type": "licensing",
+      "subtype": "casino license",
+      "description": "Trump secured a riverboat casino license in Gary, Indiana, partnering with local businessman Don Barden. This regulatory approval allowed Trump to expand his casino operations beyond Atlantic City.",
+      "purpose": "Business expansion",
+      "method": "Regulatory application",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-039"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "While obtaining the license itself did not involve a direct financial transaction, it represented a valuable business opportunity and future investment. The actual development of the casino would require significant capital investment in subsequent years."
+    },
+    {
+      "id": "transaction-process-consultants",
+      "date": "1994-07-15",
+      "fromEntity": "entity-102",
+      "toEntity": "",
+      "intermediaries": ["entity-001"],
+      "amount": 355000,
+      "currency": "USD",
+      "amountUSD": 355000,
+      "type": "real estate",
+      "subtype": "property sale",
+      "description": "Process Consultants Inc., a Panamanian shell company, sold its 16th-floor condo in Trump Palace to a buyer from Hong Kong for approximately $355,000, with Trump Corporation acting as the exclusive broker.",
+      "purpose": "Asset liquidation",
+      "method": "Real estate sale",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-046"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": true,
+        "offshoreEntities": ["Process Consultants Inc."],
+        "beneficiaries": ["Unknown (bearer shares)"],
+        "jurisdictions": ["Panama"],
+        "leakSource": "Panama Papers"
+      },
+      "documentationLink": "",
+      "notes": "This transaction appears in the Panama Papers and represents one of the earliest documented cases of Trump's business directly interacting with an offshore entity. The bearer share structure of Process Consultants Inc. means the true beneficial owner remains hidden, though investigators later attempted to contact an Ecuadorian industrialist believed to be connected to the company."
+    }
+  ],
+  "intelligenceActivities": []
+}

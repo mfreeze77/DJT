@@ -1,0 +1,255 @@
+/* Main styles for the Trump-Russia Timeline visualization */
+
+/* ===== Base styling ===== */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.6;
+  color: #333;
+  background-color: #f5f5f5;
+  padding: 0;
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  flex: 1;
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ===== Header ===== */
+header {
+  background-color: #1a237e;
+  color: white;
+  padding: 12px 0;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.header-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header-title {
+  font-size: 1.6rem;
+  margin: 0;
+  text-align: center;
+}
+
+/* ===== Main visualization layout ===== */
+.visualization-wrapper {
+  display: flex;
+  height: 85vh;
+  min-height: 400px;
+  margin-bottom: 0;
+  position: relative;
+  width: 100%;
+}
+
+.center-container {
+  flex: 1;
+  width: 100%;
+  background: transparent;
+  position: relative;
+  overflow: hidden;
+  min-height: 400px;
+  height: 100%;
+}
+
+.money-container {
+  position: absolute;
+  top: 20px;
+  left: 30px;
+  z-index: 10;
+  background: transparent;
+  overflow: hidden;
+  width: 200px;
+  height: 300px;
+}
+
+/* Remove box styling for money container */
+.money-container.floating {
+  box-shadow: none;
+  border: none;
+}
+
+/* ===== Timeline Controls ===== */
+.timeline-controls {
+  background: white;
+  border-radius: 0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+  padding: 10px 20px;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.timeline-year-slider {
+  display: flex;
+  align-items: center;
+  flex: 1;
+  gap: 15px;
+}
+
+.timeline-year-slider input {
+  flex: 1;
+  height: 8px;
+  -webkit-appearance: none;
+  background: #ddd;
+  border-radius: 4px;
+  outline: none;
+}
+
+.timeline-year-slider input::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: #1a237e;
+  cursor: pointer;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+}
+
+.timeline-year-slider input::-moz-range-thumb {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: #1a237e;
+  cursor: pointer;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+  border: none;
+}
+
+#current-year {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #1a237e;
+  min-width: 60px;
+  text-align: center;
+}
+
+/* ===== Filters ===== */
+.filter-row {
+  background: white;
+  border-radius: 0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+  padding: 12px;
+  display: flex;
+  justify-content: center;
+}
+
+.category-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+}
+
+.category-filters label {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  padding: 4px 10px;
+  border-radius: 20px;
+  background-color: #f1f1f1;
+  font-size: 0.9rem;
+  transition: background-color 0.2s;
+  cursor: pointer;
+}
+
+.category-filters label:hover {
+  background-color: #e0e0e0;
+}
+
+.category-filters input[type="checkbox"] {
+  margin-right: 4px;
+}
+
+/* Category colors */
+.category-filters label[data-category="financial"] {
+  color: #4CAF50;
+  border: 1px solid #4CAF50;
+}
+
+.category-filters label[data-category="intelligence"] {
+  color: #9C27B0;
+  border: 1px solid #9C27B0;
+}
+
+.category-filters label[data-category="business"] {
+  color: #3498db;
+  border: 1px solid #3498db;
+}
+
+.category-filters label[data-category="political"] {
+  color: #e74c3c;
+  border: 1px solid #e74c3c;
+}
+
+.category-filters label[data-category="legal"] {
+  color: #f39c12;
+  border: 1px solid #f39c12;
+}
+
+.category-filters label[data-category="personal"] {
+  color: #7f8c8d;
+  border: 1px solid #7f8c8d;
+}
+
+/* ===== Footer ===== */
+footer {
+  background-color: #1a237e;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+  font-size: 0.8rem;
+  margin-top: auto;
+}
+
+/* ===== Responsive design ===== */
+@media (max-width: 768px) {
+  .visualization-wrapper {
+    flex-direction: column;
+    height: 80vh;
+  }
+  
+  .center-container {
+    flex: none;
+    height: 100%;
+    width: 100%;
+  }
+  
+  .money-container {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 150px;
+    height: 200px;
+  }
+  
+  .timeline-controls {
+    padding: 10px;
+  }
+  
+  .timeline-year-slider {
+    width: 100%;
+  }
+}

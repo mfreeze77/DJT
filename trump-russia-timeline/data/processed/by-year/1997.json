@@ -1,0 +1,239 @@
+{
+  "events": [
+    {
+      "id": "event-042",
+      "date": "1997-01-01",
+      "startDate": "1997-01-01",
+      "endDate": "1997-01-01",
+      "title": "Trump siblings undervalue Fred Trump's real estate empire at ~$41M",
+      "description": "With Fred Trump in declining health, Donald and his siblings further deploy All County Building Supply & Maintenance to transfer wealth tax-free. Investigations later call this 'outright fraud,' as the properties were worth many times more.",
+      "categories": ["financial", "legal"],
+      "importance": 8,
+      "moneyFlow": {
+        "amount": 0,
+        "direction": "to-trump",
+        "isDirectFlow": false,
+        "entities": ["entity-001", "entity-003", "entity-036"],
+        "description": "The Trump siblings, including Donald, undervalued Fred Trump's real estate empire at approximately $41 million for tax purposes, though it was later worth 16 times as much. This was part of a scheme using All County Building Supply & Maintenance and other mechanisms to transfer wealth from Fred Trump to his children while evading gift and estate taxes. This action concealed hundreds of millions in potential tax liability."
+      },
+      "location": {
+        "country": "United States",
+        "city": "",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-003", "entity-036"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_97-20_Assoc_TLDR.md (All County references)",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "NYT: Trump Engaged in 'Outright Fraud' to Avoid Taxes",
+          "url": "",
+          "documentType": "investigative article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-002",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-043",
+      "date": "1997-02-01",
+      "startDate": "1997-02-01",
+      "endDate": "1997-02-01",
+      "title": "Trump Hotel & Casino Resorts applies for Detroit license",
+      "description": "THCR proposes a $542 million 'Trump Motor City' casino. Mayor Dennis Archer eventually drops Trump's bid, citing concerns about Trump's high debt and finances.",
+      "categories": ["business", "financial", "political"],
+      "importance": 6,
+      "moneyFlow": {
+        "amount": 542000000,
+        "direction": "restructuring",
+        "isDirectFlow": false,
+        "entities": ["entity-001"],
+        "description": "Trump Hotels & Casino Resorts proposed a $542 million 'Trump Motor City' casino project in Detroit. While no money changed hands, as Detroit's mayor ultimately rejected the bid due to concerns about Trump's financial stability and debt load, this represented a significant potential investment commitment from THCR."
+      },
+      "location": {
+        "country": "United States",
+        "city": "Detroit",
+        "coordinates": []
+      },
+      "entities": ["entity-001"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_97-20.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-002",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-044",
+      "date": "1997-01-01",
+      "startDate": "1997-01-01",
+      "endDate": "1998-12-31",
+      "title": "BAYROCK PROPERTIES LIMITED established in BVI",
+      "description": "BAYROCK PROPERTIES LIMITED was incorporated in the British Virgin Islands. This offshore entity was related to the Bayrock Group that would later become a significant Trump business partner, developing Trump SoHo and other projects with the Trump Organization.",
+      "categories": ["business", "financial"],
+      "importance": 7,
+      "moneyFlow": {
+        "amount": 0,
+        "direction": "restructuring",
+        "isDirectFlow": false,
+        "entities": ["entity-001", "Bayrock Group"],
+        "description": "The creation of BAYROCK PROPERTIES LIMITED in the British Virgin Islands represented an offshore financial structure that would later be involved in Trump projects. While the exact monetary value involved in its incorporation is unknown, this entity was part of a network of offshore companies related to Bayrock Group, which eventually partnered with Trump on multiple developments including Trump SoHo."
+      },
+      "location": {
+        "country": "British Virgin Islands",
+        "city": "",
+        "coordinates": []
+      },
+      "entities": ["entity-001"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_209-212_PP.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-002",
+      "mediaUrls": []
+    }
+  ],
+  "entities": {
+    "entity-001": {
+      "id": "entity-001",
+      "name": "Donald J. Trump",
+      "aliases": ["Donald John Trump", "DJT"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "American",
+      "description": "Real estate developer, future 45th President of the US. By 1997, continued expanding his casino and branding business while engaged in tax planning with his father's assets.",
+      "roles": ["developer", "casino operator"],
+      "affiliation": [],
+      "significance": 10,
+      "firstAppearance": "1977-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-003": {
+      "id": "entity-003",
+      "name": "Fred C. Trump",
+      "aliases": ["Fred Trump"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "American",
+      "description": "Donald Trump's father, a successful real estate developer who created a substantial portfolio of middle-class housing in New York City. Provided financial support and business mentorship to Donald throughout his career.",
+      "roles": ["real estate developer", "businessman"],
+      "affiliation": [],
+      "significance": 8,
+      "firstAppearance": "",
+      "lastAppearance": "1999-06-25",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": "Fred Trump's health was declining by 1997, leading to estate planning activities by his children."
+    },
+    "entity-036": {
+      "id": "entity-036",
+      "name": "All County Building Supply & Maintenance",
+      "aliases": [],
+      "type": "organization",
+      "subtype": "shell company",
+      "nationality": "American",
+      "description": "Company created by the Trump family to mark up invoices and pass untaxed cash from Fred Trump's real estate empire to his children. Investigated as a vehicle for tax fraud.",
+      "roles": [],
+      "affiliation": [],
+      "significance": 7,
+      "firstAppearance": "1992-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-100": {
+      "id": "entity-100",
+      "name": "Bayrock Group",
+      "aliases": ["BAYROCK PROPERTIES LIMITED", "BAYROCK INVESTMENTS LIMITED", "BAYROCK HOLDINGS S.A."],
+      "type": "organization",
+      "subtype": "real estate development firm",
+      "nationality": "American",
+      "description": "Real estate development firm with offshore entities in the British Virgin Islands and Bahamas. Founded by Tevfik Arif, a former Soviet official, Bayrock would later become a significant Trump business partner, developing Trump SoHo and other projects.",
+      "roles": ["developer", "investor"],
+      "affiliation": [],
+      "significance": 8,
+      "firstAppearance": "1997-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": "Bayrock was revealed in the Panama Papers to have multiple offshore entities."
+    }
+  },
+  "relationships": [
+    {
+      "id": "relationship-trump-all-county",
+      "source": "entity-001",
+      "target": "entity-036",
+      "type": "financial",
+      "subtype": "tax scheme",
+      "description": "Donald Trump and his siblings used All County Building Supply & Maintenance as a vehicle to transfer wealth from Fred Trump's real estate empire while evading gift and estate taxes.",
+      "strength": 9,
+      "startDate": "1992-01-01",
+      "endDate": "1999-06-25",
+      "isBidirectional": true,
+      "relatedEvents": ["event-042"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": "This scheme was uncovered by a New York Times investigation and described as 'outright fraud'."
+    },
+    {
+      "id": "relationship-trump-bayrock",
+      "source": "entity-001",
+      "target": "entity-100",
+      "type": "business",
+      "subtype": "development partnership",
+      "description": "Donald Trump's eventual partnership with Bayrock Group began with the establishment of Bayrock's offshore entities. This relationship would later lead to the development of Trump SoHo and other Trump-branded projects.",
+      "strength": 7,
+      "startDate": "1997-01-01",
+      "endDate": "",
+      "isBidirectional": true,
+      "relatedEvents": ["event-044"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": "Bayrock's offshore structure was revealed in the Panama Papers."
+    }
+  ],
+  "transactions": [],
+  "intelligenceActivities": []
+}

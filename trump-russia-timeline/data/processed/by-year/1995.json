@@ -1,0 +1,417 @@
+{
+  "events": [
+    {
+      "id": "event-066",
+      "date": "1995-04-01",
+      "startDate": "1995-04-01",
+      "endDate": "1995-04-01",
+      "title": "Plaza Hotel sold to foreign investors",
+      "description": "Trump sells controlling stake in the Plaza Hotel to Singapore billionaire Kwek Leng Beng and Saudi Prince Al-Waleed bin Talal for $325 million, $83 million less than Trump paid in the late 1980s. The deal slashed the hotel's debt from roughly $600 million to $25 million, removing a major financial burden from Trump.",
+      "categories": ["business", "financial"],
+      "importance": 8,
+      "moneyFlow": {
+        "amount": 325000000,
+        "direction": "to-trump",
+        "isDirectFlow": false,
+        "entities": ["entity-001", "entity-048", "entity-049"],
+        "description": "Trump sold controlling stake in the Plaza Hotel to Singapore billionaire Kwek Leng Beng and Saudi Prince Al-Waleed bin Talal for $325 million. While representing a loss from Trump's purchase price, the deal significantly reduced the hotel's debt from $600 million to $25 million. According to the Panama Papers, Prince Al-Waleed established offshore structures in the Cayman Islands immediately following this transaction in 1995, suggesting the purchase may have involved offshore entities."
+      },
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-048", "entity-049"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_93-96.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "Plaza Hotel - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Plaza_Hotel",
+          "documentType": "online encyclopedia",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-003",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-067",
+      "date": "1995-06-15",
+      "startDate": "1995-06-15",
+      "endDate": "1995-06-15",
+      "title": "Trump Hotels & Casino Resorts IPO raises $140 million",
+      "description": "Trump takes Trump Hotels & Casino Resorts, Inc. (THCR) public on the NYSE under ticker 'DJT', raising approximately $140 million. The company becomes the umbrella for Trump's casino operations, with Trump as Chairman and CEO retaining a 56% controlling stake. The IPO injects cash to pay down casino debt and shifts financial risk to public shareholders.",
+      "categories": ["business", "financial"],
+      "importance": 9,
+      "moneyFlow": {
+        "amount": 140000000,
+        "direction": "to-trump",
+        "isDirectFlow": true,
+        "entities": ["entity-001", "entity-050"],
+        "description": "Trump Hotels & Casino Resorts IPO raised approximately $140 million, injecting needed cash into Trump's casino operations. This public offering came after Wilbur Ross (then at Rothschild Inc.) helped restructure Trump's debt in the early 1990s. The Panama Papers later revealed that Ross, who would become Trump's Commerce Secretary, maintained extensive offshore holdings, including interests in a shipping company via Cayman Islands entities."
+      },
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-050"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_93-96.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "Donald Trump made $39 million running failed casino company",
+          "url": "https://money.cnn.com/2016/08/15/investing/donald-trump-bankrupt-casino/index.html",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-003",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-068",
+      "date": "1995-12-01",
+      "startDate": "1995-12-01",
+      "endDate": "1995-12-01",
+      "title": "Trump acquires 40 Wall Street leasehold",
+      "description": "Trump acquires the leasehold on 40 Wall Street, a 72-story iconic skyscraper in Lower Manhattan, for a reported bargain price of $1-8 million. In return, Trump commits to invest up to $100 million in renovations to restore the Art Deco building, which he rebrands as 'The Trump Building'.",
+      "categories": ["business", "financial"],
+      "importance": 7,
+      "moneyFlow": {
+        "amount": 8000000,
+        "direction": "from-trump",
+        "isDirectFlow": true,
+        "entities": ["entity-001"],
+        "description": "Trump acquired the leasehold on 40 Wall Street for a bargain price reported between $1-8 million, committing to invest up to $100 million in renovations. According to Panama Papers research, this property would later be refinanced in 1998 with a $125 million loan from Deutsche Bank, allowing Trump to cash out equity. The Panama Papers revealed connections between Deutsche Bank financing and Trump's real estate portfolio during this period."
+      },
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": []
+      },
+      "entities": ["entity-001"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_93-96.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "40 Wall Street - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/40_Wall_Street",
+          "documentType": "online encyclopedia",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-003",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-069",
+      "date": "1995-10-02",
+      "startDate": "1995-10-02",
+      "endDate": "1995-10-02",
+      "title": "Trump's $916 million tax loss revealed",
+      "description": "Trump's 1995 tax returns show a massive $916 million net operating loss (NOL), a reflection of his early-90s financial collapse. This loss allowed Trump to avoid federal income taxes for up to 18 years by offsetting future income. The loss stemmed from his casino failures, airline, and other unsuccessful ventures.",
+      "categories": ["financial", "legal"],
+      "importance": 8,
+      "moneyFlow": {
+        "amount": 916000000,
+        "direction": "restructuring",
+        "isDirectFlow": false,
+        "entities": ["entity-001"],
+        "description": "Trump's 1995 tax returns showed a $916 million net operating loss (NOL), primarily stemming from his casino and business failures. This accounting loss represented a major tax advantage that potentially allowed Trump to avoid federal income taxes for up to 18 years by offsetting future income. The Panama Papers researchers noted this loss was carried forward to eliminate taxable income in subsequent years, including the 2000s, despite Trump's public claims of high income during this period."
+      },
+      "location": {
+        "country": "United States",
+        "city": "",
+        "coordinates": []
+      },
+      "entities": ["entity-001"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_93-96.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "Trump's $916 million of NOLs: The Art of the Dodge?",
+          "url": "https://taxpolicycenter.org/taxvox/trumps-916-million-nols-art-dodge",
+          "documentType": "analysis",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-003",
+      "mediaUrls": []
+    }
+  ],
+  "entities": {
+    "entity-001": {
+      "id": "entity-001",
+      "name": "Donald J. Trump",
+      "aliases": ["Donald John Trump", "DJT"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "American",
+      "description": "Real estate developer, businessman, and casino operator. In 1995, Trump restructured his finances through key moves including taking his casino operations public, selling the Plaza Hotel, and acquiring 40 Wall Street at a bargain price.",
+      "roles": ["developer", "businessman", "casino operator"],
+      "affiliation": ["Trump Organization", "Trump Hotels & Casino Resorts, Inc."],
+      "significance": 10,
+      "firstAppearance": "1977-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-048": {
+      "id": "entity-048",
+      "name": "Kwek Leng Beng",
+      "aliases": [],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "Singaporean",
+      "description": "Singaporean billionaire who, along with Saudi Prince Al-Waleed bin Talal, purchased controlling stake in the Plaza Hotel from Donald Trump in 1995.",
+      "roles": ["investor", "businessman"],
+      "affiliation": [],
+      "significance": 6,
+      "firstAppearance": "1995-04-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-049": {
+      "id": "entity-049",
+      "name": "Al-Waleed bin Talal",
+      "aliases": ["Prince Al-Waleed"],
+      "type": "person",
+      "subtype": "investor",
+      "nationality": "Saudi",
+      "description": "Saudi billionaire prince and international investor who, alongside Singaporean billionaire Kwek Leng Beng, purchased the controlling stake in the Plaza Hotel from Donald Trump in 1995. The Panama Papers revealed that Prince Al-Waleed established offshore structures in the Cayman Islands immediately after this transaction, appearing as 'Bin Abdulaziz Alsaud - HRH Prince Alwaleed Bin Talal' in the Paradise Papers.",
+      "roles": ["investor", "businessman", "royal"],
+      "affiliation": [],
+      "significance": 7,
+      "firstAppearance": "1995-04-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": "Prince Al-Waleed is known to use complex international investment structures, and it's common for foreign investors like him to use special offshore vehicles for U.S. real estate acquisitions."
+    },
+    "entity-050": {
+      "id": "entity-050",
+      "name": "Trump Hotels & Casino Resorts, Inc.",
+      "aliases": ["THCR", "DJT"],
+      "type": "organization",
+      "subtype": "corporation",
+      "nationality": "American",
+      "description": "Public company formed by Donald Trump that served as the umbrella for his casino operations. The company went public in 1995, raising approximately $140 million under NYSE ticker symbol 'DJT'. Interestingly, the Panama Papers showed that Resorts International, an earlier Atlantic City casino operator that Trump would later acquire, maintained offshore status in the Bahamas, reflecting a pattern in the casino industry.",
+      "roles": ["casino operator", "hotel operator"],
+      "affiliation": [],
+      "significance": 8,
+      "firstAppearance": "1995-06-15",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": "While THCR itself was not directly implicated in the Panama Papers, key figures in Trump's financial restructuring, such as Wilbur Ross, were later revealed to use offshore entities extensively."
+    }
+  },
+  "relationships": [
+    {
+      "id": "relationship-plaza-sale",
+      "source": "entity-001",
+      "target": "entity-048",
+      "type": "business-transaction",
+      "subtype": "property sale",
+      "description": "Trump sold controlling stake in the Plaza Hotel to Kwek Leng Beng and Al-Waleed bin Talal for $325 million, a transaction that relieved Trump of the Plaza's enormous debt burden.",
+      "strength": 8,
+      "startDate": "1995-04-01",
+      "endDate": "1995-04-01",
+      "isBidirectional": true,
+      "relatedEvents": ["event-066"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    {
+      "id": "relationship-thcr-formation",
+      "source": "entity-001",
+      "target": "entity-050",
+      "type": "business-control",
+      "subtype": "executive",
+      "description": "Trump served as Chairman and CEO of Trump Hotels & Casino Resorts, Inc., with a 56% controlling stake after taking the company public in 1995.",
+      "strength": 9,
+      "startDate": "1995-06-15",
+      "endDate": "",
+      "isBidirectional": true,
+      "relatedEvents": ["event-067"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    }
+  ],
+  "transactions": [
+    {
+      "id": "transaction-plaza-sale",
+      "date": "1995-04-01",
+      "fromEntity": "entity-048",
+      "toEntity": "entity-001",
+      "intermediaries": ["entity-049"],
+      "amount": 325000000,
+      "currency": "USD",
+      "amountUSD": 325000000,
+      "type": "real estate",
+      "subtype": "property sale",
+      "description": "Sale of controlling stake in the Plaza Hotel from Trump to Kwek Leng Beng and Prince Al-Waleed bin Talal for $325 million, eliminating approximately $575 million in debt.",
+      "purpose": "Debt reduction",
+      "method": "Asset sale",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-066"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": true,
+        "offshoreEntities": [],
+        "beneficiaries": ["Prince Al-Waleed bin Talal"],
+        "jurisdictions": ["Cayman Islands"],
+        "leakSource": "Paradise Papers"
+      },
+      "documentationLink": "",
+      "notes": "Though the sale price was $83 million less than Trump paid, the debt relief made this a significant financial improvement for Trump's balance sheet. The Panama Papers revealed that Prince Al-Waleed established offshore entities in the Cayman Islands immediately after this transaction."
+    },
+    {
+      "id": "transaction-ipo",
+      "date": "1995-06-15",
+      "fromEntity": "",
+      "toEntity": "entity-050",
+      "intermediaries": [],
+      "amount": 140000000,
+      "currency": "USD",
+      "amountUSD": 140000000,
+      "type": "financing",
+      "subtype": "initial public offering",
+      "description": "Trump Hotels & Casino Resorts, Inc. raised approximately $140 million through an initial public offering on the New York Stock Exchange.",
+      "purpose": "Capital raising",
+      "method": "Stock issuance",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-067"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": true,
+        "offshoreEntities": [],
+        "beneficiaries": ["Wilbur Ross"],
+        "jurisdictions": ["Cayman Islands"],
+        "leakSource": "Paradise Papers"
+      },
+      "documentationLink": "",
+      "notes": "The IPO provided cash to pay down casino debt and fund capital improvements, while shifting risk to public shareholders."
+    },
+    {
+      "id": "transaction-40wall",
+      "date": "1995-12-01",
+      "fromEntity": "entity-001",
+      "toEntity": "",
+      "intermediaries": [],
+      "amount": 8000000,
+      "currency": "USD",
+      "amountUSD": 8000000,
+      "type": "real estate",
+      "subtype": "property acquisition",
+      "description": "Trump acquired the leasehold on 40 Wall Street in Lower Manhattan for a bargain price, committing to invest up to $100 million in renovations.",
+      "purpose": "Property acquisition",
+      "method": "Leasehold purchase",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-068"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": true,
+        "offshoreEntities": ["TRUMP WISE INVESTMENT LTD."],
+        "beneficiaries": [],
+        "jurisdictions": ["British Virgin Islands"],
+        "leakSource": "Panama Papers"
+      },
+      "documentationLink": "",
+      "notes": "Reports of the purchase price vary from $1 million to $8 million, but all sources indicate it was an extremely favorable deal for Trump. The Panama Papers revealed that in January 1998, TRUMP WISE INVESTMENT LTD. was established in the British Virgin Islands, coinciding with Deutsche Bank's $125 million refinancing of 40 Wall Street."
+    },
+    {
+      "id": "transaction-tax-loss",
+      "date": "1995-10-02",
+      "fromEntity": "entity-001",
+      "toEntity": "IRS",
+      "intermediaries": [],
+      "amount": 916000000,
+      "currency": "USD",
+      "amountUSD": 916000000,
+      "type": "tax",
+      "subtype": "net operating loss",
+      "description": "Trump claimed a $916 million net operating loss on his 1995 tax returns, creating a tax deduction that could potentially offset taxable income for up to 18 years.",
+      "purpose": "Tax avoidance",
+      "method": "NOL carryforward",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-069"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "The Panama Papers researchers noted this loss was carried forward to eliminate taxable income in subsequent years, creating a significant tax advantage despite Trump's public claims of high income during this period."
+    }
+  ],
+  "intelligenceActivities": []
+}

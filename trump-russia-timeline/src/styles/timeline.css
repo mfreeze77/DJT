@@ -1,0 +1,232 @@
+/* 
+ * Trump-Russia Timeline Visualization
+ * CSS for timeline component
+ */
+
+/* Timeline container */
+.vis-timeline {
+  border: none;
+  font-family: var(--font-primary);
+  background-color: white;
+}
+
+/* Timeline contents */
+.vis-content {
+  background-color: white;
+}
+
+/* Timeline items */
+.vis-item {
+  border-color: transparent;
+  background-color: transparent;
+  font-size: var(--font-size-small);
+  color: white;
+  border-radius: var(--border-radius-sm);
+  z-index: 1;
+}
+
+.vis-item.vis-selected {
+  border-color: rgba(255, 255, 0, 0.5);
+  box-shadow: 0 0 10px rgba(255, 255, 0, 0.5);
+  z-index: 2;
+}
+
+.vis-item.vis-point {
+  cursor: pointer;
+}
+
+.vis-item.vis-range {
+  cursor: pointer;
+}
+
+/* Timeline groups */
+.vis-group {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.timeline-group {
+  font-weight: bold;
+  padding: var(--spacing-xs) var(--spacing-sm);
+}
+
+.timeline-group-label {
+  text-transform: uppercase;
+  font-size: var(--font-size-small);
+}
+
+/* Timeline vertical and horizontal lines */
+.vis-panel.vis-center,
+.vis-panel.vis-left,
+.vis-panel.vis-right {
+  border-color: rgba(0, 0, 0, 0.05);
+}
+
+.vis-grid.vis-vertical {
+  border-color: rgba(0, 0, 0, 0.05);
+}
+
+.vis-grid.vis-minor {
+  border-color: rgba(0, 0, 0, 0.02);
+}
+
+/* Timeline axis */
+.vis-time-axis {
+  font-size: var(--font-size-small);
+}
+
+.vis-time-axis .vis-text {
+  color: var(--color-secondary);
+  padding: 3px;
+}
+
+.vis-time-axis .vis-grid.vis-minor {
+  border-color: rgba(0, 0, 0, 0.05);
+}
+
+.vis-time-axis .vis-grid.vis-major {
+  border-color: rgba(0, 0, 0, 0.1);
+}
+
+/* Timeline tooltip styling */
+.timeline-tooltip {
+  max-width: 300px;
+  padding: var(--spacing-sm);
+  background-color: white;
+  border-radius: var(--border-radius-sm);
+  box-shadow: var(--box-shadow);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.timeline-tooltip-title {
+  font-weight: bold;
+  margin-bottom: var(--spacing-xs);
+  color: var(--color-primary);
+}
+
+.timeline-tooltip-date {
+  font-size: var(--font-size-small);
+  color: var(--color-secondary);
+  margin-bottom: var(--spacing-xs);
+}
+
+.timeline-tooltip-description {
+  font-size: var(--font-size-small);
+  line-height: 1.4;
+  margin-bottom: var(--spacing-xs);
+}
+
+.timeline-tooltip-money {
+  font-size: var(--font-size-small);
+  background-color: rgba(39, 174, 96, 0.1);
+  padding: var(--spacing-xs);
+  border-radius: var(--border-radius-sm);
+  color: var(--color-financial);
+}
+
+/* Event details styling */
+.event-details {
+  padding: var(--spacing-md);
+  max-width: 100%;
+}
+
+.event-details h3 {
+  margin-top: 0;
+  margin-bottom: var(--spacing-xs);
+  color: var(--color-primary);
+}
+
+.event-date {
+  color: var(--color-secondary);
+  margin-bottom: var(--spacing-sm);
+  font-style: italic;
+}
+
+.event-categories {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: var(--spacing-sm);
+}
+
+.event-description {
+  line-height: 1.6;
+  margin-bottom: var(--spacing-md);
+}
+
+.event-money-flow {
+  background-color: rgba(39, 174, 96, 0.1);
+  padding: var(--spacing-sm);
+  border-radius: var(--border-radius-sm);
+  margin-bottom: var(--spacing-md);
+}
+
+.event-location {
+  background-color: rgba(52, 152, 219, 0.1);
+  padding: var(--spacing-sm);
+  border-radius: var(--border-radius-sm);
+  margin-bottom: var(--spacing-md);
+}
+
+.event-sources {
+  background-color: rgba(41, 128, 185, 0.05);
+  padding: var(--spacing-sm);
+  border-radius: var(--border-radius-sm);
+}
+
+.event-sources h4 {
+  margin-top: 0;
+  margin-bottom: var(--spacing-xs);
+}
+
+.event-sources ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.event-sources li {
+  margin-bottom: var(--spacing-sm);
+}
+
+.event-sources blockquote {
+  border-left: 2px solid rgba(41, 128, 185, 0.2);
+  padding-left: var(--spacing-sm);
+  margin: var(--spacing-xs) 0;
+  font-style: italic;
+  color: var(--color-secondary);
+  font-size: var(--font-size-small);
+}
+
+/* Play controls */
+.timeline-play-controls {
+  display: flex;
+  align-items: center;
+  margin-bottom: var(--spacing-md);
+}
+
+.timeline-play-controls button {
+  margin-right: var(--spacing-xs);
+}
+
+.timeline-year-slider {
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+  margin-left: var(--spacing-md);
+}
+
+.timeline-year-slider span {
+  margin-left: var(--spacing-sm);
+  font-weight: bold;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .event-categories {
+    margin-bottom: var(--spacing-sm);
+  }
+  
+  .event-money-flow,
+  .event-location,
+  .event-sources {
+    padding: var(--spacing-xs);
+  }
+}

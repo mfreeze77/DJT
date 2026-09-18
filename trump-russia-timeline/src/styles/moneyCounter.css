@@ -1,0 +1,357 @@
+/* 
+ * Trump-Russia Timeline Visualization
+ * CSS for money counter (piggy bank) visualization
+ */
+
+/* Container for money counter visualization */
+#piggyBankContainer {
+  width: 100%;
+  height: 300px;
+  background-color: white;
+  border-radius: var(--border-radius-md);
+  position: relative;
+  overflow: hidden;
+}
+
+/* SVG container */
+.money-counter-svg {
+  width: 100%;
+  height: 100%;
+}
+
+/* Main counter text */
+.money-counter-text {
+  font-family: var(--font-primary);
+  font-weight: bold;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+  transition: color 0.5s ease;
+}
+
+/* Counter label */
+.money-counter-label {
+  font-family: var(--font-primary);
+  font-weight: normal;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  opacity: 0.8;
+}
+
+/* Money statistics group */
+.money-counter-stats {
+  font-family: var(--font-primary);
+}
+
+/* Coins */
+.coin {
+  filter: drop-shadow(0 3px 3px rgba(0, 0, 0, 0.2));
+}
+
+/* Piggy bank animation */
+@keyframes piggyBankHappy {
+  0% { transform: rotate(0deg); }
+  25% { transform: rotate(-5deg); }
+  50% { transform: rotate(0deg); }
+  75% { transform: rotate(5deg); }
+  100% { transform: rotate(0deg); }
+}
+
+/* Eyes blinking animation */
+@keyframes blinkEyes {
+  0% { transform: scaleY(1); }
+  50% { transform: scaleY(0.1); }
+  100% { transform: scaleY(1); }
+}
+
+/* Coin drop animation */
+@keyframes coinDrop {
+  0% { 
+    transform: translateY(-50px) rotate(0deg); 
+    opacity: 0;
+  }
+  10% { 
+    opacity: 1; 
+  }
+  100% { 
+    transform: translateY(200px) rotate(720deg); 
+    opacity: 0;
+  }
+}
+
+/* Glow effect for large transactions */
+@keyframes moneyGlow {
+  0% { filter: drop-shadow(0 0 5px rgba(39, 174, 96, 0)); }
+  50% { filter: drop-shadow(0 0 15px rgba(39, 174, 96, 0.5)); }
+  100% { filter: drop-shadow(0 0 5px rgba(39, 174, 96, 0)); }
+}
+
+/* Controls for the money counter */
+.money-counter-controls {
+  display: flex;
+  justify-content: center;
+  gap: var(--spacing-md);
+  margin-top: var(--spacing-md);
+}
+
+.money-counter-controls button {
+  padding: var(--spacing-xs) var(--spacing-md);
+  border-radius: var(--border-radius-sm);
+  background-color: var(--color-accent);
+  color: white;
+  border: none;
+  font-size: var(--font-size-small);
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.money-counter-controls button:hover {
+  background-color: var(--color-primary);
+}
+
+.money-counter-controls button:active {
+  transform: translateY(1px);
+}
+
+.money-counter-controls button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.money-counter-controls .play-button {
+  background-color: var(--color-success);
+}
+
+.money-counter-controls .play-button:hover {
+  background-color: #219653;
+}
+
+.money-counter-controls .reset-button {
+  background-color: var(--color-warning);
+}
+
+.money-counter-controls .reset-button:hover {
+  background-color: #c0392b;
+}
+
+/* Speed selector */
+.speed-selector {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-xs);
+}
+
+.speed-selector label {
+  font-size: var(--font-size-small);
+  color: var(--color-secondary);
+}
+
+.speed-selector select {
+  padding: 2px 5px;
+  border-radius: var(--border-radius-sm);
+  border: 1px solid #ddd;
+  font-size: var(--font-size-small);
+}
+
+/* Transaction details popup */
+.transaction-details {
+  position: absolute;
+  background-color: white;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: var(--border-radius-sm);
+  padding: var(--spacing-sm);
+  box-shadow: var(--box-shadow);
+  max-width: 300px;
+  z-index: 10;
+  font-size: var(--font-size-small);
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+}
+
+.transaction-details.visible {
+  opacity: 1;
+}
+
+.transaction-details .transaction-title {
+  font-weight: bold;
+  margin-bottom: var(--spacing-xs);
+}
+
+.transaction-details .transaction-date {
+  color: var(--color-secondary);
+  font-style: italic;
+  margin-bottom: var(--spacing-xs);
+}
+
+.transaction-details .transaction-amount {
+  font-weight: bold;
+  margin-bottom: var(--spacing-xs);
+}
+
+.transaction-details .transaction-amount.positive {
+  color: var(--color-success);
+}
+
+.transaction-details .transaction-amount.negative {
+  color: var(--color-warning);
+}
+
+.transaction-details .transaction-description {
+  margin-top: var(--spacing-xs);
+}
+
+/* Transaction history */
+.transaction-history {
+  margin-top: var(--spacing-md);
+  max-height: 200px;
+  overflow-y: auto;
+  background-color: white;
+  border-radius: var(--border-radius-sm);
+  box-shadow: var(--box-shadow);
+}
+
+.transaction-history-title {
+  padding: var(--spacing-sm);
+  background-color: var(--color-primary);
+  color: white;
+  font-weight: bold;
+  border-top-left-radius: var(--border-radius-sm);
+  border-top-right-radius: var(--border-radius-sm);
+}
+
+.transaction-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.transaction-item {
+  padding: var(--spacing-sm);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.transaction-item:last-child {
+  border-bottom: none;
+}
+
+.transaction-item-details {
+  flex-grow: 1;
+}
+
+.transaction-item-title {
+  font-weight: bold;
+  font-size: var(--font-size-small);
+}
+
+.transaction-item-date {
+  color: var(--color-secondary);
+  font-size: var(--font-size-small);
+}
+
+.transaction-item-amount {
+  font-weight: bold;
+  font-size: var(--font-size-small);
+}
+
+.transaction-item-amount.positive {
+  color: var(--color-success);
+}
+
+.transaction-item-amount.negative {
+  color: var(--color-warning);
+}
+
+/* Progress bar for animation playback */
+.transaction-progress {
+  margin-top: var(--spacing-sm);
+  width: 100%;
+  height: 5px;
+  background-color: rgba(0, 0, 0, 0.1);
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.transaction-progress-bar {
+  height: 100%;
+  background-color: var(--color-accent);
+  width: 0%;
+  transition: width 0.3s ease;
+}
+
+/* Status text */
+.transaction-status {
+  margin-top: var(--spacing-xs);
+  font-size: var(--font-size-small);
+  color: var(--color-secondary);
+  text-align: center;
+}
+
+/* Time period selector */
+.time-period-selector {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: var(--spacing-md);
+  padding: var(--spacing-sm);
+  background-color: white;
+  border-radius: var(--border-radius-sm);
+  box-shadow: var(--box-shadow);
+}
+
+.time-period-selector label {
+  font-size: var(--font-size-small);
+  color: var(--color-secondary);
+}
+
+.time-period-selector select {
+  padding: var(--spacing-xs) var(--spacing-sm);
+  border-radius: var(--border-radius-sm);
+  border: 1px solid #ddd;
+  font-size: var(--font-size-small);
+}
+
+/* Tooltips */
+.money-tooltip {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+  padding: var(--spacing-xs) var(--spacing-sm);
+  border-radius: var(--border-radius-sm);
+  font-size: var(--font-size-small);
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+  z-index: 100;
+}
+
+.money-tooltip.visible {
+  opacity: 1;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  #piggyBankContainer {
+    height: 250px;
+  }
+  
+  .money-counter-controls {
+    flex-direction: column;
+    align-items: center;
+    gap: var(--spacing-xs);
+  }
+  
+  .money-counter-controls button {
+    width: 100%;
+  }
+  
+  .time-period-selector {
+    flex-direction: column;
+    gap: var(--spacing-xs);
+  }
+  
+  .money-counter-stats {
+    font-size: 10px;
+  }
+}

@@ -1,0 +1,569 @@
+{
+  "events": [
+    {
+      "id": "event-002",
+      "date": "1984-05-01",
+      "startDate": "1984-05-01",
+      "endDate": "1984-05-01",
+      "title": "David Bogatin purchases five Trump Tower condos for $6 million cash",
+      "description": "Soviet Army veteran-turned-mobster David Bogatin buys multiple units in Trump Tower for $6 million in cash. Trump personally attends the closing. Federal investigations later reveal Bogatin was laundering money for Russian organized crime, specifically tied to Semion Mogilevich's syndicate. The properties are eventually seized by U.S. authorities, who determine they were purchased to 'launder money, to shelter and hide assets.' This transaction represents one of the earliest documented connections between Trump properties and Russian money laundering operations.",
+      "categories": ["financial", "legal", "intelligence"],
+      "importance": 9,
+      "moneyFlow": {
+        "amount": 6000000,
+        "direction": "to-trump",
+        "isDirectFlow": true,
+        "entities": ["entity-001", "entity-010"],
+        "description": "This $6 million cash transaction from David Bogatin to Trump for five Trump Tower condos represents one of the earliest documented connections between Trump's real estate business and Russian organized crime money laundering. The all-cash nature of this substantial transaction was highly unusual in luxury real estate, where financing is the norm. Trump personally attended the closing, indicating his direct involvement in this significant transaction. Federal investigators later determined the funds were proceeds from a massive Russian mob-run gasoline tax fraud scheme, with the properties purchased explicitly to 'launder money, to shelter and hide assets.' The properties were eventually seized by U.S. authorities, confirming the criminal nature of this financial flow."
+      },
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": [40.7624, -73.9738]
+      },
+      "entities": ["entity-001", "entity-010", "entity-021", "entity-011"],
+      "sources": [
+        {
+          "description": "Tmanch_CH2.md – 1984 Bogatin condo purchase",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_CH2.md#russian-buyers-of-trump-properties-and-possible-money-laundering",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "Trump's Russian Laundromat | The New Republic",
+          "url": "https://newrepublic.com/article/143586/trumps-russian-laundromat-trump-tower-luxury-high-rises-dirty-money-international-crime-syndicate",
+          "documentType": "news article",
+          "citation": ""
+        },
+        {
+          "description": "Tmanch_Fin_83-86_PP.md – reference to offshore laundering with Bogatin",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_Fin_83-86_PP.md",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_CH2.md#early-soviet-bloc-buyers",
+      "relatedEvents": ["event-001"],
+      "era": "era-001",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-003",
+      "date": "1984-05-14",
+      "startDate": "1984-05-14",
+      "endDate": "1984-05-14",
+      "title": "Opening of Harrah's at Trump Plaza (Atlantic City)",
+      "description": "Trump partners with Holiday Inn's Harrah's to launch his first Atlantic City casino. The $210 million, 614-room casino-hotel opens on the Boardwalk, representing Trump's entrance into the gaming industry. Trump contributes the land and project oversight while Holiday Inn/Harrah's provides the majority of the capital and gaming expertise. The casino experiences disappointing initial revenues, creating tension that will eventually lead to Trump buying out his partners.",
+      "categories": ["business", "financial"],
+      "importance": 8,
+      "moneyFlow": {
+        "amount": 210000000,
+        "direction": "investment",
+        "isDirectFlow": false,
+        "entities": ["entity-001", "entity-019", "entity-022"],
+        "description": "The $210 million Trump Plaza casino-hotel represented Trump's first major expansion into the Atlantic City gaming industry. The financial structure was a joint venture where Trump contributed the land and project oversight while Holiday Inn/Harrah's provided the majority of the capital and gaming expertise. This arrangement allowed Trump to establish a foothold in the lucrative casino business with minimal upfront investment of his own capital, leveraging his brand and real estate expertise instead. The property initially operated under the name 'Harrah's at Trump Plaza,' reflecting this partnership arrangement, though disappointing initial revenues would eventually lead to tension between the partners."
+      },
+      "location": {
+        "country": "United States",
+        "city": "Atlantic City",
+        "coordinates": [39.3643, -74.4229]
+      },
+      "entities": ["entity-001", "entity-022", "entity-019"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_83-86.md – 1984 opening of Harrah's at Trump Plaza",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_Fin_83-86.md",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "Business career of Donald Trump - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Business_career_of_Donald_Trump#Gambling",
+          "documentType": "online encyclopedia",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": ["event-008"],
+      "era": "era-001",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-011",
+      "date": "1984-11-01",
+      "startDate": "1984-11-01",
+      "endDate": "1984-11-01",
+      "title": "Creation of Investments Tower Inc. in Panama",
+      "description": "A Panamanian shell company named Investments Tower Inc. is incorporated through Mossack Fonseca, with the Isle of Man-based firm Inter-Continental Management Ltd. as the intermediary. The timing and name strongly suggest it was created to purchase a unit in Trump Tower, which was actively selling condos to wealthy, often anonymous foreign buyers during this period. While no direct property records have been found confirming a specific Trump Tower purchase, the Panama Papers investigation identified this entity as part of a pattern of offshore companies formed specifically to invest in Trump properties while obscuring the true ownership.",
+      "categories": ["financial"],
+      "importance": 7,
+      "moneyFlow": {
+        "amount": 5000,
+        "direction": "indirect",
+        "isDirectFlow": false,
+        "entities": ["entity-028", "entity-029"],
+        "description": "The creation of Investments Tower Inc. in Panama through Mossack Fonseca involved relatively modest setup fees (estimated at $5,000), but its significance lies in its name and timing, suggesting it was specifically created to purchase property in Trump Tower. The formation of this offshore entity, with the Isle of Man-based firm Inter-Continental Management Ltd. as intermediary, established a structure designed for anonymity in real estate transactions. The Panama Papers would later reveal this entity as part of a network of offshore companies used to shield the identities of property buyers and potentially facilitate tax avoidance or other financial maneuvers."
+      },
+      "location": {
+        "country": "Panama",
+        "city": "Panama City",
+        "coordinates": [8.9936, -79.5199]
+      },
+      "entities": ["entity-028", "entity-029", "entity-021"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_PP_83-86_support.md - Offshore entities analysis",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_Fin_PP_83-86_support.md",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "ICIJ Offshore Leaks Database - Investments Tower Inc.",
+          "url": "https://offshoreleaks.icij.org/nodes/10009243",
+          "documentType": "database record",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": ["event-001", "event-002"],
+      "era": "era-001",
+      "mediaUrls": []
+    }
+  ],
+  "entities": {
+    "entity-001": {
+      "id": "entity-001",
+      "name": "Donald J. Trump",
+      "aliases": ["Donald John Trump", "DJT"],
+      "type": "person",
+      "subtype": "",
+      "nationality": "American",
+      "description": "Real estate developer, 45th President of the US. Key figure in the 1977–1983 Manhattan real estate deals and later expansions.",
+      "roles": ["developer", "political figure"],
+      "affiliation": [],
+      "significance": 10,
+      "firstAppearance": "1977-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-010": {
+      "id": "entity-010",
+      "name": "David Bogatin",
+      "aliases": [],
+      "type": "person",
+      "subtype": "organized crime",
+      "nationality": "Russian émigré",
+      "description": "Soviet Army veteran turned Russian mobster who purchased five Trump Tower condos for $6 million cash in 1984. Later convicted in a massive Russian mob-run gasoline tax fraud scheme. His Trump Tower units were seized by federal authorities as vehicles for money laundering. Bogatin was connected to Semion Mogilevich's criminal organization.",
+      "roles": ["money launderer", "organized crime figure"],
+      "affiliation": ["entity-011"],
+      "significance": 7,
+      "firstAppearance": "1984-05-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {
+        "knownTransactions": ["transaction-001"],
+        "suspiciousActivity": "Purchased Trump Tower units for $6M cash, later revealed to be money laundering"
+      },
+      "sources": [
+        {
+          "description": "Trump's Russian Laundromat | The New Republic",
+          "url": "https://newrepublic.com/article/143586/trumps-russian-laundromat-trump-tower-luxury-high-rises-dirty-money-international-crime-syndicate",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_CH2.md#early-soviet-bloc-buyers",
+      "notes": "Bogatin's connection to Trump represents one of the earliest documented instances of Soviet/Russian organized crime money flowing into Trump properties."
+    },
+    "entity-011": {
+      "id": "entity-011",
+      "name": "Semion Mogilevich",
+      "aliases": ["Seva Mogilevich", "The Brainy Don"],
+      "type": "person",
+      "subtype": "organized crime",
+      "nationality": "Russian",
+      "description": "Powerful Russian organized crime leader known as the 'boss of bosses' of Russian mafia. Headed a transnational criminal organization engaged in money laundering, weapons trafficking, drug smuggling, and various financial frauds. Bogatin (who purchased Trump Tower units) was reportedly connected to Mogilevich's syndicate.",
+      "roles": ["organized crime leader"],
+      "affiliation": [],
+      "significance": 8,
+      "firstAppearance": "",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {
+        "suspiciousActivity": "Connected to money laundering through U.S. real estate"
+      },
+      "sources": [
+        {
+          "description": "Tmanch_CH2.md - references to Mogilevich",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_CH2.md#early-soviet-bloc-buyers",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "FBI Most Wanted - Semion Mogilevich",
+          "url": "https://www.fbi.gov/wanted/topten/topten-history/hires_images/FBI-368-SemionMogilevich.jpg/view",
+          "documentType": "government document",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": "Mogilevich eventually landed on the FBI's Most Wanted list, highlighting the significance of early connections between his network and Trump properties."
+    },
+    "entity-019": {
+      "id": "entity-019",
+      "name": "Holiday Inn Corporation",
+      "aliases": [],
+      "type": "organization",
+      "subtype": "hospitality",
+      "nationality": "American",
+      "description": "Hotel company that co-financed Trump's first Atlantic City casino (via its Harrah's division) in 1982.",
+      "roles": [],
+      "affiliation": [],
+      "significance": 7,
+      "firstAppearance": "1982-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-021": {
+      "id": "entity-021",
+      "name": "Trump Tower",
+      "aliases": [],
+      "type": "property",
+      "subtype": "mixed-use skyscraper",
+      "nationality": "American",
+      "description": "Flagship 58-story skyscraper on Fifth Avenue, New York City. Opened in 1983, featuring luxury condominiums, retail space, and the Trump Organization headquarters. Became a status symbol attracting wealthy foreign buyers, including several with connections to Russian organized crime.",
+      "roles": [],
+      "affiliation": [],
+      "significance": 9,
+      "firstAppearance": "1983-11-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {
+        "location": "725 Fifth Avenue, New York City",
+        "propertyValue": 600000000
+      },
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [
+        {
+          "description": "Trump Tower - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Trump_Tower",
+          "documentType": "online encyclopedia",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": "Trump Tower established the Trump brand globally and became the centerpiece of his business image."
+    },
+    "entity-022": {
+      "id": "entity-022",
+      "name": "Trump Plaza (Atlantic City)",
+      "aliases": ["Trump Plaza"],
+      "type": "property",
+      "subtype": "casino",
+      "nationality": "American",
+      "description": "Trump's first Atlantic City casino, opened in May, 1984 as a joint venture with Holiday Inn/Harrah's. Initially branded as 'Harrah's at Trump Plaza' until Trump bought out his partners in 1986, renaming it simply 'Trump Plaza.' The 39-story, 614-room casino-hotel was located on the Boardwalk.",
+      "roles": [],
+      "affiliation": [],
+      "significance": 7,
+      "firstAppearance": "1984-05-14",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {
+        "location": "Atlantic City, New Jersey",
+        "propertyValue": 210000000
+      },
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [
+        {
+          "description": "Tmanch_Fin_83-86.md - Trump Plaza details",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_Fin_83-86.md",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": "Trump Plaza marked Trump's first major expansion beyond New York real estate into the casino industry."
+    },
+    "entity-028": {
+      "id": "entity-028",
+      "name": "Investments Tower Inc.",
+      "aliases": [],
+      "type": "organization",
+      "subtype": "shell company",
+      "nationality": "Panama",
+      "description": "Panamanian shell company created in 1984 through Mossack Fonseca, likely used to anonymously purchase Trump Tower property. Named in the Panama Papers leak.",
+      "roles": [],
+      "affiliation": ["entity-029"],
+      "significance": 6,
+      "firstAppearance": "1984-11-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [
+        {
+          "description": "ICIJ Offshore Leaks Database - Investments Tower Inc.",
+          "url": "https://offshoreleaks.icij.org/nodes/10009243",
+          "documentType": "database record",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-029": {
+      "id": "entity-029",
+      "name": "Inter-Continental Management Ltd.",
+      "aliases": [],
+      "type": "organization",
+      "subtype": "financial services",
+      "nationality": "Isle of Man",
+      "description": "Isle of Man-based firm that acted as intermediary for the creation of Investments Tower Inc. through Mossack Fonseca in Panama.",
+      "roles": [],
+      "affiliation": [],
+      "significance": 5,
+      "firstAppearance": "1984-11-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    }
+  },
+  "relationships": [
+    {
+      "id": "relationship-005",
+      "source": "entity-001",
+      "target": "entity-010",
+      "type": "business-transaction",
+      "subtype": "real estate sale",
+      "description": "Trump sold five luxury condos in Trump Tower to David Bogatin, a Soviet émigré later revealed to be a Russian mob figure, for $6 million in cash. Trump personally attended the closing. The units were later seized by federal authorities as vehicles for money laundering.",
+      "strength": 7,
+      "startDate": "1984-05-01",
+      "endDate": "1984-05-01",
+      "isBidirectional": true,
+      "relatedEvents": ["event-002"],
+      "evidenceStrength": "confirmed",
+      "sources": [
+        {
+          "description": "Tmanch_CH2.md - Bogatin transaction",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_CH2.md#early-soviet-bloc-buyers",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": ""
+    },
+    {
+      "id": "relationship-trump-holiday-inn",
+      "source": "entity-001",
+      "target": "entity-019",
+      "type": "business-partnership",
+      "subtype": "joint venture",
+      "description": "Trump partnered with Holiday Inn's Harrah's division to launch his first Atlantic City casino, with Trump contributing the land and project oversight while Holiday Inn/Harrah's provided most of the capital and gaming expertise.",
+      "strength": 8,
+      "startDate": "1982-01-01",
+      "endDate": "1986-05-23",
+      "isBidirectional": true,
+      "relatedEvents": ["event-003"],
+      "evidenceStrength": "confirmed",
+      "sources": [
+        {
+          "description": "Tmanch_Fin_83-86.md – 1984 opening of Harrah's at Trump Plaza",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_Fin_83-86.md",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": "This partnership would later dissolve when Trump bought out Holiday Inn's stake in 1986, following disputes over the casino's performance and management."
+    },
+    {
+      "id": "relationship-bogatin-mogilevich",
+      "source": "entity-010",
+      "target": "entity-011",
+      "type": "criminal",
+      "subtype": "organized crime",
+      "description": "David Bogatin was connected to Semion Mogilevich's Russian organized crime syndicate, with Bogatin involved in a massive gasoline tax fraud scheme whose proceeds were laundered through Trump Tower purchases.",
+      "strength": 8,
+      "startDate": "",
+      "endDate": "",
+      "isBidirectional": false,
+      "relatedEvents": ["event-002"],
+      "evidenceStrength": "reported",
+      "sources": [
+        {
+          "description": "Trump's Russian Laundromat | The New Republic",
+          "url": "https://newrepublic.com/article/143586/trumps-russian-laundromat-trump-tower-luxury-high-rises-dirty-money-international-crime-syndicate",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": "Mogilevich has been described as the 'boss of bosses' of Russian organized crime and eventually landed on the FBI's Most Wanted list."
+    },
+    {
+      "id": "relationship-investments-tower-mossack",
+      "source": "entity-028",
+      "target": "entity-029",
+      "type": "financial-services",
+      "subtype": "offshore formation",
+      "description": "Investments Tower Inc. was created in Panama through Mossack Fonseca with the Isle of Man-based firm Inter-Continental Management Ltd. as the intermediary.",
+      "strength": 8,
+      "startDate": "1984-11-01",
+      "endDate": "",
+      "isBidirectional": false,
+      "relatedEvents": ["event-011"],
+      "evidenceStrength": "confirmed",
+      "sources": [
+        {
+          "description": "ICIJ Offshore Leaks Database - Investments Tower Inc.",
+          "url": "https://offshoreleaks.icij.org/nodes/10009243",
+          "documentType": "database record",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": "The name 'Investments Tower Inc.' strongly suggests the entity was created specifically to purchase property in Trump Tower, which was actively selling units to wealthy foreign buyers at the time."
+    }
+  ],
+  "transactions": [
+    {
+      "id": "transaction-bogatin",
+      "date": "1984-05-01",
+      "fromEntity": "entity-010",
+      "toEntity": "entity-001",
+      "intermediaries": [],
+      "amount": 6000000,
+      "currency": "USD",
+      "amountUSD": 6000000,
+      "type": "property",
+      "subtype": "cash purchase",
+      "description": "David Bogatin's $6 million cash purchase of five condos in Trump Tower from Trump Organization.",
+      "purpose": "Later revealed as money laundering",
+      "method": "Cash transaction",
+      "isConfirmed": true,
+      "isRussianConnected": true,
+      "russianConnectionType": "Russian organized crime money",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-002"],
+      "evidenceStrength": "confirmed",
+      "sources": [
+        {
+          "description": "Trump's Russian Laundromat | The New Republic",
+          "url": "https://newrepublic.com/article/143586/trumps-russian-laundromat-trump-tower-luxury-high-rises-dirty-money-international-crime-syndicate",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "This transaction represents one of the earliest documented connections between Trump properties and Russian money laundering operations."
+    },
+    {
+      "id": "transaction-trump-plaza-opening",
+      "date": "1984-05-14",
+      "fromEntity": "entity-001",
+      "toEntity": "entity-019",
+      "intermediaries": [],
+      "amount": 210000000,
+      "currency": "USD",
+      "amountUSD": 210000000,
+      "type": "business",
+      "subtype": "joint venture",
+      "description": "Opening of Harrah's at Trump Plaza, Trump's first Atlantic City casino developed in partnership with Holiday Inn's Harrah's division.",
+      "purpose": "Casino development",
+      "method": "Partnership agreement",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-003"],
+      "evidenceStrength": "confirmed",
+      "sources": [
+        {
+          "description": "Tmanch_Fin_83-86.md – 1984 opening of Harrah's at Trump Plaza",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_Fin_83-86.md",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "This joint venture represented Trump's entry into the Atlantic City gaming market, with Holiday Inn/Harrah's providing the majority of the capital and gaming expertise while Trump contributed the land and project oversight."
+    },
+    {
+      "id": "transaction-investments-tower",
+      "date": "1984-11-01",
+      "fromEntity": "entity-028",
+      "toEntity": "",
+      "intermediaries": ["entity-029"],
+      "amount": 5000,
+      "currency": "USD",
+      "amountUSD": 5000,
+      "type": "financial",
+      "subtype": "shell company formation",
+      "description": "Creation of Investments Tower Inc. in Panama through Mossack Fonseca with Inter-Continental Management Ltd. as the intermediary.",
+      "purpose": "Offshore entity formation",
+      "method": "Panama corporate registration",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "Panama",
+      "relatedEvents": ["event-011"],
+      "evidenceStrength": "confirmed",
+      "sources": [
+        {
+          "description": "ICIJ Offshore Leaks Database - Investments Tower Inc.",
+          "url": "https://offshoreleaks.icij.org/nodes/10009243",
+          "documentType": "database record",
+          "citation": ""
+        }
+      ],
+      "panamaConnection": {
+        "isInPanamaPapers": true,
+        "offshoreEntities": ["Investments Tower Inc."],
+        "beneficiaries": ["Unknown"],
+        "jurisdictions": ["Panama", "Isle of Man"],
+        "leakSource": "Panama Papers"
+      },
+      "documentationLink": "",
+      "notes": "The name and timing of this offshore entity strongly suggest it was created specifically to purchase property in Trump Tower, which was actively selling units to wealthy foreign buyers during this period."
+    }
+  ]
+}

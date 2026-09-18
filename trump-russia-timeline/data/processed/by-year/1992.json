@@ -1,0 +1,399 @@
+{
+  "events": [
+    {
+      "id": "event-029",
+      "date": "1992-03-09",
+      "startDate": "1992-03-09",
+      "endDate": "1992-03-09",
+      "title": "Trump Castle files for Chapter 11 bankruptcy",
+      "description": "Trump's Atlantic City casino-hotel Trump Castle files for bankruptcy protection, seeking to restructure $338 million in bonds. The filing follows mounting financial pressure in Trump's casino empire, with the Taj Mahal having filed for bankruptcy in 1991.",
+      "categories": ["business", "financial"],
+      "importance": 8,
+      "moneyFlow": {
+        "amount": 338000000,
+        "direction": "restructuring",
+        "isDirectFlow": false,
+        "entities": ["entity-001", "entity-036"],
+        "description": "The Trump Castle bankruptcy represented a restructuring of approximately $338 million in bonds rather than a direct financial transaction. Trump agreed to give up half his interest in the property as part of the reorganization. This bankruptcy was part of Trump's broader financial restructuring during the early 1990s, as his heavily leveraged casino empire struggled with debt service amid Atlantic City's slowing gaming market."
+      },
+      "location": {
+        "country": "United States",
+        "city": "Atlantic City",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-036"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_90-93.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-002",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-030",
+      "date": "1992-04-15",
+      "startDate": "1992-04-15",
+      "endDate": "1992-04-15",
+      "title": "Trump Plaza Hotel and Casino files for bankruptcy",
+      "description": "Following the bankruptcies of Trump's Taj Mahal and Castle casinos, Trump Plaza Hotel and Casino in Atlantic City files for Chapter 11 protection. This marks the third Trump casino bankruptcy in less than a year, completing the restructuring of Trump's entire Atlantic City casino portfolio.",
+      "categories": ["business", "financial"],
+      "importance": 8,
+      "moneyFlow": {
+        "amount": 250000000,
+        "direction": "restructuring",
+        "isDirectFlow": false,
+        "entities": ["entity-001", "entity-037"],
+        "description": "The Trump Plaza Hotel and Casino bankruptcy involved the restructuring of approximately $250 million in debt. As with his other casino bankruptcies, Trump surrendered equity stakes to bondholders and banks in exchange for more favorable terms on the remaining debt. This filing completed the restructuring of Trump's entire Atlantic City casino business, which had become overextended with the opening of the Taj Mahal in 1990."
+      },
+      "location": {
+        "country": "United States",
+        "city": "Atlantic City",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-037"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_90-93.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-002",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-031",
+      "date": "1992-08-01",
+      "startDate": "1992-08-01",
+      "endDate": "1992-08-01",
+      "title": "Trump family creates All County Building Supply & Maintenance",
+      "description": "Fred Trump and his children, including Donald, establish a shell company called All County Building Supply & Maintenance. Later investigations would reveal this entity was used to transfer wealth from Fred Trump's real estate empire to his children while evading gift and estate taxes.",
+      "categories": ["business", "financial", "legal"],
+      "importance": 7,
+      "moneyFlow": {
+        "amount": 0,
+        "direction": "to-trump",
+        "isDirectFlow": false,
+        "entities": ["entity-001", "entity-003", "entity-038"],
+        "description": "The creation of All County Building Supply & Maintenance established a mechanism for transferring money from Fred Trump's real estate empire to his children, including Donald. The company acted as a purchasing agent for Fred Trump's buildings, but marked up the actual prices of goods and services, with the markup going to Donald and his siblings as owners of All County. While the exact amount transferred in 1992 is unknown, over time this scheme would move millions of dollars to the Trump children while avoiding gift taxes."
+      },
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-003", "entity-038"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_90-93.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "Tmanch_Fin_97-20.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-002",
+      "mediaUrls": []
+    }
+  ],
+  "entities": {
+    "entity-001": {
+      "id": "entity-001",
+      "name": "Donald J. Trump",
+      "aliases": ["Donald John Trump", "DJT"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "American",
+      "description": "Real estate developer, 45th President of the US. In 1992, was dealing with financial restructuring of his casino empire after overexpansion in the late 1980s.",
+      "roles": ["developer", "casino operator"],
+      "affiliation": [],
+      "significance": 10,
+      "firstAppearance": "1977-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-003": {
+      "id": "entity-003",
+      "name": "Fred C. Trump",
+      "aliases": ["Fred Trump"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "American",
+      "description": "Donald Trump's father, a successful real estate developer who created a substantial portfolio of middle-class housing in New York City. Provided financial support and business mentorship to Donald throughout his career.",
+      "roles": ["real estate developer", "businessman"],
+      "affiliation": [],
+      "significance": 8,
+      "firstAppearance": "",
+      "lastAppearance": "1999-06-25",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": "Fred Trump continued to provide financial support to Donald during the early 1990s, including through the creation of All County Building Supply & Maintenance in 1992."
+    },
+    "entity-036": {
+      "id": "entity-036",
+      "name": "Trump Castle",
+      "aliases": ["Trump's Castle"],
+      "type": "property",
+      "subtype": "casino",
+      "nationality": "American",
+      "description": "Trump's second Atlantic City casino, acquired in 1985 when Trump purchased a Hilton hotel project. The property struggled financially in the early 1990s and filed for bankruptcy in March 1992.",
+      "roles": [],
+      "affiliation": [],
+      "significance": 7,
+      "firstAppearance": "1985-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {
+        "location": "Atlantic City, New Jersey"
+      },
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": "Trump Castle was the recipient of Fred Trump's controversial $3.5 million chip purchase in 1990, which was later deemed an illegal loan by New Jersey regulators."
+    },
+    "entity-037": {
+      "id": "entity-037",
+      "name": "Trump Plaza Hotel and Casino",
+      "aliases": ["Trump Plaza"],
+      "type": "property",
+      "subtype": "casino",
+      "nationality": "American",
+      "description": "Trump's first Atlantic City casino, opened in 1984 as a joint venture with Holiday Inn/Harrah's. Trump later bought out his partner's interest and operated the property until financial difficulties led to bankruptcy in spring 1992.",
+      "roles": [],
+      "affiliation": [],
+      "significance": 7,
+      "firstAppearance": "1984-05-15",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {
+        "location": "Atlantic City, New Jersey"
+      },
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": "Trump Plaza was the third Trump casino to file for bankruptcy in less than a year, following the Taj Mahal (July 1991) and Trump Castle (March 1992)."
+    },
+    "entity-038": {
+      "id": "entity-038",
+      "name": "All County Building Supply & Maintenance",
+      "aliases": ["All County Building Supply"],
+      "type": "organization",
+      "subtype": "shell company",
+      "nationality": "American",
+      "description": "Shell company created in 1992 by Fred Trump and his children, including Donald. Later investigations by the New York Times described it as a vehicle for transferring wealth from Fred Trump to his children while evading gift and estate taxes.",
+      "roles": ["shell company"],
+      "affiliation": ["entity-001", "entity-003"],
+      "significance": 7,
+      "firstAppearance": "1992-08-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [
+        {
+          "description": "Tmanch_Fin_97-20.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": "The New York Times described All County as \"the most overt fraud\" in the Trump family's tax schemes, used to disguise wealth transfers as legitimate business transactions."
+    }
+  },
+  "relationships": [
+    {
+      "id": "relationship-008",
+      "source": "entity-001",
+      "target": "entity-036",
+      "type": "ownership",
+      "subtype": "business",
+      "description": "Donald Trump owned Trump Castle casino in Atlantic City, though his equity stake was reduced in the 1992 bankruptcy restructuring.",
+      "strength": 8,
+      "startDate": "1985-01-01",
+      "endDate": "",
+      "isBidirectional": false,
+      "relatedEvents": ["event-029"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": "Trump's ownership stake was diluted in the bankruptcy reorganization, as he gave up equity to bondholders in exchange for more favorable debt terms."
+    },
+    {
+      "id": "relationship-009",
+      "source": "entity-001",
+      "target": "entity-037",
+      "type": "ownership",
+      "subtype": "business",
+      "description": "Donald Trump owned Trump Plaza Hotel and Casino in Atlantic City, though his equity stake was reduced in the 1992 bankruptcy restructuring.",
+      "strength": 8,
+      "startDate": "1984-05-15",
+      "endDate": "",
+      "isBidirectional": false,
+      "relatedEvents": ["event-030"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": "Trump originally partnered with Holiday Inn/Harrah's on this casino but later bought out their interest before the 1992 bankruptcy."
+    },
+    {
+      "id": "relationship-010",
+      "source": "entity-001",
+      "target": "entity-038",
+      "type": "ownership",
+      "subtype": "shell company",
+      "description": "Donald Trump was a co-owner of All County Building Supply & Maintenance, a shell company created with his father and siblings.",
+      "strength": 9,
+      "startDate": "1992-08-01",
+      "endDate": "",
+      "isBidirectional": false,
+      "relatedEvents": ["event-031"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": "All County was used to transfer wealth from Fred Trump's real estate empire to his children while evading gift taxes."
+    },
+    {
+      "id": "relationship-011",
+      "source": "entity-003",
+      "target": "entity-038",
+      "type": "financial",
+      "subtype": "shell company",
+      "description": "Fred Trump established All County Building Supply & Maintenance with his children, then had his real estate properties purchase goods and services through it at marked-up prices.",
+      "strength": 9,
+      "startDate": "1992-08-01",
+      "endDate": "1999-06-25",
+      "isBidirectional": true,
+      "relatedEvents": ["event-031"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": "This arrangement allowed Fred Trump to transfer money to his children while avoiding gift taxes, as the transfers appeared to be legitimate business transactions."
+    }
+  ],
+  "transactions": [
+    {
+      "id": "transaction-casino-castle",
+      "date": "1992-03-09",
+      "fromEntity": "entity-001",
+      "toEntity": "",
+      "intermediaries": ["entity-036"],
+      "amount": 338000000,
+      "currency": "USD",
+      "amountUSD": 338000000,
+      "type": "financial",
+      "subtype": "bankruptcy",
+      "description": "Trump Castle filed for Chapter 11 bankruptcy, restructuring $338 million in bonds. Trump agreed to give up half his interest in the property in exchange for more favorable terms on the remaining debt.",
+      "purpose": "Debt restructuring",
+      "method": "Chapter 11 bankruptcy",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-029"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "This was the second Trump casino to enter bankruptcy in less than a year, following the Taj Mahal's filing in July 1991."
+    },
+    {
+      "id": "transaction-casino-plaza",
+      "date": "1992-04-15",
+      "fromEntity": "entity-001",
+      "toEntity": "",
+      "intermediaries": ["entity-037"],
+      "amount": 250000000,
+      "currency": "USD",
+      "amountUSD": 250000000,
+      "type": "financial",
+      "subtype": "bankruptcy",
+      "description": "Trump Plaza Hotel and Casino filed for Chapter 11 bankruptcy, restructuring approximately $250 million in debt. As with his other casino bankruptcies, Trump surrendered equity to lenders in exchange for more favorable debt terms.",
+      "purpose": "Debt restructuring",
+      "method": "Chapter 11 bankruptcy",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-030"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "This bankruptcy completed the restructuring of Trump's entire Atlantic City casino portfolio, with all three properties (Taj Mahal, Castle, and Plaza) entering Chapter 11 within a 9-month period."
+    },
+    {
+      "id": "transaction-all-county",
+      "date": "1992-08-01",
+      "fromEntity": "entity-003",
+      "toEntity": "entity-038",
+      "intermediaries": [],
+      "amount": 0,
+      "currency": "USD",
+      "amountUSD": 0,
+      "type": "business",
+      "subtype": "shell company creation",
+      "description": "Fred Trump and his children, including Donald, established All County Building Supply & Maintenance, a shell company that would purchase goods and services for Fred Trump's properties at marked-up prices, with the markup going to the Trump children.",
+      "purpose": "Tax avoidance",
+      "method": "Shell company formation",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-031"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "While the exact amount of money transferred through All County is unknown, the New York Times investigation described it as a significant vehicle for moving wealth from Fred Trump to his children while avoiding gift taxes."
+    }
+  ],
+  "intelligenceActivities": []
+}
