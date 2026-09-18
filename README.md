@@ -150,7 +150,23 @@ The Chapter 7 expansion covers January 20, 2025 through August 31, 2026. It reco
 
 The rapid ledger is retained as investigative evidence discovery. Every material event is promoted, qualified, merged as a duplicate, retained as an unresolved lead, or corrected with an explanation. Nothing is silently discarded.
 
-The living ledger now includes year-qualified 2026 continuation rows, including the Russia–Iran targeting and casualty sequence, Russian-oil licenses, presidential minimization, August intelligence diplomacy, and the volunteered Asheville G20 financial normalization event.
+The living ledger now includes year-qualified 2026 continuation rows, including the Russia–Iran targeting and casualty sequence, Russian-oil licenses, presidential minimization, August intelligence diplomacy, the volunteered Asheville G20 financial normalization event, September personalized Moscow diplomacy, Trump's refinery/diesel request to Ukraine, and the Kremlev–Trump Jr. family-value disclosure.
+
+## Chapter 8 — Active measures, institutional exploitation, and the American feedback loop
+
+Chapter 8 separates the Russian information operation from the narrower collusion question. It follows GRU hacking and publication, IRA influence activity, Russian intelligence receipt of campaign information, the Senate's redacted Kilimnik/GRU hack-and-leak findings, the dubious Russian intelligence material that affected Comey's 2016 decision process, kompromat risk, domestic amplification, and the later fight over attribution.
+
+- [Main Chapter 8](Tmanch_CH8.md)
+- [Primary-source and source-control inventory](Tmanch_CH8_primary_sources.md)
+- [Claim ledger](Tmanch_CH8_claim_ledger.csv)
+
+## Chapter 9 — Family value channels, Russian-linked patronage, and access
+
+Chapter 9 maps money, gifts, hospitality, sponsorship, business support, relationship-building, and access delivered to Trump-family or immediate-network nodes. Its first new case study is the Umar Kremlev–Donald Trump Jr. chain: IBA outreach to the administration, a public Kremlev/Trump Jr. alliance, Putin's 2026 Order of Friendship to Kremlev, and Kremlev's later high-value Bahamas wedding hospitality.
+
+- [Main Chapter 9](Tmanch_CH9.md)
+- [Primary-source and source-control inventory](Tmanch_CH9_primary_sources.md)
+- [Claim ledger](Tmanch_CH9_claim_ledger.csv)
 
 ---
 
