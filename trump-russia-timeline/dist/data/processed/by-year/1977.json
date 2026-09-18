@@ -1,0 +1,153 @@
+{
+  "events": [
+    {
+      "id": "event-004",
+      "date": "1977-04-01",
+      "startDate": "1977-04-01",
+      "endDate": "1977-04-01",
+      "title": "Donald Trump marries Ivana Zelníčková",
+      "description": "Donald Trump and Ivana Zelníčková wed, beginning a marriage that draws the attention of Czechoslovak intelligence services.",
+      "categories": ["personal"],
+      "importance": 8,
+      "moneyFlow": null,
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-002"],
+      "sources": [
+        {
+          "description": "Czechoslovak secret police files reveal interest in Trump couple",
+          "url": "https://english.radio.cz/czechoslovak-secret-police-files-reveal-interest-trump-couple-8207116",
+          "documentType": "news article",
+          "citation": ""
+        },
+        {
+          "description": "Tmanch_CH1.md",
+          "url": "https://raw.githubusercontent.com/mfreeze77/DJT/main/Tmanch_CH1.md",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-001",
+      "mediaUrls": []
+    }
+  ],
+  "entities": {
+    "entity-001": {
+      "id": "entity-001",
+      "name": "Donald J. Trump",
+      "aliases": ["Donald John Trump", "DJT"],
+      "type": "person",
+      "subtype": "",
+      "nationality": "American",
+      "description": "Real estate developer, 45th President of the US. Key figure in the 1977–1983 Manhattan real estate deals and later expansions.",
+      "roles": ["developer", "political figure"],
+      "affiliation": [],
+      "significance": 10,
+      "firstAppearance": "1977-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-002": {
+      "id": "entity-002",
+      "name": "Ivana Trump (née Zelníčková)",
+      "aliases": ["Ivana Zelníčková", "Ivana Winklmayr"],
+      "type": "person",
+      "subtype": "",
+      "nationality": "Czech, Austrian, later American",
+      "description": "Donald Trump's first wife. Emigrated from communist Czechoslovakia via a marriage of convenience. Drew interest from StB due to her father's informant status.",
+      "roles": ["spouse of Donald Trump"],
+      "affiliation": [],
+      "significance": 8,
+      "firstAppearance": "1971-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-018": {
+      "id": "entity-018",
+      "name": "Czechoslovak State Security (StB)",
+      "aliases": ["StB"],
+      "type": "organization",
+      "subtype": "intelligence agency",
+      "nationality": "Czechoslovak",
+      "description": "Communist-era secret police force that opened a dossier on Donald Trump after his marriage to Ivana. Shared intelligence with the KGB.",
+      "roles": [],
+      "affiliation": [],
+      "significance": 9,
+      "firstAppearance": "1977-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    }
+  },
+  "relationships": [
+    {
+      "id": "relationship-002",
+      "source": "entity-001",
+      "target": "entity-002",
+      "type": "married",
+      "subtype": "",
+      "description": "Donald Trump married Ivana Zelníčková in 1977.",
+      "strength": 8,
+      "startDate": "1977-04-01",
+      "endDate": "1992-01-01",
+      "isBidirectional": true,
+      "relatedEvents": ["event-004"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    }
+  ],
+  "intelligenceActivities": [
+    {
+      "id": "intel-001",
+      "date": "1977-05-01",
+      "startDate": "1977-05-01",
+      "endDate": "",
+      "agency": "StB",
+      "country": "Czechoslovakia",
+      "activityType": "surveillance",
+      "targets": ["entity-001", "entity-002"],
+      "operators": ["entity-018"],
+      "description": "Czechoslovak StB opens a dossier on Donald Trump after his marriage to Ivana.",
+      "objectives": ["Monitor Trump's business and political aspirations"],
+      "outcomes": ["Regular reporting on the Trump couple to StB files"],
+      "relatedEvents": ["event-004"],
+      "classification": "secret",
+      "declassificationDate": "",
+      "evidenceStrength": "reported",
+      "sources": [
+        {
+          "description": "Czechoslovakia's spy agency targeted Donald Trump",
+          "url": "https://www.telegraph.co.uk/news/2018/10/29/czechoslovakias-spy-agency-targeted-donald-trump-1980s-wife/",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": ""
+    }
+  ]
+}

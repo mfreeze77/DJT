@@ -1,0 +1,383 @@
+{
+  "events": [
+    {
+      "id": "event-075",
+      "date": "1998-06-01",
+      "startDate": "1998-06-01",
+      "endDate": "1998-06-01",
+      "title": "Deutsche Bank finances Trump's 40 Wall Street",
+      "description": "Deutsche Bank provides Trump a $125 million loan to refinance and renovate 40 Wall Street, establishing a crucial banking relationship at a time when major Wall Street firms had blacklisted Trump following his prior bankruptcies. Led by banker Mike Offit, this marked Trump's return to large-scale bank financing.",
+      "categories": ["business", "financial"],
+      "importance": 8,
+      "moneyFlow": {
+        "amount": 125000000,
+        "direction": "to-trump",
+        "isDirectFlow": true,
+        "entities": ["entity-001", "entity-041"],
+        "description": "Deutsche Bank provided Trump a $125 million loan to refinance and renovate 40 Wall Street. This represented Trump's return to large-scale bank financing at a time when major Wall Street firms had blacklisted him due to his prior bankruptcies. The loan marked the beginning of a crucial banking relationship with Deutsche Bank."
+      },
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-041"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_97-20.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "Donald Trump's Relationship With Deutsche Bank",
+          "url": "https://www.businessinsider.com/trump-deutsche-bank-mueller-2017-12",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": ["event-068"],
+      "era": "era-004",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-076",
+      "date": "1998-01-15",
+      "startDate": "1998-01-15",
+      "endDate": "1998-01-15",
+      "title": "Trump Taj Mahal fined for money laundering violations",
+      "description": "The U.S. Treasury's Financial Crimes Enforcement Network (FinCEN) fines Trump Taj Mahal Casino $477,700 for currency transaction reporting violations. The casino had failed to file required reports on large cash transactions, an indication of willful neglect of anti-money-laundering laws.",
+      "categories": ["financial", "legal"],
+      "importance": 7,
+      "moneyFlow": {
+        "amount": 477700,
+        "direction": "from-trump",
+        "isDirectFlow": true,
+        "entities": ["entity-001", "entity-050", "entity-054"],
+        "description": "Trump Taj Mahal Casino was fined $477,700 by the Financial Crimes Enforcement Network (FinCEN) for currency transaction reporting violations. This represented a significant regulatory penalty for the casino's failure to file required reports on large cash transactions, indicating willful neglect of anti-money-laundering laws."
+      },
+      "location": {
+        "country": "United States",
+        "city": "Atlantic City",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-050", "entity-054"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_97-20.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "FinCEN Fines Trump Taj Mahal Casino Resort $10 Million for Significant and Long Standing Anti-Money Laundering Violations",
+          "url": "https://www.fincen.gov/news/news-releases/fincen-fines-trump-taj-mahal-casino-resort-10-million-significant-and-long",
+          "documentType": "government press release",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-004",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-077",
+      "date": "1998-10-01",
+      "startDate": "1998-10-01",
+      "endDate": "1998-10-01",
+      "title": "Trump secretly spends $68,000 for Cuba business exploration",
+      "description": "Trump Hotels & Casino Resorts surreptitiously spends at least $68,000 exploring casino opportunities in Cuba, despite U.S. sanctions banning American business there. The company hires a consulting firm and disguises the expenses as a charitable donation to avoid legal detection.",
+      "categories": ["business", "financial", "legal"],
+      "importance": 7,
+      "moneyFlow": {
+        "amount": 68000,
+        "direction": "from-trump",
+        "isDirectFlow": true,
+        "entities": ["entity-001", "entity-050", "entity-055"],
+        "description": "Trump Hotels & Casino Resorts spent at least $68,000 to secretly explore business opportunities in Cuba, despite U.S. sanctions prohibiting such activities. The company hired Seven Arrows Investment and Development as a consulting firm and disguised the expenses as a charitable donation to avoid detection for violating U.S. sanctions."
+      },
+      "location": {
+        "country": "Cuba",
+        "city": "Havana",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-050", "entity-055"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_97-20.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "Trump Entertainment Resorts - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Trump_Entertainment_Resorts",
+          "documentType": "online encyclopedia",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-004",
+      "mediaUrls": []
+    }
+  ],
+  "entities": {
+    "entity-001": {
+      "id": "entity-001",
+      "name": "Donald J. Trump",
+      "aliases": ["Donald John Trump", "DJT"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "American",
+      "description": "Real estate developer, businessman, and casino operator. In 1998, secured crucial financing from Deutsche Bank when other U.S. banks refused to lend to him, while also facing regulatory fines for money laundering violations at his casino.",
+      "roles": ["developer", "businessman", "casino operator"],
+      "affiliation": ["Trump Organization", "Trump Hotels & Casino Resorts, Inc."],
+      "significance": 10,
+      "firstAppearance": "1977-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-041": {
+      "id": "entity-041",
+      "name": "Deutsche Bank",
+      "aliases": [],
+      "type": "organization",
+      "subtype": "financial-institution",
+      "nationality": "German",
+      "description": "German multinational investment bank that established a crucial lending relationship with Trump in 1998, providing him a $125 million loan when major U.S. banks had blacklisted him. This marked the beginning of a decades-long financial relationship.",
+      "roles": ["lender"],
+      "affiliation": [],
+      "significance": 8,
+      "firstAppearance": "1998-06-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-050": {
+      "id": "entity-050",
+      "name": "Trump Hotels & Casino Resorts, Inc.",
+      "aliases": ["THCR", "DJT"],
+      "type": "organization",
+      "subtype": "corporation",
+      "nationality": "American",
+      "description": "Trump's publicly traded casino company that received fines for anti-money laundering violations in 1998 and secretly spent money exploring business opportunities in Cuba despite U.S. sanctions.",
+      "roles": ["casino operator", "hotel operator"],
+      "affiliation": [],
+      "significance": 8,
+      "firstAppearance": "1995-06-15",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-054": {
+      "id": "entity-054",
+      "name": "Financial Crimes Enforcement Network",
+      "aliases": ["FinCEN"],
+      "type": "organization",
+      "subtype": "government agency",
+      "nationality": "American",
+      "description": "U.S. Treasury bureau responsible for combating money laundering and other financial crimes. In 1998, FinCEN fined Trump's Taj Mahal casino for violations of currency transaction reporting requirements.",
+      "roles": ["regulator", "law enforcement"],
+      "affiliation": ["U.S. Treasury Department"],
+      "significance": 6,
+      "firstAppearance": "1998-01-15",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-055": {
+      "id": "entity-055",
+      "name": "Seven Arrows Investment and Development",
+      "aliases": [],
+      "type": "organization",
+      "subtype": "consulting firm",
+      "nationality": "American",
+      "description": "Consulting firm hired by Trump Hotels & Casino Resorts in 1998 to explore casino opportunities in Cuba, despite U.S. sanctions. The expenses were disguised as a charitable donation to avoid legal detection.",
+      "roles": ["consultant"],
+      "affiliation": [],
+      "significance": 5,
+      "firstAppearance": "1998-10-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    }
+  },
+  "relationships": [
+    {
+      "id": "relationship-deutsche-bank-financing",
+      "source": "entity-001",
+      "target": "entity-041",
+      "type": "financial",
+      "subtype": "loan",
+      "description": "Trump established a crucial lending relationship with Deutsche Bank in 1998, receiving a $125 million loan for 40 Wall Street when major U.S. banks had blacklisted him.",
+      "strength": 9,
+      "startDate": "1998-06-01",
+      "endDate": "",
+      "isBidirectional": true,
+      "relatedEvents": ["event-075"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": "This marked the beginning of a decades-long financial relationship between Trump and Deutsche Bank."
+    },
+    {
+      "id": "relationship-fincen-regulation",
+      "source": "entity-054",
+      "target": "entity-050",
+      "type": "regulatory",
+      "subtype": "enforcement",
+      "description": "FinCEN imposed a $477,700 fine on Trump Taj Mahal Casino in 1998 for violations of currency transaction reporting requirements, indicating willful neglect of anti-money laundering laws.",
+      "strength": 7,
+      "startDate": "1998-01-15",
+      "endDate": "1998-01-15",
+      "isBidirectional": false,
+      "relatedEvents": ["event-076"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": "This was the first of multiple FinCEN actions against Trump's casino operations for anti-money laundering violations."
+    },
+    {
+      "id": "relationship-cuba-exploration",
+      "source": "entity-050",
+      "target": "entity-055",
+      "type": "business",
+      "subtype": "consulting",
+      "description": "Trump Hotels & Casino Resorts hired Seven Arrows Investment and Development in 1998 to secretly explore casino opportunities in Cuba, despite U.S. sanctions.",
+      "strength": 6,
+      "startDate": "1998-10-01",
+      "endDate": "1998-10-01",
+      "isBidirectional": true,
+      "relatedEvents": ["event-077"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": "The relationship involved creating a cover story of charitable donations to conceal the true purpose of the expenditure."
+    }
+  ],
+  "transactions": [
+    {
+      "id": "transaction-deutsche-bank-loan",
+      "date": "1998-06-01",
+      "fromEntity": "entity-041",
+      "toEntity": "entity-001",
+      "intermediaries": [],
+      "amount": 125000000,
+      "currency": "USD",
+      "amountUSD": 125000000,
+      "type": "loan",
+      "subtype": "commercial real estate",
+      "description": "Deutsche Bank provided Trump a $125 million loan to refinance and renovate 40 Wall Street.",
+      "purpose": "Property refinancing and renovation",
+      "method": "Bank loan",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-075"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "This marked Trump's return to large-scale bank financing after years of being blacklisted by major Wall Street firms."
+    },
+    {
+      "id": "transaction-cuba-exploration",
+      "date": "1998-10-01",
+      "fromEntity": "entity-050",
+      "toEntity": "entity-055",
+      "intermediaries": [],
+      "amount": 68000,
+      "currency": "USD",
+      "amountUSD": 68000,
+      "type": "consulting",
+      "subtype": "international business exploration",
+      "description": "Trump Hotels & Casino Resorts paid Seven Arrows Investment and Development at least $68,000 to explore casino opportunities in Cuba.",
+      "purpose": "Foreign market research",
+      "method": "Disguised payment",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "Cuba",
+      "relatedEvents": ["event-077"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "The funds were disguised as a charitable donation to avoid detection for violating U.S. sanctions against Cuba."
+    },
+    {
+      "id": "transaction-fincen-fine",
+      "date": "1998-01-15",
+      "fromEntity": "entity-050",
+      "toEntity": "entity-054",
+      "intermediaries": [],
+      "amount": 477700,
+      "currency": "USD",
+      "amountUSD": 477700,
+      "type": "regulatory",
+      "subtype": "fine",
+      "description": "Trump Taj Mahal Casino paid a $477,700 fine to FinCEN for currency transaction reporting violations.",
+      "purpose": "Regulatory penalty",
+      "method": "Settlement payment",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-076"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "This was a record fine for a casino's Bank Secrecy Act violations at the time."
+    }
+  ],
+  "intelligenceActivities": []
+}

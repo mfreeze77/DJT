@@ -1,0 +1,277 @@
+{
+  "events": [
+    {
+      "id": "event-025",
+      "date": "1989-06-07",
+      "startDate": "1989-06-07",
+      "endDate": "1989-06-07",
+      "title": "Trump launches Trump Shuttle airline service",
+      "description": "Trump acquires Eastern Air Lines Shuttle for $365 million and rebrands it as Trump Shuttle. The purchase, financed largely through loans from a bank consortium, includes 21 Boeing 727 aircraft and the valuable landing slots at major airports in the Northeast corridor. Trump invests millions more in gold-colored exterior logos and maple-wood veneer interiors to create a luxury image. The airline struggles financially from the start, unable to service its high debt load in the competitive airline market.",
+      "categories": [
+        "business",
+        "financial"
+      ],
+      "importance": 7,
+      "moneyFlow": {
+        "amount": 365000000,
+        "direction": "from-trump",
+        "isDirectFlow": true,
+        "entities": [
+          "entity-001",
+          "entity-039"
+        ],
+        "description": "The acquisition of Eastern Air Lines Shuttle for $365 million represented a significant financial outflow from Trump, though it was primarily financed through loans from a bank consortium. Trump paid a premium price (approximately $7 million more than what Eastern's CEO Frank Lorenzo thought it was worth) and invested additional millions in luxury upgrades like gold logos and maple veneer interiors. The highly leveraged acquisition would struggle financially from the start, losing approximately $34 million in its first six months of operation, and would ultimately be turned over to creditors in 1991."
+      },
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": [
+          40.7128,
+          -74.006
+        ]
+      },
+      "entities": [
+        "entity-001",
+        "entity-028",
+        "entity-039"
+      ],
+      "sources": [
+        {
+          "description": "1988: The Year Donald Trump Lost His Mind - POLITICO Magazine",
+          "url": "https://www.politico.com/magazine/story/2016/03/1988-the-year-donald-lost-his-mind-213721",
+          "documentType": "news article",
+          "citation": "And in the fall, he agreed to purchase the Eastern Airlines Shuttle for $365 million, again paying a premium price, almost $7 million dollars more than the brand's owner, Frank Lorenzo, thought the shuttle was worth."
+        },
+        {
+          "description": "Trump Shuttle - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Trump_Shuttle",
+          "documentType": "encyclopedia",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-002",
+      "mediaUrls": []
+    }
+  ],
+  "entities": {
+    "entity-001": {
+      "id": "entity-001",
+      "name": "Donald J. Trump",
+      "aliases": ["Donald John Trump", "DJT"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "American",
+      "description": "Real estate developer and businessman who expanded his property empire into airlines with the acquisition of Eastern Air Lines Shuttle in 1989.",
+      "roles": ["developer", "businessman", "airline owner"],
+      "affiliation": [],
+      "significance": 10,
+      "firstAppearance": "1977-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": "The Trump Shuttle acquisition marked Trump's entry into the aviation industry, continuing his pattern of high-profile, debt-financed acquisitions that characterized the late 1980s."
+    },
+    "entity-028": {
+      "id": "entity-028",
+      "name": "Bank Consortium",
+      "aliases": ["Lender Syndicate"],
+      "type": "organization",
+      "subtype": "financial institution",
+      "nationality": "American",
+      "description": "A group of banks that provided the majority of financing for Trump's acquisition of Eastern Air Lines Shuttle. The consortium extended loans to fund the $365 million purchase price.",
+      "roles": ["lender", "financier"],
+      "affiliation": [],
+      "significance": 7,
+      "firstAppearance": "1989-06-07",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {
+        "loanAmount": 365000000
+      },
+      "sources": [],
+      "documentationLink": "",
+      "notes": "The bank consortium would later gain control of Trump Shuttle in 1991 when the airline failed to generate sufficient revenue to service its debt."
+    },
+    "entity-039": {
+      "id": "entity-039",
+      "name": "Trump Shuttle, Inc.",
+      "aliases": ["Trump Shuttle"],
+      "type": "organization",
+      "subtype": "airline",
+      "nationality": "American",
+      "description": "An airline service launched by Donald Trump in 1989 after acquiring Eastern Air Lines Shuttle for $365 million. The airline operated a fleet of 21 Boeing 727 aircraft on routes connecting New York, Washington D.C., and Boston.",
+      "roles": ["transportation service"],
+      "affiliation": [],
+      "significance": 7,
+      "firstAppearance": "1989-06-07",
+      "lastAppearance": "1991-12-31",
+      "images": [],
+      "properties": {
+        "fleet": "21 Boeing 727 aircraft",
+        "routes": "New York-Washington-Boston corridor"
+      },
+      "intelligenceConnections": {},
+      "financialData": {
+        "acquisitionCost": 365000000,
+        "financialLoss1989": 34000000
+      },
+      "sources": [],
+      "documentationLink": "",
+      "notes": "Trump Shuttle was marketed as a luxury airline with gold-colored logos and maple-wood veneer interiors, but it struggled financially from its launch, losing approximately $34 million in its first six months of operation."
+    },
+    "entity-042": {
+      "id": "entity-042",
+      "name": "Eastern Air Lines",
+      "aliases": ["Eastern Airlines", "Eastern Air Lines Shuttle"],
+      "type": "organization",
+      "subtype": "airline",
+      "nationality": "American",
+      "description": "A major American airline that operated from 1926 to 1991. Its shuttle service, which operated flights between New York, Boston, and Washington D.C., was sold to Donald Trump in 1989.",
+      "roles": ["transportation service"],
+      "affiliation": [],
+      "significance": 6,
+      "firstAppearance": "1926-01-01",
+      "lastAppearance": "1991-01-18",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": "Eastern Air Lines was headed by Frank Lorenzo at the time of the shuttle service sale to Trump. Lorenzo reportedly believed Trump paid approximately $7 million more than the shuttle was worth."
+    },
+    "entity-043": {
+      "id": "entity-043",
+      "name": "Frank Lorenzo",
+      "aliases": [],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "American",
+      "description": "American businessman who served as the CEO of Eastern Air Lines and negotiated the sale of the Eastern Air Lines Shuttle to Donald Trump in 1989.",
+      "roles": ["executive", "airline industry leader"],
+      "affiliation": ["Eastern Air Lines"],
+      "significance": 5,
+      "firstAppearance": "1989-06-07",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": "Lorenzo reportedly believed that Trump paid approximately $7 million more than the Eastern Air Lines Shuttle was worth, suggesting Trump overpaid for the acquisition."
+    }
+  },
+  "relationships": [
+    {
+      "id": "relationship-012",
+      "source": "entity-001",
+      "target": "entity-039",
+      "type": "ownership",
+      "subtype": "business",
+      "description": "Donald Trump acquired and owned Trump Shuttle, Inc. after purchasing Eastern Air Lines Shuttle in 1989.",
+      "strength": 9,
+      "startDate": "1989-06-07",
+      "endDate": "1991-12-31",
+      "isBidirectional": false,
+      "relatedEvents": ["event-025"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": "Trump's ownership of the airline was relatively short-lived, as financial difficulties led to creditors taking control of the operation in 1991."
+    },
+    {
+      "id": "relationship-013",
+      "source": "entity-028",
+      "target": "entity-001",
+      "type": "financial",
+      "subtype": "lender",
+      "description": "A consortium of banks provided financing to Donald Trump for the acquisition of Eastern Air Lines Shuttle.",
+      "strength": 8,
+      "startDate": "1989-06-07",
+      "endDate": "",
+      "isBidirectional": false,
+      "relatedEvents": ["event-025"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": "This loan was part of Trump's pattern of highly leveraged acquisitions in the late 1980s, which would contribute to his financial difficulties in the early 1990s."
+    },
+    {
+      "id": "relationship-014",
+      "source": "entity-042",
+      "target": "entity-039",
+      "type": "transformation",
+      "subtype": "corporate acquisition",
+      "description": "Eastern Air Lines Shuttle was acquired by Donald Trump and transformed into Trump Shuttle in 1989.",
+      "strength": 10,
+      "startDate": "1989-06-07",
+      "endDate": "1989-06-07",
+      "isBidirectional": false,
+      "relatedEvents": ["event-025"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": "The acquisition involved the transfer of 21 Boeing 727 aircraft and valuable landing slots at major Northeast corridor airports."
+    },
+    {
+      "id": "relationship-015",
+      "source": "entity-043",
+      "target": "entity-042",
+      "type": "professional",
+      "subtype": "executive",
+      "description": "Frank Lorenzo was the CEO of Eastern Air Lines when its shuttle service was sold to Donald Trump.",
+      "strength": 8,
+      "startDate": "",
+      "endDate": "1989-06-07",
+      "isBidirectional": false,
+      "relatedEvents": ["event-025"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": "Lorenzo reportedly believed that Trump paid approximately $7 million more than the Eastern Air Lines Shuttle was worth."
+    }
+  ],
+  "transactions": [
+    {
+      "id": "transaction-trump-shuttle-acquisition",
+      "date": "1989-06-07",
+      "fromEntity": "entity-001",
+      "toEntity": "entity-042",
+      "intermediaries": ["entity-028"],
+      "amount": 365000000,
+      "currency": "USD",
+      "amountUSD": 365000000,
+      "type": "financial",
+      "subtype": "acquisition",
+      "description": "Donald Trump acquired Eastern Air Lines Shuttle for $365 million, rebranding it as Trump Shuttle. The purchase was financed largely through loans from a bank consortium.",
+      "purpose": "Business expansion",
+      "method": "Leveraged acquisition",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-025"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "Trump paid approximately $7 million more than what Eastern's CEO Frank Lorenzo thought the shuttle was worth. The airline struggled financially from its launch, losing approximately $34 million in its first six months of operation."
+    }
+  ],
+  "intelligenceActivities": []
+}

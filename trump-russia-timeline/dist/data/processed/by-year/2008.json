@@ -1,0 +1,635 @@
+{
+  "events": [
+    {
+      "id": "event-057",
+      "date": "2008-03-31",
+      "startDate": "2008-03-31",
+      "endDate": "2008-03-31",
+      "title": "Trump International Hotel & Tower Las Vegas opens",
+      "description": "The 64-story gold-glass tower developed by Trump and Phil Ruffin opens for occupancy. Despite initial success, the 2008 financial crisis soon slows condo-hotel sales.",
+      "categories": ["business"],
+      "importance": 6,
+      "moneyFlow": {
+        "amount": 0,
+        "direction": "restructuring",
+        "isDirectFlow": false,
+        "entities": ["entity-001", "entity-038"],
+        "description": "The Trump International Hotel & Tower Las Vegas opened at a cost of approximately $500 million. Trump partnered with Phil Ruffin on the project, with sales affected by the 2008 financial crisis."
+      },
+      "location": {
+        "country": "United States",
+        "city": "Las Vegas",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-038"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_205-208_pp.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": ["event-054"],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-058",
+      "date": "2008-07-01",
+      "startDate": "2008-07-01",
+      "endDate": "2008-07-01",
+      "title": "Palm Beach mansion sale to Dmitry Rybolovlev",
+      "description": "Trump sells his Palm Beach mansion (Maison de L'Amitié) for $95 million to Russian billionaire Dmitry Rybolovlev, more than doubling Trump's 2004 purchase price. Critics raise questions about the huge markup.",
+      "categories": ["business", "financial"],
+      "importance": 7,
+      "moneyFlow": {
+        "amount": 95000000,
+        "direction": "to-trump",
+        "isDirectFlow": true,
+        "entities": ["entity-001", "entity-039"],
+        "description": "Trump sold his Palm Beach mansion (Maison de L'Amitié) to Russian billionaire Dmitry Rybolovlev for $95 million, more than doubling his 2004 purchase price of approximately $41 million."
+      },
+      "location": {
+        "country": "United States",
+        "city": "Palm Beach",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-039"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_205-208_Assoc_TLDR.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-059",
+      "date": "2008-07-02",
+      "startDate": "2008-07-02",
+      "endDate": "2008-07-02",
+      "title": "Donald Trump Jr. references substantial Russian investment",
+      "description": "Speaking at a real estate conference, Donald Jr. states: \"Russians make up a pretty disproportionate cross-section of a lot of our assets.\" This remark draws scrutiny of Russian money in Trump ventures.",
+      "categories": ["business", "financial", "intelligence"],
+      "importance": 8,
+      "moneyFlow": {
+        "amount": 0,
+        "direction": "to-trump",
+        "isDirectFlow": false,
+        "entities": ["entity-040", "entity-001"],
+        "description": "Donald Trump Jr.'s statement implied significant Russian investment in Trump properties, though no specific monetary amount can be confirmed from this reference alone."
+      },
+      "location": {
+        "country": "",
+        "city": "",
+        "coordinates": []
+      },
+      "entities": ["entity-040", "entity-001"],
+      "sources": [
+        {
+          "description": "Donald Trump Jr. in 2008: Russians make up a pretty disproportionate cross-section... - Business Insider",
+          "url": "https://www.businessinsider.com/donald-trump-jr-said-money-pouring-in-from-russia-2018-2",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": ["event-058"],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-060",
+      "date": "2008-11-01",
+      "startDate": "2008-11-01",
+      "endDate": "2008-11-01",
+      "title": "Trump sues Deutsche Bank over Chicago tower loan",
+      "description": "Facing difficulty repaying the $640 million construction loan amid the financial crisis, Trump sues Deutsche Bank for $3 billion, blaming the recession. Deutsche Bank countersues to enforce Trump's personal guarantee.",
+      "categories": ["financial", "legal", "business"],
+      "importance": 7,
+      "moneyFlow": {
+        "amount": 640000000,
+        "direction": "restructuring",
+        "isDirectFlow": false,
+        "entities": ["entity-001", "entity-041"],
+        "description": "Trump sought to restructure the $640 million construction loan for Trump Tower Chicago by suing Deutsche Bank for $3 billion, claiming the financial crisis was a 'force majeure' event."
+      },
+      "location": {
+        "country": "United States",
+        "city": "Chicago",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-041"],
+      "sources": [
+        {
+          "description": "Trump v. Deutsche Bank (2008) - Tmanch_Fin_205-208_pp.md",
+          "url": "",
+          "documentType": "court filing",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-061",
+      "date": "2008-11-07",
+      "startDate": "2008-11-07",
+      "endDate": "2008-11-07",
+      "title": "Deutsche Bank countersues Trump for $40 million guarantee",
+      "description": "After Trump's suit against Deutsche Bank, the bank files a countersuit seeking to enforce Trump's $40 million personal guarantee on the Chicago tower loan that he failed to pay on November 7, 2008.",
+      "categories": ["financial", "legal", "business"],
+      "importance": 7,
+      "moneyFlow": {
+        "amount": 40000000,
+        "direction": "from-trump",
+        "isDirectFlow": false,
+        "entities": ["entity-001", "entity-041"],
+        "description": "Deutsche Bank filed a countersuit seeking to enforce Trump's $40 million personal guarantee on the Chicago tower loan that he failed to repay."
+      },
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-041"],
+      "sources": [
+        {
+          "description": "Trump sued for $40 million by lender on Chicago tower - Chicago Business",
+          "url": "https://www.chicagobusiness.com/article/20081128/CRED03/200032000/trump-sued-for-40-million-by-lender-on-chicago-tower",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": ["event-060"],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-062",
+      "date": "2008-01-01",
+      "startDate": "2008-01-01",
+      "endDate": "2008-12-31",
+      "title": "Trump Tower Tampa project collapses",
+      "description": "The Trump-branded 52-story condo tower in Tampa, announced in 2005, completely collapses by 2008 with developers bankrupt. Buyers lose deposits and file lawsuits against Trump, who argues he merely licensed his name to the project.",
+      "categories": ["business", "legal", "financial"],
+      "importance": 6,
+      "moneyFlow": {
+        "amount": 0,
+        "direction": "from-trump",
+        "isDirectFlow": false,
+        "entities": ["entity-001"],
+        "description": "The collapse of the Trump Tower Tampa project led to financial losses for investors and buyers who lost deposits. Trump maintained he was only a licensor and had no financial liability in the project's failure."
+      },
+      "location": {
+        "country": "United States",
+        "city": "Tampa",
+        "coordinates": []
+      },
+      "entities": ["entity-001"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_205-208.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-063",
+      "date": "2008-11-18",
+      "startDate": "2008-11-18",
+      "endDate": "2008-11-18",
+      "title": "Colombian money launderer with Trump Panama ties arrested",
+      "description": "David Murcia Guzmán, who laundered drug money through Trump Ocean Club Panama purchases, is arrested by Colombian authorities. His associate, Trump's broker Ventura Nogueira, confirms their partnership at a press conference.",
+      "categories": ["business", "legal", "financial"],
+      "importance": 8,
+      "moneyFlow": {
+        "amount": 0,
+        "direction": "to-trump",
+        "isDirectFlow": false,
+        "entities": ["entity-001"],
+        "description": "David Murcia Guzmán allegedly purchased multiple units in the Trump Ocean Club Panama as part of a money laundering operation. While Trump Organization received licensing fees from the development, the exact amount flowing from this specific connection is undocumented."
+      },
+      "location": {
+        "country": "Colombia",
+        "city": "",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-042", "entity-043"],
+      "sources": [
+        {
+          "description": "Narco-a-lago: Money Laundering at Trump Ocean Club Panama - Global Witness",
+          "url": "https://www.globalwitness.org/en/campaigns/corruption-and-money-laundering/narco-a-lago-panama/",
+          "documentType": "report",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-064",
+      "date": "2008-01-01",
+      "startDate": "2008-01-01",
+      "endDate": "2008-12-31",
+      "title": "Fortress Investment Group loan to Trump becomes troubled",
+      "description": "By 2008, Trump owes Fortress Investment Group $130 million plus accrued interest for the Chicago tower project, on top of the Deutsche Bank debt. This mezzanine loan would later be substantially forgiven in a 2010 settlement.",
+      "categories": ["financial", "business"],
+      "importance": 7,
+      "moneyFlow": {
+        "amount": 130000000,
+        "direction": "to-trump",
+        "isDirectFlow": true,
+        "entities": ["entity-001", "entity-044"],
+        "description": "The Trump family company received approximately $130 million for its 12.75% stake in Riverside South. Trump had originally invested $11 million in the property in 1985."
+      },
+      "location": {
+        "country": "United States",
+        "city": "Chicago",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-044"],
+      "sources": [
+        {
+          "description": "Trump Had $270 Million Debt Forgiven on Chicago Skyscraper: NYT - Business Insider",
+          "url": "https://www.businessinsider.com/trump-taxes-debt-forgiven-chicago-tower-nyt-fail-repay-lenders-2020-10",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": ["event-060", "event-061"],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-065",
+      "date": "2008-06-01",
+      "startDate": "2008-06-01",
+      "endDate": "2008-12-31",
+      "title": "Trump International Hotel & Tower Fort Lauderdale stalls",
+      "description": "Construction on the Trump-branded 24-story condo-hotel in Fort Lauderdale stalls as the developer runs out of financing. Trump would withdraw his name from the project by 2009. Over 100 buyers later sued Trump, claiming misleading marketing.",
+      "categories": ["business", "legal"],
+      "importance": 6,
+      "moneyFlow": null,
+      "location": {
+        "country": "United States",
+        "city": "Fort Lauderdale",
+        "coordinates": []
+      },
+      "entities": ["entity-001"],
+      "sources": [
+        {
+          "description": "PolitiFact | Did Trump bail on building condos in Florida?",
+          "url": "https://www.politifact.com/factchecks/2016/jul/29/tim-kaine/did-trump-bail-building-condos-florida/",
+          "documentType": "fact check",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": ["event-062"],
+      "era": "era-005",
+      "mediaUrls": []
+    }
+  ],
+  "entities": {
+    "entity-001": {
+      "id": "entity-001",
+      "name": "Donald J. Trump",
+      "aliases": ["Donald John Trump", "DJT"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "American",
+      "description": "Real estate developer, businessman, and television personality. In 2008, faced multiple significant events: Las Vegas hotel opening, major real estate sale to a Russian oligarch, and the onset of the financial crisis affecting his Chicago project.",
+      "roles": ["developer", "businessman", "television personality"],
+      "affiliation": [],
+      "significance": 10,
+      "firstAppearance": "1977-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-038": {
+      "id": "entity-038",
+      "name": "Phil Ruffin",
+      "aliases": [],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "American",
+      "description": "Casino owner and businessman who partnered with Trump on a 50/50 basis to develop the Trump International Hotel & Tower in Las Vegas, which opened in 2008.",
+      "roles": ["businessman", "casino owner"],
+      "affiliation": [],
+      "significance": 6,
+      "firstAppearance": "2005-07-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-039": {
+      "id": "entity-039",
+      "name": "Dmitry Rybolovlev",
+      "aliases": ["Dmitri Rybolovlev"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "Russian",
+      "description": "Russian fertilizer magnate and billionaire who purchased Trump's Palm Beach mansion for $95 million in 2008, significantly more than Trump's purchase price. The transaction later drew scrutiny from investigators.",
+      "roles": ["oligarch", "businessman"],
+      "affiliation": [],
+      "significance": 7,
+      "firstAppearance": "2008-07-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-040": {
+      "id": "entity-040",
+      "name": "Donald Trump Jr.",
+      "aliases": ["Don Jr."],
+      "type": "person",
+      "subtype": "",
+      "nationality": "American",
+      "description": "Eldest son of Donald Trump who works as an executive in the Trump Organization. Made notable comments in 2008 about Russian investments in Trump properties.",
+      "roles": ["business executive"],
+      "affiliation": ["Trump Organization"],
+      "significance": 7,
+      "firstAppearance": "2008-07-02",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-041": {
+      "id": "entity-041",
+      "name": "Deutsche Bank",
+      "aliases": [],
+      "type": "organization",
+      "subtype": "financial-institution",
+      "nationality": "German",
+      "description": "German multinational investment bank and financial services company that provided financing for Trump's Chicago tower project. Became embroiled in litigation with Trump during the 2008 financial crisis.",
+      "roles": ["lender"],
+      "affiliation": [],
+      "significance": 8,
+      "firstAppearance": "2008-11-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-042": {
+      "id": "entity-042",
+      "name": "David Helmut Murcia Guzmán",
+      "aliases": ["DMG"],
+      "type": "person",
+      "subtype": "criminal",
+      "nationality": "Colombian",
+      "description": "Colombian businessman who operated a massive pyramid scheme (DMG Grupo) and was later convicted of laundering drug money through real estate, including units in Trump Ocean Club Panama.",
+      "roles": ["money launderer", "fraudster"],
+      "affiliation": ["DMG Grupo"],
+      "significance": 7,
+      "firstAppearance": "2008-11-18",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-043": {
+      "id": "entity-043",
+      "name": "Alexandre Ventura Nogueira",
+      "aliases": ["Ventura Nogueira"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "Brazilian",
+      "description": "Brazilian broker living in Panama who became a lead seller for Trump Ocean Club condos. He facilitated purchases for buyers using anonymous offshore companies and worked with Murcia Guzmán.",
+      "roles": ["real estate broker"],
+      "affiliation": [],
+      "significance": 7,
+      "firstAppearance": "2008-11-18",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-044": {
+      "id": "entity-044",
+      "name": "Fortress Investment Group",
+      "aliases": [],
+      "type": "organization",
+      "subtype": "financial-institution",
+      "nationality": "American",
+      "description": "New York private equity and hedge fund firm that provided a $130 million mezzanine loan to Trump for the Chicago tower project. Later forgave a substantial portion of this debt in a 2010 settlement.",
+      "roles": ["lender", "hedge fund"],
+      "affiliation": [],
+      "significance": 7,
+      "firstAppearance": "2008-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    }
+  },
+  "relationships": [
+    {
+      "id": "relationship-vegas-tower-completion",
+      "source": "entity-001",
+      "target": "entity-038",
+      "type": "business-partnership",
+      "subtype": "real estate development",
+      "description": "Trump and Phil Ruffin completed and opened their joint venture Trump International Hotel & Tower in Las Vegas in 2008.",
+      "strength": 7,
+      "startDate": "2005-07-01",
+      "endDate": "",
+      "isBidirectional": true,
+      "relatedEvents": ["event-054", "event-057"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    {
+      "id": "relationship-rybolovlev-sale",
+      "source": "entity-001",
+      "target": "entity-039",
+      "type": "business-transaction",
+      "subtype": "real estate sale",
+      "description": "Trump sold a Palm Beach mansion to Russian billionaire Dmitry Rybolovlev for $95 million in 2008.",
+      "strength": 7,
+      "startDate": "2008-07-01",
+      "endDate": "2008-07-01",
+      "isBidirectional": true,
+      "relatedEvents": ["event-058"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    {
+      "id": "relationship-deutsche-bank-lawsuit",
+      "source": "entity-001",
+      "target": "entity-041",
+      "type": "legal conflict",
+      "subtype": "lawsuit",
+      "description": "Trump sued Deutsche Bank over Chicago tower loan terms during the 2008 financial crisis, seeking $3 billion in damages.",
+      "strength": 8,
+      "startDate": "2008-11-01",
+      "endDate": "",
+      "isBidirectional": true,
+      "relatedEvents": ["event-060", "event-061"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    {
+      "id": "relationship-fortress-loan",
+      "source": "entity-001",
+      "target": "entity-044",
+      "type": "financial",
+      "subtype": "loan",
+      "description": "Fortress Investment Group provided a $130 million mezzanine loan to Trump for the Chicago tower project, which later became troubled in 2008.",
+      "strength": 7,
+      "startDate": "2005-01-01",
+      "endDate": "",
+      "isBidirectional": true,
+      "relatedEvents": ["event-064"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    {
+      "id": "relationship-panama-money-laundering",
+      "source": "entity-042",
+      "target": "entity-043",
+      "type": "criminal",
+      "subtype": "money laundering",
+      "description": "David Murcia Guzmán and broker Alexandre Ventura Nogueira collaborated to launder drug money through real estate purchases in Trump Ocean Club Panama.",
+      "strength": 8,
+      "startDate": "2006-01-01",
+      "endDate": "2008-11-18",
+      "isBidirectional": true,
+      "relatedEvents": ["event-063"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    }
+  ],
+  "transactions": [
+    {
+      "id": "transaction-rybolovlev-mansion",
+      "date": "2008-07-01",
+      "fromEntity": "entity-039",
+      "toEntity": "entity-001",
+      "intermediaries": [],
+      "amount": 95000000,
+      "currency": "USD",
+      "amountUSD": 95000000,
+      "type": "property",
+      "subtype": "real estate sale",
+      "description": "Dmitry Rybolovlev purchases Trump's Palm Beach mansion for $95 million.",
+      "purpose": "Real estate transaction",
+      "method": "Property sale",
+      "isConfirmed": true,
+      "isRussianConnected": true,
+      "russianConnectionType": "direct buyer",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-058"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "Trump had purchased the property for approximately $41 million in 2004."
+    },
+    {
+      "id": "transaction-fortress-loan",
+      "date": "2005-01-01",
+      "fromEntity": "entity-044",
+      "toEntity": "entity-001",
+      "intermediaries": [],
+      "amount": 130000000,
+      "currency": "USD",
+      "amountUSD": 130000000,
+      "type": "loan",
+      "subtype": "mezzanine financing",
+      "description": "Fortress Investment Group provides a $130 million mezzanine loan to Trump for the Chicago tower project.",
+      "purpose": "Construction financing",
+      "method": "Loan",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-064"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "This loan would later be substantially forgiven in a 2010 settlement following the financial crisis."
+    }
+  ],
+  "intelligenceActivities": []
+}

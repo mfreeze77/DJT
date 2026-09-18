@@ -1,0 +1,106 @@
+{
+  "events": [
+    {
+      "id": "event-052",
+      "date": "2004-01-01",
+      "startDate": "2004-01-01",
+      "endDate": "2004-01-01",
+      "title": "The Apprentice TV show debuts",
+      "description": "Donald Trump becomes a reality television star with NBC's The Apprentice, boosting his personal brand and generating millions in TV fees and future licensing deals. The show's catchphrase \"You're fired!\" becomes iconic.",
+      "categories": ["business", "personal"],
+"importance": 9,
+"moneyFlow": {
+  "amount": 3000000,
+  "direction": "to-trump",
+  "isDirectFlow": true,
+  "entities": ["entity-001", "NBC"],
+  "description": "Trump reportedly received $3 million per episode as executive producer of The Apprentice. The show would eventually generate approximately $427 million from licensing and endorsement deals over its 14-year run."
+},
+      "location": {
+        "country": "United States",
+        "city": "",
+        "coordinates": []
+      },
+      "entities": ["entity-001"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_201-204_Assoc_TLDR.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-055",
+      "date": "2004-11-21",
+      "startDate": "2004-11-21",
+      "endDate": "2004-11-21",
+      "title": "Trump Hotels & Casino Resorts files for Chapter 11 bankruptcy",
+      "description": "Burdened by $1.8 billion in debt and poor Atlantic City revenues, Trump's publicly traded casino company seeks bankruptcy protection. Trump's personal stake shrinks to about 10%, but he retains a figurehead role.",
+      "categories": ["financial", "legal", "business"],
+"importance": 8,
+"moneyFlow": {
+  "amount": 1800000000,
+  "direction": "restructuring",
+  "isDirectFlow": false,
+  "entities": ["entity-001", "Trump Hotels & Casino Resorts"],
+  "description": "Trump Hotels & Casino Resorts filed for Chapter 11 bankruptcy protection to restructure $1.8 billion in debt. Trump's personal stake was reduced from approximately 47% to around 10%, though he retained a figurehead role."
+},
+      "location": {
+        "country": "United States",
+        "city": "Atlantic City",
+        "coordinates": []
+      },
+      "entities": ["entity-001"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_205-208_pp.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "SEC Filings",
+          "url": "",
+          "documentType": "regulatory",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    }
+  ],
+  "entities": {
+    "entity-001": {
+      "id": "entity-001",
+      "name": "Donald J. Trump",
+      "aliases": ["Donald John Trump", "DJT"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "American",
+      "description": "Real estate developer and businessman who significantly expanded his celebrity status in 2004 by becoming the star of NBC's reality TV show 'The Apprentice'. This marked a shift in his public profile from primarily a real estate figure to a mainstream entertainment celebrity.",
+      "roles": ["developer", "businessman", "television personality"],
+      "affiliation": [],
+      "significance": 10,
+      "firstAppearance": "1977-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    }
+  },
+  "relationships": [],
+  "transactions": [],
+  "intelligenceActivities": []
+}

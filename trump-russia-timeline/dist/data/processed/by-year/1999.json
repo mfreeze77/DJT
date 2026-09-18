@@ -1,0 +1,517 @@
+{
+  "events": [
+    {
+      "id": "event-078",
+      "date": "1999-05-15",
+      "startDate": "1999-05-15",
+      "endDate": "1999-05-15",
+      "title": "Deutsche Bank underwrites $480 million in Trump casino junk bonds",
+      "description": "Facing persistent losses in his casino empire, Trump secures Deutsche Bank's agreement to underwrite and sell $480 million in high-yield debt. The offering provides critical capital to Trump's publicly traded company, which was carrying about $1.7 billion in debt and struggling to meet interest payments.",
+      "categories": ["business", "financial"],
+      "importance": 8,
+      "moneyFlow": {
+        "amount": 480000000,
+        "direction": "to-trump",
+        "isDirectFlow": true,
+        "entities": ["entity-001", "entity-041", "entity-050"],
+        "description": "Deutsche Bank underwrote and sold $480 million in high-yield junk bonds for Trump Hotels & Casino Resorts, which was carrying approximately $1.7 billion in debt and struggling to meet interest payments. This capital infusion was critical for Trump's publicly traded casino company, though the company would eventually default on portions of this debt."
+      },
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-041", "entity-050"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_97-20.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "Trump and Deutsche Bank: It's Complicated",
+          "url": "https://www.wnycstudios.org/podcasts/trumpinc/episodes/trump-inc-trump-deutsche-bank-its-complicated",
+          "documentType": "podcast transcript",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": ["event-075"],
+      "era": "era-004",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-079",
+      "date": "1999-09-01",
+      "startDate": "1999-09-01",
+      "endDate": "1999-09-01",
+      "title": "Trump founds Trump Model Management",
+      "description": "Trump expands his entertainment business portfolio by founding a modeling agency, initially called 'T Models' and later Trump Model Management. He poached staff from a rival agency to launch his foray into the fashion world.",
+      "categories": ["business"],
+      "importance": 5,
+      "moneyFlow": {
+        "amount": 0,
+        "direction": "from-trump",
+        "isDirectFlow": true,
+        "entities": ["entity-001", "entity-056"],
+        "description": "Trump founded Trump Model Management (initially called 'T Models') as a new business venture in the fashion industry. While the initial investment amount is not documented, Trump established the modeling agency by recruiting staff from rival agencies to expand his entertainment business portfolio beyond real estate and casinos."
+      },
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-056"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_97-20.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "Trump Models Closing Donald Trump Modeling Agency",
+          "url": "https://www.vogue.com/article/trump-models-closing-donald-trump-modeling-agency",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-004",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-080",
+      "date": "1999-10-07",
+      "startDate": "1999-10-07",
+      "endDate": "1999-10-07",
+      "title": "Trump announces presidential exploratory committee for Reform Party",
+      "description": "Trump announces on CNN's Larry King Live that he is forming a presidential exploratory committee to seek the Reform Party's nomination for 2000. Though he had never held public office, he was well-known from his business exploits and media appearances.",
+      "categories": ["political"],
+      "importance": 7,
+      "moneyFlow": {
+        "amount": 0,
+        "direction": "from-trump",
+        "isDirectFlow": true,
+        "entities": ["entity-001", "entity-057"],
+        "description": "Trump's formation of a presidential exploratory committee for the Reform Party nomination involved campaign expenses, though the exact amount is not documented. This political venture represented a financial investment in raising Trump's national profile, with costs for travel, events, and campaign materials paid from Trump's personal funds."
+      },
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-057"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_97-20.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "Donald Trump 2000 presidential campaign - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump_2000_presidential_campaign",
+          "documentType": "online encyclopedia",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-004",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-081",
+      "date": "1999-06-25",
+      "startDate": "1999-06-25",
+      "endDate": "1999-06-25",
+      "title": "Death of Fred C. Trump",
+      "description": "Fred Trump passes away, leaving his real estate empire and fortune to his children. Investigations later reveal Donald and siblings used dubious tax schemes to inherit assets at reduced tax liability.",
+      "categories": ["personal", "financial"],
+      "importance": 8,
+      "moneyFlow": {
+        "amount": 400000000,
+        "direction": "to-trump",
+        "isDirectFlow": false,
+        "entities": ["entity-003", "entity-001"],
+        "description": "Fred Trump's death resulted in a significant inheritance for Donald Trump and his siblings. According to New York Times investigations, Donald received the equivalent of over $400 million from his father's empire throughout his lifetime, with a substantial portion coming through the estate after Fred's death in 1999. The family had previously engaged in questionable tax schemes to minimize tax liability on this wealth transfer."
+      },
+      "location": {
+        "country": "United States",
+        "city": "",
+        "coordinates": []
+      },
+      "entities": ["entity-003", "entity-001"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_97-20_Assoc_TLDR.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": ["event-042"],
+      "era": "era-002",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-045",
+      "date": "1999-07-01",
+      "startDate": "1999-07-01",
+      "endDate": "1999-07-01",
+      "title": "THCR's failed deal to buy the Flamingo Hilton riverboat in Kansas City",
+      "description": "Trump Hotels & Casino Resorts agrees to purchase the Flamingo Hilton in KC for $15M, but the transaction collapses after Missouri gaming regulators do not approve Trump's license by the deadline.",
+      "categories": ["business", "financial"],
+      "importance": 5,
+      "moneyFlow": {
+        "amount": 15000000,
+        "direction": "restructuring",
+        "isDirectFlow": false,
+        "entities": ["entity-001", "entity-050", "Flamingo Hilton"],
+        "description": "Trump Hotels & Casino Resorts agreed to purchase the Flamingo Hilton riverboat casino in Kansas City for $15 million, but the transaction fell through when Missouri gaming regulators did not approve Trump's license by the deadline. No money ultimately changed hands as the deal collapsed, though both parties had committed resources to the transaction process."
+      },
+      "location": {
+        "country": "United States",
+        "city": "Kansas City",
+        "coordinates": []
+      },
+      "entities": ["entity-001"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_97-20.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-002",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-082",
+      "date": "1999-12-01",
+      "startDate": "1999-12-01",
+      "endDate": "1999-12-01",
+      "title": "Trump divorces Marla Maples",
+      "description": "After separating in 1997, Trump finalizes his divorce from Marla Maples. The settlement reportedly grants Maples ~$2 million. Trump soon hints at a Reform Party presidential run.",
+      "categories": ["personal", "legal"],
+      "importance": 5,
+      "moneyFlow": {
+        "amount": 2000000,
+        "direction": "from-trump",
+        "isDirectFlow": true,
+        "entities": ["entity-001", "entity-031"],
+        "description": "Trump paid approximately $2 million to Marla Maples as part of their divorce settlement after separating in 1997. The settlement came after their brief marriage (1993-1999) and was reportedly much smaller than what Maples had initially sought under their prenuptial agreement."
+      },
+      "location": {
+        "country": "United States",
+        "city": "",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-031"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_97-20_Assoc_TLDR.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-002",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-047",
+      "date": "1999-12-15",
+      "startDate": "1999-12-15",
+      "endDate": "1999-12-15",
+      "title": "Trump International Golf Club opens in West Palm Beach",
+      "description": "Trump expands into golf by opening a 27-hole championship course near Mar-a-Lago, marking the start of his worldwide Trump Golf enterprise. Designed by Jim Fazio.",
+      "categories": ["business"],
+      "importance": 6,
+      "moneyFlow": {
+        "amount": 0,
+        "direction": "from-trump",
+        "isDirectFlow": true,
+        "entities": ["entity-001"],
+        "description": "Trump opened the Trump International Golf Club in West Palm Beach, Florida, his first golf property. Built on land near his Mar-a-Lago estate, this expansion into golf resorts marked a strategic diversification of Trump's business portfolio into luxury leisure markets. While the exact development cost is not documented, it represented a significant investment in what would become a growing segment of Trump's brand."
+      },
+      "location": {
+        "country": "United States",
+        "city": "West Palm Beach",
+        "coordinates": []
+      },
+      "entities": ["entity-001"],
+      "sources": [
+        {
+          "description": "Donald Trump's Golf Courses - Business Insider",
+          "url": "",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": ["event-037"],
+      "era": "era-002",
+      "mediaUrls": []
+    }
+  ],
+  "entities": {
+    "entity-001": {
+      "id": "entity-001",
+      "name": "Donald J. Trump",
+      "aliases": ["Donald John Trump", "DJT"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "American",
+      "description": "Real estate developer, future 45th President of the US. By 1999, was diversifying into golf and entertainment while beginning to consider political aspirations.",
+      "roles": ["developer", "businessman", "casino operator", "golf course owner"],
+      "affiliation": [],
+      "significance": 10,
+      "firstAppearance": "1977-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-003": {
+      "id": "entity-003",
+      "name": "Fred C. Trump",
+      "aliases": ["Fred Trump"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "American",
+      "description": "Donald Trump's father, a successful real estate developer who created a substantial portfolio of middle-class housing in New York City. Provided financial support and business mentorship to Donald throughout his career.",
+      "roles": ["real estate developer", "businessman"],
+      "affiliation": [],
+      "significance": 8,
+      "firstAppearance": "",
+      "lastAppearance": "1999-06-25",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": "Fred Trump passed away in June 1999."
+    },
+    "entity-031": {
+      "id": "entity-031",
+      "name": "Marla Maples",
+      "aliases": [],
+      "type": "person",
+      "subtype": "",
+      "nationality": "American",
+      "description": "Donald Trump's second wife. They married in 1993 after having a daughter, Tiffany, and divorced in 1999.",
+      "roles": ["spouse of Donald Trump"],
+      "affiliation": [],
+      "significance": 6,
+      "firstAppearance": "",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-041": {
+      "id": "entity-041",
+      "name": "Deutsche Bank",
+      "aliases": [],
+      "type": "organization",
+      "subtype": "financial-institution",
+      "nationality": "German",
+      "description": "German multinational investment bank that established a crucial lending relationship with Trump. In 1999, its securities arm underwrote $480 million in Trump casino junk bonds after Trump enticed the bond salesmen with a weekend at Mar-a-Lago.",
+      "roles": ["lender", "underwriter"],
+      "affiliation": [],
+      "significance": 8,
+      "firstAppearance": "1998-06-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-050": {
+      "id": "entity-050",
+      "name": "Trump Hotels & Casino Resorts, Inc.",
+      "aliases": ["THCR", "DJT"],
+      "type": "organization",
+      "subtype": "corporation",
+      "nationality": "American",
+      "description": "Trump's publicly traded casino company that carried about $1.7 billion in debt by 1999. Received a financial infusion through junk bonds underwritten by Deutsche Bank to temporarily ease financial pressures.",
+      "roles": ["casino operator", "hotel operator"],
+      "affiliation": [],
+      "significance": 8,
+      "firstAppearance": "1995-06-15",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-056": {
+      "id": "entity-056",
+      "name": "Trump Model Management",
+      "aliases": ["T Models"],
+      "type": "organization",
+      "subtype": "modeling agency",
+      "nationality": "American",
+      "description": "Modeling agency founded by Trump in 1999, initially called 'T Models'. Part of Trump's expansion into entertainment and lifestyle businesses beyond real estate.",
+      "roles": ["talent agency"],
+      "affiliation": [],
+      "significance": 5,
+      "firstAppearance": "1999-09-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-057": {
+      "id": "entity-057",
+      "name": "Reform Party",
+      "aliases": [],
+      "type": "organization",
+      "subtype": "political party",
+      "nationality": "American",
+      "description": "American third party founded by Ross Perot in 1995. Trump sought its presidential nomination in 1999-2000 before withdrawing from the race in February 2000.",
+      "roles": ["political party"],
+      "affiliation": [],
+      "significance": 5,
+      "firstAppearance": "1999-10-07",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    }
+  },
+  "relationships": [
+    {
+      "id": "relationship-deutsche-bank-bonds",
+      "source": "entity-041",
+      "target": "entity-050",
+      "type": "financial",
+      "subtype": "underwriting",
+      "description": "Deutsche Bank's securities arm underwrote and sold $480 million in Trump casino junk bonds in 1999, providing critical capital to Trump's publicly traded company.",
+      "strength": 8,
+      "startDate": "1999-05-15",
+      "endDate": "1999-05-15",
+      "isBidirectional": true,
+      "relatedEvents": ["event-078"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": "The junk bond gamble exemplified both Trump's ability to obtain large sums despite his checkered credit history and the high-risk financing strategy he relied on to keep his casinos afloat."
+    },
+    {
+      "id": "relationship-trump-reform-party",
+      "source": "entity-001",
+      "target": "entity-057",
+      "type": "political",
+      "subtype": "candidacy",
+      "description": "Trump formed a presidential exploratory committee to seek the Reform Party's nomination for the 2000 election, campaigning through late 1999 and early 2000.",
+      "strength": 6,
+      "startDate": "1999-10-07",
+      "endDate": "2000-02-14",
+      "isBidirectional": true,
+      "relatedEvents": ["event-080"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    }
+  ],
+  "transactions": [
+    {
+      "id": "transaction-010",
+      "date": "1999-12-01",
+      "fromEntity": "entity-001",
+      "toEntity": "entity-031",
+      "intermediaries": [],
+      "amount": 2000000,
+      "currency": "USD",
+      "amountUSD": 2000000,
+      "type": "legal",
+      "subtype": "divorce settlement",
+      "description": "Divorce settlement payment from Donald Trump to Marla Maples.",
+      "purpose": "Divorce settlement",
+      "method": "Legal settlement",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-082"],
+      "evidenceStrength": "reported",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": ""
+    },
+    {
+      "id": "transaction-deutsche-junk-bonds",
+      "date": "1999-05-15",
+      "fromEntity": "entity-041",
+      "toEntity": "entity-050",
+      "intermediaries": [],
+      "amount": 480000000,
+      "currency": "USD",
+      "amountUSD": 480000000,
+      "type": "financing",
+      "subtype": "bond issuance",
+      "description": "Deutsche Bank's securities arm underwrote and sold $480 million in high-yield junk bonds for Trump Hotels & Casino Resorts.",
+      "purpose": "Casino financing",
+      "method": "Bond issuance",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-078"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "This infusion temporarily eased financial pressures, but as some analysts feared, Trump's company soon defaulted on portions of this debt."
+    }
+  ],
+  "intelligenceActivities": []
+}

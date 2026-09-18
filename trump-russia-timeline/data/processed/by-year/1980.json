@@ -1,0 +1,418 @@
+{
+  "events": [
+    {
+      "id": "event-1980-grand-hyatt",
+      "date": "1980-09-01",
+      "startDate": "1980-09-01",
+      "endDate": "1980-09-01",
+      "title": "Trump and Hyatt open the Grand Hyatt Hotel in Manhattan",
+      "description": "Trump's first major Manhattan deal was completed with the opening of the Grand Hyatt Hotel (formerly the Commodore Hotel). This project was made possible through an unprecedented 40-year tax abatement from New York City, a partnership with the Pritzker family's Hyatt Hotels, and innovative public-private financing through the New York State Urban Development Corporation. The deal featured a $70 million construction loan jointly guaranteed by Fred Trump and Hyatt, with the UDC acquiring the hotel and leasing it back to Trump and Hyatt tax-free for 40 years. This project launched Trump's public reputation as a major developer and demonstrated his ability to leverage political connections, family resources, and public subsidies for private gain.",
+      "categories": ["business", "financial", "political"],
+      "importance": 8,
+      "moneyFlow": {
+        "amount": 70000000,
+        "direction": "to-trump",
+        "isDirectFlow": false,
+        "entities": ["entity-pritzker", "entity-001", "entity-fred-trump"],
+        "description": "Construction loan jointly guaranteed by Fred Trump and Hyatt Hotels (Pritzker family), with public subsidy through a 40-year tax abatement representing hundreds of millions in foregone tax revenue."
+      },
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": [40.7527, -73.9772]
+      },
+      "entities": ["entity-001", "entity-pritzker", "entity-fred-trump", "entity-nyc-udc"],
+      "sources": [
+        {
+          "description": "Business career of Donald Trump - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Business_career_of_Donald_Trump",
+          "documentType": "webpage",
+          "citation": "Trump's first major deal in Manhattan was the renovation of the derelict Commodore Hotel next to Grand Central Terminal, which became the Grand Hyatt New York. The project was largely funded by a $70 million construction loan jointly guaranteed by Fred Trump and the Hyatt hotel chain."
+        },
+        {
+          "description": "Trump and the Artifice of the Deal - POLITICO Magazine",
+          "url": "https://www.politico.com/magazine/story/2016/05/donald-trump-2016-father-artifice-of-the-deal-213888",
+          "documentType": "article",
+          "citation": "Bailkin's ingenious idea was for the city to lease the property to the state Urban Development Corporation, which was then empowered to override local land-use regulations and could legally acquire title to the hotel through a process called 'friendly condemnation,' and then assign Trump all of the financial benefits of ownership, including the right to an extraordinary tax abatement—40 years—that would save him hundreds of millions of dollars."
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-002",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-1980-offshore-intelligence",
+      "date": "1980-01-01",
+      "startDate": "1980-01-01",
+      "endDate": "1980-12-31",
+      "title": "Early offshore financial and intelligence indicators emerge",
+      "description": "1980 marked the emergence of two significant patterns that would later intersect with Trump's affairs: the expansion of offshore financial structures by his business associates and increased intelligence monitoring of Trump. The Pritzker family (Trump's partners in the Grand Hyatt) established multiple Bermuda-based companies in 1980, including Western International Financial Group Ltd. and THL Ltd., indicating early offshore financial activity by Trump's close business partners. Simultaneously, following Trump's 1977 marriage to Czech-born Ivana Zelníčková, the Czechoslovak State Security (StB) had begun surveilling the couple. By 1980, their surveillance intensified with Ivana's father Miloš Zelníček serving as an informant, providing the StB with updates on Trump's business dealings and personal life. The StB routinely shared this intelligence with the Soviet KGB, effectively putting Trump on Moscow's radar even before his 1987 Moscow visit.",
+      "categories": ["intelligence", "financial", "political"],
+      "importance": 7,
+      "moneyFlow": {
+        "amount": 0,
+        "direction": "to-trump",
+        "isDirectFlow": false,
+        "entities": ["entity-pritzker", "entity-stb"],
+        "description": "The Pritzker family established offshore entities in Bermuda, including Western International Financial Group Ltd. (March 1980) and THL Ltd. (November 1980), while partnering with Trump on the Grand Hyatt project."
+      },
+      "location": {
+        "country": "Multiple",
+        "city": "Multiple",
+        "coordinates": []
+      },
+      "entities": ["entity-001", "entity-pritzker", "entity-stb", "entity-kgb", "entity-ivana-trump"],
+      "sources": [
+        {
+          "description": "ICIJ Offshore Leaks Database - Thomas Jay Pritzker",
+          "url": "https://offshoreleaks.icij.org/nodes/80114373",
+          "documentType": "database",
+          "citation": "Thomas 'Jay' Pritzker (Hyatt's co-founder) is listed as shareholder of several Bermuda companies formed in 1980 - precisely when the Grand Hyatt project was underway. These include Western International Financial Group Ltd. (incorporated March 13, 1980) and THL Ltd. (incorporated Nov 20, 1980)."
+        },
+        {
+          "description": "Czechoslovak secret police files reveal interest in Trump couple",
+          "url": "https://english.radio.cz/czechoslovak-secret-police-files-reveal-interest-trump-couple-8207116",
+          "documentType": "article",
+          "citation": "Newly examined archive materials studied by the Czech Institute for the Study of Totalitarian Regimes reveal that the state security service (StB) started to monitor Trump as early as 1978, when he married his first wife Ivana Zelníčková."
+        },
+        {
+          "description": "The Hidden History of Trump's First Trip to Moscow",
+          "url": "https://www.politico.com/magazine/story/2017/11/19/trump-first-moscow-trip-215842",
+          "documentType": "article",
+          "citation": "According to files in Prague, the Czechoslovak secret police, known as the StB, opened a file on Trump following his marriage in 1977 to his first wife, Ivana Zelníčková, who was born in Zlín, in what was then the Czechoslovak Socialist Republic, further research by the Czech newspaper Respekt and the website Hlidací Pes documented."
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-002",
+      "mediaUrls": []
+    }
+  ],
+  "entities": {
+    "entity-001": {
+      "id": "entity-001",
+      "name": "Donald J. Trump",
+      "aliases": ["Donald John Trump", "DJT"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "American",
+      "description": "Real estate developer who completed his first major Manhattan project in 1980 with the opening of the Grand Hyatt New York hotel. The project, a renovation of the derelict Commodore Hotel, secured an unprecedented 40-year tax abatement and launched Trump's reputation as a major developer in New York City.",
+      "roles": ["developer", "businessman"],
+      "affiliation": [],
+      "significance": 10,
+      "firstAppearance": "1977-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {
+        "agency": "StB (Czechoslovak State Security)",
+        "relationship": "Subject of surveillance",
+        "timeframe": "1978-1990",
+        "source": "Declassified StB files"
+      },
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-pritzker": {
+      "id": "entity-pritzker",
+      "name": "Pritzker Family",
+      "aliases": ["Hyatt Hotels"],
+      "type": "organization",
+      "subtype": "business",
+      "nationality": "American",
+      "description": "Wealthy Chicago-based family who owned the Hyatt Hotels chain and partnered with Trump on the Grand Hyatt New York project. In 1980, while working with Trump, the family established several offshore entities in Bermuda, including Western International Financial Group Ltd. and THL Ltd., with Thomas Jay Pritzker listed as a shareholder.",
+      "roles": ["hotel operator", "investor", "developer"],
+      "affiliation": [],
+      "significance": 7,
+      "firstAppearance": "1980-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {
+        "estimatedWealth": 0,
+        "knownTransactions": [],
+        "suspiciousActivity": "Established multiple offshore entities in Bermuda in 1980, during partnership with Trump on the Grand Hyatt project"
+      },
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-fred-trump": {
+      "id": "entity-fred-trump",
+      "name": "Fred C. Trump",
+      "aliases": ["Fred Trump"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "American",
+      "description": "Donald Trump's father and a successful real estate developer in his own right. Fred Trump played a crucial role in Donald's early career, providing financial backing and guarantees for the Grand Hyatt project, as well as leveraging his political connections to help secure the unprecedented tax abatement.",
+      "roles": ["developer", "financier", "mentor"],
+      "affiliation": [],
+      "significance": 7,
+      "firstAppearance": "1977-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-nyc-udc": {
+      "id": "entity-nyc-udc",
+      "name": "New York State Urban Development Corporation",
+      "aliases": ["UDC"],
+      "type": "organization",
+      "subtype": "government",
+      "nationality": "American",
+      "description": "State agency that participated in the Grand Hyatt deal by acquiring the hotel and leasing it back to Trump and Hyatt tax-free for 40 years, enabling the unprecedented tax abatement that made the project financially viable.",
+      "roles": ["government agency", "facilitator"],
+      "affiliation": [],
+      "significance": 6,
+      "firstAppearance": "1978-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-stb": {
+      "id": "entity-stb",
+      "name": "Czechoslovak State Security",
+      "aliases": ["StB", "Státní bezpečnost"],
+      "type": "organization",
+      "subtype": "intelligence agency",
+      "nationality": "Czechoslovak",
+      "description": "Communist Czechoslovakia's intelligence and security agency that monitored Donald Trump following his 1977 marriage to Czech native Ivana Zelníčková. The StB used informants, including Ivana's father, to gather information on Trump's business activities and personal life, and routinely shared intelligence with the Soviet KGB.",
+      "roles": ["intelligence agency", "surveillance"],
+      "affiliation": ["entity-kgb"],
+      "significance": 7,
+      "firstAppearance": "1978-01-01",
+      "lastAppearance": "1990-12-31",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {
+        "agency": "KGB",
+        "relationship": "Intelligence sharing",
+        "timeframe": "1978-1990",
+        "source": "Declassified StB files and former intelligence officers' accounts"
+      },
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-kgb": {
+      "id": "entity-kgb",
+      "name": "Committee for State Security",
+      "aliases": ["KGB", "Komitet Gosudarstvennoy Bezopasnosti"],
+      "type": "organization",
+      "subtype": "intelligence agency",
+      "nationality": "Soviet",
+      "description": "The Soviet Union's main security agency that received intelligence about Donald Trump from the Czechoslovak StB throughout the late 1970s and 1980s, putting Trump on their radar well before his 1987 visit to Moscow.",
+      "roles": ["intelligence agency", "surveillance"],
+      "affiliation": ["entity-stb"],
+      "significance": 8,
+      "firstAppearance": "1978-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {
+        "agency": "StB",
+        "relationship": "Intelligence sharing",
+        "timeframe": "1978-1990",
+        "source": "Declassified files and former intelligence officers' accounts"
+      },
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-ivana-trump": {
+      "id": "entity-ivana-trump",
+      "name": "Ivana Trump",
+      "aliases": ["Ivana Zelníčková", "Ivana Marie Trump"],
+      "type": "person",
+      "subtype": "spouse",
+      "nationality": "Czechoslovak-American",
+      "description": "Donald Trump's first wife, a Czechoslovak-born former model and skier who married Trump in 1977. Her background as a citizen from a Warsaw Pact country led to surveillance of the couple by the Czechoslovak StB, with information being passed to the Soviet KGB. Her father, Miloš Zelníček, was compelled to act as an informant, reporting on the Trumps' activities and business dealings.",
+      "roles": ["spouse", "businesswoman"],
+      "affiliation": [],
+      "significance": 7,
+      "firstAppearance": "1977-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {
+        "agency": "StB (through father as informant)",
+        "relationship": "Subject of surveillance/family connection to informant",
+        "timeframe": "1977-1990",
+        "source": "Declassified StB files"
+      },
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    }
+  },
+  "relationships": [
+    {
+      "id": "relationship-trump-hyatt-1980",
+      "source": "entity-001",
+      "target": "entity-pritzker",
+      "type": "business",
+      "subtype": "partnership",
+      "description": "Donald Trump partnered with the Pritzker family (owners of Hyatt Hotels) to transform the derelict Commodore Hotel into the Grand Hyatt New York. This 50/50 joint venture marked Trump's first major Manhattan development and established his reputation as a serious developer.",
+      "strength": 8,
+      "startDate": "1978-01-01",
+      "endDate": "1980-12-31",
+      "isBidirectional": true,
+      "relatedEvents": ["event-1980-grand-hyatt"],
+      "evidenceStrength": "confirmed",
+      "sources": [
+        {
+          "description": "Business career of Donald Trump - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Business_career_of_Donald_Trump",
+          "documentType": "webpage",
+          "citation": "Trump's first major deal in Manhattan was the renovation of the derelict Commodore Hotel next to Grand Central Terminal, which became the Grand Hyatt New York."
+        }
+      ],
+      "documentationLink": "",
+      "notes": "The partnership would continue until 1996 when the Pritzker family bought out Trump's 50% stake in the Grand Hyatt New York for $140 million."
+    },
+    {
+      "id": "relationship-trump-stb-1980",
+      "source": "entity-001",
+      "target": "entity-stb",
+      "type": "intelligence",
+      "subtype": "surveillance",
+      "description": "The Czechoslovak State Security (StB) monitored Donald Trump following his 1977 marriage to Czech-born Ivana Zelníčková. By 1980, this surveillance was well-established, with Ivana's father providing information to the StB about Trump's business activities and personal life.",
+      "strength": 7,
+      "startDate": "1978-01-01",
+      "endDate": "1990-12-31",
+      "isBidirectional": false,
+      "relatedEvents": ["event-1980-offshore-intelligence"],
+      "evidenceStrength": "confirmed",
+      "sources": [
+        {
+          "description": "Czechoslovak secret police files reveal interest in Trump couple",
+          "url": "https://english.radio.cz/czechoslovak-secret-police-files-reveal-interest-trump-couple-8207116",
+          "documentType": "article",
+          "citation": "Newly examined archive materials studied by the Czech Institute for the Study of Totalitarian Regimes reveal that the state security service (StB) started to monitor Trump as early as 1978, when he married his first wife Ivana Zelníčková."
+        }
+      ],
+      "documentationLink": "",
+      "notes": "The StB routinely shared intelligence about Trump with the Soviet KGB, placing him on Moscow's radar years before his 1987 visit."
+    },
+    {
+      "id": "relationship-stb-kgb-1980",
+      "source": "entity-stb",
+      "target": "entity-kgb",
+      "type": "intelligence",
+      "subtype": "intelligence-sharing",
+      "description": "The Czechoslovak StB routinely shared intelligence with the Soviet KGB, including information gathered on Donald Trump through their surveillance operation. This cooperation meant that Moscow was receiving reports about Trump's business activities and potential political aspirations as early as 1980.",
+      "strength": 9,
+      "startDate": "1978-01-01",
+      "endDate": "1990-12-31",
+      "isBidirectional": true,
+      "relatedEvents": ["event-1980-offshore-intelligence"],
+      "evidenceStrength": "confirmed",
+      "sources": [
+        {
+          "description": "Czechoslovakia's spy agency targeted Donald Trump in 1980s",
+          "url": "https://www.telegraph.co.uk/news/2018/10/29/czechoslovakias-spy-agency-targeted-donald-trump-1980s-wife/",
+          "documentType": "article",
+          "citation": "Mr Daněk said his superiors would have passed any intelligence gathered straight on to Russia's KGB."
+        }
+      ],
+      "documentationLink": "",
+      "notes": "The intelligence sharing was part of standard procedure among Warsaw Pact security services during the Cold War."
+    }
+  ],
+  "transactions": [
+    {
+      "id": "transaction-grand-hyatt-1980",
+      "date": "1980-09-01",
+      "title": "Completion of the Grand Hyatt Hotel transformation",
+      "description": "The Grand Hyatt New York (formerly the Commodore Hotel) opened in September 1980 after a complete renovation. This project was Trump's first major Manhattan deal and launched his reputation as a significant developer. The project was financed by a $70 million construction loan jointly guaranteed by Fred Trump and Hyatt, with additional support from a 40-year tax abatement - the first ever given to a commercial property in New York City.",
+      "type": "real-estate",
+      "amount": 70000000,
+      "currency": "USD",
+      "status": "completed",
+      "parties": {
+        "sender": {
+          "entity": "entity-pritzker",
+          "role": "co-developer"
+        },
+        "receiver": {
+          "entity": "entity-001",
+          "role": "co-developer"
+        }
+      },
+      "locations": {
+        "source": "United States",
+        "destination": "United States"
+      },
+      "paymentMethod": "joint-venture",
+      "properties": {
+        "propertyAddress": "109 East 42nd Street, New York, NY",
+        "propertySize": "Former Commodore Hotel",
+        "propertyDescription": "25-story luxury hotel at Grand Central Terminal"
+      },
+      "sources": [
+        {
+          "description": "Trump and the Artifice of the Deal - POLITICO Magazine",
+          "url": "https://www.politico.com/magazine/story/2016/05/donald-trump-2016-father-artifice-of-the-deal-213888",
+          "documentType": "article",
+          "citation": "The project was largely funded by a $70 million construction loan jointly guaranteed by Fred Trump and the Hyatt hotel chain."
+        }
+      ],
+      "relatedEvents": ["event-1980-grand-hyatt"],
+      "relatedTransactions": [],
+      "notes": "The deal leveraged public subsidies through an unprecedented 40-year tax abatement from New York City, which would later be estimated to have cost the city over $400 million in foregone tax revenue. The structure involved the Urban Development Corporation taking ownership of the property and leasing it back to Trump and Hyatt for a nominal fee."
+    }
+  ],
+  "intelligenceActivities": [
+    {
+      "id": "intelligence-stb-trump-1980",
+      "date": "1980-01-01",
+      "startDate": "1980-01-01",
+      "endDate": "1980-12-31",
+      "agency": "Czechoslovak State Security (StB)",
+      "country": "Czechoslovakia",
+      "activityType": "Surveillance and intelligence gathering",
+      "targets": ["entity-001", "entity-ivana-trump"],
+      "operators": ["entity-stb"],
+      "description": "The Czechoslovak State Security (StB) conducted surveillance of Donald Trump and his Czech-born wife Ivana during 1980, gathering information about Trump's business activities, wealth, and personal life. This surveillance included using Ivana's father, Miloš Zelníček, as an informant who provided regular updates to the StB about his daughter and son-in-law. Information collected by the StB was routinely shared with the Soviet KGB, effectively putting Trump on Moscow's radar years before his 1987 visit to the Soviet Union.",
+      "objectives": ["Monitor Trump's business activities and wealth", "Gather intelligence on potential political aspirations", "Obtain insights into American business and political circles through Trump"],
+      "outcomes": ["Established ongoing surveillance operation", "Created intelligence file on Trump shared with KGB", "Positioned Trump as a person of interest to Soviet intelligence"],
+      "relatedEvents": ["event-1980-offshore-intelligence"],
+      "classification": "Top Secret",
+      "declassificationDate": "2016-01-01",
+      "evidenceStrength": "confirmed",
+      "sources": [
+        {
+          "description": "Czechoslovak secret police files reveal interest in Trump couple",
+          "url": "https://english.radio.cz/czechoslovak-secret-police-files-reveal-interest-trump-couple-8207116",
+          "documentType": "article",
+          "citation": "The archives also reveal a clear picture of how Ivana's father, Miloš Zelníček, was used as a 'confidential informant' by the secret police. Petr Blažek of the Institute for the Study of Totalitarian Regimes explained: 'Miloš Zelníček was registered as a confidential contact of the StB under the code name Miloš and his relationship with the secret police lasted for at least ten years.'"
+        },
+        {
+          "description": "The Hidden History of Trump's First Trip to Moscow",
+          "url": "https://www.politico.com/magazine/story/2017/11/19/trump-first-moscow-trip-215842",
+          "documentType": "article",
+          "citation": "According to files in Prague, the Czechoslovak secret police, known as the StB, opened a file on Trump following his marriage in 1977 to his first wife, Ivana Zelníčková, who was born in Zlín, in what was then the Czechoslovak Socialist Republic."
+        }
+      ],
+      "documentationLink": "",
+      "notes": "This intelligence activity represents an early intersection between Trump and Eastern Bloc intelligence services, beginning a pattern of interest and surveillance that would continue and expand over subsequent years."
+    }
+  ]
+}

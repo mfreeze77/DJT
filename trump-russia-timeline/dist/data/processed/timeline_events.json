@@ -1,0 +1,92 @@
+{
+  "events": [
+    {
+      "id": "event-001",
+      "date": "1977-04-01",
+      "title": "Trump marries Ivana Zelníčková",
+      "description": "Donald Trump marries Ivana Zelníčková, a model from Czechoslovakia.",
+      "category": "personal",
+      "importance": 7
+    },
+    {
+      "id": "event-002",
+      "date": "1980-07-01",
+      "title": "Trump opens Grand Hyatt New York",
+      "description": "Trump completes his first major Manhattan real estate project, the Grand Hyatt New York.",
+      "category": "business",
+      "importance": 6
+    },
+    {
+      "id": "event-003",
+      "date": "1983-11-15",
+      "title": "Trump Tower opens",
+      "description": "Trump Tower opens on Fifth Avenue in Manhattan.",
+      "category": "business",
+      "importance": 8
+    },
+    {
+      "id": "event-004",
+      "date": "1984-04-01",
+      "title": "Trump opens Harrah's at Trump Plaza",
+      "description": "Trump opens his first casino in Atlantic City.",
+      "category": "business",
+      "importance": 7
+    },
+    {
+      "id": "event-005",
+      "date": "1986-03-01",
+      "title": "Trump meets Soviet Ambassador Dubinin",
+      "description": "Soviet Ambassador Yuri Dubinin meets Trump and flatters him on Trump Tower, beginning cultivation.",
+      "category": "intelligence",
+      "importance": 9
+    },
+    {
+      "id": "event-007",
+      "date": "1987-07-01",
+      "title": "Trump visits Moscow",
+      "description": "Trump and Ivana travel to Moscow at the invitation of the Soviet government to discuss hotel projects.",
+      "category": "business",
+      "importance": 10
+    },
+    {
+      "id": "event-008",
+      "date": "1987-09-02",
+      "title": "Trump places political ads",
+      "description": "Shortly after Moscow trip, Trump places full-page ads in major newspapers criticizing US defense spending.",
+      "category": "political",
+      "importance": 8
+    },
+    {
+      "id": "event-009",
+      "date": "1988-12-01",
+      "title": "Trump purchases Plaza Hotel",
+      "description": "Trump purchases the Plaza Hotel in New York for $407 million.",
+      "category": "financial",
+      "importance": 6
+    },
+    {
+      "id": "event-010",
+      "date": "1989-10-10",
+      "title": "Trump bails out of Soviet hotel deal",
+      "description": "Trump signs a deal with two Moscow agencies to develop a hotel project, but later backs out.",
+      "category": "business",
+      "importance": 7
+    },
+    {
+      "id": "event-011",
+      "date": "1990-08-01",
+      "title": "Trump faces financial troubles",
+      "description": "Trump faces severe financial difficulties with his Atlantic City casinos and other properties.",
+      "category": "financial",
+      "importance": 9
+    },
+    {
+      "id": "event-012",
+      "date": "1991-07-01",
+      "title": "Trump Casino bankruptcy",
+      "description": "Trump's Taj Mahal casino files for Chapter 11 bankruptcy.",
+      "category": "financial",
+      "importance": 8
+    }
+  ]
+}

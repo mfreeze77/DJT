@@ -1,0 +1,229 @@
+{
+  "events": [
+    {
+      "id": "event-050",
+      "date": "2002-02-01",
+      "startDate": "2002-02-01",
+      "endDate": "2002-02-01",
+      "title": "Trump acquires Hotel Delmonico, begins condo conversion",
+      "description": "Trump buys the historic Hotel Delmonico in Manhattan for roughly $115 million, with plans to redevelop it into a luxury condominium building. Financing details remain partly undisclosed.",
+      "categories": ["business", "financial"],
+      "importance": 6,
+      "moneyFlow": {
+        "amount": 115000000,
+        "direction": "from-trump",
+        "isDirectFlow": true,
+        "entities": ["entity-001"],
+        "description": "Trump purchased the historic Hotel Delmonico in Manhattan for approximately $115 million with plans to convert it into luxury condominiums. The financing details for this acquisition were only partially disclosed."
+      },
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": []
+      },
+      "entities": ["entity-001"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_201-204.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-100",
+      "date": "2002-01-16",
+      "startDate": "2002-01-16",
+      "endDate": "2002-01-16",
+      "title": "SEC settlement with Trump Hotels & Casino Resorts",
+      "description": "The Securities and Exchange Commission charged Trump Hotels & Casino Resorts with issuing a misleading earnings statement. The company settled without admitting wrongdoing, agreeing to cease and desist from similar practices.",
+      "categories": ["business", "financial", "legal"],
+      "importance": 7,
+      "moneyFlow": {
+        "amount": 0,
+        "direction": "restructuring",
+        "isDirectFlow": false,
+        "entities": ["entity-001", "Trump Hotels & Casino Resorts", "SEC"],
+        "description": "While no financial penalty was imposed, the SEC charged Trump Hotels & Casino Resorts with misleading investors by misrepresenting a one-time $17.2 million gain as regular income in a 1999 earnings release. The case was the SEC's first enforcement action under Chairman Harvey Pitt targeting abusive pro-forma earnings releases."
+      },
+      "location": {
+        "country": "United States",
+        "city": "Washington D.C.",
+        "coordinates": []
+      },
+      "entities": ["entity-001"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_201-204.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-101",
+      "date": "2002-11-26",
+      "startDate": "2002-11-26",
+      "endDate": "2002-11-26",
+      "title": "Trump purchases Ocean Trails Golf Course in California",
+      "description": "Trump acquired the bankrupt Ocean Trails golf course in Rancho Palos Verdes, California, which had suffered a landslide in 1999. He would later redesign and rebrand it as Trump National Golf Club Los Angeles, opening in 2006.",
+      "categories": ["business", "financial"],
+      "importance": 6,
+      "moneyFlow": {
+        "amount": 27000000,
+        "direction": "from-trump",
+        "isDirectFlow": true,
+        "entities": ["entity-001"],
+        "description": "Trump purchased the bankrupt Ocean Trails golf course in Rancho Palos Verdes for $27 million, representing a steep discount due to the property's troubled history. The course had suffered a significant landslide in 1999, and Trump invested additional funds to redesign and repair it before reopening it as Trump National Golf Club Los Angeles in 2006."
+      },
+      "location": {
+        "country": "United States",
+        "city": "Rancho Palos Verdes",
+        "coordinates": []
+      },
+      "entities": ["entity-001"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_201-204.md",
+          "url": "",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": [],
+      "era": "era-005",
+      "mediaUrls": []
+    }
+  ],
+  "entities": {
+    "entity-001": {
+      "id": "entity-001",
+      "name": "Donald J. Trump",
+      "aliases": ["Donald John Trump", "DJT"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "American",
+      "description": "Real estate developer and businessman. In 2002, acquired the historic Hotel Delmonico in Manhattan for conversion to luxury condominiums, continuing his focus on high-end real estate development.",
+      "roles": ["developer", "businessman"],
+      "affiliation": [],
+      "significance": 10,
+      "firstAppearance": "1977-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    }
+  },
+  "relationships": [],
+  "transactions": [
+    {
+      "id": "transaction-delmonico",
+      "date": "2002-02-01",
+      "fromEntity": "entity-001",
+      "toEntity": "",
+      "intermediaries": [],
+      "amount": 115000000,
+      "currency": "USD",
+      "amountUSD": 115000000,
+      "type": "property",
+      "subtype": "acquisition",
+      "description": "Trump's purchase of the historic Hotel Delmonico in Manhattan for conversion to condominiums.",
+      "purpose": "Real estate development",
+      "method": "Property acquisition",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-050"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": ""
+    },
+    {
+      "id": "transaction-sec-settlement",
+      "date": "2002-01-16",
+      "fromEntity": "Trump Hotels & Casino Resorts",
+      "toEntity": "SEC",
+      "intermediaries": [],
+      "amount": 0,
+      "currency": "USD",
+      "amountUSD": 0,
+      "type": "regulatory",
+      "subtype": "settlement",
+      "description": "Settlement between Trump Hotels & Casino Resorts and the SEC over misleading financial statements without financial penalty.",
+      "purpose": "Regulatory compliance",
+      "method": "Legal settlement",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-100"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "The SEC specifically stated Donald Trump was not personally involved in crafting the misleading financial release."
+    },
+    {
+      "id": "transaction-ocean-trails",
+      "date": "2002-11-26",
+      "fromEntity": "entity-001",
+      "toEntity": "",
+      "intermediaries": [],
+      "amount": 27000000,
+      "currency": "USD",
+      "amountUSD": 27000000,
+      "type": "property",
+      "subtype": "acquisition",
+      "description": "Trump's purchase of the bankrupt Ocean Trails golf course in Rancho Palos Verdes, California.",
+      "purpose": "Real estate development",
+      "method": "Property acquisition",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-101"],
+      "evidenceStrength": "confirmed",
+      "sources": [],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "The property had suffered a landslide in 1999 and entered bankruptcy, allowing Trump to purchase it at a steep discount."
+    }
+  ],
+  "intelligenceActivities": []
+}

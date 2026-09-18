@@ -1,0 +1,508 @@
+{
+  "events": [
+    {
+      "id": "event-009",
+      "date": "1986-05-23",
+      "startDate": "1986-05-23",
+      "endDate": "1986-05-23",
+      "title": "Trump buys out Holiday Inn's stake in Atlantic City casino",
+      "description": "Following disputes over the casino's performance and management, Trump purchases Holiday Inn's share of Trump Plaza for approximately $70 million, giving him full control of the property. He immediately rebrands it as Trump Plaza, removing the Harrah's name entirely. The buyout represents Trump's growing determination to control his Atlantic City operations independently despite the significant debt required to acquire full ownership.",
+      "categories": ["financial", "business", "legal"],
+      "importance": 7,
+      "moneyFlow": {
+        "amount": 70000000,
+        "direction": "from-trump",
+        "isDirectFlow": true,
+        "entities": ["entity-001", "entity-019"],
+        "description": "Trump's $70 million buyout of Holiday Inn's stake in Trump Plaza Casino was a significant financial transaction that gave him full control of the property. The buyout was largely financed through additional debt, adding to Trump's growing leverage in the Atlantic City market. This transaction represented Trump's determination to operate independently in Atlantic City after conflicts with Holiday Inn over management style and casino performance. The deal came at a premium price but allowed Trump to rebrand the property entirely under his name and control its operation without partner interference."
+      },
+      "location": {
+        "country": "United States",
+        "city": "Atlantic City",
+        "coordinates": [39.3643, -74.4229]
+      },
+      "entities": ["entity-001", "entity-019", "entity-022"],
+      "sources": [
+        {
+          "description": "Tmanch_Fin_83-86.md – buyout of Holiday Inn in 1986",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_Fin_83-86.md",
+          "documentType": "markdown",
+          "citation": ""
+        },
+        {
+          "description": "Trump, Finishing Buyout, Repackages Plaza Casino - NYT",
+          "url": "https://www.nytimes.com/1986/05/27/nyregion/trump-finishing-buyout-repackages-plaza-casino.html",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "relatedEvents": ["event-003", "event-013"],
+      "era": "era-001",
+      "mediaUrls": []
+    },
+    {
+      "id": "event-018",
+      "date": "1986-09-01",
+      "startDate": "1986-09-01",
+      "endDate": "1986-09-01",
+      "title": "Yuri Dubinin, Soviet ambassador, initiates contact with Trump in New York",
+      "description": "Soviet Ambassador Yuri Dubinin approaches Trump at a New York luncheon hosted by Leonard Lauder. Dubinin flatters Trump about Trump Tower, telling him it was his first sight upon arriving in New York City. This calculated approach, which Dubinin's daughter later described as working on Trump 'like honey to a bee,' initiates discussions about a potential Moscow luxury hotel project. The meeting appears to be a deliberate Soviet cultivation effort targeting Trump, who is increasingly viewed as a potentially valuable contact by Soviet intelligence.",
+      "categories": ["political", "intelligence", "business"],
+      "importance": 8,
+      "moneyFlow": {
+        "amount": 0,
+        "direction": "indirect",
+        "isDirectFlow": false,
+        "entities": ["entity-001", "entity-013", "entity-050"],
+        "description": "While no direct financial transaction occurred during this initial meeting, it represented the beginning of a relationship that would lead to significant Soviet investment in Trump through their hosting of his 1987 Moscow trip. The meeting was strategically orchestrated at a luncheon hosted by Leonard Lauder, with Ambassador Dubinin deliberately approaching Trump with flattering comments about Trump Tower. This calculated approach by Soviet officials had indirect economic value in establishing a business relationship that Soviet officials hoped would lead to future development deals in Moscow."
+      },
+      "location": {
+        "country": "United States",
+        "city": "New York",
+        "coordinates": [40.7589, -73.9851]
+      },
+      "entities": ["entity-001", "entity-013", "entity-016"],
+      "sources": [
+        {
+          "description": "The Hidden History of Trump's First Trip to Moscow - POLITICO Magazine",
+          "url": "https://www.politico.com/magazine/story/2017/11/19/trump-first-moscow-trip-215842",
+          "documentType": "news article",
+          "citation": "As Trump tells it, the genesis of this first Moscow visit was a conversation at a luncheon in the fall of 1986, hosted by Leonard Lauder, the businessman son of cosmetics giant Estée Lauder."
+        },
+        {
+          "description": "Tmanch_CH2.md - 1986 Soviet ambassador meeting",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_CH2.md#early-contacts-with-soviets",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_CH2.md#early-contacts-with-soviets",
+      "relatedEvents": [],
+      "era": "era-001",
+      "mediaUrls": []
+    }
+  ],
+  "entities": {
+    "entity-001": {
+      "id": "entity-001",
+      "name": "Donald J. Trump",
+      "aliases": ["Donald John Trump", "DJT", "The Donald"],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "American",
+      "description": "Real estate developer and businessman who expanded aggressively in the 1980s. Son of Fred Trump, husband to Ivana Trump during this period. Built Trump Tower and entered the Atlantic City casino business, while attracting Soviet/Eastern Bloc intelligence interest.",
+      "roles": ["real estate developer", "casino operator", "businessman"],
+      "affiliation": ["entity-027"],
+      "significance": 10,
+      "firstAppearance": "1977-04-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {
+        "position": "Chairman and President, The Trump Organization"
+      },
+      "intelligenceConnections": {
+        "agency": "KGB/StB",
+        "relationship": "target of interest/cultivation",
+        "timeframe": "1978-1990",
+        "source": "Declassified StB files, testimony of former intelligence officers"
+      },
+      "financialData": {
+        "estimatedWealth": 1000000000,
+        "knownTransactions": ["transaction-001", "transaction-002", "transaction-003", "transaction-004"],
+        "suspiciousActivity": "Multiple cash real estate transactions with Soviet-bloc buyers"
+      },
+      "sources": [
+        {
+          "description": "Tmanch_CH2.md – Trump's business activities 1983-1986",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_CH2.md",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": "During 1983-1986, Trump transformed from a New York real estate developer to a national celebrity businessman with substantial debt-financed ventures in casinos and other sectors."
+    },
+    "entity-013": {
+      "id": "entity-013",
+      "name": "Yuri Dubinin",
+      "aliases": [],
+      "type": "person",
+      "subtype": "diplomat",
+      "nationality": "Soviet",
+      "description": "Soviet ambassador to the United States (1986-1990) who initiated contact with Trump in 1986 by praising Trump Tower. His strategic flattery, described by his daughter as working 'like honey to a bee,' led to discussions about a potential Moscow hotel project and Trump's 1987 trip to the USSR.",
+      "roles": ["diplomat", "intelligence operative"],
+      "affiliation": ["entity-016", "entity-020"],
+      "significance": 8,
+      "firstAppearance": "1986-09-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {
+        "position": "Soviet Ambassador to the United States"
+      },
+      "intelligenceConnections": {
+        "agency": "KGB",
+        "relationship": "diplomatic cover/facilitator",
+        "timeframe": "1986-1987",
+        "source": "Tmanch_CH2.md"
+      },
+      "financialData": {},
+      "sources": [
+        {
+          "description": "The Hidden History of Trump's First Trip to Moscow - POLITICO Magazine",
+          "url": "https://www.politico.com/magazine/story/2017/11/19/trump-first-moscow-trip-215842/",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_CH2.md#early-contacts-with-soviets",
+      "notes": "Dubinin's cultivation of Trump appears to have been authorized at high levels within the Soviet government and intelligence apparatus."
+    },
+    "entity-016": {
+      "id": "entity-016",
+      "name": "KGB",
+      "aliases": ["Committee for State Security"],
+      "type": "organization",
+      "subtype": "intelligence agency",
+      "nationality": "Soviet",
+      "description": "Soviet foreign intelligence and domestic security service. Received information on Trump via the Czechoslovak StB, and later directly targeted Trump during his 1987 Moscow visit through Intourist (a KGB front). Internal directives in the mid-1980s specifically called for recruiting influential foreigners with traits like 'narcissism and corruption.'",
+      "roles": ["intelligence agency"],
+      "affiliation": ["entity-020"],
+      "significance": 9,
+      "firstAppearance": "",
+      "lastAppearance": "1991-12-31",
+      "images": [],
+      "properties": {
+        "dissolutionDate": "1991-12-31"
+      },
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [
+        {
+          "description": "Tmanch_CH2.md - KGB cultivation efforts",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_CH2.md#kgb-cultivation-efforts",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_CH2.md#kgb-cultivation-efforts",
+      "notes": "The KGB viewed Trump as a target of interest due to his rising profile and potential future political ambitions."
+    },
+    "entity-019": {
+      "id": "entity-019",
+      "name": "Holiday Inn Corporation",
+      "aliases": [],
+      "type": "organization",
+      "subtype": "hospitality",
+      "nationality": "American",
+      "description": "Hotel company that co-financed Trump's first Atlantic City casino (via its Harrah's division) in 1982.",
+      "roles": [],
+      "affiliation": [],
+      "significance": 7,
+      "firstAppearance": "1982-01-01",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [],
+      "documentationLink": "",
+      "notes": ""
+    },
+    "entity-020": {
+      "id": "entity-020",
+      "name": "Soviet Government",
+      "aliases": ["USSR"],
+      "type": "organization",
+      "subtype": "government",
+      "nationality": "Soviet",
+      "description": "Government of the Soviet Union. Oversaw KGB operations and outreach to Western business figures during the final decades of the Cold War. Through Ambassador Dubinin and the state tourism agency Intourist, facilitated Trump's 1987 visit to Moscow to discuss a potential hotel project.",
+      "roles": ["foreign government"],
+      "affiliation": [],
+      "significance": 8,
+      "firstAppearance": "",
+      "lastAppearance": "1991-12-31",
+      "images": [],
+      "properties": {
+        "dissolutionDate": "1991-12-31"
+      },
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [
+        {
+          "description": "Tmanch_CH2.md - Soviet government connections",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_CH2.md#the-1987-moscow-trip--the-proposed-luxury-hotel",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": "The Soviet government's economic difficulties by the mid-1980s limited the realization of Trump's Moscow hotel ambitions, despite high-level interest in cultivating him."
+    },
+    "entity-022": {
+      "id": "entity-022",
+      "name": "Trump Plaza (Atlantic City)",
+      "aliases": ["Trump Plaza"],
+      "type": "property",
+      "subtype": "casino",
+      "nationality": "American",
+      "description": "Trump's first Atlantic City casino, opened in May, 1984 as a joint venture with Holiday Inn/Harrah's. Initially branded as 'Harrah's at Trump Plaza' until Trump bought out his partners in 1986, renaming it simply 'Trump Plaza.' The 39-story, 614-room casino-hotel was located on the Boardwalk.",
+      "roles": [],
+      "affiliation": [],
+      "significance": 7,
+      "firstAppearance": "1984-05-14",
+      "lastAppearance": "",
+      "images": [],
+      "properties": {
+        "location": "Atlantic City, New Jersey",
+        "propertyValue": 210000000
+      },
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [
+        {
+          "description": "Tmanch_Fin_83-86.md - Trump Plaza details",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_Fin_83-86.md",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": "Trump Plaza marked Trump's first major expansion beyond New York real estate into the casino industry."
+    },
+    "entity-050": {
+      "id": "entity-050",
+      "name": "Leonard Lauder",
+      "aliases": [],
+      "type": "person",
+      "subtype": "businessman",
+      "nationality": "American",
+      "description": "American businessman, Chairman Emeritus of The Estée Lauder Companies, son of cosmetics giant Estée Lauder. Hosted the New York luncheon in 1986 where Soviet Ambassador Yuri Dubinin first approached Donald Trump.",
+      "roles": ["business executive", "philanthropist"],
+      "affiliation": [],
+      "significance": 5,
+      "firstAppearance": "1986-09-01",
+      "lastAppearance": "1986-09-01",
+      "images": [],
+      "properties": {},
+      "intelligenceConnections": {},
+      "financialData": {},
+      "sources": [
+        {
+          "description": "The Hidden History of Trump's First Trip to Moscow - POLITICO Magazine",
+          "url": "https://www.politico.com/magazine/story/2017/11/19/trump-first-moscow-trip-215842",
+          "documentType": "news article",
+          "citation": "As Trump tells it, the genesis of this first Moscow visit was a conversation at a luncheon in the fall of 1986, hosted by Leonard Lauder, the businessman son of cosmetics giant Estée Lauder."
+        }
+      ],
+      "documentationLink": "",
+      "notes": "Lauder's role was significant as he provided the venue where Soviet officials first approached Trump, though there's no evidence Lauder was aware of the KGB's reported interest in cultivating Trump."
+    }
+  },
+  "relationships": [
+    {
+      "id": "relationship-kgb-trump",
+      "source": "entity-016",
+      "target": "entity-001",
+      "type": "intelligence-operation",
+      "subtype": "cultivation",
+      "description": "The KGB identified Trump as a target for cultivation, using Ambassador Dubinin as an initial contact point in 1986. This established relationship led to Trump's 1987 Moscow visit.",
+      "strength": 8,
+      "startDate": "1986-09-01",
+      "endDate": "",
+      "isBidirectional": false,
+      "relatedEvents": ["event-010", "event-018"],
+      "evidenceStrength": "reported",
+      "sources": [
+        {
+          "description": "Tmanch_CH2.md - KGB cultivation efforts",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_CH2.md#kgb-cultivation-efforts",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": "According to former KGB officers, the initial contact was deliberately orchestrated based on Trump's psychological profile and known susceptibility to flattery."
+    },
+    {
+      "id": "relationship-dubinin-trump",
+      "source": "entity-013",
+      "target": "entity-001",
+      "type": "diplomatic",
+      "subtype": "business development",
+      "description": "Yuri Dubinin established a relationship with Trump in 1986, discussing potential Soviet-American business opportunities, particularly a luxury hotel in Moscow.",
+      "strength": 7,
+      "startDate": "1986-09-01",
+      "endDate": "",
+      "isBidirectional": true,
+      "relatedEvents": ["event-010", "event-018"],
+      "evidenceStrength": "confirmed",
+      "sources": [
+        {
+          "description": "The Hidden History of Trump's First Trip to Moscow - POLITICO Magazine",
+          "url": "https://www.politico.com/magazine/story/2017/11/19/trump-first-moscow-trip-215842/",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": "Dubinin's daughter later confirmed that her father had deliberately targeted Trump using techniques designed to appeal to his ego."
+    },
+    {
+      "id": "relationship-trump-holiday",
+      "source": "entity-001",
+      "target": "entity-019",
+      "type": "business",
+      "subtype": "partnership dissolution",
+      "description": "Trump and Holiday Inn had a business partnership for Trump Plaza Casino in Atlantic City that ended in 1986 when Trump bought out Holiday Inn's stake.",
+      "strength": 7,
+      "startDate": "1982-01-01",
+      "endDate": "1986-05-23",
+      "isBidirectional": true,
+      "relatedEvents": ["event-009"],
+      "evidenceStrength": "confirmed",
+      "sources": [
+        {
+          "description": "Trump, Finishing Buyout, Repackages Plaza Casino - NYT",
+          "url": "https://www.nytimes.com/1986/05/27/nyregion/trump-finishing-buyout-repackages-plaza-casino.html",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": "The partnership dissolution came after ongoing tensions over management style and casino performance, with Holiday Inn executives reportedly disappointed with the casino's earnings."
+    },
+    {
+      "id": "relationship-lauder-trump",
+      "source": "entity-050",
+      "target": "entity-001",
+      "type": "social",
+      "subtype": "business connection",
+      "description": "Leonard Lauder hosted a New York luncheon in fall 1986 where Donald Trump and Soviet Ambassador Yuri Dubinin first met.",
+      "strength": 5,
+      "startDate": "1986-09-01",
+      "endDate": "1986-09-01",
+      "isBidirectional": true,
+      "relatedEvents": ["event-018"],
+      "evidenceStrength": "confirmed",
+      "sources": [
+        {
+          "description": "The Hidden History of Trump's First Trip to Moscow - POLITICO Magazine",
+          "url": "https://www.politico.com/magazine/story/2017/11/19/trump-first-moscow-trip-215842",
+          "documentType": "news article",
+          "citation": "As Trump tells it, the genesis of this first Moscow visit was a conversation at a luncheon in the fall of 1986, hosted by Leonard Lauder, the businessman son of cosmetics giant Estée Lauder."
+        }
+      ],
+      "documentationLink": "",
+      "notes": "Lauder's role was likely unwitting in what former KGB officers have described as a deliberate approach to Trump by Soviet intelligence."
+    }
+  ],
+  "transactions": [
+    {
+      "id": "transaction-plaza-buyout",
+      "date": "1986-05-23",
+      "fromEntity": "entity-001",
+      "toEntity": "entity-019",
+      "intermediaries": [],
+      "amount": 70000000,
+      "currency": "USD",
+      "amountUSD": 70000000,
+      "type": "business",
+      "subtype": "partnership buyout",
+      "description": "Trump's purchase of Holiday Inn's share of Trump Plaza casino for $70 million, giving him full control of the property.",
+      "purpose": "Casino ownership consolidation",
+      "method": "Primarily debt-financed",
+      "isConfirmed": true,
+      "isRussianConnected": false,
+      "russianConnectionType": "",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-009"],
+      "evidenceStrength": "confirmed",
+      "sources": [
+        {
+          "description": "Tmanch_Fin_83-86.md – buyout of Holiday Inn in 1986",
+          "url": "https://github.com/mfreeze77/DJT/blob/main/Tmanch_Fin_83-86.md",
+          "documentType": "markdown",
+          "citation": ""
+        }
+      ],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "This transaction further increased Trump's debt burden while expanding his control over Atlantic City casino operations. The buyout allowed him to immediately rebrand the property, removing all Harrah's signage and fully implementing Trump branding throughout the casino."
+    },
+    {
+      "id": "transaction-dubinin-meeting",
+      "date": "1986-09-01",
+      "fromEntity": "entity-013",
+      "toEntity": "entity-001",
+      "intermediaries": ["entity-050"],
+      "amount": 0,
+      "currency": "USD",
+      "amountUSD": 0,
+      "type": "intelligence",
+      "subtype": "cultivation approach",
+      "description": "Soviet Ambassador Yuri Dubinin's strategic approach to Donald Trump at a luncheon hosted by Leonard Lauder, initiating discussions about potential Moscow hotel projects.",
+      "purpose": "Intelligence cultivation/business development",
+      "method": "Social engineering",
+      "isConfirmed": true,
+      "isRussianConnected": true,
+      "russianConnectionType": "direct Soviet diplomatic/intelligence approach",
+      "jurisdiction": "United States",
+      "relatedEvents": ["event-018"],
+      "evidenceStrength": "reported",
+      "sources": [
+        {
+          "description": "The Hidden History of Trump's First Trip to Moscow - POLITICO Magazine",
+          "url": "https://www.politico.com/magazine/story/2017/11/19/trump-first-moscow-trip-215842",
+          "documentType": "news article",
+          "citation": "As Trump tells it, the genesis of this first Moscow visit was a conversation at a luncheon in the fall of 1986, hosted by Leonard Lauder, the businessman son of cosmetics giant Estée Lauder."
+        }
+      ],
+      "panamaConnection": {
+        "isInPanamaPapers": false,
+        "offshoreEntities": [],
+        "beneficiaries": [],
+        "jurisdictions": [],
+        "leakSource": ""
+      },
+      "documentationLink": "",
+      "notes": "While this encounter had no direct financial value, it initiated a relationship that would lead to Trump's 1987 Moscow trip and represented a significant intelligence operation, as former KGB officers have later confirmed that Trump was identified as a target for cultivation."
+    }
+  ],
+  "intelligenceActivities": [
+    {
+      "id": "intel-dubinin",
+      "date": "1986-09-01",
+      "startDate": "1986-09-01",
+      "endDate": "1987-07-01",
+      "agency": "KGB",
+      "country": "Soviet Union",
+      "activityType": "recruitment approach",
+      "targets": ["entity-001"],
+      "operators": ["entity-013", "entity-016"],
+      "description": "Soviet Ambassador Yuri Dubinin's 1986 approach to Trump appears to have been part of a systematic KGB effort to identify and cultivate potential assets in the American business community.",
+      "objectives": ["Cultivate relationship with influential American businessman", "Develop potential intelligence asset", "Promote Soviet business interests in the US"],
+      "outcomes": ["Successful initial contact established", "Trump invited to visit Moscow in 1987"],
+      "relatedEvents": ["event-010", "event-018"],
+      "classification": "secret",
+      "declassificationDate": "",
+      "evidenceStrength": "reported",
+      "sources": [
+        {
+          "description": "KGB: Trump was 'spotted' as target for influence during 1980s",
+          "url": "https://www.theguardian.com/us-news/2021/jan/29/trump-russia-asset-claims-former-kgb-spy-new-book",
+          "documentType": "news article",
+          "citation": ""
+        }
+      ],
+      "documentationLink": "",
+      "notes": "Multiple former KGB officials have alleged that Trump was identified as a potential recruitment target in the 1980s, with Dubinin playing a key role in the initial approach."
+    }
+  ]
+}
