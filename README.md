@@ -178,7 +178,7 @@ Chapter 9 maps money, gifts, hospitality, sponsorship, business support, relatio
 - [1983–1986 Atlantic City and aviation tranche](Tmanch_Fin_83-86_FOIA_Tranche.md)
 - [Cuba narcotics-route tranche](Tmanch_FOIA_Cuba_79-85.md)
 
-The Chapter 5–7 records plans also include targeted Presidential Records Act, agency FOIA, congressional-subpoena, court-record, corporate-discovery, property-record, sanctions, beneficial-ownership, and blockchain-KYC programs.
+The Chapter 5–9 records plans also include targeted Presidential Records Act, agency FOIA, congressional-subpoena, court-record, corporate-discovery, property-record, sanctions, beneficial-ownership, and blockchain-KYC programs.
 
 ---
 
