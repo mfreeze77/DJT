@@ -1,9 +1,9 @@
 # Chapter 7: From Institutional Withdrawal to Second-Term Payoff Networks
-## January 20, 2025–September 6, 2026
+## January 20, 2025–September 17, 2026
 
-> **Research status:** Rebuilt from the completed Chapters 1–6, reconciled line by line against [`J20-Pres.md`](J20-Pres.md), and updated through September 6, 2026.  
+> **Research status:** Rebuilt from the completed Chapters 1–6, reconciled line by line against [`J20-Pres.md`](J20-Pres.md), and updated through September 17, 2026.  
 > **Supersedes:** The former prospective Chapter 7 and the narrower first reconstruction.  
-> **Related files:** [supporting research](Tmanch_CH7_support.md) · [claim ledger](Tmanch_CH7_claim_ledger.csv) · [payoff ledger](Tmanch_CH7_payoff_ledger.csv) · [J20 reconciliation](Tmanch_CH7_J20_reconciliation.md) · [J20 event ledger](Tmanch_CH7_J20_event_ledger.csv) · [OFAC matrix](Tmanch_CH7_OFAC_license_matrix.csv) · [primary sources](Tmanch_CH7_primary_sources.md) · [Russia–China–Iran targeting and casualty matrix](Tmanch_CH7_Russia_China_Iran_Targeting_Casualty_Matrix.md) · [Russian-source appendix](Tmanch_CH7_russian_sources.md) · [J20 Russian commentary](Tmanch_CH7_J20_russian_commentary.md) · [counterevidence](Tmanch_CH7_counterevidence.md) · [open questions](Tmanch_CH7_open_questions.md)
+> **Related files:** [supporting research](Tmanch_CH7_support.md) · [claim ledger](Tmanch_CH7_claim_ledger.csv) · [payoff ledger](Tmanch_CH7_payoff_ledger.csv) · [J20 reconciliation](Tmanch_CH7_J20_reconciliation.md) · [J20 event ledger](Tmanch_CH7_J20_event_ledger.csv) · [OFAC matrix](Tmanch_CH7_OFAC_license_matrix.csv) · [primary sources](Tmanch_CH7_primary_sources.md) · [Russia–China–Iran targeting and casualty matrix](Tmanch_CH7_Russia_China_Iran_Targeting_Casualty_Matrix.md) · [Russian-source appendix](Tmanch_CH7_russian_sources.md) · [J20 Russian commentary](Tmanch_CH7_J20_russian_commentary.md) · [counterevidence](Tmanch_CH7_counterevidence.md) · [open questions](Tmanch_CH7_open_questions.md) · [Chapter 9 family-value synthesis](Tmanch_CH9.md)
 
 ---
 
@@ -1319,6 +1319,17 @@ The next level of proof will come from records rather than rhetoric:
 - the original Russian non-paper and its transmission chain;
 - frozen-asset policy records;
 - and Russian official records describing private expectations or commitments.
+
+
+## September 2026 continuation: refinery pressure and a new family-value disclosure
+
+On September 13, Trump publicly urged Zelenskyy to stop Ukrainian attacks on Russian diesel and refinery infrastructure, citing a global diesel shortage and record U.S. fuel prices. The economic rationale is material: Ukrainian strikes had reduced Russian refining and export capacity while global fuel markets were already strained. Ukraine responded that it would support reciprocal energy restraint only if the United States could establish genuine Russian compliance; Zelenskyy said no formal agreement had yet been reached.
+
+The correct research question is therefore reciprocity rather than motive by assumption: what written Russian commitment, monitoring mechanism, or reciprocal restraint existed when Trump publicly pressed Ukraine to halt a campaign that was imposing measurable economic costs on Russia?
+
+A second September development belongs primarily in [Chapter 9](Tmanch_CH9.md). ProPublica reported—and Donald Trump Jr. and Bettina Trump subsequently acknowledged in substance—that Russian IBA president Umar Kremlev hosted two nights of their May Bahamas wedding celebrations. The value event is analytically notable because the IBA had publicly sought Trump-administration attention in January 2025, Kremlev and Trump Jr. publicly announced a continuing alliance in September 2025, and Putin awarded Kremlev Russia's Order of Friendship in April 2026. No public evidence presently establishes that the hospitality purchased a U.S. official act.
+
+These events extend the second-term inquiry in two different directions: pressure on Ukraine to suspend a source of economic damage to Russia, and continuing Russian-linked personal value reaching the president's immediate family network. Both require transaction-specific and decision-specific records rather than motive by inference alone.
 
 ---
 

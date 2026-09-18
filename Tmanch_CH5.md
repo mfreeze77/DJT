@@ -629,6 +629,8 @@ The strongest defensible conclusion is therefore:
 
 Chapter 6 follows the network after January 2021: post-presidency finance, Trump Media, renewed election influence, classified-information exposure, and the pathway back to presidential power.
 
+[Chapter 8](Tmanch_CH8.md) now carries the cross-system active-measures analysis that Chapter 5 previously underweighted: the Senate's redacted Kilimnik/GRU hack-and-leak material, the separate Treasury finding that campaign polling and strategy reached Russian intelligence, the dubious Russian intelligence product that affected Comey's 2016 decision process, and the distinction between established foreign operations and the domestic institutional reactions that amplified them.
+
 ---
 
 ## Related research files
