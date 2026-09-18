@@ -1,9 +1,9 @@
 # Current Working Conclusion
 ## Donald J. Trump, Russian Influence, Financial Leverage, and the Functional-Agent Question
-### Coverage: 1977–September 6, 2026
+### Coverage: 1977–September 17, 2026
 
 > **Research status:** Reconstructed from the completed Chapters 1–7 evidence architecture and the financial-flow reconciliation.  
-> **Core supporting files:** [Russian Capital, AML, and Influence Matrix](Tmanch_Russian_Capital_AML_Influence_Matrix.md) · [Russian-linked financial-flow ledger](Tmanch_Russian_Linked_Financial_Flows.csv) · [financial methodology](Tmanch_Russian_Linked_Financial_Methodology.md) · [counterevidence attribution matrix](Tmanch_Conclusion_Attribution_Matrix.csv) · [Chapter 7 J20 reconciliation](Tmanch_CH7_J20_reconciliation.md) · [Russia–China–Iran targeting and casualty matrix](Tmanch_CH7_Russia_China_Iran_Targeting_Casualty_Matrix.md)
+> **Core supporting files:** [Russian Capital, AML, and Influence Matrix](Tmanch_Russian_Capital_AML_Influence_Matrix.md) · [Russian-linked financial-flow ledger](Tmanch_Russian_Linked_Financial_Flows.csv) · [financial methodology](Tmanch_Russian_Linked_Financial_Methodology.md) · [counterevidence attribution matrix](Tmanch_Conclusion_Attribution_Matrix.csv) · [Chapter 7 J20 reconciliation](Tmanch_CH7_J20_reconciliation.md) · [Russia–China–Iran targeting and casualty matrix](Tmanch_CH7_Russia_China_Iran_Targeting_Casualty_Matrix.md) · [Chapter 8 active-measures synthesis](Tmanch_CH8.md) · [Chapter 9 family-value channels](Tmanch_CH9.md)
 
 ---
 
@@ -473,6 +473,14 @@ Chapter 7 also identifies dense private-value/public-action chains involving:
 - and Vietnam’s Trump project during tariff negotiations.
 
 No public record yet proves an express corrupt bargain in every chain. Their density, timing, opacity, and recurrence justify financial tracing, subpoenas, ethics review, and counterintelligence investigation.
+
+Two thematic chapters now separate mechanisms that were previously compressed into Chapters 5 and 7.
+
+[Chapter 8](Tmanch_CH8.md) examines Russian active measures and American institutional reaction. Treasury states that sensitive campaign polling and strategy reached Russian intelligence through Konstantin Kilimnik. Senate Volume 5 separately records information suggesting Kilimnik may have been connected to the GRU hack-and-leak operation, while substantial underlying material remains redacted. The DOJ Inspector General also records that concern about classified information mentioning Loretta Lynch affected Comey's 2016 decision process; documentary reporting described the underlying material as a dubious Russian intelligence product. These records show how foreign intelligence can create domestic institutional effects even when the downstream intent and routing are not fully public.
+
+[Chapter 9](Tmanch_CH9.md) examines foreign value and access involving the Trump family and immediate network. Its newest case study is the Umar Kremlev–Donald Trump Jr. relationship: IBA outreach to the Trump administration in January 2025; a public Kremlev–Trump Jr. partnership announcement in September 2025; Putin's April 2026 Order of Friendship to Kremlev; and ProPublica's September 2026 reporting—later acknowledged in substance by Trump Jr. and Bettina Trump—that Kremlev hosted two nights of their May Bahamas wedding celebrations. No public record currently establishes that the hospitality purchased an official act.
+
+The September 2026 refinery dispute is treated separately as a policy tradeoff. Trump publicly asked Ukraine to stop attacks on Russian diesel and refinery infrastructure, citing global diesel shortages and U.S. fuel prices. Ukraine said it would consider reciprocal energy restraint if Russian compliance could be established and disputed that a formal agreement had already been reached. The evidentiary question is therefore what reciprocal Russian commitment, monitoring mechanism, and enforcement terms existed.
 
 ---
 
