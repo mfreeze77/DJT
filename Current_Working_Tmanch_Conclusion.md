@@ -2,7 +2,7 @@
 ## Donald J. Trump, Russian Influence, Financial Leverage, and the Functional-Agent Question
 ### Coverage: 1977–September 17, 2026
 
-> **Research status:** Reconstructed from the completed Chapters 1–7 evidence architecture and the financial-flow reconciliation.  
+> **Research status:** Reconstructed from the completed Chapters 1–9 evidence architecture and the financial-flow reconciliation.  
 > **Core supporting files:** [Russian Capital, AML, and Influence Matrix](Tmanch_Russian_Capital_AML_Influence_Matrix.md) · [Russian-linked financial-flow ledger](Tmanch_Russian_Linked_Financial_Flows.csv) · [financial methodology](Tmanch_Russian_Linked_Financial_Methodology.md) · [counterevidence attribution matrix](Tmanch_Conclusion_Attribution_Matrix.csv) · [Chapter 7 J20 reconciliation](Tmanch_CH7_J20_reconciliation.md) · [Russia–China–Iran targeting and casualty matrix](Tmanch_CH7_Russia_China_Iran_Targeting_Casualty_Matrix.md) · [Chapter 8 active-measures synthesis](Tmanch_CH8.md) · [Chapter 9 family-value channels](Tmanch_CH9.md)
 
 ---
