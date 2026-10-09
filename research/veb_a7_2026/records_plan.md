@@ -62,3 +62,51 @@ An overlap counts as **transactionally meaningful** only if a specific document 
 ## Research log template
 
 For each new document record: exact URL or court docket; retrieved date; issuing custodian; document date; page/paragraph; parties with original-language spellings and registration numbers; status (original/secondary/official assessment); source lineage; supports/does-not-support; counterevidence; redactions; transaction amount and currency; legal access constraints; reviewer and follow-up. Do not add unverified sums to RF-014 or aggregate them into project totals.
+
+## PR25 update: requests narrowed by records actually obtained
+
+**Not sent; no fees authorized.** Earlier broad targets above remain historical planning. The historical A7 and Exim extracts and the Toronto guarantee/charge copies have now been obtained; request **certification, later amendments and missing operational records**, not another article repeating them. Source keys below refer to sources.csv.
+
+### Priority A — Match seller proceeds to the reported2011 assignment and project cash
+
+**Court-access draft, English High Court HC10C01784:**
+
+> Please identify the lawful public-access procedure for the non-confidential filed documents referred to in Luxe Holding Ltd v Midland Resources Holding Ltd [2010]EWHC1908(Ch), particularly the May19,2010 sale agreement and purchaser schedule, the May19 letter from DerekRoe and SWIFT enclosures referenced at paragraph16, IgorShifrin's June29 witness statement, and the fifth statement/account exhibits referenced at paragraph45. Please state which records are public, any access order required, and fees before supplying chargeable copies. We do not seek sealed documents, source identities or confidential bank reports.
+
+A positive match requires buyer/legal-entity identity and a dated MRHL receiving credit, followed by a matched project funding entry. Records showing different proceeds destinations, a different funding source or prior-funded reserves would weaken the specific steel-proceeds allegation.
+
+**Ontario court/receiver draft, CV-16-11573-00CL:**
+
+> We have reviewed Wolf's October25,2016 affidavit, ExhibitV guarantee and ExhibitW chargeAT1599260. Please identify any public filed copy of the MRHL-to-MDI assignment dated on/about June6,2011 referenced at paragraph74, its consideration and attached debt schedule; the underlying principal/interest rollforward for paragraph71; and nonsealed project-account draw or intercompany schedules. Please distinguish originals already exhibited from later summaries and advise access restrictions before any chargeable step.
+
+The recorded105.651mCAD balance includes interest. Request dated original advances, not simply a later balance; reconcile the reported assignment before naming the2016 creditor.
+
+### Priority B — Obtain actual Trump contracts and fee evidence
+
+**Court-access draft:**
+
+> For the contracts listed in ScheduleA to AppendixA of the FourthReceiverReport, please identify any public executed versions of item2 (TrumpMarksTorontoLP licence dated September25,2007, January30,2012 amendment and June30,2008 security), item3 (TrumpCanadianServicesInc./TrumpTorontoDevelopmentInc. development services), and item12 (January30,2012 non-disturbance). Please also identify public filings containing management fee invoices, receivables reconciliations, paid remittances or termination settlements. We recognize the affidavit's commercial-confidentiality qualification and do not request disclosure contrary to a sealing order.
+
+Separately obtain the original federal financial-disclosure forms underlying WSJ's reported611000USD fees before treating the figure as independently verified. A fee contract or amount owed does not establish payment or its upstream source.
+
+### Priority C — Resolve A7 collateral, borrower and actual advances
+
+**Publisher/document-custodian draft:**
+
+> CIR's A7Abroad, physicalpage5, links FrankMedia207431 and Star-Pro archive.is/cK9QW for the reported February2025 pledge. Please identify the publicly releasable registry extract date, registration entry or pledge instrument, pledgor, pledgee, borrower and secured obligation. Please distinguish A7OGRN1247700586891 from A71OGRN1247700638514, a facility commitment from advances, and amendments from an outstanding balance. We seek public documents or permission to use releasable records, not confidential sources or protected banking reports.
+
+**Issuer disclosure acquisition:** company39813, 2024annual /2025annual /H12026 archives listed September30,2026. Obtain ZIPbytes and hashes, confirm issuer and reporting basis, then inspect related-party debt, collateral, maturity, cashflow and subsequent-events notes. These files were **not obtained** in this wave. The200bnRUB bond programme is a ceiling, not an alternative proof ofVEB funding.
+
+Obtain certified A7historical extracts around February2025 and Exim ownership amendments after October2024. A2024snapshot cannot establish a2025pledge or unchanged2026ownership.
+
+### Priority D — Test the new instrument-level lead
+
+**Public-record inquiry draft:**
+
+> Aragon's2025financial statements, Note16, list13USD-denominated promissory notes issued by OOOA7, including serialA7R0004947 andA7R0010384. Please identify publicly releasable issuer registration details and issuance/redemption registers matching those serials, with confidential account and personal details removed. We seek to verify issuer identity, subscription settlement, carrying-value treatment and redemption; we do not presume that ownership of these notes establishes wrongdoing.
+
+A verified note-series/issuer match strengthens the specific counterparty link. Different issuer identity, cancellation, unsettled subscriptions or valuation adjustments could materially change it. Even a confirmed note holding would not alone trace a VEB advance or foreign payout.
+
+### Priority E — Specific cross-period and policy tests
+
+Seek VEB buyer-finance approvals, unit names and signatory dates only after purchaser identity is resolved. Compare actual named roles against later A7/Exim files; do not search an ever-widening graph of unrelated Russian associations. Keep customs/procurement/payment requests and ICCimplementation-effects records in the policy appendix, outside financial totals unless an actual transaction emerges.
