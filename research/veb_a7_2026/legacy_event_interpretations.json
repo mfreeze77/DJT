@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "as_of": "2026-10-09",
+  "purpose": "Non-destructive controlling interpretation of legacy timeline events; consumers must opt in. Do not mutate source JSON or infer a cash flow.",
+  "source_of_truth": "Tmanch_Russian_Linked_Financial_Flows.csv#RF-014",
+  "entries": [
+    {
+      "canonical_key": "2010:event-081",
+      "path": "trump-russia-timeline/data/processed/by-year/2010.json",
+      "local_id": "event-081",
+      "legacy_money_flow": {
+        "amount": 15000000,
+        "direction": "to-trump",
+        "isDirectFlow": false
+      },
+      "status": "reported_then_withdrawn",
+      "use_in_financial_totals": false,
+      "display_title": "Disputed reported Toronto capital contribution from VEB-linked steel-sale proceeds",
+      "display_note": "A participant's lawyer initially cited about $15m and then withdrew ability to confirm. No bank-level transfer to project or Trump established.",
+      "source_ids": [
+        "S05",
+        "S06",
+        "S07"
+      ]
+    },
+    {
+      "canonical_key": "2011:event-076",
+      "path": "trump-russia-timeline/data/processed/by-year/2011.json",
+      "local_id": "event-076",
+      "legacy_money_flow": {
+        "amount": 100000000,
+        "direction": "to-trump",
+        "isDirectFlow": false
+      },
+      "status": "unsupported_legacy_amount",
+      "use_in_financial_totals": false,
+      "display_title": "Reported upstream VEB-linked steel transaction; Toronto onward funding disputed",
+      "display_note": "The legacy $100m to-trump moneyFlow lacks a traced source. The reported $850m steel transaction is upstream and not a direct Trump receipt.",
+      "source_ids": [
+        "S05",
+        "S06",
+        "S07"
+      ]
+    },
+    {
+      "canonical_key": "2010:event-074",
+      "path": "trump-russia-timeline/data/processed/by-year/2010.json",
+      "local_id": "event-074",
+      "status": "outside_scope",
+      "use_in_financial_totals": null,
+      "display_note": "Local event ID collides with an unrelated event in 2011; use year-prefixed key."
+    },
+    {
+      "canonical_key": "2011:event-074",
+      "path": "trump-russia-timeline/data/processed/by-year/2011.json",
+      "local_id": "event-074",
+      "status": "outside_scope",
+      "use_in_financial_totals": null,
+      "display_note": "Local event ID collides with an unrelated event in 2010; use year-prefixed key."
+    }
+  ],
+  "relationship_review": [
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/2010.json",
+      "local_id": "relationship-veb-shnaider-trump",
+      "status": "mixed_evidence",
+      "display_note": "The upstream steel financing is reported; the onward Toronto contribution is disputed. The legacy confirmed relationship is overbroad."
+    }
+  ],
+  "entity_description_review": [
+    "2010:entity-053",
+    "2010:entity-054",
+    "2011:entity-055",
+    "2011:entity-056"
+  ],
+  "not_a_funds_flow": [
+    "A7 formed 2024 after Toronto period",
+    "VEB recurring as institution does not prove continuity of funds"
+  ]
+}

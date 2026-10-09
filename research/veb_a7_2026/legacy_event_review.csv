@@ -1,0 +1,5 @@
+canonical_key,source_path,local_id,original_amount,original_direction,controlling_status,financial_totals,display_guidance,source_ids
+2010:event-081,trump-russia-timeline/data/processed/by-year/2010.json,event-081,15000000,to-trump,reported_then_withdrawn,exclude,Disputed indirect Toronto capital allegation not a Trump receipt,S05;S06;S07;S15
+2011:event-076,trump-russia-timeline/data/processed/by-year/2011.json,event-076,100000000,to-trump,unsupported_legacy_amount,exclude,No verified 100m Trump payment and upstream 850m not direct project funding,S05;S06;S07;S16
+2010:event-074,trump-russia-timeline/data/processed/by-year/2010.json,event-074,270000000,to-trump,outside_scope,no_change,Distinct Chicago debt event and duplicate local ID,S15
+2011:event-074,trump-russia-timeline/data/processed/by-year/2011.json,event-074,,none,outside_scope,no_change,Distinct Tevfik Arif event and duplicate local ID,S16

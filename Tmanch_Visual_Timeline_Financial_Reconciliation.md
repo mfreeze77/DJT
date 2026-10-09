@@ -364,3 +364,12 @@ The strongest supported narrative is:
 > **The 1982–1983 transactions built the leveraged casino and luxury-property platform. The first explicit Russian criminal-linked purchase in the structured dataset occurred in 1984. Russian and post-Soviet money then recurred through property purchases, oligarch transactions, pageant underwriting, project partners, indirect financing leads, and ordinary customer demand. A conservative source-controlled reconstruction identifies at least $103.3 million in direct receipts or payouts and $211.4 million in non-overlapping gross transaction or project value, while excluding unsupported, overlapping, disputed, prospective, and unquantified flows.**
 
 That finding is financially significant. It is not, by itself, proof that Russia directed every transaction or purchased every later policy.
+
+
+---
+
+## October 9, 2026 — VEB/A7/Toronto source-lineage and legacy JSON control
+
+[The dedicated evidence crosswalk](research/veb_a7_2026/README.md) documents a **separate 2025 reported PSB pledge of A7 shares to VEB for A7 lending**, as cited by FinCEN to CIR, and the **disputed 2010 Toronto project-capital allegation**. A7 was registered in 2024; the two histories are not a proven common transaction chain. RF-014 remains excluded from both aggregate totals.
+
+The legacy 2010 event-081 labels the disputed $15 million as a “to-trump” money flow; 2011 event-076 includes an unsupported $100 million “to-trump” field; and event-074 is reused for unrelated events in 2010 and 2011. **These fields must not be used as controlling financial evidence.** See the [review table](research/veb_a7_2026/legacy_event_review.csv), [interpretation sidecar](research/veb_a7_2026/legacy_event_interpretations.json), and [read-only validator](research/veb_a7_2026/validate_evidence.mjs). The original yearly JSON is retained for provenance; consumers must explicitly apply the sidecar.

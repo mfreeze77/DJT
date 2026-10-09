@@ -1,0 +1,17 @@
+source_id,date,publisher,title,url,locator,independence_note
+S01,2026-10-05,FinCEN,A7 proposed special measure,https://www.federalregister.gov/public-inspection/2026-20371/special-measure-prohibiting-the-transmittal-of-funds-regarding-transactions-involving-the-a7,footnote 23,FinCEN cites CIR
+S02,2025-10,CIR,A7 Abroad,https://www.info-res.org/app/uploads/2025/10/A7-Abroad-FINAL-Copy.pdf,printed pages 3-5 and Figure 1,CIR cites FrankMedia and Star-Pro for pledge; earlier registry extracts for ownership
+S03,2016-12-14,FTI,Talon First Receiver Report,https://cfcanada.fticonsulting.com/talon/docs/Receiver%27s%20First%20Report%20%28Security%20Opinion%2C%20Status%20Report%29.pdf,paragraphs 1 5-6 15-17 and Appendix D,Court-filed report; reliance on unaudited respondent information disclosed
+S04,2016-2019,FTI,Talon reports index,https://cfcanada.fticonsulting.com/talon/reports.htm,first to final reports,Primary archive
+S05,2017-05-17,Congressional Record,WSJ report reproduced,https://www.govinfo.gov/content/pkg/CREC-2017-05-17/pdf/CREC-2017-05-17.pdf,H4293-H4294; PDF pages 67-68,Reprint not independent reporting
+S06,2017-06-05,NYT syndication,VEB steel sale coverage,https://businessmirror.com.ph/2017/06/05/bank-at-center-of-us-inquiry-projects-russian-soft-power/,Toronto section,Shared interview context
+S07,2026,DJT,RF-014,https://github.com/mfreeze77/DJT/blob/main/Tmanch_Russian_Linked_Financial_Flows.csv,RF-014,Internal synthesis not external source
+S08,2026-10-01,Treasury,A7 action,https://home.treasury.gov/news/press-releases/sb0644,A7 section,Official government assessment
+S09,2025-08-14,Treasury,Garantex and related entities,https://home.treasury.gov/news/press-releases/sb0225,GRINEX and KEY GARANTEX PERSONNEL sections,Official government assessment
+S10,2024-03-13,ICIJ,Peresvet and Garantex-associated individual,https://www.icij.org/investigations/russia-archive/firm-related-to-sanctioned-crypto-exchange-garantex-is-a-partner-of-moscow-gang-leader-and-has-links-to-kremlin-controlled-rosneft/,New Garantex shareholders; Karavatsky section,Historical association; Garantex responses included
+S11,undated; accessed 2026-10-09,TI Russia,Crypto Laundromat,https://cryptolaundromat.ti-russia.org/chapter-1/,Banks That Don't Ask; October 2024 calls,Unverified intermediary claims; banks not described as partners or proven complicit
+S12,2026,DJT,Chapter 4 sources,https://github.com/mfreeze77/DJT/blob/main/Tmanch_CH4_primary_sources.md,PS4-017/018,Internal inventory
+S13,2026-04-30,RFE/RL,A7 reported oligarch users,https://www.rferl.org/a/russia-cryptocurrency-a7a5-ilan-shor-investigation-sanction-evasion/33746026.html,Abramovich passage,Reports on Proyekt; Abramovich denies protection allegation
+S14,2026,DJT,Chapter 5,https://github.com/mfreeze77/DJT/blob/main/Tmanch_CH5.md,Kushner Gorkov,Internal synthesis
+S15,2026,DJT,2010 annual JSON,https://github.com/mfreeze77/DJT/blob/main/trump-russia-timeline/data/processed/by-year/2010.json,event-081,Legacy not corroboration
+S16,2026,DJT,2011 annual JSON,https://github.com/mfreeze77/DJT/blob/main/trump-russia-timeline/data/processed/by-year/2011.json,event-076,Legacy not corroboration
