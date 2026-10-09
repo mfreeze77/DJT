@@ -738,6 +738,8 @@ A dated transfer from traced sale proceeds to the project and onward fee effect.
 
 High.
 
+**October 2026 evidence update:** [VEB / A7 / Toronto crosswalk](research/veb_a7_2026/README.md) adds FTI receivership security-document references, the FinCEN/CIR A7 pledge lineage, a read-only timeline interpretation sidecar, and records request templates. It does **not** promote the disputed $15 million to a verified project contribution or Trump receipt; RF-014 remains excluded.
+
 ---
 
 # Program 23 — Baku due diligence and accounting access
