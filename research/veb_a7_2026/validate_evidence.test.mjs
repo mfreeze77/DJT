@@ -1,0 +1,89 @@
+// Synthetic fixtures test integrity rules only; they are not research evidence.
+import assert from 'node:assert/strict';
+import { mkdtempSync, mkdirSync, readFileSync, writeFileSync, rmSync } from 'node:fs';
+import { tmpdir } from 'node:os';
+import { join, dirname } from 'node:path';
+import test from 'node:test';
+import { parseCsv, validateEvidence } from './validate_evidence.mjs';
+
+const f = 'research/veb_a7_2026/';
+function fixture(t) {
+  const root = mkdtempSync(join(tmpdir(), 'djt-evidence-test-'));
+  t.after(() => rmSync(root, { recursive: true, force: true }));
+  const put = (path, value) => {
+    mkdirSync(dirname(join(root, path)), { recursive: true });
+    writeFileSync(join(root, path), typeof value === 'string' ? value : JSON.stringify(value));
+  };
+  const get = path => readFileSync(join(root, path), 'utf8');
+  const editJson = (path, fn) => { const data = JSON.parse(get(path)); fn(data); put(path, data); };
+  const entries = [], cross = [];
+  for (const year of [2010, 2011]) {
+    const id = year === 2010 ? 'event-081' : 'event-076';
+    const amount = year === 2010 ? 15000000 : 100000000;
+    const status = year === 2010 ? 'reported_then_withdrawn' : 'unsupported_legacy_amount';
+    const path = `trump-russia-timeline/data/processed/by-year/${year}.json`;
+    const flow = { amount, direction: 'to-trump', isDirectFlow: false };
+    put(path, { events: [{ id, moneyFlow: flow }, { id: 'event-074',
+      title: year === 2010 ? 'Chicago fixture' : 'Arif fixture', moneyFlow: null }],
+      relationships: [{ id: 'relationship-veb-shnaider-trump', evidenceStrength: 'confirmed' }] });
+    entries.push({ canonical_key: `${year}:${id}`, path, local_id: id,
+      legacy_money_flow: flow, status, use_in_financial_totals: false, source_ids: ['S07'] });
+    entries.push({ canonical_key: `${year}:event-074`, path, local_id: 'event-074',
+      status: 'outside_scope', use_in_financial_totals: null });
+    cross.push(`${year}:${id},${path},${id},${amount},to-trump,${status},exclude,S07`);
+    cross.push(`${year}:event-074,${path},event-074,,none,outside_scope,no_change,S07`);
+  }
+  put(f + 'sources.csv', 'source_id,date,publisher,title,url,locator,independence_note\nS07,2026,TEST,TEST,https://example.org/test,fixture,synthetic\n');
+  put(f + 'claims.csv', 'claim_id,claim,status,source_ids,counterevidence_or_limit,proof_needed\nC01,fixture,unresolved,S07,synthetic,none\n');
+  put(f + 'relationships.csv', 'edge_id,from_entity,relationship,to_entity,classification,source_ids,limitations\nE01,fixture,fixture,fixture,unresolved,S07,synthetic\n');
+  put(f + 'legacy_event_review.csv', 'canonical_key,source_path,local_id,original_amount,original_direction,controlling_status,financial_totals,source_ids\n' + cross.join('\n') + '\n');
+  put(f + 'legacy_event_interpretations.json', { schema_version: 1,
+    source_of_truth: 'Tmanch_Russian_Linked_Financial_Flows.csv#RF-014', entries });
+  put('Tmanch_Russian_Linked_Financial_Flows.csv', 'Flow_ID,Amount_USD,Evidence_Status,Included_in_Direct_Receipt_Floor,Included_in_Branded_Ecosystem_Total,Note\nRF-014,15000000,withdrawn or disputed,no,no,"synthetic, fixture"\n');
+  put(f + 'README.md', '# Synthetic fixture\n[S07]\n\n[S07]: https://example.org/test\n');
+  return { root, put, get, editJson };
+}
+
+test('CSV supports BOM, CRLF, quoted commas, newlines and escaped quotes', () => {
+  assert.deepEqual(parseCsv('\uFEFFid,note\r\na,"a,b\n""quoted"""\r\n'),
+    [{ id: 'a', note: 'a,b\n"quoted"' }]);
+});
+for (const [label, value] of [
+  ['empty', ''], ['header only', 'id,note\n'], ['unterminated quote', 'id,note\na,"x'],
+  ['duplicate header', 'id,id\na,b\n'], ['short row', 'id,note\na\n'],
+  ['long row', 'id,note\na,b,c\n'], ['trailing quoted text', 'id,note\na,"b"c\n'],
+  ['unescaped quote', 'id,note\na,b"c\n'],
+]) test(`CSV rejects ${label}`, () => assert.throws(() => parseCsv(value)));
+
+test('valid fixture passes and validator is read-only', t => {
+  const x = fixture(t), before = x.get(f + 'legacy_event_interpretations.json');
+  assert.deepEqual(validateEvidence(x.root), { sources: 1, claims: 1, relationships: 1, legacy_events: 4 });
+  assert.equal(x.get(f + 'legacy_event_interpretations.json'), before);
+});
+
+const cases = [
+  ['duplicate sources', x => x.put(f+'sources.csv', x.get(f+'sources.csv') + x.get(f+'sources.csv').split('\n')[1]+'\n')],
+  ['unknown claim source', x => x.put(f+'claims.csv', x.get(f+'claims.csv').replace(',S07,', ',S99,'))],
+  ['unknown relationship source', x => x.put(f+'relationships.csv', x.get(f+'relationships.csv').replace(',S07,', ',S99,'))],
+  ['duplicate claim', x => x.put(f+'claims.csv', x.get(f+'claims.csv') + x.get(f+'claims.csv').split('\n')[1]+'\n')],
+  ['duplicate edge', x => x.put(f+'relationships.csv', x.get(f+'relationships.csv') + x.get(f+'relationships.csv').split('\n')[1]+'\n')],
+  ['duplicate crosswalk', x => x.put(f+'legacy_event_review.csv', x.get(f+'legacy_event_review.csv') + x.get(f+'legacy_event_review.csv').split('\n')[1]+'\n')],
+  ['empty sidecar', x => x.editJson(f+'legacy_event_interpretations.json', d => d.entries=[])],
+  ['missing protected entry', x => x.editJson(f+'legacy_event_interpretations.json', d => d.entries.splice(0,1))],
+  ['duplicate sidecar key', x => x.editJson(f+'legacy_event_interpretations.json', d => d.entries.push(d.entries[0]))],
+  ['missing snapshot', x => x.editJson(f+'legacy_event_interpretations.json', d => delete d.entries[0].legacy_money_flow)],
+  ['promoted protected flow', x => x.editJson(f+'legacy_event_interpretations.json', d => d.entries[0].use_in_financial_totals=true)],
+  ['changed status', x => x.editJson(f+'legacy_event_interpretations.json', d => d.entries[0].status='confirmed')],
+  ['crosswalk promotion', x => x.put(f+'legacy_event_review.csv', x.get(f+'legacy_event_review.csv').replace(',exclude,', ',include,'))],
+  ['crosswalk unknown source', x => x.put(f+'legacy_event_review.csv', x.get(f+'legacy_event_review.csv').replace(',S07\n', ',S99\n'))],
+  ['missing provenance column', x => x.put(f+'claims.csv', x.get(f+'claims.csv').replace('source_ids', 'wrong_column'))],
+  ['source not HTTPS', x => x.put(f+'sources.csv', x.get(f+'sources.csv').replace('https:', 'http:'))],
+  ['RF-014 included', x => x.put('Tmanch_Russian_Linked_Financial_Flows.csv', x.get('Tmanch_Russian_Linked_Financial_Flows.csv').replace(',no,no,', ',yes,no,'))],
+  ['legacy amount drift', x => x.editJson('trump-russia-timeline/data/processed/by-year/2010.json', d => d.events[0].moneyFlow.amount=1)],
+  ['adjacent Markdown labels', x => x.put(f+'README.md', x.get(f+'README.md').replace('[S07]\n', '[S07][S07]\n'))],
+  ['missing Markdown definition', x => x.put(f+'README.md', '# TEST\n[S07]\n')],
+  ['unknown Markdown source', x => x.put(f+'README.md', '# TEST\n[S99]\n[S99]: https://example.org/\n')],
+];
+for (const [label, mutate] of cases) test(`rejects ${label}`, t => {
+  const x = fixture(t); mutate(x); assert.throws(() => validateEvidence(x.root));
+});
