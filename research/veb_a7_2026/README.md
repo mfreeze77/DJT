@@ -5,9 +5,9 @@
 
 **VEB/VEB.RF is a common institution in two temporally distinct lines of research. No reviewed source establishes an A7-to-Trump transfer, a VEB-to-Trump loan, or a completed bank-level trace from VEB-financed steel proceeds to Trump Toronto fees.** Do not merge the two timelines.
 
-**A7 (2024–2026).** FinCEN's October 5, 2026 notice of proposed rulemaking says Promsvyazbank (PSB) pledged its A7 LLC stake to VEB as collateral for loans to A7 (footnote 23). FinCEN cites the Centre for Information Resilience (CIR), which cites FrankMedia and Star-Pro. **FinCEN -> CIR -> earlier reporting is one dependent evidence chain, not three independent confirmations.** Executed loan/pledge agreements and actual drawdown records have not been obtained. CIR reports A7 was registered September 2, 2024, with earlier registry data indicating Ilan Shor 51% / PSB 49%; CIR separately reports Exim International as Shor 75% / VEB 25% and cautions that Exim is not formally part of A7's ownership structure. [S01][S02]
+**A7 (2024–2026).** FinCEN's October 5, 2026 notice of proposed rulemaking says Promsvyazbank (PSB) pledged its A7 LLC stake to VEB as collateral for loans to A7 (footnote 23). FinCEN cites the Centre for Information Resilience (CIR), which cites FrankMedia and Star-Pro. **FinCEN -> CIR -> earlier reporting is one dependent evidence chain, not three independent confirmations.** Executed loan/pledge agreements and actual drawdown records have not been obtained. CIR reports A7 was registered September 2, 2024, with earlier registry data indicating Ilan Shor 51% / PSB 49%; CIR separately reports Exim International as Shor 75% / VEB 25% and cautions that Exim is not formally part of A7's ownership structure. [S01] [S02]
 
-**Toronto (2007–2017).** The Wall Street Journal's 2017 reporting (reproduced in the Congressional Record) describes an approximately $850m sale of a Ukrainian steel stake financed through VEB-linked buyers. Shnaider's lawyer initially said about $15m from the sale entered the Toronto project, then wrote he could not confirm any such transfer. Trump Organization said it was a licensor/manager, not an equity owner, and denied VEB dealings. **RF-014 correctly treats the $15m as disputed and excluded from totals.** [S05][S06][S07]
+**Toronto (2007–2017).** The Wall Street Journal's 2017 reporting (reproduced in the Congressional Record) describes an approximately $850m sale of a Ukrainian steel stake financed through VEB-linked buyers. Shnaider's lawyer initially said about $15m from the sale entered the Toronto project, then wrote he could not confirm any such transfer. Trump Organization said it was a licensor/manager, not an equity owner, and denied VEB dealings. **RF-014 correctly treats the $15m as disputed and excluded from totals.** [S05] [S06] [S07]
 
 ## New primary-record check: Toronto receivership
 
@@ -21,9 +21,9 @@ FTI Consulting's **First Receiver's Report, December 14, 2016, Ontario Superior 
 
 ## A7 sanctions and adjacent leads
 
-Treasury's October 2026 action calls A7 a sanctions-evasion network used by Iranian actors including the IRGC and designated the network as a significant transnational criminal organization. FinCEN's proposed special measure is **a proposed restriction**, distinct from effective OFAC sanctions. These are official U.S. assessments, not proof of any A7 payment to a Trump entity. [S01][S08]
+Treasury's October 2026 action calls A7 a sanctions-evasion network used by Iranian actors including the IRGC and designated the network as a significant transnational criminal organization. FinCEN's proposed special measure is **a proposed restriction**, distinct from effective OFAC sanctions. These are official U.S. assessments, not proof of any A7 payment to a Trump entity. [S01] [S08]
 
-The existing [a7-veb-fin working note](../../a7-veb-fin) contains additional **lower-strength leads**: A7/Garantex and Karavatsky's historical Peresvet/Rosneft role [S09][S10]; Exved intermediaries' unverified reference to Deutsche Bank Hong Kong [S09][S11]; the Baku/IRGC subject overlap [S08][S12]; reported Abramovich A7 activity [S13]; and Kushner's documented meeting with VEB chairman Sergey Gorkov [S14]. **None supplies a common account, funds transfer or transactionally relevant intermediary connecting A7 to Trump.** Keep each lead separate and preserve denials/counterevidence.
+The existing [a7-veb-fin working note](../../a7-veb-fin) contains additional **lower-strength leads**: A7/Garantex and Karavatsky's historical Peresvet/Rosneft role [S09] [S10]; Exved intermediaries' unverified reference to Deutsche Bank Hong Kong [S09] [S11]; the Baku/IRGC subject overlap [S08] [S12]; reported Abramovich A7 activity [S13]; and Kushner's documented meeting with VEB chairman Sergey Gorkov [S14]. **None supplies a common account, funds transfer or transactionally relevant intermediary connecting A7 to Trump.** Keep each lead separate and preserve denials/counterevidence.
 
 ## Source and transaction hygiene
 
@@ -52,6 +52,17 @@ This PR **preserves the original annual JSON and existing ledger**. The [legacy 
 **Across periods:** same specific bank account, decision-maker, intermediary, payment vehicle or contractual obligation with documented continuity. Merely sharing VEB is insufficient.
 
 See [source ledger](sources.csv), [claim ledger](claims.csv), [relationship crosswalk](relationships.csv), and [lawful records plan](records_plan.md). All entries distinguish reported allegations from court-filed records, and include counterevidence and missing proof.
+
+## Validation and review boundary
+
+Run from the repository root using Node.js 22:
+
+```sh
+node research/veb_a7_2026/validate_evidence.mjs
+node --test research/veb_a7_2026/validate_evidence.test.mjs
+```
+
+The validator checks CSV structure, unique record IDs, source references across all ledgers, mandatory exclusion of the disputed flows, crosswalk consistency, legacy snapshot drift, and Markdown source labels. The regression tests use **synthetic fixtures**, not additional research evidence. A structural pass does not authenticate a source or prove a financial allegation. Changes to the legacy snapshots require a corresponding evidence review, not restoration of an unsupported claim merely to satisfy a test.
 
 ## Source keys
 
