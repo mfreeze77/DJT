@@ -1,0 +1,18 @@
+edge_id,from_entity,relationship,to_entity,period,classification,source_ids,transaction_amount,limitations
+E01,Ilan Shor,reported 51 percent equity,A7 LLC,2024-2025,reported registry-derived,S02,,Older extracts need retrieval
+E02,Promsvyazbank PSB,reported 49 percent equity,A7 LLC,2024-2025,reported registry-derived,S02,,Older extracts need retrieval
+E03,Promsvyazbank PSB,pledged its A7 stake to secure loans,VEB.RF,2025,FinCEN cited report,S01;S02,,No original pledge document or amount drawn
+E04,VEB.RF,reported loans to,A7 LLC,2025,FinCEN cited report,S01;S02,,Credit terms and disbursement missing
+E05,Ilan Shor,reported 75 percent equity,Exim International,2025,secondary report,S02,,Company extract missing
+E06,VEB.RF,reported 25 percent equity,Exim International,2025,secondary report,S02,,Company extract missing
+E07,Exim International,job ads describe A7 affiliation,A7 group,2025,operational affiliation claim,S02,,CIR says not formal A7 subsidiary
+E08,VEB-linked buyers,reported financing of purchase,Zaporizhstal steel stake,2010,documentary reporting,S05;S06,850000000,Upstream transaction not Trump receipt
+E09,Shnaider related entities,reported disputed onward project contribution,Trump Toronto project,2010,withdrawn or unconfirmed,S05;S06;S07,15000000,No verified bank-level bridge
+E10,Talon International,security instrument to,BNY Trust Company of Canada as agent,2007,court-filed instrument listing,S03,400000000 CAD,Face principal not drawdown
+E11,Midland Resources Holding Limited,junior registered mortgage,Trump Toronto property,2016,court-filed security summary,S03,,Not VEB provenance
+E12,Trump Organization,reported brand licensing and management,Trump Toronto,2007-2017,party statement,S05,,Executed license and fee payments missing
+E13,A7 network,officially attributed facilitation,IRGC and Iranian proxies,2025-2026,official government assessment,S01;S08,,Not an A7-to-Trump flow
+E14,Garantex,reported operational association,A7 network,2025-2026,government description,S09,,Not Trump payment
+E15,Karavatsky,historical board role,Peresvet Bank,2017,investigative reporting,S10,,Not A7-to-Rosneft financing
+E16,Exved intermediaries,reportedly named bank conduit,Deutsche Bank Hong Kong,2025-2026,unverified intermediary claim,S11,,Not bank complicity or Trump loan overlap
+E17,Sergey Gorkov,transition meeting,Jared Kushner,2016,repo historical synthesis,S14,,Not loan or A7 arrangement
