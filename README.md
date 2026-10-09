@@ -24,6 +24,9 @@ Circumstantial evidence is evaluated cumulatively. Timing or association alone i
 
 ## Current synthesis and integrity controls
 
+- [VEB / A7 / Trump Toronto evidence-ranked crosswalk (October 2026)](research/veb_a7_2026/README.md) — original Toronto receivership references, A7 source lineage, financial-claim safeguards, machine-readable ledgers and records plan. **Shared VEB does not establish a continuous money trail.**
+
+
 - [Current Working Conclusion](Current_Working_Tmanch_Conclusion.md)
 - [Executive TLDR](DJT_TLDR.md)
 - [Counterevidence Attribution Matrix](Tmanch_Conclusion_Attribution_Matrix.csv)
