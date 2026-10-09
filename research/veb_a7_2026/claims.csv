@@ -1,0 +1,21 @@
+claim_id,claim,status,source_ids,counterevidence_or_limit,proof_needed
+C01,A7 formed in September 2024,documented,S01;S02,Earlier corporate records require independent retrieval,Original dated registration extract
+C02,PSB pledged A7 stake to VEB for A7 loans,officially cited secondary report,S01;S02,FinCEN relies on CIR which cites FrankMedia and Star-Pro,Executed pledge and loan records
+C03,Exim International 75 percent Shor and 25 percent VEB,reported,S02,CIR says Exim is outside formal A7 ownership structure,Dated corporate register extract
+C04,Treasury attributes A7 support to Iranian actors,official assessment,S01;S08,Not evidence of A7 handling Trump or diesel payments,Underlying transaction records
+C05,VEB financed buyers in steel-stake transaction,documentary reporting,S05;S06,No complete original closing and bank wires,Steel sale and credit documents
+C06,About 15m from steel sale entered Toronto,reported then withdrawn,S05;S06;S07,Lawyer withdrew ability to confirm,Proceeds account and Toronto capital-call bank match
+C07,Trump Organization licensed and managed Toronto,reported party statement,S05,No full fee ledger or executed contract,License agreements and fee receipts
+C08,Receiver identifies Toronto project legal entities,established court-filed record,S03,Receiver relied partly on unaudited information,Corporate and bank records
+C09,Talon 2007 debenture has C$400m face principal,established court-filed record,S03,Face amount not cash advanced or Trump income,Executed debenture and draws
+C10,Midland Resources Holding Limited had subordinate charge,established court-filed record,S03,Charge not VEB source proof,Land registry and secured loan file
+C11,FTI Appendix D lists project-account and contract assignments,established court-filed record,S03,Labels do not establish Trump brand agreement,Executed assignments and original contracts
+C12,2010 annual event-081 promotes disputed 15m as to-trump,verified repo data inconsistency,S07;S15,Conflicts with controlling RF-014,Non-destructive annotation and display review
+C13,2011 annual event-076 records unsupported 100m to-trump,verified repo data inconsistency,S07;S16,No independent evidence supporting 100m Trump receipt,Underlying account and transaction records
+C14,2010 and 2011 both use event-074 for unrelated events,verified repo data collision,S15;S16,IDs local to annual files,Composite canonical IDs
+C15,Direct A7-to-Trump transaction,not found in reviewed sources,S01;S02;S03;S05;S07;S08,Absence in reviewed material is not proof none exists,Specific bank or corporate transaction record
+C16,Common VEB institution proves coordinated Toronto-A7 activity,unsupported inference,S01;S02;S05,Periods separated by 14 years and no traced intermediaries,Continuity through named accounts persons or agreements
+C17,Garantex and Rosneft historical person overlap,reported indirect lead,S09;S10,Not Rosneft ownership or A7-to-Trump flow,Company registers and transaction files
+C18,Exved intermediary named Deutsche Bank Hong Kong,reported unverified lead,S09;S11,Not evidence bank knowingly assisted or overlapped Trump loans,Original bank records
+C19,Baku IRGC and A7 IRGC share a named organization,distinct-source overlap,S08;S12,No A7 Baku contract or wire established,Common counterparty and dated payment
+C20,Abramovich reportedly used A7,reported and contested,S01;S13,Legacy mention does not connect to Trump receipts,Original customer and transfer evidence
