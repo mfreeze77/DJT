@@ -1,0 +1,54 @@
+name: VEB-A7 follow-up acquisition
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+    paths:
+      - 'research/veb_a7_2026/**'
+      - '.github/workflows/veb-a7-acquisition.yml'
+permissions:
+  contents: read
+jobs:
+  acquire:
+    if: github.head_ref == 'research/veb-a7-original-records-followup'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020
+        with:
+          node-version: '22'
+      - name: Re-run existing structural controls without changing them
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p "$RUNNER_TEMP/veb-a7-acquisition"
+          node research/veb_a7_2026/validate_evidence.mjs | tee "$RUNNER_TEMP/veb-a7-acquisition/validation.txt"
+          node --test research/veb_a7_2026/validate_evidence.test.mjs | tee "$RUNNER_TEMP/veb-a7-acquisition/tests.txt"
+          git diff --exit-code
+          git rev-parse HEAD > "$RUNNER_TEMP/veb-a7-acquisition/checkout-commit.txt"
+          git archive --format=tar.gz HEAD > "$RUNNER_TEMP/veb-a7-acquisition/repository.tar.gz"
+      - name: Acquire already-public original court application
+        shell: bash
+        run: |
+          set -euo pipefail
+          out="$RUNNER_TEMP/veb-a7-acquisition"
+          url='https://cfcanada.fticonsulting.com/talon/docs/6.pdf'
+          date -u +%FT%TZ > "$out/retrieved-at.txt"
+          printf '%s\n' "$url" > "$out/source-url.txt"
+          if curl --fail --location --proto '=https' --proto-redir '=https' --connect-timeout 30 --max-time 240 --retry 1 --output "$out/talon-application-2016.pdf" "$url"; then
+            head -c 5 "$out/talon-application-2016.pdf" | grep -q '%PDF-'
+            sha256sum "$out/talon-application-2016.pdf" > "$out/source-sha256.txt"
+          else
+            rm -f "$out/talon-application-2016.pdf"
+            printf 'Public application bytes NOT retrieved; no source hash asserted.\n' > "$out/acquisition-failed.txt"
+          fi
+      - name: Save short-lived review artifact, never commit source PDFs
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: veb-a7-review-acquisition
+          path: ${{ runner.temp }}/veb-a7-acquisition/
+          retention-days: 1
+          if-no-files-found: error
