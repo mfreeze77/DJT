@@ -18,7 +18,7 @@ jobs:
       - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020
         with:
           node-version: '22'
-      - name: Validate current checkout and save reproducible baseline
+      - name: Validate current checkout without changing tracked files
         shell: bash
         run: |
           set -euo pipefail
@@ -29,7 +29,6 @@ jobs:
           node research/veb_a7_2026/audit_rinfo.mjs > "$RUNNER_TEMP/veb-a7-acquisition/rinfo.json"
           git diff --exit-code
           git rev-parse HEAD > "$RUNNER_TEMP/veb-a7-acquisition/checkout-commit.txt"
-          git archive --format=tar.gz HEAD > "$RUNNER_TEMP/veb-a7-acquisition/repository.tar.gz"
       - name: Acquire bounded public documents without executing them
         shell: bash
         run: |
@@ -59,14 +58,13 @@ jobs:
                   row.update(status='not_retrieved', error=str(error))
               return row
           targets = [
-              ('trump-2016-disclosure.pdf', 'https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf'),
-              ('trump-2017-disclosure.pdf', 'https://assets.documentcloud.org/documents/3867971/Trump-2016-Financial-Disclosures.pdf'),
-              ('oge-2018-public-page.html', 'https://oge.box.com/v/Trump2018Annual278'),
-              ('oge-2017-public-page.html', 'https://oge.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c'),
-              ('oge-index.html', 'https://extapps2.oge.gov/201/Presiden.nsf/President%20and%20Vice%20President%20Index'),
-              ('aragon-index.html', 'https://aragonsk.ru/'),
-              ('a7-index.html', 'https://www.a7.ru/'),
-              ('frankmedia-207431.html', 'https://frankmedia.ru/207431'),
+              ('trump-2018-disclosure.pdf', 'https://s3.documentcloud.org/documents/21154685/trump-oge-2018.pdf'),
+              ('aragon-h1-2026-ifrs.pdf', 'https://aragonsk.ru/zed/files/130_134.pdf'),
+              ('aragon-q1-2026-ras.pdf', 'https://aragonsk.ru/zed/files/122_126.pdf'),
+              ('aragon-h1-2026-ras.pdf', 'https://aragonsk.ru/zed/files/129_133.pdf'),
+              ('aragon-reports.html', 'https://aragonsk.ru/reporting/buhgalter'),
+              ('acra-a7-20251223.html', 'https://www.acra-ratings.ru/press-releases/6446/'),
+              ('a7-agent-registry-lead.html', 'https://zachestnyibiznes.ru/company/ul/1247700638570_9710138144'),
           ]
           with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:
               rows = list(pool.map(get, targets))
@@ -77,7 +75,7 @@ jobs:
         if: always()
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
         with:
-          name: veb-a7-accounting-disclosures
+          name: veb-a7-later-period-accounts
           path: ${{ runner.temp }}/veb-a7-acquisition/
           retention-days: 1
           if-no-files-found: error
