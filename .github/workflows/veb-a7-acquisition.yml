@@ -10,7 +10,7 @@ jobs:
   acquire:
     if: github.head_ref == 'research/veb-a7-corpus-tax'
     runs-on: ubuntu-24.04
-    timeout-minutes: 15
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
         with:
@@ -22,77 +22,49 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          out="$RUNNER_TEMP/veb-tax-targets"
+          out="$RUNNER_TEMP/veb-corpus-court"
           mkdir -p "$out"
           node research/veb_a7_2026/validate_evidence.mjs > "$out/validation.txt"
           node --test research/veb_a7_2026/validate_evidence.test.mjs > "$out/tests.txt"
-          node research/veb_a7_2026/validate_followup.mjs > "$out/followup.txt"
-          node research/veb_a7_2026/validate_accounting.mjs > "$out/accounting.txt"
-          node research/veb_a7_2026/audit_rinfo.mjs > "$out/rinfo-integrity.json"
           git diff --exit-code
           git rev-parse HEAD > "$out/checkout.txt"
-      - name: Acquire specific public originals and historical instructions
+      - name: Acquire identified public court pages without executing downloads
         shell: bash
         run: |
           python3 - <<'PY'
-          import concurrent.futures, datetime, hashlib, html.parser, json, os, pathlib, urllib.parse, urllib.request
-          root=pathlib.Path(os.environ['RUNNER_TEMP'])/'veb-tax-targets'
+          import concurrent.futures, datetime, hashlib, json, os, pathlib, urllib.parse, urllib.request
+          root=pathlib.Path(os.environ['RUNNER_TEMP'])/'veb-corpus-court'
           class HTTPSOnly(urllib.request.HTTPRedirectHandler):
               def redirect_request(self,req,fp,code,msg,headers,newurl):
                   if urllib.parse.urlparse(newurl).scheme!='https': raise ValueError('Non-HTTPS redirect refused')
                   return super().redirect_request(req,fp,code,msg,headers,newurl)
           def get(item):
-              rel,raw_url=item;url=urllib.parse.quote(raw_url,safe=':/?=&%');dest=root/rel;tmp=dest.with_suffix('.partial')
-              row=dict(file=rel,url=url,retrieved_at=datetime.datetime.now(datetime.timezone.utc).isoformat())
+              name,url=item
+              row=dict(file=name,url=url,retrieved_at=datetime.datetime.now(datetime.timezone.utc).isoformat())
               try:
                   req=urllib.request.Request(url,headers={'User-Agent':'Mozilla/5.0 public-record-research'})
-                  h=hashlib.sha256();size=0
-                  with urllib.request.build_opener(HTTPSOnly()).open(req,timeout=120) as r,tmp.open('wb') as out:
+                  with urllib.request.build_opener(HTTPSOnly()).open(req,timeout=90) as r:
+                      data=r.read(12000001)
+                      if len(data)>12000000: raise ValueError('12MB limit')
                       row.update(final_url=r.url,content_type=r.headers.get('Content-Type',''))
-                      while True:
-                          b=r.read(1048576)
-                          if not b: break
-                          size+=len(b)
-                          if size>160000000: raise ValueError('160MB file limit')
-                          h.update(b);out.write(b)
-                  if dest.suffix=='.pdf':
-                      with tmp.open('rb') as f:
-                          if f.read(5)!=b'%PDF-': raise ValueError('Not PDF')
-                  tmp.replace(dest);row.update(status='bytes_obtained_unreviewed',bytes=size,sha256=h.hexdigest())
-              except Exception as e:
-                  tmp.unlink(missing_ok=True);row.update(status='not_retrieved',error=str(e))
+                  (root/name).write_bytes(data)
+                  row.update(status='bytes_obtained_unreviewed',bytes=len(data),sha256=hashlib.sha256(data).hexdigest())
+              except Exception as e:row.update(status='not_retrieved',error=str(e))
               return row
           targets=[
-            ('ways-means-report.pdf','https://s3.documentcloud.org/documents/23559051/20221220-final-report-house-ways-and-means.pdf'),
-            ('ways-means-pbs.pdf','https://d3i6fh83elv35t.cloudfront.net/static/2022/12/2022.12.20-Final-Report-House-Ways-and-Means.pdf'),
-            ('i1120s-2017.pdf','https://www.irs.gov/pub/irs-prior/i1120s--2017.pdf'),
-            ('f8869-2017.pdf','https://www.irs.gov/pub/irs-prior/f8869--2017.pdf'),
-            ('commons-2016-1.html','https://commons.wikimedia.org/wiki/File:Donald_J_Trump_Individual_tax_returns_Form_1040_2016_-1.pdf'),
-            ('commons-2017-3.html','https://commons.wikimedia.org/wiki/File:Donald_J_Trump_Individual_tax_returns_Form_1040_2017-3.pdf'),
-            ('commons-2015-3.html','https://commons.wikimedia.org/wiki/File:Donald_J_Trump_Individual_tax_returns_Form_1040_2015-3.pdf'),
+            ('avonwick-2020.html','https://caselaw.nationalarchives.gov.uk/ewhc/comm/2020/1844'),
+            ('appeal-2021-index.html','https://www.judiciary.uk/judgments/avonwick-holdings-limited-v-azitio-holdings-limited-ors/'),
+            ('ukraine-ruling-reproduction.html','https://youcontrol.com.ua/en/catalog/court-document/110589321/'),
+            ('icij-gorlane.html','https://offshoreleaks.icij.org/nodes/10210594'),
           ]
-          with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool: rows=list(pool.map(get,targets))
-          class Links(html.parser.HTMLParser):
-              def __init__(self):super().__init__();self.urls=[]
-              def handle_starttag(self,tag,attrs):
-                  if tag=='a':
-                      u=dict(attrs).get('href','')
-                      if urllib.parse.urlparse(u).hostname=='upload.wikimedia.org' and urllib.parse.urlparse(u).path.lower().endswith('.pdf'):self.urls.append(u)
-          for rel,url in targets[4:]:
-              p=root/rel
-              if not p.exists():continue
-              parser=Links();parser.feed(p.read_text(errors='replace'))
-              links=list(dict.fromkeys(parser.urls))
-              if links:
-                  rows.append(get((rel.replace('.html','.pdf'),links[0])))
+          with concurrent.futures.ThreadPoolExecutor(max_workers=2) as pool:rows=list(pool.map(get,targets))
           (root/'acquisition.json').write_text(json.dumps(rows,indent=2))
           for row in rows:print(row['file'],row['status'],row.get('bytes',''),row.get('error',''))
           PY
-      - name: Save temporary review artifact, no tax PDFs committed
+      - name: Save temporary review artifact, not source files in repository
         if: always()
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
         with:
-          name: veb-tax-targets
-          path: ${{ runner.temp }}/veb-tax-targets/
+          name: veb-corpus-court
+          path: ${{ runner.temp }}/veb-corpus-court/
           retention-days: 1
-          compression-level: 0
