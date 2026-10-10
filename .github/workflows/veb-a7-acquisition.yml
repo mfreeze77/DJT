@@ -8,7 +8,7 @@ permissions:
   contents: read
 jobs:
   acquire:
-    if: github.head_ref == 'research/veb-a7-original-records-followup'
+    if: github.head_ref == 'research/veb-a7-accounting-settlement'
     runs-on: ubuntu-24.04
     timeout-minutes: 12
     steps:
@@ -18,16 +18,19 @@ jobs:
       - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020
         with:
           node-version: '22'
-      - name: Re-run structural controls without changing tracked files
+      - name: Validate current checkout and save reproducible baseline
         shell: bash
         run: |
           set -euo pipefail
           mkdir -p "$RUNNER_TEMP/veb-a7-acquisition"
           node research/veb_a7_2026/validate_evidence.mjs | tee "$RUNNER_TEMP/veb-a7-acquisition/validation.txt"
           node --test research/veb_a7_2026/validate_evidence.test.mjs | tee "$RUNNER_TEMP/veb-a7-acquisition/tests.txt"
+          node research/veb_a7_2026/validate_followup.mjs | tee "$RUNNER_TEMP/veb-a7-acquisition/followup.txt"
+          node research/veb_a7_2026/audit_rinfo.mjs > "$RUNNER_TEMP/veb-a7-acquisition/rinfo.json"
           git diff --exit-code
           git rev-parse HEAD > "$RUNNER_TEMP/veb-a7-acquisition/checkout-commit.txt"
-      - name: Acquire specific public records; never execute downloaded content
+          git archive --format=tar.gz HEAD > "$RUNNER_TEMP/veb-a7-acquisition/repository.tar.gz"
+      - name: Acquire bounded public documents without executing them
         shell: bash
         run: |
           python3 - <<'PY'
@@ -43,40 +46,38 @@ jobs:
               url = urllib.parse.quote(raw_url, safe=':/?=&%')
               row = dict(file=name, url=url, retrieved_at=datetime.datetime.now(datetime.timezone.utc).isoformat())
               try:
-                  opener = urllib.request.build_opener(HTTPSOnly())
                   req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 public-record-research'})
-                  with opener.open(req, timeout=90) as response:
-                      data = response.read(16000001)
-                      if len(data) > 16000000: raise ValueError('Size limit exceeded')
+                  with urllib.request.build_opener(HTTPSOnly()).open(req, timeout=90) as response:
+                      data = response.read(40000001)
+                      if len(data) > 40000000: raise ValueError('Size limit exceeded')
                       row.update(final_url=response.url, content_type=response.headers.get('Content-Type',''), size=len(data))
                   if name.endswith('.pdf') and not data.startswith(b'%PDF-'):
-                      raise ValueError('Response is not a PDF; no source bytes retained')
+                      raise ValueError('Response is not PDF; no purported source retained')
                   (out / name).write_bytes(data)
                   row.update(status='bytes_obtained_unreviewed', sha256=hashlib.sha256(data).hexdigest())
               except Exception as error:
                   row.update(status='not_retrieved', error=str(error))
               return row
           targets = [
-              ('a7-custody-current.pdf', 'https://www.a7.ru/pdf/Usloviya_prisoedineniya_k_dogovoru_otvetstvennogo_hraneniya_vekselya.pdf'),
-              ('a7-custody-december.pdf', 'https://www.a7.ru/pdf/Usloviya_prisoedineniya_k_dogovoru_otvetstvennogo_hraneniya_vekselya221225.pdf'),
-              ('a7-custody-august.pdf', 'https://www.a7.ru/pdf/Договор_ответственного_хранения_векселя_от_01_08_25.pdf'),
-              ('a7-legal-index.html', 'https://www.a7.ru/law-info'),
-              ('a7-disclosure-index.html', 'https://www.e-disclosure.ru/portal/files.aspx?id=39813&type=4'),
-              ('talon-amending-order.pdf', 'https://cfcanada.fticonsulting.com/talon/docs/Amending%20Order.pdf'),
-              ('talon-third-report.pdf', 'https://cfcanada.fticonsulting.com/talon/docs/Receiver%27s%20Third%20Report%20%28Waterous%20Sale%20Approval%20Service%29.pdf'),
-              ('talon-final-report.pdf', 'https://cfcanada.fticonsulting.com/talon/docs/Receiver%27s%20Final%20Report%20August%2023%2C%202019.pdf'),
-              ('talon-applicant-factum.pdf', 'https://cfcanada.fticonsulting.com/talon/docs/3.pdf'),
+              ('trump-2016-disclosure.pdf', 'https://assets.documentcloud.org/documents/2838696/Trump-2016-Financial-Disclosure.pdf'),
+              ('trump-2017-disclosure.pdf', 'https://assets.documentcloud.org/documents/3867971/Trump-2016-Financial-Disclosures.pdf'),
+              ('oge-2018-public-page.html', 'https://oge.box.com/v/Trump2018Annual278'),
+              ('oge-2017-public-page.html', 'https://oge.box.com/s/kz4qvbdsbcfrzq16msuo4zmth6rerh1c'),
+              ('oge-index.html', 'https://extapps2.oge.gov/201/Presiden.nsf/President%20and%20Vice%20President%20Index'),
+              ('aragon-index.html', 'https://aragonsk.ru/'),
+              ('a7-index.html', 'https://www.a7.ru/'),
+              ('frankmedia-207431.html', 'https://frankmedia.ru/207431'),
           ]
           with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:
               rows = list(pool.map(get, targets))
           (out / 'manifest.json').write_text(json.dumps(rows, ensure_ascii=False, indent=2))
           for row in rows: print(row['file'], row['status'], row.get('sha256',''), row.get('error',''))
           PY
-      - name: Save one-day acquisition artifact, not source PDFs in repository
+      - name: Save one-day review artifact; no source PDFs committed
         if: always()
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
         with:
-          name: veb-a7-custody-and-receiver-records
+          name: veb-a7-accounting-disclosures
           path: ${{ runner.temp }}/veb-a7-acquisition/
           retention-days: 1
           if-no-files-found: error
