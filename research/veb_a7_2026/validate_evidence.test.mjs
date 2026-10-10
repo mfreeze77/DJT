@@ -105,7 +105,7 @@ function followupFixture(t) {
 }
 test('follow-up production records validate and remain read-only', () => {
   const before=readFileSync(join(repositoryRoot,f,'transaction_crosswalk.csv'),'utf8');
-  assert.deepEqual(validateFollowup(repositoryRoot),{entities:24,transactions:21,instruments:13,acquisitions:57});
+  assert.deepEqual(validateFollowup(repositoryRoot),{entities:35,transactions:22,instruments:13,acquisitions:127});
   assert.equal(readFileSync(join(repositoryRoot,f,'transaction_crosswalk.csv'),'utf8'),before);
 });
 const followupCases = [
@@ -155,4 +155,39 @@ const accountingCases = [
 ];
 for (const [label,mutate] of accountingCases) test(`accounting rejects ${label}`,t=>{
   const x=followupFixture(t);x.edit('accounting_reconciliation.csv',mutate);assert.throws(()=>validateFollowup(x.root));
+});
+
+// PR27: no inherited rejection test is removed. New tests cover the published corpus/tax boundaries.
+import { validateCorpusTax } from './validate_corpus_tax.mjs';
+function corpusFixture(t) {
+  const root=mkdtempSync(join(tmpdir(),'djt-corpus-tax-'));
+  t.after(()=>rmSync(root,{recursive:true,force:true}));
+  cpSync(join(repositoryRoot,f),join(root,f),{recursive:true});
+  return {root,edit(name,fn){const p=join(root,f,name);writeFileSync(p,fn(readFileSync(p,'utf8')));}};
+}
+test('corpus/tax production metadata validates without writes',()=>{
+  const p=join(repositoryRoot,f,'tax_oge_reconciliation.csv'),before=readFileSync(p,'utf8');
+  assert.deepEqual(validateCorpusTax(repositoryRoot),{returns:53,collections:55,nodes:28,relationships:8,reconciliation:11});
+  assert.equal(readFileSync(p,'utf8'),before);
+});
+const corpusCases = [
+  ['filing year substituted for tax year','tax_oge_reconciliation.csv',s=>s.replace('TR31,2017,2018-10-12','TR31,2018,2018-10-12')],
+  ['amended return called original','return_inventory.csv',s=>s.replace('amended_checkbox_marked','original')],
+  ['duplicate return part','return_inventory.csv',s=>s+s.split('\n')[1]+'\n'],
+  ['OGE called an IRS return','tax_oge_reconciliation.csv',s=>s.replace('OGE278e','1040')],
+  ['allocated loss called distribution','tax_oge_reconciliation.csv',s=>s.replace('allocated_ordinary_loss','cash_distribution')],
+  ['gross receipt called net income','tax_oge_reconciliation.csv',s=>s.replace('parent_aggregate_gross_receipts','parent_aggregate_ordinary_income')],
+  ['unknown component set to zero','tax_oge_reconciliation.csv',s=>s.replace('unknown_operating_fee_component,,,','unknown_operating_fee_component,0,USD,')],
+  ['empty text used for negative search','return_inventory.csv',s=>s.replace(',no,no,',',no,yes,')],
+  ['partial collection called complete','return_inventory.csv',s=>s.replace(',no,no,',',yes,no,')],
+  ['mirror overlap erased','return_inventory.csv',s=>s.replaceAll(',2017-part3,',',,')],
+  ['offshore name automatically merged','offshore_node_review.csv',s=>s.replace(',no,',',yes,')],
+  ['source dataset removed','offshore_node_review.csv',s=>s.replace(',Panama Papers,',',,')],
+  ['bank match invented','tax_oge_reconciliation.csv',s=>s.replace('not_obtained','matched')],
+  ['obligor promoted to bank payee','transaction_crosswalk.csv',s=>s.replace('benefited obligor NOT confirmed bank payee','confirmed bank payee')],
+  ['QSub treated as legal dissolution','entity_crosswalk.csv',s=>s.replace('N15,Trump Toronto Hotel Management Corp.,Trump Toronto Hotel Management Corp.,legal_entity','N15,Trump Toronto Hotel Management Corp.,Trump Toronto Hotel Management Corp.,dissolved_entity')],
+  ['samples promoted to whole file equivalence','tax_mirror_boundary_checks.json',s=>s.replace('sampled boundaries only','entire files')],
+];
+for(const [label,name,mutate] of corpusCases) test(`corpus/tax rejects ${label}`,t=>{
+  const x=corpusFixture(t);x.edit(name,mutate);assert.throws(()=>validateCorpusTax(x.root));
 });

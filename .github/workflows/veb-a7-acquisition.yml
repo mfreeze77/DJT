@@ -8,9 +8,9 @@ permissions:
   contents: read
 jobs:
   acquire:
-    if: github.head_ref == 'research/veb-a7-accounting-settlement'
+    if: github.head_ref == 'research/veb-a7-corpus-tax'
     runs-on: ubuntu-24.04
-    timeout-minutes: 12
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
         with:
@@ -18,64 +18,53 @@ jobs:
       - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020
         with:
           node-version: '22'
-      - name: Validate current checkout without changing tracked files
+      - name: Check reviewed tree without changing tracked files
         shell: bash
         run: |
           set -euo pipefail
-          mkdir -p "$RUNNER_TEMP/veb-a7-acquisition"
-          node research/veb_a7_2026/validate_evidence.mjs | tee "$RUNNER_TEMP/veb-a7-acquisition/validation.txt"
-          node --test research/veb_a7_2026/validate_evidence.test.mjs | tee "$RUNNER_TEMP/veb-a7-acquisition/tests.txt"
-          node research/veb_a7_2026/validate_followup.mjs | tee "$RUNNER_TEMP/veb-a7-acquisition/followup.txt"
-          node research/veb_a7_2026/audit_rinfo.mjs > "$RUNNER_TEMP/veb-a7-acquisition/rinfo.json"
+          out="$RUNNER_TEMP/veb-corpus-court"
+          mkdir -p "$out"
+          node research/veb_a7_2026/validate_evidence.mjs > "$out/validation.txt"
+          node --test research/veb_a7_2026/validate_evidence.test.mjs > "$out/tests.txt"
           git diff --exit-code
-          git rev-parse HEAD > "$RUNNER_TEMP/veb-a7-acquisition/checkout-commit.txt"
-      - name: Acquire bounded public documents without executing them
+          git rev-parse HEAD > "$out/checkout.txt"
+      - name: Acquire identified public court pages without executing downloads
         shell: bash
         run: |
           python3 - <<'PY'
           import concurrent.futures, datetime, hashlib, json, os, pathlib, urllib.parse, urllib.request
-          out = pathlib.Path(os.environ['RUNNER_TEMP']) / 'veb-a7-acquisition'
+          root=pathlib.Path(os.environ['RUNNER_TEMP'])/'veb-corpus-court'
           class HTTPSOnly(urllib.request.HTTPRedirectHandler):
-              def redirect_request(self, req, fp, code, msg, headers, newurl):
-                  if urllib.parse.urlparse(newurl).scheme != 'https':
-                      raise ValueError('Refusing non-HTTPS redirect')
-                  return super().redirect_request(req, fp, code, msg, headers, newurl)
+              def redirect_request(self,req,fp,code,msg,headers,newurl):
+                  if urllib.parse.urlparse(newurl).scheme!='https': raise ValueError('Non-HTTPS redirect refused')
+                  return super().redirect_request(req,fp,code,msg,headers,newurl)
           def get(item):
-              name, raw_url = item
-              url = urllib.parse.quote(raw_url, safe=':/?=&%')
-              row = dict(file=name, url=url, retrieved_at=datetime.datetime.now(datetime.timezone.utc).isoformat())
+              name,url=item
+              row=dict(file=name,url=url,retrieved_at=datetime.datetime.now(datetime.timezone.utc).isoformat())
               try:
-                  req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 public-record-research'})
-                  with urllib.request.build_opener(HTTPSOnly()).open(req, timeout=90) as response:
-                      data = response.read(40000001)
-                      if len(data) > 40000000: raise ValueError('Size limit exceeded')
-                      row.update(final_url=response.url, content_type=response.headers.get('Content-Type',''), size=len(data))
-                  if name.endswith('.pdf') and not data.startswith(b'%PDF-'):
-                      raise ValueError('Response is not PDF; no purported source retained')
-                  (out / name).write_bytes(data)
-                  row.update(status='bytes_obtained_unreviewed', sha256=hashlib.sha256(data).hexdigest())
-              except Exception as error:
-                  row.update(status='not_retrieved', error=str(error))
+                  req=urllib.request.Request(url,headers={'User-Agent':'Mozilla/5.0 public-record-research'})
+                  with urllib.request.build_opener(HTTPSOnly()).open(req,timeout=90) as r:
+                      data=r.read(12000001)
+                      if len(data)>12000000: raise ValueError('12MB limit')
+                      row.update(final_url=r.url,content_type=r.headers.get('Content-Type',''))
+                  (root/name).write_bytes(data)
+                  row.update(status='bytes_obtained_unreviewed',bytes=len(data),sha256=hashlib.sha256(data).hexdigest())
+              except Exception as e:row.update(status='not_retrieved',error=str(e))
               return row
-          targets = [
-              ('trump-2018-disclosure.pdf', 'https://s3.documentcloud.org/documents/21154685/trump-oge-2018.pdf'),
-              ('aragon-h1-2026-ifrs.pdf', 'https://aragonsk.ru/zed/files/130_134.pdf'),
-              ('aragon-q1-2026-ras.pdf', 'https://aragonsk.ru/zed/files/122_126.pdf'),
-              ('aragon-h1-2026-ras.pdf', 'https://aragonsk.ru/zed/files/129_133.pdf'),
-              ('aragon-reports.html', 'https://aragonsk.ru/reporting/buhgalter'),
-              ('acra-a7-20251223.html', 'https://www.acra-ratings.ru/press-releases/6446/'),
-              ('a7-agent-registry-lead.html', 'https://zachestnyibiznes.ru/company/ul/1247700638570_9710138144'),
+          targets=[
+            ('avonwick-2020.html','https://caselaw.nationalarchives.gov.uk/ewhc/comm/2020/1844'),
+            ('appeal-2021-index.html','https://www.judiciary.uk/judgments/avonwick-holdings-limited-v-azitio-holdings-limited-ors/'),
+            ('ukraine-ruling-reproduction.html','https://youcontrol.com.ua/en/catalog/court-document/110589321/'),
+            ('icij-gorlane.html','https://offshoreleaks.icij.org/nodes/10210594'),
           ]
-          with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:
-              rows = list(pool.map(get, targets))
-          (out / 'manifest.json').write_text(json.dumps(rows, ensure_ascii=False, indent=2))
-          for row in rows: print(row['file'], row['status'], row.get('sha256',''), row.get('error',''))
+          with concurrent.futures.ThreadPoolExecutor(max_workers=2) as pool:rows=list(pool.map(get,targets))
+          (root/'acquisition.json').write_text(json.dumps(rows,indent=2))
+          for row in rows:print(row['file'],row['status'],row.get('bytes',''),row.get('error',''))
           PY
-      - name: Save one-day review artifact; no source PDFs committed
+      - name: Save temporary review artifact, not source files in repository
         if: always()
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
         with:
-          name: veb-a7-later-period-accounts
-          path: ${{ runner.temp }}/veb-a7-acquisition/
+          name: veb-corpus-court
+          path: ${{ runner.temp }}/veb-corpus-court/
           retention-days: 1
-          if-no-files-found: error
