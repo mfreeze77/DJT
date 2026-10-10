@@ -1,0 +1,134 @@
+{
+  "schema_version": 1,
+  "method": "PyMuPDF renders at 0.5 scale; exact pixel equality at sampled boundaries only; not full-file equality",
+  "aliases": {
+    "2017commons": "TR52",
+    "2017part4": "TR13",
+    "2017part5": "TR14",
+    "2016badpart": "TR09",
+    "2016commons": "TR53",
+    "2016part1": "TR07"
+  },
+  "samples": [
+    {
+      "first_file": "2017commons",
+      "first_page": 1,
+      "second_file": "2017part4",
+      "second_page": 1,
+      "render_size_a": [
+        306,
+        396
+      ],
+      "render_size_b": [
+        306,
+        396
+      ],
+      "exact_render_match": true
+    },
+    {
+      "first_file": "2017commons",
+      "first_page": 100,
+      "second_file": "2017part4",
+      "second_page": 100,
+      "render_size_a": [
+        306,
+        396
+      ],
+      "render_size_b": [
+        306,
+        396
+      ],
+      "exact_render_match": true
+    },
+    {
+      "first_file": "2017commons",
+      "first_page": 101,
+      "second_file": "2017part5",
+      "second_page": 1,
+      "render_size_a": [
+        306,
+        396
+      ],
+      "render_size_b": [
+        306,
+        396
+      ],
+      "exact_render_match": true
+    },
+    {
+      "first_file": "2017commons",
+      "first_page": 200,
+      "second_file": "2017part5",
+      "second_page": 100,
+      "render_size_a": [
+        306,
+        396
+      ],
+      "render_size_b": [
+        306,
+        396
+      ],
+      "exact_render_match": true
+    },
+    {
+      "first_file": "2017commons",
+      "first_page": 201,
+      "second_file": "2016badpart",
+      "second_page": 1,
+      "render_size_a": [
+        306,
+        396
+      ],
+      "render_size_b": [
+        306,
+        396
+      ],
+      "exact_render_match": true
+    },
+    {
+      "first_file": "2017commons",
+      "first_page": 306,
+      "second_file": "2016badpart",
+      "second_page": 106,
+      "render_size_a": [
+        306,
+        396
+      ],
+      "render_size_b": [
+        306,
+        396
+      ],
+      "exact_render_match": true
+    },
+    {
+      "first_file": "2016commons",
+      "first_page": 1,
+      "second_file": "2016part1",
+      "second_page": 1,
+      "render_size_a": [
+        306,
+        396
+      ],
+      "render_size_b": [
+        306,
+        396
+      ],
+      "exact_render_match": true
+    },
+    {
+      "first_file": "2016commons",
+      "first_page": 150,
+      "second_file": "2016part1",
+      "second_page": 150,
+      "render_size_a": [
+        306,
+        396
+      ],
+      "render_size_b": [
+        306,
+        396
+      ],
+      "exact_render_match": true
+    }
+  ]
+}

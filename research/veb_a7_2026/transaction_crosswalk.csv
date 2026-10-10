@@ -4,7 +4,7 @@ T02,toronto,2010-05-06,N19,N01,reported_payment,50000000,USD,S17,C21,judgment re
 T03,toronto,2010-05-19,N01,N19,reported_refund,50000000,USD,S17,C21,judgment references letter and SWIFT enclosures; enclosures not obtained,no
 T04,toronto,2010-05-19,N01,N19,reported_break_fee,50000000,USD,S17,C21,separate contractual fine; not Trump receipt,no
 T05,toronto,2010-05-19,N04,N01,sale_price,850000000,USD,S17,C21,judgment states price; not independently reconciled proceeds credit,no
-T06,toronto,2010,N05,N04,reported_buyer_financing,,,S05;S06;S17;S29,C05,original VEB facility and purchaser SPVs missing,no
+T06,toronto,2010,N05,N04,reported_buyer_financing,,,S05;S06;S17;S29;S59;S71;S72,C05;C60,Court describes VEB-associated joint funding and named buyers/payment agent; original facility and bank advances absent; no Toronto or Trump loan,no
 T07,toronto,on/about2011-06-06,N01,N02,reported_debt_assignment,,CAD,S18;S37,C24;C38;C50,assignment not cash transfer; executed assignment missing;2016 priority order is not2011 execution or cash evidence,no
 T08,toronto,2010 disputed,N01,N20,disputed_project_contribution,15000000,USD,S07;S29,C06,RF-014 reported then withdrawn/unconfirmed; excluded both totals,no
 T09,toronto,2007-10-09,N03,N11,security_face,400000000,CAD,S03,C09,debenture principal face; agent recipient not cash receipt,no
@@ -20,3 +20,4 @@ T18,a7,2025-12-31,N18,N22,reported_instrument_holding,693738000,RUB,S25,C28,13 n
 T19,a7,2026-09-17,N07,N07,programme_ceiling,200000000000,RUB,S27,C30,self-reference denotes issuer programme not payer/payee; no issued proceeds inferred,no
 T20,toronto,described2016-10-28; executed date requires agreement,N23,N15,management_contract,,,S40;S18,C41,Named hotel condominium counterparty; no fee amount invoice or actual remittance established,no
 T21,toronto,described2016-10-28; executed date requires agreement,N24,N15,management_contract,,,S40;S18,C41,Named residence condominium counterparty; not Talon or hotel corporation; no actual remittance established,no
+T22,toronto,2010-05-19,N31,N26,reported_payment,105825000,USD,S71;S72,C61;C62,Judgment records payment ON BEHALF OF Parborio; to_entity is benefited obligor NOT confirmed bank payee; underlying debit/credit and full appellate disposition not obtained; not additive to850m,no

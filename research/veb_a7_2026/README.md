@@ -1,5 +1,11 @@
 # VEB / A7 / Trump Toronto: evidence-ranked crosswalk
 
+## Latest corpus and public-tax follow-up (PR27)
+
+[Corpus/tax delta](corpus_tax_delta.md) · [Collection coverage](corpus_coverage.csv) · [Return inventory](return_inventory.csv) · [Tax/OGE reconciliation](tax_oge_reconciliation.csv) · [Search log](corpus_tax_search_log.md) · [Validation](corpus_tax_validation.md).
+
+The older PP source audit produced a dated Gorlane shareholder transition and a judicial payment-agent finding. The2017 amended parent tax return identifies the Toronto manager and its reported QSub election, but does not allocate the mixed OGE income or trace its bank source. Earlier reports remain dated research history; the new delta identifies corrections. No financial totals change.
+
 ## Latest accounting follow-up (PR26)
 
 [Original fee disclosures and later holder accounts](accounting_settlement_delta.md) adds a calendar2017 self-reported income amount, portfolio accounting, and source-linked unknowns. [Accounting reconciliation](accounting_reconciliation.csv) is not another total. Earlier reports remain preserved; RF-014 and the unresolved issuer boundary are unchanged.
