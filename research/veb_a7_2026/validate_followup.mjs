@@ -54,6 +54,16 @@ export function validateFollowup(root = resolve(here, '../..')) {
     assert(row.status?.trim() && row.date_or_period?.trim(), 'transaction missing limitation or period');
     if (row.amount !== '') { assert(uint(row.amount,row.transaction_id)>0,'unknown amount must be blank not zero'); assert(['USD','CAD','RUB'].includes(row.currency),'missing currency'); }
   }
+  // Wave3: later priority recognition is not a cash advance; named contracts are not receipts.
+  assert.equal(tx.get('T07')?.category,'reported_debt_assignment','assignment must not become cash');
+  assert.equal(tx.get('T07')?.amount,'','assignment amount remains unknown');
+  for (const [id,payer] of [['T20','N23'],['T21','N24']]) {
+    const row=tx.get(id);
+    assert(row && row.category==='management_contract' && row.from_entity_id===payer && row.to_entity_id==='N15','management counterparties require contract evidence');
+    assert.equal(row.amount,'','contract listing is not a paid fee');
+  }
+  assert.equal(tx.get('T18')?.category,'reported_instrument_holding','instrument holding is not payment');
+  assert.equal(tx.get('T18')?.currency,'RUB','carrying currency must not become face denomination');
   const disputed = tx.get('T08');
   assert(disputed && disputed.category === 'disputed_project_contribution' && disputed.amount === '15000000' && disputed.source_ids.split(';').includes('S07'),'RF014 crosswalk drift requires review');
   assert.equal(entities.get('N22')?.kind,'unresolved_issuer','do not merge name-only note issuer into A7');

@@ -105,7 +105,7 @@ function followupFixture(t) {
 }
 test('follow-up production records validate and remain read-only', () => {
   const before=readFileSync(join(repositoryRoot,f,'transaction_crosswalk.csv'),'utf8');
-  assert.deepEqual(validateFollowup(repositoryRoot),{entities:22,transactions:19,instruments:13,acquisitions:30});
+  assert.deepEqual(validateFollowup(repositoryRoot),{entities:24,transactions:21,instruments:13,acquisitions:39});
   assert.equal(readFileSync(join(repositoryRoot,f,'transaction_crosswalk.csv'),'utf8'),before);
 });
 const followupCases = [
@@ -124,4 +124,16 @@ const followupCases = [
 ];
 for (const [label,mutate] of followupCases) test(`follow-up rejects ${label}`,t=>{
   const x=followupFixture(t); mutate(x); assert.throws(()=>validateFollowup(x.root));
+});
+
+// Wave3 expectations change only for appended reviewed rows; original31 tests are unchanged.
+const wave3Cases = [
+  ['assignment promoted to payment',x=>x.edit('transaction_crosswalk.csv',s=>s.replace(',reported_debt_assignment,',',reported_payment,'))],
+  ['holding promoted to payment',x=>x.edit('transaction_crosswalk.csv',s=>s.replace(',reported_instrument_holding,',',reported_payment,'))],
+  ['carrying value treated as dollar settlement',x=>x.edit('transaction_crosswalk.csv',s=>s.replace(',693738000,RUB,',',693738000,USD,'))],
+  ['condominium counterparties merged',x=>x.edit('transaction_crosswalk.csv',s=>s.replace(',N23,N15,',',N24,N15,'))],
+  ['contract inventory promoted to fee amount',x=>x.edit('transaction_crosswalk.csv',s=>s.replace(',N23,N15,management_contract,,,',',N23,N15,management_contract,1,CAD,'))],
+];
+for (const [label,mutate] of wave3Cases) test(`wave3 rejects ${label}`,t=>{
+  const x=followupFixture(t);mutate(x);assert.throws(()=>validateFollowup(x.root));
 });
