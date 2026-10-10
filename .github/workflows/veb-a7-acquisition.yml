@@ -8,9 +8,9 @@ permissions:
   contents: read
 jobs:
   acquire:
-    if: github.head_ref == 'research/veb-a7-accounting-settlement'
+    if: github.head_ref == 'research/veb-a7-corpus-tax'
     runs-on: ubuntu-24.04
-    timeout-minutes: 12
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
         with:
@@ -18,64 +18,116 @@ jobs:
       - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020
         with:
           node-version: '22'
-      - name: Validate current checkout without changing tracked files
+      - name: Baseline checks and exact review checkout
         shell: bash
         run: |
           set -euo pipefail
-          mkdir -p "$RUNNER_TEMP/veb-a7-acquisition"
-          node research/veb_a7_2026/validate_evidence.mjs | tee "$RUNNER_TEMP/veb-a7-acquisition/validation.txt"
-          node --test research/veb_a7_2026/validate_evidence.test.mjs | tee "$RUNNER_TEMP/veb-a7-acquisition/tests.txt"
-          node research/veb_a7_2026/validate_followup.mjs | tee "$RUNNER_TEMP/veb-a7-acquisition/followup.txt"
-          node research/veb_a7_2026/audit_rinfo.mjs > "$RUNNER_TEMP/veb-a7-acquisition/rinfo.json"
+          out="$RUNNER_TEMP/veb-corpus"
+          mkdir -p "$out/index" "$out/tax" "$out/icij"
+          node research/veb_a7_2026/validate_evidence.mjs | tee "$out/index/validation.txt"
+          node --test research/veb_a7_2026/validate_evidence.test.mjs > "$out/index/tests.txt"
+          node research/veb_a7_2026/validate_followup.mjs > "$out/index/followup.txt"
+          node research/veb_a7_2026/validate_accounting.mjs > "$out/index/accounting.txt"
+          node research/veb_a7_2026/audit_rinfo.mjs > "$out/index/rinfo-integrity.json"
           git diff --exit-code
-          git rev-parse HEAD > "$RUNNER_TEMP/veb-a7-acquisition/checkout-commit.txt"
-      - name: Acquire bounded public documents without executing them
+          git rev-parse HEAD > "$out/index/checkout-commit.txt"
+          git ls-tree -r HEAD > "$out/index/checkout-tree.txt"
+          git archive --format=tar.gz HEAD > "$out/index/repository.tar.gz"
+      - name: Acquire bounded public source bytes; never execute source content
         shell: bash
         run: |
           python3 - <<'PY'
-          import concurrent.futures, datetime, hashlib, json, os, pathlib, urllib.parse, urllib.request
-          out = pathlib.Path(os.environ['RUNNER_TEMP']) / 'veb-a7-acquisition'
+          import concurrent.futures, datetime, hashlib, html.parser, json, os, pathlib, re, urllib.parse, urllib.request
+          root = pathlib.Path(os.environ['RUNNER_TEMP']) / 'veb-corpus'
           class HTTPSOnly(urllib.request.HTTPRedirectHandler):
               def redirect_request(self, req, fp, code, msg, headers, newurl):
                   if urllib.parse.urlparse(newurl).scheme != 'https':
-                      raise ValueError('Refusing non-HTTPS redirect')
+                      raise ValueError('Non-HTTPS redirect refused')
                   return super().redirect_request(req, fp, code, msg, headers, newurl)
           def get(item):
-              name, raw_url = item
+              rel, raw_url = item
               url = urllib.parse.quote(raw_url, safe=':/?=&%')
-              row = dict(file=name, url=url, retrieved_at=datetime.datetime.now(datetime.timezone.utc).isoformat())
+              row = dict(file=rel, url=url, retrieved_at=datetime.datetime.now(datetime.timezone.utc).isoformat())
+              dest = root / rel
+              tmp = dest.with_suffix(dest.suffix + '.partial')
               try:
-                  req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 public-record-research'})
-                  with urllib.request.build_opener(HTTPSOnly()).open(req, timeout=90) as response:
-                      data = response.read(40000001)
-                      if len(data) > 40000000: raise ValueError('Size limit exceeded')
-                      row.update(final_url=response.url, content_type=response.headers.get('Content-Type',''), size=len(data))
-                  if name.endswith('.pdf') and not data.startswith(b'%PDF-'):
-                      raise ValueError('Response is not PDF; no purported source retained')
-                  (out / name).write_bytes(data)
-                  row.update(status='bytes_obtained_unreviewed', sha256=hashlib.sha256(data).hexdigest())
+                  req = urllib.request.Request(url, headers={'User-Agent':'Mozilla/5.0 public-record-research'})
+                  digest, size = hashlib.sha256(), 0
+                  with urllib.request.build_opener(HTTPSOnly()).open(req, timeout=120) as response, tmp.open('wb') as out:
+                      row.update(final_url=response.url, content_type=response.headers.get('Content-Type',''), last_modified=response.headers.get('Last-Modified',''))
+                      while True:
+                          chunk = response.read(1024*1024)
+                          if not chunk: break
+                          size += len(chunk)
+                          if size > 200000000: raise ValueError('Per-file 200MB limit exceeded')
+                          digest.update(chunk); out.write(chunk)
+                  with tmp.open('rb') as inp: magic = inp.read(5)
+                  if dest.suffix == '.pdf' and magic != b'%PDF-': raise ValueError('Not a PDF')
+                  if dest.suffix == '.zip' and not magic.startswith(b'PK'): raise ValueError('Not a ZIP')
+                  tmp.replace(dest)
+                  row.update(status='bytes_obtained_unreviewed', bytes=size, sha256=digest.hexdigest())
               except Exception as error:
+                  tmp.unlink(missing_ok=True)
                   row.update(status='not_retrieved', error=str(error))
               return row
-          targets = [
-              ('trump-2018-disclosure.pdf', 'https://s3.documentcloud.org/documents/21154685/trump-oge-2018.pdf'),
-              ('aragon-h1-2026-ifrs.pdf', 'https://aragonsk.ru/zed/files/130_134.pdf'),
-              ('aragon-q1-2026-ras.pdf', 'https://aragonsk.ru/zed/files/122_126.pdf'),
-              ('aragon-h1-2026-ras.pdf', 'https://aragonsk.ru/zed/files/129_133.pdf'),
-              ('aragon-reports.html', 'https://aragonsk.ru/reporting/buhgalter'),
-              ('acra-a7-20251223.html', 'https://www.acra-ratings.ru/press-releases/6446/'),
-              ('a7-agent-registry-lead.html', 'https://zachestnyibiznes.ru/company/ul/1247700638570_9710138144'),
+          class Links(html.parser.HTMLParser):
+              def __init__(self): super().__init__(); self.links=[]; self.href=None; self.text=[]
+              def handle_starttag(self,tag,attrs):
+                  if tag=='a': self.href=dict(attrs).get('href'); self.text=[]
+              def handle_data(self,data):
+                  if self.href is not None: self.text.append(data)
+              def handle_endtag(self,tag):
+                  if tag=='a' and self.href is not None:
+                      self.links.append({'url':self.href,'label':''.join(self.text).strip()}); self.href=None
+          indexes = [
+              ('index/crew.html','https://www.citizensforethics.org/reports-investigations/crew-reports/trumps-tax-returns/'),
+              ('index/icij.html','https://offshoreleaks.icij.org/pages/database'),
+              ('index/icij-about.html','https://offshoreleaks.icij.org/pages/about'),
+              ('index/lawfare.html','https://www.lawfaremedia.org/article/house-ways-and-means-committee-releases-trump-tax-returns-obtained-under-irs-presidential-audit'),
+              ('index/jct-report.pdf','https://s3.documentcloud.org/documents/23559304/trumptax-joint-committee-final-report.pdf'),
           ]
-          with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:
-              rows = list(pool.map(get, targets))
-          (out / 'manifest.json').write_text(json.dumps(rows, ensure_ascii=False, indent=2))
-          for row in rows: print(row['file'], row['status'], row.get('sha256',''), row.get('error',''))
+          with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool: rows=list(pool.map(get,indexes))
+          targets=[]
+          for index_name,base in indexes[:4]:
+              file=root/index_name
+              if not file.exists(): continue
+              parser=Links(); parser.feed(file.read_text(errors='replace'))
+              for link in parser.links: link['url']=urllib.parse.urljoin(base,link['url'])
+              (root/'index'/f'{file.stem}-links.json').write_text(json.dumps(parser.links,indent=2))
+              if file.stem=='crew':
+                  urls=list(dict.fromkeys(x['url'] for x in parser.links if urllib.parse.urlparse(x['url']).path.lower().endswith('.pdf')))
+                  allowed={'www.citizensforethics.org','citizensforethics.org','s3.documentcloud.org'}
+                  for i,url in enumerate(urls[:60],1):
+                      if urllib.parse.urlparse(url).hostname in allowed:
+                          base_name=re.sub(r'[^A-Za-z0-9_.-]','_',urllib.parse.unquote(urllib.parse.urlparse(url).path.rsplit('/',1)[-1]))
+                          targets.append((f'tax/{i:02d}-{base_name}',url))
+              if file.stem=='icij':
+                  urls=list(dict.fromkeys(x['url'] for x in parser.links if 'offshoreleaks-data.icij.org/offshoreleaks/csv/' in x['url'] and x['url'].endswith('.zip')))
+                  for i,url in enumerate(urls[:1]): targets.append(('icij/full-oldb.zip',url))
+          with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool: rows.extend(pool.map(get,targets))
+          (root/'index'/'acquisition.json').write_text(json.dumps(rows,ensure_ascii=False,indent=2))
+          for row in rows: print(row['file'],row['status'],row.get('bytes',''),row.get('error',''))
           PY
-      - name: Save one-day review artifact; no source PDFs committed
+      - name: Save provenance and exact repository review copy
         if: always()
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
         with:
-          name: veb-a7-later-period-accounts
-          path: ${{ runner.temp }}/veb-a7-acquisition/
+          name: veb-corpus-indexes
+          path: ${{ runner.temp }}/veb-corpus/index/
           retention-days: 1
-          if-no-files-found: error
+      - name: Save public tax files temporarily
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: veb-tax-source-bytes
+          path: ${{ runner.temp }}/veb-corpus/tax/
+          retention-days: 1
+          compression-level: 0
+      - name: Save ICIJ public data snapshot temporarily
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: veb-icij-source-bytes
+          path: ${{ runner.temp }}/veb-corpus/icij/
+          retention-days: 1
+          compression-level: 0
