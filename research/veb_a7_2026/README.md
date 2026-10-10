@@ -2,9 +2,11 @@
 
 ## Latest corpus and public-tax follow-up (PR27)
 
-[Corpus/tax delta](corpus_tax_delta.md) · [Collection coverage](corpus_coverage.csv) · [Return inventory](return_inventory.csv) · [Tax/OGE reconciliation](tax_oge_reconciliation.csv) · [Search log](corpus_tax_search_log.md) · [Validation](corpus_tax_validation.md).
+[Corpus/tax delta](corpus_tax_delta.md) · [Reviewer assessment and next proof targets](review_assessment.md) · [Collection coverage](corpus_coverage.csv) · [Return inventory](return_inventory.csv) · [Tax/OGE reconciliation](tax_oge_reconciliation.csv) · [Search log](corpus_tax_search_log.md) · [Validation](corpus_tax_validation.md).
 
-The older PP source audit produced a dated Gorlane shareholder transition and a judicial payment-agent finding. The2017 amended parent tax return identifies the Toronto manager and its reported QSub election, but does not allocate the mixed OGE income or trace its bank source. Earlier reports remain dated research history; the new delta identifies corrections. No financial totals change.
+The older PP source audit produced a dated Gorlane shareholder transition and a judicial payment-agent finding. The 2017 amended parent tax return identifies the Toronto manager and its reported QSub election, but does not allocate the mixed OGE income or trace its bank source. Earlier reports remain dated research history; the new delta identifies corrections. No financial totals change.
+
+The reviewer assessment separates payment agent, benefited obligor and ultimate bank payee; distinguishes cash tracing from economic-dependence analysis; and prioritizes the original/amended tax reconciliation, buyout allocation and purchaser-closing records. It is analysis of the existing evidence, not another independent confirmation. [Additional regression checks](review_assessment.test.mjs) preserve those attribution and date boundaries without replacing the inherited tests.
 
 ## Latest accounting follow-up (PR26)
 
@@ -76,10 +78,11 @@ Run from the repository root using Node.js 22:
 
 ```sh
 node research/veb_a7_2026/validate_evidence.mjs
-node --test research/veb_a7_2026/validate_evidence.test.mjs
+node research/veb_a7_2026/validate_corpus_tax.mjs
+node --test research/veb_a7_2026/validate_evidence.test.mjs research/veb_a7_2026/review_assessment.test.mjs
 ```
 
-The validator checks CSV structure, unique record IDs, source references across all ledgers, mandatory exclusion of the disputed flows, crosswalk consistency, legacy snapshot drift, and Markdown source labels. The regression tests use **synthetic fixtures**, not additional research evidence. A structural pass does not authenticate a source or prove a financial allegation. Changes to the legacy snapshots require a corresponding evidence review, not restoration of an unsupported claim merely to satisfy a test.
+The validator checks CSV structure, unique record IDs, source references across all ledgers, mandatory exclusion of the disputed flows, crosswalk consistency, legacy snapshot drift, and Markdown source labels. The inherited regression tests use **synthetic fixtures**, not additional research evidence. Reviewer tests check the current production records and in-memory mutated copies for category, entity and date mistakes. A structural pass does not authenticate a source or prove a financial allegation. Changes to the legacy snapshots require a corresponding evidence review, not restoration of an unsupported claim merely to satisfy a test.
 
 ## Source keys
 
