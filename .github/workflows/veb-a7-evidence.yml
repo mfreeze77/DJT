@@ -36,7 +36,9 @@ jobs:
           node-version: '22'
       - name: Validate repository evidence structure
         run: node research/veb_a7_2026/validate_evidence.mjs
+      - name: Validate corpus and tax metadata
+        run: node research/veb_a7_2026/validate_corpus_tax.mjs
       - name: Test rejection of invalid evidence metadata
-        run: node --test research/veb_a7_2026/validate_evidence.test.mjs
+        run: node --test research/veb_a7_2026/validate_evidence.test.mjs research/veb_a7_2026/review_assessment.test.mjs
       - name: Confirm validation did not modify tracked files
         run: git diff --exit-code
