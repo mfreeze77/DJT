@@ -1,0 +1,25 @@
+entity_id,name,original_name,kind,identifiers,source_ids,identity_limit
+N01,Midland Resources Holding Limited,Midland Resources Holding Limited,legal_entity,Guernsey registration not obtained,S17;S18,Same exact name and Guernsey context in judgment and charge; director Roe corroborates; seek certified number
+N02,Midland Development Inc.,Midland Development Inc.,legal_entity,Ontario registration not obtained,S18;S37,Distinct Canadian entity from MRHL; reported assignment recipient;later court order recognizes assignee for priority only
+N03,Talon International Inc.,Talon International Inc.,legal_entity,Court CV-16-11573-00CL; not registry number,S18,Registered chargor; do not merge with Talon International Development Inc.
+N04,Troika buyers,Troika buyers,unresolved_group,Purchaser legal SPVs not obtained,S17,Troika Dialog intermediary label is not a substitute for purchaser identity
+N05,VEB.RF / Vnesheconombank,Государственная корпорация развития ВЭБ.РФ,legal_entity,OGRN1077711000102; INN7750004150,S21;S22,Exact owner identifier match; no account or officer continuity inferred
+N06,Promsvyazbank PSB,ПАО ПРОМСВЯЗЬБАНК,legal_entity,OGRN1027739019142; INN7744000912,S20,Owner49% in historical A7 extract; pledge still independently unverified
+N07,A7 LLC,ООО А7,legal_entity,OGRN1247700586891; INN9710137165,S20;S23,Created2024-09-02; cannot be actor in2010Toronto transaction
+N08,Ilan Shor,Илан Миронович Шор,person,No personal tax or identity number retained,S20;S21,Historical owner and A7 CEO; no Toronto role established
+N09,Exim International,ООО ЭКСИМ ИНТЕРНЕШНЛ,legal_entity,OGRN1247700421341; INN9703183019,S21,Created2024-06-07; CEO Alexander Mikhailovich Pleshakov; not established A7 subsidiary
+N10,A71 LLC,ООО А71,legal_entity,OGRN1247700638514; INN9710138137,S23;S24,Created2024-09-26 per OFAC; distinct from A7; presentation labels PSB borrower
+N11,BNY Trust Company of Canada,BNY Trust Company of Canada,legal_entity,Registry number not obtained,S18,Named agent not automatically lender on own balance sheet
+N12,Raiffeisen Zentralbank Oesterreich AG,Raiffeisen Zentralbank Österreich Aktiengesellschaft,legal_entity,Registry number not obtained,S18,Original2007 lender; do not silently replace with later RBI
+N13,Raiffeisen Bank International AG,Raiffeisen Bank International AG,legal_entity,Registry number not obtained,S18;S19,Later loan and non-disturbance party; legal succession documents not separately authenticated
+N14,Trump Marks Toronto LP,Trump Marks Toronto LP,legal_entity,Registry number not obtained,S19,Contract inventory says successor to Donald J. Trump; licensor not project account
+N15,Trump Toronto Hotel Management Corp.,Trump Toronto Hotel Management Corp.,legal_entity,Registry number not obtained,S18;S19;S29;S40,Manager; reported fee disclosure not independently obtained
+N16,Trump Canadian Services Inc.,Trump Canadian Services Inc.,legal_entity,Registry number not obtained,S19,Named development-services provider; paid amount unknown
+N17,Trump Toronto Development Inc.,Trump Toronto Development Inc.,legal_entity,Registry number not obtained,S19,Separate named development-services provider
+N18,OOO Aragon,ООО АРАГОН,legal_entity,OGRN1055475001053,S25,Financial statements holder of A7-named notes; no unlawful conduct inferred
+N19,Luxe Holding Ltd,Luxe Holding Ltd,legal_entity,Registry number not obtained,S17,Original purchaser and claimant; do not confuse with later Troika buyers
+N20,Toronto beneficial owners,Named borrower/beneficial-owner group,document_defined_group,Member list in S18/S19; not one legal person,S18;S19,Use individual member records before account-level matching
+N21,Derek Roe,Derek Roe,person,No personal identifier retained,S17;S18,MRHL director label; no A7 role found
+N22,A7 named in Aragon note table,ООО А7,unresolved_issuer,No issuer OGRN in reviewed Note16,S25,Candidate N07 match; not merged without note-register confirmation
+N23,Toronto Standard Condominium Corporation No.2267,Toronto Standard Condominium Corporation No. 2267,legal_entity,Condominium corporation number2267; corporate extract not obtained,S40;S18,Hotel condominium counterparty; do not merge with Talon or residence corporation2279
+N24,Toronto Standard Condominium Corporation No.2279,Toronto Standard Condominium Corporation No. 2279,legal_entity,Condominium corporation number2279; corporate extract not obtained,S40;S18,Residence condominium counterparty; do not merge with hotel corporation2267

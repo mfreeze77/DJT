@@ -1,18 +1,31 @@
 edge_id,from_entity,relationship,to_entity,period,classification,source_ids,transaction_amount,limitations
-E01,Ilan Shor,reported 51 percent equity,A7 LLC,2024-2025,reported registry-derived,S02,,Older extracts need retrieval
-E02,Promsvyazbank PSB,reported 49 percent equity,A7 LLC,2024-2025,reported registry-derived,S02,,Older extracts need retrieval
-E03,Promsvyazbank PSB,pledged its A7 stake to secure loans,VEB.RF,2025,FinCEN cited report,S01;S02,,No original pledge document or amount drawn
-E04,VEB.RF,reported loans to,A7 LLC,2025,FinCEN cited report,S01;S02,,Credit terms and disbursement missing
-E05,Ilan Shor,reported 75 percent equity,Exim International,2025,secondary report,S02,,Company extract missing
-E06,VEB.RF,reported 25 percent equity,Exim International,2025,secondary report,S02,,Company extract missing
+E01,Ilan Shor,51 percent equity,A7 LLC,2024-10-03 snapshot,historical registry extract,S02;S20,,Historical SPARK/RISE extract; no fresh certified registry response or proof of subsequent unchanged ownership
+E02,Promsvyazbank PSB,49 percent equity,A7 LLC,2024-10-03 snapshot,historical registry extract,S02;S20,,Historical SPARK/RISE extract; no fresh certified registry response or proof of subsequent unchanged ownership
+E03,Promsvyazbank PSB,pledged its A7 stake to secure loans,VEB.RF,2025,FinCEN cited report,S01;S02;S28,,No original pledge document or amount drawn
+E04,VEB.RF,reported loans to,A7 LLC,2025,FinCEN cited report,S01;S02;S28,,Credit terms and disbursement missing
+E05,Ilan Shor,75 percent equity,Exim International,2024-10-03 snapshot,historical registry extract,S02;S21,,Historical SPARK/RISE extract; no fresh certified registry response or proof of subsequent unchanged ownership
+E06,VEB.RF,25 percent equity,Exim International,2024-10-03 snapshot,historical registry extract,S02;S21;S22,,Historical SPARK/RISE extract; no fresh certified registry response or proof of subsequent unchanged ownership
 E07,Exim International,job ads describe A7 affiliation,A7 group,2025,operational affiliation claim,S02,,CIR says not formal A7 subsidiary
-E08,VEB-linked buyers,reported financing of purchase,Zaporizhstal steel stake,2010,documentary reporting,S05;S06,850000000,Upstream transaction not Trump receipt
+E08,VEB-linked buyers,reported financing of purchase,Zaporizhstal steel stake,2010,documentary reporting,S05;S06;S17;S29,850000000,Judgment confirms850m sale and MRHL seller; VEB financing still reporting-derived; buyer SPVs unresolved; not Trump receipt
 E09,Shnaider related entities,reported disputed onward project contribution,Trump Toronto project,2010,withdrawn or unconfirmed,S05;S06;S07,15000000,No verified bank-level bridge
 E10,Talon International,security instrument to,BNY Trust Company of Canada as agent,2007,court-filed instrument listing,S03,400000000 CAD,Face principal not drawdown
-E11,Midland Resources Holding Limited,junior registered mortgage,Trump Toronto property,2016,court-filed security summary,S03,,Not VEB provenance
-E12,Trump Organization,reported brand licensing and management,Trump Toronto,2007-2017,party statement,S05,,Executed license and fee payments missing
+E11,Midland Resources Holding Limited,junior registered mortgage,Trump Toronto property,2016,court-exhibited registered charge,S03;S18,,AT1599260 CAD200m face; not cash advance or VEB provenance
+E12,Trump Organization,reported brand licensing and management,Trump Toronto,2007-2017,party statement and court contract inventory,S05;S18;S19,,Named Trump contract entities now located; executed fee agreements and payment records missing
 E13,A7 network,officially attributed facilitation,IRGC and Iranian proxies,2025-2026,official government assessment,S01;S08,,Not an A7-to-Trump flow
 E14,Garantex,reported operational association,A7 network,2025-2026,government description,S09,,Not Trump payment
 E15,Karavatsky,historical board role,Peresvet Bank,2017,investigative reporting,S10,,Not A7-to-Rosneft financing
 E16,Exved intermediaries,reportedly named bank conduit,Deutsche Bank Hong Kong,2024-10,unverified intermediary claim,S11,,Not bank complicity or Trump loan overlap
 E17,Sergey Gorkov,transition meeting,Jared Kushner,2016,repo historical synthesis,S14,,Not loan or A7 arrangement
+E18,Troika buyers (legal SPVs unresolved),USD850m steel-interest sale,Midland Resources Holding Limited,2010-05-19,interim judgment record,S17,850000000 USD,Sale price not verified single cash credit and not VEB-as-purchaser finding
+E19,Midland Resources Holding Limited,cost-overrun completion guarantee and standstill,BNY Trust Company of Canada as agent,2007-10-09,court-exhibited signed counterparts,S18,,Guarantee obligation not actual funding or proof of cash source
+E20,Midland Resources Holding Limited,assigned subordinate debt and charge,Midland Development Inc.,on/about2011-06-06,sworn report plus later court priority recognition,S18;S37,,2016 order names MDI as assignee for priority only;2011 deed consideration and advances missing; debt assignment not cash transfer
+E21,Trump Marks Toronto LP,licensor under listed amended/restated agreement,Toronto beneficial owners,2007-09-25; amendment2012-01-30,court contract inventory,S19,,Agreement copy fee schedule and receipts missing
+E22,Trump Canadian Services Inc. and Trump Toronto Development Inc.,listed development services agreement,Toronto beneficial owners,2007-09-25,court contract inventory,S19,,Two separate named providers; listing not proof of amounts paid
+E23,A7 LLC,100 percent parent in company diagram,A71 LLC,2026-09,first-party corporate presentation,S24,,Current independently certified ownership not obtained
+E24,Promsvyazbank PSB,credit provider to sole group PSB borrower in company diagram,A71 LLC,2026-09,first-party described funding channel,S24;S23,,Not the VEB credit agreement and not disbursement proof
+E25,OOO Aragon,reported holder of13 USD promissory notes,Issuer named OOO A7 (identifier unresolved in table),2025-12-31,counterparty financial statements,S25,,Issuer identity and actual settlements not independently confirmed; no wrongdoing inferred
+E26,Derek Roe,MRHL director named in both documentary records,Midland Resources Holding Limited,2007 and2010,name-role match within Midland history,S17;S18,,Not a shared A7 officer or a money trace;same-company role expected under ordinary commerce; not independent coordination signal
+E27,Raiffeisen Zentralbank Oesterreich AG,original named construction-credit lender,Talon and named borrowers,2007-10-09,court-exhibited agreement,S18,,Commitment not actual draw; original lender name distinct from later RBI references
+E28,BNY Trust Company of Canada,contractual agent for lenders,Talon and named borrowers,2007-10-09,court-exhibited agreement,S18,,Agency is not beneficial ownership or own-account lending
+E29,Trump Toronto Hotel Management Corp.,reported hotel management agreement,Toronto Standard Condominium Corporation No.2267,as described2016-10-28,factum citing affidavit,S40;S18,,Executed agreement and remittances missing; not direct Talon payer inference
+E30,Trump Toronto Hotel Management Corp.,reported residence management agreement,Toronto Standard Condominium Corporation No.2279,as described2016-10-28,factum citing affidavit,S40;S18,,Distinct condominium counterparty from2267; fees and actual payers not established

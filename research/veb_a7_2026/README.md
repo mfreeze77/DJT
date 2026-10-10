@@ -1,7 +1,14 @@
 # VEB / A7 / Trump Toronto: evidence-ranked crosswalk
 **Research cut-off:** 2026-10-09. **Status:** working research, not a finding of a common payment chain.
 
-## Core finding
+
+## Original-record follow-up (PR25)
+
+Read [the research delta](research_delta.md) before relying on the inherited overview below. Historical A7/Exim extracts, the Luxe judgment, signed Toronto guarantee counterparts and registered MRHL charge now supply stronger support than PR24 had. The old overview is retained as research history; its statement that those ownership extracts remain missing is superseded by S20–S21. The VEB pledge, steel-to-project cash trace and Trump fee receipts are still unresolved.
+
+New review files: [entity crosswalk](entity_crosswalk.csv), [transaction crosswalk](transaction_crosswalk.csv), [A7-named note inventory](a7_note_inventory.csv), [acquisition manifest](acquisition_manifest.csv), [scoped search log](search_log.md), [rinfo audit](rinfo_audit.json), [separate policy appendix](policy_appendix.md), and [validation record](validation_results.md). Existing source/claim/relationship ledgers remain controlling. No amount in the new crosswalk is included in financial totals.
+
+## Inherited PR24 overview (read with the follow-up above)
 
 **VEB/VEB.RF is a common institution in two temporally distinct lines of research. No reviewed source establishes an A7-to-Trump transfer, a VEB-to-Trump loan, or a completed bank-level trace from VEB-financed steel proceeds to Trump Toronto fees.** Do not merge the two timelines.
 

@@ -87,3 +87,53 @@ const cases = [
 for (const [label, mutate] of cases) test(`rejects ${label}`, t => {
   const x = fixture(t); mutate(x); assert.throws(() => validateEvidence(x.root));
 });
+
+// PR25 adds separate contracts without weakening any of the31 inherited rejection tests.
+import { cpSync } from 'node:fs';
+import { resolve } from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { validateFollowup } from './validate_followup.mjs';
+const repositoryRoot = resolve(dirname(fileURLToPath(import.meta.url)), '../..');
+function followupFixture(t) {
+  const root = mkdtempSync(join(tmpdir(),'djt-followup-test-'));
+  t.after(() => rmSync(root,{recursive:true,force:true}));
+  mkdirSync(join(root,f),{recursive:true});
+  for (const name of ['sources.csv','claims.csv','entity_crosswalk.csv','transaction_crosswalk.csv',
+    'a7_note_inventory.csv','acquisition_manifest.csv','rinfo_audit.json']) cpSync(join(repositoryRoot,f,name),join(root,f,name));
+  cpSync(join(repositoryRoot,'rinfo.json'),join(root,'rinfo.json'));
+  return {root, edit(name,fn){const p=join(root,f,name);writeFileSync(p,fn(readFileSync(p,'utf8')));}};
+}
+test('follow-up production records validate and remain read-only', () => {
+  const before=readFileSync(join(repositoryRoot,f,'transaction_crosswalk.csv'),'utf8');
+  assert.deepEqual(validateFollowup(repositoryRoot),{entities:24,transactions:21,instruments:13,acquisitions:39});
+  assert.equal(readFileSync(join(repositoryRoot,f,'transaction_crosswalk.csv'),'utf8'),before);
+});
+const followupCases = [
+  ['unknown entity',x=>x.edit('transaction_crosswalk.csv',s=>s.replace(',N19,N01,',',N99,N01,'))],
+  ['total promotion',x=>x.edit('transaction_crosswalk.csv',s=>s.replace(/,no\r?\n/,',yes\n'))],
+  ['policy in financial ledger',x=>x.edit('transaction_crosswalk.csv',s=>s.replace(',toronto,',',policy,'))],
+  ['category laundering',x=>x.edit('transaction_crosswalk.csv',s=>s.replace(',security_face,',',cash_received,'))],
+  ['missing currency',x=>x.edit('transaction_crosswalk.csv',s=>s.replace(',USD,',',,'))],
+  ['unknown amount as zero',x=>x.edit('transaction_crosswalk.csv',s=>s.replace(',reported_buyer_financing,,,',',reported_buyer_financing,0,USD,'))],
+  ['note value drift',x=>x.edit('a7_note_inventory.csv',s=>s.replace(',400000,',',400001,'))],
+  ['issuer name-only promotion',x=>x.edit('entity_crosswalk.csv',s=>s.replace(',unresolved_issuer,',',legal_entity,'))],
+  ['fabricated unavailable hash',x=>x.edit('acquisition_manifest.csv',s=>s.replace('bytes_obtained','not_obtained'))],
+  ['unknown source',x=>x.edit('entity_crosswalk.csv',s=>s.replace('S17;S18','S99;S18'))],
+  ['inventory audit drift',x=>x.edit('rinfo_audit.json',s=>s.replace('44496','44495'))],
+  ['duplicate instrument',x=>x.edit('a7_note_inventory.csv',s=>s+s.split(/\r?\n/)[1]+'\n')],
+];
+for (const [label,mutate] of followupCases) test(`follow-up rejects ${label}`,t=>{
+  const x=followupFixture(t); mutate(x); assert.throws(()=>validateFollowup(x.root));
+});
+
+// Wave3 expectations change only for appended reviewed rows; original31 tests are unchanged.
+const wave3Cases = [
+  ['assignment promoted to payment',x=>x.edit('transaction_crosswalk.csv',s=>s.replace(',reported_debt_assignment,',',reported_payment,'))],
+  ['holding promoted to payment',x=>x.edit('transaction_crosswalk.csv',s=>s.replace(',reported_instrument_holding,',',reported_payment,'))],
+  ['carrying value treated as dollar settlement',x=>x.edit('transaction_crosswalk.csv',s=>s.replace(',693738000,RUB,',',693738000,USD,'))],
+  ['condominium counterparties merged',x=>x.edit('transaction_crosswalk.csv',s=>s.replace(',N23,N15,',',N24,N15,'))],
+  ['contract inventory promoted to fee amount',x=>x.edit('transaction_crosswalk.csv',s=>s.replace(',N23,N15,management_contract,,,',',N23,N15,management_contract,1,CAD,'))],
+];
+for (const [label,mutate] of wave3Cases) test(`wave3 rejects ${label}`,t=>{
+  const x=followupFixture(t);mutate(x);assert.throws(()=>validateFollowup(x.root));
+});
