@@ -99,13 +99,13 @@ function followupFixture(t) {
   t.after(() => rmSync(root,{recursive:true,force:true}));
   mkdirSync(join(root,f),{recursive:true});
   for (const name of ['sources.csv','claims.csv','entity_crosswalk.csv','transaction_crosswalk.csv',
-    'a7_note_inventory.csv','acquisition_manifest.csv','rinfo_audit.json']) cpSync(join(repositoryRoot,f,name),join(root,f,name));
+    'a7_note_inventory.csv','acquisition_manifest.csv','rinfo_audit.json','accounting_reconciliation.csv']) cpSync(join(repositoryRoot,f,name),join(root,f,name));
   cpSync(join(repositoryRoot,'rinfo.json'),join(root,'rinfo.json'));
   return {root, edit(name,fn){const p=join(root,f,name);writeFileSync(p,fn(readFileSync(p,'utf8')));}};
 }
 test('follow-up production records validate and remain read-only', () => {
   const before=readFileSync(join(repositoryRoot,f,'transaction_crosswalk.csv'),'utf8');
-  assert.deepEqual(validateFollowup(repositoryRoot),{entities:24,transactions:21,instruments:13,acquisitions:39});
+  assert.deepEqual(validateFollowup(repositoryRoot),{entities:24,transactions:21,instruments:13,acquisitions:57});
   assert.equal(readFileSync(join(repositoryRoot,f,'transaction_crosswalk.csv'),'utf8'),before);
 });
 const followupCases = [
@@ -136,4 +136,23 @@ const wave3Cases = [
 ];
 for (const [label,mutate] of wave3Cases) test(`wave3 rejects ${label}`,t=>{
   const x=followupFixture(t);mutate(x);assert.throws(()=>validateFollowup(x.root));
+});
+
+// PR26: mutations prove the new accounting boundaries reject promotion and invented reconciliation.
+const accountingCases = [
+  ['income promoted to payment', s=>s.replace(',self_reported_income,',',portfolio_cash_flow,')],
+  ['unknown principal filled with zero', s=>s.replace(',opening_principal,,CAD,',',opening_principal,0,CAD,')],
+  ['mixed income silently narrowed', s=>s.replace(',management_fees_and_other_contract_payments,',',management_fees,')],
+  ['calendar period shifted', s=>s.replace('2017-01-01/2017-12-31','2018-01-01/2018-12-31')],
+  ['bank match invented', s=>s.replace(',not_obtained,no,',',matched,no,')],
+  ['issuer candidate merged', s=>s.replace('N22 unresolved A7-named issuer; not N07','N07 confirmed issuer')],
+  ['portfolio allocated to serial', s=>s.replace('R20,a7,N18,,','R20,a7,N18,A7R0004947,')],
+  ['disclosure currency changed', s=>s.replace(',611864,USD,',',611864,CAD,')],
+  ['book closing silently repaired', s=>s.replace(',514411000,RUB,',',514412000,RUB,')],
+  ['loan balance turned into note record', s=>s.replace('R26,a7,N18,,','R26,a7,N18,A7R0004947,')],
+  ['accounting totals promoted', s=>s.replace(/,not_obtained,no,/,',not_obtained,yes,')],
+  ['duplicate accounting row', s=>s+s.split(/\r?\n/)[1]+'\n'],
+];
+for (const [label,mutate] of accountingCases) test(`accounting rejects ${label}`,t=>{
+  const x=followupFixture(t);x.edit('accounting_reconciliation.csv',mutate);assert.throws(()=>validateFollowup(x.root));
 });

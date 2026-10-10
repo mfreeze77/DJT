@@ -5,14 +5,14 @@ T03,toronto,2010-05-19,N01,N19,reported_refund,50000000,USD,S17,C21,judgment ref
 T04,toronto,2010-05-19,N01,N19,reported_break_fee,50000000,USD,S17,C21,separate contractual fine; not Trump receipt,no
 T05,toronto,2010-05-19,N04,N01,sale_price,850000000,USD,S17,C21,judgment states price; not independently reconciled proceeds credit,no
 T06,toronto,2010,N05,N04,reported_buyer_financing,,,S05;S06;S17;S29,C05,original VEB facility and purchaser SPVs missing,no
-T07,toronto,on/about2011-06-06,N01,N02,reported_debt_assignment,,CAD,S18;S37,C24;C38,assignment not cash transfer; executed assignment missing;2016 priority order is not2011 execution or cash evidence,no
+T07,toronto,on/about2011-06-06,N01,N02,reported_debt_assignment,,CAD,S18;S37,C24;C38;C50,assignment not cash transfer; executed assignment missing;2016 priority order is not2011 execution or cash evidence,no
 T08,toronto,2010 disputed,N01,N20,disputed_project_contribution,15000000,USD,S07;S29,C06,RF-014 reported then withdrawn/unconfirmed; excluded both totals,no
 T09,toronto,2007-10-09,N03,N11,security_face,400000000,CAD,S03,C09,debenture principal face; agent recipient not cash receipt,no
 T10,toronto,2007-10-09,N03,N01,security_face,200000000,CAD,S18,C10,registered charge AT1599260; not advanced cash,no
 T11,toronto,2016-09-30,N20,N02,reported_debt_balance,105651246,CAD,S18,C23,includes interest; later assignment to N02 reported; reconcile actual creditor; creditor mapped to reported MDI assignee under paragraph74; ownership not independently verified,no
 T12,toronto,2016-09-30,N20,N02,reported_guarantee_fee_due,9315000,CAD,S18,C23,Midland guarantee fee not Trump licensing fee; reported due not paid; creditor mapped to reported MDI assignee under paragraph74; ownership not independently verified,no
 T13,toronto,2007-09-25;2012-01-30 amendment,N20,N14,license_contract,,,S19,C26,fee schedule and actual remittances not obtained,no
-T14,toronto,2012-10-22 and2012-12-13,N20,N15,management_contract,,,S18,C07,Legacy group-level management-contract lead; use T20/T21 for named counterparts; not another payment or direct beneficial-owner remittance,no
+T14,toronto,2012-10-22 and2012-12-13,N20,N15,management_contract,,,S18;S45;S46;S47,C07;C46;C47;C48,Group-level contract lead; specific self-reported income in accounting_reconciliation.csv is not a Talon-to-recipient bank match; amount remains blank,no
 T15,a7,2025-02 reported,N06,N05,reported_equity_pledge,,,S02;S28,C02,49% A7 stake reportedly pledged; secured borrower and loan terms need originals,no
 T16,a7,2025 reported,N05,N07,reported_credit,,,S02;S28,C02,no verified commitment amount draw maturity balance or purpose,no
 T17,a7,2026-09 model,N06,N10,described_credit_channel,,,S24,C27,company model PSB borrower A71; not VEB advance,no
