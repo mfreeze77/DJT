@@ -18,116 +18,105 @@ jobs:
       - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020
         with:
           node-version: '22'
-      - name: Baseline checks and exact review checkout
+      - name: Validate the exact checkout
         shell: bash
         run: |
           set -euo pipefail
-          out="$RUNNER_TEMP/veb-corpus"
-          mkdir -p "$out/index" "$out/tax" "$out/icij"
-          node research/veb_a7_2026/validate_evidence.mjs | tee "$out/index/validation.txt"
+          out="$RUNNER_TEMP/veb-tax-split"
+          mkdir -p "$out/index" "$out/A" "$out/B" "$out/C" "$out/D"
+          node research/veb_a7_2026/validate_evidence.mjs > "$out/index/validation.txt"
           node --test research/veb_a7_2026/validate_evidence.test.mjs > "$out/index/tests.txt"
           node research/veb_a7_2026/validate_followup.mjs > "$out/index/followup.txt"
           node research/veb_a7_2026/validate_accounting.mjs > "$out/index/accounting.txt"
           node research/veb_a7_2026/audit_rinfo.mjs > "$out/index/rinfo-integrity.json"
           git diff --exit-code
-          git rev-parse HEAD > "$out/index/checkout-commit.txt"
-          git ls-tree -r HEAD > "$out/index/checkout-tree.txt"
-          git archive --format=tar.gz HEAD > "$out/index/repository.tar.gz"
-      - name: Acquire bounded public source bytes; never execute source content
+          git rev-parse HEAD > "$out/index/checkout.txt"
+      - name: Acquire public mirror files with HTTPS and per-file limits
         shell: bash
         run: |
           python3 - <<'PY'
           import concurrent.futures, datetime, hashlib, html.parser, json, os, pathlib, re, urllib.parse, urllib.request
-          root = pathlib.Path(os.environ['RUNNER_TEMP']) / 'veb-corpus'
+          root=pathlib.Path(os.environ['RUNNER_TEMP'])/'veb-tax-split'
           class HTTPSOnly(urllib.request.HTTPRedirectHandler):
-              def redirect_request(self, req, fp, code, msg, headers, newurl):
-                  if urllib.parse.urlparse(newurl).scheme != 'https':
-                      raise ValueError('Non-HTTPS redirect refused')
-                  return super().redirect_request(req, fp, code, msg, headers, newurl)
+              def redirect_request(self,req,fp,code,msg,headers,newurl):
+                  if urllib.parse.urlparse(newurl).scheme!='https': raise ValueError('Non-HTTPS redirect refused')
+                  return super().redirect_request(req,fp,code,msg,headers,newurl)
           def get(item):
-              rel, raw_url = item
-              url = urllib.parse.quote(raw_url, safe=':/?=&%')
-              row = dict(file=rel, url=url, retrieved_at=datetime.datetime.now(datetime.timezone.utc).isoformat())
-              dest = root / rel
-              tmp = dest.with_suffix(dest.suffix + '.partial')
+              rel,url=item; dest=root/rel; tmp=dest.with_suffix('.partial')
+              row=dict(file=rel,url=url,retrieved_at=datetime.datetime.now(datetime.timezone.utc).isoformat())
               try:
-                  req = urllib.request.Request(url, headers={'User-Agent':'Mozilla/5.0 public-record-research'})
-                  digest, size = hashlib.sha256(), 0
-                  with urllib.request.build_opener(HTTPSOnly()).open(req, timeout=120) as response, tmp.open('wb') as out:
-                      row.update(final_url=response.url, content_type=response.headers.get('Content-Type',''), last_modified=response.headers.get('Last-Modified',''))
+                  req=urllib.request.Request(url,headers={'User-Agent':'Mozilla/5.0 public-record-research'})
+                  h=hashlib.sha256(); size=0
+                  with urllib.request.build_opener(HTTPSOnly()).open(req,timeout=120) as r,tmp.open('wb') as out:
+                      row.update(final_url=r.url,content_type=r.headers.get('Content-Type',''))
                       while True:
-                          chunk = response.read(1024*1024)
-                          if not chunk: break
-                          size += len(chunk)
-                          if size > 200000000: raise ValueError('Per-file 200MB limit exceeded')
-                          digest.update(chunk); out.write(chunk)
-                  with tmp.open('rb') as inp: magic = inp.read(5)
-                  if dest.suffix == '.pdf' and magic != b'%PDF-': raise ValueError('Not a PDF')
-                  if dest.suffix == '.zip' and not magic.startswith(b'PK'): raise ValueError('Not a ZIP')
-                  tmp.replace(dest)
-                  row.update(status='bytes_obtained_unreviewed', bytes=size, sha256=digest.hexdigest())
-              except Exception as error:
-                  tmp.unlink(missing_ok=True)
-                  row.update(status='not_retrieved', error=str(error))
+                          b=r.read(1048576)
+                          if not b: break
+                          size+=len(b)
+                          if size>200000000: raise ValueError('200MB file limit')
+                          h.update(b);out.write(b)
+                  if dest.suffix=='.pdf':
+                      with tmp.open('rb') as f:
+                          if f.read(5)!=b'%PDF-': raise ValueError('Not PDF')
+                  tmp.replace(dest);row.update(status='bytes_obtained_unreviewed',bytes=size,sha256=h.hexdigest())
+              except Exception as e:
+                  tmp.unlink(missing_ok=True);row.update(status='not_retrieved',error=str(e))
               return row
+          url='https://www.citizensforethics.org/reports-investigations/crew-reports/trumps-tax-returns/'
+          rows=[get(('index/crew.html',url))]
           class Links(html.parser.HTMLParser):
-              def __init__(self): super().__init__(); self.links=[]; self.href=None; self.text=[]
+              def __init__(self): super().__init__();self.urls=[]
               def handle_starttag(self,tag,attrs):
-                  if tag=='a': self.href=dict(attrs).get('href'); self.text=[]
-              def handle_data(self,data):
-                  if self.href is not None: self.text.append(data)
-              def handle_endtag(self,tag):
-                  if tag=='a' and self.href is not None:
-                      self.links.append({'url':self.href,'label':''.join(self.text).strip()}); self.href=None
-          indexes = [
-              ('index/crew.html','https://www.citizensforethics.org/reports-investigations/crew-reports/trumps-tax-returns/'),
-              ('index/icij.html','https://offshoreleaks.icij.org/pages/database'),
-              ('index/icij-about.html','https://offshoreleaks.icij.org/pages/about'),
-              ('index/lawfare.html','https://www.lawfaremedia.org/article/house-ways-and-means-committee-releases-trump-tax-returns-obtained-under-irs-presidential-audit'),
-              ('index/jct-report.pdf','https://s3.documentcloud.org/documents/23559304/trumptax-joint-committee-final-report.pdf'),
-          ]
-          with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool: rows=list(pool.map(get,indexes))
-          targets=[]
-          for index_name,base in indexes[:4]:
-              file=root/index_name
-              if not file.exists(): continue
-              parser=Links(); parser.feed(file.read_text(errors='replace'))
-              for link in parser.links: link['url']=urllib.parse.urljoin(base,link['url'])
-              (root/'index'/f'{file.stem}-links.json').write_text(json.dumps(parser.links,indent=2))
-              if file.stem=='crew':
-                  urls=list(dict.fromkeys(x['url'] for x in parser.links if urllib.parse.urlparse(x['url']).path.lower().endswith('.pdf')))
-                  allowed={'www.citizensforethics.org','citizensforethics.org','s3.documentcloud.org'}
-                  for i,url in enumerate(urls[:60],1):
-                      if urllib.parse.urlparse(url).hostname in allowed:
-                          base_name=re.sub(r'[^A-Za-z0-9_.-]','_',urllib.parse.unquote(urllib.parse.urlparse(url).path.rsplit('/',1)[-1]))
-                          targets.append((f'tax/{i:02d}-{base_name}',url))
-              if file.stem=='icij':
-                  urls=list(dict.fromkeys(x['url'] for x in parser.links if 'offshoreleaks-data.icij.org/offshoreleaks/csv/' in x['url'] and x['url'].endswith('.zip')))
-                  for i,url in enumerate(urls[:1]): targets.append(('icij/full-oldb.zip',url))
+                  if tag=='a':
+                      v=urllib.parse.urljoin(url,dict(attrs).get('href',''))
+                      if urllib.parse.urlparse(v).path.lower().endswith('.pdf'): self.urls.append(v)
+          parser=Links();parser.feed((root/'index/crew.html').read_text(errors='replace'))
+          urls=list(dict.fromkeys(parser.urls))[:60];targets=[]
+          for i,u in enumerate(urls,1):
+              if urllib.parse.urlparse(u).hostname not in {'www.citizensforethics.org','citizensforethics.org','s3.documentcloud.org'}: continue
+              group='A' if i<=9 else 'B' if i<=22 else 'C' if i<=36 else 'D'
+              name=re.sub(r'[^A-Za-z0-9_.-]','_',urllib.parse.unquote(urllib.parse.urlparse(u).path.rsplit('/',1)[-1]))
+              targets.append((f'{group}/{i:02d}-{name}',u))
           with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool: rows.extend(pool.map(get,targets))
-          (root/'index'/'acquisition.json').write_text(json.dumps(rows,ensure_ascii=False,indent=2))
+          (root/'index/acquisition.json').write_text(json.dumps(rows,indent=2))
           for row in rows: print(row['file'],row['status'],row.get('bytes',''),row.get('error',''))
           PY
-      - name: Save provenance and exact repository review copy
+      - name: Save split manifest
         if: always()
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
         with:
-          name: veb-corpus-indexes
-          path: ${{ runner.temp }}/veb-corpus/index/
+          name: veb-tax-split-index
+          path: ${{ runner.temp }}/veb-tax-split/index/
           retention-days: 1
-      - name: Save public tax files temporarily
+      - name: Save tax group A
         if: always()
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
         with:
-          name: veb-tax-source-bytes
-          path: ${{ runner.temp }}/veb-corpus/tax/
-          retention-days: 1
+          name: veb-tax-A
+          path: ${{ runner.temp }}/veb-tax-split/A/
           compression-level: 0
-      - name: Save ICIJ public data snapshot temporarily
+          retention-days: 1
+      - name: Save tax group B
         if: always()
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
         with:
-          name: veb-icij-source-bytes
-          path: ${{ runner.temp }}/veb-corpus/icij/
-          retention-days: 1
+          name: veb-tax-B
+          path: ${{ runner.temp }}/veb-tax-split/B/
           compression-level: 0
+          retention-days: 1
+      - name: Save tax group C
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: veb-tax-C
+          path: ${{ runner.temp }}/veb-tax-split/C/
+          compression-level: 0
+          retention-days: 1
+      - name: Save tax group D
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: veb-tax-D
+          path: ${{ runner.temp }}/veb-tax-split/D/
+          compression-level: 0
+          retention-days: 1
