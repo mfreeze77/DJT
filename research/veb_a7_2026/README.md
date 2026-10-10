@@ -1,4 +1,8 @@
 # VEB / A7 / Trump Toronto: evidence-ranked crosswalk
+
+## Latest accounting follow-up (PR26)
+
+[Original fee disclosures and later holder accounts](accounting_settlement_delta.md) adds a calendar2017 self-reported income amount, portfolio accounting, and source-linked unknowns. [Accounting reconciliation](accounting_reconciliation.csv) is not another total. Earlier reports remain preserved; RF-014 and the unresolved issuer boundary are unchanged.
 **Research cut-off:** 2026-10-09. **Status:** working research, not a finding of a common payment chain.
 
 

@@ -110,3 +110,8 @@ A verified note-series/issuer match strengthens the specific counterparty link. 
 ### Priority E — Specific cross-period and policy tests
 
 Seek VEB buyer-finance approvals, unit names and signatory dates only after purchaser identity is resolved. Compare actual named roles against later A7/Exim files; do not search an ever-widening graph of unrelated Russian associations. Keep customs/procurement/payment requests and ICCimplementation-effects records in the policy appendix, outside financial totals unless an actual transaction emerges.
+
+
+## PR26 acquisition-status update and narrowed requests
+
+Original disclosure reproductions for2016,2017,2018 and Aragon H1 2026 accounts have now been obtained; earlier statements that those fee forms were missing are superseded for these specific versions only. The [accounting/settlement delta](accounting_settlement_delta.md#6-next-requests-narrowed-by-the-records-drafts-only-not-sent) preserves the actual findings and new unsent drafts. The priority is now the calendar2017 USD2273297 mixed-category allocation and recipient/remitter reconciliation; MRHL cost-overrun demand/agent records and2011 consideration; and serial-level holder records explaining the H1 securities/deposit-account labeling discrepancy. Original VEB facility, buyer closing, issuer identity and bank settlements remain unacquired. No outreach or purchase was made.

@@ -6,6 +6,7 @@ import { resolve, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { parseCsv } from './validate_evidence.mjs';
 import { auditRinfo } from './audit_rinfo.mjs';
+import { validateAccounting } from './validate_accounting.mjs';
 const here = dirname(fileURLToPath(import.meta.url));
 const folder = 'research/veb_a7_2026/';
 export function validateFollowup(root = resolve(here, '../..')) {
@@ -94,6 +95,7 @@ export function validateFollowup(root = resolve(here, '../..')) {
   assert.deepEqual(stored,auditRinfo(root),'rinfo audit drift requires review');
   assert.equal(stored.sha256,'6ecd7c7c9e7673b7599750611813dce754cb9e84d91fc001ffb05ca0a6093ba4');
   assert.equal(stored.leaf_values.file,44496);
+  validateAccounting(root); // New accounting controls supplement all inherited protections.
   return {entities:entities.size,transactions:tx.size,instruments:notes.size,acquisitions:manifest.size};
 }
 if (process.argv[1] && resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
