@@ -1,0 +1,60 @@
+name: Quinira public judgment-search schema
+on:
+  pull_request:
+    types: [opened, synchronize]
+    paths: ['.github/workflows/quinira-court-schema-once.yml']
+permissions:
+  contents: read
+jobs:
+  acquire:
+    if: github.run_number == 1 && github.head_ref == 'research/gorlane-financing-quinira-20261011' && github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - name: Read public HTML and same-origin search scripts as text only
+        run: |
+          python3 - <<'PY'
+          import pathlib,os,urllib.request,urllib.parse,urllib.error,json,hashlib,datetime,time
+          from html.parser import HTMLParser
+          root=pathlib.Path(os.environ['RUNNER_TEMP'])/'quinira-court-schema';root.mkdir()
+          class Parser(HTMLParser):
+              def __init__(self):super().__init__();self.scripts=[]
+              def handle_starttag(self,tag,attrs):
+                  a=dict(attrs)
+                  if tag=='script' and a.get('src'):self.scripts.append(a['src'])
+          class SecureRedirect(urllib.request.HTTPRedirectHandler):
+              def redirect_request(self,req,fp,code,msg,headers,newurl):
+                  if urllib.parse.urlparse(newurl).scheme!='https':raise ValueError('Refuse non-HTTPS redirect')
+                  return super().redirect_request(req,fp,code,msg,headers,newurl)
+          opener=urllib.request.build_opener(SecureRedirect());rows=[];blocked=False
+          def get(name,url):
+              global blocked
+              row={'file':name,'requested_url':url,'retrieved_at':datetime.datetime.now(datetime.timezone.utc).isoformat(),'status':'not_obtained','review_status':'unreviewed'}
+              try:
+                  with opener.open(url,timeout=30) as r:
+                      b=r.read(3000001);row.update(http_status=r.status,final_url=r.url,content_type=r.headers.get('Content-Type',''))
+                  if len(b)>3000000:raise ValueError('size limit')
+                  (root/name).write_bytes(b);row.update(status='bytes_obtained_unreviewed',bytes=len(b),sha256=hashlib.sha256(b).hexdigest())
+                  if any(x in b.lower() for x in [b'smartcaptcha',b'cf-chl-',b'g-recaptcha']):blocked=True;row['status']='access_challenge_retained'
+                  rows.append(row);time.sleep(2);return b
+              except Exception as e:row['error']=str(e);blocked=True
+              rows.append(row);return None
+          home='https://ras.arbitr.ru/'
+          b=get('ras-home.html',home)
+          if b and not blocked:
+              p=Parser();p.feed(b.decode('utf-8','replace'))
+              urls=[urllib.parse.urljoin(home,u) for u in p.scripts]
+              (root/'script-links.json').write_text(json.dumps(urls,indent=2))
+              targets=[u for u in urls if urllib.parse.urlparse(u).hostname=='ras.arbitr.ru' and not any(x in u.lower() for x in ['jquery','modernizr','bootstrap'])][:6]
+              for i,u in enumerate(targets,1):
+                  if blocked:break
+                  get(f'search-script-{i:02}.txt',u)
+          (root/'acquisition.json').write_text(json.dumps(rows,indent=2))
+          print([(r['file'],r['status']) for r in rows])
+          PY
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        if: always()
+        with:
+          name: quinira-court-schema
+          path: ${{ runner.temp }}/quinira-court-schema/
+          retention-days: 7
