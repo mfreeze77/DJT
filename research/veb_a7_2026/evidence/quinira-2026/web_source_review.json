@@ -1,0 +1,40 @@
+{
+  "retrieval_method": "web tool native text and specified screenshots; binary payload not acquired locally",
+  "source_ids": [
+    "S112",
+    "S113",
+    "S114",
+    "S115",
+    "S116",
+    "S119"
+  ],
+  "tax_scope": {
+    "S112": {
+      "url": "https://www.nyc.gov/assets/finance/downloads/pdf/17pdf/business_tax_forms/nyc-3l_instr_2017.pdf",
+      "year_label": "2017",
+      "revision_footer": "08.24.2018",
+      "reviewed_physical_pages": [
+        "1 image/native",
+        "8 selected native ScheduleBline1",
+        "16 image/native Question13"
+      ],
+      "finding": "Question13 excludes QSSS items from parent separate City report; subsidiary separate GCT return or separate member of qualifying combined group",
+      "not_proven": "Filed taxpayer form or Q12 exact return referent"
+    },
+    "S113": {
+      "url": "https://www.nyc.gov/assets/finance/downloads/pdf/17pdf/business_tax_forms/nyc-3l_2017.pdf",
+      "locator": "Physical6 ScheduleJquestion13; physical7 attachment instruction",
+      "finding": "Blank form requires QSSS schedule and asks if subsidiary filed or was required to file City business-income return"
+    },
+    "S114": {
+      "url": "https://www.nyc.gov/assets/finance/downloads/pdf/17pdf/business_tax_forms/nyc-att-s-corp_2017.pdf",
+      "locator": "Single page entire image/native",
+      "finding": "City attachment converts1120S items to federal-taxable-income computation for specified City forms; line22 carries to City ScheduleBline1"
+    },
+    "S115": {
+      "url": "https://www.nyc.gov/assets/finance/downloads/pdf/99pdf/fm99_3.pdf",
+      "locator": "Both pages native;1999-10-21",
+      "finding": "Federal/City separate-treatment contrast; explicitly advisory/nonbinding"
+    }
+  }
+}
