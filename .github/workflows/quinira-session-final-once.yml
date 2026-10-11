@@ -1,0 +1,78 @@
+name: Quinira final session and court check
+on:
+  pull_request:
+    types: [opened, synchronize]
+    paths: ['.github/workflows/quinira-session-final-once.yml']
+permissions:
+  contents: read
+jobs:
+  acquire:
+    if: github.run_number == 1 && github.head_ref == 'research/gorlane-financing-quinira-20261011' && github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-24.04
+    timeout-minutes: 9
+    steps:
+      - name: Follow normal free form session once and stop on remaining restrictions
+        run: |
+          python3 - <<'PY'
+          import datetime,hashlib,json,os,pathlib,time,urllib.request,urllib.parse,urllib.error,http.cookiejar
+          from html.parser import HTMLParser
+          root=pathlib.Path(os.environ['RUNNER_TEMP'])/'quinira-session-final';root.mkdir()
+          class Parser(HTMLParser):
+              def __init__(self):super().__init__();self.fields={};self.links=[];self.action=None
+              def handle_starttag(self,tag,attrs):
+                  a=dict(attrs);ty=a.get('type','').lower()
+                  if tag=='form':self.action=a.get('action')
+                  if tag=='input' and a.get('name') and (ty in ['hidden','text'] or ty=='radio' and 'checked' in a):self.fields[a['name']]=a.get('value','')
+                  if tag=='a' and a.get('href'):self.links.append(a['href'])
+          class SecureRedirect(urllib.request.HTTPRedirectHandler):
+              def redirect_request(self,req,fp,code,msg,headers,newurl):
+                  if urllib.parse.urlparse(newurl).scheme!='https':raise ValueError('Non-HTTPS redirect refused')
+                  return super().redirect_request(req,fp,code,msg,headers,newurl)
+          opener=urllib.request.build_opener(SecureRedirect(),urllib.request.HTTPCookieProcessor(http.cookiejar.CookieJar()))
+          rows=[];blocked=set()
+          def get(name,url,data=None,referer=None):
+              host=urllib.parse.urlparse(url).hostname
+              row={'file':name,'requested_url':url,'method':'POST-public-form' if data else 'GET','retrieved_at':datetime.datetime.now(datetime.timezone.utc).isoformat(),'review_status':'unreviewed'}
+              if host in blocked:row['status']='not_attempted_after_access_limit';rows.append(row);return None,url
+              try:
+                  headers={'User-Agent':'DJT-public-record-review/1.0 (+https://github.com/mfreeze77/DJT)'}
+                  if referer:headers['Referer']=referer
+                  req=urllib.request.Request(url,data=data,headers=headers)
+                  with opener.open(req,timeout=35) as r:b=r.read(4000001);row.update(final_url=r.url,http_status=r.status,content_type=r.headers.get('Content-Type',''))
+                  if len(b)>4000000:raise ValueError('Size limit')
+                  (root/name).write_bytes(b);row.update(status='bytes_obtained_unreviewed',bytes=len(b),sha256=hashlib.sha256(b).hexdigest())
+                  if any(x in b.lower() for x in [b'g-recaptcha',b'hcaptcha',b'cf-chl-']) or '/Error.aspx' in r.url:
+                      row['status']='restriction_or_error_retained';blocked.add(host)
+                  rows.append(row);(root/'acquisition.json').write_text(json.dumps(rows,indent=2));time.sleep(2);return b,r.url
+              except Exception as e:row.update(status='not_obtained',error=str(e));blocked.add(host)
+              rows.append(row);return None,url
+          def parse(b):p=Parser();p.feed(b.decode('utf-8','replace'));return p
+          records=[];host='efiling.drcor.mcit.gov.cy'
+          for name,number in [('belego','251868'),('sileni','251695'),('equalchance','187745'),('quinira','286910'),('freegain','286456')]:
+              if host in blocked:break
+              form='https://'+host+'/DrcorPublic/SearchForm.aspx?cultureInfo=en-AU&sc=0'
+              b,u=get(name+'-form.html',form)
+              if not b or host in blocked:break
+              p=parse(b);fields=p.fields|{'__EVENTTARGET':'ctl00$cphMyMasterCentral$ucSearch$lbtnSearch','__EVENTARGUMENT':'','ctl00$cphMyMasterCentral$ucSearch$Group1':'optStartMatch','ctl00$cphMyMasterCentral$ucSearch$txtName':'','ctl00$cphMyMasterCentral$ucSearch$txtNumber':number}
+              target=urllib.parse.urljoin(u,p.action or '')
+              if urllib.parse.urlparse(target).hostname!=host:raise ValueError('unexpected form host')
+              b,u=get(name+'-searched.html',target,urllib.parse.urlencode(fields).encode(),u)
+              if not b or host in blocked:break
+              p=parse(b)
+              if not any("GridView1','Select$0" in x for x in p.links):records.append({'company':name,'status':'no_expected_selection'});break
+              target=urllib.parse.urljoin(u,p.action or '')
+              if urllib.parse.urlparse(target).hostname!=host:raise ValueError('unexpected selection host')
+              fields=p.fields|{'__EVENTTARGET':'ctl00$cphMyMasterCentral$GridView1','__EVENTARGUMENT':'Select$0'}
+              b,u=get(name+'-detail.html',target,urllib.parse.urlencode(fields).encode(),u)
+              if b:records.append({'company':name,'number':number,'final_url':u,'links':parse(b).links})
+          (root/'detail-links.json').write_text(json.dumps(records,indent=2))
+          get('ukraine-supreme-104052660.html','https://reyestr.court.gov.ua/Review/104052660')
+          get('ukraine-supreme-reproduction.html','https://protocol.ua/ua/postanova_ktss_vp_vid_21_04_2022_roku_u_spravi_265_1411_21_1/')
+          (root/'acquisition.json').write_text(json.dumps(rows,indent=2));print([(x['file'],x['status']) for x in rows])
+          PY
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        if: always()
+        with:
+          name: quinira-session-final
+          path: ${{ runner.temp }}/quinira-session-final/
+          retention-days: 7
