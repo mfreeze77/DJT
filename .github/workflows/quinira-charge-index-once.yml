@@ -1,0 +1,81 @@
+name: Quinira public charge index
+on:
+  pull_request:
+    types: [opened, synchronize]
+    paths: ['.github/workflows/quinira-charge-index-once.yml']
+permissions:
+  contents: read
+jobs:
+  acquire:
+    if: github.run_number == 1 && github.head_ref == 'research/gorlane-financing-quinira-20261011' && github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-24.04
+    timeout-minutes: 8
+    steps:
+      - name: Read only advertised Main page two and Charges and Mortgages category
+        run: |
+          python3 - <<'PY'
+          import datetime,hashlib,json,os,pathlib,time,urllib.request,urllib.parse,http.cookiejar
+          from html.parser import HTMLParser
+          root=pathlib.Path(os.environ['RUNNER_TEMP'])/'quinira-charge-index';root.mkdir()
+          class Parser(HTMLParser):
+              def __init__(self):super().__init__();self.fields={};self.links=[];self.action=None;self.inputs={}
+              def handle_starttag(self,tag,attrs):
+                  a=dict(attrs);ty=a.get('type','').lower()
+                  if tag=='form':self.action=a.get('action')
+                  if tag=='input' and a.get('name'):
+                      self.inputs[a['name']]=a
+                      if ty in ['hidden','text'] or ty=='radio' and 'checked' in a:self.fields[a['name']]=a.get('value','')
+                  if tag=='a' and a.get('href'):self.links.append(a['href'])
+          class SecureRedirect(urllib.request.HTTPRedirectHandler):
+              def redirect_request(self,req,fp,code,msg,headers,newurl):
+                  if urllib.parse.urlparse(newurl).scheme!='https':raise ValueError('Refuse non-HTTPS redirect')
+                  return super().redirect_request(req,fp,code,msg,headers,newurl)
+          opener=urllib.request.build_opener(SecureRedirect(),urllib.request.HTTPCookieProcessor(http.cookiejar.CookieJar()))
+          rows=[];blocked=False;host='efiling.drcor.mcit.gov.cy'
+          def get(name,url,data=None,referer=None):
+              global blocked
+              row={'file':name,'requested_url':url,'method':'POST-free-navigation' if data else 'GET','retrieved_at':datetime.datetime.now(datetime.timezone.utc).isoformat(),'review_status':'unreviewed'}
+              try:
+                  h={'User-Agent':'DJT-public-record-review/1.0 (+https://github.com/mfreeze77/DJT)'}
+                  if referer:h['Referer']=referer
+                  with opener.open(urllib.request.Request(url,data=data,headers=h),timeout=35) as r:b=r.read(4000001);row.update(final_url=r.url,http_status=r.status,content_type=r.headers.get('Content-Type',''))
+                  if len(b)>4000000:raise ValueError('Size limit')
+                  (root/name).write_bytes(b);row.update(status='bytes_obtained_unreviewed',bytes=len(b),sha256=hashlib.sha256(b).hexdigest())
+                  if any(x in b.lower() for x in [b'g-recaptcha',b'hcaptcha',b'cf-chl-']) or '/Error.aspx' in r.url:blocked=True;row['status']='restriction_or_error_retained'
+                  rows.append(row);(root/'acquisition.json').write_text(json.dumps(rows,indent=2));time.sleep(2);return b,r.url
+              except Exception as e:row.update(status='not_obtained',error=str(e));blocked=True
+              rows.append(row);return None,url
+          def parse(b):p=Parser();p.feed(b.decode('utf-8','replace'));return p
+          def post(name,b,u,event='',arg='',extra=None):
+              p=parse(b);target=urllib.parse.urljoin(u,p.action or '')
+              if urllib.parse.urlparse(target).hostname!=host:raise ValueError('Unexpected host')
+              fields=p.fields|{'__EVENTTARGET':event,'__EVENTARGUMENT':arg}|(extra or {})
+              return get(name,target,urllib.parse.urlencode(fields).encode(),u)
+          for name,num in [('belego','251868'),('sileni','251695'),('equalchance','187745'),('quinira','286910'),('freegain','286456')]:
+              if blocked:break
+              b,u=get(name+'-form.html','https://'+host+'/DrcorPublic/SearchForm.aspx?cultureInfo=en-AU&sc=0')
+              if not b or blocked:break
+              stages=[('search','ctl00$cphMyMasterCentral$ucSearch$lbtnSearch','',{'ctl00$cphMyMasterCentral$ucSearch$Group1':'optStartMatch','ctl00$cphMyMasterCentral$ucSearch$txtName':'','ctl00$cphMyMasterCentral$ucSearch$txtNumber':num}),('detail','ctl00$cphMyMasterCentral$GridView1','Select$0',{}),('main-1','ctl00$cphMyMasterCentral$lbtnPreviewFileDocuments','',{})]
+              for stage,event,arg,extra in stages:
+                  b,u=post(name+'-'+stage+'.html',b,u,event,arg,extra)
+                  if not b or blocked:break
+              if not b or blocked:break
+              p=parse(b);nextname='ctl00$cphMyMasterCentral$NextPage'
+              if nextname in p.inputs and 'disabled' not in p.inputs[nextname]:
+                  b,u=post(name+'-main-2.html',b,u,extra={nextname+'.x':'8',nextname+'.y':'8'})
+              if not b or blocked:break
+              p=parse(b);key='ctl00$cphMyMasterCentral$rdFileType'
+              if not any(a.get('value')=='CNTD7A9FA29-E9F' for a in p.inputs.values()):raise ValueError('Inspected charge-category control missing')
+              b,u=post(name+'-charges-1.html',b,u,'ctl00$cphMyMasterCentral$rdFileType$1','',{key:'CNTD7A9FA29-E9F'})
+              if not b or blocked:break
+              p=parse(b)
+              if nextname in p.inputs and 'disabled' not in p.inputs[nextname]:
+                  b,u=post(name+'-charges-2.html',b,u,extra={nextname+'.x':'8',nextname+'.y':'8'})
+          (root/'acquisition.json').write_text(json.dumps(rows,indent=2));print([(r['file'],r['status']) for r in rows])
+          PY
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        if: always()
+        with:
+          name: quinira-charge-index
+          path: ${{ runner.temp }}/quinira-charge-index/
+          retention-days: 7
