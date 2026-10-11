@@ -59,9 +59,13 @@ def main():
             changed = [n for n in git('diff', '--cached', '--name-only', '-z', cwd=expected).split('\0') if n]
             require(len(changed) == 67, 'Wrong patch path count')
             require(all(n.startswith(R) or n.startswith('.github/workflows/quinira-') or n == '.github/workflows/veb-a7-evidence.yml' for n in changed), 'Patch outside allowed scope')
+            # Workflow edits are published separately by the authorized connector.
+            proposed_paths = len(changed)
+            changed = [n for n in changed if not n.startswith('.github/workflows/')]
+            require(len(changed) == 57, 'Wrong research path count')
             before = snapshot()
-            subprocess.run(['git', 'apply', '--check', '--', str(p)], check=True)
-            subprocess.run(['git', 'apply', '--index', '--', str(p)], check=True)
+            subprocess.run(['git', 'apply', '--exclude=.github/workflows/*', '--check', '--', str(p)], check=True)
+            subprocess.run(['git', 'apply', '--exclude=.github/workflows/*', '--index', '--', str(p)], check=True)
             for name in changed:
                 a, b = Path(name), expected / name
                 require(a.exists() == b.exists(), 'Deletion mismatch: ' + name)
@@ -92,10 +96,11 @@ def main():
     out.mkdir(parents=True, exist_ok=False)
     for name, text in logs.items():
         (out / name).write_text(text)
-    receipt = {'input_commit': head, 'tested_index_tree': tested_tree, 'reviewed_patch_tree': EXPECTED_TREE, 'patch_sha256': PATCH_SHA, 'patch_path_count': len(changed), 'timestamp': datetime.datetime.now(datetime.timezone.utc).isoformat(), 'checks': checks, 'read_only_hashes_unchanged': True, 'raw_export_checks_rerun': False, 'original_registry_checks_rerun': False, 'historical_authentication': False, 'file_sha256': snapshot()}
+    receipt = {'input_commit': head, 'tested_index_tree': tested_tree, 'reviewed_patch_tree': EXPECTED_TREE, 'patch_sha256': PATCH_SHA, 'proposed_patch_paths': proposed_paths, 'published_research_paths': len(changed), 'workflow_changes_deferred_to_connector': True, 'timestamp': datetime.datetime.now(datetime.timezone.utc).isoformat(), 'checks': checks, 'read_only_hashes_unchanged': True, 'raw_export_checks_rerun': False, 'original_registry_checks_rerun': False, 'historical_authentication': False, 'file_sha256': snapshot()}
     (out / 'PUBLICATION.json').write_text(json.dumps(receipt, indent=2) + '\n')
     subprocess.run(['git', 'add', '--', str(out)], check=True)
     subprocess.run(['git', 'diff', '--cached', '--check'], check=True)
+    require(all(n.startswith(R) for n in git('diff', '--cached', '--name-only').splitlines()), 'Research publication may not change workflows or other paths')
     if dry:
         print('DRY_RUN_OK; no commit or push')
         return

@@ -12,7 +12,7 @@ concurrency:
   cancel-in-progress: false
 jobs:
   publish:
-    if: github.run_number == 1 && github.event.pull_request.number == 29 && github.head_ref == 'research/gorlane-financing-quinira-20261011' && github.event.pull_request.head.repo.full_name == github.repository
+    if: github.run_number == 2 && github.event.pull_request.number == 29 && github.head_ref == 'research/gorlane-financing-quinira-20261011' && github.event.pull_request.head.repo.full_name == github.repository
     runs-on: ubuntu-24.04
     timeout-minutes: 5
     steps:
