@@ -30,15 +30,26 @@ jobs:
         uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
         with:
           persist-credentials: false
+          ref: ${{ github.event.pull_request.head.sha || github.sha }}
       - name: Set up Node.js 22
         uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
         with:
           node-version: '22'
       - name: Validate repository evidence structure
         run: node research/veb_a7_2026/validate_evidence.mjs
+      - name: Validate follow-up references and accounting
+        run: |
+          node research/veb_a7_2026/validate_followup.mjs
+          node research/veb_a7_2026/validate_accounting.mjs
+          node research/veb_a7_2026/audit_rinfo.mjs
       - name: Validate corpus and tax metadata
         run: node research/veb_a7_2026/validate_corpus_tax.mjs
       - name: Test rejection of invalid evidence metadata
         run: node --test research/veb_a7_2026/validate_evidence.test.mjs research/veb_a7_2026/review_assessment.test.mjs
+      - name: Test committed Gorlane interpretation and synthetic selection only
+        run: |
+          node --test research/veb_a7_2026/gorlane_review.test.mjs
+          python3 -B research/veb_a7_2026/test_gorlane_neighborhood.py
+        # No raw export is downloaded or present here. This step is not raw-byte parity.
       - name: Confirm validation did not modify tracked files
         run: git diff --exit-code
