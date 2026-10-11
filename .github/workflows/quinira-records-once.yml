@@ -1,0 +1,81 @@
+name: Quinira bounded public-record acquisition
+on:
+  pull_request:
+    types: [opened, synchronize]
+    paths: ['.github/workflows/quinira-records-once.yml']
+permissions:
+  contents: read
+jobs:
+  acquire:
+    if: github.run_number == 1 && github.head_ref == 'research/gorlane-financing-quinira-20261011' && github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          fetch-depth: 0
+          persist-credentials: false
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020
+        with:
+          node-version: '22'
+      - name: Preserve exact repository and bounded public responses
+        run: |
+          python3 - <<'PY'
+          import datetime,hashlib,json,os,pathlib,subprocess,time,urllib.request,urllib.parse,urllib.error
+          root=pathlib.Path(os.environ['RUNNER_TEMP'])/'quinira-records';root.mkdir()
+          subprocess.run(['git','bundle','create',str(root/'repository.bundle'),'--all'],check=True)
+          (root/'head.txt').write_text(subprocess.check_output(['git','rev-parse','HEAD'],text=True))
+          baseline='d5f1b11a0500d5d577f4553d7e6d13a0aa69e494'
+          work=root/'baseline';subprocess.run(['git','worktree','add','--detach',str(work),baseline],check=True)
+          cmds=[['node','research/veb_a7_2026/'+n+'.mjs'] for n in ['validate_evidence','validate_followup','validate_accounting','validate_corpus_tax','audit_rinfo']]
+          cmds += [['node','--test','research/veb_a7_2026/validate_evidence.test.mjs','research/veb_a7_2026/review_assessment.test.mjs'],['node','--test','research/veb_a7_2026/gorlane_review.test.mjs','research/veb_a7_2026/panama_papers_findings.test.mjs'],['python3','-B','research/veb_a7_2026/test_gorlane_neighborhood.py']]
+          tracked=subprocess.check_output(['git','ls-files','-z'],cwd=work).decode().split('\0')[:-1]
+          hashes=lambda:{p:hashlib.sha256((work/p).read_bytes()).hexdigest() for p in tracked}
+          before=hashes();checks=[]
+          for i,cmd in enumerate(cmds,1):
+              r=subprocess.run(cmd,cwd=work,text=True,stdout=subprocess.PIPE,stderr=subprocess.STDOUT)
+              (root/f'baseline-{i}.log').write_text(r.stdout);checks.append({'command':cmd,'exit_code':r.returncode});print(cmd,r.returncode)
+          (root/'baseline.json').write_text(json.dumps({'commit':baseline,'checks':checks,'hashes_unchanged':before==hashes()},indent=2))
+          subprocess.run(['git','worktree','remove',str(work)],check=True)
+          class SecureRedirect(urllib.request.HTTPRedirectHandler):
+              def redirect_request(self,req,fp,code,msg,headers,newurl):
+                  if urllib.parse.urlparse(newurl).scheme!='https':raise ValueError('Non-HTTPS redirect refused')
+                  return super().redirect_request(req,fp,code,msg,headers,newurl)
+          targets=[
+            ('cyprus-search.html','https://efiling.drcor.mcit.gov.cy/DrcorPublic/SearchForm.aspx?cultureInfo=en-AU&sc=0'),
+            ('cyprus-access.html','https://www.companies.gov.cy/en/business-entities/european-company/3-lifecycle/1-starting-a-european-company/8-understanding/european-company-and-eeig-search'),
+            ('equalchance-docket.html','https://kad.arbitr.ru/Card/f0258c5b-1d0c-45cc-a7fc-30e66dd22648'),
+            ('belego-docket.html','https://kad.arbitr.ru/Card/b12b47d7-df8f-4f85-8b2f-da5890af1e9c'),
+            ('sileni-docket.html','https://kad.arbitr.ru/Card/98990dbc-c6a6-40bc-994d-9363af34e8d4'),
+            ('cpr-5.html','https://www.justice.gov.uk/courts/procedure-rules/civil/rules/part05'),
+            ('cpr-pilot.html','https://www.justice.gov.uk/courts/procedure-rules/civil/rules/practice-direction-51zh-access-to-public-domain-documents'),
+            ('nyc-2017-index.html','https://www.nyc.gov/site/finance/business/business-forms/business-forms-2017.page'),
+          ]
+          rows=[];limited=set()
+          for name,url in targets:
+              host=urllib.parse.urlparse(url).hostname
+              row={'file':name,'requested_url':url,'retrieved_at':datetime.datetime.now(datetime.timezone.utc).isoformat(),'review_status':'unreviewed'}
+              if host in limited:row.update(status='not_attempted_after_access_limit',error='Stopped host after access limit/challenge; no bypass')
+              else:
+                  try:
+                      req=urllib.request.Request(url,headers={'User-Agent':'DJT-public-record-review/1.0 (+https://github.com/mfreeze77/DJT)'})
+                      with urllib.request.build_opener(SecureRedirect()).open(req,timeout=35) as r:
+                          data=r.read(12000001);row.update(final_url=r.url,http_status=r.status,content_type=r.headers.get('Content-Type',''))
+                      if len(data)>12000000:raise ValueError('Size limit')
+                      (root/name).write_bytes(data);row.update(status='bytes_obtained_unreviewed',bytes=len(data),sha256=hashlib.sha256(data).hexdigest())
+                      if host=='kad.arbitr.ru' and any(x in data.lower() for x in [b'captcha',b'smartcaptcha',b'challenge-platform']):
+                          row['status']='access_challenge_retained';limited.add(host)
+                  except urllib.error.HTTPError as e:
+                      row.update(status='not_obtained',http_status=e.code,error=str(e))
+                      if e.code in (401,403,429):limited.add(host)
+                  except Exception as e:row.update(status='not_obtained',error=str(e))
+              rows.append(row);(root/'acquisition.json').write_text(json.dumps(rows,indent=2));print(name,row['status']);time.sleep(2)
+          if any(c['exit_code'] for c in checks) or before!=hashes if False else False:pass
+          PY
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        if: always()
+        with:
+          name: quinira-records
+          path: ${{ runner.temp }}/quinira-records/
+          retention-days: 7
