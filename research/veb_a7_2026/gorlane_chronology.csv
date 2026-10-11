@@ -1,0 +1,35 @@
+chronology_id,date_literal,date_kind,recorded_event,source_ids,locator,amount,currency,limit
+GC01,30-MAR-2007,ICIJ relationship start,Guernsey-context Midland officer begins Gorlane shareholder row,S59,row494203,,,Graph date not original share-transfer instrument
+GC02,2007-10-09,Toronto contractual/security date,MRHL guarantee and registered charge predate the2010sale,S18,ExhibitV;paras71-74,200000000,CAD,Security face not cash advanced
+GC03,14/05/2008,disposal date reported retrospectively in2009return,Each individual reported disposed of one Global Steel share,S85,physical3-4,,,Conflicts with2008as-ofreturn; actual transfer date unresolved
+GC04,23/07/2008,annual-return as-of date,UK filing lists E Chifrin and A Shnaider one ordinary share each,S84,physical3-4,,,Not silently reconciled with2009reporteddisposaldate
+GC05,23/07/2009,annual-return as-of date,UK filing lists Gorlane two ordinary shares,S85,physical4,,,Filed statement before2010purchase; not beneficial-owner or bank audit
+GC06,31/07/2009,balance-sheet date,UK dormant statement shows GBP2net assets and zero cash line,S97,physical2,2,GBP,This company reporting perimeter only
+GC07,30/12/2009,amended settlement date described by judgment,Mkrtchan payment obligation to Taruta described,S71,para901,281000000,USD,Separate obligation; no Toronto assignment
+GC08,2010-05-05,cash-flow presentation date described by judgment,Presentation describes Jan-Apr flows and rounded liability,S71,para926,280000000,USD,Court description; original exhibit not acquired
+GC09,17-MAY-2010,ICIJ relationship start,Gorlane officer12133896 shareholder of Eastrade10173628,S59;S78,Eastrade incident-edge extract,,,Legal Gorlane join qualified; not one movement with May19orMay23
+GC10,2010-05-18,draft document date described by judgment,Proposed novation discussed,S71,para925,,,Unsigned proposal not execution
+GC11,2010-05-19,payment date found/described by court,Etmor pays on behalf of Parborio in Gorlane purchase,S71,paras902-904;923,105825000,USD,Inside850million economics; not VEB-as-payer or verified bank beneficiary
+GC12,2010-05-19,purchase agreement date described by court,Gorlane price850million in two425million tranches,S17;S71,S17paras42-45;S71para903,850000000,USD,No executed closing statement or account balance obtained
+GC13,23-MAY-2010,ICIJ relationship date,Midland row ends; five named shareholder rows begin,S59;S78,ownership timeline,,,Dates do not establish percentages replacement or settlement
+GC14,23/07/2010,annual-return as-of date,UKGlobalSteelGorlane two-share snapshot,S95,physical1;7,,,Separate from filing date28Jul2010
+GC15,28/07/2010,director termination date in filed TM01s,Shnaider and Chifrin terminations recorded,S94;S96,each physical1,,,Shnaider filed28Jul2010;Chifrin5Aug2010; no coordination inferred
+GC16,2010-09-13,production date of August update described by court,Cash-flow update shows rounded174million outstanding,S71,para926,174000000,USD,Not original exhibit or exact account reconciliation
+GC17,on/about2011-06-06,assignment date reported in affidavit,MRHL debt/charge assigned to MDI,S18,para74 physical47-48,,,Executed instrument and consideration missing; amount unknown not zero
+GC18,29-DEC-2011,ICIJ relationship starts,Later Equalchance12099846 and Atinia rows,S59;S78,336664;640470,,,Atinia already in old selection; no inferred replacement
+GC19,2012,negotiation period described by court,VEB negotiates Quinira exit and requires no-claim assurances,S71,para927,,,Specific contractual leverage; execution/drawdown separate
+GC20,2012-10-19,correspondence date described by court,Bashynska email and draft netting/novation discussed,S71,paras928-930,,,Proposed documents unsigned; not completed release
+GC21,12-DEC-2012,ICIJ relationship starts,Quinira Freegain and later Equalchance rows,S59;S78,394235;466882;336663,,,Blank end dates do not establish present holdings
+GC22,2016-09-30,balance as-of date reported via counsel,MRHL principal plus interest due; guarantee fee separate,S18,para71 physical47,105651246,CAD,Principal not isolated; guarantee fee9315000separate; not Trump income
+GC23,2017-01-19,QSub election date reported by taxpayer,Toronto manager listed as wholly owned QSub,S63;S69,physical9 ScheduleB,,,Not IRS acceptance; preserve Jan1-18 interval
+GC24,2017-06-27,public announcement date,JCF/TrumpHotels announce management-contract buyout agreement,S74,announcement,,,Execution completion consideration and allocation not disclosed
+GC25,2017 calendar year,OGE reporting period,Management fees and other contract payments reported,S47,R03/Q01,2273297,USD,Mixed reported economic benefit; not traced Russian funds
+GC26,TY2017,tax attachment year,Toronto named amount in QSub/NYC3L taxable-income exclusion narrative,S63,physical38 GenDep,2219431,USD,Not cash gross fees buyout amount or entire amendment explanation
+GC27,2019-08-13,foreign court authorization date described in later Ontario judgment,Guernsey authorization for separate judgment assignment to BVI Midland,S100;S101,S100paras26-29;S101paras16-26,,,Different2019assignment; underlying annexes unacquired; not2011MDI
+GC28,2020-07-14,judgment hand-down date,Avonwick original court reasoning,S71,caseCL-2016-000494,,,Later judgment about earlier conduct; not payment date
+GC29,2021,appellate decision year,Limited Dargamo unjust-enrichment appeal dismissed,S79,2021EWCA1149;permission and conclusion,,,Castlerose appeal not blanket affirmation of Gorlane findings
+GC30,2023-04-21,interim court ruling date,Ukrainian asset-restraint proceeding,S80,761/11929/23,,,Fulltext24Apr; public registry publication7May2024; not final guilt
+GC31,2023-05-12,official annex date,Ukraine publishes named-company registration identifiers,S81,Decree275/2023Annex2,,,Reported identifiers not original foreign registry instruments
+GC32,2024-12-20,Gazette publication date,Notice5986proposes strikeoff of listed companies includingQuinira/Belego,S82,Gazette5534;Quinira physical112;Belego physical32parsed,,,Not final strikeoff or current company status
+GC33,2026-09-09,export generation marker,ICIJ snapshot packaging date,S59,GENERATED_ON_20260909.txt,,,Not date of underlying Panama Papers coverage
+GC34,2026-10-10,artifact recovery and review date,Current wave restores raw/filing/tax bytes and logs exact reviewed portions,S59;S63;S78;S85,acquisition manifest and document review,,,Review date not transaction date

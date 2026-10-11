@@ -1,0 +1,419 @@
+{
+  "repository": "mfreeze77/DJT",
+  "branch": "research/gorlane-neighborhood-original-records-20261010",
+  "pr": 28,
+  "published_at": "2026-10-11T01:18:45.457847+00:00",
+  "input_head": "4a51e37c609e637599dd6683e0e3b0d0f37e74bb",
+  "original_patch_base": "a13ac85660c0293539d57ad3cde28296b8a38eb1",
+  "original_patch_tree": "8f1262d99a756e54d0e2911b965e89871ffe675a",
+  "original_zip_sha256": "44f57a110d7ecb73fc5c8b8caea817e1e0a838ad7326347353bc507b30f4b52e",
+  "original_zip_bytes": 726417,
+  "operational_file_count": 30,
+  "checks": [
+    {
+      "command": [
+        "node",
+        "research/veb_a7_2026/validate_evidence.mjs"
+      ],
+      "exit_code": 0
+    },
+    {
+      "command": [
+        "node",
+        "research/veb_a7_2026/validate_followup.mjs"
+      ],
+      "exit_code": 0
+    },
+    {
+      "command": [
+        "node",
+        "research/veb_a7_2026/validate_accounting.mjs"
+      ],
+      "exit_code": 0
+    },
+    {
+      "command": [
+        "node",
+        "research/veb_a7_2026/validate_corpus_tax.mjs"
+      ],
+      "exit_code": 0
+    },
+    {
+      "command": [
+        "node",
+        "research/veb_a7_2026/audit_rinfo.mjs"
+      ],
+      "exit_code": 0
+    },
+    {
+      "command": [
+        "node",
+        "--test",
+        "research/veb_a7_2026/validate_evidence.test.mjs",
+        "research/veb_a7_2026/review_assessment.test.mjs"
+      ],
+      "exit_code": 0
+    },
+    {
+      "command": [
+        "node",
+        "--test",
+        "research/veb_a7_2026/gorlane_review.test.mjs"
+      ],
+      "exit_code": 0
+    },
+    {
+      "command": [
+        "python3",
+        "-B",
+        "research/veb_a7_2026/test_gorlane_neighborhood.py"
+      ],
+      "exit_code": 0
+    }
+  ],
+  "read_only_file_hashes_unchanged": true,
+  "fresh_raw_export_checks": false,
+  "historical_validation": "Original package logs retained; not relabeled as current CI.",
+  "files": {
+    ".github/workflows/veb-a7-evidence.yml": {
+      "sha256": "547d2c49dc0d86b71f4f9881ca8314ef3e38c59673f0e2ddb300613550ca33fe",
+      "bytes": 2264
+    },
+    "research/veb_a7_2026/acquisition_manifest.csv": {
+      "sha256": "5f63e4c6444aa8d0f55f092fdd5a07e940327267a2622fcfac13322c4bdc6d66",
+      "bytes": 99102
+    },
+    "research/veb_a7_2026/claims.csv": {
+      "sha256": "d7a76078e62425a020017ed46530516e3ec0363bf615c452ef4e8df135aaf0a2",
+      "bytes": 25443
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/DELIVERY.json": {
+      "sha256": "28bd28afff5534b11b844af33c264583519c2a945ab8f176601c79501d2f74b9",
+      "bytes": 2096
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/README.md": {
+      "sha256": "df238005adca7f65966b24f49eab5183179f96a1c2aa2722c4a5a8ae94b5c4b2",
+      "bytes": 5337
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/SHA256SUMS": {
+      "sha256": "08fbbc9de30be7a80b49a5f8a8d8661b37e33ee2d0f3b3239d13cffe0bc75391",
+      "bytes": 7842
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/gorlane-review-report.md": {
+      "sha256": "68c74f0db25eec7617f22530dc7d3a7aeb110b7bc73c5f9083c16e592be76b8c",
+      "bytes": 16149
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/gorlane-reviewed-continuation.patch": {
+      "sha256": "2b006a33b7db404065a65be5d34ab7bc0f42c6875884abd405746c154d2a3653",
+      "bytes": 290052
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/gorlane-reviewed-continuation.zip": {
+      "sha256": "44f57a110d7ecb73fc5c8b8caea817e1e0a838ad7326347353bc507b30f4b52e",
+      "bytes": 726417
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/gorlane-validation.json": {
+      "sha256": "45969a0abe61d76c937215f8a2b252e20fc6f78589f8caf2d6c44c7ea9166265",
+      "bytes": 9098
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/publication-checks/01.log": {
+      "sha256": "3c6b1ffa46fc837024002f481d1b12af6b9cb39a26c0790f6ccffedb8adbaa6b",
+      "bytes": 125
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/publication-checks/02.log": {
+      "sha256": "59dc8eb9a47e321a19e4b5dab188d56ac198aa7a2709473f564a369fb7a6080a",
+      "bytes": 133
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/publication-checks/03.log": {
+      "sha256": "f88306a1747b894d16621ae62455a8b1aa9b0116b8d040d3948ed0406cba7eeb",
+      "bytes": 23
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/publication-checks/04.log": {
+      "sha256": "1d31af434f25069120548cc79c6085298d93c40d2670a17f430ba36d64ad47ae",
+      "bytes": 143
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/publication-checks/05.log": {
+      "sha256": "67dc7cbfa11e1d5e453d0dc7ad7fe85c9a4d8a35d3265a30999926e572027120",
+      "bytes": 951
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/publication-checks/06.log": {
+      "sha256": "338ac52b5c0773fa88a5a38d993e3a8969d7d21bdfc0b701f105d0c221674507",
+      "bytes": 14044
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/publication-checks/07.log": {
+      "sha256": "3da3ab11f3eee744b00c3f8cccdaabb151a228ab291e9afbe842458b212e55ef",
+      "bytes": 3970
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/publication-checks/08.log": {
+      "sha256": "72f09eca554e87a45b7156c6109520cf15e8b6ec157dc5c033610649b49b8698",
+      "bytes": 111
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/reference/ICIJ_ATTRIBUTION.md": {
+      "sha256": "d4b5678afc673ca989a742beab79e0c4e85006f65779375e535b158c4ad62c61",
+      "bytes": 1595
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/review-images/2017-parent-physical-38-redacted.png": {
+      "sha256": "3205a76070fc9518ed28538b0196189ec0b3e78b4af78d75ffd6a559a8de9ebb",
+      "bytes": 279454
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/review-images/provenance.json": {
+      "sha256": "c63300e53bb51ecc6090de7d2e8b8ed5d9b558a82c0977093d15b7e18706e300",
+      "bytes": 2157
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/review-images/uk-2009-return-physical-3.png": {
+      "sha256": "50a757d9e3fe4a827720724c562b5e43fd4b2ccc688a4f41246871ba31cae13f",
+      "bytes": 142855
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/review-images/uk-2009-return-physical-4.png": {
+      "sha256": "bb624d7f68afee02f66f1c201ced63f075ddf055d891c72d9b28ec8f98b1e5e3",
+      "bytes": 113713
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/validation/baseline/baseline-1.log": {
+      "sha256": "9b6db339622a2357664b6112d9e8cfa421abdece4db7e705a363c38935e1d7b6",
+      "bytes": 124
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/validation/baseline/baseline-2.log": {
+      "sha256": "3da836e42ff61fd7e7de10437fbbc4f3b3c211be6979646548e30f22d0f12f15",
+      "bytes": 133
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/validation/baseline/baseline-3.log": {
+      "sha256": "f88306a1747b894d16621ae62455a8b1aa9b0116b8d040d3948ed0406cba7eeb",
+      "bytes": 23
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/validation/baseline/baseline-4.log": {
+      "sha256": "6ac0f42608aa1ab36966c75bd2d833a7c6c1020a20696865bcac587fcf8368ff",
+      "bytes": 143
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/validation/baseline/baseline-5.log": {
+      "sha256": "67dc7cbfa11e1d5e453d0dc7ad7fe85c9a4d8a35d3265a30999926e572027120",
+      "bytes": 951
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/validation/baseline/baseline-6.log": {
+      "sha256": "ac833c2d3842de51f9c477fc2d65b53fda2a6f1e86472c137a3dfb3172664ddb",
+      "bytes": 14062
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/validation/baseline/baseline.json": {
+      "sha256": "cb18a013a6c8b82be251faee55aefb7cabd2988e5007a4d7c995e489027d7c1a",
+      "bytes": 1097
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/validation/final/check-01.json": {
+      "sha256": "80d6b6a3c27b21ea452aa5389fa901a108998725a89fa5c53d32bd9339ef2ce3",
+      "bytes": 561
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/validation/final/check-01.log": {
+      "sha256": "3c6b1ffa46fc837024002f481d1b12af6b9cb39a26c0790f6ccffedb8adbaa6b",
+      "bytes": 125
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/validation/final/check-02.json": {
+      "sha256": "9f3eb46e3cc5f988611dfb8ddcb03a973f54e84dc913c00ce7d8ba402957b3a8",
+      "bytes": 561
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/validation/final/check-02.log": {
+      "sha256": "59dc8eb9a47e321a19e4b5dab188d56ac198aa7a2709473f564a369fb7a6080a",
+      "bytes": 133
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/validation/final/check-03.json": {
+      "sha256": "753bf9b27af1645ea889f289b316cf81f87307304d6c902c9a0486d72a3dbb79",
+      "bytes": 563
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/validation/final/check-03.log": {
+      "sha256": "f88306a1747b894d16621ae62455a8b1aa9b0116b8d040d3948ed0406cba7eeb",
+      "bytes": 23
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/validation/final/check-04.json": {
+      "sha256": "0b01677b0b03b8eaa6c690c593ffb807e02cb19d3ac0346640d8ed1ca40a0ea7",
+      "bytes": 563
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/validation/final/check-04.log": {
+      "sha256": "1d31af434f25069120548cc79c6085298d93c40d2670a17f430ba36d64ad47ae",
+      "bytes": 143
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/validation/final/check-05.json": {
+      "sha256": "42d66d193103e4dd2b82fdff366969ca6d8571abd3af62474efb2f1fda5345a4",
+      "bytes": 555
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/validation/final/check-05.log": {
+      "sha256": "67dc7cbfa11e1d5e453d0dc7ad7fe85c9a4d8a35d3265a30999926e572027120",
+      "bytes": 951
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/validation/final/check-06.json": {
+      "sha256": "a6fae337e1ab2827dd784e9ec5d02c4a72d7bf1709b306b37f9fc00ad61db8b9",
+      "bytes": 689
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/validation/final/check-06.log": {
+      "sha256": "9aab62f2c0076aff178b8bba2b745521ff5ca3eaa5925f39bb3e4467ce65f385",
+      "bytes": 14059
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/validation/final/check-07.json": {
+      "sha256": "f2a128be213426266052d272ff62578a5853f97778df91683b621705bcfc616d",
+      "bytes": 638
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/validation/final/check-07.log": {
+      "sha256": "52fb61e78ec44d075b92aa90b49ed8b25fff962830128d81172229180c04b57e",
+      "bytes": 3971
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/validation/final/check-08.json": {
+      "sha256": "d6096b428682db90a19d3b6024edee4c4dc7bca7e6d665cc66fce2490e68f7ed",
+      "bytes": 608
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/validation/final/check-08.log": {
+      "sha256": "72f09eca554e87a45b7156c6109520cf15e8b6ec157dc5c033610649b49b8698",
+      "bytes": 111
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/validation/final/check-09.json": {
+      "sha256": "c15df5a51a120033fc9ea734694a5649ac82a103922c69e2a38c8af3487cfd96",
+      "bytes": 590
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/validation/final/check-09.log": {
+      "sha256": "ca5ed3c69d12f1c4722ae2295e6aa8dd16f417d691ba85256a14a05f447bd02f",
+      "bytes": 132
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/validation/final/check-10.json": {
+      "sha256": "5194248490ae7f1ee7fb48140f8ebdb55b569837701cf71905a5dc3e3daea52e",
+      "bytes": 595
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/validation/final/check-10.log": {
+      "sha256": "aa7bd7c86d185510fdf6c8f929644dc2224f7fc819907a6958131fab91e8e5b9",
+      "bytes": 275
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/validation/final/check-11.json": {
+      "sha256": "4269d9086c0dbced4d4ce04c2c719ec76f37e45bac63b2cd62d72cacf41d6a1c",
+      "bytes": 531
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/validation/final/check-11.log": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/validation/final/check-12.json": {
+      "sha256": "980f21bdb6ce50629286091bc98073471aec3ed9ae5b550fbf5cb460d5820cac",
+      "bytes": 535
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/validation/final/check-12.log": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/validation/final/patch-application.json": {
+      "sha256": "c2eb79288f9d32420ed6679da55793a6d528a16634cc4f3a111965c3432543fe",
+      "bytes": 697
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/validation/final/patch-application.log": {
+      "sha256": "e212b5b1dbfc04608b4257b67a0bb682f0e223d12e80ef8329041e22a9392da6",
+      "bytes": 80
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/validation/final/patch-worktree.log": {
+      "sha256": "fb67b41643a8c59c3ac41b030c62d68a4f8731f06368e2bf812e937da5c4c5ed",
+      "bytes": 136
+    },
+    "research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/validation/final/results.json": {
+      "sha256": "45969a0abe61d76c937215f8a2b252e20fc6f78589f8caf2d6c44c7ea9166265",
+      "bytes": 9098
+    },
+    "research/veb_a7_2026/entity_crosswalk.csv": {
+      "sha256": "ccff82543b3357768282b658eb23f037835cf44d3a6ba5b05ce4c60eab03fb22",
+      "bytes": 9026
+    },
+    "research/veb_a7_2026/gorlane_alias_review.csv": {
+      "sha256": "b52dd8ddd3aec648fe3b15255ebb33b2a719bc98140ddd8072eb4c0d4db2b40d",
+      "bytes": 18095
+    },
+    "research/veb_a7_2026/gorlane_cash_obligation_reconciliation.csv": {
+      "sha256": "3b80fb3b74972939f16540cc32df8c83308deca2642cbdd670595e4cb6afa8f6",
+      "bytes": 4429
+    },
+    "research/veb_a7_2026/gorlane_chronology.csv": {
+      "sha256": "9352700218c1bcacfa2440ac9b0c80dd53d265682529390f575493f17501e639",
+      "bytes": 6401
+    },
+    "research/veb_a7_2026/gorlane_document_review.csv": {
+      "sha256": "6c5518c9fb33232684b7e7cc5f94b0abb72a2e2052a87dd1376badcf144074b9",
+      "bytes": 7443
+    },
+    "research/veb_a7_2026/gorlane_live_comparison.csv": {
+      "sha256": "0c30656656a2c9c6acf591ffb2d8dec0058262a028fedd5e300c54d13aa809cc",
+      "bytes": 19431
+    },
+    "research/veb_a7_2026/gorlane_neighborhood_nodes.csv": {
+      "sha256": "f46803f74e8d627597c435f2b4bea3f3aa3f69debaa43faa2cd703f37af6199b",
+      "bytes": 11688
+    },
+    "research/veb_a7_2026/gorlane_neighborhood_relationships.csv": {
+      "sha256": "02c34532754d217b8cb46eb544010575184f4a3eb064c022f869870bf4677847",
+      "bytes": 8423
+    },
+    "research/veb_a7_2026/gorlane_neighborhood_review.md": {
+      "sha256": "ae27d73572b4896a685e8db9af41ae8ad4c4519440e7d11e234dbbdadc2830d0",
+      "bytes": 6881
+    },
+    "research/veb_a7_2026/gorlane_next_records.md": {
+      "sha256": "8a7a25344b9c492b23a887a8022434e380e632e02addfc7d0f1e443061acf4c0",
+      "bytes": 8359
+    },
+    "research/veb_a7_2026/gorlane_ownership_timeline.csv": {
+      "sha256": "dc076ac15e84590c109a5df6fc26b595a948682f33ee5e4d9960b4cc9abd0d2e",
+      "bytes": 3183
+    },
+    "research/veb_a7_2026/gorlane_purchaser_roles.csv": {
+      "sha256": "d90b7f4de7bbd7f04a882f042ad52ea78485f96893ba3b6c461ea32f8fe4c7dd",
+      "bytes": 6114
+    },
+    "research/veb_a7_2026/gorlane_recovered_acquisitions.json": {
+      "sha256": "41bcfee4190093c19a4d69ee4a7db8a7a1525b4a74293e83a3f90f8e4945cc64",
+      "bytes": 58946
+    },
+    "research/veb_a7_2026/gorlane_review.test.mjs": {
+      "sha256": "598f0ebca523c703b926db85b23b703dc6d4c516b4cdbb324ba6c0a2d1ef780c",
+      "bytes": 8645
+    },
+    "research/veb_a7_2026/gorlane_reviewed_delta.md": {
+      "sha256": "68c74f0db25eec7617f22530dc7d3a7aeb110b7bc73c5f9083c16e592be76b8c",
+      "bytes": 16149
+    },
+    "research/veb_a7_2026/gorlane_scope_coverage.csv": {
+      "sha256": "2b66951baf8da441a6556f7e74465386363d1e1bd4535f752d4bae0e243f5743",
+      "bytes": 3054
+    },
+    "research/veb_a7_2026/gorlane_search_log.md": {
+      "sha256": "452fc8f0f04778c4cb2d0e28a9c1b7d1a07f58f306483577cec4428843cd71cf",
+      "bytes": 9438
+    },
+    "research/veb_a7_2026/gorlane_selection_audit.json": {
+      "sha256": "2d1a2280ff7681365ad6a021229b12b26cb518fffb34045d52794a551d75def3",
+      "bytes": 2346
+    },
+    "research/veb_a7_2026/gorlane_source_map.json": {
+      "sha256": "24122165faa71d1a5dc2d81008f6de4757e6896a7d183310957375691d53bad5",
+      "bytes": 534
+    },
+    "research/veb_a7_2026/records_plan.md": {
+      "sha256": "d08670743ab776bec44b8044ce286f1da02a1d4c483a999e700b7abf06e8d5f5",
+      "bytes": 17383
+    },
+    "research/veb_a7_2026/relationships.csv": {
+      "sha256": "68e6ea81398c7315f1e3ebf25298d360b02f51e062203f16249024f5c6ca975e",
+      "bytes": 8969
+    },
+    "research/veb_a7_2026/return_inventory.csv": {
+      "sha256": "a5ae1088ef3fc0e081e15ac79cba4b9c526330cf59b728254952de0adadf16a8",
+      "bytes": 22235
+    },
+    "research/veb_a7_2026/sources.csv": {
+      "sha256": "24a09387c1984918b925370738e8f90806e56e0f47b639ce6bcd8a4fb7647bf3",
+      "bytes": 35686
+    },
+    "research/veb_a7_2026/tax_oge_reconciliation.csv": {
+      "sha256": "432601e181279b4b42062ab6df443016c2ffe1c949dce9ea41eb79cbc078c64a",
+      "bytes": 3486
+    },
+    "research/veb_a7_2026/test_gorlane_neighborhood.py": {
+      "sha256": "5b0b3caaa3c1ed6f9a4cf4974755cf836ff79db109fdf7d555d458e87ee2d93a",
+      "bytes": 2882
+    },
+    "research/veb_a7_2026/validate_evidence.test.mjs": {
+      "sha256": "0d2f87ea962c63d843adde87710d3c021ae554f32e7a47f1ae3215c4c369e71e",
+      "bytes": 15683
+    },
+    "research/veb_a7_2026/verify_gorlane_neighborhood.py": {
+      "sha256": "64ce2ffc20aa3c1fd8972f4cdf62c0ae70b708d4299c48a7ac000cc32bd01c19",
+      "bytes": 7807
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "checked_commit": "4d90dbca4b6f7ad99676b7eb8c36d43b415af178",
+  "commands": [
+    {
+      "command": "node research/veb_a7_2026/validate_evidence.mjs",
+      "exit_code": 0,
+      "output_log": "baseline-1.log"
+    },
+    {
+      "command": "node research/veb_a7_2026/validate_followup.mjs",
+      "exit_code": 0,
+      "output_log": "baseline-2.log"
+    },
+    {
+      "command": "node research/veb_a7_2026/validate_accounting.mjs",
+      "exit_code": 0,
+      "output_log": "baseline-3.log"
+    },
+    {
+      "command": "node research/veb_a7_2026/validate_corpus_tax.mjs",
+      "exit_code": 0,
+      "output_log": "baseline-4.log"
+    },
+    {
+      "command": "node research/veb_a7_2026/audit_rinfo.mjs",
+      "exit_code": 0,
+      "output_log": "baseline-5.log"
+    },
+    {
+      "command": "node --test research/veb_a7_2026/validate_evidence.test.mjs research/veb_a7_2026/review_assessment.test.mjs",
+      "exit_code": 0,
+      "output_log": "baseline-6.log"
+    }
+  ],
+  "tracked_hashes_unchanged": true,
+  "tracked_files": 381,
+  "executed_at": "2026-10-10T13:19:27.437948+00:00"
+}

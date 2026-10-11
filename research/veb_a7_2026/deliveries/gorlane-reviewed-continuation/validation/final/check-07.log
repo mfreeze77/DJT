@@ -1,0 +1,118 @@
+TAP version 13
+# Subtest: all scoped incident edges retain both hydrated endpoints without old whitelist
+ok 1 - all scoped incident edges retain both hydrated endpoints without old whitelist
+  ---
+  duration_ms: 1.756542
+  type: 'test'
+  ...
+# Subtest: Freegain and both later Equalchance missing-neighbor records survive
+ok 2 - Freegain and both later Equalchance missing-neighbor records survive
+  ---
+  duration_ms: 0.231106
+  type: 'test'
+  ...
+# Subtest: eleven dated holdings preserve blanks and do not infer present percentage or replacement
+ok 3 - eleven dated holdings preserve blanks and do not infer present percentage or replacement
+  ---
+  duration_ms: 0.344555
+  type: 'test'
+  ...
+# Subtest: two Equalchance nodes and Midland jurisdiction boundary remain separate
+ok 4 - two Equalchance nodes and Midland jurisdiction boundary remain separate
+  ---
+  duration_ms: 3.425552
+  type: 'test'
+  ...
+# Subtest: all alias candidates have provenance and decisions; addresses not republished
+ok 5 - all alias candidates have provenance and decisions; addresses not republished
+  ---
+  duration_ms: 3.769748
+  type: 'test'
+  ...
+# Subtest: all 55 recovered page projections map without claiming independent confirmations
+ok 6 - all 55 recovered page projections map without claiming independent confirmations
+  ---
+  duration_ms: 5.030711
+  type: 'test'
+  ...
+# Subtest: same raw ZIP and different recovered HTML bytes are both recorded
+ok 7 - same raw ZIP and different recovered HTML bytes are both recorded
+  ---
+  duration_ms: 0.352177
+  type: 'test'
+  ...
+# Subtest: all role-matrix sources resolve and all rows stay outside totals
+ok 8 - all role-matrix sources resolve and all rows stay outside totals
+  ---
+  duration_ms: 1.733187
+  type: 'test'
+  ...
+# Subtest: T22 preserves Etmor payer and Parborio benefited-obligor meaning
+ok 9 - T22 preserves Etmor payer and Parborio benefited-obligor meaning
+  ---
+  duration_ms: 2.717185
+  type: 'test'
+  ...
+# Subtest: official identifiers are qualified and cannot certify three unnamed buyers
+ok 10 - official identifiers are qualified and cannot certify three unnamed buyers
+  ---
+  duration_ms: 2.460061
+  type: 'test'
+  ...
+# Subtest: UK filing-date conflict and limited dormant counterevidence stay visible
+ok 11 - UK filing-date conflict and limited dormant counterevidence stay visible
+  ---
+  duration_ms: 1.948427
+  type: 'test'
+  ...
+# Subtest: appeal scope, interim status and contractual leverage remain distinguished
+ok 12 - appeal scope, interim status and contractual leverage remain distinguished
+  ---
+  duration_ms: 0.208886
+  type: 'test'
+  ...
+# Subtest: new tax amount requires source-image-specific bounded classification
+ok 13 - new tax amount requires source-image-specific bounded classification
+  ---
+  duration_ms: 0.212218
+  type: 'test'
+  ...
+# Subtest: new tax amount cannot be relabeled cash, fees or buyout
+ok 14 - new tax amount cannot be relabeled cash, fees or buyout
+  ---
+  duration_ms: 2.007212
+  type: 'test'
+  ...
+# Subtest: tax provenance may not move to parent, different year or unmarked amendment
+ok 15 - tax provenance may not move to parent, different year or unmarked amendment
+  ---
+  duration_ms: 0.900913
+  type: 'test'
+  ...
+# Subtest: OGE mixed benefit and unknown component allocations are unchanged
+ok 16 - OGE mixed benefit and unknown component allocations are unchanged
+  ---
+  duration_ms: 0.110466
+  type: 'test'
+  ...
+# Subtest: cash/obligation table never adds duplicate measures or zero-fills open legs
+ok 17 - cash/obligation table never adds duplicate measures or zero-fills open legs
+  ---
+  duration_ms: 0.784449
+  type: 'test'
+  ...
+# Subtest: new judicial and registry records do not become an A7 financial path
+ok 18 - new judicial and registry records do not become an A7 financial path
+  ---
+  duration_ms: 0.854049
+  type: 'test'
+  ...
+1..18
+# tests 18
+# suites 0
+# pass 18
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 145.691111

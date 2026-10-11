@@ -1,0 +1,118 @@
+TAP version 13
+# Subtest: all scoped incident edges retain both hydrated endpoints without old whitelist
+ok 1 - all scoped incident edges retain both hydrated endpoints without old whitelist
+  ---
+  duration_ms: 1.386099
+  type: 'test'
+  ...
+# Subtest: Freegain and both later Equalchance missing-neighbor records survive
+ok 2 - Freegain and both later Equalchance missing-neighbor records survive
+  ---
+  duration_ms: 0.264063
+  type: 'test'
+  ...
+# Subtest: eleven dated holdings preserve blanks and do not infer present percentage or replacement
+ok 3 - eleven dated holdings preserve blanks and do not infer present percentage or replacement
+  ---
+  duration_ms: 0.313896
+  type: 'test'
+  ...
+# Subtest: two Equalchance nodes and Midland jurisdiction boundary remain separate
+ok 4 - two Equalchance nodes and Midland jurisdiction boundary remain separate
+  ---
+  duration_ms: 2.766307
+  type: 'test'
+  ...
+# Subtest: all alias candidates have provenance and decisions; addresses not republished
+ok 5 - all alias candidates have provenance and decisions; addresses not republished
+  ---
+  duration_ms: 2.193718
+  type: 'test'
+  ...
+# Subtest: all 55 recovered page projections map without claiming independent confirmations
+ok 6 - all 55 recovered page projections map without claiming independent confirmations
+  ---
+  duration_ms: 2.636234
+  type: 'test'
+  ...
+# Subtest: same raw ZIP and different recovered HTML bytes are both recorded
+ok 7 - same raw ZIP and different recovered HTML bytes are both recorded
+  ---
+  duration_ms: 0.24596
+  type: 'test'
+  ...
+# Subtest: all role-matrix sources resolve and all rows stay outside totals
+ok 8 - all role-matrix sources resolve and all rows stay outside totals
+  ---
+  duration_ms: 1.063557
+  type: 'test'
+  ...
+# Subtest: T22 preserves Etmor payer and Parborio benefited-obligor meaning
+ok 9 - T22 preserves Etmor payer and Parborio benefited-obligor meaning
+  ---
+  duration_ms: 0.924186
+  type: 'test'
+  ...
+# Subtest: official identifiers are qualified and cannot certify three unnamed buyers
+ok 10 - official identifiers are qualified and cannot certify three unnamed buyers
+  ---
+  duration_ms: 1.853914
+  type: 'test'
+  ...
+# Subtest: UK filing-date conflict and limited dormant counterevidence stay visible
+ok 11 - UK filing-date conflict and limited dormant counterevidence stay visible
+  ---
+  duration_ms: 1.061052
+  type: 'test'
+  ...
+# Subtest: appeal scope, interim status and contractual leverage remain distinguished
+ok 12 - appeal scope, interim status and contractual leverage remain distinguished
+  ---
+  duration_ms: 0.139952
+  type: 'test'
+  ...
+# Subtest: new tax amount requires source-image-specific bounded classification
+ok 13 - new tax amount requires source-image-specific bounded classification
+  ---
+  duration_ms: 0.192419
+  type: 'test'
+  ...
+# Subtest: new tax amount cannot be relabeled cash, fees or buyout
+ok 14 - new tax amount cannot be relabeled cash, fees or buyout
+  ---
+  duration_ms: 1.619205
+  type: 'test'
+  ...
+# Subtest: tax provenance may not move to parent, different year or unmarked amendment
+ok 15 - tax provenance may not move to parent, different year or unmarked amendment
+  ---
+  duration_ms: 0.805464
+  type: 'test'
+  ...
+# Subtest: OGE mixed benefit and unknown component allocations are unchanged
+ok 16 - OGE mixed benefit and unknown component allocations are unchanged
+  ---
+  duration_ms: 0.121096
+  type: 'test'
+  ...
+# Subtest: cash/obligation table never adds duplicate measures or zero-fills open legs
+ok 17 - cash/obligation table never adds duplicate measures or zero-fills open legs
+  ---
+  duration_ms: 0.726136
+  type: 'test'
+  ...
+# Subtest: new judicial and registry records do not become an A7 financial path
+ok 18 - new judicial and registry records do not become an A7 financial path
+  ---
+  duration_ms: 1.577507
+  type: 'test'
+  ...
+1..18
+# tests 18
+# suites 0
+# pass 18
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 109.782088

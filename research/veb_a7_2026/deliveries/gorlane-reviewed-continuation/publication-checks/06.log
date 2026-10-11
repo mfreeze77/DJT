@@ -1,0 +1,550 @@
+TAP version 13
+# Subtest: review assessment boundaries match production records without modifying files
+ok 1 - review assessment boundaries match production records without modifying files
+  ---
+  duration_ms: 2.848611
+  type: 'test'
+  ...
+# Subtest: review rejects parent gross receipts assigned to manager
+ok 2 - review rejects parent gross receipts assigned to manager
+  ---
+  duration_ms: 2.924032
+  type: 'test'
+  ...
+# Subtest: review rejects parent net income assigned to manager
+ok 3 - review rejects parent net income assigned to manager
+  ---
+  duration_ms: 0.384808
+  type: 'test'
+  ...
+# Subtest: review rejects LLC allocation merged into LP
+ok 4 - review rejects LLC allocation merged into LP
+  ---
+  duration_ms: 0.325558
+  type: 'test'
+  ...
+# Subtest: review rejects reported election assigned a dollar amount
+ok 5 - review rejects reported election assigned a dollar amount
+  ---
+  duration_ms: 0.312003
+  type: 'test'
+  ...
+# Subtest: review rejects election date moved to start of calendar year
+ok 6 - review rejects election date moved to start of calendar year
+  ---
+  duration_ms: 0.419053
+  type: 'test'
+  ...
+# Subtest: review rejects taxpayer election entry called IRS accepted
+ok 7 - review rejects taxpayer election entry called IRS accepted
+  ---
+  duration_ms: 0.416078
+  type: 'test'
+  ...
+# Subtest: review rejects OGE income interval shifted to filing year
+ok 8 - review rejects OGE income interval shifted to filing year
+  ---
+  duration_ms: 0.328263
+  type: 'test'
+  ...
+# Subtest: review rejects Etmor payment changed to CAD
+ok 9 - review rejects Etmor payment changed to CAD
+  ---
+  duration_ms: 0.5569
+  type: 'test'
+  ...
+# Subtest: review rejects payment dated from shareholder graph
+ok 10 - review rejects payment dated from shareholder graph
+  ---
+  duration_ms: 0.824681
+  type: 'test'
+  ...
+# Subtest: review rejects VEB substituted for actual recorded payer
+ok 11 - review rejects VEB substituted for actual recorded payer
+  ---
+  duration_ms: 0.45475
+  type: 'test'
+  ...
+# Subtest: review rejects graph substituted for judicial payment source
+ok 12 - review rejects graph substituted for judicial payment source
+  ---
+  duration_ms: 0.367246
+  type: 'test'
+  ...
+# Subtest: CSV supports BOM, CRLF, quoted commas, newlines and escaped quotes
+ok 13 - CSV supports BOM, CRLF, quoted commas, newlines and escaped quotes
+  ---
+  duration_ms: 2.213605
+  type: 'test'
+  ...
+# Subtest: CSV rejects empty
+ok 14 - CSV rejects empty
+  ---
+  duration_ms: 0.683277
+  type: 'test'
+  ...
+# Subtest: CSV rejects header only
+ok 15 - CSV rejects header only
+  ---
+  duration_ms: 0.250859
+  type: 'test'
+  ...
+# Subtest: CSV rejects unterminated quote
+ok 16 - CSV rejects unterminated quote
+  ---
+  duration_ms: 0.163375
+  type: 'test'
+  ...
+# Subtest: CSV rejects duplicate header
+ok 17 - CSV rejects duplicate header
+  ---
+  duration_ms: 0.668789
+  type: 'test'
+  ...
+# Subtest: CSV rejects short row
+ok 18 - CSV rejects short row
+  ---
+  duration_ms: 0.217025
+  type: 'test'
+  ...
+# Subtest: CSV rejects long row
+ok 19 - CSV rejects long row
+  ---
+  duration_ms: 0.266347
+  type: 'test'
+  ...
+# Subtest: CSV rejects trailing quoted text
+ok 20 - CSV rejects trailing quoted text
+  ---
+  duration_ms: 1.530548
+  type: 'test'
+  ...
+# Subtest: CSV rejects unescaped quote
+ok 21 - CSV rejects unescaped quote
+  ---
+  duration_ms: 0.585663
+  type: 'test'
+  ...
+# Subtest: valid fixture passes and validator is read-only
+ok 22 - valid fixture passes and validator is read-only
+  ---
+  duration_ms: 7.942547
+  type: 'test'
+  ...
+# Subtest: rejects duplicate sources
+ok 23 - rejects duplicate sources
+  ---
+  duration_ms: 3.734326
+  type: 'test'
+  ...
+# Subtest: rejects unknown claim source
+ok 24 - rejects unknown claim source
+  ---
+  duration_ms: 3.395422
+  type: 'test'
+  ...
+# Subtest: rejects unknown relationship source
+ok 25 - rejects unknown relationship source
+  ---
+  duration_ms: 2.76265
+  type: 'test'
+  ...
+# Subtest: rejects duplicate claim
+ok 26 - rejects duplicate claim
+  ---
+  duration_ms: 2.182477
+  type: 'test'
+  ...
+# Subtest: rejects duplicate edge
+ok 27 - rejects duplicate edge
+  ---
+  duration_ms: 2.121383
+  type: 'test'
+  ...
+# Subtest: rejects duplicate crosswalk
+ok 28 - rejects duplicate crosswalk
+  ---
+  duration_ms: 2.720772
+  type: 'test'
+  ...
+# Subtest: rejects empty sidecar
+ok 29 - rejects empty sidecar
+  ---
+  duration_ms: 2.908543
+  type: 'test'
+  ...
+# Subtest: rejects missing protected entry
+ok 30 - rejects missing protected entry
+  ---
+  duration_ms: 2.288054
+  type: 'test'
+  ...
+# Subtest: rejects duplicate sidecar key
+ok 31 - rejects duplicate sidecar key
+  ---
+  duration_ms: 2.410072
+  type: 'test'
+  ...
+# Subtest: rejects missing snapshot
+ok 32 - rejects missing snapshot
+  ---
+  duration_ms: 2.531169
+  type: 'test'
+  ...
+# Subtest: rejects promoted protected flow
+ok 33 - rejects promoted protected flow
+  ---
+  duration_ms: 2.309023
+  type: 'test'
+  ...
+# Subtest: rejects changed status
+ok 34 - rejects changed status
+  ---
+  duration_ms: 2.457299
+  type: 'test'
+  ...
+# Subtest: rejects crosswalk promotion
+ok 35 - rejects crosswalk promotion
+  ---
+  duration_ms: 2.265492
+  type: 'test'
+  ...
+# Subtest: rejects crosswalk unknown source
+ok 36 - rejects crosswalk unknown source
+  ---
+  duration_ms: 2.230096
+  type: 'test'
+  ...
+# Subtest: rejects missing provenance column
+ok 37 - rejects missing provenance column
+  ---
+  duration_ms: 1.942208
+  type: 'test'
+  ...
+# Subtest: rejects source not HTTPS
+ok 38 - rejects source not HTTPS
+  ---
+  duration_ms: 2.33422
+  type: 'test'
+  ...
+# Subtest: rejects RF-014 included
+ok 39 - rejects RF-014 included
+  ---
+  duration_ms: 2.577805
+  type: 'test'
+  ...
+# Subtest: rejects legacy amount drift
+ok 40 - rejects legacy amount drift
+  ---
+  duration_ms: 2.433075
+  type: 'test'
+  ...
+# Subtest: rejects adjacent Markdown labels
+ok 41 - rejects adjacent Markdown labels
+  ---
+  duration_ms: 2.375117
+  type: 'test'
+  ...
+# Subtest: rejects missing Markdown definition
+ok 42 - rejects missing Markdown definition
+  ---
+  duration_ms: 2.080065
+  type: 'test'
+  ...
+# Subtest: rejects unknown Markdown source
+ok 43 - rejects unknown Markdown source
+  ---
+  duration_ms: 2.177287
+  type: 'test'
+  ...
+# Subtest: follow-up production records validate and remain read-only
+ok 44 - follow-up production records validate and remain read-only
+  ---
+  duration_ms: 166.872326
+  type: 'test'
+  ...
+# Subtest: follow-up rejects unknown entity
+ok 45 - follow-up rejects unknown entity
+  ---
+  duration_ms: 13.637604
+  type: 'test'
+  ...
+# Subtest: follow-up rejects total promotion
+ok 46 - follow-up rejects total promotion
+  ---
+  duration_ms: 11.316569
+  type: 'test'
+  ...
+# Subtest: follow-up rejects policy in financial ledger
+ok 47 - follow-up rejects policy in financial ledger
+  ---
+  duration_ms: 12.714079
+  type: 'test'
+  ...
+# Subtest: follow-up rejects category laundering
+ok 48 - follow-up rejects category laundering
+  ---
+  duration_ms: 11.244122
+  type: 'test'
+  ...
+# Subtest: follow-up rejects missing currency
+ok 49 - follow-up rejects missing currency
+  ---
+  duration_ms: 12.025373
+  type: 'test'
+  ...
+# Subtest: follow-up rejects unknown amount as zero
+ok 50 - follow-up rejects unknown amount as zero
+  ---
+  duration_ms: 11.469634
+  type: 'test'
+  ...
+# Subtest: follow-up rejects note value drift
+ok 51 - follow-up rejects note value drift
+  ---
+  duration_ms: 14.258123
+  type: 'test'
+  ...
+# Subtest: follow-up rejects issuer name-only promotion
+ok 52 - follow-up rejects issuer name-only promotion
+  ---
+  duration_ms: 12.411294
+  type: 'test'
+  ...
+# Subtest: follow-up rejects fabricated unavailable hash
+ok 53 - follow-up rejects fabricated unavailable hash
+  ---
+  duration_ms: 14.227577
+  type: 'test'
+  ...
+# Subtest: follow-up rejects unknown source
+ok 54 - follow-up rejects unknown source
+  ---
+  duration_ms: 15.15227
+  type: 'test'
+  ...
+# Subtest: follow-up rejects inventory audit drift
+ok 55 - follow-up rejects inventory audit drift
+  ---
+  duration_ms: 100.064516
+  type: 'test'
+  ...
+# Subtest: follow-up rejects duplicate instrument
+ok 56 - follow-up rejects duplicate instrument
+  ---
+  duration_ms: 6.786356
+  type: 'test'
+  ...
+# Subtest: wave3 rejects assignment promoted to payment
+ok 57 - wave3 rejects assignment promoted to payment
+  ---
+  duration_ms: 14.718385
+  type: 'test'
+  ...
+# Subtest: wave3 rejects holding promoted to payment
+ok 58 - wave3 rejects holding promoted to payment
+  ---
+  duration_ms: 12.058014
+  type: 'test'
+  ...
+# Subtest: wave3 rejects carrying value treated as dollar settlement
+ok 59 - wave3 rejects carrying value treated as dollar settlement
+  ---
+  duration_ms: 13.905465
+  type: 'test'
+  ...
+# Subtest: wave3 rejects condominium counterparties merged
+ok 60 - wave3 rejects condominium counterparties merged
+  ---
+  duration_ms: 11.046515
+  type: 'test'
+  ...
+# Subtest: wave3 rejects contract inventory promoted to fee amount
+ok 61 - wave3 rejects contract inventory promoted to fee amount
+  ---
+  duration_ms: 12.569138
+  type: 'test'
+  ...
+# Subtest: accounting rejects income promoted to payment
+ok 62 - accounting rejects income promoted to payment
+  ---
+  duration_ms: 96.248463
+  type: 'test'
+  ...
+# Subtest: accounting rejects unknown principal filled with zero
+ok 63 - accounting rejects unknown principal filled with zero
+  ---
+  duration_ms: 95.297341
+  type: 'test'
+  ...
+# Subtest: accounting rejects mixed income silently narrowed
+ok 64 - accounting rejects mixed income silently narrowed
+  ---
+  duration_ms: 97.517338
+  type: 'test'
+  ...
+# Subtest: accounting rejects calendar period shifted
+ok 65 - accounting rejects calendar period shifted
+  ---
+  duration_ms: 97.733144
+  type: 'test'
+  ...
+# Subtest: accounting rejects bank match invented
+ok 66 - accounting rejects bank match invented
+  ---
+  duration_ms: 101.593575
+  type: 'test'
+  ...
+# Subtest: accounting rejects issuer candidate merged
+ok 67 - accounting rejects issuer candidate merged
+  ---
+  duration_ms: 92.702905
+  type: 'test'
+  ...
+# Subtest: accounting rejects portfolio allocated to serial
+ok 68 - accounting rejects portfolio allocated to serial
+  ---
+  duration_ms: 95.044973
+  type: 'test'
+  ...
+# Subtest: accounting rejects disclosure currency changed
+ok 69 - accounting rejects disclosure currency changed
+  ---
+  duration_ms: 96.320247
+  type: 'test'
+  ...
+# Subtest: accounting rejects book closing silently repaired
+ok 70 - accounting rejects book closing silently repaired
+  ---
+  duration_ms: 92.305279
+  type: 'test'
+  ...
+# Subtest: accounting rejects loan balance turned into note record
+ok 71 - accounting rejects loan balance turned into note record
+  ---
+  duration_ms: 92.234834
+  type: 'test'
+  ...
+# Subtest: accounting rejects accounting totals promoted
+ok 72 - accounting rejects accounting totals promoted
+  ---
+  duration_ms: 97.079891
+  type: 'test'
+  ...
+# Subtest: accounting rejects duplicate accounting row
+ok 73 - accounting rejects duplicate accounting row
+  ---
+  duration_ms: 93.823027
+  type: 'test'
+  ...
+# Subtest: corpus/tax production metadata validates without writes
+ok 74 - corpus/tax production metadata validates without writes
+  ---
+  duration_ms: 14.72182
+  type: 'test'
+  ...
+# Subtest: corpus/tax rejects filing year substituted for tax year
+ok 75 - corpus/tax rejects filing year substituted for tax year
+  ---
+  duration_ms: 22.98812
+  type: 'test'
+  ...
+# Subtest: corpus/tax rejects amended return called original
+ok 76 - corpus/tax rejects amended return called original
+  ---
+  duration_ms: 19.68464
+  type: 'test'
+  ...
+# Subtest: corpus/tax rejects duplicate return part
+ok 77 - corpus/tax rejects duplicate return part
+  ---
+  duration_ms: 25.344873
+  type: 'test'
+  ...
+# Subtest: corpus/tax rejects OGE called an IRS return
+ok 78 - corpus/tax rejects OGE called an IRS return
+  ---
+  duration_ms: 24.923761
+  type: 'test'
+  ...
+# Subtest: corpus/tax rejects allocated loss called distribution
+ok 79 - corpus/tax rejects allocated loss called distribution
+  ---
+  duration_ms: 21.46173
+  type: 'test'
+  ...
+# Subtest: corpus/tax rejects gross receipt called net income
+ok 80 - corpus/tax rejects gross receipt called net income
+  ---
+  duration_ms: 21.431242
+  type: 'test'
+  ...
+# Subtest: corpus/tax rejects unknown component set to zero
+ok 81 - corpus/tax rejects unknown component set to zero
+  ---
+  duration_ms: 21.33365
+  type: 'test'
+  ...
+# Subtest: corpus/tax rejects empty text used for negative search
+ok 82 - corpus/tax rejects empty text used for negative search
+  ---
+  duration_ms: 16.987832
+  type: 'test'
+  ...
+# Subtest: corpus/tax rejects partial collection called complete
+ok 83 - corpus/tax rejects partial collection called complete
+  ---
+  duration_ms: 17.185753
+  type: 'test'
+  ...
+# Subtest: corpus/tax rejects mirror overlap erased
+ok 84 - corpus/tax rejects mirror overlap erased
+  ---
+  duration_ms: 22.476275
+  type: 'test'
+  ...
+# Subtest: corpus/tax rejects offshore name automatically merged
+ok 85 - corpus/tax rejects offshore name automatically merged
+  ---
+  duration_ms: 19.88291
+  type: 'test'
+  ...
+# Subtest: corpus/tax rejects source dataset removed
+ok 86 - corpus/tax rejects source dataset removed
+  ---
+  duration_ms: 29.931036
+  type: 'test'
+  ...
+# Subtest: corpus/tax rejects bank match invented
+ok 87 - corpus/tax rejects bank match invented
+  ---
+  duration_ms: 21.572386
+  type: 'test'
+  ...
+# Subtest: corpus/tax rejects obligor promoted to bank payee
+ok 88 - corpus/tax rejects obligor promoted to bank payee
+  ---
+  duration_ms: 21.947738
+  type: 'test'
+  ...
+# Subtest: corpus/tax rejects QSub treated as legal dissolution
+ok 89 - corpus/tax rejects QSub treated as legal dissolution
+  ---
+  duration_ms: 18.23927
+  type: 'test'
+  ...
+# Subtest: corpus/tax rejects samples promoted to whole file equivalence
+ok 90 - corpus/tax rejects samples promoted to whole file equivalence
+  ---
+  duration_ms: 19.617405
+  type: 'test'
+  ...
+1..90
+# tests 90
+# suites 0
+# pass 90
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 2168.408984

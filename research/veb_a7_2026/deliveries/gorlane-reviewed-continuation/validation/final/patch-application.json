@@ -1,0 +1,14 @@
+{
+  "checked_at": "2026-10-10T14:18:01.274956+00:00",
+  "patch_sha256": "2b006a33b7db404065a65be5d34ab7bc0f42c6875884abd405746c154d2a3653",
+  "patch_bytes": 290052,
+  "upstream_preimage_commit": "a13ac85660c0293539d57ad3cde28296b8a38eb1",
+  "local_reconstructed_preimage_commit": "bd56daa626876127851d3bd01ab65b5f634263f7",
+  "preimage_tree": "c3ec0d82c4d9fe32a7afec1a299fbdff04d1c62f",
+  "delivery_commit": "f0790a2657ca33b415cd0d8cd0b6b9eabc958b41",
+  "expected_and_actual_postimage_tree": "8f1262d99a756e54d0e2911b965e89871ffe675a",
+  "git_apply_check": "passed",
+  "git_apply_index": "passed",
+  "tree_match": true,
+  "scope": "disposable local worktree only; no remote write or main merge"
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "file": "2017-parent-physical-38-redacted.png",
+    "source_id": "S63",
+    "source_pdf_sha256": "63c9519f0c9ada783dfecf8f9b4e3d29c99ce465252f5552adead9b8fee80d82",
+    "physical_page": 38,
+    "input_render_sha256": "4e06322073516e7ef5be0a1b74505226d568812ccbbe19a59618cbddbf3a3f05",
+    "input_size_px": [
+      1041,
+      1347
+    ],
+    "operation": "Solid raster rectangles remove tax identifiers and document locator; all other pixels unchanged. Derivative is not the original PDF.",
+    "redaction_rectangles_xyxy": [
+      [
+        733,
+        47,
+        910,
+        65
+      ],
+      [
+        365,
+        147,
+        480,
+        170
+      ],
+      [
+        416,
+        483,
+        521,
+        504
+      ],
+      [
+        269,
+        505,
+        376,
+        526
+      ]
+    ],
+    "sha256": "3205a76070fc9518ed28538b0196189ec0b3e78b4af78d75ffd6a559a8de9ebb"
+  },
+  {
+    "file": "uk-2009-return-physical-3.png",
+    "source_id": "S85",
+    "source_pdf_sha256_candidates": [
+      "0ce80156c87ef1b2c8ab97e8730ee5443082fbf8eade28fa2356fd784abdfb90"
+    ],
+    "physical_page": 3,
+    "input_render_sha256": "6d02b902e536da4e35e1116c900db83536bcc763740beaf592f788cf261f40dc",
+    "input_size_px": [
+      1190,
+      1684
+    ],
+    "crop_box_xyxy": [
+      0,
+      450,
+      1190,
+      1684
+    ],
+    "operation": "Crop excludes unrelated director address and birth date above the share-capital section.",
+    "sha256": "50a757d9e3fe4a827720724c562b5e43fd4b2ccc688a4f41246871ba31cae13f"
+  },
+  {
+    "file": "uk-2009-return-physical-4.png",
+    "source_id": "S85",
+    "source_pdf_sha256_candidates": [
+      "0ce80156c87ef1b2c8ab97e8730ee5443082fbf8eade28fa2356fd784abdfb90"
+    ],
+    "physical_page": 4,
+    "input_render_sha256": "a96cd80555bc97ce12a191cff4d05428e3445f15d8c41628b7679bd329b7e6ec",
+    "input_size_px": [
+      1190,
+      1684
+    ],
+    "crop_box_xyxy": [
+      0,
+      0,
+      1190,
+      1684
+    ],
+    "operation": "Lossless re-encoding of reviewed page rendering; shareholder-address fields are blank.",
+    "sha256": "bb624d7f68afee02f66f1c201ced63f075ddf055d891c72d9b28ec8f98b1e5e3"
+  }
+]
