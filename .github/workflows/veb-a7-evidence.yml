@@ -51,5 +51,7 @@ jobs:
           node --test research/veb_a7_2026/gorlane_review.test.mjs
           python3 -B research/veb_a7_2026/test_gorlane_neighborhood.py
         # No raw export is downloaded or present here. This step is not raw-byte parity.
+      - name: Check incorporated Panama Papers findings against committed rows
+        run: node --test research/veb_a7_2026/panama_papers_findings.test.mjs
       - name: Confirm validation did not modify tracked files
         run: git diff --exit-code
