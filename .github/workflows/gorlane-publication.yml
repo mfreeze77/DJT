@@ -25,6 +25,12 @@ jobs:
       - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020
         with:
           node-version: '22'
+      - name: Preserve immutable patch context-line whitespace
+        run: |
+          # A unified patch contains a literal space for empty context lines.
+          # Do not rewrite its bytes. SHA256 and exact applied-tree gates remain mandatory.
+          # This local attribute affects only the archived patch, not operational files.
+          printf '%s\n' 'research/veb_a7_2026/deliveries/gorlane-reviewed-continuation/gorlane-reviewed-continuation.patch -whitespace' >> .git/info/attributes
       - name: Install pinned rendering tools in isolated environment
         run: |
           python3 -m venv "$RUNNER_TEMP/gorlane-publish-venv"
