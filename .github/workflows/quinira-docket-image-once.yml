@@ -1,0 +1,40 @@
+name: Quinira docket image locating check
+on:
+  pull_request:
+    types: [opened, synchronize]
+    paths: ['.github/workflows/quinira-docket-image-once.yml']
+permissions:
+  contents: read
+jobs:
+  acquire:
+    if: github.run_number == 1 && github.head_ref == 'research/gorlane-financing-quinira-20261011' && github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-24.04
+    timeout-minutes: 3
+    steps:
+      - name: Obtain one already identified public locating image
+        run: |
+          python3 - <<'PY'
+          import pathlib,os,urllib.request,urllib.parse,json,hashlib,datetime
+          p=pathlib.Path(os.environ['RUNNER_TEMP'])/'quinira-docket-image';p.mkdir()
+          u='https://kartoteka.news/upload/gallery/66000/66428/big/66428_1.jpg?20231229200055'
+          row={'requested_url':u,'retrieved_at':datetime.datetime.now(datetime.timezone.utc).isoformat(),'status':'not_obtained','review_status':'unreviewed','evidence_level':'third-party screenshot; locating evidence only; not authenticated court record'}
+          class SecureRedirect(urllib.request.HTTPRedirectHandler):
+              def redirect_request(self,req,fp,code,msg,headers,newurl):
+                  if urllib.parse.urlparse(newurl).scheme!='https':raise ValueError('Refuse non-HTTPS redirect')
+                  return super().redirect_request(req,fp,code,msg,headers,newurl)
+          try:
+              with urllib.request.build_opener(SecureRedirect()).open(u,timeout=35) as r:
+                  b=r.read(2000001);row.update(http_status=r.status,content_type=r.headers.get('Content-Type',''))
+              if len(b)>2000000:raise ValueError('size limit')
+              (p/'docket-locating-image.jpg').write_bytes(b)
+              row.update(status='bytes_obtained_unreviewed',bytes=len(b),sha256=hashlib.sha256(b).hexdigest())
+          except Exception as e:row['error']=str(e)
+          (p/'acquisition.json').write_text(json.dumps(row,indent=2))
+          print(row['status'])
+          PY
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        if: always()
+        with:
+          name: quinira-docket-image
+          path: ${{ runner.temp }}/quinira-docket-image/
+          retention-days: 7
