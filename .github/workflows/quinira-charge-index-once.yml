@@ -7,7 +7,7 @@ permissions:
   contents: read
 jobs:
   acquire:
-    if: github.run_number == 1 && github.head_ref == 'research/gorlane-financing-quinira-20261011' && github.event.pull_request.head.repo.full_name == github.repository
+    if: github.run_number == 2 && github.head_ref == 'research/gorlane-financing-quinira-20261011' && github.event.pull_request.head.repo.full_name == github.repository
     runs-on: ubuntu-24.04
     timeout-minutes: 8
     steps:
@@ -18,12 +18,12 @@ jobs:
           from html.parser import HTMLParser
           root=pathlib.Path(os.environ['RUNNER_TEMP'])/'quinira-charge-index';root.mkdir()
           class Parser(HTMLParser):
-              def __init__(self):super().__init__();self.fields={};self.links=[];self.action=None;self.inputs={}
+              def __init__(self):super().__init__();self.fields={};self.links=[];self.action=None;self.inputs={};self.input_values=[]
               def handle_starttag(self,tag,attrs):
                   a=dict(attrs);ty=a.get('type','').lower()
                   if tag=='form':self.action=a.get('action')
                   if tag=='input' and a.get('name'):
-                      self.inputs[a['name']]=a
+                      self.inputs[a['name']]=a;self.input_values.append(a)
                       if ty in ['hidden','text'] or ty=='radio' and 'checked' in a:self.fields[a['name']]=a.get('value','')
                   if tag=='a' and a.get('href'):self.links.append(a['href'])
           class SecureRedirect(urllib.request.HTTPRedirectHandler):
@@ -65,7 +65,7 @@ jobs:
                   b,u=post(name+'-main-2.html',b,u,extra={nextname+'.x':'8',nextname+'.y':'8'})
               if not b or blocked:break
               p=parse(b);key='ctl00$cphMyMasterCentral$rdFileType'
-              if not any(a.get('value')=='CNTD7A9FA29-E9F' for a in p.inputs.values()):raise ValueError('Inspected charge-category control missing')
+              if not any(a.get('value')=='CNTD7A9FA29-E9F' for a in p.input_values):raise ValueError('Inspected charge-category control missing')
               b,u=post(name+'-charges-1.html',b,u,'ctl00$cphMyMasterCentral$rdFileType$1','',{key:'CNTD7A9FA29-E9F'})
               if not b or blocked:break
               p=parse(b)
