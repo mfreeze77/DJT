@@ -1,0 +1,9 @@
+{
+  "snapshot_members_verified": 6,
+  "scoped_seeds": 15,
+  "incident_relationships": 40,
+  "hydrated_nodes": 39,
+  "alias_candidates": 57,
+  "missing_endpoints": 0,
+  "meaning": "Raw-byte and selection parity only; not legal identity, payment, authenticity or wrongdoing"
+}

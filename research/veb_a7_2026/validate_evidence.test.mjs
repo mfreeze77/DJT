@@ -105,7 +105,7 @@ function followupFixture(t) {
 }
 test('follow-up production records validate and remain read-only', () => {
   const before=readFileSync(join(repositoryRoot,f,'transaction_crosswalk.csv'),'utf8');
-  assert.deepEqual(validateFollowup(repositoryRoot),{entities:35,transactions:22,instruments:13,acquisitions:127});
+  assert.deepEqual(validateFollowup(repositoryRoot),{entities:38,transactions:22,instruments:13,acquisitions:181});
   assert.equal(readFileSync(join(repositoryRoot,f,'transaction_crosswalk.csv'),'utf8'),before);
 });
 const followupCases = [
@@ -118,7 +118,13 @@ const followupCases = [
   ['note value drift',x=>x.edit('a7_note_inventory.csv',s=>s.replace(',400000,',',400001,'))],
   ['issuer name-only promotion',x=>x.edit('entity_crosswalk.csv',s=>s.replace(',unresolved_issuer,',',legal_entity,'))],
   ['fabricated unavailable hash',x=>x.edit('acquisition_manifest.csv',s=>s.replace('bytes_obtained','not_obtained'))],
-  ['unknown source',x=>x.edit('entity_crosswalk.csv',s=>s.replace('S17;S18','S99;S18'))],
+  // S99 is now a real reviewed source. Derive an absent ID; do not weaken rejection.
+  ['unknown source',x=>{
+    const known=new Set(parseCsv(readFileSync(join(x.root,f,'sources.csv'),'utf8'),'sources').map(r=>r.source_id));
+    let suffix=999999;while(known.has(`S${suffix}`))suffix++;
+    const unknown=`S${suffix}`;assert(!known.has(unknown));
+    x.edit('entity_crosswalk.csv',s=>{const changed=s.replace('S17;S18',`${unknown};S18`);assert.notEqual(changed,s);return changed;});
+  }],
   ['inventory audit drift',x=>x.edit('rinfo_audit.json',s=>s.replace('44496','44495'))],
   ['duplicate instrument',x=>x.edit('a7_note_inventory.csv',s=>s+s.split(/\r?\n/)[1]+'\n')],
 ];
@@ -167,7 +173,7 @@ function corpusFixture(t) {
 }
 test('corpus/tax production metadata validates without writes',()=>{
   const p=join(repositoryRoot,f,'tax_oge_reconciliation.csv'),before=readFileSync(p,'utf8');
-  assert.deepEqual(validateCorpusTax(repositoryRoot),{returns:53,collections:55,nodes:28,relationships:8,reconciliation:11});
+  assert.deepEqual(validateCorpusTax(repositoryRoot),{returns:53,collections:55,nodes:28,relationships:8,reconciliation:12});
   assert.equal(readFileSync(p,'utf8'),before);
 });
 const corpusCases = [

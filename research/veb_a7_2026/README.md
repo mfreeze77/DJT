@@ -1,6 +1,14 @@
 # VEB / A7 / Trump Toronto: evidence-ranked crosswalk
 
-## Latest corpus and public-tax follow-up (PR27)
+## Latest Gorlane and Panama Papers integration (PR28)
+
+[Panama Papers findings incorporated into the financial research](panama_papers_findings.md) · [Reviewed original-record continuation](gorlane_reviewed_delta.md) · [Complete eleven-row ownership timeline](gorlane_ownership_timeline.csv) · [Scoped neighborhood review](gorlane_neighborhood_review.md) · [Next connecting records](gorlane_next_records.md).
+
+The two later Equalchance rows and Freegain row were already in the same acquired ICIJ export, but omitted from the earlier selection. They are now explicitly incorporated alongside the previously selected Midland, Belego, Parborio, Sileni, Atinia and Quinira observations. The Eastrade and service-provider pointers are also indexed, with their distinct node identities, roles and Panama Papers/Bahamas Leaks attribution preserved. These are historical relationship records, not new bank transfers or amounts to add to financial totals.
+
+Read the reviewed continuation for the separate UK filings, date conflict, dormant-account counterevidence, official identifier leads and newly located Q12 tax statement. Earlier reports remain historical snapshots; their superseded claims must not override the later source-level qualifications. The [original delivery archive](deliveries/gorlane-reviewed-continuation) is preserved unchanged by the integration additions, which are tracked in separate follow-up commits and PR review comments.
+
+## Corpus and public-tax follow-up (PR27)
 
 [Corpus/tax delta](corpus_tax_delta.md) · [Reviewer assessment and next proof targets](review_assessment.md) · [Collection coverage](corpus_coverage.csv) · [Return inventory](return_inventory.csv) · [Tax/OGE reconciliation](tax_oge_reconciliation.csv) · [Search log](corpus_tax_search_log.md) · [Validation](corpus_tax_validation.md).
 
@@ -74,12 +82,18 @@ See [source ledger](sources.csv), [claim ledger](claims.csv), [relationship cros
 
 ## Validation and review boundary
 
-Run from the repository root using Node.js 22:
+Run from the repository root using Node.js 22 and Python 3:
 
 ```sh
 node research/veb_a7_2026/validate_evidence.mjs
+node research/veb_a7_2026/validate_followup.mjs
+node research/veb_a7_2026/validate_accounting.mjs
 node research/veb_a7_2026/validate_corpus_tax.mjs
+node research/veb_a7_2026/audit_rinfo.mjs
 node --test research/veb_a7_2026/validate_evidence.test.mjs research/veb_a7_2026/review_assessment.test.mjs
+node --test research/veb_a7_2026/gorlane_review.test.mjs
+python3 -B research/veb_a7_2026/test_gorlane_neighborhood.py
+node --test research/veb_a7_2026/panama_papers_findings.test.mjs
 ```
 
 The validator checks CSV structure, unique record IDs, source references across all ledgers, mandatory exclusion of the disputed flows, crosswalk consistency, legacy snapshot drift, and Markdown source labels. The inherited regression tests use **synthetic fixtures**, not additional research evidence. Reviewer tests check the current production records and in-memory mutated copies for category, entity and date mistakes. A structural pass does not authenticate a source or prove a financial allegation. Changes to the legacy snapshots require a corresponding evidence review, not restoration of an unsupported claim merely to satisfy a test.

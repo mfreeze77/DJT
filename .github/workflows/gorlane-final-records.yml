@@ -1,0 +1,62 @@
+name: Gorlane final small-record acquisition
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+    paths: ['.github/workflows/gorlane-final-records.yml']
+permissions:
+  contents: read
+jobs:
+  acquire:
+    if: github.run_number == 1 && github.head_ref == 'research/gorlane-neighborhood-original-records-20261010' && github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-24.04
+    timeout-minutes: 8
+    steps:
+      - name: Acquire exact new public targets once without executing source material
+        run: |
+          python3 - <<'PY'
+          import datetime,hashlib,json,os,pathlib,time,urllib.request,urllib.parse,urllib.error
+          root=pathlib.Path(os.environ['RUNNER_TEMP'])/'gorlane-final-records';root.mkdir()
+          class SecureRedirect(urllib.request.HTTPRedirectHandler):
+              def redirect_request(self,req,fp,code,msg,headers,newurl):
+                  if urllib.parse.urlparse(newurl).scheme!='https':raise ValueError('Non-HTTPS redirect refused')
+                  return super().redirect_request(req,fp,code,msg,headers,newurl)
+          base='https://find-and-update.company-information.service.gov.uk/company/05188128/filing-history/'
+          targets=[
+            ('global-steel-2009-return.pdf',base+'MjAzNzc1MjU3N2FkaXF6a2N4/document?format=pdf&download=0'),
+            ('global-steel-2008-return.pdf',base+'MjAwOTYwODU3NWFkaXF6a2N4/document?format=pdf&download=0'),
+            ('global-steel-2007-return.pdf',base+'MTgzNTQ5NTY5YWRpcXprY3g/document?format=pdf&download=0'),
+            ('nyc-3l-instructions-2017.pdf','https://www.nyc.gov/assets/finance/downloads/pdf/17pdf/business_tax_forms/nyc-3l_instr_2017.pdf'),
+            ('shtaif-2022-canlii.html','https://www.canlii.org/en/on/onsc/doc/2022/2022onsc3161/2022onsc3161.html'),
+            ('bokserman-2021-canlii.html','https://www.canlii.org/en/on/onsc/doc/2021/2021onsc3077/2021onsc3077.html'),
+            ('bokserman-2022-canlii.html','https://www.canlii.org/en/on/onca/doc/2022/2022onca73/2022onca73.html'),
+            ('shtaif-2022-reproduction.html','https://www.minicounsel.ca/scj/2022/3161'),
+            ('bokserman-2021-reproduction.html','https://www.minicounsel.ca/scj/2021/3077'),
+            ('bokserman-2022-reproduction.html','https://www.minicounsel.ca/oca/2022/73'),
+            ('scc-40113.html','https://www.scc-csc.ca/cases-dossiers/search-recherche/40113/'),
+          ]
+          rows=[];limited=set()
+          for name,url in targets:
+              host=urllib.parse.urlparse(url).hostname
+              row={'file':name,'requested_url':url,'retrieved_at':datetime.datetime.now(datetime.timezone.utc).isoformat(),'review_status':'unreviewed'}
+              if host in limited:row.update(status='not_attempted_after_access_limit',error='Stopped host after403/429; no bypass')
+              else:
+                  try:
+                      req=urllib.request.Request(url,headers={'User-Agent':'DJT-public-record-review/1.0 (+https://github.com/mfreeze77/DJT)'})
+                      with urllib.request.build_opener(SecureRedirect()).open(req,timeout=35) as r:
+                          data=r.read(12000001);row.update(final_url=r.url,http_status=r.status,content_type=r.headers.get('Content-Type',''))
+                      if len(data)>12000000:raise ValueError('Size limit')
+                      (root/name).write_bytes(data);row.update(status='bytes_obtained_unreviewed',bytes=len(data),sha256=hashlib.sha256(data).hexdigest())
+                      if name.endswith('.pdf') and b'%PDF-' not in data[:1024]:row['status']='unexpected_non_pdf_retained'
+                  except urllib.error.HTTPError as e:
+                      row.update(status='not_obtained',http_status=e.code,error=str(e))
+                      if e.code in (403,429):limited.add(host)
+                  except Exception as e:row.update(status='not_obtained',error=str(e))
+              rows.append(row);(root/'acquisition.json').write_text(json.dumps(rows,indent=2));print(name,row['status']);time.sleep(1)
+          PY
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        if: always()
+        with:
+          name: gorlane-final-records
+          path: ${{ runner.temp }}/gorlane-final-records/
+          retention-days: 3
+          compression-level: 0
