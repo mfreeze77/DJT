@@ -1,0 +1,84 @@
+name: Quinira inspected public search
+on:
+  pull_request:
+    types: [opened, synchronize]
+    paths: ['.github/workflows/quinira-public-search-once.yml']
+permissions:
+  contents: read
+jobs:
+  acquire:
+    if: github.run_number == 1 && github.head_ref == 'research/gorlane-financing-quinira-20261011' && github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - name: Submit only the inspected free organisation search; stop at controls
+        run: |
+          python3 - <<'PY'
+          import datetime,hashlib,json,os,pathlib,time,urllib.request,urllib.parse,urllib.error,http.cookiejar
+          from html.parser import HTMLParser
+          root=pathlib.Path(os.environ['RUNNER_TEMP'])/'quinira-public-search';root.mkdir()
+          class Parser(HTMLParser):
+              def __init__(self):super().__init__();self.inputs={};self.links=[];self.action=None
+              def handle_starttag(self,tag,attrs):
+                  a=dict(attrs)
+                  if tag=='form':self.action=a.get('action')
+                  if tag=='input' and a.get('name') and a.get('type','').lower()=='hidden':self.inputs[a['name']]=a.get('value','')
+                  if tag=='a' and a.get('href'):self.links.append(a['href'])
+          class SecureRedirect(urllib.request.HTTPRedirectHandler):
+              def redirect_request(self,req,fp,code,msg,headers,newurl):
+                  if urllib.parse.urlparse(newurl).scheme!='https':raise ValueError('Non-HTTPS redirect refused')
+                  return super().redirect_request(req,fp,code,msg,headers,newurl)
+          opener=urllib.request.build_opener(SecureRedirect(),urllib.request.HTTPCookieProcessor(http.cookiejar.CookieJar()))
+          rows=[];blocked=set()
+          def acquire(name,url,data=None):
+              host=urllib.parse.urlparse(url).hostname
+              row={'file':name,'requested_url':url,'method':'POST-free-search' if data is not None else 'GET','retrieved_at':datetime.datetime.now(datetime.timezone.utc).isoformat(),'review_status':'unreviewed'}
+              if host in blocked:row.update(status='not_attempted_after_access_limit');rows.append(row);return None
+              try:
+                  req=urllib.request.Request(url,data=data,headers={'User-Agent':'DJT-public-record-review/1.0 (+https://github.com/mfreeze77/DJT)'})
+                  with opener.open(req,timeout=35) as r:b=r.read(8000001);row.update(final_url=r.url,http_status=r.status,content_type=r.headers.get('Content-Type',''))
+                  if len(b)>8000000:raise ValueError('Size limit')
+                  (root/name).write_bytes(b);row.update(status='bytes_obtained_unreviewed',bytes=len(b),sha256=hashlib.sha256(b).hexdigest())
+                  if name.endswith('.pdf') and b'%PDF-' not in b[:1024]:row['status']='unexpected_non_pdf_retained'
+                  if host=='efiling.drcor.mcit.gov.cy' and any(x in b.lower() for x in [b'g-recaptcha',b'hcaptcha',b'cf-chl-',b'please enable javascript to continue']):
+                      row['status']='access_challenge_retained';blocked.add(host)
+                  rows.append(row);(root/'acquisition.json').write_text(json.dumps(rows,indent=2));time.sleep(2);return b
+              except urllib.error.HTTPError as e:
+                  row.update(status='not_obtained',http_status=e.code,error=str(e))
+                  if e.code in (401,403,429):blocked.add(host)
+              except Exception as e:row.update(status='not_obtained',error=str(e))
+              rows.append(row);(root/'acquisition.json').write_text(json.dumps(rows,indent=2));time.sleep(2);return None
+          base='https://efiling.drcor.mcit.gov.cy/DrcorPublic/SearchForm.aspx?cultureInfo=en-AU&sc=0'
+          results=[]
+          for name,number in [('belego','251868'),('sileni','251695'),('equalchance','187745'),('quinira','286910'),('freegain','286456')]:
+              if 'efiling.drcor.mcit.gov.cy' in blocked:break
+              b=acquire(name+'-search-form.html',base)
+              if not b or 'efiling.drcor.mcit.gov.cy' in blocked:break
+              p=Parser();p.feed(b.decode('utf-8','replace'))
+              if not p.action or '__VIEWSTATE' not in p.inputs:results.append({'company':name,'status':'inspected_form_unavailable'});break
+              target=urllib.parse.urljoin(base,p.action)
+              if urllib.parse.urlparse(target).hostname!='efiling.drcor.mcit.gov.cy':raise ValueError('Unexpected form destination')
+              fields=p.inputs|{'__EVENTTARGET':'ctl00$cphMyMasterCentral$ucSearch$lbtnSearch','__EVENTARGUMENT':'','ctl00$cphMyMasterCentral$ucSearch$Group1':'optStartMatch','ctl00$cphMyMasterCentral$ucSearch$txtName':'','ctl00$cphMyMasterCentral$ucSearch$txtNumber':number}
+              b=acquire(name+'-search-result.html',target,urllib.parse.urlencode(fields).encode())
+              if b:
+                  p=Parser();p.feed(b.decode('utf-8','replace'))
+                  results.append({'company':name,'numeric_query':number,'links':p.links,'status':'response_obtained_not_yet_reviewed'})
+              else:results.append({'company':name,'numeric_query':number,'status':'not_obtained'})
+          (root/'cyprus-search-links.json').write_text(json.dumps(results,indent=2))
+          targets=[
+              ('nyc-2017-index.html','https://www.nyc.gov/site/finance/business/business-forms-2017-general-corp-tax.page'),
+              ('nyc-3l-instructions-2017.pdf','https://www.nyc.gov/assets/finance/downloads/pdf/17pdf/business_tax_forms/nyc-3l_instr_2017.pdf'),
+              ('nyc-3l-2017.pdf','https://www.nyc.gov/assets/finance/downloads/pdf/17pdf/business_tax_forms/nyc-3l_2017.pdf'),
+              ('nyc-att-s-corp-2017.pdf','https://www.nyc.gov/assets/finance/downloads/pdf/17pdf/business_tax_forms/nyc-att-s-corp_2017.pdf'),
+              ('nyc-fm99-3.pdf','https://www.nyc.gov/assets/finance/downloads/pdf/99pdf/fm99_3.pdf'),
+          ]
+          for name,url in targets:acquire(name,url)
+          (root/'acquisition.json').write_text(json.dumps(rows,indent=2))
+          print([(x['file'],x['status']) for x in rows])
+          PY
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        if: always()
+        with:
+          name: quinira-public-search
+          path: ${{ runner.temp }}/quinira-public-search/
+          retention-days: 7
