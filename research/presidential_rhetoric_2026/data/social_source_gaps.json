@@ -1,0 +1,15 @@
+{
+  "all_platform_activity_complete": false,
+  "x_latest_indexed": "2026-02-02T17:04:19-05:00",
+  "x_later_coverage": "unverified",
+  "media_only_records_without_exhaustive_transcription": 3723,
+  "accounts_not_exhaustively_indexed": [
+    "POTUS",
+    "WhiteHouse",
+    "campaign and staff accounts"
+  ],
+  "APP_index_latest": "2026-10-06",
+  "APP_parse_audit": "7 additional original post IDs appeared in links outside parsed row pairs. All 7 already exist in CNN/Roll Call union, so no change to union/candidate counts. See app_link_parse_audit.json. APP source-presence counts describe structured parsed rows only.",
+  "snapshot_cutoff_utc": "2026-10-12T03:12:00Z",
+  "no_completeness_proof": "Indexed-source census does not establish perfect capture of deleted/edited posts or all originally published posts."
+}

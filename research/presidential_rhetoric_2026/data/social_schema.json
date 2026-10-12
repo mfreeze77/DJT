@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "unit": "platform account post ID; not necessarily a unique presidential statement",
+  "required": ["id", "platform", "account", "created_at", "date", "url", "type", "sources", "text_sha256"],
+  "fields": {
+    "id": "String original platform ID",
+    "created_at": "ISO-8601 UTC timestamp",
+    "date": "America/New_York local date",
+    "timestamp_basis": "Source timestamp or explicit ID-derived timestamp",
+    "type": "original_account_text | repost | quote_post | media_only | app_editorial_candidate",
+    "repost_id": "Original quoted/reposted ID if source provides it; nullable",
+    "quote_id": "Quote target ID if source provides it; nullable",
+    "sources": "Source name and verified archive URL",
+    "source_presence": "Source membership flags",
+    "text_sha256": "SHA-256 of privately retained normalized account text",
+    "duplicate_text_group": "URL/punctuation/case-normalized exact-text cluster; nullable",
+    "duplicate_of": "Earlier original ID if explicit repost or exact text repeated within 24h",
+    "dcpd_overlap_candidates": "GovInfo document IDs with same-day textual overlap; manual event review needed"
+  },
+  "private_analysis_fields": {
+    "text": "Preserved account text from preferred source, or clearly labeled APP editorial fallback",
+    "authored_text_candidate": "Reposts and pure quote references removed; shared headlines/attributed quotations still require manual review",
+    "media_urls": "Original media pointers; no transcription claim",
+    "media_archive_screenshot": "Archive-rendered screenshot pointer, not independently verified original media"
+  }
+}

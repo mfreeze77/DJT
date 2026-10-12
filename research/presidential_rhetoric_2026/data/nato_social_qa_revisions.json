@@ -1,0 +1,795 @@
+[
+  {
+    "index": 91,
+    "id": "115037569702889410",
+    "target": "European allies",
+    "reason": "Pure favorable call/meeting appraisal is separate from personal/actor praise, consistently with Putin coding.",
+    "before": {
+      "polarity": "positive",
+      "tags": [
+        "relationship"
+      ]
+    },
+    "after": {
+      "polarity": "neutral",
+      "tags": [
+        "communication_quality"
+      ]
+    }
+  },
+  {
+    "index": 139,
+    "id": "115925766187001811",
+    "target": "Rutte",
+    "reason": "Pure favorable call/meeting appraisal is separate from personal/actor praise, consistently with Putin coding.",
+    "before": {
+      "polarity": "positive",
+      "tags": [
+        "relationship"
+      ]
+    },
+    "after": {
+      "polarity": "neutral",
+      "tags": [
+        "communication_quality"
+      ]
+    }
+  },
+  {
+    "index": 144,
+    "id": "115934734335579278",
+    "target": "Rutte",
+    "reason": "Pure favorable call/meeting appraisal is separate from personal/actor praise, consistently with Putin coding.",
+    "before": {
+      "polarity": "positive",
+      "tags": [
+        "relationship"
+      ]
+    },
+    "after": {
+      "polarity": "neutral",
+      "tags": [
+        "communication_quality"
+      ]
+    }
+  },
+  {
+    "index": 154,
+    "id": "116019287824035088",
+    "target": "Starmer",
+    "reason": "Pure favorable call/meeting appraisal is separate from personal/actor praise, consistently with Putin coding.",
+    "before": {
+      "polarity": "positive",
+      "tags": [
+        "relationship"
+      ]
+    },
+    "after": {
+      "polarity": "neutral",
+      "tags": [
+        "communication_quality"
+      ]
+    }
+  },
+  {
+    "index": 206,
+    "id": "116534860307993853",
+    "target": "Von der Leyen",
+    "reason": "Pure favorable call/meeting appraisal is separate from personal/actor praise, consistently with Putin coding.",
+    "before": {
+      "polarity": "positive",
+      "tags": [
+        "relationship"
+      ]
+    },
+    "after": {
+      "polarity": "neutral",
+      "tags": [
+        "communication_quality"
+      ]
+    }
+  },
+  {
+    "index": 213,
+    "id": "116625784011805994",
+    "target": "Erdogan",
+    "reason": "Pure favorable call/meeting appraisal is separate from personal/actor praise, consistently with Putin coding.",
+    "before": {
+      "polarity": "positive",
+      "tags": [
+        "relationship"
+      ]
+    },
+    "after": {
+      "polarity": "neutral",
+      "tags": [
+        "communication_quality"
+      ]
+    }
+  },
+  {
+    "index": 50,
+    "id": "114471558043712137",
+    "target": "UK",
+    "reason": "Favorable deal/day/outcome appraisal does not itself evaluate the target country or institution.",
+    "before": {
+      "polarity": "positive",
+      "tags": [
+        "relationship"
+      ]
+    },
+    "after": {
+      "polarity": "neutral",
+      "tags": [
+        "deal_appraisal"
+      ]
+    }
+  },
+  {
+    "index": 53,
+    "id": "114474417554010988",
+    "target": "UK",
+    "reason": "Favorable deal/day/outcome appraisal does not itself evaluate the target country or institution.",
+    "before": {
+      "polarity": "positive",
+      "tags": [
+        "relationship"
+      ]
+    },
+    "after": {
+      "polarity": "neutral",
+      "tags": [
+        "deal_appraisal"
+      ]
+    }
+  },
+  {
+    "index": 54,
+    "id": "114478780390671313",
+    "target": "UK",
+    "reason": "Favorable deal/day/outcome appraisal does not itself evaluate the target country or institution.",
+    "before": {
+      "polarity": "positive",
+      "tags": [
+        "relationship"
+      ]
+    },
+    "after": {
+      "polarity": "neutral",
+      "tags": [
+        "deal_appraisal"
+      ]
+    }
+  },
+  {
+    "index": 85,
+    "id": "114926827953437897",
+    "target": "EU",
+    "reason": "Favorable deal/day/outcome appraisal does not itself evaluate the target country or institution.",
+    "before": {
+      "polarity": "positive",
+      "tags": [
+        "relationship"
+      ]
+    },
+    "after": {
+      "polarity": "neutral",
+      "tags": [
+        "deal_appraisal"
+      ]
+    }
+  },
+  {
+    "index": 148,
+    "id": "115944336667645170",
+    "target": "NATO",
+    "reason": "Favorable deal/day/outcome appraisal does not itself evaluate the target country or institution.",
+    "before": {
+      "polarity": "positive",
+      "tags": [
+        "relationship"
+      ]
+    },
+    "after": {
+      "polarity": "neutral",
+      "tags": [
+        "deal_appraisal"
+      ]
+    }
+  },
+  {
+    "index": 60,
+    "id": "114556558074574515",
+    "target": "UK",
+    "reason": "Positive element concerns trade deal only; energy/tax-policy criticism remains.",
+    "before": {
+      "polarity": "mixed",
+      "tags": [
+        "relationship",
+        "policy_grievance"
+      ]
+    },
+    "after": {
+      "polarity": "negative",
+      "tags": [
+        "deal_appraisal",
+        "policy_grievance"
+      ]
+    }
+  },
+  {
+    "index": 13,
+    "id": "114060909744642044",
+    "target": "France",
+    "reason": "Cherished partnership and historical joint benefit are relationship appraisal, not an identified French act being praised.",
+    "before": {
+      "polarity": "positive",
+      "tags": [
+        "relationship",
+        "conduct_praise"
+      ]
+    },
+    "after": {
+      "polarity": "positive",
+      "tags": [
+        "country_relationship"
+      ]
+    }
+  },
+  {
+    "index": 35,
+    "id": "114247551865595874",
+    "target": "Stubb",
+    "reason": "Playing golf together is not an explicit personal-affinity claim. Praise concerns golf skill, not governance.",
+    "before": {
+      "polarity": "positive",
+      "tags": [
+        "competence",
+        "current_affinity"
+      ]
+    },
+    "after": {
+      "polarity": "positive",
+      "tags": [
+        "competence"
+      ]
+    }
+  },
+  {
+    "index": 35,
+    "id": "114247551865595874",
+    "target": "Finland",
+    "reason": "Prospective strengthening of partnership is a cooperative intention, not a present character/competence judgment.",
+    "before": {
+      "polarity": "positive",
+      "tags": [
+        "relationship"
+      ]
+    },
+    "after": {
+      "polarity": "neutral",
+      "tags": [
+        "cooperative_intention"
+      ]
+    }
+  },
+  {
+    "index": 49,
+    "id": "114455860282159313",
+    "target": "Erdogan",
+    "reason": "Relationship explicitly refers to first term; release of Brunson is substantive praised conduct. Current call quality separate.",
+    "before": {
+      "polarity": "positive",
+      "tags": [
+        "relationship",
+        "conduct_praise"
+      ]
+    },
+    "after": {
+      "polarity": "positive",
+      "tags": [
+        "conduct_praise",
+        "past_affinity",
+        "communication_quality"
+      ]
+    }
+  },
+  {
+    "index": 51,
+    "id": "114471661029075259",
+    "target": "UK",
+    "reason": "Explicit longstanding allegiance is country relationship appraisal, distinct from strict state competence/conduct.",
+    "before": {
+      "polarity": "positive",
+      "tags": [
+        "relationship"
+      ]
+    },
+    "after": {
+      "polarity": "positive",
+      "tags": [
+        "country_relationship",
+        "deal_appraisal"
+      ]
+    }
+  },
+  {
+    "index": 52,
+    "id": "114472802068018414",
+    "target": "UK",
+    "reason": "Strong ally is country relationship; fair/historic description chiefly evaluates deal. No distinct UK conduct appraisal beyond signing deal.",
+    "before": {
+      "polarity": "positive",
+      "tags": [
+        "conduct_praise",
+        "relationship"
+      ]
+    },
+    "after": {
+      "polarity": "positive",
+      "tags": [
+        "country_relationship",
+        "deal_appraisal"
+      ]
+    }
+  },
+  {
+    "index": 96,
+    "id": "115052030103944534",
+    "target": "Macron",
+    "reason": "Distinguished guests is ceremonial courtesy; good meeting is communication quality, not explicit personal affinity.",
+    "before": {
+      "polarity": "positive",
+      "tags": [
+        "ceremonial",
+        "relationship"
+      ]
+    },
+    "after": {
+      "polarity": "positive",
+      "tags": [
+        "ceremonial",
+        "communication_quality"
+      ]
+    }
+  },
+  {
+    "index": 96,
+    "id": "115052030103944534",
+    "target": "Stubb",
+    "reason": "Distinguished guests is ceremonial courtesy; good meeting is communication quality, not explicit personal affinity.",
+    "before": {
+      "polarity": "positive",
+      "tags": [
+        "ceremonial",
+        "relationship"
+      ]
+    },
+    "after": {
+      "polarity": "positive",
+      "tags": [
+        "ceremonial",
+        "communication_quality"
+      ]
+    }
+  },
+  {
+    "index": 96,
+    "id": "115052030103944534",
+    "target": "Meloni",
+    "reason": "Distinguished guests is ceremonial courtesy; good meeting is communication quality, not explicit personal affinity.",
+    "before": {
+      "polarity": "positive",
+      "tags": [
+        "ceremonial",
+        "relationship"
+      ]
+    },
+    "after": {
+      "polarity": "positive",
+      "tags": [
+        "ceremonial",
+        "communication_quality"
+      ]
+    }
+  },
+  {
+    "index": 96,
+    "id": "115052030103944534",
+    "target": "Starmer",
+    "reason": "Distinguished guests is ceremonial courtesy; good meeting is communication quality, not explicit personal affinity.",
+    "before": {
+      "polarity": "positive",
+      "tags": [
+        "ceremonial",
+        "relationship"
+      ]
+    },
+    "after": {
+      "polarity": "positive",
+      "tags": [
+        "ceremonial",
+        "communication_quality"
+      ]
+    }
+  },
+  {
+    "index": 96,
+    "id": "115052030103944534",
+    "target": "Merz",
+    "reason": "Distinguished guests is ceremonial courtesy; good meeting is communication quality, not explicit personal affinity.",
+    "before": {
+      "polarity": "positive",
+      "tags": [
+        "ceremonial",
+        "relationship"
+      ]
+    },
+    "after": {
+      "polarity": "positive",
+      "tags": [
+        "ceremonial",
+        "communication_quality"
+      ]
+    }
+  },
+  {
+    "index": 96,
+    "id": "115052030103944534",
+    "target": "Von der Leyen",
+    "reason": "Distinguished guests is ceremonial courtesy; good meeting is communication quality, not explicit personal affinity.",
+    "before": {
+      "polarity": "positive",
+      "tags": [
+        "ceremonial",
+        "relationship"
+      ]
+    },
+    "after": {
+      "polarity": "positive",
+      "tags": [
+        "ceremonial",
+        "communication_quality"
+      ]
+    }
+  },
+  {
+    "index": 96,
+    "id": "115052030103944534",
+    "target": "Rutte",
+    "reason": "Distinguished guests is ceremonial courtesy; good meeting is communication quality, not explicit personal affinity.",
+    "before": {
+      "polarity": "positive",
+      "tags": [
+        "ceremonial",
+        "relationship"
+      ]
+    },
+    "after": {
+      "polarity": "positive",
+      "tags": [
+        "ceremonial",
+        "communication_quality"
+      ]
+    }
+  },
+  {
+    "index": 91,
+    "id": "115037569702889410",
+    "target": "Rutte",
+    "reason": "Highly respected expresses reputation/esteem; it does not specifically assess competence.",
+    "before": {
+      "polarity": "positive",
+      "tags": [
+        "competence"
+      ]
+    },
+    "after": {
+      "polarity": "positive",
+      "tags": [
+        "reputation_praise"
+      ]
+    }
+  },
+  {
+    "index": 97,
+    "id": "115052358324894178",
+    "target": "Von der Leyen",
+    "reason": "Highly Respected expresses reputation/esteem; it does not specifically assess competence.",
+    "before": {
+      "polarity": "positive",
+      "tags": [
+        "competence"
+      ]
+    },
+    "after": {
+      "polarity": "positive",
+      "tags": [
+        "reputation_praise"
+      ]
+    }
+  },
+  {
+    "index": 76,
+    "id": "114742858969719244",
+    "target": "Dutch monarchs",
+    "reason": "Beautiful and spectacular people is a personal compliment, not a specified act of moral/conduct praise.",
+    "before": {
+      "polarity": "positive",
+      "tags": [
+        "conduct_praise"
+      ]
+    },
+    "after": {
+      "polarity": "positive",
+      "tags": [
+        "personal_compliment",
+        "communication_quality"
+      ]
+    }
+  },
+  {
+    "index": 78,
+    "id": "114749872416313793",
+    "target": "NATO",
+    "reason": "Summit quality is communication/event appraisal; real power is institutional capability appraisal. Keep both separate from actor conduct praise.",
+    "before": {
+      "polarity": "positive",
+      "tags": [
+        "conduct_praise"
+      ]
+    },
+    "after": {
+      "polarity": "positive",
+      "tags": [
+        "communication_quality",
+        "capability_appraisal"
+      ]
+    }
+  },
+  {
+    "index": 84,
+    "id": "114905910987380649",
+    "target": "Poland",
+    "reason": "Great win in Poland praises an election outcome, not Polish state conduct. Nawrocki’s personal praise remains in separate row.",
+    "before": {
+      "polarity": "positive",
+      "tags": [
+        "conduct_praise"
+      ]
+    },
+    "after": {
+      "polarity": "neutral",
+      "tags": [
+        "electoral_outcome_appraisal"
+      ]
+    }
+  },
+  {
+    "index": 10,
+    "id": "114054706390970120",
+    "target": "Germany",
+    "reason": "Great day and congratulations are electoral outcome approval/courtesy, not specific state conduct praise; policy criticism remains.",
+    "before": {
+      "polarity": "mixed",
+      "tags": [
+        "conduct_praise",
+        "policy_grievance"
+      ]
+    },
+    "after": {
+      "polarity": "mixed",
+      "tags": [
+        "ceremonial",
+        "electoral_outcome_appraisal",
+        "policy_grievance"
+      ]
+    }
+  },
+  {
+    "index": 239,
+    "id": "116954623645571071",
+    "target": "Burnham",
+    "reason": "He will be able to do it is actual competence praise; call quality is separate and no explicit personal relationship claim is made.",
+    "before": {
+      "polarity": "positive",
+      "tags": [
+        "competence",
+        "relationship"
+      ]
+    },
+    "after": {
+      "polarity": "positive",
+      "tags": [
+        "competence",
+        "communication_quality"
+      ]
+    }
+  },
+  {
+    "index": 155,
+    "id": "116019322824567248",
+    "target": "Hungary",
+    "reason": "Country partnership/relationship is separate from personal affinity and strict competence/conduct praise.",
+    "before": {
+      "polarity": "positive",
+      "tags": [
+        "relationship"
+      ]
+    },
+    "after": {
+      "polarity": "positive",
+      "tags": [
+        "country_relationship"
+      ]
+    }
+  },
+  {
+    "index": 157,
+    "id": "116064077737153290",
+    "target": "Hungary",
+    "reason": "Country partnership/relationship is separate from personal affinity and strict competence/conduct praise.",
+    "before": {
+      "polarity": "positive",
+      "tags": [
+        "relationship"
+      ]
+    },
+    "after": {
+      "polarity": "positive",
+      "tags": [
+        "country_relationship"
+      ]
+    }
+  },
+  {
+    "index": 158,
+    "id": "116093101641103750",
+    "target": "UK",
+    "reason": "Country partnership/relationship is separate from personal affinity and strict competence/conduct praise.",
+    "before": {
+      "polarity": "mixed",
+      "tags": [
+        "relationship",
+        "policy_grievance"
+      ]
+    },
+    "after": {
+      "polarity": "mixed",
+      "tags": [
+        "country_relationship",
+        "policy_grievance"
+      ]
+    }
+  },
+  {
+    "index": 174,
+    "id": "116286710096907230",
+    "target": "Hungary",
+    "reason": "Country partnership/relationship is separate from personal affinity and strict competence/conduct praise.",
+    "before": {
+      "polarity": "positive",
+      "tags": [
+        "relationship"
+      ]
+    },
+    "after": {
+      "polarity": "positive",
+      "tags": [
+        "country_relationship"
+      ]
+    }
+  },
+  {
+    "index": 184,
+    "id": "116377410587246089",
+    "target": "Hungary",
+    "reason": "Country partnership/relationship is separate from personal affinity and strict competence/conduct praise.",
+    "before": {
+      "polarity": "positive",
+      "tags": [
+        "relationship"
+      ]
+    },
+    "after": {
+      "polarity": "positive",
+      "tags": [
+        "country_relationship"
+      ]
+    }
+  },
+  {
+    "index": 185,
+    "id": "116382335330123013",
+    "target": "Hungary",
+    "reason": "Country partnership/relationship is separate from personal affinity and strict competence/conduct praise.",
+    "before": {
+      "polarity": "positive",
+      "tags": [
+        "relationship"
+      ]
+    },
+    "after": {
+      "polarity": "positive",
+      "tags": [
+        "country_relationship"
+      ]
+    }
+  },
+  {
+    "index": 239,
+    "id": "116954623645571071",
+    "target": "UK",
+    "reason": "Country partnership/relationship is separate from personal affinity and strict competence/conduct praise.",
+    "before": {
+      "polarity": "positive",
+      "tags": [
+        "relationship"
+      ]
+    },
+    "after": {
+      "polarity": "positive",
+      "tags": [
+        "country_relationship"
+      ]
+    }
+  },
+  {
+    "index": 258,
+    "id": "117287545147440255",
+    "target": "Poland",
+    "reason": "Country partnership/relationship is separate from personal affinity and strict competence/conduct praise.",
+    "before": {
+      "polarity": "positive",
+      "tags": [
+        "relationship"
+      ]
+    },
+    "after": {
+      "polarity": "positive",
+      "tags": [
+        "country_relationship"
+      ]
+    }
+  },
+  {
+    "index": 259,
+    "id": "117294126158197822",
+    "target": "Denmark",
+    "reason": "Country partnership/relationship is separate from personal affinity and strict competence/conduct praise.",
+    "before": {
+      "polarity": "positive",
+      "tags": [
+        "relationship",
+        "ceremonial"
+      ]
+    },
+    "after": {
+      "polarity": "positive",
+      "tags": [
+        "country_relationship",
+        "ceremonial"
+      ]
+    }
+  },
+  {
+    "index": 259,
+    "id": "117294126158197822",
+    "target": "Greenland",
+    "reason": "Country partnership/relationship is separate from personal affinity and strict competence/conduct praise.",
+    "before": {
+      "polarity": "positive",
+      "tags": [
+        "relationship",
+        "ceremonial"
+      ]
+    },
+    "after": {
+      "polarity": "positive",
+      "tags": [
+        "country_relationship",
+        "ceremonial"
+      ]
+    }
+  }
+]

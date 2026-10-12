@@ -1,0 +1,92 @@
+[
+  {
+    "id": "116975606621428184",
+    "date": "2026-07-24",
+    "url": "https://truthsocial.com/@realDonaldTrump/116975606621428184",
+    "category": "conditional_warning",
+    "clear_personal_negative_evaluation": false,
+    "reason": "Conditional adverse consequences if Russia supplies Iran; simultaneous trust/affinity. No asserted current negative conduct.",
+    "review_method": "Second AI semantic review; no human validation"
+  },
+  {
+    "id": "115391463725537040",
+    "date": "2025-10-17",
+    "url": "https://truthsocial.com/@realDonaldTrump/115391463725537040",
+    "category": "request_without_negative_evaluation",
+    "clear_personal_negative_evaluation": false,
+    "reason": "Appeal to both leaders to stop killing and make a deal; no personal negative evaluation.",
+    "review_method": "Second AI semantic review; no human validation"
+  },
+  {
+    "id": "115137717177283585",
+    "date": "2025-09-02",
+    "url": "https://truthsocial.com/@realDonaldTrump/115137717177283585",
+    "category": "direct_conduct_accusation",
+    "clear_personal_negative_evaluation": true,
+    "reason": "Conspiring against the United States is a negative attribution to Putin, Xi and Kim; sarcastic tone does not erase content, but seriousness is uncertain.",
+    "review_method": "Second AI semantic review; no human validation"
+  },
+  {
+    "id": "114683261634430212",
+    "date": "2025-06-14",
+    "url": "https://truthsocial.com/@realDonaldTrump/114683261634430212",
+    "category": "request_without_negative_evaluation",
+    "clear_personal_negative_evaluation": false,
+    "reason": "Redirects Putin toward ending own war while praising birthday courtesy and prisoner swaps.",
+    "review_method": "Second AI semantic review; no human validation"
+  },
+  {
+    "id": "114580564427808609",
+    "date": "2025-05-27",
+    "url": "https://truthsocial.com/@realDonaldTrump/114580564427808609",
+    "category": "warning_with_implied_rebuke",
+    "clear_personal_negative_evaluation": null,
+    "reason": "Playing with fire conveys recklessness, but predominantly a warning. Keep contextual rather than treating as direct personal insult.",
+    "review_method": "Second AI semantic review; no human validation"
+  },
+  {
+    "id": "114571369956761390",
+    "date": "2025-05-25",
+    "url": "https://truthsocial.com/@realDonaldTrump/114571369956761390",
+    "category": "personal_insult_and_condemnation",
+    "clear_personal_negative_evaluation": true,
+    "reason": "Absolutely crazy and needless killing directly attributed to Putin.",
+    "review_method": "Second AI semantic review; no human validation"
+  },
+  {
+    "id": "114490093180275292",
+    "date": "2025-05-11",
+    "url": "https://truthsocial.com/@realDonaldTrump/114490093180275292",
+    "category": "mild_personal_rebuke",
+    "clear_personal_negative_evaluation": true,
+    "reason": "Too busy celebrating criticizes Putin directly; bulk of post pressures Ukraine and should be described accordingly.",
+    "review_method": "Second AI semantic review; no human validation"
+  },
+  {
+    "id": "114404524335638236",
+    "date": "2025-04-26",
+    "url": "https://truthsocial.com/@realDonaldTrump/114404524335638236",
+    "category": "direct_conduct_condemnation",
+    "clear_personal_negative_evaluation": true,
+    "reason": "Explicitly says no reason for Putin to fire missiles into civilian areas and questions his peace intention.",
+    "review_method": "Second AI semantic review; no human validation"
+  },
+  {
+    "id": "114392923237368367",
+    "date": "2025-04-24",
+    "url": "https://truthsocial.com/@realDonaldTrump/114392923237368367",
+    "category": "contextual_conduct_rebuke",
+    "clear_personal_negative_evaluation": null,
+    "reason": "Explicitly criticizes Russian strikes and directly tells Vladimir to stop; personal responsibility is contextual rather than expressed with a Putin-subject negative judgment.",
+    "review_method": "Second AI semantic review; no human validation"
+  },
+  {
+    "id": "113872782548137314",
+    "date": "2025-01-22",
+    "url": "https://truthsocial.com/@realDonaldTrump/113872782548137314",
+    "category": "conditional_policy_warning",
+    "clear_personal_negative_evaluation": false,
+    "reason": "Tariff/sanctions warning unless settlement; Russia-state economy criticism, but no direct negative personal evaluation of Putin.",
+    "review_method": "Second AI semantic review; no human validation"
+  }
+]

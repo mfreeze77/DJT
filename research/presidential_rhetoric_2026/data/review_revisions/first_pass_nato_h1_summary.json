@@ -1,0 +1,242 @@
+{
+  "NATO institution": {
+    "mention_documents": 45,
+    "positive_documents": 12,
+    "negative_documents": 29,
+    "quality_positive_documents": 1,
+    "broad_favorable_documents": 13,
+    "negative_only": 19,
+    "neutral": 14,
+    "mixed": 10,
+    "positive_only": 2
+  },
+  "Rutte and unidentified NATO chiefs": {
+    "mention_documents": 9,
+    "positive_documents": 8,
+    "negative_documents": 0,
+    "quality_positive_documents": 0,
+    "broad_favorable_documents": 8,
+    "positive_only": 8,
+    "neutral": 1
+  },
+  "NATO chiefs current and former including Stoltenberg": {
+    "mention_documents": 11,
+    "positive_documents": 10,
+    "negative_documents": 0,
+    "quality_positive_documents": 0,
+    "broad_favorable_documents": 10,
+    "positive_only": 10,
+    "neutral": 1
+  },
+  "Named European NATO allies and governmental leaders, including Greenland and monarchs": {
+    "mention_documents": 105,
+    "positive_documents": 62,
+    "negative_documents": 32,
+    "quality_positive_documents": 8,
+    "broad_favorable_documents": 66,
+    "mixed": 22,
+    "positive_only": 40,
+    "neutral": 33,
+    "negative_only": 10
+  },
+  "European Union institution": {
+    "mention_documents": 50,
+    "positive_documents": 11,
+    "negative_documents": 43,
+    "quality_positive_documents": 1,
+    "broad_favorable_documents": 12,
+    "negative_only": 35,
+    "mixed": 8,
+    "neutral": 4,
+    "positive_only": 3
+  },
+  "Europe unspecified": {
+    "mention_documents": 53,
+    "positive_documents": 9,
+    "negative_documents": 42,
+    "quality_positive_documents": 2,
+    "broad_favorable_documents": 11,
+    "negative_only": 35,
+    "neutral": 9,
+    "mixed": 7,
+    "positive_only": 2
+  },
+  "Albania": {
+    "mention_documents": 1,
+    "positive_documents": 0,
+    "negative_documents": 0,
+    "quality_positive_documents": 0,
+    "broad_favorable_documents": 0,
+    "neutral": 1
+  },
+  "Denmark": {
+    "mention_documents": 25,
+    "positive_documents": 19,
+    "negative_documents": 7,
+    "quality_positive_documents": 0,
+    "broad_favorable_documents": 19,
+    "mixed": 5,
+    "negative_only": 2,
+    "positive_only": 14,
+    "neutral": 4
+  },
+  "Finland": {
+    "mention_documents": 13,
+    "positive_documents": 10,
+    "negative_documents": 0,
+    "quality_positive_documents": 0,
+    "broad_favorable_documents": 10,
+    "positive_only": 10,
+    "neutral": 3
+  },
+  "France": {
+    "mention_documents": 35,
+    "positive_documents": 16,
+    "negative_documents": 9,
+    "quality_positive_documents": 0,
+    "broad_favorable_documents": 16,
+    "neutral": 16,
+    "positive_only": 10,
+    "mixed": 6,
+    "negative_only": 3
+  },
+  "Germany": {
+    "mention_documents": 20,
+    "positive_documents": 4,
+    "negative_documents": 7,
+    "quality_positive_documents": 0,
+    "broad_favorable_documents": 4,
+    "neutral": 10,
+    "positive_only": 3,
+    "negative_only": 6,
+    "mixed": 1
+  },
+  "Greece": {
+    "mention_documents": 3,
+    "positive_documents": 2,
+    "negative_documents": 0,
+    "quality_positive_documents": 0,
+    "broad_favorable_documents": 2,
+    "neutral": 1,
+    "positive_only": 2
+  },
+  "Italy": {
+    "mention_documents": 11,
+    "positive_documents": 4,
+    "negative_documents": 0,
+    "quality_positive_documents": 1,
+    "broad_favorable_documents": 5,
+    "positive_only": 4,
+    "neutral": 7
+  },
+  "Lithuania": {
+    "mention_documents": 2,
+    "positive_documents": 0,
+    "negative_documents": 0,
+    "quality_positive_documents": 0,
+    "broad_favorable_documents": 0,
+    "neutral": 2
+  },
+  "Netherlands": {
+    "mention_documents": 3,
+    "positive_documents": 3,
+    "negative_documents": 0,
+    "quality_positive_documents": 0,
+    "broad_favorable_documents": 3,
+    "positive_only": 3
+  },
+  "Norway": {
+    "mention_documents": 18,
+    "positive_documents": 17,
+    "negative_documents": 0,
+    "quality_positive_documents": 0,
+    "broad_favorable_documents": 17,
+    "positive_only": 17,
+    "neutral": 1
+  },
+  "Poland": {
+    "mention_documents": 6,
+    "positive_documents": 6,
+    "negative_documents": 0,
+    "quality_positive_documents": 0,
+    "broad_favorable_documents": 6,
+    "positive_only": 6
+  },
+  "Romania": {
+    "mention_documents": 1,
+    "positive_documents": 0,
+    "negative_documents": 0,
+    "quality_positive_documents": 0,
+    "broad_favorable_documents": 0,
+    "neutral": 1
+  },
+  "Slovakia": {
+    "mention_documents": 1,
+    "positive_documents": 0,
+    "negative_documents": 0,
+    "quality_positive_documents": 0,
+    "broad_favorable_documents": 0,
+    "neutral": 1
+  },
+  "Spain": {
+    "mention_documents": 8,
+    "positive_documents": 2,
+    "negative_documents": 5,
+    "quality_positive_documents": 0,
+    "broad_favorable_documents": 2,
+    "negative_only": 3,
+    "neutral": 3,
+    "mixed": 2
+  },
+  "Sweden": {
+    "mention_documents": 16,
+    "positive_documents": 15,
+    "negative_documents": 0,
+    "quality_positive_documents": 0,
+    "broad_favorable_documents": 15,
+    "positive_only": 15,
+    "neutral": 1
+  },
+  "Turkey": {
+    "mention_documents": 6,
+    "positive_documents": 5,
+    "negative_documents": 0,
+    "quality_positive_documents": 0,
+    "broad_favorable_documents": 5,
+    "positive_only": 5,
+    "neutral": 1
+  },
+  "United Kingdom": {
+    "mention_documents": 39,
+    "positive_documents": 13,
+    "negative_documents": 7,
+    "quality_positive_documents": 7,
+    "broad_favorable_documents": 20,
+    "neutral": 22,
+    "positive_only": 10,
+    "mixed": 3,
+    "negative_only": 4
+  },
+  "Named allies excluding school-model praise": {
+    "mention_documents": 105,
+    "positive_documents": 48,
+    "negative_documents": 32,
+    "quality_positive_documents": 8,
+    "broad_favorable_documents": 52,
+    "mixed": 20,
+    "positive_only": 28,
+    "neutral": 45,
+    "negative_only": 12
+  },
+  "Named allies excluding purely ceremonial praise": {
+    "mention_documents": 105,
+    "positive_documents": 60,
+    "negative_documents": 32,
+    "quality_positive_documents": 8,
+    "broad_favorable_documents": 64,
+    "mixed": 21,
+    "positive_only": 39,
+    "neutral": 34,
+    "negative_only": 11
+  }
+}

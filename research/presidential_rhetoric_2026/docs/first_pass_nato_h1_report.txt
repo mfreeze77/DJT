@@ -1,0 +1,60 @@
+# FIRST-PASS AUDIT TRAIL: COUNTS NOT FINAL
+
+Read CORRECTION_LOG.md and revision ledgers before use.
+
+Trump rhetoric toward NATO and European NATO allies: official-record tranche
+Reviewed period: January 20–June 30, 2025
+
+RESULT
+The distinction between NATO as an institution and individual allied countries/leaders materially changes the answer. In this tranche, criticism was more frequent than praise for NATO itself, but praise was more frequent for the named European allied-country/leader group. This is a descriptive result from official presidential records, not an estimate of all public utterances and not yet the full requested January 2025–October 2026 window.
+
+Document-deduplicated counts (a mixed document appears in both positive and negative):
+- NATO institution: 45 target-mention documents; 12 positive, 29 negative; 2 positive-only, 19 negative-only, 10 mixed, 14 neutral.
+- Rutte and unidentified NATO chiefs: 9 documents; 8 positive, 0 negative, 1 neutral. Including named former chief Stoltenberg adds two documents from his April visit as Norwegian finance minister: 11 documents, 10 positive, 0 negative, 1 neutral. Separate from institution.
+- Named European NATO countries and their governmental leaders/monarchs, with Greenland grouped under Denmark: 105 documents; 62 positive, 32 negative; 40 positive-only, 10 negative-only, 22 mixed, 33 neutral.
+- European Union institution: 50 documents; 11 positive, 43 negative; 3 positive-only, 35 negative-only, 8 mixed, 4 neutral. This is not NATO.
+- Europe, unspecified: 53 documents; 9 positive, 42 negative. Kept separate because the label cannot reliably be equated with NATO members or the EU.
+
+SENSITIVITIES
+- For named allies, excluding positive school-system comparisons reduces positive documents from 62 to 48, holding the 105-document denominator and 32 negative documents fixed. There are 53 country rows but only 15 documents with these education examples. This explains much of the high Nordic country positivity and demonstrates why summing country rows is inappropriate.
+- Excluding purely ceremonial positive rows reduces named-allies positives to 60. Positive competence/character or current affinity expressed during a formal greeting remains distinguishable from a greeting-only compliment.
+- Broad favorable language, adding actual positively appraised calls/meetings/deals to actor praise, raises named-allies favorable documents to 66 and NATO to 13. EU rises to 12 when the positive call with von der Leyen is counted. Future hoped-for good meetings and bare announcements of deals are not automatically favorable.
+- For named governmental individuals alone (country-linked individual rows, excluding opposition figures, spouses and non-head royal family members), there are 48 mention documents, 31 with confirmed current personal appraisal/affinity and 7 with criticism. Some other apparent individual positives are explicitly unresolved, such as collective praise inferred onto three national leaders on June 27.
+- Criticism severity, maximum within each document: NATO 20 mild, 9 coercive; named allies 21 mild, 3 personal/jocular, 8 coercive. Severity is interpretive and is not a claim of actual policy implementation.
+
+SOURCE EXAMPLES
+June 25, 2025, Hague press conference, DCPD-202500720:
+https://www.govinfo.gov/content/pkg/DCPD-202500720/html/DCPD-202500720.htm
+NATO/allies: "these people really love their countries, it's not a rip-off". This is substantive positive appraisal alongside recalled unfair burden-sharing. Rutte: "He's doing a fantastic job". Spain: "it's a great place, and they're great people", alongside an explicit threat to make Spain pay twice as much through trade. The same document is mixed for Spain and NATO, positive for Rutte. Article 5 reassurance alone is not classified as praise.
+
+June 18, 2025, Juventus greeting, DCPD-202500704:
+https://www.govinfo.gov/content/pkg/DCPD-202500704/html/DCPD-202500704.htm
+Macron: "he's a nice guy", but his ceasefire account was a "very badly worded statement". Mixed; substantive disagreement, not simply an insult.
+
+June 5, 2025, Merz meeting, DCPD-202500661:
+https://www.govinfo.gov/content/pkg/DCPD-202500661/html/DCPD-202500661.htm
+Merz: "a very great representative of Germany". Germany receives explicit approval of increased defense spending while its earlier Russian-energy dependence is criticized.
+
+April 24, 2025, Støre meeting, DCPD-202500518:
+https://www.govinfo.gov/content/pkg/DCPD-202500518/html/DCPD-202500518.htm
+Norway: "very smart nation, very well-managed nation". This is substantive praise beyond a routine welcome.
+
+March 26, 2025, automobile tariff announcement, DCPD-202500402:
+https://www.govinfo.gov/content/pkg/DCPD-202500402/html/DCPD-202500402.htm
+Denmark's schools are praised, but Denmark is also pressed to cede Greenland, with willingness to go as far as necessary. Coding only an isolated favorable or hostile passage would misrepresent the document.
+
+METHOD AND AUDIT
+154 broad keyword candidate documents were reviewed. 133 contain retained contemporary target-addressing presidential material, producing 426 document×entity rows. 21 are excluded with individual reasons in the audit file: reporter/other-speaker-only mentions, metadata/false hits, two jointly authored statements outside the single-author core, and historical-only national references. No H1 candidate IDs remain pending. Historical-only praise of 1944 British/Allied troops is excluded symmetrically with historical-only condemnation of 1775 British or WWII German enemies.
+
+One source document×target can have at most one positive and one negative flag. Different records from genuinely distinct events are not merged merely because they repeat a theme. Mirror records are not separately counted. A cross-channel merge must still deduplicate reproduced written statements/Truth Social posts, notably DCPD-202500616.
+
+The core corpus is GovInfo's Daily Compilation of Presidential Documents. Relevant excerpts were manually evaluated, and full source context was consulted for attribution or referent problems. Raw-HTML speaker labels repaired earlier extraction errors. Crucially, compact keyword neighborhoods missed later positive answers in several records; full-context recovery restored Rutte, Wilders, Merz and Macron appraisals. Exact evidence strings and the communication-quality evidence were validated as normalized substrings of the source transcripts.
+
+The analysis includes explicit competence/quality/approved-conduct praise and current affinity. A successful call/deal is separately flagged and is not personal praise. Mere thanks, mention, promise of support, favorable intentions, travel plans or a desire for peace do not automatically count as praise. Past-only affinity toward Merkel is retained in an auxiliary flag and excluded from headline praise. Conditional NATO praise, teasing, implied comparisons and weak target attribution remain annotated for sensitivity review.
+
+Several important scope limitations remain: candidate retrieval depends on the target dictionary; some pronoun-only contexts require interpretation; generic Europe does not mean every NATO member; country groups offer more opportunities for mentions than one individual; document frequencies are not sentence or utterance frequencies. This tranche should be joined to July–December 2025, 2026 and social-media ledgers before answering the full-period question.
+
+ARTIFACTS
+nato_coded.json / nato_coded.csv: 426 entity rows, dates, titles, official URLs, exact excerpts, valence, severity, context tags, communication_quality_positive, current_appraisal_positive, prior_affinity_positive, ceremonial_only_positive, education_model_positive.
+nato_h1_summary.json: document-deduplicated group and country counts plus sensitivity counts.
+nato_review_status.json: all 154 reviewed candidate IDs, all 21 excluded IDs/reasons, no pending H1 candidates.

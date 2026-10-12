@@ -1,0 +1,2732 @@
+[
+  {
+    "document_id": "DCPD-202500744",
+    "date": "2025-07-03",
+    "target": "United Kingdom",
+    "target_type": "country",
+    "country": "United Kingdom",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "contextual_or_inferred",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": true,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Prior refusal to buy beef/ethanol is framed as an obstacle; explicit adverse conduct judgment is inferred rather than stated.",
+    "evidence_quotes": [
+      "they never took our beef",
+      "they were great"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500744/html/DCPD-202500744.htm"
+  },
+  {
+    "document_id": "DCPD-202500746",
+    "date": "2025-07-04",
+    "target": "NATO",
+    "target_type": "institution",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "respected people, all",
+      "They didn't spend any money."
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500746/html/DCPD-202500746.htm"
+  },
+  {
+    "document_id": "DCPD-202500748",
+    "date": "2025-07-04",
+    "target": "NATO",
+    "target_type": "institution",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "they weren't paying 2 percent",
+      "that was a great thing they did"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500748/html/DCPD-202500748.htm"
+  },
+  {
+    "document_id": "DCPD-202500755",
+    "date": "2025-07-08",
+    "target": "Europe (unspecified)",
+    "target_type": "regional_collective",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "request_or_pressure_only",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": true,
+    "negative_review_reason": "Says the US should have given less than Europe; evaluates allocation and asks for equalization, without an independent negative European appraisal.",
+    "evidence_quotes": [
+      "we should have given, actually, less than Europe"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500755/html/DCPD-202500755.htm"
+  },
+  {
+    "document_id": "DCPD-202500755",
+    "date": "2025-07-08",
+    "target": "European Union",
+    "target_type": "institution_non_nato",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "they've been very nice",
+      "They treated us very badly until recently."
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500755/html/DCPD-202500755.htm"
+  },
+  {
+    "document_id": "DCPD-202500755",
+    "date": "2025-07-08",
+    "target": "Germany",
+    "target_type": "country",
+    "country": "Germany",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "contextual_or_inferred",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": true,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "The unfairness language concerns costs of US troop deployment; negative judgment of Germany as actor is inferred.",
+    "evidence_quotes": [
+      "52,000, actually",
+      "a tremendous loss for us"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500755/html/DCPD-202500755.htm"
+  },
+  {
+    "document_id": "DCPD-202500762",
+    "date": "2025-07-13",
+    "target": "Europe (unspecified)",
+    "target_type": "regional_collective",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "request_or_pressure_only",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": true,
+    "negative_review_reason": "They should pay more than the US is a burden-sharing demand; no independent negative actor characterization.",
+    "evidence_quotes": [
+      "they should be in, actually, for more than us"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500762/html/DCPD-202500762.htm"
+  },
+  {
+    "document_id": "DCPD-202500763",
+    "date": "2025-07-14",
+    "target": "NATO",
+    "target_type": "institution",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "we really became friendly with NATO",
+      "They weren't paying 2 percent.",
+      "——much less than 2 percent.",
+      "they've been very good",
+      "they're great people.",
+      "very solid, strong countries."
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500763/html/DCPD-202500763.htm"
+  },
+  {
+    "document_id": "DCPD-202500764",
+    "date": "2025-07-14",
+    "target": "Europe (unspecified)",
+    "target_type": "regional_collective",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "contextual_or_inferred",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": true,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Unfair aid imbalance evaluates the arrangement and Biden bargaining, not clearly European wrongdoing.",
+    "evidence_quotes": [
+      "It's not fair",
+      "they were better negotiators than our president was"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500764/html/DCPD-202500764.htm"
+  },
+  {
+    "document_id": "DCPD-202500764",
+    "date": "2025-07-14",
+    "target": "NATO",
+    "target_type": "institution",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "we were paying for 100 percent of NATO"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500764/html/DCPD-202500764.htm"
+  },
+  {
+    "document_id": "DCPD-202500765",
+    "date": "2025-07-15",
+    "target": "European Union",
+    "target_type": "institution_non_nato",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "They've treated us very badly",
+      "now they're treating us very nicely"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500765/html/DCPD-202500765.htm"
+  },
+  {
+    "document_id": "DCPD-202500786",
+    "date": "2025-07-22",
+    "target": "Europe (unspecified)",
+    "target_type": "regional_collective",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "coercive",
+    "coercive_policy": true,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "Let America pick up the difference",
+      "You're no longer allowed to sell cars in America."
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500786/html/DCPD-202500786.htm"
+  },
+  {
+    "document_id": "DCPD-202500787",
+    "date": "2025-07-23",
+    "target": "Europe (unspecified)",
+    "target_type": "regional_collective",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "contextual_or_inferred",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": true,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Preemptive regulatory warning and US industry relocation; no definite current European wrongdoing is identified.",
+    "evidence_quotes": [
+      "so that they don't make rules and regulations",
+      "we lost almost 50 percent of our automobile business"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500787/html/DCPD-202500787.htm"
+  },
+  {
+    "document_id": "DCPD-202500787",
+    "date": "2025-07-23",
+    "target": "NATO",
+    "target_type": "institution",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "they were great",
+      "2 percent where they didn't pay"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500787/html/DCPD-202500787.htm"
+  },
+  {
+    "document_id": "DCPD-202500795",
+    "date": "2025-07-25",
+    "target": "Emmanuel Macron",
+    "target_type": "individual",
+    "country": "France",
+    "valence": "mixed",
+    "criticism_severity": "personal",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "What he says doesn't matter.",
+      "He's a very good guy. I like him"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500795/html/DCPD-202500795.htm"
+  },
+  {
+    "document_id": "DCPD-202500795",
+    "date": "2025-07-25",
+    "target": "France",
+    "target_type": "country",
+    "country": "France",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "France, Macron",
+      "His statement doesn't carry any weight."
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500795/html/DCPD-202500795.htm"
+  },
+  {
+    "document_id": "DCPD-202500799",
+    "date": "2025-07-25",
+    "target": "Europe (unspecified)",
+    "target_type": "regional_collective",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "You're ruining your countries.",
+      "you better get your act together",
+      "your beautiful fields and valleys"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500799/html/DCPD-202500799.htm"
+  },
+  {
+    "document_id": "DCPD-202500800",
+    "date": "2025-07-27",
+    "target": "Europe (unspecified)",
+    "target_type": "regional_collective",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "Europe is very closed.",
+      "None of the European countries, by the way, gave",
+      "Europe has a tremendous problem",
+      "these beautiful landscapes"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500800/html/DCPD-202500800.htm"
+  },
+  {
+    "document_id": "DCPD-202500800",
+    "date": "2025-07-27",
+    "target": "European Union",
+    "target_type": "institution_non_nato",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "coercive",
+    "coercive_policy": true,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "We've had a very good relationship over the years",
+      "very unfair to the United States"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500800/html/DCPD-202500800.htm"
+  },
+  {
+    "document_id": "DCPD-202500800",
+    "date": "2025-07-27",
+    "target": "Germany",
+    "target_type": "country",
+    "country": "Germany",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "Germany tried it.",
+      "wind doesn't work"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500800/html/DCPD-202500800.htm"
+  },
+  {
+    "document_id": "DCPD-202500800",
+    "date": "2025-07-27",
+    "target": "NATO",
+    "target_type": "institution",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "many people didn't pay the 2 percent",
+      "the spirit and the coming together was incredible",
+      "they were so nice to the United States"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500800/html/DCPD-202500800.htm"
+  },
+  {
+    "document_id": "DCPD-202500801",
+    "date": "2025-07-27",
+    "target": "European Union",
+    "target_type": "institution_non_nato",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "contextual_or_inferred",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": true,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Closed-market description in deal announcement implies trade grievance; no separate explicit negative character/performance appraisal.",
+    "evidence_quotes": [
+      "you weren't exactly taking our autos",
+      "You weren't exactly taking our agriculture",
+      "your staff has been fantastic.",
+      "they've worked together very",
+      "long and hard.",
+      "I think it was very wise that they buy a lot of energy",
+      "that was a great decision, I think."
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500801/html/DCPD-202500801.htm"
+  },
+  {
+    "document_id": "DCPD-202500802",
+    "date": "2025-07-28",
+    "target": "Europe (unspecified)",
+    "target_type": "regional_collective",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "you have a feeling, a warm feeling",
+      "Should be the opposite way",
+      "they've lost their way"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500802/html/DCPD-202500802.htm"
+  },
+  {
+    "document_id": "DCPD-202500802",
+    "date": "2025-07-28",
+    "target": "NATO",
+    "target_type": "institution",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "request_or_pressure_only",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": true,
+    "negative_review_reason": "Should be the opposite way is an allocation preference; no independent negative NATO appraisal in this record.",
+    "evidence_quotes": [
+      "Very smart to do.",
+      "Should be the opposite way"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500802/html/DCPD-202500802.htm"
+  },
+  {
+    "document_id": "DCPD-202500802",
+    "date": "2025-07-28",
+    "target": "Sadiq Khan",
+    "target_type": "subnational_official",
+    "country": "United Kingdom",
+    "valence": "criticism",
+    "criticism_severity": "personal",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "he's done a terrible job",
+      "a nasty person"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500802/html/DCPD-202500802.htm"
+  },
+  {
+    "document_id": "DCPD-202500802",
+    "date": "2025-07-28",
+    "target": "Scotland",
+    "target_type": "constituent_country",
+    "country": "United Kingdom",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "a very amazing place",
+      "a warm feeling",
+      "massive subsidies to have these ugly monsters"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500802/html/DCPD-202500802.htm"
+  },
+  {
+    "document_id": "DCPD-202500802",
+    "date": "2025-07-28",
+    "target": "United Kingdom",
+    "target_type": "country",
+    "country": "United Kingdom",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "a great country",
+      "that's a great thing you're doing on nuclear",
+      "massive subsidies to have these ugly monsters"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500802/html/DCPD-202500802.htm"
+  },
+  {
+    "document_id": "DCPD-202500805",
+    "date": "2025-07-29",
+    "target": "Europe (unspecified)",
+    "target_type": "regional_collective",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "contextual_or_inferred",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": true,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Immigration problem is an adverse regional condition, not necessarily a judgment of European actors or conduct.",
+    "evidence_quotes": [
+      "Europe has a big immigration problem"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500805/html/DCPD-202500805.htm"
+  },
+  {
+    "document_id": "DCPD-202500805",
+    "date": "2025-07-29",
+    "target": "Nicola Sturgeon",
+    "target_type": "former_subnational_official",
+    "country": "United Kingdom",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "I didn't have a lot of respect for the woman that preceded him.",
+      "I thought she was terrible as a First Minister of Scotland"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500805/html/DCPD-202500805.htm"
+  },
+  {
+    "document_id": "DCPD-202500805",
+    "date": "2025-07-29",
+    "target": "Sadiq Khan",
+    "target_type": "subnational_official",
+    "country": "United Kingdom",
+    "valence": "criticism",
+    "criticism_severity": "personal",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "He's a horrible mayor, nasty guy.",
+      "A stupid guy"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500805/html/DCPD-202500805.htm"
+  },
+  {
+    "document_id": "DCPD-202500805",
+    "date": "2025-07-29",
+    "target": "United Kingdom",
+    "target_type": "country",
+    "country": "United Kingdom",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "It's terrible. It's a terrible thing.",
+      "it just doesn't make sense."
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500805/html/DCPD-202500805.htm"
+  },
+  {
+    "document_id": "DCPD-202500819",
+    "date": "2025-08-03",
+    "target": "Europe (unspecified)",
+    "target_type": "regional_collective",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "contextual_or_inferred",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": true,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Global unfair-pricing accusation attached to European price examples; target attribution is contextual.",
+    "evidence_quotes": [
+      "We want the same prices Europe gets.",
+      "The world treated us very unfair."
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500819/html/DCPD-202500819.htm"
+  },
+  {
+    "document_id": "DCPD-202500819",
+    "date": "2025-08-03",
+    "target": "Germany",
+    "target_type": "country",
+    "country": "Germany",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "contextual_or_inferred",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": true,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Global unfair-pricing accusation attached to German price example; target attribution is contextual.",
+    "evidence_quotes": [
+      "you could buy something in London or in Germany",
+      "The world treated us very unfair."
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500819/html/DCPD-202500819.htm"
+  },
+  {
+    "document_id": "DCPD-202500819",
+    "date": "2025-08-03",
+    "target": "United Kingdom",
+    "target_type": "country",
+    "country": "United Kingdom",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "contextual_or_inferred",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": true,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Global unfair-pricing accusation attached to London example; target attribution is contextual.",
+    "evidence_quotes": [
+      "you could buy something in London or in Germany",
+      "The world treated us very unfair."
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500819/html/DCPD-202500819.htm"
+  },
+  {
+    "document_id": "DCPD-202500826",
+    "date": "2025-08-05",
+    "target": "Europe (unspecified)",
+    "target_type": "regional_collective",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "contextual_or_inferred",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": true,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Rough parts of Europe identifies a crime-related source region, not an unqualified judgment of Europe.",
+    "evidence_quotes": [
+      "rough parts of Europe"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500826/html/DCPD-202500826.htm"
+  },
+  {
+    "document_id": "DCPD-202500838",
+    "date": "2025-08-08",
+    "target": "Europe (unspecified)",
+    "target_type": "regional_collective",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "request_or_pressure_only",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": true,
+    "negative_review_reason": "It should be the opposite is an aid-allocation preference; positive leader appraisals coexist.",
+    "evidence_quotes": [
+      "terrific people, terrific leaders",
+      "it should be the opposite"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500838/html/DCPD-202500838.htm"
+  },
+  {
+    "document_id": "DCPD-202500838",
+    "date": "2025-08-08",
+    "target": "European Union",
+    "target_type": "institution_non_nato",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "Many tried to find a resolution, including the European Union.",
+      "they were unsuccessful",
+      "the European Union has been great"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500838/html/DCPD-202500838.htm"
+  },
+  {
+    "document_id": "DCPD-202500838",
+    "date": "2025-08-08",
+    "target": "NATO",
+    "target_type": "institution",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "terrific people, terrific leaders—NATO",
+      "they didn't pay"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500838/html/DCPD-202500838.htm"
+  },
+  {
+    "document_id": "DCPD-202500841",
+    "date": "2025-08-11",
+    "target": "Europe (unspecified)",
+    "target_type": "regional_collective",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "request_or_pressure_only",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": true,
+    "negative_review_reason": "It should be much more than that and equalization are funding demands; record praises European leaders directly.",
+    "evidence_quotes": [
+      "They're great people. They're great leaders, actually.",
+      "It should be much more than that."
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500841/html/DCPD-202500841.htm"
+  },
+  {
+    "document_id": "DCPD-202500841",
+    "date": "2025-08-11",
+    "target": "NATO",
+    "target_type": "institution",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "Two percent they didn't pay."
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500841/html/DCPD-202500841.htm"
+  },
+  {
+    "document_id": "DCPD-202500846",
+    "date": "2025-08-13",
+    "target": "NATO",
+    "target_type": "institution",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "Two percent that wasn't paid"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500846/html/DCPD-202500846.htm"
+  },
+  {
+    "document_id": "DCPD-202500850",
+    "date": "2025-08-14",
+    "target": "Europe (unspecified)",
+    "target_type": "regional_collective",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "request_or_pressure_only",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": true,
+    "negative_review_reason": "US should not spend more is a policy-allocation complaint rather than a direct European actor judgment.",
+    "evidence_quotes": [
+      "we shouldn't be spending a lot more money than them"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500850/html/DCPD-202500850.htm"
+  },
+  {
+    "document_id": "DCPD-202500857",
+    "date": "2025-08-18",
+    "target": "NATO",
+    "target_type": "institution",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "2 percent that wasn't always paid",
+      "great move"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500857/html/DCPD-202500857.htm"
+  },
+  {
+    "document_id": "DCPD-202500860",
+    "date": "2025-08-21",
+    "target": "NATO",
+    "target_type": "institution",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "they weren't paying it"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500860/html/DCPD-202500860.htm"
+  },
+  {
+    "document_id": "DCPD-202500864",
+    "date": "2025-08-22",
+    "target": "European Union",
+    "target_type": "institution_non_nato",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "contextual_or_inferred",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": true,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Not buying much US energy is a descriptive past trade pattern; adverse evaluation inferred from wider grievance.",
+    "evidence_quotes": [
+      "they're very smart in doing",
+      "They weren't buying much of our energy"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500864/html/DCPD-202500864.htm"
+  },
+  {
+    "document_id": "DCPD-202500865",
+    "date": "2025-08-25",
+    "target": "Germany",
+    "target_type": "country",
+    "country": "Germany",
+    "valence": "criticism",
+    "criticism_severity": "coercive",
+    "coercive_policy": true,
+    "negative_review_class": "contextual_or_inferred",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": true,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Bad practice/global subsidy refers to drug pricing arrangements; Germany is an example, without a separate direct accusation.",
+    "evidence_quotes": [
+      "because of the bad practice",
+      "We were subsidizing the entire world"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500865/html/DCPD-202500865.htm"
+  },
+  {
+    "document_id": "DCPD-202500865",
+    "date": "2025-08-25",
+    "target": "NATO",
+    "target_type": "institution",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "They're good people. They're great leaders.",
+      "they weren't paying"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500865/html/DCPD-202500865.htm"
+  },
+  {
+    "document_id": "DCPD-202500870",
+    "date": "2025-08-25",
+    "target": "NATO",
+    "target_type": "institution",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "They never paid the 2 percent"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500870/html/DCPD-202500870.htm"
+  },
+  {
+    "document_id": "DCPD-202500873",
+    "date": "2025-08-26",
+    "target": "Europe (unspecified)",
+    "target_type": "regional_collective",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "coercive",
+    "coercive_policy": true,
+    "negative_review_class": "contextual_or_inferred",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": true,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Drug-pricing accusation/threat targets countries globally, with European examples; broad regional attribution remains contextual.",
+    "evidence_quotes": [
+      "I get along good with all of them",
+      "we're going to charge you a 25-percent tariff"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500873/html/DCPD-202500873.htm"
+  },
+  {
+    "document_id": "DCPD-202500873",
+    "date": "2025-08-26",
+    "target": "European Union",
+    "target_type": "institution_non_nato",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "They were rough on us for a long time"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500873/html/DCPD-202500873.htm"
+  },
+  {
+    "document_id": "DCPD-202500873",
+    "date": "2025-08-26",
+    "target": "Germany",
+    "target_type": "country",
+    "country": "Germany",
+    "valence": "criticism",
+    "criticism_severity": "coercive",
+    "coercive_policy": true,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "You charge the United States.",
+      "we're going to charge you a 25-percent tariff"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500873/html/DCPD-202500873.htm"
+  },
+  {
+    "document_id": "DCPD-202500873",
+    "date": "2025-08-26",
+    "target": "NATO",
+    "target_type": "institution",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "we have great relationship",
+      "they didn't pay the 2"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500873/html/DCPD-202500873.htm"
+  },
+  {
+    "document_id": "DCPD-202500873",
+    "date": "2025-08-26",
+    "target": "United Kingdom",
+    "target_type": "country",
+    "country": "United Kingdom",
+    "valence": "mixed",
+    "criticism_severity": "coercive",
+    "coercive_policy": true,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "You're my friends",
+      "they're destroying themselves",
+      "You charge the United States."
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500873/html/DCPD-202500873.htm"
+  },
+  {
+    "document_id": "DCPD-202500885",
+    "date": "2025-09-02",
+    "target": "Europe (unspecified)",
+    "target_type": "regional_collective",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "contextual_or_inferred",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": true,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Global ripping-off accusation follows European deal but does not uniquely or explicitly accuse Europe.",
+    "evidence_quotes": [
+      "countries that have been ripping us off for the last 35 years"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500885/html/DCPD-202500885.htm"
+  },
+  {
+    "document_id": "DCPD-202500885",
+    "date": "2025-09-02",
+    "target": "European Union",
+    "target_type": "institution_non_nato",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "contextual_or_inferred",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": true,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Global ripping-off accusation follows EU deal; EU attribution is contextual.",
+    "evidence_quotes": [
+      "countries that have been ripping us off for the last 35 years"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500885/html/DCPD-202500885.htm"
+  },
+  {
+    "document_id": "DCPD-202500894",
+    "date": "2025-09-04",
+    "target": "United Kingdom",
+    "target_type": "country",
+    "country": "United Kingdom",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "strange things are happening over there",
+      "They are cracking down and surprisingly so."
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500894/html/DCPD-202500894.htm"
+  },
+  {
+    "document_id": "DCPD-202500895",
+    "date": "2025-09-05",
+    "target": "Europe (unspecified)",
+    "target_type": "regional_collective",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "contextual_or_inferred",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": true,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "EU technology fines are said to fund Europe; actor criticism is direct for EU, broader Europe label is contextual.",
+    "evidence_quotes": [
+      "It's almost a source of income to run Europe."
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500895/html/DCPD-202500895.htm"
+  },
+  {
+    "document_id": "DCPD-202500895",
+    "date": "2025-09-05",
+    "target": "European Union",
+    "target_type": "institution_non_nato",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "it's not fair",
+      "They were very disrespectful of our country."
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500895/html/DCPD-202500895.htm"
+  },
+  {
+    "document_id": "DCPD-202500914",
+    "date": "2025-09-14",
+    "target": "Europe (unspecified)",
+    "target_type": "regional_collective",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "they're my friends",
+      "they're talking and they're not doing"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500914/html/DCPD-202500914.htm"
+  },
+  {
+    "document_id": "DCPD-202500914",
+    "date": "2025-09-14",
+    "target": "NATO",
+    "target_type": "institution",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "they're not doing their job",
+      "That's not the deal."
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500914/html/DCPD-202500914.htm"
+  },
+  {
+    "document_id": "DCPD-202500917",
+    "date": "2025-09-16",
+    "target": "Europe (unspecified)",
+    "target_type": "regional_collective",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "they talk, but they have to stop buying oil from Russia"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500917/html/DCPD-202500917.htm"
+  },
+  {
+    "document_id": "DCPD-202500917",
+    "date": "2025-09-16",
+    "target": "European Union",
+    "target_type": "institution_non_nato",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "countries that paid us nothing",
+      "It's not fair to us."
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500917/html/DCPD-202500917.htm"
+  },
+  {
+    "document_id": "DCPD-202500917",
+    "date": "2025-09-16",
+    "target": "NATO",
+    "target_type": "institution",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "They're purchasing Russian oil."
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500917/html/DCPD-202500917.htm"
+  },
+  {
+    "document_id": "DCPD-202500925",
+    "date": "2025-09-18",
+    "target": "Europe (unspecified)",
+    "target_type": "regional_collective",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "contextual_or_inferred",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": true,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Refusal to act while Europeans buy Russian oil expresses policy opposition; no separate direct negative appraisal.",
+    "evidence_quotes": [
+      "not when the people that I'm fighting for are buying oil from Russia"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500925/html/DCPD-202500925.htm"
+  },
+  {
+    "document_id": "DCPD-202500925",
+    "date": "2025-09-18",
+    "target": "NATO",
+    "target_type": "institution",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "they didn't pay it",
+      "we appreciate the fact"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500925/html/DCPD-202500925.htm"
+  },
+  {
+    "document_id": "DCPD-202500925",
+    "date": "2025-09-18",
+    "target": "United Kingdom",
+    "target_type": "country",
+    "country": "United Kingdom",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "contextual_or_inferred",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": true,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Immigration warning is advice and an adverse condition prediction, not explicit blame of UK actors; preserve moderate-confidence adverse policy rhetoric.",
+    "evidence_quotes": [
+      "We have a relationship like no other.",
+      "one of the finest military traditions in the world",
+      "making the vital commitment to spend 5 percent",
+      "I think your situation is very similar.",
+      "you have people coming in, and I told the Prime Minister I would stop it.",
+      "it's going to destroy—it destroys countries from within."
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500925/html/DCPD-202500925.htm"
+  },
+  {
+    "document_id": "DCPD-202500928",
+    "date": "2025-09-18",
+    "target": "Europe (unspecified)",
+    "target_type": "regional_collective",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "I caught them buying oil from Russia.",
+      "That's not good."
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500928/html/DCPD-202500928.htm"
+  },
+  {
+    "document_id": "DCPD-202500928",
+    "date": "2025-09-18",
+    "target": "European Union",
+    "target_type": "institution_non_nato",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "I caught them buying oil from Russia.",
+      "That's not good."
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500928/html/DCPD-202500928.htm"
+  },
+  {
+    "document_id": "DCPD-202500928",
+    "date": "2025-09-18",
+    "target": "NATO",
+    "target_type": "institution",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "I caught them buying oil from Russia.",
+      "That's not good."
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500928/html/DCPD-202500928.htm"
+  },
+  {
+    "document_id": "DCPD-202500928",
+    "date": "2025-09-18",
+    "target": "Sadiq Khan",
+    "target_type": "subnational_official",
+    "country": "United Kingdom",
+    "valence": "criticism",
+    "criticism_severity": "personal",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "Mayor Khan do a bad job",
+      "the stabbings and the dirt and the filth"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500928/html/DCPD-202500928.htm"
+  },
+  {
+    "document_id": "DCPD-202500928",
+    "date": "2025-09-18",
+    "target": "United Kingdom",
+    "target_type": "country",
+    "country": "United Kingdom",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "I have a certain pride in London and the U.K.",
+      "they've made it impossible for people"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500928/html/DCPD-202500928.htm"
+  },
+  {
+    "document_id": "DCPD-202500929",
+    "date": "2025-09-19",
+    "target": "European Union",
+    "target_type": "institution_non_nato",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "I get along very well with them",
+      "they ripped us off so badly"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500929/html/DCPD-202500929.htm"
+  },
+  {
+    "document_id": "DCPD-202500934",
+    "date": "2025-09-20",
+    "target": "NATO",
+    "target_type": "institution",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "request_or_pressure_only",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": true,
+    "negative_review_reason": "Only asks Whitaker to make them stop buying Russian oil; no additional negative judgment of NATO.",
+    "evidence_quotes": [
+      "they have to stop buying oil from Russia"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500934/html/DCPD-202500934.htm"
+  },
+  {
+    "document_id": "DCPD-202500944",
+    "date": "2025-09-23",
+    "target": "Europe (unspecified)",
+    "target_type": "regional_collective",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "I love Europe. I love the people of Europe",
+      "their suicidal energy ideas",
+      "It's embarrassing to them"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500944/html/DCPD-202500944.htm"
+  },
+  {
+    "document_id": "DCPD-202500944",
+    "date": "2025-09-23",
+    "target": "Germany",
+    "target_type": "country",
+    "country": "Germany",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "I give Germany a lot of credit for that.",
+      "Germany was being led down a very sick path"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500944/html/DCPD-202500944.htm"
+  },
+  {
+    "document_id": "DCPD-202500944",
+    "date": "2025-09-23",
+    "target": "Greece",
+    "target_type": "country",
+    "country": "Greece",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "In Greece, the number was 54 percent.",
+      "Your countries are going to hell."
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500944/html/DCPD-202500944.htm"
+  },
+  {
+    "document_id": "DCPD-202500944",
+    "date": "2025-09-23",
+    "target": "NATO",
+    "target_type": "institution",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "making our alliance far stronger and more powerful",
+      "inexcusably, even NATO countries have not cut off much Russian energy"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500944/html/DCPD-202500944.htm"
+  },
+  {
+    "document_id": "DCPD-202500944",
+    "date": "2025-09-23",
+    "target": "Sadiq Khan",
+    "target_type": "subnational_official",
+    "country": "United Kingdom",
+    "valence": "criticism",
+    "criticism_severity": "personal",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "a terrible mayor—terrible, terrible mayor"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500944/html/DCPD-202500944.htm"
+  },
+  {
+    "document_id": "DCPD-202500944",
+    "date": "2025-09-23",
+    "target": "Scotland",
+    "target_type": "constituent_country",
+    "country": "United Kingdom",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "that beautiful Scottish and English countryside",
+      "ruining"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500944/html/DCPD-202500944.htm"
+  },
+  {
+    "document_id": "DCPD-202500944",
+    "date": "2025-09-23",
+    "target": "United Kingdom",
+    "target_type": "country",
+    "country": "United Kingdom",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "that beautiful Scottish and English countryside",
+      "They essentially closed it by making it so highly taxed"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500944/html/DCPD-202500944.htm"
+  },
+  {
+    "document_id": "DCPD-202500948",
+    "date": "2025-09-23",
+    "target": "NATO",
+    "target_type": "institution",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "that was great unity",
+      "countries that weren't paying 2 percent"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500948/html/DCPD-202500948.htm"
+  },
+  {
+    "document_id": "DCPD-202500954",
+    "date": "2025-09-25",
+    "target": "NATO",
+    "target_type": "institution",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "The NATO countries were disappointing in that regard",
+      "they've been very amazing in other ways",
+      "The United States was paying almost everything"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500954/html/DCPD-202500954.htm"
+  },
+  {
+    "document_id": "DCPD-202500964",
+    "date": "2025-09-29",
+    "target": "Europe (unspecified)",
+    "target_type": "regional_collective",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "their tremendous support",
+      "good people",
+      "foolishly recognized the Palestinian state"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500964/html/DCPD-202500964.htm"
+  },
+  {
+    "document_id": "DCPD-202500970",
+    "date": "2025-09-30",
+    "target": "NATO",
+    "target_type": "institution",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "They're great people",
+      "a lot of money that they should have been spending in the past"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500970/html/DCPD-202500970.htm"
+  },
+  {
+    "document_id": "DCPD-202500973",
+    "date": "2025-09-30",
+    "target": "Germany",
+    "target_type": "country",
+    "country": "Germany",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "contextual_or_inferred",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": true,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Rhetorical question about paying for research implies unfair burden-sharing but does not explicitly judge Germany.",
+    "evidence_quotes": [
+      "why isn't Germany paying?"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500973/html/DCPD-202500973.htm"
+  },
+  {
+    "document_id": "DCPD-202500987",
+    "date": "2025-10-07",
+    "target": "Europe (unspecified)",
+    "target_type": "regional_collective",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "They took advantage of our country.",
+      "You couldn't put a car into Europe."
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500987/html/DCPD-202500987.htm"
+  },
+  {
+    "document_id": "DCPD-202500987",
+    "date": "2025-10-07",
+    "target": "European Union",
+    "target_type": "institution_non_nato",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "they're all my friends",
+      "it wasn't fair"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500987/html/DCPD-202500987.htm"
+  },
+  {
+    "document_id": "DCPD-202500987",
+    "date": "2025-10-07",
+    "target": "Germany",
+    "target_type": "country",
+    "country": "Germany",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "contextual_or_inferred",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": true,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Rhetorical US-car-import example supports broader trade grievance; direct Germany judgment inferred.",
+    "evidence_quotes": [
+      "How many cars have gone to Germany from the United States?"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500987/html/DCPD-202500987.htm"
+  },
+  {
+    "document_id": "DCPD-202500992",
+    "date": "2025-10-09",
+    "target": "Europe (unspecified)",
+    "target_type": "regional_collective",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "coercive",
+    "coercive_policy": true,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "it's unfair",
+      "I'm going to put a tariff on your country"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500992/html/DCPD-202500992.htm"
+  },
+  {
+    "document_id": "DCPD-202500992",
+    "date": "2025-10-09",
+    "target": "Germany",
+    "target_type": "country",
+    "country": "Germany",
+    "valence": "criticism",
+    "criticism_severity": "coercive",
+    "coercive_policy": true,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "Aren't they paying?",
+      "It was all nonsense"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500992/html/DCPD-202500992.htm"
+  },
+  {
+    "document_id": "DCPD-202500993",
+    "date": "2025-10-09",
+    "target": "Spain",
+    "target_type": "country",
+    "country": "Spain",
+    "valence": "criticism",
+    "criticism_severity": "coercive",
+    "coercive_policy": true,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "Spain has not been.",
+      "We had one laggard.",
+      "Maybe you should throw them out of NATO"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500993/html/DCPD-202500993.htm"
+  },
+  {
+    "document_id": "DCPD-202501007",
+    "date": "2025-10-13",
+    "target": "Recep Tayyip Erdogan",
+    "target_type": "individual",
+    "country": "Turkey",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "contextual_or_inferred",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": true,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Because he is difficult is a negative phrase embedded in explicitly admiring toughness narrative; do not treat as an unqualified hostile appraisal.",
+    "evidence_quotes": [
+      "Great, great guy.",
+      "he never fails us",
+      "because he is difficult"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501007/html/DCPD-202501007.htm"
+  },
+  {
+    "document_id": "DCPD-202501009",
+    "date": "2025-10-13",
+    "target": "Norway",
+    "target_type": "country",
+    "country": "Norway",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "contextual_or_inferred",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": true,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "What happened, Norway? is an implicit Nobel-prize grievance; no explicit actor or policy judgment.",
+    "evidence_quotes": [
+      "What happened, Norway? What happened?"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501009/html/DCPD-202501009.htm"
+  },
+  {
+    "document_id": "DCPD-202501009",
+    "date": "2025-10-13",
+    "target": "Spain",
+    "target_type": "country",
+    "country": "Spain",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "request_or_pressure_only",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": true,
+    "negative_review_reason": "Asks colleagues to work on Spanish GDP contribution; no independent explicit negative actor evaluation in this document.",
+    "evidence_quotes": [
+      "Are you guys working on him with respect to the GDP?"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501009/html/DCPD-202501009.htm"
+  },
+  {
+    "document_id": "DCPD-202501011",
+    "date": "2025-10-14",
+    "target": "Spain",
+    "target_type": "country",
+    "country": "Spain",
+    "valence": "criticism",
+    "criticism_severity": "coercive",
+    "coercive_policy": true,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "I'm very unhappy with Spain",
+      "they should be punished for that"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501011/html/DCPD-202501011.htm"
+  },
+  {
+    "document_id": "DCPD-202501015",
+    "date": "2025-10-15",
+    "target": "European Union",
+    "target_type": "institution_non_nato",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "They won't take our cars.",
+      "it was very unfair"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501015/html/DCPD-202501015.htm"
+  },
+  {
+    "document_id": "DCPD-202501019",
+    "date": "2025-10-16",
+    "target": "Europe (unspecified)",
+    "target_type": "regional_collective",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "they're unable to do it. I'm able to do it."
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501019/html/DCPD-202501019.htm"
+  },
+  {
+    "document_id": "DCPD-202501023",
+    "date": "2025-10-17",
+    "target": "European Union",
+    "target_type": "institution_non_nato",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "contextual_or_inferred",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": true,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "US no longer stupid and wanting fair treatment implies historical grievance; negative EU appraisal is contextual.",
+    "evidence_quotes": [
+      "we're not stupid anymore—and that includes with the European Union",
+      "all we want to do is be treated fairly"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501023/html/DCPD-202501023.htm"
+  },
+  {
+    "document_id": "DCPD-202501023",
+    "date": "2025-10-17",
+    "target": "Spain",
+    "target_type": "country",
+    "country": "Spain",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "Spain has not been loyal to NATO",
+      "Spain should be reprimanded"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501023/html/DCPD-202501023.htm"
+  },
+  {
+    "document_id": "DCPD-202501030",
+    "date": "2025-10-20",
+    "target": "European Union",
+    "target_type": "institution_non_nato",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "the European Union took advantage"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501030/html/DCPD-202501030.htm"
+  },
+  {
+    "document_id": "DCPD-202501036",
+    "date": "2025-10-21",
+    "target": "Europe (unspecified)",
+    "target_type": "regional_collective",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "nations that used to take it from us",
+      "That's why we owe $37 trillion."
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501036/html/DCPD-202501036.htm"
+  },
+  {
+    "document_id": "DCPD-202501038",
+    "date": "2025-10-22",
+    "target": "European Union",
+    "target_type": "institution_non_nato",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "We made a fair deal",
+      "We made a fair deal with all of Europe, the European Union.",
+      "These are countries that were taking so much money away from us, not sustainable."
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501038/html/DCPD-202501038.htm"
+  },
+  {
+    "document_id": "DCPD-202501038",
+    "date": "2025-10-22",
+    "target": "NATO",
+    "target_type": "institution",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "We have a great relationship with the countries of NATO.",
+      "a lot of them weren't paying"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501038/html/DCPD-202501038.htm"
+  },
+  {
+    "document_id": "DCPD-202501038",
+    "date": "2025-10-22",
+    "target": "Spain",
+    "target_type": "country",
+    "country": "Spain",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "Spain is not a team player."
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501038/html/DCPD-202501038.htm"
+  },
+  {
+    "document_id": "DCPD-202501101",
+    "date": "2025-11-06",
+    "target": "European Union",
+    "target_type": "institution_non_nato",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "the European Union was brutal"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501101/html/DCPD-202501101.htm"
+  },
+  {
+    "document_id": "DCPD-202501103",
+    "date": "2025-11-07",
+    "target": "Europe (unspecified)",
+    "target_type": "regional_collective",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "they've made tremendous mistakes on immigration",
+      "every single leader in Europe is a friend of mine",
+      "We were treated very badly"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501103/html/DCPD-202501103.htm"
+  },
+  {
+    "document_id": "DCPD-202501103",
+    "date": "2025-11-07",
+    "target": "European Union",
+    "target_type": "institution_non_nato",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "I respect and like them",
+      "They were wrong.",
+      "I get along very well with them"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501103/html/DCPD-202501103.htm"
+  },
+  {
+    "document_id": "DCPD-202501103",
+    "date": "2025-11-07",
+    "target": "Spain",
+    "target_type": "country",
+    "country": "Spain",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "contextual_or_inferred",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": true,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Other than Spain recalls an exception in a vote; no explicit negative evaluation.",
+    "evidence_quotes": [
+      "other than Spain"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501103/html/DCPD-202501103.htm"
+  },
+  {
+    "document_id": "DCPD-202501109",
+    "date": "2025-11-10",
+    "target": "Europe (unspecified)",
+    "target_type": "regional_collective",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "it was so unfair"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501109/html/DCPD-202501109.htm"
+  },
+  {
+    "document_id": "DCPD-202501112",
+    "date": "2025-11-11",
+    "target": "France",
+    "target_type": "country",
+    "country": "France",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "contextual_or_inferred",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": true,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Dismissive implied contrast about Victory Day credit, no direct negative French actor appraisal.",
+    "evidence_quotes": [
+      "We're the one that won the wars.",
+      "other countries were celebrating"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501112/html/DCPD-202501112.htm"
+  },
+  {
+    "document_id": "DCPD-202501112",
+    "date": "2025-11-11",
+    "target": "United Kingdom",
+    "target_type": "country",
+    "country": "United Kingdom",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "contextual_or_inferred",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": true,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Dismissive implied Victory Day contrast, no direct negative UK actor appraisal.",
+    "evidence_quotes": [
+      "We're the one that won the wars.",
+      "other countries were celebrating"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501112/html/DCPD-202501112.htm"
+  },
+  {
+    "document_id": "DCPD-202501129",
+    "date": "2025-11-17",
+    "target": "European Union",
+    "target_type": "institution_non_nato",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "contextual_or_inferred",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": true,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "World ripping-off accusation follows named deals; specific EU attribution is contextual.",
+    "evidence_quotes": [
+      "the world was ripping off our country"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501129/html/DCPD-202501129.htm"
+  },
+  {
+    "document_id": "DCPD-202501139",
+    "date": "2025-11-21",
+    "target": "United Kingdom",
+    "target_type": "country",
+    "country": "United Kingdom",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "their energy is out of control",
+      "a big immigration problem"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501139/html/DCPD-202501139.htm"
+  },
+  {
+    "document_id": "DCPD-202501150",
+    "date": "2025-11-27",
+    "target": "European Union",
+    "target_type": "institution_non_nato",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "contextual_or_inferred",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": true,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Used to benefit against us is a zero-sum trade contrast rather than an explicit unfairness/illegitimacy judgment.",
+    "evidence_quotes": [
+      "they're our friends",
+      "they used to benefit against us"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501150/html/DCPD-202501150.htm"
+  },
+  {
+    "document_id": "DCPD-202501173",
+    "date": "2025-12-06",
+    "target": "Europe (unspecified)",
+    "target_type": "regional_collective",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "some of the greatest opera houses in the world, in Europe",
+      "They used to laugh at us"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501173/html/DCPD-202501173.htm"
+  },
+  {
+    "document_id": "DCPD-202501176",
+    "date": "2025-12-08",
+    "target": "Europe (unspecified)",
+    "target_type": "regional_collective",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "Europe is going in some bad directions.",
+      "very bad for the people"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501176/html/DCPD-202501176.htm"
+  },
+  {
+    "document_id": "DCPD-202501176",
+    "date": "2025-12-08",
+    "target": "European Union",
+    "target_type": "institution_non_nato",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "that's a nasty one",
+      "I don't think it's right",
+      "We're always helping them. And they do this kind of stuff.",
+      "Very tough. No good.",
+      "We have to be able to act quickly with tariffs."
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501176/html/DCPD-202501176.htm"
+  },
+  {
+    "document_id": "DCPD-202501179",
+    "date": "2025-12-09",
+    "target": "Europe (unspecified)",
+    "target_type": "regional_collective",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "I love Europe.",
+      "Their immigration policies are so bad"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501179/html/DCPD-202501179.htm"
+  },
+  {
+    "document_id": "DCPD-202501179",
+    "date": "2025-12-09",
+    "target": "Scotland",
+    "target_type": "constituent_country",
+    "country": "United Kingdom",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "the most beautiful fields in the world, Scotland",
+      "it's costing them a fortune"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501179/html/DCPD-202501179.htm"
+  },
+  {
+    "document_id": "DCPD-202501179",
+    "date": "2025-12-09",
+    "target": "United Kingdom",
+    "target_type": "country",
+    "country": "United Kingdom",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "Their energy prices"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501179/html/DCPD-202501179.htm"
+  },
+  {
+    "document_id": "DCPD-202501185",
+    "date": "2025-12-11",
+    "target": "Europe (unspecified)",
+    "target_type": "regional_collective",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "contextual_or_inferred",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": true,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Nonpayment charge directly concerns NATO; transfer to broader Europe label is contextual.",
+    "evidence_quotes": [
+      "I have a great relationship with the countries of Europe.",
+      "they weren't paying"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501185/html/DCPD-202501185.htm"
+  },
+  {
+    "document_id": "DCPD-202501185",
+    "date": "2025-12-11",
+    "target": "NATO",
+    "target_type": "institution",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "they weren't paying"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501185/html/DCPD-202501185.htm"
+  },
+  {
+    "document_id": "DCPD-202501188",
+    "date": "2025-12-11",
+    "target": "Europe (unspecified)",
+    "target_type": "regional_collective",
+    "country": "",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "contextual_or_inferred",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": true,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Global friend-and-foe ripping-off allegation follows Europe discussion; negative regional attribution is contextual.",
+    "evidence_quotes": [
+      "We get along with them.",
+      "we've been ripped off and taken advantage of"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501188/html/DCPD-202501188.htm"
+  },
+  {
+    "document_id": "DCPD-202501211",
+    "date": "2025-12-19",
+    "target": "Europe (unspecified)",
+    "target_type": "regional_collective",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "coercive",
+    "coercive_policy": true,
+    "negative_review_class": "request_or_pressure_only",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": true,
+    "negative_review_reason": "Conditional tariffs if European countries do not follow UK pricing action; no independent negative regional appraisal.",
+    "evidence_quotes": [
+      "we're going to put tariffs on them"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501211/html/DCPD-202501211.htm"
+  },
+  {
+    "document_id": "DCPD-202501211",
+    "date": "2025-12-19",
+    "target": "France",
+    "target_type": "country",
+    "country": "France",
+    "valence": "criticism",
+    "criticism_severity": "coercive",
+    "coercive_policy": true,
+    "negative_review_class": "request_or_pressure_only",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": true,
+    "negative_review_reason": "Price-setting facts and countries as negotiation problem, followed by a tariff threat; no explicit negative judgment of France itself.",
+    "evidence_quotes": [
+      "they set their own prices",
+      "the bigger problem was going to be the countries",
+      "you could buy it in Germany and France and Spain",
+      "If you don't do it, we're going to have to use tariffs, and we're going to charge you a 10-percent tariff",
+      "Is it a threat?",
+      "Yes. It is a threat."
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501211/html/DCPD-202501211.htm"
+  },
+  {
+    "document_id": "DCPD-202501211",
+    "date": "2025-12-19",
+    "target": "Germany",
+    "target_type": "country",
+    "country": "Germany",
+    "valence": "criticism",
+    "criticism_severity": "coercive",
+    "coercive_policy": true,
+    "negative_review_class": "request_or_pressure_only",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": true,
+    "negative_review_reason": "Price-setting facts and countries as negotiation problem, followed by a tariff threat; no explicit negative judgment of Germany itself.",
+    "evidence_quotes": [
+      "they set their own prices",
+      "the bigger problem was going to be the countries",
+      "you could buy it in Germany and France and Spain",
+      "If you don't do it, we're going to have to use tariffs, and we're going to charge you a 10-percent tariff",
+      "Is it a threat?",
+      "Yes. It is a threat."
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501211/html/DCPD-202501211.htm"
+  },
+  {
+    "document_id": "DCPD-202501211",
+    "date": "2025-12-19",
+    "target": "Spain",
+    "target_type": "country",
+    "country": "Spain",
+    "valence": "criticism",
+    "criticism_severity": "coercive",
+    "coercive_policy": true,
+    "negative_review_class": "request_or_pressure_only",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": true,
+    "negative_review_reason": "Price-setting facts and countries as negotiation problem, followed by a tariff threat; no explicit negative judgment of Spain itself.",
+    "evidence_quotes": [
+      "they set their own prices",
+      "the bigger problem was going to be the countries",
+      "you could buy it in Germany and France and Spain",
+      "If you don't do it, we're going to have to use tariffs, and we're going to charge you a 10-percent tariff",
+      "Is it a threat?",
+      "Yes. It is a threat."
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501211/html/DCPD-202501211.htm"
+  },
+  {
+    "document_id": "DCPD-202501211",
+    "date": "2025-12-19",
+    "target": "United Kingdom",
+    "target_type": "country",
+    "country": "United Kingdom",
+    "valence": "mixed",
+    "criticism_severity": "mild",
+    "coercive_policy": false,
+    "negative_review_class": "contextual_or_inferred",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": true,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "For first time in26years infers past unfairness from current fair-share agreement; no separate explicit past UK actor judgment.",
+    "evidence_quotes": [
+      "agreed to pay the fair share",
+      "for the first time in 26 years"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501211/html/DCPD-202501211.htm"
+  },
+  {
+    "document_id": "DCPD-202501214",
+    "date": "2025-12-19",
+    "target": "Emmanuel Macron",
+    "target_type": "individual",
+    "country": "France",
+    "valence": "praise",
+    "criticism_severity": "none",
+    "coercive_policy": true,
+    "negative_review_class": "no_adverse_actor_code",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": true,
+    "negative_review_reason": "Coercive policy attached to this target, but no negative actor appraisal; primary valence remains positive/neutral.",
+    "evidence_quotes": [
+      "he's a wonderful guy",
+      "He's a nice guy too"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501214/html/DCPD-202501214.htm"
+  },
+  {
+    "document_id": "DCPD-202501214",
+    "date": "2025-12-19",
+    "target": "European Union",
+    "target_type": "institution_non_nato",
+    "country": "",
+    "valence": "criticism",
+    "criticism_severity": "coercive",
+    "coercive_policy": true,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "nations all over the world were screwing us",
+      "It was all a con job."
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501214/html/DCPD-202501214.htm"
+  },
+  {
+    "document_id": "DCPD-202501214",
+    "date": "2025-12-19",
+    "target": "France",
+    "target_type": "country",
+    "country": "France",
+    "valence": "criticism",
+    "criticism_severity": "coercive",
+    "coercive_policy": true,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "nations all over the world were screwing us",
+      "It was all a con job."
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501214/html/DCPD-202501214.htm"
+  },
+  {
+    "document_id": "DCPD-202501214",
+    "date": "2025-12-19",
+    "target": "United Kingdom",
+    "target_type": "country",
+    "country": "United Kingdom",
+    "valence": "criticism",
+    "criticism_severity": "coercive",
+    "coercive_policy": true,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "nations all over the world were screwing us",
+      "It was all a con job."
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501214/html/DCPD-202501214.htm"
+  },
+  {
+    "document_id": "DCPD-202501217",
+    "date": "2025-12-22",
+    "target": "Denmark",
+    "target_type": "country",
+    "country": "Denmark",
+    "valence": "criticism",
+    "criticism_severity": "coercive",
+    "coercive_policy": true,
+    "negative_review_class": "clear_actor_or_policy_judgment",
+    "direct_negative_appraisal": true,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": false,
+    "negative_review_reason": "Explicit negative characterization, negative conduct allegation, or adverse policy/performance judgment in the source context; not merely a request or conditional threat.",
+    "evidence_quotes": [
+      "Denmark has spent no money.",
+      "They have no military protection."
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501217/html/DCPD-202501217.htm"
+  },
+  {
+    "document_id": "DCPD-202501217",
+    "date": "2025-12-22",
+    "target": "Emmanuel Macron",
+    "target_type": "individual",
+    "country": "France",
+    "valence": "praise",
+    "criticism_severity": "none",
+    "coercive_policy": true,
+    "negative_review_class": "no_adverse_actor_code",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": true,
+    "negative_review_reason": "Coercive policy attached to this target, but no negative actor appraisal; primary valence remains positive/neutral.",
+    "evidence_quotes": [
+      "a very good man, President Macron of France"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501217/html/DCPD-202501217.htm"
+  },
+  {
+    "document_id": "DCPD-202501217",
+    "date": "2025-12-22",
+    "target": "France",
+    "target_type": "country",
+    "country": "France",
+    "valence": "criticism",
+    "criticism_severity": "coercive",
+    "coercive_policy": true,
+    "negative_review_class": "request_or_pressure_only",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": true,
+    "negative_review_reason": "Threat to tariff France if drug prices do not rise; recounted refusal/negotiating obstacle, without a separate negative country appraisal.",
+    "evidence_quotes": [
+      "I'm going to put a 25-percent tariff on everything France sells"
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501217/html/DCPD-202501217.htm"
+  },
+  {
+    "document_id": "DCPD-202501217",
+    "date": "2025-12-22",
+    "target": "Greenland",
+    "target_type": "territory",
+    "country": "Denmark",
+    "valence": "neutral",
+    "criticism_severity": "none",
+    "coercive_policy": true,
+    "negative_review_class": "no_adverse_actor_code",
+    "direct_negative_appraisal": false,
+    "negative_contextual_or_inferred": false,
+    "pressure_only_without_negative_appraisal": true,
+    "negative_review_reason": "Coercive policy attached to this target, but no negative actor appraisal; primary valence remains positive/neutral.",
+    "evidence_quotes": [
+      "We need Greenland for national security.",
+      "We have to have it."
+    ],
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501217/html/DCPD-202501217.htm"
+  }
+]

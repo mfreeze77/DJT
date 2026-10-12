@@ -1,0 +1,5 @@
+{
+  "putin": "\\b(?:Putin|Russia[n]?s?|Soviet|Kremlin)\\b",
+  "canada_mexico": "\\b(?:Canada|Canadian[s]?|Trudeau|Carney|Mexico|Mexican[s]?|Sheinbaum)\\b",
+  "nato": "\\b(?:NATO|North Atlantic|Rutte|Greenland|Europe(?:an)?|European Union|EU|Albania[n]?|Belgium|Belgian|Bulgaria[n]?|Croatia[n]?|Czech(?:ia)?|Denmark|Danish|Dane[s]?|Estonia[n]?|Finland|Finnish|France|French|Germany|German[s]?|Greece|Greek[s]?|Hungary|Hungarian[s]?|Iceland(?:ic)?|Italy|Italian[s]?|Latvia[n]?|Lithuania[n]?|Luxembourg|Montenegro|Netherlands|Dutch|North Macedonia|Norway|Norwegian[s]?|Poland|Polish|Portugal|Portuguese|Romania[n]?|Slovakia[n]?|Slovenia[n]?|Spain|Spanish|Sweden|Swedish|Turkey|Turkish|T\u00fcrkiye|United Kingdom|Britain|British|U\\.?K\\.?|Macron|Starmer|Merz|Scholz|Meloni|Orban|Orb\u00e1n|Erdogan|Erdo\u011fan|Sanchez|S\u00e1nchez|Frederiksen|St\u00f8re|Stubb|Tusk|Duda|Nawrocki|von der Leyen)\\b|\\b(?:Greenland|Greenlandic)\\b"
+}

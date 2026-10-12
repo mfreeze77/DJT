@@ -1,0 +1,20 @@
+{
+  "candidate_rows": 34,
+  "unique_ids": 34,
+  "all_candidates_originally_negative_false": true,
+  "revised_dataset_rows": 243,
+  "revised_dataset_exact_original_order": true,
+  "evidence_and_prompt_quotes_verified": 174,
+  "source_candidate_quote_occurrences_verified": 90,
+  "context_paragraphs_verified": 757,
+  "all_literal_quotes_verified": true,
+  "errors": [],
+  "unchanged_original_putin_sha256": "538d44f481f0d52058488227b90d7acb365915fc486f6f60536c65f2cd73ba3a",
+  "source_corpus_sha256": "eadbd287bb6750aa047bd21d96ec88d01bcf7c8a24f1f37199e79d227d2daeb2",
+  "old_76_audit_sha256": "ac0b4979c9b5d2146b22bd4e5f5c8672ee6b20fcf560c040b9b8102c1645ad0f",
+  "semantics_review": "AI contextual adjudication, no independent human coding or inter-rater agreement measurement.",
+  "original_76_file_verified_unchanged": true,
+  "documented_original76_amendments": 1,
+  "amendment_literal_evidence_items_verified": 4,
+  "amendment_prompt_items_verified": 2
+}

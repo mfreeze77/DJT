@@ -1,0 +1,13 @@
+{
+  "reviewed_rows": 35,
+  "literal_evidence_validation": "passed",
+  "source_hash_validation": "passed",
+  "input_unchanged": true,
+  "original_annotations_edited": false,
+  "tiers": {
+    "clear": 28,
+    "separate": 4,
+    "contextual": 3
+  },
+  "notes": "No full-corpus frequency claim; no external writes."
+}

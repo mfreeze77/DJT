@@ -1,0 +1,259 @@
+{
+  "unit": "DCPD record × event date × Putin-personal target",
+  "intended_window": [
+    "2025-01-20",
+    "2026-10-12"
+  ],
+  "observed_personal_window": [
+    "2025-01-20",
+    "2026-09-09"
+  ],
+  "defined_corpus_main_base": 981,
+  "all_observation_rows_base_eligible": true,
+  "candidate_packets_screened": 401,
+  "eligible_personal_units": 243,
+  "excluded_nonpersonal_packets": 158,
+  "pending": 0,
+  "verification": "AI semantic review; no human-review or inter-coder-reliability claim",
+  "counts": {
+    "explicit_praise": 26,
+    "current_affinity": 26,
+    "praise_or_affinity": 48,
+    "negative": 76,
+    "positive": 105,
+    "communication_quality": 43,
+    "communication_quality_undercut": 7,
+    "positive_including_communication": 122,
+    "positive_including_unqualified_communication": 118
+  },
+  "praise_affinity_polarity": {
+    "negative": 60,
+    "positive": 32,
+    "neutral": 135,
+    "mixed": 16
+  },
+  "broad_polarity": {
+    "negative": 44,
+    "positive": 73,
+    "neutral": 94,
+    "mixed": 32
+  },
+  "positive_subtypes": {
+    "competence_praise": 4,
+    "favorable_intention": 58,
+    "current_affinity": 26,
+    "moral_or_conduct_praise": 21,
+    "expressed_trust": 10,
+    "favorable_defense": 20,
+    "ceremonial_courtesy": 2,
+    "statement_praise": 1,
+    "policy_approval": 4
+  },
+  "negative_severity": {
+    "mild_disagreement": 67,
+    "substantive_condemnation": 24,
+    "coercive_threat": 6,
+    "personal_insult": 1
+  },
+  "years": {
+    "2025": {
+      "units": 191,
+      "explicit_praise": 17,
+      "current_affinity": 20,
+      "praise_or_affinity": 33,
+      "negative": 62
+    },
+    "2026": {
+      "units": 52,
+      "explicit_praise": 9,
+      "current_affinity": 6,
+      "praise_or_affinity": 15,
+      "negative": 14
+    }
+  },
+  "quarters": {
+    "2025Q1": {
+      "units": 50,
+      "explicit_praise": 5,
+      "current_affinity": 6,
+      "praise_or_affinity": 11,
+      "negative": 2
+    },
+    "2025Q2": {
+      "units": 53,
+      "explicit_praise": 3,
+      "current_affinity": 0,
+      "praise_or_affinity": 3,
+      "negative": 14
+    },
+    "2025Q3": {
+      "units": 50,
+      "explicit_praise": 7,
+      "current_affinity": 8,
+      "praise_or_affinity": 11,
+      "negative": 31
+    },
+    "2025Q4": {
+      "units": 38,
+      "explicit_praise": 2,
+      "current_affinity": 6,
+      "praise_or_affinity": 8,
+      "negative": 15
+    },
+    "2026Q1": {
+      "units": 26,
+      "explicit_praise": 4,
+      "current_affinity": 3,
+      "praise_or_affinity": 7,
+      "negative": 7
+    },
+    "2026Q2": {
+      "units": 15,
+      "explicit_praise": 5,
+      "current_affinity": 1,
+      "praise_or_affinity": 6,
+      "negative": 3
+    },
+    "2026Q3": {
+      "units": 11,
+      "explicit_praise": 0,
+      "current_affinity": 2,
+      "praise_or_affinity": 2,
+      "negative": 4
+    }
+  },
+  "social_overlap_candidates": [
+    "DCPD-202500257",
+    "DCPD-202500616",
+    "DCPD-202600328"
+  ],
+  "limitations": [
+    "DCPD publication lag: latest corpus event September11,2026; no complete all-media frequency claim.",
+    "Putin personal target differs from country/alliance aggregate units.",
+    "Broad favorable-intention/defense/trust/call-quality counts are not headline praise.",
+    "Some weak conduct approvals, contextual personal/state warnings and indirect rebukes remain explicitly flagged for sensitivity.",
+    "One AI semantic coding pass plus focused audit, without independent reliability test."
+  ],
+  "audit_examples": [
+    {
+      "id": "DCPD-202500153",
+      "date": "2025-01-20",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202500153/html/DCPD-202500153.htm",
+      "title": "Remarks at a Document Signing Ceremony and an Exchange With Reporters",
+      "evidence": "He's not doing so well. | It's not making him look very good. | I think he's destroying Russia by not making a deal.",
+      "positive_subtypes": "",
+      "negative_severity": "mild_disagreement;substantive_condemnation",
+      "note": "Past affinity only: I got along with him great."
+    },
+    {
+      "id": "DCPD-202500304",
+      "date": "2025-02-26",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202500304/html/DCPD-202500304.htm",
+      "title": "Remarks Prior to a Cabinet Meeting and an Exchange With Reporters",
+      "evidence": "He's a very smart guy. He's a very cunning person.",
+      "positive_subtypes": "competence_praise;favorable_intention",
+      "negative_severity": "",
+      "note": "Describes former desire to take whole Ukraine but does not directly call Putin bad; does not adopt third-party accusations."
+    },
+    {
+      "id": "DCPD-202500417",
+      "date": "2025-03-30",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202500417/html/DCPD-202500417.htm",
+      "title": "Remarks in an Exchange With Reporters Aboard Air Force One En Route to Joint Base Andrews, Maryland",
+      "evidence": "We've always gotten along well. | I was disappointed. | I wasn't happy with that.",
+      "positive_subtypes": "current_affinity;expressed_trust;favorable_intention",
+      "negative_severity": "mild_disagreement",
+      "note": "Same event contains current relationship defense and specific criticism of Putin questioning Zelenskyy's credibility. Russia sanctions separate."
+    },
+    {
+      "id": "DCPD-202500644",
+      "date": "2025-05-25",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202500644/html/DCPD-202500644.htm",
+      "title": "Remarks and an Exchange With Reporters Prior to Departure From Morristown, New Jersey",
+      "evidence": "I'm not happy with what Putin is doing. He's killing a lot of people. | I don't know what the hell happened to Putin.",
+      "positive_subtypes": "",
+      "negative_severity": "mild_disagreement;substantive_condemnation",
+      "note": "Past affinity explicitly contrasted with present disapproval; not current positive."
+    },
+    {
+      "id": "DCPD-202500755",
+      "date": "2025-07-08",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202500755/html/DCPD-202500755.htm",
+      "title": "Remarks Following a Cabinet Meeting and an Exchange With Reporters",
+      "evidence": "We get a lot of bullshit thrown at us by Putin. | He's very nice all the time, but it turns out to be meaningless. | He's not treating human beings right.",
+      "positive_subtypes": "",
+      "negative_severity": "mild_disagreement;substantive_condemnation",
+      "note": "Profane honesty criticism; 'very nice' withdrawn/ironic in deception argument, not positive praise. No military threat inferred from separate Iran discussion."
+    },
+    {
+      "id": "DCPD-202500855",
+      "date": "2025-08-15",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202500855/html/DCPD-202500855.htm",
+      "title": "Remarks to Reporters With President Vladimir Vladimirovich Putin of Russia in Anchorage, Alaska",
+      "evidence": "That was very profound. | I've always had a fantastic relationship with President Putin. | President Putin wants to see that as much as I do.",
+      "positive_subtypes": "current_affinity;statement_praise;ceremonial_courtesy;favorable_intention",
+      "negative_severity": "",
+      "note": "Alaska summit Aug15; APP documents DCPD date correction. Putin's own long preceding remarks excluded; Trump's initial praise verified in full APP transcript."
+    },
+    {
+      "id": "DCPD-202500934",
+      "date": "2025-09-20",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202500934/html/DCPD-202500934.htm",
+      "title": "Remarks at the American Cornerstone Institute Founders Dinner in Mount Vernon, Virginia",
+      "evidence": "I have a good relationship with President Putin. Disappointed in him, but I do.",
+      "positive_subtypes": "current_affinity",
+      "negative_severity": "mild_disagreement;substantive_condemnation",
+      "note": "Unambiguous current affinity and criticism coexist."
+    },
+    {
+      "id": "DCPD-202500970",
+      "date": "2025-09-30",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202500970/html/DCPD-202500970.htm",
+      "title": "Remarks to the Department of War in Quantico, Virginia",
+      "evidence": "I'm so disappointed in President Putin. | You don't look good. ... Are you a paper tiger?",
+      "positive_subtypes": "",
+      "negative_severity": "mild_disagreement;substantive_condemnation;personal_insult",
+      "note": "Explicit derisive competence challenge addressed to Putin. Nearby pay in hell threat concerns Gaza/Hamas, not Putin."
+    },
+    {
+      "id": "DCPD-202501223",
+      "date": "2025-12-28",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202501223/html/DCPD-202501223.htm",
+      "title": "The President's News Conference With President Volodymyr Zelenskyy of Ukraine in Palm Beach, Florida",
+      "evidence": "He's been very good in that sense. | President Putin was very generous in his feeling toward Ukraine succeeding. | I believe him.",
+      "positive_subtypes": "moral_or_conduct_praise;favorable_intention;expressed_trust;favorable_defense",
+      "negative_severity": "",
+      "note": "Specific nuclear plant/reconstruction conduct praise and future intentions. Historical relationship separate. Claims not independently verified as policy reality."
+    },
+    {
+      "id": "DCPD-202600012",
+      "date": "2026-01-09",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202600012/html/DCPD-202600012.htm",
+      "title": "Remarks During a Meeting With Executives of Oil and Gas Companies and an Exchange With Reporters",
+      "evidence": "I get along very well with President Putin, but I'm very disappointed in him.",
+      "positive_subtypes": "current_affinity",
+      "negative_severity": "mild_disagreement",
+      "note": "Explicit current affinity remains despite disappointment; rejects need to capture Putin when asked."
+    },
+    {
+      "id": "DCPD-202600078",
+      "date": "2026-02-03",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202600078/html/DCPD-202600078.htm",
+      "title": "Remarks on Signing the Consolidated Appropriations Act, 2026, and an Exchange With Reporters",
+      "evidence": "He kept his word on that. | Yes, I would have liked him to [go further or longer].",
+      "positive_subtypes": "moral_or_conduct_praise",
+      "negative_severity": "mild_disagreement",
+      "note": "Full transcript: simultaneously defends one-week pause compliance and affirms disappointment it did not last longer."
+    },
+    {
+      "id": "DCPD-202600380",
+      "date": "2026-06-04",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202600380/html/DCPD-202600380.htm",
+      "title": "Remarks on Coal and an Exchange With Reporters",
+      "evidence": "They're two very good people. | They're going to make—both make compromises.",
+      "positive_subtypes": "moral_or_conduct_praise;favorable_intention",
+      "negative_severity": "",
+      "note": "Putin and Zelenskyy both explicitly praised as people; full antecedent verified."
+    }
+  ]
+}

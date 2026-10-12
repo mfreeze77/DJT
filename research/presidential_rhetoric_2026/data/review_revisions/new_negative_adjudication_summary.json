@@ -1,0 +1,74 @@
+{
+  "scope": "All 34 newly flagged negative candidates from the 243-record favorable audits; all originally negative=False. The original 76 file is preserved; one documented amendment incorporates independently qualifying later evidence in 202600046.",
+  "counts_new_candidates": {
+    "contextual": 5,
+    "separate": 15,
+    "clear": 14
+  },
+  "clear_new_target_groupings": {
+    "Putin_conduct_with_Biden_blame": 1,
+    "Putin_alone": 1,
+    "Putin_and_Zelenskyy": 12
+  },
+  "new_by_segment": {
+    "early": {
+      "contextual": 2,
+      "separate": 8,
+      "clear": 1
+    },
+    "middle": {
+      "separate": 5,
+      "clear": 3
+    },
+    "late": {
+      "clear": 10,
+      "separate": 2,
+      "contextual": 3
+    }
+  },
+  "existing_76_counts_as_previously_published": {
+    "clear": 42,
+    "contextual": 8,
+    "separate": 26
+  },
+  "original76_amendments": {
+    "count": 1,
+    "ids": [
+      "DCPD-202600046"
+    ],
+    "change": "separate -> clear joint criticism, based on independent later paragraph283; conditional stupid sentence is not the primary basis"
+  },
+  "existing_76_counts_after_documented_amendment": {
+    "clear": 43,
+    "contextual": 8,
+    "separate": 25
+  },
+  "combined_110_adjudicated_counts": {
+    "clear": 57,
+    "contextual": 13,
+    "separate": 40
+  },
+  "all_original_putin_records": 243,
+  "remaining_records_not_selected_for_negative_adjudication": 133,
+  "remaining_records_status": "Were included in the favorable audit, but are not independently certified negative-free here. Do not interpret the 110 adjudicated records as a random sample or a complete negative denominator.",
+  "tier_definitions": {
+    "clear": "An asserted negative appraisal of Putin personally, or conduct/intent/capability unambiguously assigned to him. Explicit shared blame/capability judgments include him; clear does not mean harsh or exclusive.",
+    "contextual": "Putin or the two leaders are a plausible/explicit target, but negative appraisal, causal blame, or valence is implied or qualified enough to keep a separate sensitivity tier.",
+    "separate": "State/war/situation-only appraisal, unattributed attack criticism, request, conditional pressure, outcome-only disappointment, broad collective dismissal, or ambiguous actor attribution. These may be negative rhetoric but do not meet the actor-negative tiers."
+  },
+  "key_corrections": [
+    "March 7 Russia-bombing plus “can’t do that” is a request/conduct-context case, not an unqualified personal negative.",
+    "May 6’s literal negative object is “that war”; the question asks about Russian strikes, not a negative quality of Putin. Kept as state/war contextual disapproval, outside clear personal criticism.",
+    "October 20’s cut-it-out request alone would not qualify; an earlier passage independently blames the two leaders’ hatred for difficulty.",
+    "December 15’s country-level vacillation alone would not qualify; a later passage explicitly assigns difficulty to the two leaders’ dislike.",
+    "Bare descriptions of mutual hatred remain contextual; explicit claims that it obstructs talks/settlement count as mild joint criticism, consistently with existing 202600575."
+  ],
+  "literal_evidence_qa": {
+    "all_evidence_matches_referenced_corpus_paragraph": true,
+    "candidate_rows": 34,
+    "evidence_items": 114,
+    "prompt_items": 60
+  },
+  "review_type": "AI, not human review",
+  "praise_vs_criticism_winner": "Not inferred. Favorable categories have different semantics and qualification layers; negative adjudication is candidate-based, and shared mild criticism is not equivalent to personal attacks."
+}
