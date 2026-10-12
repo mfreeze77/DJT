@@ -1,0 +1,55 @@
+{
+  "scope_start_utc": "2025-01-20T17:00:00Z",
+  "snapshot_cutoff_utc": "2026-10-12T03:12:00Z",
+  "records": 12998,
+  "platforms": {
+    "X": 143,
+    "Truth Social": 12855
+  },
+  "types": {
+    "original_account_text": 7830,
+    "repost": 567,
+    "media_only": 3723,
+    "quote_post": 874,
+    "app_editorial_candidate": 4
+  },
+  "truth_source_counts": {
+    "cnn": 12142,
+    "app": 10180,
+    "rollcall": 12846
+  },
+  "truth_union": 12855,
+  "x_inperiod": 143,
+  "x_latest": "2026-02-02T17:04:19-05:00",
+  "app_index_days": 625,
+  "app_first_day": "2025-01-20",
+  "app_last_day": "2026-10-06",
+  "rollcall_pages": 260,
+  "rollcall_oldest_fetched_date": "2025-01-10T10:28:22-05:00",
+  "by_month": {
+    "2025-01": 182,
+    "2025-02": 553,
+    "2025-03": 684,
+    "2025-04": 467,
+    "2025-05": 549,
+    "2025-06": 521,
+    "2025-07": 652,
+    "2025-08": 572,
+    "2025-09": 431,
+    "2025-10": 485,
+    "2025-11": 630,
+    "2025-12": 625,
+    "2026-01": 795,
+    "2026-02": 610,
+    "2026-03": 546,
+    "2026-04": 565,
+    "2026-05": 861,
+    "2026-06": 681,
+    "2026-07": 750,
+    "2026-08": 1024,
+    "2026-09": 613,
+    "2026-10": 202
+  },
+  "dcpd_overlap_posts": 55,
+  "complete_all_platform_activity": false
+}

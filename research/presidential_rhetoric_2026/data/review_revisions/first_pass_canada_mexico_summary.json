@@ -1,0 +1,512 @@
+{
+  "official": {
+    "Canada": {
+      "broad": {
+        "denominator": 180,
+        "positive_only": 19,
+        "negative_only": 60,
+        "mixed": 21,
+        "neutral": 80,
+        "any_positive": 40,
+        "any_negative": 81,
+        "positive_rate": 0.2222,
+        "negative_rate": 0.45
+      },
+      "current_appraisal": {
+        "denominator": 180,
+        "positive_only": 13,
+        "negative_only": 60,
+        "mixed": 21,
+        "neutral": 86,
+        "any_positive": 34,
+        "any_negative": 81,
+        "positive_rate": 0.1889,
+        "negative_rate": 0.45
+      }
+    },
+    "Canada_group": {
+      "broad": {
+        "denominator": 185,
+        "positive_only": 26,
+        "negative_only": 54,
+        "mixed": 29,
+        "neutral": 76,
+        "any_positive": 55,
+        "any_negative": 83,
+        "positive_rate": 0.2973,
+        "negative_rate": 0.4486
+      },
+      "current_appraisal": {
+        "denominator": 185,
+        "positive_only": 18,
+        "negative_only": 56,
+        "mixed": 27,
+        "neutral": 84,
+        "any_positive": 45,
+        "any_negative": 83,
+        "positive_rate": 0.2432,
+        "negative_rate": 0.4486
+      }
+    },
+    "Carney": {
+      "broad": {
+        "denominator": 37,
+        "positive_only": 25,
+        "negative_only": 4,
+        "mixed": 1,
+        "neutral": 7,
+        "any_positive": 26,
+        "any_negative": 5,
+        "positive_rate": 0.7027,
+        "negative_rate": 0.1351
+      },
+      "current_appraisal": {
+        "denominator": 37,
+        "positive_only": 20,
+        "negative_only": 4,
+        "mixed": 1,
+        "neutral": 12,
+        "any_positive": 21,
+        "any_negative": 5,
+        "positive_rate": 0.5676,
+        "negative_rate": 0.1351
+      }
+    },
+    "Mexico": {
+      "broad": {
+        "denominator": 159,
+        "positive_only": 11,
+        "negative_only": 41,
+        "mixed": 13,
+        "neutral": 94,
+        "any_positive": 24,
+        "any_negative": 54,
+        "positive_rate": 0.1509,
+        "negative_rate": 0.3396
+      },
+      "current_appraisal": {
+        "denominator": 159,
+        "positive_only": 10,
+        "negative_only": 39,
+        "mixed": 13,
+        "neutral": 97,
+        "any_positive": 23,
+        "any_negative": 52,
+        "positive_rate": 0.1447,
+        "negative_rate": 0.327
+      }
+    },
+    "Mexico_group": {
+      "broad": {
+        "denominator": 162,
+        "positive_only": 18,
+        "negative_only": 36,
+        "mixed": 19,
+        "neutral": 89,
+        "any_positive": 37,
+        "any_negative": 55,
+        "positive_rate": 0.2284,
+        "negative_rate": 0.3395
+      },
+      "current_appraisal": {
+        "denominator": 162,
+        "positive_only": 15,
+        "negative_only": 34,
+        "mixed": 19,
+        "neutral": 94,
+        "any_positive": 34,
+        "any_negative": 53,
+        "positive_rate": 0.2099,
+        "negative_rate": 0.3272
+      }
+    },
+    "Sheinbaum": {
+      "broad": {
+        "denominator": 26,
+        "positive_only": 20,
+        "negative_only": 0,
+        "mixed": 4,
+        "neutral": 2,
+        "any_positive": 24,
+        "any_negative": 4,
+        "positive_rate": 0.9231,
+        "negative_rate": 0.1538
+      },
+      "current_appraisal": {
+        "denominator": 26,
+        "positive_only": 17,
+        "negative_only": 0,
+        "mixed": 4,
+        "neutral": 5,
+        "any_positive": 21,
+        "any_negative": 4,
+        "positive_rate": 0.8077,
+        "negative_rate": 0.1538
+      }
+    },
+    "Trudeau": {
+      "broad": {
+        "denominator": 16,
+        "positive_only": 2,
+        "negative_only": 12,
+        "mixed": 1,
+        "neutral": 1,
+        "any_positive": 3,
+        "any_negative": 13,
+        "positive_rate": 0.1875,
+        "negative_rate": 0.8125
+      },
+      "current_appraisal": {
+        "denominator": 16,
+        "positive_only": 0,
+        "negative_only": 12,
+        "mixed": 1,
+        "neutral": 3,
+        "any_positive": 1,
+        "any_negative": 13,
+        "positive_rate": 0.0625,
+        "negative_rate": 0.8125
+      }
+    }
+  },
+  "social": {
+    "Canada": {
+      "broad": {
+        "denominator": 72,
+        "positive_only": 4,
+        "negative_only": 47,
+        "mixed": 1,
+        "neutral": 20,
+        "any_positive": 5,
+        "any_negative": 48,
+        "positive_rate": 0.0694,
+        "negative_rate": 0.6667
+      },
+      "current_appraisal": {
+        "denominator": 72,
+        "positive_only": 2,
+        "negative_only": 47,
+        "mixed": 1,
+        "neutral": 22,
+        "any_positive": 3,
+        "any_negative": 48,
+        "positive_rate": 0.0417,
+        "negative_rate": 0.6667
+      }
+    },
+    "Canada_group": {
+      "broad": {
+        "denominator": 74,
+        "positive_only": 6,
+        "negative_only": 49,
+        "mixed": 3,
+        "neutral": 16,
+        "any_positive": 9,
+        "any_negative": 52,
+        "positive_rate": 0.1216,
+        "negative_rate": 0.7027
+      },
+      "current_appraisal": {
+        "denominator": 74,
+        "positive_only": 1,
+        "negative_only": 50,
+        "mixed": 2,
+        "neutral": 21,
+        "any_positive": 3,
+        "any_negative": 52,
+        "positive_rate": 0.0405,
+        "negative_rate": 0.7027
+      }
+    },
+    "Carney": {
+      "broad": {
+        "denominator": 12,
+        "positive_only": 3,
+        "negative_only": 6,
+        "mixed": 0,
+        "neutral": 3,
+        "any_positive": 3,
+        "any_negative": 6,
+        "positive_rate": 0.25,
+        "negative_rate": 0.5
+      },
+      "current_appraisal": {
+        "denominator": 12,
+        "positive_only": 0,
+        "negative_only": 6,
+        "mixed": 0,
+        "neutral": 6,
+        "any_positive": 0,
+        "any_negative": 6,
+        "positive_rate": 0.0,
+        "negative_rate": 0.5
+      }
+    },
+    "Mexico": {
+      "broad": {
+        "denominator": 17,
+        "positive_only": 0,
+        "negative_only": 5,
+        "mixed": 0,
+        "neutral": 12,
+        "any_positive": 0,
+        "any_negative": 5,
+        "positive_rate": 0.0,
+        "negative_rate": 0.2941
+      },
+      "current_appraisal": {
+        "denominator": 17,
+        "positive_only": 0,
+        "negative_only": 5,
+        "mixed": 0,
+        "neutral": 12,
+        "any_positive": 0,
+        "any_negative": 5,
+        "positive_rate": 0.0,
+        "negative_rate": 0.2941
+      }
+    },
+    "Mexico_group": {
+      "broad": {
+        "denominator": 18,
+        "positive_only": 5,
+        "negative_only": 5,
+        "mixed": 0,
+        "neutral": 8,
+        "any_positive": 5,
+        "any_negative": 5,
+        "positive_rate": 0.2778,
+        "negative_rate": 0.2778
+      },
+      "current_appraisal": {
+        "denominator": 18,
+        "positive_only": 2,
+        "negative_only": 5,
+        "mixed": 0,
+        "neutral": 11,
+        "any_positive": 2,
+        "any_negative": 5,
+        "positive_rate": 0.1111,
+        "negative_rate": 0.2778
+      }
+    },
+    "Sheinbaum": {
+      "broad": {
+        "denominator": 5,
+        "positive_only": 5,
+        "negative_only": 0,
+        "mixed": 0,
+        "neutral": 0,
+        "any_positive": 5,
+        "any_negative": 0,
+        "positive_rate": 1.0,
+        "negative_rate": 0.0
+      },
+      "current_appraisal": {
+        "denominator": 5,
+        "positive_only": 2,
+        "negative_only": 0,
+        "mixed": 0,
+        "neutral": 3,
+        "any_positive": 2,
+        "any_negative": 0,
+        "positive_rate": 0.4,
+        "negative_rate": 0.0
+      }
+    },
+    "Trudeau": {
+      "broad": {
+        "denominator": 9,
+        "positive_only": 0,
+        "negative_only": 6,
+        "mixed": 1,
+        "neutral": 2,
+        "any_positive": 1,
+        "any_negative": 7,
+        "positive_rate": 0.1111,
+        "negative_rate": 0.7778
+      },
+      "current_appraisal": {
+        "denominator": 9,
+        "positive_only": 0,
+        "negative_only": 7,
+        "mixed": 0,
+        "neutral": 2,
+        "any_positive": 0,
+        "any_negative": 7,
+        "positive_rate": 0.0,
+        "negative_rate": 0.7778
+      }
+    }
+  },
+  "pooled_dedup": {
+    "Canada": {
+      "broad": {
+        "denominator": 251,
+        "positive_only": 22,
+        "negative_only": 107,
+        "mixed": 22,
+        "neutral": 100,
+        "any_positive": 44,
+        "any_negative": 129,
+        "positive_rate": 0.1753,
+        "negative_rate": 0.5139
+      },
+      "current_appraisal": {
+        "denominator": 251,
+        "positive_only": 15,
+        "negative_only": 107,
+        "mixed": 22,
+        "neutral": 107,
+        "any_positive": 37,
+        "any_negative": 129,
+        "positive_rate": 0.1474,
+        "negative_rate": 0.5139
+      }
+    },
+    "Canada_group": {
+      "broad": {
+        "denominator": 258,
+        "positive_only": 31,
+        "negative_only": 103,
+        "mixed": 32,
+        "neutral": 92,
+        "any_positive": 63,
+        "any_negative": 135,
+        "positive_rate": 0.2442,
+        "negative_rate": 0.5233
+      },
+      "current_appraisal": {
+        "denominator": 258,
+        "positive_only": 19,
+        "negative_only": 106,
+        "mixed": 29,
+        "neutral": 104,
+        "any_positive": 48,
+        "any_negative": 135,
+        "positive_rate": 0.186,
+        "negative_rate": 0.5233
+      }
+    },
+    "Carney": {
+      "broad": {
+        "denominator": 49,
+        "positive_only": 28,
+        "negative_only": 10,
+        "mixed": 1,
+        "neutral": 10,
+        "any_positive": 29,
+        "any_negative": 11,
+        "positive_rate": 0.5918,
+        "negative_rate": 0.2245
+      },
+      "current_appraisal": {
+        "denominator": 49,
+        "positive_only": 20,
+        "negative_only": 10,
+        "mixed": 1,
+        "neutral": 18,
+        "any_positive": 21,
+        "any_negative": 11,
+        "positive_rate": 0.4286,
+        "negative_rate": 0.2245
+      }
+    },
+    "Mexico": {
+      "broad": {
+        "denominator": 174,
+        "positive_only": 11,
+        "negative_only": 46,
+        "mixed": 13,
+        "neutral": 104,
+        "any_positive": 24,
+        "any_negative": 59,
+        "positive_rate": 0.1379,
+        "negative_rate": 0.3391
+      },
+      "current_appraisal": {
+        "denominator": 174,
+        "positive_only": 10,
+        "negative_only": 44,
+        "mixed": 13,
+        "neutral": 107,
+        "any_positive": 23,
+        "any_negative": 57,
+        "positive_rate": 0.1322,
+        "negative_rate": 0.3276
+      }
+    },
+    "Mexico_group": {
+      "broad": {
+        "denominator": 178,
+        "positive_only": 22,
+        "negative_only": 41,
+        "mixed": 19,
+        "neutral": 96,
+        "any_positive": 41,
+        "any_negative": 60,
+        "positive_rate": 0.2303,
+        "negative_rate": 0.3371
+      },
+      "current_appraisal": {
+        "denominator": 178,
+        "positive_only": 17,
+        "negative_only": 39,
+        "mixed": 19,
+        "neutral": 103,
+        "any_positive": 36,
+        "any_negative": 58,
+        "positive_rate": 0.2022,
+        "negative_rate": 0.3258
+      }
+    },
+    "Sheinbaum": {
+      "broad": {
+        "denominator": 30,
+        "positive_only": 24,
+        "negative_only": 0,
+        "mixed": 4,
+        "neutral": 2,
+        "any_positive": 28,
+        "any_negative": 4,
+        "positive_rate": 0.9333,
+        "negative_rate": 0.1333
+      },
+      "current_appraisal": {
+        "denominator": 30,
+        "positive_only": 19,
+        "negative_only": 0,
+        "mixed": 4,
+        "neutral": 7,
+        "any_positive": 23,
+        "any_negative": 4,
+        "positive_rate": 0.7667,
+        "negative_rate": 0.1333
+      }
+    },
+    "Trudeau": {
+      "broad": {
+        "denominator": 25,
+        "positive_only": 2,
+        "negative_only": 18,
+        "mixed": 2,
+        "neutral": 3,
+        "any_positive": 4,
+        "any_negative": 20,
+        "positive_rate": 0.16,
+        "negative_rate": 0.8
+      },
+      "current_appraisal": {
+        "denominator": 25,
+        "positive_only": 0,
+        "negative_only": 19,
+        "mixed": 1,
+        "neutral": 5,
+        "any_positive": 1,
+        "any_negative": 20,
+        "positive_rate": 0.04,
+        "negative_rate": 0.8
+      }
+    }
+  }
+}

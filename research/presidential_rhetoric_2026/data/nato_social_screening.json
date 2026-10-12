@@ -1,0 +1,1150 @@
+[
+  {
+    "id": "113874738288379518",
+    "status": "coded"
+  },
+  {
+    "id": "113891969193609437",
+    "status": "excluded",
+    "reason": "Link only; no authored evaluation"
+  },
+  {
+    "id": "113959378194447457",
+    "status": "coded"
+  },
+  {
+    "id": "113959420733046049",
+    "status": "coded"
+  },
+  {
+    "id": "113959430611091391",
+    "status": "coded"
+  },
+  {
+    "id": "113975743103667550",
+    "status": "excluded",
+    "reason": "Link only; no authored evaluation"
+  },
+  {
+    "id": "113980014678337654",
+    "status": "coded"
+  },
+  {
+    "id": "114004152174148558",
+    "status": "excluded",
+    "reason": "Shared headline"
+  },
+  {
+    "id": "114004158227642314",
+    "status": "excluded",
+    "reason": "Shared headline"
+  },
+  {
+    "id": "114031332924234939",
+    "status": "coded"
+  },
+  {
+    "id": "114054706390970120",
+    "status": "coded"
+  },
+  {
+    "id": "114059930426328863",
+    "status": "coded"
+  },
+  {
+    "id": "114060611693371084",
+    "status": "excluded",
+    "reason": "Video link only; transcript not coded"
+  },
+  {
+    "id": "114060909744642044",
+    "status": "coded"
+  },
+  {
+    "id": "114066002055877279",
+    "status": "excluded",
+    "reason": "Unrelated shared headline"
+  },
+  {
+    "id": "114067028336826956",
+    "status": "coded"
+  },
+  {
+    "id": "114077748548259440",
+    "status": "excluded",
+    "reason": "Video link only; transcript not coded"
+  },
+  {
+    "id": "114087932008274658",
+    "status": "excluded",
+    "reason": "Link only"
+  },
+  {
+    "id": "114087932471439595",
+    "status": "excluded",
+    "reason": "Link only"
+  },
+  {
+    "id": "114087933520368044",
+    "status": "excluded",
+    "reason": "Link only"
+  },
+  {
+    "id": "114096104536926329",
+    "status": "coded"
+  },
+  {
+    "id": "114099480566604857",
+    "status": "coded"
+  },
+  {
+    "id": "114099924838350231",
+    "status": "coded"
+  },
+  {
+    "id": "114124068976645988",
+    "status": "coded"
+  },
+  {
+    "id": "114132792292597213",
+    "status": "excluded",
+    "reason": "Link only"
+  },
+  {
+    "id": "114135068157531979",
+    "status": "coded"
+  },
+  {
+    "id": "114138906539296863",
+    "status": "excluded",
+    "reason": "Link only"
+  },
+  {
+    "id": "114138911634655993",
+    "status": "excluded",
+    "reason": "Link only"
+  },
+  {
+    "id": "114138923556158520",
+    "status": "excluded",
+    "reason": "Link only"
+  },
+  {
+    "id": "114138924260124808",
+    "status": "excluded",
+    "reason": "Link only"
+  },
+  {
+    "id": "114155003492555395",
+    "status": "coded"
+  },
+  {
+    "id": "114155230513269064",
+    "status": "coded"
+  },
+  {
+    "id": "114180391236856348",
+    "status": "excluded",
+    "reason": "Link only"
+  },
+  {
+    "id": "114220273052874483",
+    "status": "excluded",
+    "reason": "Historical Allied troops, not contemporary target"
+  },
+  {
+    "id": "114232829948632918",
+    "status": "coded"
+  },
+  {
+    "id": "114247551865595874",
+    "status": "coded"
+  },
+  {
+    "id": "114254009723637368",
+    "status": "coded"
+  },
+  {
+    "id": "114259534733735170",
+    "status": "excluded",
+    "reason": "Shared headline"
+  },
+  {
+    "id": "114259546197388041",
+    "status": "excluded",
+    "reason": "Shared headline"
+  },
+  {
+    "id": "114277430639309106",
+    "status": "coded"
+  },
+  {
+    "id": "114293581018893404",
+    "status": "coded"
+  },
+  {
+    "id": "114333660655935996",
+    "status": "coded"
+  },
+  {
+    "id": "114353201227355474",
+    "status": "coded"
+  },
+  {
+    "id": "114354225021338752",
+    "status": "coded"
+  },
+  {
+    "id": "114359040827344338",
+    "status": "coded"
+  },
+  {
+    "id": "114372351596556599",
+    "status": "coded"
+  },
+  {
+    "id": "114376239725335883",
+    "status": "coded"
+  },
+  {
+    "id": "114400768937823340",
+    "status": "coded"
+  },
+  {
+    "id": "114411157925493893",
+    "status": "excluded",
+    "reason": "Italian Americans/Columbus, not Italian state"
+  },
+  {
+    "id": "114455860282159313",
+    "status": "coded"
+  },
+  {
+    "id": "114471558043712137",
+    "status": "coded"
+  },
+  {
+    "id": "114471661029075259",
+    "status": "coded"
+  },
+  {
+    "id": "114472802068018414",
+    "status": "coded"
+  },
+  {
+    "id": "114474417554010988",
+    "status": "coded"
+  },
+  {
+    "id": "114478780390671313",
+    "status": "coded"
+  },
+  {
+    "id": "114490093180275292",
+    "status": "coded"
+  },
+  {
+    "id": "114501759958997511",
+    "status": "coded"
+  },
+  {
+    "id": "114523762104941397",
+    "status": "coded"
+  },
+  {
+    "id": "114535693441367601",
+    "status": "coded"
+  },
+  {
+    "id": "114542709133462503",
+    "status": "coded"
+  },
+  {
+    "id": "114556558074574515",
+    "status": "coded"
+  },
+  {
+    "id": "114556968834547173",
+    "status": "coded"
+  },
+  {
+    "id": "114569972014269696",
+    "status": "coded"
+  },
+  {
+    "id": "114570775887793036",
+    "status": "coded"
+  },
+  {
+    "id": "114580018376822663",
+    "status": "coded"
+  },
+  {
+    "id": "114586960080176462",
+    "status": "coded"
+  },
+  {
+    "id": "114596705340367716",
+    "status": "excluded",
+    "reason": "Cold turkey idiom"
+  },
+  {
+    "id": "114617605450196006",
+    "status": "coded"
+  },
+  {
+    "id": "114625064616541014",
+    "status": "coded"
+  },
+  {
+    "id": "114631660775512688",
+    "status": "coded"
+  },
+  {
+    "id": "114636703372425608",
+    "status": "coded"
+  },
+  {
+    "id": "114696999897040583",
+    "status": "coded"
+  },
+  {
+    "id": "114710405985383754",
+    "status": "coded"
+  },
+  {
+    "id": "114736702510423652",
+    "status": "coded"
+  },
+  {
+    "id": "114738519652958827",
+    "status": "coded"
+  },
+  {
+    "id": "114739026668148625",
+    "status": "coded"
+  },
+  {
+    "id": "114742858969719244",
+    "status": "coded"
+  },
+  {
+    "id": "114744229630792366",
+    "status": "excluded",
+    "reason": "Link only"
+  },
+  {
+    "id": "114749872416313793",
+    "status": "coded"
+  },
+  {
+    "id": "114756567645919781",
+    "status": "coded"
+  },
+  {
+    "id": "114761144946167016",
+    "status": "coded"
+  },
+  {
+    "id": "114792925370595712",
+    "status": "excluded",
+    "reason": "US ambassador praised, not NATO"
+  },
+  {
+    "id": "114823753748748089",
+    "status": "excluded",
+    "reason": "Shared headline"
+  },
+  {
+    "id": "114857957325423668",
+    "status": "coded"
+  },
+  {
+    "id": "114905910987380649",
+    "status": "coded"
+  },
+  {
+    "id": "114926827953437897",
+    "status": "coded"
+  },
+  {
+    "id": "114934191239714896",
+    "status": "coded"
+  },
+  {
+    "id": "114935401735258022",
+    "status": "coded"
+  },
+  {
+    "id": "114982898525988419",
+    "status": "coded"
+  },
+  {
+    "id": "114990543084538507",
+    "status": "excluded",
+    "reason": "Unrelated shared headline"
+  },
+  {
+    "id": "115021166810580379",
+    "status": "coded"
+  },
+  {
+    "id": "115037569702889410",
+    "status": "coded"
+  },
+  {
+    "id": "115047128460078066",
+    "status": "coded"
+  },
+  {
+    "id": "115047141648054993",
+    "status": "coded"
+  },
+  {
+    "id": "115047166895807142",
+    "status": "coded"
+  },
+  {
+    "id": "115049921290485283",
+    "status": "coded"
+  },
+  {
+    "id": "115052030103944534",
+    "status": "coded"
+  },
+  {
+    "id": "115052358324894178",
+    "status": "coded"
+  },
+  {
+    "id": "115153232183118149",
+    "status": "coded"
+  },
+  {
+    "id": "115153378284802465",
+    "status": "coded"
+  },
+  {
+    "id": "115180631135047280",
+    "status": "coded"
+  },
+  {
+    "id": "115196697263809382",
+    "status": "coded"
+  },
+  {
+    "id": "115208260926006345",
+    "status": "coded"
+  },
+  {
+    "id": "115214611639210222",
+    "status": "excluded",
+    "reason": "Link only"
+  },
+  {
+    "id": "115214618898446937",
+    "status": "excluded",
+    "reason": "Unrelated link"
+  },
+  {
+    "id": "115214627673767594",
+    "status": "excluded",
+    "reason": "Link only"
+  },
+  {
+    "id": "115232256964155055",
+    "status": "coded"
+  },
+  {
+    "id": "115255130298104593",
+    "status": "coded"
+  },
+  {
+    "id": "115328475388548676",
+    "status": "excluded",
+    "reason": "Link only"
+  },
+  {
+    "id": "115340993884364431",
+    "status": "coded"
+  },
+  {
+    "id": "115370746210555899",
+    "status": "coded"
+  },
+  {
+    "id": "115376171359177192",
+    "status": "excluded",
+    "reason": "Link only"
+  },
+  {
+    "id": "115384956858741387",
+    "status": "coded"
+  },
+  {
+    "id": "115483382708030237",
+    "status": "excluded",
+    "reason": "French Hill is a US politician"
+  },
+  {
+    "id": "115510666739916664",
+    "status": "excluded",
+    "reason": "Historical settlers, not current allies"
+  },
+  {
+    "id": "115511412965888296",
+    "status": "excluded",
+    "reason": "Europe geographic location only"
+  },
+  {
+    "id": "115521695808009888",
+    "status": "coded"
+  },
+  {
+    "id": "115521714586759820",
+    "status": "excluded",
+    "reason": "Link only"
+  },
+  {
+    "id": "115521725387177325",
+    "status": "excluded",
+    "reason": "Link only"
+  },
+  {
+    "id": "115522248485816947",
+    "status": "excluded",
+    "reason": "Unrelated link"
+  },
+  {
+    "id": "115549287803709107",
+    "status": "excluded",
+    "reason": "Article share with no evaluation of UK government"
+  },
+  {
+    "id": "115567457865630938",
+    "status": "coded"
+  },
+  {
+    "id": "115599428464496784",
+    "status": "coded"
+  },
+  {
+    "id": "115617700844849134",
+    "status": "excluded",
+    "reason": "Historical settlers"
+  },
+  {
+    "id": "1994438728237064270",
+    "status": "excluded",
+    "reason": "Historical settlers"
+  },
+  {
+    "id": "115688461364044258",
+    "status": "coded"
+  },
+  {
+    "id": "115732274245124697",
+    "status": "coded"
+  },
+  {
+    "id": "115760829286615399",
+    "status": "coded"
+  },
+  {
+    "id": "115777183958226675",
+    "status": "excluded",
+    "reason": "Shared headline"
+  },
+  {
+    "id": "115785910842203078",
+    "status": "excluded",
+    "reason": "Shared headline"
+  },
+  {
+    "id": "115816402893182666",
+    "status": "coded"
+  },
+  {
+    "id": "115854352740910460",
+    "status": "coded"
+  },
+  {
+    "id": "115879659776888469",
+    "status": "excluded",
+    "reason": "Unrelated shared headline"
+  },
+  {
+    "id": "115882232505676630",
+    "status": "coded"
+  },
+  {
+    "id": "115893255826342514",
+    "status": "coded"
+  },
+  {
+    "id": "115893658269457561",
+    "status": "coded"
+  },
+  {
+    "id": "115902017280271792",
+    "status": "coded"
+  },
+  {
+    "id": "115911344443637897",
+    "status": "coded"
+  },
+  {
+    "id": "115919803174585205",
+    "status": "coded"
+  },
+  {
+    "id": "115925766187001811",
+    "status": "coded"
+  },
+  {
+    "id": "115925848634299232",
+    "status": "coded"
+  },
+  {
+    "id": "115926047595803521",
+    "status": "coded"
+  },
+  {
+    "id": "115926107400617491",
+    "status": "coded"
+  },
+  {
+    "id": "115928442608514733",
+    "status": "coded"
+  },
+  {
+    "id": "115934734335579278",
+    "status": "coded"
+  },
+  {
+    "id": "115940231479630134",
+    "status": "coded"
+  },
+  {
+    "id": "115941811687438015",
+    "status": "coded"
+  },
+  {
+    "id": "115942977423885586",
+    "status": "excluded",
+    "reason": "Shared headline"
+  },
+  {
+    "id": "115944336667645170",
+    "status": "coded"
+  },
+  {
+    "id": "115946254061477406",
+    "status": "coded"
+  },
+  {
+    "id": "115946877623841494",
+    "status": "excluded",
+    "reason": "French Hill US politician"
+  },
+  {
+    "id": "115946969213492152",
+    "status": "excluded",
+    "reason": "Shared headline"
+  },
+  {
+    "id": "115951100180444245",
+    "status": "coded"
+  },
+  {
+    "id": "115983891481988557",
+    "status": "coded"
+  },
+  {
+    "id": "116019287824035088",
+    "status": "coded"
+  },
+  {
+    "id": "116019322824567248",
+    "status": "coded"
+  },
+  {
+    "id": "116038855915542460",
+    "status": "excluded",
+    "reason": "Unrelated shared headline"
+  },
+  {
+    "id": "116064077737153290",
+    "status": "coded"
+  },
+  {
+    "id": "116093101641103750",
+    "status": "coded"
+  },
+  {
+    "id": "116094599626377829",
+    "status": "coded"
+  },
+  {
+    "id": "116111420567451198",
+    "status": "coded"
+  },
+  {
+    "id": "116165200090740839",
+    "status": "excluded",
+    "reason": "Shared headline"
+  },
+  {
+    "id": "116174757064824630",
+    "status": "excluded",
+    "reason": "Shared headline"
+  },
+  {
+    "id": "116189925042301817",
+    "status": "coded"
+  },
+  {
+    "id": "116211088596192977",
+    "status": "excluded",
+    "reason": "Shared headline"
+  },
+  {
+    "id": "116227904143399817",
+    "status": "coded"
+  },
+  {
+    "id": "116241553340894634",
+    "status": "excluded",
+    "reason": "Shared headline"
+  },
+  {
+    "id": "116242335330134909",
+    "status": "coded"
+  },
+  {
+    "id": "116245182325726375",
+    "status": "coded"
+  },
+  {
+    "id": "116249447962443816",
+    "status": "excluded",
+    "reason": "Shared headline"
+  },
+  {
+    "id": "116250236426568567",
+    "status": "excluded",
+    "reason": "Shared headline"
+  },
+  {
+    "id": "116253527175738987",
+    "status": "excluded",
+    "reason": "Shared headline"
+  },
+  {
+    "id": "116256221612685192",
+    "status": "excluded",
+    "reason": "Shared headline"
+  },
+  {
+    "id": "116261796648776538",
+    "status": "coded"
+  },
+  {
+    "id": "116286710096907230",
+    "status": "coded"
+  },
+  {
+    "id": "116287754799935332",
+    "status": "excluded",
+    "reason": "Shared headline"
+  },
+  {
+    "id": "116294956989451533",
+    "status": "coded"
+  },
+  {
+    "id": "116323481956698353",
+    "status": "coded"
+  },
+  {
+    "id": "116323516183718262",
+    "status": "coded"
+  },
+  {
+    "id": "116323992527197622",
+    "status": "coded"
+  },
+  {
+    "id": "116346654846871260",
+    "status": "coded"
+  },
+  {
+    "id": "116371693008302124",
+    "status": "coded"
+  },
+  {
+    "id": "116374792489555954",
+    "status": "coded"
+  },
+  {
+    "id": "116376634773749603",
+    "status": "coded"
+  },
+  {
+    "id": "116377410587246089",
+    "status": "coded"
+  },
+  {
+    "id": "116382335330123013",
+    "status": "coded"
+  },
+  {
+    "id": "116386190374675994",
+    "status": "coded"
+  },
+  {
+    "id": "116403535989117537",
+    "status": "coded"
+  },
+  {
+    "id": "116406639178992552",
+    "status": "coded"
+  },
+  {
+    "id": "116408647042304061",
+    "status": "excluded",
+    "reason": "Attributed opinion headline"
+  },
+  {
+    "id": "116416471379285688",
+    "status": "coded"
+  },
+  {
+    "id": "116420456436213944",
+    "status": "coded"
+  },
+  {
+    "id": "116423133703021080",
+    "status": "excluded",
+    "reason": "Unrelated shared headline"
+  },
+  {
+    "id": "116425653087220924",
+    "status": "coded"
+  },
+  {
+    "id": "116431297579272777",
+    "status": "coded"
+  },
+  {
+    "id": "116438239629407600",
+    "status": "coded"
+  },
+  {
+    "id": "116440475208030352",
+    "status": "coded"
+  },
+  {
+    "id": "116461858227528789",
+    "status": "coded"
+  },
+  {
+    "id": "116483733181582907",
+    "status": "coded"
+  },
+  {
+    "id": "116490196510215628",
+    "status": "coded"
+  },
+  {
+    "id": "116493939901285486",
+    "status": "coded"
+  },
+  {
+    "id": "116495078448348822",
+    "status": "coded"
+  },
+  {
+    "id": "116500111621281950",
+    "status": "coded"
+  },
+  {
+    "id": "116511160749911403",
+    "status": "excluded",
+    "reason": "Shared headline"
+  },
+  {
+    "id": "116511291851057573",
+    "status": "excluded",
+    "reason": "Shared headline"
+  },
+  {
+    "id": "116511293838078879",
+    "status": "excluded",
+    "reason": "Shared headline"
+  },
+  {
+    "id": "116534860307993853",
+    "status": "coded"
+  },
+  {
+    "id": "116542198092493172",
+    "status": "coded"
+  },
+  {
+    "id": "116552057312551979",
+    "status": "coded"
+  },
+  {
+    "id": "116591904858301243",
+    "status": "excluded",
+    "reason": "Shared headline"
+  },
+  {
+    "id": "116614442694237946",
+    "status": "coded"
+  },
+  {
+    "id": "116624953059006946",
+    "status": "excluded",
+    "reason": "Link only"
+  },
+  {
+    "id": "116624958046118800",
+    "status": "coded"
+  },
+  {
+    "id": "116625784011805994",
+    "status": "coded"
+  },
+  {
+    "id": "116635193825443617",
+    "status": "coded"
+  },
+  {
+    "id": "116659174350335809",
+    "status": "excluded",
+    "reason": "Shared headline"
+  },
+  {
+    "id": "116659181152746981",
+    "status": "excluded",
+    "reason": "Shared headline"
+  },
+  {
+    "id": "116669584003805199",
+    "status": "coded"
+  },
+  {
+    "id": "116687849946543138",
+    "status": "coded"
+  },
+  {
+    "id": "116732652997120164",
+    "status": "coded"
+  },
+  {
+    "id": "116765811260304660",
+    "status": "coded"
+  },
+  {
+    "id": "116782277725628816",
+    "status": "coded"
+  },
+  {
+    "id": "116782416835973120",
+    "status": "excluded",
+    "reason": "Typographical correction same-day duplicate of116782277725628816; retain source but count once"
+  },
+  {
+    "id": "116788451975276121",
+    "status": "coded"
+  },
+  {
+    "id": "116789789595899412",
+    "status": "coded"
+  },
+  {
+    "id": "116796021113054934",
+    "status": "excluded",
+    "reason": "Historical quotation"
+  },
+  {
+    "id": "116817320899062447",
+    "status": "coded"
+  },
+  {
+    "id": "116850279579552155",
+    "status": "coded"
+  },
+  {
+    "id": "116853549264630885",
+    "status": "excluded",
+    "reason": "Historic British forces, not present allied government"
+  },
+  {
+    "id": "116863241061573145",
+    "status": "coded"
+  },
+  {
+    "id": "116868101287636876",
+    "status": "excluded",
+    "reason": "Attributed third-party opinion"
+  },
+  {
+    "id": "116868213223916230",
+    "status": "excluded",
+    "reason": "Attributed third-party report and French surname"
+  },
+  {
+    "id": "116868250318223381",
+    "status": "excluded",
+    "reason": "Attributed historical narrative"
+  },
+  {
+    "id": "116879490053026634",
+    "status": "excluded",
+    "reason": "Thanks article author; no own NATO evaluation beyond shared headline"
+  },
+  {
+    "id": "116884409163416775",
+    "status": "coded"
+  },
+  {
+    "id": "116886666473252596",
+    "status": "coded"
+  },
+  {
+    "id": "116935415847765408",
+    "status": "coded"
+  },
+  {
+    "id": "116946402540753531",
+    "status": "excluded",
+    "reason": "Shared headline"
+  },
+  {
+    "id": "116947019736199780",
+    "status": "coded"
+  },
+  {
+    "id": "116954623645571071",
+    "status": "coded"
+  },
+  {
+    "id": "116975606621428184",
+    "status": "coded"
+  },
+  {
+    "id": "116976024406805765",
+    "status": "coded"
+  },
+  {
+    "id": "116976043318889040",
+    "status": "coded"
+  },
+  {
+    "id": "116997933680774362",
+    "status": "excluded",
+    "reason": "Link only"
+  },
+  {
+    "id": "117011270507732212",
+    "status": "coded"
+  },
+  {
+    "id": "117016403652131870",
+    "status": "coded"
+  },
+  {
+    "id": "117068101532228577",
+    "status": "excluded",
+    "reason": "Shared headline"
+  },
+  {
+    "id": "117107211893196124",
+    "status": "coded"
+  },
+  {
+    "id": "117155941181023687",
+    "status": "excluded",
+    "reason": "French Canadians, not France"
+  },
+  {
+    "id": "117174460287995644",
+    "status": "excluded",
+    "reason": "Shared headline"
+  },
+  {
+    "id": "117176267544455545",
+    "status": "coded"
+  },
+  {
+    "id": "117207687594983323",
+    "status": "coded"
+  },
+  {
+    "id": "117221246252501141",
+    "status": "coded"
+  },
+  {
+    "id": "117227006754823934",
+    "status": "excluded",
+    "reason": "Shared headline"
+  },
+  {
+    "id": "117230133235298185",
+    "status": "excluded",
+    "reason": "Attributed historical art description"
+  },
+  {
+    "id": "117231833977439431",
+    "status": "excluded",
+    "reason": "Italian American community"
+  },
+  {
+    "id": "117238047671794766",
+    "status": "coded"
+  },
+  {
+    "id": "117270591511950591",
+    "status": "coded"
+  },
+  {
+    "id": "117287545147440255",
+    "status": "coded"
+  },
+  {
+    "id": "117294126158197822",
+    "status": "coded"
+  },
+  {
+    "id": "117323148147220269",
+    "status": "coded"
+  },
+  {
+    "id": "117371677010048663",
+    "status": "coded"
+  },
+  {
+    "id": "117382615512488588",
+    "status": "excluded",
+    "reason": "US envoy nomination, Eastern Europe geography"
+  },
+  {
+    "id": "117394656543560911",
+    "status": "coded"
+  },
+  {
+    "id": "117403103962951852",
+    "status": "coded"
+  },
+  {
+    "id": "117414533410378018",
+    "status": "coded"
+  },
+  {
+    "id": "117422767694140491",
+    "status": "coded"
+  }
+]

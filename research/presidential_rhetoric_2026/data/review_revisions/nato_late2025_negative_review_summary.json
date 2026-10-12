@@ -1,0 +1,106 @@
+{
+  "entity_adverse_rows": 133,
+  "class_counts": {
+    "contextual_or_inferred": 31,
+    "clear_actor_or_policy_judgment": 89,
+    "request_or_pressure_only": 13
+  },
+  "pressure_only_inventory": [
+    {
+      "document_id": "DCPD-202500755",
+      "target": "Europe (unspecified)",
+      "primary_valence": "criticism",
+      "reason": "Says the US should have given less than Europe; evaluates allocation and asks for equalization, without an independent negative European appraisal."
+    },
+    {
+      "document_id": "DCPD-202500762",
+      "target": "Europe (unspecified)",
+      "primary_valence": "criticism",
+      "reason": "They should pay more than the US is a burden-sharing demand; no independent negative actor characterization."
+    },
+    {
+      "document_id": "DCPD-202500802",
+      "target": "NATO",
+      "primary_valence": "mixed",
+      "reason": "Should be the opposite way is an allocation preference; no independent negative NATO appraisal in this record."
+    },
+    {
+      "document_id": "DCPD-202500838",
+      "target": "Europe (unspecified)",
+      "primary_valence": "mixed",
+      "reason": "It should be the opposite is an aid-allocation preference; positive leader appraisals coexist."
+    },
+    {
+      "document_id": "DCPD-202500841",
+      "target": "Europe (unspecified)",
+      "primary_valence": "mixed",
+      "reason": "It should be much more than that and equalization are funding demands; record praises European leaders directly."
+    },
+    {
+      "document_id": "DCPD-202500850",
+      "target": "Europe (unspecified)",
+      "primary_valence": "criticism",
+      "reason": "US should not spend more is a policy-allocation complaint rather than a direct European actor judgment."
+    },
+    {
+      "document_id": "DCPD-202500934",
+      "target": "NATO",
+      "primary_valence": "criticism",
+      "reason": "Only asks Whitaker to make them stop buying Russian oil; no additional negative judgment of NATO."
+    },
+    {
+      "document_id": "DCPD-202501009",
+      "target": "Spain",
+      "primary_valence": "criticism",
+      "reason": "Asks colleagues to work on Spanish GDP contribution; no independent explicit negative actor evaluation in this document."
+    },
+    {
+      "document_id": "DCPD-202501211",
+      "target": "Europe (unspecified)",
+      "primary_valence": "criticism",
+      "reason": "Conditional tariffs if European countries do not follow UK pricing action; no independent negative regional appraisal."
+    },
+    {
+      "document_id": "DCPD-202501211",
+      "target": "France",
+      "primary_valence": "criticism",
+      "reason": "Price-setting facts and countries as negotiation problem, followed by a tariff threat; no explicit negative judgment of France itself."
+    },
+    {
+      "document_id": "DCPD-202501211",
+      "target": "Germany",
+      "primary_valence": "criticism",
+      "reason": "Price-setting facts and countries as negotiation problem, followed by a tariff threat; no explicit negative judgment of Germany itself."
+    },
+    {
+      "document_id": "DCPD-202501211",
+      "target": "Spain",
+      "primary_valence": "criticism",
+      "reason": "Price-setting facts and countries as negotiation problem, followed by a tariff threat; no explicit negative judgment of Spain itself."
+    },
+    {
+      "document_id": "DCPD-202501214",
+      "target": "Emmanuel Macron",
+      "primary_valence": "praise",
+      "reason": "Coercive policy attached to this target, but no negative actor appraisal; primary valence remains positive/neutral."
+    },
+    {
+      "document_id": "DCPD-202501217",
+      "target": "Emmanuel Macron",
+      "primary_valence": "praise",
+      "reason": "Coercive policy attached to this target, but no negative actor appraisal; primary valence remains positive/neutral."
+    },
+    {
+      "document_id": "DCPD-202501217",
+      "target": "France",
+      "primary_valence": "criticism",
+      "reason": "Threat to tariff France if drug prices do not rise; recounted refusal/negotiating obstacle, without a separate negative country appraisal."
+    },
+    {
+      "document_id": "DCPD-202501217",
+      "target": "Greenland",
+      "primary_valence": "neutral",
+      "reason": "Coercive policy attached to this target, but no negative actor appraisal; primary valence remains positive/neutral."
+    }
+  ]
+}

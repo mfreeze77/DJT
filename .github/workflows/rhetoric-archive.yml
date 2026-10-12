@@ -1,0 +1,33 @@
+name: Presidential rhetoric archive
+
+on:
+  pull_request:
+    paths:
+      - 'research/presidential_rhetoric_2026/**'
+      - '.github/workflows/rhetoric-archive.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'research/presidential_rhetoric_2026/**'
+      - '.github/workflows/rhetoric-archive.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify-archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    defaults:
+      run:
+        working-directory: research/presidential_rhetoric_2026
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate archive and withheld-comparison safeguards
+        run: python -m unittest discover -s tests -v
+      - name: Reproduce frozen official sources without source network access
+        run: python scripts/verify_official_snapshot.py

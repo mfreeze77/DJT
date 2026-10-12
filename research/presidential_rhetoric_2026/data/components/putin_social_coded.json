@@ -1,0 +1,1708 @@
+[
+  {
+    "id": "117412435306815143",
+    "date": "2026-10-09",
+    "created_at": "2026-10-09T18:46:23.661000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/117412435306815143",
+    "target": "Putin_personal",
+    "positive": false,
+    "negative": false,
+    "polarity": "neutral",
+    "positive_subtypes": "",
+    "negative_severity": "",
+    "context_tag": "neutral_reporting",
+    "evidence": "highly successful discussion with President Vladimir Putin",
+    "note": "Praise of discussion/outcome, not a personal assessment; announced Russian diesel supply.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": false,
+    "packet_index": 2,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": false,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": true,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "117077744957374868",
+    "date": "2026-08-11",
+    "created_at": "2026-08-11T16:10:14.217000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/117077744957374868",
+    "target": "Putin_personal",
+    "positive": false,
+    "negative": false,
+    "polarity": "neutral",
+    "positive_subtypes": "",
+    "negative_severity": "",
+    "context_tag": "neutral_reporting",
+    "evidence": "After my discussions with President Vladimir Putin, Russia has agreed to release him",
+    "note": "Thanks is explicitly for Russia’s decision; no personal credit/praise assigned to Putin under strict target attribution. Russia-state conduct praise retained separately.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": false,
+    "packet_index": 22,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": true,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-august-11-2026"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": false,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "116975606621428184",
+    "date": "2026-07-24",
+    "created_at": "2026-07-24T15:15:06.894000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/116975606621428184",
+    "target": "Putin_personal",
+    "positive": true,
+    "negative": true,
+    "polarity": "mixed",
+    "positive_subtypes": "current_affinity",
+    "negative_severity": "coercive_threat",
+    "context_tag": "substantive_evaluation",
+    "evidence": "The relationship remains | If they did, it would be very bad for them",
+    "note": "Affirms ongoing relationship with Putin; conditional warning jointly addresses Xi/Putin countries supplying arms to Iran. Personal versus state threat attribution flagged.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": true,
+    "packet_index": 25,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": true,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-july-24-2026"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": false,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "116540259118606629",
+    "date": "2026-05-08",
+    "created_at": "2026-05-08T18:00:31.180000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/116540259118606629",
+    "target": "Putin_personal",
+    "positive": true,
+    "negative": false,
+    "polarity": "positive",
+    "positive_subtypes": "moral_or_conduct_praise",
+    "negative_severity": "",
+    "context_tag": "substantive_evaluation",
+    "evidence": "I very much appreciate its agreement by President Vladimir Putin and President Volodymyr Zelenskyy",
+    "note": "Thanks explicitly for agreeing to ceasefire and prisoner swap.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": true,
+    "current_affinity": false,
+    "packet_index": 36,
+    "source_duplicate_dcpd": [
+      "DCPD-202600328"
+    ],
+    "ambiguity_flag": false,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-may-8-2026"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": false,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "115798213364038844",
+    "date": "2025-12-28",
+    "created_at": "2025-12-28T16:48:31.580000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/115798213364038844",
+    "target": "Putin_personal",
+    "positive": false,
+    "negative": false,
+    "polarity": "neutral",
+    "positive_subtypes": "",
+    "negative_severity": "",
+    "context_tag": "neutral_reporting",
+    "evidence": "a good and very productive telephone call with President Putin",
+    "note": "Meeting appraisal only.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": false,
+    "packet_index": 57,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": false,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-december-28-2025"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": true,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "115612007398266637",
+    "date": "2025-11-25",
+    "created_at": "2025-11-25T19:33:53.985000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/115612007398266637",
+    "target": "Putin_personal",
+    "positive": false,
+    "negative": false,
+    "polarity": "neutral",
+    "positive_subtypes": "",
+    "negative_severity": "",
+    "context_tag": "neutral_reporting",
+    "evidence": "I look forward to hopefully meeting with President Zelenskyy and President Putin soon",
+    "note": "Scheduling contingent on final peace deal.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": false,
+    "packet_index": 65,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": false,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-november-25-2025"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": false,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "115599428464496784",
+    "date": "2025-11-23",
+    "created_at": "2025-11-23T14:14:54.688000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/115599428464496784",
+    "target": "Putin_personal",
+    "positive": false,
+    "negative": false,
+    "polarity": "neutral",
+    "positive_subtypes": "",
+    "negative_severity": "",
+    "context_tag": "neutral_reporting",
+    "evidence": "Putin would never have attacked! It was only when he saw Sleepy Joe in action",
+    "note": "Counterfactual blame directed to Biden/Ukraine leadership; attack attribution preserved but no explicit personal judgment of Putin. Borderline aggression attribution.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": false,
+    "packet_index": 68,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": true,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-november-23-2025"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": false,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "115391463725537040",
+    "date": "2025-10-17",
+    "created_at": "2025-10-17T20:46:44.599000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/115391463725537040",
+    "target": "Putin_personal",
+    "positive": false,
+    "negative": true,
+    "polarity": "negative",
+    "positive_subtypes": "",
+    "negative_severity": "mild_disagreement",
+    "context_tag": "policy_grievance",
+    "evidence": "I likewise strongly suggested to President Putin, that it is time to stop the killing, and make a DEAL!",
+    "note": "Direct admonition to Putin and Zelenskyy.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": false,
+    "packet_index": 80,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": false,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-october-17-2025"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": false,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "115384956858741387",
+    "date": "2025-10-16",
+    "created_at": "2025-10-16T17:11:57.691000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/115384956858741387",
+    "target": "Putin_personal",
+    "positive": false,
+    "negative": false,
+    "polarity": "neutral",
+    "positive_subtypes": "",
+    "negative_severity": "",
+    "context_tag": "neutral_reporting",
+    "evidence": "President Putin congratulated me | President Putin thanked the First Lady",
+    "note": "Reports Putin’s praise/thanks to Trump family and meeting progress, not praise of Putin.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": false,
+    "packet_index": 81,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": false,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-october-16-2025"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": true,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "115384523296720119",
+    "date": "2025-10-16",
+    "created_at": "2025-10-16T15:21:42.061000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/115384523296720119",
+    "target": "Putin_personal",
+    "positive": false,
+    "negative": false,
+    "polarity": "neutral",
+    "positive_subtypes": "",
+    "negative_severity": "",
+    "context_tag": "neutral_reporting",
+    "evidence": "I am speaking to President Putin now",
+    "note": "Scheduling.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": false,
+    "packet_index": 82,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": false,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-october-16-2025"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": false,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "115350523979849543",
+    "date": "2025-10-10",
+    "created_at": "2025-10-10T15:15:13.661000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/115350523979849543",
+    "target": "Putin_personal",
+    "positive": true,
+    "negative": false,
+    "polarity": "positive",
+    "positive_subtypes": "ceremonial_courtesy",
+    "negative_severity": "",
+    "context_tag": "ceremonial_greeting",
+    "evidence": "Thank you to President Putin!",
+    "note": "Post text supplies no reason. Attached video must be checked before interpreting as specific conduct praise.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": false,
+    "packet_index": 83,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": true,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-october-10-2025"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": false,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "115255130298104593",
+    "date": "2025-09-23",
+    "created_at": "2025-09-23T18:55:21.627000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/115255130298104593",
+    "target": "Putin_personal",
+    "positive": false,
+    "negative": false,
+    "polarity": "neutral",
+    "positive_subtypes": "",
+    "negative_severity": "",
+    "context_tag": "neutral_reporting",
+    "evidence": "Putin and Russia are in BIG Economic trouble",
+    "note": "Economic condition and Russia-state military criticism, not personal character or conduct judgment; do not transfer paper-tiger epithet to Putin.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": false,
+    "packet_index": 87,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": false,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-september-23-2025"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": false,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "115137717177283585",
+    "date": "2025-09-02",
+    "created_at": "2025-09-03T01:15:39.587000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/115137717177283585",
+    "target": "Putin_personal",
+    "positive": false,
+    "negative": true,
+    "polarity": "negative",
+    "positive_subtypes": "",
+    "negative_severity": "substantive_condemnation",
+    "context_tag": "substantive_evaluation",
+    "evidence": "Please give my warmest regards to Vladimir Putin, and Kim Jong Un, as you conspire against The United States of America.",
+    "note": "Sarcastic regards are not positive. Accuses participants including Putin of conspiring against United States.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": false,
+    "packet_index": 96,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": false,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-september-2-2025"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": false,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "115052030103944534",
+    "date": "2025-08-18",
+    "created_at": "2025-08-18T22:04:18.561000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/115052030103944534",
+    "target": "Putin_personal",
+    "positive": false,
+    "negative": false,
+    "polarity": "neutral",
+    "positive_subtypes": "",
+    "negative_severity": "",
+    "context_tag": "neutral_reporting",
+    "evidence": "I called President Putin, and began the arrangements for a meeting",
+    "note": "Scheduling.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": false,
+    "packet_index": 103,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": false,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-august-18-2025"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": false,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "115047099758548722",
+    "date": "2025-08-17",
+    "created_at": "2025-08-18T01:10:27.462000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/115047099758548722",
+    "target": "Putin_personal",
+    "positive": false,
+    "negative": false,
+    "polarity": "neutral",
+    "positive_subtypes": "",
+    "negative_severity": "",
+    "context_tag": "neutral_reporting",
+    "evidence": "Actually, it was very hard for President Putin to do so",
+    "note": "Rejects critics of summit; no personal praise.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": false,
+    "packet_index": 108,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": false,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-august-17-2025"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": false,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "115046837910548412",
+    "date": "2025-08-17",
+    "created_at": "2025-08-18T00:03:51.979000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/115046837910548412",
+    "target": "Putin_personal",
+    "positive": false,
+    "negative": false,
+    "polarity": "neutral",
+    "positive_subtypes": "",
+    "negative_severity": "",
+    "context_tag": "neutral_reporting",
+    "evidence": "he would have loved doing the meeting anywhere else but the U.S.",
+    "note": "Defense of summit location, no personal praise.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": false,
+    "packet_index": 109,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": false,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-august-17-2025"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": false,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "115037569702889410",
+    "date": "2025-08-16",
+    "created_at": "2025-08-16T08:46:50.403000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/115037569702889410",
+    "target": "Putin_personal",
+    "positive": false,
+    "negative": false,
+    "polarity": "neutral",
+    "positive_subtypes": "",
+    "negative_severity": "",
+    "context_tag": "neutral_reporting",
+    "evidence": "The meeting with President Vladimir Putin of Russia went very well",
+    "note": "Meeting appraisal only; highly respected phrase targets NATO secretary general.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": false,
+    "packet_index": 112,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": false,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-august-16-2025"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": true,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "115033133751064517",
+    "date": "2025-08-15",
+    "created_at": "2025-08-15T13:58:43.144000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/115033133751064517",
+    "target": "Putin_personal",
+    "positive": false,
+    "negative": false,
+    "polarity": "neutral",
+    "positive_subtypes": "",
+    "negative_severity": "",
+    "context_tag": "neutral_reporting",
+    "evidence": "We discussed many topics, including President Putin’s visit to Alaska",
+    "note": "Praise targets Lukashenko, not Putin.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": false,
+    "packet_index": 113,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": false,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-august-15-2025"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": false,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "115021272837599192",
+    "date": "2025-08-13",
+    "created_at": "2025-08-13T11:42:19.924000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/115021272837599192",
+    "target": "Putin_personal",
+    "positive": false,
+    "negative": false,
+    "polarity": "neutral",
+    "positive_subtypes": "",
+    "negative_severity": "",
+    "context_tag": "neutral_reporting",
+    "evidence": "my meeting with Putin | Putin has already won",
+    "note": "Second phrase attributed to Bolton and disputed.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": false,
+    "packet_index": 117,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": false,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-august-13-2025"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": false,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "114995403653615328",
+    "date": "2025-08-08",
+    "created_at": "2025-08-08T22:03:27.502000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/114995403653615328",
+    "target": "Putin_personal",
+    "positive": false,
+    "negative": false,
+    "polarity": "neutral",
+    "positive_subtypes": "",
+    "negative_severity": "",
+    "context_tag": "neutral_reporting",
+    "evidence": "The highly anticipated meeting between myself, as President of the United States of America, and President Vladimir Putin, of Russia",
+    "note": "Scheduling.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": false,
+    "packet_index": 118,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": false,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-august-8-2025"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": false,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "114982898525988419",
+    "date": "2025-08-06",
+    "created_at": "2025-08-06T17:03:14.399000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/114982898525988419",
+    "target": "Putin_personal",
+    "positive": false,
+    "negative": false,
+    "polarity": "neutral",
+    "positive_subtypes": "",
+    "negative_severity": "",
+    "context_tag": "neutral_reporting",
+    "evidence": "a highly productive meeting with Russian President Vladimir Putin",
+    "note": "Meeting appraisal, no personal judgment.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": false,
+    "packet_index": 119,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": false,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-august-6-2025"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": true,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "114789577865630441",
+    "date": "2025-07-03",
+    "created_at": "2025-07-03T13:39:15.224000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/114789577865630441",
+    "target": "Putin_personal",
+    "positive": false,
+    "negative": false,
+    "polarity": "neutral",
+    "positive_subtypes": "",
+    "negative_severity": "",
+    "context_tag": "neutral_reporting",
+    "evidence": "Will be speaking to President Putin of Russia at 10:00 A.M.",
+    "note": "Scheduling.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": false,
+    "packet_index": 143,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": false,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-july-3-2025"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": false,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "114733373791627444",
+    "date": "2025-06-23",
+    "created_at": "2025-06-23T15:25:49Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/posts/114733373791627444",
+    "target": "Putin_personal",
+    "positive": true,
+    "negative": false,
+    "polarity": "positive",
+    "positive_subtypes": "competence_praise",
+    "negative_severity": "",
+    "context_tag": "substantive_evaluation",
+    "evidence": "I guess that’s why Putin’s “THE BOSS.”",
+    "note": "Implicit favorable comparison with Medvedev’s nuclear rhetoric. Borderline indirect praise; remove in strict literal sensitivity. Earlier deleted/edited duplicate preserved by Roll Call; CNN-only later version excluded by normalized duplicate cluster.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": true,
+    "current_affinity": false,
+    "packet_index": 145,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": true,
+    "sources": [
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": false,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "114683261634430212",
+    "date": "2025-06-14",
+    "created_at": "2025-06-14T19:01:38.279000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/114683261634430212",
+    "target": "Putin_personal",
+    "positive": true,
+    "negative": true,
+    "polarity": "mixed",
+    "positive_subtypes": "ceremonial_courtesy",
+    "negative_severity": "mild_disagreement",
+    "context_tag": "substantive_evaluation",
+    "evidence": "very nicely wish me a Happy Birthday | I explained, his war should also end",
+    "note": "Birthday courtesy; direct admonition to end his war. Planned prisoner exchange stated as fact, not explicitly praised.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": false,
+    "packet_index": 147,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": true,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-june-14-2025"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": false,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "114626083142393611",
+    "date": "2025-06-04",
+    "created_at": "2025-06-04T16:40:23.731000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/114626083142393611",
+    "target": "Putin_personal",
+    "positive": false,
+    "negative": false,
+    "polarity": "neutral",
+    "positive_subtypes": "",
+    "negative_severity": "",
+    "context_tag": "neutral_reporting",
+    "evidence": "It was a good conversation, but not a conversation that will lead to immediate Peace",
+    "note": "No personal judgment; possible Iran help explicitly attributed to Putin’s suggestion. Earlier of two exact posts.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": false,
+    "packet_index": 152,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": false,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": true,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "114580564427808609",
+    "date": "2025-05-27",
+    "created_at": "2025-05-27T15:44:23.267000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/114580564427808609",
+    "target": "Putin_personal",
+    "positive": false,
+    "negative": true,
+    "polarity": "negative",
+    "positive_subtypes": "",
+    "negative_severity": "coercive_threat",
+    "context_tag": "policy_grievance",
+    "evidence": "He’s playing with fire!",
+    "note": "Unspecified coercive warning; Russia bad consequences linked directly to Putin.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": false,
+    "packet_index": 154,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": false,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-may-27-2025"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": false,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "114571369956761390",
+    "date": "2025-05-25",
+    "created_at": "2025-05-26T00:46:06.770000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/114571369956761390",
+    "target": "Putin_personal",
+    "positive": false,
+    "negative": true,
+    "polarity": "negative",
+    "positive_subtypes": "",
+    "negative_severity": "personal_insult;substantive_condemnation",
+    "context_tag": "substantive_evaluation",
+    "evidence": "He has gone absolutely CRAZY! | He is needlessly killing a lot of people",
+    "note": "Previous affinity explicitly withdrawn; no present positive. Includes civilian attacks and shared incompetence/hatred blame.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": false,
+    "packet_index": 155,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": false,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-may-25-2025"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": false,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "114535693441367601",
+    "date": "2025-05-19",
+    "created_at": "2025-05-19T17:33:06.392000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/114535693441367601",
+    "target": "Putin_personal",
+    "positive": false,
+    "negative": false,
+    "polarity": "neutral",
+    "positive_subtypes": "",
+    "negative_severity": "",
+    "context_tag": "neutral_reporting",
+    "evidence": "The tone and spirit of the conversation were excellent",
+    "note": "Conversation appraisal; positive economic potential targets Russia state. Duplicate DCPD-202500616.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": false,
+    "packet_index": 157,
+    "source_duplicate_dcpd": [
+      "DCPD-202500616"
+    ],
+    "ambiguity_flag": false,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-may-19-2025"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": true,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "114523762104941397",
+    "date": "2025-05-17",
+    "created_at": "2025-05-17T14:58:48.603000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/114523762104941397",
+    "target": "Putin_personal",
+    "positive": false,
+    "negative": false,
+    "polarity": "neutral",
+    "positive_subtypes": "",
+    "negative_severity": "",
+    "context_tag": "neutral_reporting",
+    "evidence": "I WILL BE SPEAKING ... TO PRESIDENT VLADIMIR PUTIN",
+    "note": "Scheduling and hoped ceasefire.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": false,
+    "packet_index": 158,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": false,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-may-17-2025"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": false,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "114490093180275292",
+    "date": "2025-05-11",
+    "created_at": "2025-05-11T16:16:21.630000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/114490093180275292",
+    "target": "Putin_personal",
+    "positive": false,
+    "negative": true,
+    "polarity": "negative",
+    "positive_subtypes": "",
+    "negative_severity": "mild_disagreement",
+    "context_tag": "policy_grievance",
+    "evidence": "Putin, who’s too busy celebrating the Victory of World War ll",
+    "note": "Criticizes preoccupation with Victory Day; endorsing meeting proposal alone is not personal praise.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": false,
+    "packet_index": 159,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": false,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-may-11-2025"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": false,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "114404524335638236",
+    "date": "2025-04-26",
+    "created_at": "2025-04-26T13:35:04.678000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/114404524335638236",
+    "target": "Putin_personal",
+    "positive": false,
+    "negative": true,
+    "polarity": "negative",
+    "positive_subtypes": "",
+    "negative_severity": "substantive_condemnation;coercive_threat",
+    "context_tag": "policy_grievance",
+    "evidence": "no reason for Putin to be shooting missiles into civilian areas | he’s just tapping me along",
+    "note": "Criticizes civilian strikes and possible stalling; raises banking/secondary sanctions conditionally.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": false,
+    "packet_index": 165,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": false,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-april-26-2025"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": false,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "114392923237368367",
+    "date": "2025-04-24",
+    "created_at": "2025-04-24T12:24:45.921000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/114392923237368367",
+    "target": "Putin_personal",
+    "positive": false,
+    "negative": true,
+    "polarity": "negative",
+    "positive_subtypes": "",
+    "negative_severity": "mild_disagreement;substantive_condemnation",
+    "context_tag": "policy_grievance",
+    "evidence": "I am not happy with the Russian strikes on KYIV. Not necessary | Vladimir, STOP!",
+    "note": "Direct first-name address identifies Putin; criticism of needless attacks.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": false,
+    "packet_index": 168,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": false,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-april-24-2025"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": false,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "114336723764365914",
+    "date": "2025-04-14",
+    "created_at": "2025-04-14T14:12:30.017000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/114336723764365914",
+    "target": "Putin_personal",
+    "positive": false,
+    "negative": false,
+    "polarity": "neutral",
+    "positive_subtypes": "",
+    "negative_severity": "",
+    "context_tag": "neutral_reporting",
+    "evidence": "President Putin, and everyone else, respected your President!",
+    "note": "Boast about Trump deterrence, not positive Putin assessment.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": false,
+    "packet_index": 171,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": false,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-april-14-2025"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": false,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "114189841352600682",
+    "date": "2025-03-19",
+    "created_at": "2025-03-19T15:38:22.279000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/114189841352600682",
+    "target": "Putin_personal",
+    "positive": false,
+    "negative": false,
+    "polarity": "neutral",
+    "positive_subtypes": "",
+    "negative_severity": "",
+    "context_tag": "neutral_reporting",
+    "evidence": "call made yesterday with President Putin",
+    "note": "Reports alignment of needs after Zelenskyy call.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": false,
+    "packet_index": 178,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": false,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-march-19-2025"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": false,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "114184931453780675",
+    "date": "2025-03-18",
+    "created_at": "2025-03-18T18:49:43.170000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/114184931453780675",
+    "target": "Putin_personal",
+    "positive": true,
+    "negative": false,
+    "polarity": "positive",
+    "positive_subtypes": "favorable_intention",
+    "negative_severity": "",
+    "context_tag": "negotiation_expectation",
+    "evidence": "both President Putin and President Zelenskyy would like to see it end",
+    "note": "Affirmed desire to end war; separate from strict competence/conduct praise.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": false,
+    "packet_index": 179,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": false,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-march-18-2025"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": true,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "114180129350673750",
+    "date": "2025-03-17",
+    "created_at": "2025-03-17T22:28:28.890000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/114180129350673750",
+    "target": "Putin_personal",
+    "positive": false,
+    "negative": false,
+    "polarity": "neutral",
+    "positive_subtypes": "",
+    "negative_severity": "",
+    "context_tag": "neutral_reporting",
+    "evidence": "I look very much forward to the call with President Putin",
+    "note": "Scheduling.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": false,
+    "packet_index": 180,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": false,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-march-17-2025"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": false,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "114167524244753377",
+    "date": "2025-03-15",
+    "created_at": "2025-03-15T17:02:50.239000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/114167524244753377",
+    "target": "Putin_personal",
+    "positive": true,
+    "negative": false,
+    "polarity": "positive",
+    "positive_subtypes": "defense",
+    "negative_severity": "",
+    "context_tag": "substantive_evaluation",
+    "evidence": "there was no wait whatsoever",
+    "note": "Defends Putin against reported mistreatment of Witkoff; separate from strict praise.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": false,
+    "packet_index": 181,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": false,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-march-15-2025"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": false,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "114161039436456514",
+    "date": "2025-03-14",
+    "created_at": "2025-03-14T13:33:39.916000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/114161039436456514",
+    "target": "Putin_personal",
+    "positive": false,
+    "negative": false,
+    "polarity": "neutral",
+    "positive_subtypes": "",
+    "negative_severity": "",
+    "context_tag": "negotiation_expectation",
+    "evidence": "I have strongly requested to President Putin that their lives be spared",
+    "note": "Conditional potential massacre, not accusation it has happened; productive talks appraisal only.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": false,
+    "packet_index": 183,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": false,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-march-14-2025"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": true,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "114098529870362771",
+    "date": "2025-03-03",
+    "created_at": "2025-03-03T12:36:39.682000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/114098529870362771",
+    "target": "Putin_personal",
+    "positive": false,
+    "negative": false,
+    "polarity": "neutral",
+    "positive_subtypes": "",
+    "negative_severity": "",
+    "context_tag": "neutral_reporting",
+    "evidence": "gave none of Ukraine’s land to Putin’s Russia",
+    "note": "Boast about Trump deterrence.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": false,
+    "packet_index": 190,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": false,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-march-3-2025"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": false,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "114096104536926329",
+    "date": "2025-03-02",
+    "created_at": "2025-03-03T02:19:51.981000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/114096104536926329",
+    "target": "Putin_personal",
+    "positive": false,
+    "negative": false,
+    "polarity": "neutral",
+    "positive_subtypes": "",
+    "negative_severity": "",
+    "context_tag": "neutral_reporting",
+    "evidence": "spend less time worrying about Putin",
+    "note": "Relative prioritization, not express positive personal assessment.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": false,
+    "packet_index": 191,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": false,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-march-2-2025"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": false,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "114059930426328863",
+    "date": "2025-02-24",
+    "created_at": "2025-02-24T17:00:18.864000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/114059930426328863",
+    "target": "Putin_personal",
+    "positive": false,
+    "negative": false,
+    "polarity": "neutral",
+    "positive_subtypes": "",
+    "negative_severity": "",
+    "context_tag": "neutral_reporting",
+    "evidence": "serious discussions with President Vladimir Putin",
+    "note": "Talks appraisal.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": false,
+    "packet_index": 192,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": false,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-february-24-2025"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": true,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "113992264519415084",
+    "date": "2025-02-12",
+    "created_at": "2025-02-12T18:11:59.063000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/113992264519415084",
+    "target": "Putin_personal",
+    "positive": true,
+    "negative": false,
+    "polarity": "positive",
+    "positive_subtypes": "favorable_intention",
+    "negative_severity": "",
+    "context_tag": "negotiation_expectation",
+    "evidence": "He, like President Putin, wants to make PEACE",
+    "note": "Affirmed desire for peace, separate from strict praise.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": false,
+    "packet_index": 200,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": false,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-february-12-2025"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": false,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "113991956474899296",
+    "date": "2025-02-12",
+    "created_at": "2025-02-12T16:53:38.679000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/113991956474899296",
+    "target": "Putin_personal",
+    "positive": true,
+    "negative": false,
+    "polarity": "positive",
+    "positive_subtypes": "moral_or_conduct_praise;favorable_intention;ceremonial_courtesy",
+    "negative_severity": "",
+    "context_tag": "substantive_evaluation",
+    "evidence": "thank President Putin ... for the release ... of Marc Fogel | we both agreed, we want to stop the millions of deaths",
+    "note": "Specific release thanks = conduct praise; time/effort courtesy and affirmed intention separate. Duplicate DCPD-202500257.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": true,
+    "current_affinity": false,
+    "packet_index": 201,
+    "source_duplicate_dcpd": [
+      "DCPD-202500257"
+    ],
+    "ambiguity_flag": false,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-february-12-2025"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": true,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  },
+  {
+    "id": "113872782548137314",
+    "date": "2025-01-22",
+    "created_at": "2025-01-22T15:46:08.868000Z",
+    "title": "Truth Social post",
+    "url": "https://truthsocial.com/@realDonaldTrump/113872782548137314",
+    "target": "Putin_personal",
+    "positive": true,
+    "negative": true,
+    "polarity": "mixed",
+    "positive_subtypes": "current_affinity",
+    "negative_severity": "coercive_threat",
+    "context_tag": "policy_grievance",
+    "evidence": "always had a very good relationship with President Putin | high levels of Taxes, Tariffs, and Sanctions",
+    "note": "Affinity is not explicitly withdrawn. Coercive deal ultimatum jointly addresses Russia and Putin; personal/state attribution sensitivity.",
+    "verification": "AI semantic review of full account text; no human review. Source metadata and APP cross-archive validation; no media transcription.",
+    "corpus": "Truth Social CNN text candidate census; excludes media interpretation",
+    "strict_praise": false,
+    "current_affinity": true,
+    "packet_index": 204,
+    "source_duplicate_dcpd": [],
+    "ambiguity_flag": true,
+    "sources": [
+      {
+        "source": "cnn",
+        "url": "https://ix.cnn.io/data/truth-social/truth_archive.json"
+      },
+      {
+        "source": "app",
+        "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-january-22-2025"
+      },
+      {
+        "source": "rollcall",
+        "url": "https://rollcall.com/factbase/topic/assets/?platform=truth+social"
+      }
+    ],
+    "communication_quality_positive": false,
+    "interpretation_status": "FIRST_PASS; consult review_revisions before comparative use"
+  }
+]
