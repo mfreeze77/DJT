@@ -24,6 +24,8 @@ Circumstantial evidence is evaluated cumulatively. Timing or association alone i
 
 ## Current synthesis and integrity controls
 
+- [Evidence modernization: inventory, source-preserving exchange, and Chapter 4 review pilot](research/evidence_modernization/README.md) — executable migration tools, full coverage and malformed-row queues, real Matter observation-input adapter, PDF capture, correction-aware story review, and the implementation roadmap. Imported assertions remain unreviewed; the V-Flow research-source integration is a separate explicit milestone.
+
 - [VEB / A7 / Trump Toronto evidence-ranked crosswalk (October 2026)](research/veb_a7_2026/README.md) — original Toronto receivership references, A7 source lineage, financial-claim safeguards, machine-readable ledgers and records plan. **Shared VEB does not establish a continuous money trail.**
 
 

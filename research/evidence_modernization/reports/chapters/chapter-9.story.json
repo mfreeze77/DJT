@@ -1,0 +1,21 @@
+{
+  "capture_policy": "optional",
+  "claim_ids": [
+    "djt:claim:64babc7e6a87e154d4b2929b860a6d5bb4471ca5aa60eee6786253660db16106",
+    "djt:claim:640941a4dcf68d383d5d05d19e2a7693896a915e9bac162b1de5298684ddf8a8",
+    "djt:claim:96c8bec1a692a4c507c9c367f91451abb4ed69ca22395937fa50085d2ae1ac45",
+    "djt:claim:aa8a01dac521fd3723065fdf63b566c188841ff00104af4b5cb291fbd80530f9",
+    "djt:claim:84e2e1bb7e0c031c685814b40af38c3b48c7348d39d28f55eb73398db803c58e",
+    "djt:claim:4cc510a491797745300e2694a42cdf03ed3e1a0551d207730299f244cf4d9bff",
+    "djt:claim:9d327eed3d4dd0633b26df61957355e740edda1a99f8e8bedd870b349d9a7df2",
+    "djt:claim:cf4f9d2f1fe9cde80845ca73b1889cb9719841dae8daba1d7172c39b3e8c787e",
+    "djt:claim:19b2cec6173d4cd6c8c2d8f3cebb1eafec3d71c12f2a7f86f5caf6dc4da181b1",
+    "djt:claim:0319d5cb241d74d777bc470e2643027625eeaf1096dc42b01778bd51f1cd1aa3",
+    "djt:claim:931ba8840c9c75680f933af4121da3555a02c648b84e92af0bd625331e896f28"
+  ],
+  "id": "djt-chapter-9-review",
+  "narrative_question": "Which assertions recorded in Chapter 9 have supporting sources, material counterevidence, and unresolved limitations that must be carried into a future story?",
+  "schema_version": "djt-story/1.0",
+  "target_duration_seconds": 1800,
+  "title": "Research review: Chapter 9 evidence collection"
+}

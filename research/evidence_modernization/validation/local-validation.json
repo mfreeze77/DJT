@@ -1,0 +1,102 @@
+{
+  "baseline_source_revision": "d5f1b11a0500d5d577f4553d7e6d13a0aa69e494",
+  "baseline_worktree_preservation": {
+    "baseline_files": 465,
+    "byte_identical_files": 464,
+    "intentionally_modified": [
+      "README.md"
+    ],
+    "reason": "Add navigation to the new modernization entrypoint."
+  },
+  "dependencies": {
+    "PyMuPDF": "1.26.6",
+    "jsonschema": "4.26.0",
+    "matter-foundation": "0.1.0.dev11"
+  },
+  "errors": 0,
+  "execution_logs": [
+    {
+      "byte_count": 23,
+      "path": "inherited-accounting.log",
+      "sha256": "f88306a1747b894d16621ae62455a8b1aa9b0116b8d040d3948ed0406cba7eeb"
+    },
+    {
+      "byte_count": 143,
+      "path": "inherited-corpus-tax.log",
+      "sha256": "1d31af434f25069120548cc79c6085298d93c40d2670a17f430ba36d64ad47ae"
+    },
+    {
+      "byte_count": 125,
+      "path": "inherited-evidence.log",
+      "sha256": "3c6b1ffa46fc837024002f481d1b12af6b9cb39a26c0790f6ccffedb8adbaa6b"
+    },
+    {
+      "byte_count": 133,
+      "path": "inherited-followup.log",
+      "sha256": "59dc8eb9a47e321a19e4b5dab188d56ac198aa7a2709473f564a369fb7a6080a"
+    },
+    {
+      "byte_count": 7764,
+      "path": "inherited-node-tests.log",
+      "sha256": "1b9ef9cf9c06c1a25e8eb80c8b16d091eea08174d29fcafe6384b6c0609814e3"
+    },
+    {
+      "byte_count": 111,
+      "path": "inherited-python-tests.log",
+      "sha256": "72f09eca554e87a45b7156c6109520cf15e8b6ec157dc5c033610649b49b8698"
+    },
+    {
+      "byte_count": 951,
+      "path": "inherited-rinfo.log",
+      "sha256": "67dc7cbfa11e1d5e453d0dc7ad7fe85c9a4d8a35d3265a30999926e572027120"
+    },
+    {
+      "byte_count": 15602,
+      "path": "modernization-tests.log",
+      "sha256": "85506d1ba895d5cc4085d799de033a0055015180d431ed421365452e42289ba5"
+    }
+  ],
+  "failures": 0,
+  "independent_installed_report_rebuild": {
+    "artifact_count": 20,
+    "byte_identical": true,
+    "verified": true
+  },
+  "inherited_tests": {
+    "failed": 0,
+    "node_passed": 116,
+    "python_passed": 12,
+    "skipped": 0,
+    "standalone_validators_passed": 5
+  },
+  "passed": 95,
+  "python": "3.12.14",
+  "runtime_and_test_file_sha256": {
+    "research/evidence_modernization/djt_evidence/__init__.py": "721140d20ff85a72536a0af0c24e65de787c4d4128be93ffadc93c397baf5fbf",
+    "research/evidence_modernization/djt_evidence/__main__.py": "935a1c1166b0c1ea35a82256345000bf2c73ded718d77773bc27a71ecce28f7d",
+    "research/evidence_modernization/djt_evidence/capture.py": "f8867a75964d36d0a3ecbcf503daa8804333122ef020e9c53397f012dc6f4af2",
+    "research/evidence_modernization/djt_evidence/cli.py": "1422ec4c4877222c62aba132628e37b03677e0299aa607d1101cb87aa7344601",
+    "research/evidence_modernization/djt_evidence/common.py": "f09ab9293bcf2d9fe1c1c073cb7e283dcc3132ba1c119275c3f94c5919cf9a8c",
+    "research/evidence_modernization/djt_evidence/compiler.py": "e6ae4a78bc4f6f86ee053a6a1d2a6f3255775d3778f5313afe6ddf72b226d5bf",
+    "research/evidence_modernization/djt_evidence/contracts.py": "c29b7e2e82594a65b3d9da3ce22a8ea49707f2cf9fa35fdc0b67bd587bcbda01",
+    "research/evidence_modernization/djt_evidence/importer.py": "bbd95897ec0d60407918910f2bb9d288ab0a080006a254233e0467ac152538a0",
+    "research/evidence_modernization/djt_evidence/inventory.py": "404600e23f2645c2917d067a0d53db91aa5583e90acb7230b7ebd3442236350e",
+    "research/evidence_modernization/djt_evidence/matter_adapter.py": "d6427a064b873d3d30ed4871017376c1af5dcb0b0a465a047dda516b05cf12ea",
+    "research/evidence_modernization/djt_evidence/reporting.py": "edc055519e1a072cb82141dc98cfda98962d3787d0b55a2d36f92766d84b822c",
+    "research/evidence_modernization/djt_evidence/schemas/evidence-package.schema.json": "3023c94fb9419cf52511b73ad802743bd747a1c9663e9b10405179d9caf08eef",
+    "research/evidence_modernization/djt_evidence/schemas/story-manifest.schema.json": "b13f2abc8ee9d06e2798222f29e81632a8a619c32696870ac26839a1cbcb6d1b",
+    "research/evidence_modernization/pyproject.toml": "fcb8d484906e9280d1ca218eb06a215b49174521495095488705f2ca8e65e8af",
+    "research/evidence_modernization/tests/test_capture.py": "9d4b9d2598b758efff048445fe7c4af73a8eeca569bbe681e396f64868d973d4",
+    "research/evidence_modernization/tests/test_cli.py": "b3cb6e663ba3d3d9c705cf7243685a5c2535eaa935720de897dd0d47f1728228",
+    "research/evidence_modernization/tests/test_importer.py": "9b9c73b308e604000d9dce633146d0ebef7a9a81c0cdc85f914b275c57f5ebbd",
+    "research/evidence_modernization/tests/test_inventory.py": "681018aa040f9dc68eb9ac6800d7ade179a9cf05ccdf35d8505516f9e2a00fe5",
+    "research/evidence_modernization/tests/test_matter_adapter.py": "e3dfe5887db7542fac9dd375caa16044f499f10066fabf3fdc7321282080b7ca",
+    "research/evidence_modernization/tests/test_publication.py": "3125b7442f4e8b85383aca4905a98587a48a6a997ba3e92cd30f55cec571eed6",
+    "research/evidence_modernization/tests/test_reporting.py": "82e854c4faf5b7d1ffb843757f1bedf9d2ee996a264031a53cff994305b21ad6",
+    "research/evidence_modernization/verify_reports.py": "f16ca1589d338edd809dff46b805db518d7dffb68da9fafa30e32496eec2a75f"
+  },
+  "scope": "Source preservation, transport validation, source-bound publication gating, optional real Matter input contract, offline synthetic PDF capture and reproducible reporting; not historical evidence authentication or live film rendering.",
+  "skipped": 0,
+  "tests_run": 95,
+  "total_tests_passed": 223
+}

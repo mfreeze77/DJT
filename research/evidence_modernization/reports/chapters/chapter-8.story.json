@@ -1,0 +1,22 @@
+{
+  "capture_policy": "optional",
+  "claim_ids": [
+    "djt:claim:f0edbf70a3ae51ef943e24e75233dafab8a1b760c813304e0e4af46ec6af2ed2",
+    "djt:claim:cdcfb9a6b86882d17e5f62770bb573d4ac682fd4bdd2cf048e6bf6f9efeca9a0",
+    "djt:claim:126dd1bd08d5b16061b89a4b6f45b85f36172aba211ce9d23db3c8abb99b3ba0",
+    "djt:claim:39763aa593937b1c33ecb29e9f6117f9ef54eb0aeb634af66664c15694570366",
+    "djt:claim:85bf1f01c0d757f7aba6cf0aee78cd8a5d90b4fc66ca0460606e863c1457e217",
+    "djt:claim:3080452880e7362653d0bea23d5f977b3eeb82ad450a3afdc999cd9be670c97e",
+    "djt:claim:090c87958700dc5cf0ca4f765f7789755fcb8e6d7f9df0d0c4732e206f764d43",
+    "djt:claim:27a2cf7748c68910b17a05e946cffe113d14bb03e2828a108780d0c7dbfd0d11",
+    "djt:claim:da62b94866d0fd17e9c314d770557f27a14f1c8800ea53fe90bf86aa73ef5925",
+    "djt:claim:f92ca177806a1205c328e3a6232dde21909f32d867ef305114a94bb7031b57ee",
+    "djt:claim:a233d6c9b8af04834286682a51efa7e9d4182a7d247da017ecd0960e7a11d3de",
+    "djt:claim:26a822140c66383127b698c2dd8dec3906b61668046e081589976cc3837dbebd"
+  ],
+  "id": "djt-chapter-8-review",
+  "narrative_question": "Which assertions recorded in Chapter 8 have supporting sources, material counterevidence, and unresolved limitations that must be carried into a future story?",
+  "schema_version": "djt-story/1.0",
+  "target_duration_seconds": 1800,
+  "title": "Research review: Chapter 8 evidence collection"
+}

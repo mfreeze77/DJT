@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "djt-evidence"
+version = "0.1.0"
+description = "Preserved-source DJT evidence inventory, exchange, and review compiler"
+requires-python = ">=3.11"
+dependencies = ["jsonschema==4.26.0"]
+
+[project.optional-dependencies]
+capture = ["PyMuPDF>=1.24,<2"]
+
+[project.scripts]
+djt-evidence = "djt_evidence.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["djt_evidence*"]
+
+[tool.setuptools.package-data]
+djt_evidence = ["schemas/*.json"]

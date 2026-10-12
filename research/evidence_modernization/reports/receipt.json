@@ -1,0 +1,114 @@
+{
+  "artifact_count": 20,
+  "artifacts": [
+    {
+      "byte_count": 217242,
+      "path": "chapter-4-pilot.review.json",
+      "sha256": "a685f3d5ee80b1533e949a84dc6165212fa5b46cd56d5df34d2c34f39ee9ffc4"
+    },
+    {
+      "byte_count": 5257,
+      "path": "chapter-4-pilot.story.json",
+      "sha256": "64633f5a00952addd27c1abee2d08bbd46e9ec1a4cfe182676a2d8907f766d32"
+    },
+    {
+      "byte_count": 1392,
+      "path": "chapter-coverage.csv",
+      "sha256": "6996ebcda8eaa42a23fac87966f7624b1c2d4068be328c3327aeb18624eeff4e"
+    },
+    {
+      "byte_count": 39616,
+      "path": "chapter-coverage.json",
+      "sha256": "bc82af88823e0d9bc9b01f2dfc3a3a68ee0400a800de26e615df2d09e5d16236"
+    },
+    {
+      "byte_count": 2867,
+      "path": "chapters/chapter-1.story.json",
+      "sha256": "eab9768a138a8756a151ed7c12abda9d6f2f6215318f4c6269911e40644c0c5a"
+    },
+    {
+      "byte_count": 3277,
+      "path": "chapters/chapter-2.story.json",
+      "sha256": "1b64c5a7f70494443e6bbe95e5e6803df74cb4220c855a7cc1ba9065a804a189"
+    },
+    {
+      "byte_count": 3523,
+      "path": "chapters/chapter-3.story.json",
+      "sha256": "c69abc0c579dccc5b2b2d546b67a6e306d87358a4278f8b6810708e6e3fa63cd"
+    },
+    {
+      "byte_count": 3113,
+      "path": "chapters/chapter-4.story.json",
+      "sha256": "167fc22b4fe9b06e3202804305cc595be840b7dc6cb44ce9c4c3ba900592dcdb"
+    },
+    {
+      "byte_count": 4835,
+      "path": "chapters/chapter-5.story.json",
+      "sha256": "aadbb6f8b9f65ad6a0abb85ea4e1d313bc685d6b74c757b33e32e3ce939bb952"
+    },
+    {
+      "byte_count": 4015,
+      "path": "chapters/chapter-6.story.json",
+      "sha256": "fef1fa841b5715c1a4534c02d8fe0c2d7a8a913db6282ae15901e8cf07a898b6"
+    },
+    {
+      "byte_count": 6967,
+      "path": "chapters/chapter-7.story.json",
+      "sha256": "11af6964cc30899d3a9a4bd9a4936a99d58d1df01c5214bfe39740b7df36e283"
+    },
+    {
+      "byte_count": 1391,
+      "path": "chapters/chapter-8.story.json",
+      "sha256": "75cb11a9199b0d8705107f5eff59d7cf9e004ad1f4b22115e6c378494b92b055"
+    },
+    {
+      "byte_count": 1309,
+      "path": "chapters/chapter-9.story.json",
+      "sha256": "d67f259e47b4d74c127f2789990447dea77642a27d6c7264994d29c6ba02331d"
+    },
+    {
+      "byte_count": 510771,
+      "path": "classification-summary.json",
+      "sha256": "82f09b06f0a204ce5455f2c22334322ff76a926a648780eb281c29676482d8c5"
+    },
+    {
+      "byte_count": 100487,
+      "path": "coverage.csv",
+      "sha256": "b4affda0b3600246e5c3c9ecb5b5aebb3f5212cb5db981cad6ef6fc907bef17b"
+    },
+    {
+      "byte_count": 1703053,
+      "path": "evidence-package.json.gz",
+      "sha256": "d3073af7b652d8c1c69e6f800af419958fed0530a8fe346880061dd056bef188"
+    },
+    {
+      "byte_count": 26106,
+      "path": "inventory-summary.json",
+      "sha256": "d580a12faa1cb4de553ede2a2c6fb2b26a06567bdd92c39fd6f09fab8e270cf5"
+    },
+    {
+      "byte_count": 812745,
+      "path": "inventory.json.gz",
+      "sha256": "ca41a3af700c73f21521815a29ed8b23e40bed5b7f5d22da710b1f05fe4d08bc"
+    },
+    {
+      "byte_count": 68983,
+      "path": "quarantined-rows.json",
+      "sha256": "0d4686428cf71eb96b1f87193a86e023b202facfea6e57798e4120e7fca79870"
+    }
+  ],
+  "chapter_manifest_count": 9,
+  "compiler_version": "0.1.0",
+  "imported_raw_record_count": 2480,
+  "integrity_scope": "Artifact hashes cover every generated file except this receipt, which is the hash manifest itself.",
+  "limitation": "These are preserved repository assertions and source references for review. This report does not verify cited external documents, create supporting excerpts, approve factual publication, or render a V-Flow film.",
+  "pilot_claim_count": 58,
+  "pilot_publication_allowed": false,
+  "quarantined_row_count": 32,
+  "receipt_path": "receipt.json",
+  "schema_version": "djt-audit-receipt/1.0",
+  "serialization": "Sorted UTF-8 JSON; gzip has mtime zero and no filename metadata; CSV uses LF line endings.",
+  "source_file_count": 465,
+  "source_revision": "d5f1b11a0500d5d577f4553d7e6d13a0aa69e494",
+  "typed_claim_count": 592
+}

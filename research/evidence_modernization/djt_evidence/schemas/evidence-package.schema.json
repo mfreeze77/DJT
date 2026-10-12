@@ -1,0 +1,1153 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/mfreeze77/DJT/djt-evidence-1.0.schema.json",
+  "title": "DJT preserved-source evidence exchange v1",
+  "type": "object",
+  "properties": {
+    "schema_version": {
+      "const": "djt-evidence/1.0"
+    },
+    "compiler_version": {
+      "type": "string",
+      "minLength": 1
+    },
+    "package_id": {
+      "type": "string",
+      "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+    },
+    "repository": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "const": "mfreeze77/DJT"
+        },
+        "revision": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{40}$"
+        }
+      },
+      "required": [
+        "name",
+        "revision"
+      ],
+      "additionalProperties": false
+    },
+    "raw_records": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/raw_record"
+      }
+    },
+    "entities": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/entity"
+      }
+    },
+    "observations": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/observation"
+      }
+    },
+    "claims": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/claim"
+      }
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/source"
+      }
+    },
+    "source_versions": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/source_version"
+      }
+    },
+    "acquisitions": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/acquisition"
+      }
+    },
+    "evidence_links": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/evidence_link"
+      }
+    },
+    "financials": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/financial"
+      }
+    },
+    "corrections": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/correction"
+      }
+    },
+    "excerpts": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/excerpt"
+      }
+    },
+    "captures": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/capture"
+      }
+    },
+    "reviews": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/review"
+      }
+    },
+    "coverage": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/coverage"
+      }
+    },
+    "issues": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "code": {
+            "type": "string",
+            "minLength": 1
+          },
+          "path": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "code",
+          "path"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "control_fingerprints": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "string",
+        "pattern": "^[0-9a-f]{64}$"
+      }
+    },
+    "occurrences": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/occurrence"
+      }
+    },
+    "relationships": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/relationship"
+      }
+    }
+  },
+  "required": [
+    "schema_version",
+    "compiler_version",
+    "package_id",
+    "repository",
+    "raw_records",
+    "entities",
+    "observations",
+    "claims",
+    "sources",
+    "source_versions",
+    "acquisitions",
+    "evidence_links",
+    "financials",
+    "corrections",
+    "excerpts",
+    "captures",
+    "reviews",
+    "coverage",
+    "issues",
+    "control_fingerprints",
+    "occurrences",
+    "relationships"
+  ],
+  "additionalProperties": false,
+  "$defs": {
+    "origin": {
+      "type": "object",
+      "properties": {
+        "path": {
+          "type": "string",
+          "minLength": 1
+        },
+        "locator": {
+          "type": "string"
+        },
+        "sha256": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{64}$"
+        },
+        "raw_sha256": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^[0-9a-f]{64}$"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        }
+      },
+      "required": [
+        "path",
+        "locator",
+        "sha256",
+        "raw_sha256"
+      ],
+      "additionalProperties": false
+    },
+    "raw_record": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+        },
+        "kind": {
+          "type": "string",
+          "minLength": 1
+        },
+        "local_id": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "origin": {
+          "$ref": "#/$defs/origin"
+        },
+        "payload": {},
+        "payload_sha256": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{64}$"
+        },
+        "disposition": {
+          "enum": [
+            "imported_unreviewed",
+            "quarantined_schema_mismatch"
+          ]
+        }
+      },
+      "required": [
+        "id",
+        "kind",
+        "local_id",
+        "origin",
+        "payload",
+        "payload_sha256",
+        "disposition"
+      ],
+      "additionalProperties": false
+    },
+    "entity": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+        },
+        "raw_record_id": {
+          "type": "string",
+          "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+        },
+        "name": {
+          "type": "string"
+        },
+        "identity_status": {
+          "enum": [
+            "unresolved"
+          ]
+        },
+        "identity_limit": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "id",
+        "raw_record_id",
+        "name",
+        "identity_status",
+        "identity_limit"
+      ],
+      "additionalProperties": false
+    },
+    "observation": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+        },
+        "raw_record_id": {
+          "type": "string",
+          "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+        },
+        "text": {
+          "type": "string",
+          "minLength": 1
+        },
+        "scope": {
+          "enum": [
+            "repository_assertion"
+          ]
+        }
+      },
+      "required": [
+        "id",
+        "raw_record_id",
+        "text",
+        "scope"
+      ],
+      "additionalProperties": false
+    },
+    "source_ref": {
+      "type": "object",
+      "properties": {
+        "raw_reference": {
+          "type": "string"
+        },
+        "source_id": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "resolution": {
+          "enum": [
+            "resolved",
+            "unresolved"
+          ]
+        }
+      },
+      "required": [
+        "raw_reference",
+        "source_id",
+        "resolution"
+      ],
+      "additionalProperties": false
+    },
+    "claim": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+        },
+        "raw_record_id": {
+          "type": "string",
+          "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+        },
+        "observation_id": {
+          "type": "string",
+          "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+        },
+        "statement": {
+          "type": "string",
+          "minLength": 1
+        },
+        "legacy_status": {
+          "type": "string"
+        },
+        "review_status": {
+          "enum": [
+            "unreviewed"
+          ]
+        },
+        "source_refs": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/source_ref"
+          }
+        },
+        "qualifications": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "period_as_recorded": {
+          "type": "string"
+        },
+        "topics": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "financial_ids": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+          }
+        },
+        "correction_ids": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+          }
+        },
+        "controlling_status": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "occurrence_ids": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+          }
+        }
+      },
+      "required": [
+        "id",
+        "raw_record_id",
+        "observation_id",
+        "statement",
+        "legacy_status",
+        "review_status",
+        "source_refs",
+        "qualifications",
+        "period_as_recorded",
+        "topics",
+        "financial_ids",
+        "correction_ids",
+        "controlling_status",
+        "occurrence_ids"
+      ],
+      "additionalProperties": false
+    },
+    "source": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+        },
+        "raw_record_id": {
+          "type": "string",
+          "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+        },
+        "local_id": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "url": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "locator": {
+          "type": "string"
+        },
+        "source_family_id": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "source_family_note": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "id",
+        "raw_record_id",
+        "local_id",
+        "title",
+        "url",
+        "locator",
+        "source_family_id",
+        "source_family_note"
+      ],
+      "additionalProperties": false
+    },
+    "source_version": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+        },
+        "source_id": {
+          "type": "string",
+          "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+        },
+        "acquisition_id": {
+          "type": "string",
+          "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+        },
+        "content_sha256": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^[0-9a-f]{64}$"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "availability": {
+          "enum": [
+            "metadata_only",
+            "retained"
+          ]
+        },
+        "local_path": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "verification": {
+          "enum": [
+            "not_verified_locally",
+            "verified_locally"
+          ]
+        },
+        "media_type": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "id",
+        "source_id",
+        "acquisition_id",
+        "content_sha256",
+        "availability",
+        "local_path",
+        "verification",
+        "media_type"
+      ],
+      "additionalProperties": false
+    },
+    "acquisition": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+        },
+        "raw_record_id": {
+          "type": "string",
+          "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+        },
+        "source_ids": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+          }
+        },
+        "url": {
+          "type": "string"
+        },
+        "status_as_recorded": {
+          "type": "string"
+        },
+        "recorded_sha256": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^[0-9a-f]{64}$"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "recorded_bytes": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 0
+        },
+        "retrieved_at_as_recorded": {
+          "type": "string"
+        },
+        "local_bytes_verified": {
+          "type": "boolean"
+        },
+        "limitations": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "id",
+        "raw_record_id",
+        "source_ids",
+        "url",
+        "status_as_recorded",
+        "recorded_sha256",
+        "recorded_bytes",
+        "retrieved_at_as_recorded",
+        "local_bytes_verified",
+        "limitations"
+      ],
+      "additionalProperties": false
+    },
+    "evidence_link": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+        },
+        "claim_id": {
+          "type": "string",
+          "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+        },
+        "source_id": {
+          "type": "string",
+          "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+        },
+        "excerpt_id": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "relation": {
+          "enum": [
+            "cites_unverified",
+            "supports",
+            "qualifies",
+            "contradicts"
+          ]
+        },
+        "qualifications": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "id",
+        "claim_id",
+        "source_id",
+        "excerpt_id",
+        "relation",
+        "qualifications"
+      ],
+      "additionalProperties": false
+    },
+    "financial": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+        },
+        "raw_record_id": {
+          "type": "string",
+          "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+        },
+        "claim_ids": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+          }
+        },
+        "amount_exact": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "currency": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "measure": {
+          "type": "string"
+        },
+        "roles_as_recorded": {
+          "type": "object"
+        },
+        "cash_status": {
+          "enum": [
+            "unverified"
+          ]
+        },
+        "include_in_totals": {
+          "const": false
+        },
+        "allow_cash_flow_animation": {
+          "const": false
+        },
+        "limitations": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "id",
+        "raw_record_id",
+        "claim_ids",
+        "amount_exact",
+        "currency",
+        "measure",
+        "roles_as_recorded",
+        "cash_status",
+        "include_in_totals",
+        "allow_cash_flow_animation",
+        "limitations"
+      ],
+      "additionalProperties": false
+    },
+    "correction": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+        },
+        "raw_record_id": {
+          "type": "string",
+          "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+        },
+        "claim_ids": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+          }
+        },
+        "raw_record_ids": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+          }
+        },
+        "status": {
+          "type": "string",
+          "minLength": 1
+        },
+        "statement": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "reason": {
+          "type": "string",
+          "minLength": 1
+        },
+        "include_in_totals": {
+          "enum": [
+            false,
+            null
+          ]
+        }
+      },
+      "required": [
+        "id",
+        "raw_record_id",
+        "claim_ids",
+        "raw_record_ids",
+        "status",
+        "statement",
+        "reason",
+        "include_in_totals"
+      ],
+      "additionalProperties": false
+    },
+    "excerpt": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+        },
+        "source_version_id": {
+          "type": "string",
+          "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+        },
+        "exact_text": {
+          "type": "string",
+          "minLength": 1
+        },
+        "text_sha256": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{64}$"
+        },
+        "selector": {
+          "type": "object",
+          "properties": {
+            "kind": {
+              "enum": [
+                "text_position"
+              ]
+            },
+            "start": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "end": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "unit": {
+              "enum": [
+                "unicode_codepoints"
+              ]
+            },
+            "prefix": {
+              "type": "string"
+            },
+            "suffix": {
+              "type": "string"
+            },
+            "locator_label": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "required": [
+            "kind",
+            "start",
+            "end",
+            "unit",
+            "prefix",
+            "suffix",
+            "locator_label"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "required": [
+        "id",
+        "source_version_id",
+        "exact_text",
+        "text_sha256",
+        "selector"
+      ],
+      "additionalProperties": false
+    },
+    "capture": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+        },
+        "excerpt_id": {
+          "type": "string",
+          "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+        },
+        "status": {
+          "enum": [
+            "not_requested",
+            "available",
+            "capture_failed",
+            "expected_not_published",
+            "manual_review",
+            "source_unavailable"
+          ]
+        },
+        "manifest_path": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "manifest_sha256": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^[0-9a-f]{64}$"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "limitation": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "id",
+        "excerpt_id",
+        "status",
+        "manifest_path",
+        "manifest_sha256",
+        "limitation"
+      ],
+      "additionalProperties": false
+    },
+    "review": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+        },
+        "claim_id": {
+          "type": "string",
+          "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+        },
+        "claim_digest": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{64}$"
+        },
+        "decision": {
+          "enum": [
+            "approve",
+            "reject"
+          ]
+        },
+        "reviewer": {
+          "type": "string",
+          "minLength": 1
+        },
+        "reviewed_at": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "evidence_link_ids": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+          }
+        },
+        "source_family_note": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "id",
+        "claim_id",
+        "claim_digest",
+        "decision",
+        "reviewer",
+        "reviewed_at",
+        "evidence_link_ids",
+        "source_family_note"
+      ],
+      "additionalProperties": false
+    },
+    "coverage": {
+      "type": "object",
+      "properties": {
+        "path": {
+          "type": "string",
+          "minLength": 1
+        },
+        "sha256": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{64}$"
+        },
+        "classification": {
+          "type": "string"
+        },
+        "disposition": {
+          "enum": [
+            "structured_import_complete",
+            "source_sections_imported_prose_retained",
+            "inventoried_awaiting_adapter",
+            "structured_import_with_quarantine"
+          ]
+        },
+        "imported_records": {
+          "type": "integer",
+          "minimum": 0
+        }
+      },
+      "required": [
+        "path",
+        "sha256",
+        "classification",
+        "disposition",
+        "imported_records"
+      ],
+      "additionalProperties": false
+    },
+    "occurrence": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+        },
+        "raw_record_id": {
+          "type": "string",
+          "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+        },
+        "title": {
+          "type": "string"
+        },
+        "temporal_status": {
+          "const": "unreviewed"
+        },
+        "date_as_recorded": {
+          "type": "string"
+        },
+        "start_as_recorded": {
+          "type": "string"
+        },
+        "end_as_recorded": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "id",
+        "raw_record_id",
+        "title",
+        "temporal_status",
+        "date_as_recorded",
+        "start_as_recorded",
+        "end_as_recorded"
+      ],
+      "additionalProperties": false
+    },
+    "relationship": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+        },
+        "raw_record_id": {
+          "type": "string",
+          "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+        },
+        "from_entity_id": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "to_entity_id": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "from_label_as_recorded": {
+          "type": "string"
+        },
+        "to_label_as_recorded": {
+          "type": "string"
+        },
+        "relation_as_recorded": {
+          "type": "string"
+        },
+        "period_as_recorded": {
+          "type": "string"
+        },
+        "legacy_status": {
+          "type": "string"
+        },
+        "review_status": {
+          "const": "unreviewed"
+        },
+        "source_refs": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/source_ref"
+          }
+        },
+        "limitations": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "correction_ids": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^djt:[a-z-]+:[0-9a-f]{64}$"
+          }
+        },
+        "controlling_status": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "id",
+        "raw_record_id",
+        "from_entity_id",
+        "to_entity_id",
+        "from_label_as_recorded",
+        "to_label_as_recorded",
+        "relation_as_recorded",
+        "period_as_recorded",
+        "legacy_status",
+        "review_status",
+        "source_refs",
+        "limitations",
+        "correction_ids",
+        "controlling_status"
+      ],
+      "additionalProperties": false
+    }
+  }
+}
