@@ -1,0 +1,106 @@
+TAP version 13
+# Subtest: five-company committed index validates without rewriting any reviewed file
+ok 1 - five-company committed index validates without rewriting any reviewed file
+  ---
+  duration_ms: 4.731892
+  type: 'test'
+  ...
+# Subtest: rejects VEB name promoted from other evidence to indexed lender
+ok 2 - rejects VEB name promoted from other evidence to indexed lender
+  ---
+  duration_ms: 1.263162
+  type: 'test'
+  ...
+# Subtest: rejects commitments or zero values filling unknown amounts
+ok 3 - rejects commitments or zero values filling unknown amounts
+  ---
+  duration_ms: 1.097701
+  type: 'test'
+  ...
+# Subtest: rejects Order Date relabeled as instrument date or payment date
+ok 4 - rejects Order Date relabeled as instrument date or payment date
+  ---
+  duration_ms: 0.631355
+  type: 'test'
+  ...
+# Subtest: rejects silent deduplication of Quinira certificate scan observations
+ok 5 - rejects silent deduplication of Quinira certificate scan observations
+  ---
+  duration_ms: 0.31716
+  type: 'test'
+  ...
+# Subtest: rejects dropped company or altered numbered identity
+ok 6 - rejects dropped company or altered numbered identity
+  ---
+  duration_ms: 0.404392
+  type: 'test'
+  ...
+# Subtest: rejects complete-history promotion from a capped display
+ok 7 - rejects complete-history promotion from a capped display
+  ---
+  duration_ms: 0.491263
+  type: 'test'
+  ...
+# Subtest: rejects scanned flag treated as possession of an instrument
+ok 8 - rejects scanned flag treated as possession of an instrument
+  ---
+  duration_ms: 0.251791
+  type: 'test'
+  ...
+# Subtest: rejects strengthened buyer, completion, cash or tax-referent finding without reviewed evidence
+ok 9 - rejects strengthened buyer, completion, cash or tax-referent finding without reviewed evidence
+  ---
+  duration_ms: 1.013353
+  type: 'test'
+  ...
+# Subtest: all published source excerpts are hash-identified as derivatives
+ok 10 - all published source excerpts are hash-identified as derivatives
+  ---
+  duration_ms: 0.536983
+  type: 'test'
+  ...
+# Subtest: 2011 registrations and notice versus dissolution remain literal and distinct
+ok 11 - 2011 registrations and notice versus dissolution remain literal and distinct
+  ---
+  duration_ms: 0.184028
+  type: 'test'
+  ...
+# Subtest: Quinira is prospective buyer and agency/payment ledger is unchanged
+ok 12 - Quinira is prospective buyer and agency/payment ledger is unchanged
+  ---
+  duration_ms: 0.556973
+  type: 'test'
+  ...
+# Subtest: costs recognition is not an acquisition payment or merits appeal
+ok 13 - costs recognition is not an acquisition payment or merits appeal
+  ---
+  duration_ms: 0.258371
+  type: 'test'
+  ...
+# Subtest: successful historical instruction review does not erase earlier access failure
+ok 14 - successful historical instruction review does not erase earlier access failure
+  ---
+  duration_ms: 4.727655
+  type: 'test'
+  ...
+# Subtest: actual return referent, pre-election interval and OGE reconciliation remain unpromoted
+ok 15 - actual return referent, pre-election interval and OGE reconciliation remain unpromoted
+  ---
+  duration_ms: 1.160006
+  type: 'test'
+  ...
+# Subtest: source references resolve and no five-company role row invents amounts or lender
+ok 16 - source references resolve and no five-company role row invents amounts or lender
+  ---
+  duration_ms: 0.249398
+  type: 'test'
+  ...
+1..16
+# tests 16
+# suites 0
+# pass 16
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 88.271074
