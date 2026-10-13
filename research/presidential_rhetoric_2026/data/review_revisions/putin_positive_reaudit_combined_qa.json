@@ -1,0 +1,44 @@
+{
+  "expected_records": 243,
+  "observed_records": 243,
+  "unique_ids": 243,
+  "all_original_ids_present_exactly_once": true,
+  "exact_original_putin_row_order_preserved": true,
+  "dates_nondecreasing": true,
+  "all_source_indices_match_original_indices": true,
+  "all_dates_match_original_and_eligible_corpus": true,
+  "all_source_payloads_retained_unchanged": true,
+  "normalization_is_new_semantic_adjudication": false,
+  "quote_verification_method": "Exact case-sensitive substring of eligible_corpus.json paragraph text at its explicit zero-based paragraph i; no quote rewriting or whitespace normalization.",
+  "quote_checks_by_segment": {
+    "early": {
+      "source_quote_occurrences_checked": 342,
+      "unique_id_paragraph_quote_triples_checked": 289,
+      "literal_quote_mismatches": 0,
+      "normalized_main_evidence_items": 283,
+      "supplemental_state_or_delegation_evidence_items": 39
+    },
+    "middle": {
+      "source_quote_occurrences_checked": 701,
+      "unique_id_paragraph_quote_triples_checked": 353,
+      "literal_quote_mismatches": 0,
+      "normalized_main_evidence_items": 197,
+      "supplemental_state_or_delegation_evidence_items": 0
+    },
+    "late": {
+      "source_quote_occurrences_checked": 626,
+      "unique_id_paragraph_quote_triples_checked": 258,
+      "literal_quote_mismatches": 0,
+      "normalized_main_evidence_items": 234,
+      "supplemental_state_or_delegation_evidence_items": 0
+    }
+  },
+  "quote_errors": [],
+  "metadata_errors": [],
+  "flag_errors": [],
+  "all_literal_quotes_match_eligible_corpus": true,
+  "source_quote_occurrences_checked": 1669,
+  "unique_id_paragraph_quote_triples_checked": 900,
+  "normalized_main_evidence_items": 714,
+  "supplemental_state_or_delegation_evidence_items": 39
+}

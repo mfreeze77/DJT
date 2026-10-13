@@ -24,6 +24,8 @@ Circumstantial evidence is evaluated cumulatively. Timing or association alone i
 
 ## Current synthesis and integrity controls
 
+- [Presidential rhetoric source archive and comparison research](research/presidential_rhetoric_2026/README.md) — official transcripts, social-source identifiers, auditable annotation revisions, and a prompted-versus-voluntary research protocol. Preliminary comparative counts are explicitly withheld pending symmetrical review; rhetoric alone does not establish hidden motive.
+
 - [VEB / A7 / Trump Toronto evidence-ranked crosswalk (October 2026)](research/veb_a7_2026/README.md) — original Toronto receivership references, A7 source lineage, financial-claim safeguards, machine-readable ledgers and records plan. **Shared VEB does not establish a continuous money trail.**
 
 

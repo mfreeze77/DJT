@@ -1,0 +1,155 @@
+{
+  "original_76_file_unchanged": true,
+  "amendments": [
+    {
+      "id": "DCPD-202600046",
+      "date": "2026-01-21",
+      "original_adjudication": {
+        "id": "DCPD-202600046",
+        "date": "2026-01-21",
+        "url": "https://www.govinfo.gov/content/pkg/DCPD-202600046/html/DCPD-202600046.htm",
+        "clear_personal_or_conduct_negative": false,
+        "category": "request_without_negative_evaluation",
+        "reason": "Directive/retort redirecting attention to own war, without explicit negative personal evaluation.",
+        "evidence": [
+          "Focus on settling your war. Don't worry about that one"
+        ],
+        "source_html_sha256": "e8bfc410dce971d13723e939665eab08ac78fe4ebe612a9ce8ee094809c7ff42"
+      },
+      "revised_adjudication": {
+        "id": "DCPD-202600046",
+        "date": "2026-01-21",
+        "url": "https://www.govinfo.gov/content/pkg/DCPD-202600046/html/DCPD-202600046.htm",
+        "clear_personal_or_conduct_negative": true,
+        "category": "joint_personal_blame",
+        "reason": "Expanded source p283 explicitly names Putin and Zelenskyy and judges their hatred not good for settlements and abnormal. This independently meets the established joint-obstruction rule. P284 adds reciprocal refusal to agree. P287 is conditional competence pressure, explicitly paired with knowing they are not stupid; it is not an asserted current personal epithet. The earlier request alone remains nonqualifying.",
+        "evidence": [
+          "With Ukraine-Russia, there's tremendous hatred between President Zelenskyy and President Putin. That's not good. That's not good for settlements; we know from dealing. There's abnormal hatred.",
+          "With that being said, I think Russia wants to make a deal. I think Ukraine wants to make a deal. And we're going to try getting a deal done. We're getting, I think—Steve, I think I can say that we're reasonably close. But what happens is, oftentimes, we'll have a deal with Russia, Russia is set, and President Zelenskyy will not do it. You saw that when he was in the Oval Office. I was not happy. And then we'll have President Zelenskyy wants to make a deal, and Putin doesn't want to make the deal.",
+          "I believe they're at a point now where they can come together and get a deal done. And if they don't, they're stupid. That goes for both of them. And I know they're not stupid, but if they don't get this done, they are stupid.",
+          "So I don't want to insult anyone, but you got to get this deal done. Too many people are dying. It's not worth it."
+        ],
+        "source_html_sha256": "e8bfc410dce971d13723e939665eab08ac78fe4ebe612a9ce8ee094809c7ff42",
+        "evidence_paragraph_indices": [
+          283,
+          284,
+          287,
+          288
+        ],
+        "target_grouping": "Putin_and_Zelenskyy",
+        "confidence": "high",
+        "prompt_links": [
+          {
+            "paragraph_index": 279,
+            "speaker": "Mr. Brende",
+            "quote": "Mr. Brende. How close do you think there is on an agreement on Ukraine? I had the pleasure of speaking with Steve Witkoff and—and Jared Kushner yesterday. I know they're working hard on it. I know that they're also traveling now.",
+            "url": "https://www.govinfo.gov/content/pkg/DCPD-202600046/html/DCPD-202600046.htm"
+          },
+          {
+            "paragraph_index": 280,
+            "speaker": "Mr. Brende",
+            "quote": "Do you see this very close or still——",
+            "url": "https://www.govinfo.gov/content/pkg/DCPD-202600046/html/DCPD-202600046.htm"
+          }
+        ],
+        "context": [
+          {
+            "i": 278,
+            "speaker": "Editorial_heading",
+            "text": "Ukraine/Russia",
+            "source_speaker_label": null,
+            "mixed_speaker_paragraph": false,
+            "source_speaker_runs": []
+          },
+          {
+            "i": 279,
+            "speaker": "Mr. Brende",
+            "text": "Mr. Brende. How close do you think there is on an agreement on Ukraine? I had the pleasure of speaking with Steve Witkoff and—and Jared Kushner yesterday. I know they're working hard on it. I know that they're also traveling now.",
+            "source_speaker_label": "Mr. Brende",
+            "mixed_speaker_paragraph": false,
+            "source_speaker_runs": []
+          },
+          {
+            "i": 280,
+            "speaker": "Mr. Brende",
+            "text": "Do you see this very close or still——",
+            "source_speaker_label": null,
+            "mixed_speaker_paragraph": false,
+            "source_speaker_runs": []
+          },
+          {
+            "i": 281,
+            "speaker": "Trump",
+            "text": "The President. Well, I hate to say it. I thought that was going to be—so, I settled eight wars, plus. And I thought that was going to be one of my easier ones—not the easiest. Some I settled in a matter of hours, because I'm good at that stuff.",
+            "source_speaker_label": "The President",
+            "mixed_speaker_paragraph": false,
+            "source_speaker_runs": []
+          },
+          {
+            "i": 282,
+            "speaker": "Trump",
+            "text": "You know, the United Nations should be doing this. I shouldn't be doing it. But it doesn't matter. It's got to get done. Saving a lot of lives. We're saving millions of lives.",
+            "source_speaker_label": null,
+            "mixed_speaker_paragraph": false,
+            "source_speaker_runs": []
+          },
+          {
+            "i": 283,
+            "speaker": "Trump",
+            "text": "With Ukraine-Russia, there's tremendous hatred between President Zelenskyy and President Putin. That's not good. That's not good for settlements; we know from dealing. There's abnormal hatred.",
+            "source_speaker_label": null,
+            "mixed_speaker_paragraph": false,
+            "source_speaker_runs": []
+          },
+          {
+            "i": 284,
+            "speaker": "Trump",
+            "text": "With that being said, I think Russia wants to make a deal. I think Ukraine wants to make a deal. And we're going to try getting a deal done. We're getting, I think—Steve, I think I can say that we're reasonably close. But what happens is, oftentimes, we'll have a deal with Russia, Russia is set, and President Zelenskyy will not do it. You saw that when he was in the Oval Office. I was not happy. And then we'll have President Zelenskyy wants to make a deal, and Putin doesn't want to make the deal.",
+            "source_speaker_label": null,
+            "mixed_speaker_paragraph": false,
+            "source_speaker_runs": []
+          },
+          {
+            "i": 285,
+            "speaker": "Trump",
+            "text": "It's a very difficult balance, and it's big time, and it's just—it is, you know, to use a word, it's a bloodbath. It's horrible, what's happening. It's a drone war. The drones are killing, you know, thousands of people a week. Thousands. We have to get it stopped.",
+            "source_speaker_label": null,
+            "mixed_speaker_paragraph": false,
+            "source_speaker_runs": []
+          },
+          {
+            "i": 286,
+            "speaker": "Trump",
+            "text": "So I believe they're at a point now—I'm going to meet with President Zelenskyy later today.",
+            "source_speaker_label": null,
+            "mixed_speaker_paragraph": false,
+            "source_speaker_runs": []
+          },
+          {
+            "i": 287,
+            "speaker": "Trump",
+            "text": "I believe they're at a point now where they can come together and get a deal done. And if they don't, they're stupid. That goes for both of them. And I know they're not stupid, but if they don't get this done, they are stupid.",
+            "source_speaker_label": null,
+            "mixed_speaker_paragraph": false,
+            "source_speaker_runs": []
+          },
+          {
+            "i": 288,
+            "speaker": "Trump",
+            "text": "So I don't want to insult anyone, but you got to get this deal done. Too many people are dying. It's not worth it.",
+            "source_speaker_label": null,
+            "mixed_speaker_paragraph": false,
+            "source_speaker_runs": []
+          }
+        ],
+        "comparison_benchmark_ids": [
+          "DCPD-202600575",
+          "DCPD-202600161"
+        ],
+        "amendment_provenance": "Initiation audit found omitted later passage; separate contextual adjudication verified it against eligible_corpus.json. AI, not human validation.",
+        "original_adjudication_retained": true
+      },
+      "reason_for_amendment": "Original evidence covered the earlier mediation request but omitted independent evaluative language in the later Brende interview."
+    }
+  ]
+}

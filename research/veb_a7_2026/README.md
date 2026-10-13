@@ -1,5 +1,9 @@
 # VEB / A7 / Trump Toronto: evidence-ranked crosswalk
 
+## Gazette receipt-locator supplement (13 October 2026)
+
+[Gazette 4156 receipt note](quinira_gazette_receipt_note.md) and [four selected receipt observations](quinira_gazette_receipts.csv) add administrative locators for Quinira, Freegain and later-stage Equalchance requests. Receipt dates and document counts are not registry Order Dates, instrument dates or debt counts. The Equalchance court-order comparison remains unmatched. All 21 original registry observations and financial totals are unchanged; no underlying financing instrument was acquired.
+
 ## Latest Gorlane and Panama Papers integration (PR28)
 
 [Panama Papers findings incorporated into the financial research](panama_papers_findings.md) · [Reviewed original-record continuation](gorlane_reviewed_delta.md) · [Complete eleven-row ownership timeline](gorlane_ownership_timeline.csv) · [Scoped neighborhood review](gorlane_neighborhood_review.md) · [Next connecting records](gorlane_next_records.md).

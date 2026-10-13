@@ -1,0 +1,475 @@
+{
+  "scope": "Initiation and sequence annotation of the 76 originally negative-coded official records, with anchored episodes and clearly separated additional within-document context. No social posts are in this subset.",
+  "prior_record_groups": {
+    "clear": 42,
+    "contextual": 8,
+    "separate": 26
+  },
+  "current_record_groups_after_explicit_amendment": {
+    "clear": 43,
+    "contextual": 8,
+    "separate": 25
+  },
+  "all_annotated_episodes": 123,
+  "prior_selected_episodes": 110,
+  "additional_context_episodes": 13,
+  "prior_anchor_clear_episodes": {
+    "documents": 42,
+    "episodes": 59,
+    "document_ids": [
+      "DCPD-202500153",
+      "DCPD-202500417",
+      "DCPD-202500478",
+      "DCPD-202500644",
+      "DCPD-202500648",
+      "DCPD-202500661",
+      "DCPD-202500720",
+      "DCPD-202500745",
+      "DCPD-202500748",
+      "DCPD-202500754",
+      "DCPD-202500755",
+      "DCPD-202500762",
+      "DCPD-202500763",
+      "DCPD-202500764",
+      "DCPD-202500765",
+      "DCPD-202500770",
+      "DCPD-202500802",
+      "DCPD-202500813",
+      "DCPD-202500831",
+      "DCPD-202500850",
+      "DCPD-202500863",
+      "DCPD-202500864",
+      "DCPD-202500925",
+      "DCPD-202500929",
+      "DCPD-202500934",
+      "DCPD-202500954",
+      "DCPD-202500955",
+      "DCPD-202500970",
+      "DCPD-202500987",
+      "DCPD-202501011",
+      "DCPD-202501015",
+      "DCPD-202501023",
+      "DCPD-202501059",
+      "DCPD-202501132",
+      "DCPD-202600003",
+      "DCPD-202600012",
+      "DCPD-202600078",
+      "DCPD-202600145",
+      "DCPD-202600161",
+      "DCPD-202600410",
+      "DCPD-202600450",
+      "DCPD-202600575"
+    ],
+    "primary_episode_trigger_counts": {
+      "follow_up": 16,
+      "direct_target_question": 17,
+      "topical_question_without_target": 12,
+      "unsolicited_oral": 14
+    },
+    "resolved_prompt_episode_counts": {
+      "topical_question_without_target": 23,
+      "direct_target_question": 22,
+      "unsolicited_oral": 14
+    },
+    "document_trigger_counts_overlapping": {
+      "any_unsolicited": 13,
+      "opening_or_speech": 9,
+      "unsolicited_pivot_within_other_topic_answer": 4,
+      "any_prompted": 32,
+      "direct_target_question_including_followups": 21,
+      "topical_question_without_target_including_followups": 17
+    },
+    "document_exclusive_groups": {
+      "prompted_only": 29,
+      "unsolicited_only": 10,
+      "both_prompted_and_unsolicited": 3,
+      "other_or_unclear": 0
+    },
+    "unsolicited_document_ids": [
+      "DCPD-202500755",
+      "DCPD-202500763",
+      "DCPD-202500764",
+      "DCPD-202500864",
+      "DCPD-202500925",
+      "DCPD-202500934",
+      "DCPD-202500970",
+      "DCPD-202500987",
+      "DCPD-202501015",
+      "DCPD-202501132",
+      "DCPD-202600012",
+      "DCPD-202600410",
+      "DCPD-202600450"
+    ],
+    "opening_or_speech_document_ids": [
+      "DCPD-202500755",
+      "DCPD-202500763",
+      "DCPD-202500764",
+      "DCPD-202500925",
+      "DCPD-202500934",
+      "DCPD-202500970",
+      "DCPD-202501132",
+      "DCPD-202600410",
+      "DCPD-202600450"
+    ],
+    "unsolicited_pivot_document_ids": [
+      "DCPD-202500864",
+      "DCPD-202500987",
+      "DCPD-202501015",
+      "DCPD-202600012"
+    ],
+    "question_targeting_ambiguous_episodes": 1,
+    "question_explicitly_requests_criticism_episodes": 6,
+    "question_explicitly_requests_praise_episodes": 0,
+    "question_open_evaluation_episodes": 3,
+    "affirmative_favorable_or_excusing_sequence_document_counts_overlapping": {
+      "before_first": 10,
+      "between_criticisms": 3,
+      "after_last_in_same_answer_or_local_speech_passage": 7,
+      "after_last_in_same_answer_only": 5
+    },
+    "after_last_document_ids": [
+      "DCPD-202500153",
+      "DCPD-202500417",
+      "DCPD-202500770",
+      "DCPD-202500934",
+      "DCPD-202501023",
+      "DCPD-202600161",
+      "DCPD-202600450"
+    ],
+    "after_last_same_answer_document_ids": [
+      "DCPD-202500153",
+      "DCPD-202500417",
+      "DCPD-202500770",
+      "DCPD-202501023",
+      "DCPD-202600161"
+    ],
+    "between_document_ids": [
+      "DCPD-202500644",
+      "DCPD-202501011",
+      "DCPD-202600410"
+    ]
+  },
+  "current_expanded_clear_episodes": {
+    "documents": 43,
+    "episodes": 63,
+    "document_ids": [
+      "DCPD-202500153",
+      "DCPD-202500417",
+      "DCPD-202500478",
+      "DCPD-202500644",
+      "DCPD-202500648",
+      "DCPD-202500661",
+      "DCPD-202500720",
+      "DCPD-202500745",
+      "DCPD-202500748",
+      "DCPD-202500754",
+      "DCPD-202500755",
+      "DCPD-202500762",
+      "DCPD-202500763",
+      "DCPD-202500764",
+      "DCPD-202500765",
+      "DCPD-202500770",
+      "DCPD-202500802",
+      "DCPD-202500813",
+      "DCPD-202500831",
+      "DCPD-202500850",
+      "DCPD-202500863",
+      "DCPD-202500864",
+      "DCPD-202500925",
+      "DCPD-202500929",
+      "DCPD-202500934",
+      "DCPD-202500954",
+      "DCPD-202500955",
+      "DCPD-202500970",
+      "DCPD-202500987",
+      "DCPD-202501011",
+      "DCPD-202501015",
+      "DCPD-202501023",
+      "DCPD-202501059",
+      "DCPD-202501132",
+      "DCPD-202600003",
+      "DCPD-202600012",
+      "DCPD-202600046",
+      "DCPD-202600078",
+      "DCPD-202600145",
+      "DCPD-202600161",
+      "DCPD-202600410",
+      "DCPD-202600450",
+      "DCPD-202600575"
+    ],
+    "primary_episode_trigger_counts": {
+      "follow_up": 16,
+      "direct_target_question": 18,
+      "topical_question_without_target": 13,
+      "unsolicited_oral": 16
+    },
+    "resolved_prompt_episode_counts": {
+      "topical_question_without_target": 24,
+      "direct_target_question": 23,
+      "unsolicited_oral": 16
+    },
+    "document_trigger_counts_overlapping": {
+      "any_unsolicited": 14,
+      "opening_or_speech": 9,
+      "unsolicited_pivot_within_other_topic_answer": 5,
+      "any_prompted": 33,
+      "direct_target_question_including_followups": 21,
+      "topical_question_without_target_including_followups": 18
+    },
+    "document_exclusive_groups": {
+      "prompted_only": 29,
+      "unsolicited_only": 10,
+      "both_prompted_and_unsolicited": 4,
+      "other_or_unclear": 0
+    },
+    "unsolicited_document_ids": [
+      "DCPD-202500755",
+      "DCPD-202500763",
+      "DCPD-202500764",
+      "DCPD-202500864",
+      "DCPD-202500925",
+      "DCPD-202500929",
+      "DCPD-202500934",
+      "DCPD-202500970",
+      "DCPD-202500987",
+      "DCPD-202501015",
+      "DCPD-202501132",
+      "DCPD-202600012",
+      "DCPD-202600410",
+      "DCPD-202600450"
+    ],
+    "opening_or_speech_document_ids": [
+      "DCPD-202500755",
+      "DCPD-202500763",
+      "DCPD-202500764",
+      "DCPD-202500925",
+      "DCPD-202500934",
+      "DCPD-202500970",
+      "DCPD-202501132",
+      "DCPD-202600410",
+      "DCPD-202600450"
+    ],
+    "unsolicited_pivot_document_ids": [
+      "DCPD-202500864",
+      "DCPD-202500929",
+      "DCPD-202500987",
+      "DCPD-202501015",
+      "DCPD-202600012"
+    ],
+    "question_targeting_ambiguous_episodes": 1,
+    "question_explicitly_requests_criticism_episodes": 6,
+    "question_explicitly_requests_praise_episodes": 0,
+    "question_open_evaluation_episodes": 4,
+    "affirmative_favorable_or_excusing_sequence_document_counts_overlapping": {
+      "before_first": 12,
+      "between_criticisms": 4,
+      "after_last_in_same_answer_or_local_speech_passage": 7,
+      "after_last_in_same_answer_only": 5
+    },
+    "after_last_document_ids": [
+      "DCPD-202500153",
+      "DCPD-202500417",
+      "DCPD-202500770",
+      "DCPD-202500934",
+      "DCPD-202501023",
+      "DCPD-202600161",
+      "DCPD-202600450"
+    ],
+    "after_last_same_answer_document_ids": [
+      "DCPD-202500153",
+      "DCPD-202500417",
+      "DCPD-202500770",
+      "DCPD-202501023",
+      "DCPD-202600161"
+    ],
+    "between_document_ids": [
+      "DCPD-202500644",
+      "DCPD-202501011",
+      "DCPD-202600046",
+      "DCPD-202600410"
+    ]
+  },
+  "prior_anchor_contextual_episodes": {
+    "documents": 11,
+    "episodes": 13,
+    "document_ids": [
+      "DCPD-202500519",
+      "DCPD-202500647",
+      "DCPD-202500648",
+      "DCPD-202500802",
+      "DCPD-202500841",
+      "DCPD-202500846",
+      "DCPD-202500864",
+      "DCPD-202500865",
+      "DCPD-202501038",
+      "DCPD-202501070",
+      "DCPD-202501130"
+    ],
+    "primary_episode_trigger_counts": {
+      "direct_target_question": 9,
+      "follow_up": 2,
+      "unsolicited_oral": 2
+    },
+    "resolved_prompt_episode_counts": {
+      "direct_target_question": 11,
+      "unsolicited_oral": 2
+    },
+    "document_trigger_counts_overlapping": {
+      "any_unsolicited": 2,
+      "opening_or_speech": 1,
+      "unsolicited_pivot_within_other_topic_answer": 1,
+      "any_prompted": 9,
+      "direct_target_question_including_followups": 9,
+      "topical_question_without_target_including_followups": 0
+    },
+    "document_exclusive_groups": {
+      "prompted_only": 9,
+      "unsolicited_only": 2,
+      "both_prompted_and_unsolicited": 0,
+      "other_or_unclear": 0
+    },
+    "unsolicited_document_ids": [
+      "DCPD-202501070",
+      "DCPD-202501130"
+    ],
+    "opening_or_speech_document_ids": [
+      "DCPD-202501070"
+    ],
+    "unsolicited_pivot_document_ids": [
+      "DCPD-202501130"
+    ],
+    "question_targeting_ambiguous_episodes": 0,
+    "question_explicitly_requests_criticism_episodes": 2,
+    "question_explicitly_requests_praise_episodes": 0,
+    "question_open_evaluation_episodes": 4,
+    "affirmative_favorable_or_excusing_sequence_document_counts_overlapping": {
+      "before_first": 2,
+      "between_criticisms": 0,
+      "after_last_in_same_answer_or_local_speech_passage": 4,
+      "after_last_in_same_answer_only": 4
+    },
+    "after_last_document_ids": [
+      "DCPD-202500841",
+      "DCPD-202500846",
+      "DCPD-202500865",
+      "DCPD-202501038"
+    ],
+    "after_last_same_answer_document_ids": [
+      "DCPD-202500841",
+      "DCPD-202500846",
+      "DCPD-202500865",
+      "DCPD-202501038"
+    ],
+    "between_document_ids": []
+  },
+  "prior_anchor_separate_candidates": {
+    "documents": 27,
+    "episodes": 38,
+    "document_ids": [
+      "DCPD-202500529",
+      "DCPD-202500576",
+      "DCPD-202500615",
+      "DCPD-202500703",
+      "DCPD-202500717",
+      "DCPD-202500718",
+      "DCPD-202500722",
+      "DCPD-202500740",
+      "DCPD-202500750",
+      "DCPD-202500885",
+      "DCPD-202500892",
+      "DCPD-202500895",
+      "DCPD-202500901",
+      "DCPD-202500928",
+      "DCPD-202501004",
+      "DCPD-202501027",
+      "DCPD-202501040",
+      "DCPD-202501043",
+      "DCPD-202501046",
+      "DCPD-202501103",
+      "DCPD-202501132",
+      "DCPD-202600005",
+      "DCPD-202600046",
+      "DCPD-202600290",
+      "DCPD-202600406",
+      "DCPD-202600500",
+      "DCPD-202600570"
+    ],
+    "primary_episode_trigger_counts": {
+      "direct_target_question": 16,
+      "follow_up": 12,
+      "unsolicited_oral": 7,
+      "topical_question_without_target": 3
+    },
+    "resolved_prompt_episode_counts": {
+      "direct_target_question": 23,
+      "topical_question_without_target": 8,
+      "unsolicited_oral": 7
+    },
+    "document_trigger_counts_overlapping": {
+      "any_unsolicited": 6,
+      "opening_or_speech": 3,
+      "unsolicited_pivot_within_other_topic_answer": 3,
+      "any_prompted": 21,
+      "direct_target_question_including_followups": 15,
+      "topical_question_without_target_including_followups": 8
+    },
+    "document_exclusive_groups": {
+      "prompted_only": 21,
+      "unsolicited_only": 6,
+      "both_prompted_and_unsolicited": 0,
+      "other_or_unclear": 0
+    },
+    "unsolicited_document_ids": [
+      "DCPD-202500703",
+      "DCPD-202500722",
+      "DCPD-202500895",
+      "DCPD-202501027",
+      "DCPD-202501132",
+      "DCPD-202600046"
+    ],
+    "opening_or_speech_document_ids": [
+      "DCPD-202500895",
+      "DCPD-202501132",
+      "DCPD-202600046"
+    ],
+    "unsolicited_pivot_document_ids": [
+      "DCPD-202500703",
+      "DCPD-202500722",
+      "DCPD-202501027"
+    ],
+    "question_targeting_ambiguous_episodes": 0,
+    "question_explicitly_requests_criticism_episodes": 2,
+    "question_explicitly_requests_praise_episodes": 0,
+    "question_open_evaluation_episodes": 1,
+    "affirmative_favorable_or_excusing_sequence_document_counts_overlapping": {
+      "before_first": 6,
+      "between_criticisms": 1,
+      "after_last_in_same_answer_or_local_speech_passage": 3,
+      "after_last_in_same_answer_only": 3
+    },
+    "after_last_document_ids": [
+      "DCPD-202500718",
+      "DCPD-202501043",
+      "DCPD-202600290"
+    ],
+    "after_last_same_answer_document_ids": [
+      "DCPD-202500718",
+      "DCPD-202501043",
+      "DCPD-202600290"
+    ],
+    "between_document_ids": [
+      "DCPD-202500892"
+    ]
+  },
+  "validation": {
+    "records": 76,
+    "unique_ids": 76,
+    "source_quote_markers_checked": 279,
+    "question_links_checked_including_repeats": 298,
+    "quote_mismatches": 0,
+    "question_mismatches": 0,
+    "sequence_position_errors": 0,
+    "original_row_identity_and_classification_check": "passed"
+  },
+  "not_population_rates": "Counts describe a preselected candidate subset and source-context annotations. They do not establish rates per opportunity, silence/avoidance, relative treatment of other leaders, or motives. Additional clear episodes expand contexts within these records; they are not new documents unless an explicit record amendment says so."
+}

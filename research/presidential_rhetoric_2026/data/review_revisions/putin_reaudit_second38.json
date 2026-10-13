@@ -1,0 +1,1690 @@
+[
+  {
+    "original_negative_index": 38,
+    "id": "DCPD-202500895",
+    "date": "2025-09-05",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500895/html/DCPD-202500895.htm",
+    "original_code": "negative",
+    "review_category": "conditional_warning",
+    "clear_personal_negative_evaluation": false,
+    "evidence": "And it will get done, or there'll be hell to pay",
+    "paragraph_indices": [
+      37,
+      38
+    ],
+    "context": [
+      {
+        "i": 37,
+        "speaker": "Trump",
+        "text": "But we never fought to win, and now we—if we have to fight at all—you know, we solved seven wars. We have the one that I thought was going to be probably one of the easier ones, and that's with President Putin and Ukraine, and that turned out to be one that's a little bit more difficult. But the seven are done, and they were supposed to be much more difficult to solve. I solved every one of them. And we're going to get the other one done too, but it turned out to be a little bit more difficult than I thought.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 38,
+        "speaker": "Trump",
+        "text": "And it will get done, or there'll be hell to pay, but—because they're losing 6- to 7- —it used to be 5-. I used to tell you 5-. Now it's almost 7-. I guess 7,000 people last week—7,813 people, young soldiers died. Russian and Ukrainian. Not American soldiers. But it's a shame. And it's just—you know, they're human lives, and I want to see it stop.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      }
+    ],
+    "reason": "Unspecified warning about war settlement; not a negative personal evaluation and target not exclusive to Putin.",
+    "review_method": "Second AI semantic review against expanded source context; no human validation"
+  },
+  {
+    "original_negative_index": 39,
+    "id": "DCPD-202500901",
+    "date": "2025-09-07",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500901/html/DCPD-202500901.htm",
+    "original_code": "negative",
+    "review_category": "general_process_frustration",
+    "clear_personal_negative_evaluation": false,
+    "evidence": "both of us are disappointed that this ridiculous war continues",
+    "paragraph_indices": [
+      25,
+      26,
+      27,
+      28,
+      127,
+      128,
+      129,
+      130
+    ],
+    "context": [
+      {
+        "i": 25,
+        "speaker": "Reporter",
+        "text": "Q. You have always said how good your relationship is with President Putin.",
+        "source_speaker_label": "Q",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 26,
+        "speaker": "Trump",
+        "text": "The President. Yes.",
+        "source_speaker_label": "The President",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 27,
+        "speaker": "Reporter",
+        "text": "Q. But he's not really giving you anything that you want. Is that making you less trustful of him?",
+        "source_speaker_label": "Q",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 28,
+        "speaker": "Trump",
+        "text": "The President. Well, nobody was tougher on Russia than me. That has to do with the pipeline—as you know, Nord Stream 2—and lots of other things. But I'm not happy. I'm not happy. I'm not happy about the whole situation.",
+        "source_speaker_label": "The President",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 127,
+        "speaker": "Reporter",
+        "text": "Q. Before you went to Alaska, in the Oval Office, you said that the First Lady expressed she wasn't too enamored with Putin. You said you came home. You said you spoke to Putin. She said, \"Well, I heard he just blew up a village today.\" Has she expressed anything since you've come back from Alaska?",
+        "source_speaker_label": "Q",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 128,
+        "speaker": "Trump",
+        "text": "The President. No, the First Lady actually got along great with Putin——",
+        "source_speaker_label": "The President",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 129,
+        "speaker": "Reporter",
+        "text": "Q. Right.",
+        "source_speaker_label": "Q",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 130,
+        "speaker": "Trump",
+        "text": "The President. ——as I did. But you know, we're disappointed. We're—both of us are disappointed that this ridiculous war continues.",
+        "source_speaker_label": "The President",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      }
+    ],
+    "reason": "Disappointment explicitly concerns continuing war. Response to Putin questions supplies context but does not make it an explicit personal criticism.",
+    "review_method": "Second AI semantic review against expanded source context; no human validation"
+  },
+  {
+    "original_negative_index": 40,
+    "id": "DCPD-202500925",
+    "date": "2025-09-18",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500925/html/DCPD-202500925.htm",
+    "original_code": "negative",
+    "review_category": "direct_conduct_condemnation",
+    "clear_personal_negative_evaluation": true,
+    "evidence": "he has let me down. I mean, he's killing many people",
+    "paragraph_indices": [
+      34,
+      120,
+      121,
+      122
+    ],
+    "context": [
+      {
+        "i": 34,
+        "speaker": "Trump",
+        "text": "The one that I thought would be easiest would be—because of my relationship with President Putin—but he's let me down. He's really let me down. It was going to be Russia and Ukraine, but we'll see how that turns out. But that turned out to be—I thought it might be among the easiest of the group, but we have settled just about every conflict.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 120,
+        "speaker": "Reporter",
+        "text": "Mr. President, you say that President Putin has let you down. Have negotiations run out of road? And what are your next steps to compel an end to this war?",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 121,
+        "speaker": "Trump",
+        "text": "President Trump. Well, he has let me down. I mean, he's killing many people, and he's losing more people than he's—you know, than he's killing. I mean, frankly, the Russian soldiers are being killed at a higher rate than the Ukrainian soldiers.",
+        "source_speaker_label": "President Trump",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 122,
+        "speaker": "Trump",
+        "text": "But yes, he's let me down. I don't like to see—it's death. You know, it doesn't affect the United States. We have—other than, unless you end up in a world war over this thing—you could. This was a thing that would have never happened had I been President. If I were President, it would have never happened, and it didn't happen for 4 years. People—most people agree. It didn't happen, nor was it close to happening.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      }
+    ],
+    "reason": "Own words explicitly target Putin and his conduct. Starmer also criticizes him elsewhere but those words are not counted.",
+    "review_method": "Second AI semantic review against expanded source context; no human validation"
+  },
+  {
+    "original_negative_index": 41,
+    "id": "DCPD-202500928",
+    "date": "2025-09-18",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500928/html/DCPD-202500928.htm",
+    "original_code": "negative",
+    "review_category": "conditional_warning",
+    "clear_personal_negative_evaluation": false,
+    "evidence": "at the right time, if I have to do it, it will be harsh",
+    "paragraph_indices": [
+      30,
+      31,
+      32,
+      33
+    ],
+    "context": [
+      {
+        "i": 30,
+        "speaker": "Reporter",
+        "text": "Mr. President, it's been a month since your meeting with Putin. Is it time to call for a ceasefire?",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 31,
+        "speaker": "Trump",
+        "text": "The President. Say it louder.",
+        "source_speaker_label": "The President",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 32,
+        "speaker": "Reporter",
+        "text": "Q. It's been a month since your meeting with President Putin. Is it time for a cease-fire to come?",
+        "source_speaker_label": "Q",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 33,
+        "speaker": "Trump",
+        "text": "The President. Doesn't feel like it. But, at the right time, if I have to do it, it will be harsh.",
+        "source_speaker_label": "The President",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      }
+    ],
+    "reason": "Unspecified conditional pressure in ceasefire context, without a negative evaluation of Putin.",
+    "review_method": "Second AI semantic review against expanded source context; no human validation"
+  },
+  {
+    "original_negative_index": 42,
+    "id": "DCPD-202500929",
+    "date": "2025-09-19",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500929/html/DCPD-202500929.htm",
+    "original_code": "negative",
+    "review_category": "explicit_mild_dissatisfaction",
+    "clear_personal_negative_evaluation": true,
+    "evidence": "Yes.",
+    "paragraph_indices": [
+      129,
+      130
+    ],
+    "context": [
+      {
+        "i": 129,
+        "speaker": "Reporter",
+        "text": "Q. ——you are frustrated with Putin.",
+        "source_speaker_label": "Q",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 130,
+        "speaker": "Trump",
+        "text": "The President. Yes.",
+        "source_speaker_label": "The President",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      }
+    ],
+    "reason": "Direct affirmation of reporter’s statement that Trump is frustrated with Putin; not an insult.",
+    "review_method": "Second AI semantic review against expanded source context; no human validation"
+  },
+  {
+    "original_negative_index": 43,
+    "id": "DCPD-202500934",
+    "date": "2025-09-20",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500934/html/DCPD-202500934.htm",
+    "original_code": "negative",
+    "review_category": "explicit_mild_dissatisfaction",
+    "clear_personal_negative_evaluation": true,
+    "evidence": "I'm very disappointed in President Putin",
+    "paragraph_indices": [
+      110,
+      124
+    ],
+    "context": [
+      {
+        "i": 110,
+        "speaker": "Trump",
+        "text": "I'm very disappointed in President Putin. But, you know, they're losing—they're killing 5,000 people a week plus. Anywhere from 5- to 7,000 people a week are dying for no reason whatsoever.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 124,
+        "speaker": "Trump",
+        "text": "And then I was told that, \"If you can stop Russia and Ukraine, you should get the Nobel Prize.\" I said: \"Well, what about the seven others? I should get a Nobel Prize for each one.\" No, they said, \"But if you stop\"—think of that—\"But if you stop Russia and Ukraine, sir, you should be able to get the Nobel\"—I said, \"I stopped seven wars.\" That's one war, and that's a big one. But all of these—actually, that was the one I thought would be easiest war, because I have a good relationship with President Putin. Disappointed in him, but I do. I thought that would be the easiest one, but we'll get it done one way or the other.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      }
+    ],
+    "reason": "Explicit dissatisfaction, with current good relationship also reaffirmed.",
+    "review_method": "Second AI semantic review against expanded source context; no human validation"
+  },
+  {
+    "original_negative_index": 44,
+    "id": "DCPD-202500954",
+    "date": "2025-09-25",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500954/html/DCPD-202500954.htm",
+    "original_code": "negative",
+    "review_category": "explicit_mild_dissatisfaction",
+    "clear_personal_negative_evaluation": true,
+    "evidence": "I'm very disappointed in Putin",
+    "paragraph_indices": [
+      137
+    ],
+    "context": [
+      {
+        "i": 137,
+        "speaker": "Trump",
+        "text": "I thought Putin—I've—I settled, as you know, seven wars—and it's probably more than that, if you really want to know the—the real facts. But seven wars, and I thought this would be among the easier ones to settle. But I'm very disappointed in Putin.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      }
+    ],
+    "reason": "Explicit dissatisfaction; separate condemnation of Russian military conduct should not be mistaken for personal insult.",
+    "review_method": "Second AI semantic review against expanded source context; no human validation"
+  },
+  {
+    "original_negative_index": 45,
+    "id": "DCPD-202500955",
+    "date": "2025-09-25",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500955/html/DCPD-202500955.htm",
+    "original_code": "negative",
+    "review_category": "direct_conduct_condemnation",
+    "clear_personal_negative_evaluation": true,
+    "evidence": "He's killing people for no reason whatsoever",
+    "paragraph_indices": [
+      261,
+      268
+    ],
+    "context": [
+      {
+        "i": 261,
+        "speaker": "Trump",
+        "text": "The President. Well, because I've been watching the way Russia is—and what Russia has been doing. I'm very dissatisfied with what Russia is doing and what President Putin is doing. I haven't liked it at all. He's killing people for no reason whatsoever. And they are doing very poorly, considering they have put it all out on the line. They are—their economy is going to hell. They're bombing the hell out of everything. And they're picking up—very little territory, if any. In fact, they're losing some territory.",
+        "source_speaker_label": "The President",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 268,
+        "speaker": "Trump",
+        "text": "So, yes, I'm very disappointed in President Putin. I thought—I solved seven wars. In fact, we have a great leader coming. We have the Prime Minister of Pakistan coming and the field marshal. Pakistan field marshal is a very great guy and so is the Prime Minister—both. And they're coming. And they may be in this room right now, I don't know, because we're late. [Laughter] And I said maybe they'd like to join the——",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      }
+    ],
+    "reason": "Explicitly identifies Putin immediately before condemning killing.",
+    "review_method": "Second AI semantic review against expanded source context; no human validation"
+  },
+  {
+    "original_negative_index": 46,
+    "id": "DCPD-202500970",
+    "date": "2025-09-30",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500970/html/DCPD-202500970.htm",
+    "original_code": "negative",
+    "review_category": "personal_derision",
+    "clear_personal_negative_evaluation": true,
+    "evidence": "Are you a paper tiger?",
+    "paragraph_indices": [
+      208,
+      209
+    ],
+    "context": [
+      {
+        "i": 208,
+        "speaker": "Trump_written_or_single_speaker",
+        "text": "So I think we'll get that done, but that's turned out to be the toughest one. I'm so disappointed in President Putin. I thought he would get this thing over with. He should have had that war done in a week.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 209,
+        "speaker": "Trump_written_or_single_speaker",
+        "text": "And I said to him: \"You know, you don't look good. You're 4 years fighting a war that should have taken a week. Are you a paper tiger?\"",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      }
+    ],
+    "reason": "Retells direct derisive challenge to Putin about military performance. This is a reported earlier conversation, repeated in a new public speech, not a new private encounter.",
+    "review_method": "Second AI semantic review against expanded source context; no human validation"
+  },
+  {
+    "original_negative_index": 47,
+    "id": "DCPD-202500987",
+    "date": "2025-10-07",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500987/html/DCPD-202500987.htm",
+    "original_code": "negative",
+    "review_category": "explicit_mild_dissatisfaction",
+    "clear_personal_negative_evaluation": true,
+    "evidence": "I'm very disappointed in him",
+    "paragraph_indices": [
+      190
+    ],
+    "context": [
+      {
+        "i": 190,
+        "speaker": "Trump",
+        "text": "I thought that would have been one of the easy ones. I get along very well with Putin. And I thought that would have been—I'm very disappointed in him because I thought this would have been an easy one to settle, but it's turned out to be maybe tougher than the Middle East.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      }
+    ],
+    "reason": "Putin is unambiguous antecedent; current affinity simultaneously reaffirmed.",
+    "review_method": "Second AI semantic review against expanded source context; no human validation"
+  },
+  {
+    "original_negative_index": 48,
+    "id": "DCPD-202501004",
+    "date": "2025-10-12",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501004/html/DCPD-202501004.htm",
+    "original_code": "negative",
+    "review_category": "conditional_warning",
+    "clear_personal_negative_evaluation": false,
+    "evidence": "if he doesn't, it's not going to be good for him",
+    "paragraph_indices": [
+      126,
+      187,
+      188,
+      189
+    ],
+    "context": [
+      {
+        "i": 126,
+        "speaker": "Trump",
+        "text": "The President. I think that—I really think that President Putin would look great if he got this settled, and I think he's going to settle it, but we're going to see. And if he doesn't, it's not going to be good for him. Not going to be good for him.",
+        "source_speaker_label": "The President",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 187,
+        "speaker": "Reporter",
+        "text": "Q. Are you saying that you will speak to Putin first about Tomahawks before——",
+        "source_speaker_label": "Q",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 188,
+        "speaker": "Trump",
+        "text": "The President. I might talk to him. I might say: \"Look, if this war is not going to get settled, I'm going to send them Tomahawks.\" I may send them. The Tomahawk is an incredible weapon, very offensive weapon. And honestly, Russia does not need that. They don't need that.",
+        "source_speaker_label": "The President",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 189,
+        "speaker": "Trump",
+        "text": "Yes, I might tell them that if the war is not settled, that we may very well do—we may not, but we may do it. I think it's appropriate to bring up, yeah. I want to see the war settled.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      }
+    ],
+    "reason": "Warning about failure to settle, plus possible Tomahawk supply. Preserve as pressure; do not call it an asserted negative personal judgment.",
+    "review_method": "Second AI semantic review against expanded source context; no human validation"
+  },
+  {
+    "original_negative_index": 49,
+    "id": "DCPD-202501011",
+    "date": "2025-10-14",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501011/html/DCPD-202501011.htm",
+    "original_code": "negative",
+    "review_category": "direct_conduct_condemnation",
+    "clear_personal_negative_evaluation": true,
+    "evidence": "he just doesn't want to end that war. And I think it's making him look very bad",
+    "paragraph_indices": [
+      310
+    ],
+    "context": [
+      {
+        "i": 310,
+        "speaker": "Trump",
+        "text": "But he's got to really settle this war. And, you know, they have long lines waiting for gasoline in Russia right now. Right? They have long lines. Who thought that was going to happen? And all of a sudden, his economy is going to collapse. And I'd like to see him do well. I mean, I had a very good relationship with Vladimir Putin, but he just doesn't want to end that war. And I think it's making him look very bad. He could end it. He could end it quickly.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      }
+    ],
+    "reason": "Explicit unfavorable judgment of Putin’s refusal to end war.",
+    "review_method": "Second AI semantic review against expanded source context; no human validation"
+  },
+  {
+    "original_negative_index": 50,
+    "id": "DCPD-202501015",
+    "date": "2025-10-15",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501015/html/DCPD-202501015.htm",
+    "original_code": "negative",
+    "review_category": "direct_conduct_condemnation",
+    "clear_personal_negative_evaluation": true,
+    "evidence": "it doesn't make him look good",
+    "paragraph_indices": [
+      212,
+      213
+    ],
+    "context": [
+      {
+        "i": 212,
+        "speaker": "Trump",
+        "text": "And all we want from President Putin is stop this. Stop killing Ukraines and stop killing Russians, because he's killing a lot of Russians.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 213,
+        "speaker": "Trump",
+        "text": "Again, it doesn't make him look good. It's a war that he should have won in 1 week, and he's now going into his fourth year. That does not look—there's—make this big, so-called war machine look good.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      }
+    ],
+    "reason": "Own words tie Putin to killing and criticize military performance.",
+    "review_method": "Second AI semantic review against expanded source context; no human validation"
+  },
+  {
+    "original_negative_index": 51,
+    "id": "DCPD-202501023",
+    "date": "2025-10-17",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501023/html/DCPD-202501023.htm",
+    "original_code": "negative",
+    "review_category": "qualified_personal_concern",
+    "clear_personal_negative_evaluation": true,
+    "evidence": "Yes. Yes, I am",
+    "paragraph_indices": [
+      295,
+      296
+    ],
+    "context": [
+      {
+        "i": 295,
+        "speaker": "Reporter",
+        "text": "Q. On meeting with Putin, aren't you concerned that maybe the Russian President is trying to buy himself more time?",
+        "source_speaker_label": "Q",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 296,
+        "speaker": "Trump",
+        "text": "President Trump. Yes. Yes, I am, but, you know, I've been played all my life by the best of them, and I came out really well. So it's possible, yes. A little time. It's all right. But I think that I'm pretty good at this stuff. I think that he wants to make a deal. I made eight of them. I'm going to make a ninth. I think he wants to make a deal.",
+        "source_speaker_label": "President Trump",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      }
+    ],
+    "reason": "Affirms concern Putin may be buying time, then softens it as possible and renews confidence. Mild, conditional concern; not an accusation proven true.",
+    "review_method": "Second AI semantic review against expanded source context; no human validation"
+  },
+  {
+    "original_negative_index": 52,
+    "id": "DCPD-202501027",
+    "date": "2025-10-17",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501027/html/DCPD-202501027.htm",
+    "original_code": "negative",
+    "review_category": "request_without_negative_evaluation",
+    "clear_personal_negative_evaluation": false,
+    "evidence": "both sides should go home, go to their families, stop the killing",
+    "paragraph_indices": [
+      4
+    ],
+    "context": [
+      {
+        "i": 4,
+        "speaker": "Trump",
+        "text": "I met with President Zelenskyy, as you know, today, and we had a very good meeting, very cordial meeting. In my opinion, they should stop the war immediately. You go by the battle line, wherever it is. Otherwise, it's too complicated. You'll never be able to figure it out. You stop at the battle line. And both sides should go home, go to their families, stop the killing, and that should be it. Stop right now at the battle line. I told that to President Zelenskyy. I told it to President Putin.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      }
+    ],
+    "reason": "Appeal to both leaders to halt fighting. No asserted negative personal evaluation.",
+    "review_method": "Second AI semantic review against expanded source context; no human validation"
+  },
+  {
+    "original_negative_index": 53,
+    "id": "DCPD-202501038",
+    "date": "2025-10-22",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501038/html/DCPD-202501038.htm",
+    "original_code": "negative",
+    "review_category": "indirect_conduct_criticism",
+    "clear_personal_negative_evaluation": null,
+    "evidence": "every time I speak with Vladimir, I have good conversations and then they don't go anywhere",
+    "paragraph_indices": [
+      113,
+      114,
+      115,
+      116,
+      180
+    ],
+    "context": [
+      {
+        "i": 113,
+        "speaker": "Reporter",
+        "text": "Q. Mr. President, Secretary Bessent said that—Secretary Bessent said that Vladimir Putin had not been honest and forthright in his talks with you. Just wondering if you could tell us a little bit more about your feelings about that.",
+        "source_speaker_label": "Q",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 114,
+        "speaker": "Reporter",
+        "text": "And also, if I may, to—[inaudible]—Rutte, just your thoughts on whether Ukraine should get Tomahawks. Thank you.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 115,
+        "speaker": "Trump",
+        "text": "President Trump. Well, I think that in terms of honesty, the only thing I can say is every time I speak with Vladimir, I have good conversations and then they don't go anywhere. They just don't go anywhere. So in that sense.",
+        "source_speaker_label": "President Trump",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 116,
+        "speaker": "Trump",
+        "text": "But no, look, he's fighting a war. He's in a war. It's two very competent sides, and that's the way war is. You never know with war.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 180,
+        "speaker": "Trump",
+        "text": "President Trump. Well, I don't know that they will. I think that they'll certainly have an impact there. They're massive sanctions. It's sanctions in oil, the two biggest oil companies—among the biggest in the world, but they're Russian. They do a lot of oil. And hopefully, it'll push—hopefully, he'll become reasonable and, hopefully, Zelenskyy will be reasonable too.",
+        "source_speaker_label": "President Trump",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      }
+    ],
+    "reason": "Answer to honesty question implies criticism, but literal appraisal concerns call outcomes; retain separately rather than force into clear-personal total.",
+    "review_method": "Second AI semantic review against expanded source context; no human validation"
+  },
+  {
+    "original_negative_index": 54,
+    "id": "DCPD-202501040",
+    "date": "2025-10-23",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501040/html/DCPD-202501040.htm",
+    "original_code": "negative",
+    "review_category": "sarcastic_claim_disagreement",
+    "clear_personal_negative_evaluation": false,
+    "evidence": "I'll let you know about it in 6 months from now",
+    "paragraph_indices": [
+      343,
+      344
+    ],
+    "context": [
+      {
+        "i": 343,
+        "speaker": "Reporter",
+        "text": "Q. Thank you. President Putin basically said today that Russia is immune from U.S. sanctions. He said that it would not impact the Russian economy in any serious way. Is he wrong?",
+        "source_speaker_label": "Q",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 344,
+        "speaker": "Trump",
+        "text": "The President. Good. I'm glad he feels that way. That's good. I'll let you know about it in 6 months from now. Okay? Let's see. Let's see how it all works out.",
+        "source_speaker_label": "The President",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      }
+    ],
+    "reason": "Likely sarcastic disagreement with sanctions claim. No explicit negative assessment of Putin himself; interpretation flagged.",
+    "review_method": "Second AI semantic review against expanded source context; no human validation"
+  },
+  {
+    "original_negative_index": 55,
+    "id": "DCPD-202501043",
+    "date": "2025-10-24",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501043/html/DCPD-202501043.htm",
+    "original_code": "negative",
+    "review_category": "explicit_claim_disagreement",
+    "clear_personal_negative_evaluation": false,
+    "evidence": "I don't think he's right about that",
+    "paragraph_indices": [
+      102,
+      103
+    ],
+    "context": [
+      {
+        "i": 102,
+        "speaker": "Reporter",
+        "text": "Q. And do you worry that the sanctions are so biting that you might push Putin too far?",
+        "source_speaker_label": "Q",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 103,
+        "speaker": "Trump",
+        "text": "The President. I don't think so. No, I don't think so. He's saying, \"Well, they won't have that much of an effect.\" So I don't know. That's what he says. I don't think he's right about that, but we'll see. We'll see what happens. I think he'd like to see it over with.",
+        "source_speaker_label": "The President",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      }
+    ],
+    "reason": "Disputes Putin’s sanctions-effect prediction. A factual/policy disagreement, not a personal attack or character judgment.",
+    "review_method": "Second AI semantic review against expanded source context; no human validation"
+  },
+  {
+    "original_negative_index": 56,
+    "id": "DCPD-202501046",
+    "date": "2025-10-25",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501046/html/DCPD-202501046.htm",
+    "original_code": "negative",
+    "review_category": "general_process_frustration",
+    "clear_personal_negative_evaluation": false,
+    "evidence": "this has been very disappointing",
+    "paragraph_indices": [
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "context": [
+      {
+        "i": 30,
+        "speaker": "Reporter",
+        "text": "Q. What will Russia have to do for you to reschedule your meeting with Putin?",
+        "source_speaker_label": "Q",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 31,
+        "speaker": "Trump",
+        "text": "The President. I'm going to have to know that we're going to make a deal. I'm not going to be wasting my time.",
+        "source_speaker_label": "The President",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 32,
+        "speaker": "Trump",
+        "text": "I've always had a great relationship with Vladimir Putin, but this has been very disappointing. I thought this would have gotten long before peace in the Middle East. I mean, we have Azerbaijan and Armenia. That was very tough. In fact, Putin told me on the phone, he said, \"Boy, that was amazing,\" because everybody tried to get that done, and they couldn't. I got it done.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 33,
+        "speaker": "Trump",
+        "text": "You had others that—if you look at India and Pakistan, I could say almost any one of the deals that I've already done, I thought would have been more difficult than Russia and Ukraine, but it didn't work out that way.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 34,
+        "speaker": "Trump",
+        "text": "There's a lot of hatred between the two. Between Zelenskyy and Putin, there's tremendous hatred.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      }
+    ],
+    "reason": "This refers to peace process; explicitly retains great personal relationship. Not the same wording as disappointed in Putin.",
+    "review_method": "Second AI semantic review against expanded source context; no human validation"
+  },
+  {
+    "original_negative_index": 57,
+    "id": "DCPD-202501059",
+    "date": "2025-10-27",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501059/html/DCPD-202501059.htm",
+    "original_code": "negative",
+    "review_category": "direct_conduct_condemnation",
+    "clear_personal_negative_evaluation": true,
+    "evidence": "I don't think it's an appropriate thing to Putin—for Putin to be saying",
+    "paragraph_indices": [
+      67,
+      68
+    ],
+    "context": [
+      {
+        "i": 67,
+        "speaker": "Trump",
+        "text": "We test missiles all the time. But you know, we do have a submarine—a nuclear submarine. We don't need to go 8,000 miles. And I don't think it's an appropriate thing to Putin—for Putin to be saying, either, by the way.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 68,
+        "speaker": "Trump",
+        "text": "You ought to get the war ended. A war that should have taken 1 week is now in its soon fourth year. That's what he ought to do, instead of testing missiles.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      }
+    ],
+    "reason": "Explicitly criticizes Putin’s missile-related statement.",
+    "review_method": "Second AI semantic review against expanded source context; no human validation"
+  },
+  {
+    "original_negative_index": 58,
+    "id": "DCPD-202501070",
+    "date": "2025-10-29",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501070/html/DCPD-202501070.htm",
+    "original_code": "negative",
+    "review_category": "implicit_personal_disappointment",
+    "clear_personal_negative_evaluation": null,
+    "evidence": "He turned out to be a little different",
+    "paragraph_indices": [
+      124
+    ],
+    "context": [
+      {
+        "i": 124,
+        "speaker": "Trump_written_or_single_speaker",
+        "text": "The only one I didn't do is Russia-Ukraine, but that will get done too. That will get done. I thought that was going to be an easy one because of my relationship with President Putin. He turned out to be a little different, but I think it will get done. It would have never started if I were president. That war would have never, ever started.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      }
+    ],
+    "reason": "Negative implication arises from unmet expectations, but different is not explicitly negative by itself. Keep as ambiguous/implicit.",
+    "review_method": "Second AI semantic review against expanded source context; no human validation"
+  },
+  {
+    "original_negative_index": 59,
+    "id": "DCPD-202501103",
+    "date": "2025-11-07",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501103/html/DCPD-202501103.htm",
+    "original_code": "negative",
+    "review_category": "russia_state_criticism",
+    "clear_personal_negative_evaluation": false,
+    "evidence": "they just don't want to stop yet",
+    "paragraph_indices": [
+      142,
+      143,
+      144,
+      145,
+      146
+    ],
+    "context": [
+      {
+        "i": 142,
+        "speaker": "Reporter",
+        "text": "Q. What is the main dispute with the Russians which prevent the Budapest summit with Putin for—from taking place?",
+        "source_speaker_label": "Q",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 143,
+        "speaker": "Trump",
+        "text": "President Trump. The basic dispute is, they just don't want to stop yet. And I think they will. I think that's—it's taken a big toll on Russia. Big toll on both countries, obviously—but it's taken a big toll. They're losing 7,000 soldiers a week. That's a big toll. And between the two of them—divided—you know, with Russia losing more soldiers, actually. But they're both losing a lot of people.",
+        "source_speaker_label": "President Trump",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 144,
+        "speaker": "Trump",
+        "text": "And that's the primary thing that—with me. It's not economic. It's not money. In fact, we don't spend any money. We send it to NATO. They pay us for our missiles and for our military and everything else.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 145,
+        "speaker": "Trump",
+        "text": "We don't—it's not a question of money. It was with Biden. He spent $350 billion and got nothing for it.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 146,
+        "speaker": "Trump",
+        "text": "The war would have never happened. If I were President, the war would have never happened. I think you would agree with that. This war would never have happened if I were President. It's stupid that it happened. But it did happen. I inherited the war, and I think we're going to get it ended—not-too-distant future.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      }
+    ],
+    "reason": "Question identifies Russians and answer uses they. Inferring exclusive personal attribution to Putin overstates literal wording.",
+    "review_method": "Second AI semantic review against expanded source context; no human validation"
+  },
+  {
+    "original_negative_index": 60,
+    "id": "DCPD-202501130",
+    "date": "2025-11-18",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501130/html/DCPD-202501130.htm",
+    "original_code": "negative",
+    "review_category": "implicit_personal_disappointment",
+    "clear_personal_negative_evaluation": null,
+    "evidence": "I'm a little surprised at Putin",
+    "paragraph_indices": [
+      335
+    ],
+    "context": [
+      {
+        "i": 335,
+        "speaker": "Trump",
+        "text": "I have another one to go with Putin. I'm a little surprised at Putin. It's taken longer than I thought.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      }
+    ],
+    "reason": "Personal target explicit but criticism inferred from delay; preserve as soft implied frustration, not settled direct negative judgment.",
+    "review_method": "Second AI semantic review against expanded source context; no human validation"
+  },
+  {
+    "original_negative_index": 61,
+    "id": "DCPD-202501132",
+    "date": "2025-11-19",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202501132/html/DCPD-202501132.htm",
+    "original_code": "negative",
+    "review_category": "explicit_mild_dissatisfaction",
+    "clear_personal_negative_evaluation": true,
+    "evidence": "I'm a little disappointed in President Putin right now",
+    "paragraph_indices": [
+      185,
+      195
+    ],
+    "context": [
+      {
+        "i": 185,
+        "speaker": "Trump",
+        "text": "And I've settled eight raging conflicts. Eight wars. I've settled eight wars. I have one to go. You know what that one is. I thought that was going to be my easy one because I have a good relationship with President Putin, but I'm a little disappointed in President Putin right now. He knows that. I thought that was going to be the easy one.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 195,
+        "speaker": "Trump",
+        "text": "Actually, Putin called me. He said: \"I can't believe you got that one settled. We've been trying to settle that one for a long time.\" I said, \"Don't worry about that. Just let me settle your fricking war.\" [Laughter] \"Okay? Don't—you don't have to help me. I don't need any help. I need help with your war.\" And it'll get done.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      }
+    ],
+    "reason": "Explicit mild dissatisfaction coexists with current relationship praise.",
+    "review_method": "Second AI semantic review against expanded source context; no human validation"
+  },
+  {
+    "original_negative_index": 62,
+    "id": "DCPD-202600003",
+    "date": "2026-01-03",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202600003/html/DCPD-202600003.htm",
+    "original_code": "negative",
+    "review_category": "direct_conduct_condemnation",
+    "clear_personal_negative_evaluation": true,
+    "evidence": "I'm not thrilled with Putin. I'm not thrilled with Putin. He's killing too many people",
+    "paragraph_indices": [
+      283,
+      284,
+      287
+    ],
+    "context": [
+      {
+        "i": 283,
+        "speaker": "Reporter",
+        "text": "Q. Are you mad at him right now? I mean, there's this intelligence——",
+        "source_speaker_label": "Q",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 284,
+        "speaker": "Trump",
+        "text": "The President. I'm not thrilled with Putin. I'm not thrilled with Putin. He's killing too many people.",
+        "source_speaker_label": "The President",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 287,
+        "speaker": "Trump",
+        "text": "I thought the easiest one would be—one of the easier ones would be Russia-Ukraine. It's not. And they both have done some pretty bad things. And look, that's Biden's war. That's not my war. But I want to stop the lives—did you see where last month 30,000, this last—it was twenty-seven—27,000 the month before. Thirty thousand, mostly soldiers, were killed this last month.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      }
+    ],
+    "reason": "Clear negative evaluation and attribution of killing; later both-sides blame also retained.",
+    "review_method": "Second AI semantic review against expanded source context; no human validation"
+  },
+  {
+    "original_negative_index": 63,
+    "id": "DCPD-202600005",
+    "date": "2026-01-04",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202600005/html/DCPD-202600005.htm",
+    "original_code": "negative",
+    "review_category": "explicit_claim_disagreement",
+    "clear_personal_negative_evaluation": false,
+    "evidence": "He said that his house was attacked. We don't believe that happened",
+    "paragraph_indices": [
+      395,
+      396,
+      397,
+      398,
+      399,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405,
+      406
+    ],
+    "context": [
+      {
+        "i": 395,
+        "speaker": "Reporter",
+        "text": "Q. So you said that you were really very angry with the Ukrainian President, Zelenskyy, if he was the one who conducted that strike on Putin's residence. And Putin——",
+        "source_speaker_label": "Q",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 396,
+        "speaker": "Trump",
+        "text": "The President. I don't believe that strike happened.",
+        "source_speaker_label": "The President",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 397,
+        "speaker": "Reporter",
+        "text": "Q. Right. So Putin had said in that phone call to you that that strike happened. You came out and said that, and you believed Putin, and there was some criticism——",
+        "source_speaker_label": "Q",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 398,
+        "speaker": "Trump",
+        "text": "The President. There is something that happened fairly nearby, but had nothing to do with his house.",
+        "source_speaker_label": "The President",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 399,
+        "speaker": "Reporter",
+        "text": "Q. Why did you believe Putin in that moment and then go say that about Ukrainian President Zelenskyy?",
+        "source_speaker_label": "Q",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 400,
+        "speaker": "Trump",
+        "text": "The President. Because nobody knew at that moment. I mean, that was the first I heard about",
+        "source_speaker_label": "The President",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 401,
+        "speaker": "Trump",
+        "text": "it.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 402,
+        "speaker": "Reporter",
+        "text": "Q. So why not wait?",
+        "source_speaker_label": "Q",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 403,
+        "speaker": "Trump",
+        "text": "The President. He said that his house was attacked. We don't believe that happened as of—",
+        "source_speaker_label": "The President",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 404,
+        "speaker": "Trump",
+        "text": "you know, now that we've been able to check.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 405,
+        "speaker": "Reporter",
+        "text": "Q. Yes.",
+        "source_speaker_label": "Q",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 406,
+        "speaker": "Trump",
+        "text": "The President. But that was the first we ever heard about it. We just hope that Russia and Ukraine get it settled.",
+        "source_speaker_label": "The President",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      }
+    ],
+    "reason": "Rejects a claim Putin made, while explaining original belief; does not call him dishonest or offer a negative character appraisal.",
+    "review_method": "Second AI semantic review against expanded source context; no human validation"
+  },
+  {
+    "original_negative_index": 64,
+    "id": "DCPD-202600012",
+    "date": "2026-01-09",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202600012/html/DCPD-202600012.htm",
+    "original_code": "negative",
+    "review_category": "explicit_mild_dissatisfaction",
+    "clear_personal_negative_evaluation": true,
+    "evidence": "I get along very well with President Putin, but I'm very disappointed in him",
+    "paragraph_indices": [
+      331
+    ],
+    "context": [
+      {
+        "i": 331,
+        "speaker": "Trump",
+        "text": "If we don't do it, China or Russia will. It's not going to happen. We are not going to have—and I like China, I like Russia. I love the people of China. I love the people of Russia. I get along very well with President Putin, but I'm very disappointed in him. I get along very well with President Xi. I'm going to go over to China in April. But I don't want them as a neighbor in Greenland. Not going to happen.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      }
+    ],
+    "reason": "Clear personal disappointment and current affinity in same sentence.",
+    "review_method": "Second AI semantic review against expanded source context; no human validation"
+  },
+  {
+    "original_negative_index": 65,
+    "id": "DCPD-202600046",
+    "date": "2026-01-21",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202600046/html/DCPD-202600046.htm",
+    "original_code": "negative",
+    "review_category": "request_without_negative_evaluation",
+    "clear_personal_negative_evaluation": false,
+    "evidence": "Focus on settling your war. Don't worry about that one",
+    "paragraph_indices": [
+      77,
+      78,
+      99,
+      100
+    ],
+    "context": [
+      {
+        "i": 77,
+        "speaker": "Trump",
+        "text": "And I've now been working on this war for one year, during which time I settled eight other wars. India-Pakistan. I've—I mean, I settled other wars that were—Vladimir Putin called me.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 78,
+        "speaker": "Trump",
+        "text": "Armenia-Aberbaijan [Azerbaijan; White House correction]. He said: \"I can't believe you settled that one. They were going on for 35 years.\" I settled it in 1 day, and President Putin called me. He said: \"You know, I can't believe—I've worked on that war for 10 years, trying to settle it. And I couldn't do it.\" I said, \"Do me a favor: Focus on settling your war. Don't worry about that one.\"",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 99,
+        "speaker": "Trump",
+        "text": "And I'm dealing with President Putin, and he wants to make a deal, I believe. I'm dealing with President Zelenskyy, and I think he wants to make a deal. I'm meeting him today. He might be in the audience right now.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 100,
+        "speaker": "Trump",
+        "text": "But they've got to get that war stopped because too many people are dying—needlessly dying. Too many souls are being lost. It's the only reason I'm interested in doing it. But in doing it, I'm helping Europe, I'm helping NATO. And I—and I've—until the last few days when I told them about Iceland, they loved me. They called me \"Daddy\"—right?—the last time. Very smart man said, \"He's our daddy.\" He's running it. I was, like, running it. I went from running it to being a terrible human being.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      }
+    ],
+    "reason": "Directive/retort redirecting attention to own war, without explicit negative personal evaluation.",
+    "review_method": "Second AI semantic review against expanded source context; no human validation"
+  },
+  {
+    "original_negative_index": 66,
+    "id": "DCPD-202600078",
+    "date": "2026-02-03",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202600078/html/DCPD-202600078.htm",
+    "original_code": "negative",
+    "review_category": "explicit_mild_dissatisfaction",
+    "clear_personal_negative_evaluation": true,
+    "evidence": "Yes, I would have liked him to",
+    "paragraph_indices": [
+      202,
+      203,
+      204,
+      205,
+      206
+    ],
+    "context": [
+      {
+        "i": 202,
+        "speaker": "Reporter",
+        "text": "Q. On Ukraine, Mr. President. Yesterday you were talking about how Vladimir Putin had agreed to a pause during the cold weather. Overnight, those attacks have started up again. Apparently, the worst——",
+        "source_speaker_label": "Q",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 203,
+        "speaker": "Trump",
+        "text": "The President. I know. It was Sunday. It was Sunday to Sunday. And it opened up, and he hit them hard last night.",
+        "source_speaker_label": "The President",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 204,
+        "speaker": "Trump",
+        "text": "No, he agreed—he kept his word on that. It was—it's a lot. You know, 1 week is—we'll take anything, because it's really, really cold over there. But it was on Sunday, and he went from Sunday to Sunday.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 205,
+        "speaker": "Reporter",
+        "text": "Q. Are you disappointed he didn't go further or go longer?",
+        "source_speaker_label": "Q",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 206,
+        "speaker": "Trump",
+        "text": "The President. Yes, I would have liked him to. I want him to end the war. I spoke to him. I want him to end the war.",
+        "source_speaker_label": "The President",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      }
+    ],
+    "reason": "Answers yes to whether disappointed Putin did not prolong pause, immediately after defending compliance. Very mild dissatisfaction, not breach allegation.",
+    "review_method": "Second AI semantic review against expanded source context; no human validation"
+  },
+  {
+    "original_negative_index": 67,
+    "id": "DCPD-202600145",
+    "date": "2026-03-03",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202600145/html/DCPD-202600145.htm",
+    "original_code": "negative",
+    "review_category": "joint_personal_blame",
+    "clear_personal_negative_evaluation": true,
+    "evidence": "Sometimes I blame one. Sometimes I blame the other",
+    "paragraph_indices": [
+      235,
+      236,
+      237,
+      238,
+      239
+    ],
+    "context": [
+      {
+        "i": 235,
+        "speaker": "Trump",
+        "text": "President Trump. And as far as Russia-Ukraine, where is it on my priority list? Very high. We thought that—I thought it was going to be one of the easier ones. I've settled eight wars and actually maybe one more than that, but minimum eight wars, big ones. Potential India-Pakistan. Big, big wars. Very important, big ones.",
+        "source_speaker_label": "President Trump",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 236,
+        "speaker": "Trump",
+        "text": "I thought this was going to be much easier than it is. It's very—there's tremendous hatred between President Putin and President Zelenskyy. Tremendous hatred. I'm—I've seen a lot of hatred in my life, but I think this is about top scale. I believe it's going to happen. Sometimes I blame one. Sometimes I blame the other. I think it's going to happen.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 237,
+        "speaker": "Trump",
+        "text": "But it's high on my list, not in that it affects the United States so much, because it's very far away. But last week, I just see, last week and for the last 4 weeks, actually, 32,000 soldiers died. Thirty-two thousand. And it's been averaging 25- to 30,000 soldiers a month have been dying in that stupid war. And I'd love to see it ended. It's the worst that there has been since World War II.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 238,
+        "speaker": "Reporter",
+        "text": "Q. If you can't get a deal, what will that mean for you?",
+        "source_speaker_label": "Q",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 239,
+        "speaker": "Trump",
+        "text": "President Trump. All you can do is do your best, you know. It takes two to tango, and they have to get along. They have to be able to talk to each other. They hate each other a lot. That has an impact, you know. It really has an impact. It's bad for both.",
+        "source_speaker_label": "President Trump",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      }
+    ],
+    "reason": "Explicit blame directed to the two named leaders. Joint, shifting attribution; not exclusive condemnation of Putin.",
+    "review_method": "Second AI semantic review against expanded source context; no human validation"
+  },
+  {
+    "original_negative_index": 68,
+    "id": "DCPD-202600161",
+    "date": "2026-03-09",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202600161/html/DCPD-202600161.htm",
+    "original_code": "negative",
+    "review_category": "joint_competence_criticism",
+    "clear_personal_negative_evaluation": true,
+    "evidence": "They can't seem to get it together",
+    "paragraph_indices": [
+      54,
+      55,
+      56
+    ],
+    "context": [
+      {
+        "i": 54,
+        "speaker": "Trump",
+        "text": "The President. Yes. I had a very good call with President Putin. We had a lot of people on the line from our side, from his side.",
+        "source_speaker_label": "The President",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 55,
+        "speaker": "Trump",
+        "text": "We were talking about Ukraine, which is just a never-ending fight. And when—look, there's tremendous hatred between President Putin and President Zelenskyy. They can't seem to get it together. But I think it was a positive call on that subject.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 56,
+        "speaker": "Trump",
+        "text": "And we obviously talked then about the Middle East, and he wants to be helpful. I said, \"You could be more helpful by getting the Ukraine-Russia war over with. That would be more helpful.\" But we had a very good talk, and he wants to be very constructive.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      }
+    ],
+    "reason": "Explicit inability attributed to both named leaders; separate request to finish war alone would not suffice. Warm call/constructive intention also present.",
+    "review_method": "Second AI semantic review against expanded source context; no human validation"
+  },
+  {
+    "original_negative_index": 69,
+    "id": "DCPD-202600290",
+    "date": "2026-04-29",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202600290/html/DCPD-202600290.htm",
+    "original_code": "negative",
+    "review_category": "request_without_negative_evaluation",
+    "clear_personal_negative_evaluation": false,
+    "evidence": "Before you help me, I want to end your war",
+    "paragraph_indices": [
+      82,
+      83,
+      84
+    ],
+    "context": [
+      {
+        "i": 82,
+        "speaker": "Reporter",
+        "text": "Q. On your call with President Putin today. Do you think the war in Iran ends first or the war in Ukraine?",
+        "source_speaker_label": "Q",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 83,
+        "speaker": "Trump",
+        "text": "The President. Well, we talked about—more about the war in Ukraine, but he would like to be of help. I said, \"Before you help me, I want to end your war.\" So we had a good talk. I've known him a long time. I think he was ready to make a deal a while ago. I think some people made it difficult for him to make a deal. But we talked more about Ukraine.",
+        "source_speaker_label": "The President",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 84,
+        "speaker": "Reporter",
+        "text": "Q. But which war do you think ends first?",
+        "source_speaker_label": "Q",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      }
+    ],
+    "reason": "Expressed priority/request, embedded in good-call and favorable-defense language. Not a negative personal evaluation.",
+    "review_method": "Second AI semantic review against expanded source context; no human validation"
+  },
+  {
+    "original_negative_index": 70,
+    "id": "DCPD-202600406",
+    "date": "2026-06-16",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202600406/html/DCPD-202600406.htm",
+    "original_code": "negative",
+    "review_category": "general_process_frustration",
+    "clear_personal_negative_evaluation": false,
+    "evidence": "they just keep going—fighting, losing soldiers",
+    "paragraph_indices": [
+      72,
+      73,
+      74,
+      75,
+      76
+    ],
+    "context": [
+      {
+        "i": 72,
+        "speaker": "Trump",
+        "text": "President Trump. Look, Russia should make a deal. Russia's lost tremendous amounts of people and so has Ukraine. Last month, they lost 35,000 soldiers between the two of them. Think of that. This is on a monthly basis. They average 25,000 people, mostly soldiers—young—young, beautiful people. And it's crazy what's going on there.",
+        "source_speaker_label": "President Trump",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 73,
+        "speaker": "Trump",
+        "text": "But we had a meeting. And we'll see how—I spoke with President Putin on Sunday, and it's sort of the same thing. I mean, they just keep going—fighting, losing soldiers. They lose so many soldiers.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 74,
+        "speaker": "Trump",
+        "text": "This is—not since World War II has anything like this happened. I settled eight wars. This was the one I thought was going to be the easiest to settle.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 75,
+        "speaker": "Amir Tamim",
+        "text": "Amir Tamim. Yes.",
+        "source_speaker_label": "Amir Tamim",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 76,
+        "speaker": "Trump",
+        "text": "President Trump. They just—there's a lot of dislike between the two leaders. But yes, I'm meeting with him again later on today.",
+        "source_speaker_label": "President Trump",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      }
+    ],
+    "reason": "Laments continued fighting by both sides; does not explicitly criticize Putin personally.",
+    "review_method": "Second AI semantic review against expanded source context; no human validation"
+  },
+  {
+    "original_negative_index": 71,
+    "id": "DCPD-202600410",
+    "date": "2026-06-17",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202600410/html/DCPD-202600410.htm",
+    "original_code": "negative",
+    "review_category": "joint_competence_criticism",
+    "clear_personal_negative_evaluation": true,
+    "evidence": "They want to do it; they just don't know how",
+    "paragraph_indices": [
+      131,
+      132,
+      186
+    ],
+    "context": [
+      {
+        "i": 131,
+        "speaker": "Trump",
+        "text": "Yesterday morning, we had a productive conversation on the war in Ukraine. I spoke with President Putin. I spoke with President Zelenskyy, and he was—he was there. And President Putin I spoke over the phone with. And something's going to happen. They're losing a lot of people, a lot of soldiers. They're losing soldiers. Both are losing a lot. Russia's losing more because they're the offensive ones, and when you're offensive in war, you lose more. Pretty simple.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 132,
+        "speaker": "Trump",
+        "text": "But I provided an update on my call Sunday with President Putin and expressed my continued hope. We had a very good conversation with President Putin and a very, very good conversation with President Zelenskyy. I think they both want to do something. They just don't know how to do it. They want to do it; they just don't know how.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 186,
+        "speaker": "Trump",
+        "text": "And I want to thank Vladimir Putin. He was very neutral. They could have made it much more difficult for us. And I want to say it. You know, somebody would say: \"Oh, that's terrible. He's thanking—he's thanking President Xi of China.\"",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      }
+    ],
+    "reason": "Explicit competence shortcoming attributed jointly to Putin and Zelenskyy; Putin neutrality also praised.",
+    "review_method": "Second AI semantic review against expanded source context; no human validation"
+  },
+  {
+    "original_negative_index": 72,
+    "id": "DCPD-202600450",
+    "date": "2026-07-08",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202600450/html/DCPD-202600450.htm",
+    "original_code": "negative",
+    "review_category": "explicit_mild_personal_characterization",
+    "clear_personal_negative_evaluation": true,
+    "evidence": "Putin's a difficult character",
+    "paragraph_indices": [
+      25
+    ],
+    "context": [
+      {
+        "i": 25,
+        "speaker": "Trump",
+        "text": "President Trump. Well, we've settled a lot of wars. And this one is the one that I thought maybe would be the easiest, but Putin's a difficult character, and this guy's a difficult character. Doesn't—it's not the easiest—not the easiest thing. And there's a lot of commitment, and there's a lot of love of the countries and everything else. But I think we've made a lot of progress in the last couple of weeks, and we'll see how it all goes.",
+        "source_speaker_label": "President Trump",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      }
+    ],
+    "reason": "Direct negative characterization, immediately applied equally to Zelenskyy. Not a severe insult.",
+    "review_method": "Second AI semantic review against expanded source context; no human validation"
+  },
+  {
+    "original_negative_index": 73,
+    "id": "DCPD-202600500",
+    "date": "2026-07-29",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202600500/html/DCPD-202600500.htm",
+    "original_code": "negative",
+    "review_category": "general_war_condemnation",
+    "clear_personal_negative_evaluation": false,
+    "evidence": "That's standard, and it's not acceptable",
+    "paragraph_indices": [
+      285,
+      286,
+      287,
+      288
+    ],
+    "context": [
+      {
+        "i": 285,
+        "speaker": "Reporter",
+        "text": "Q. Do you see a time scale for getting that conflict resolved?",
+        "source_speaker_label": "Q",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 286,
+        "speaker": "Trump",
+        "text": "The President. No, it was good. Look, you know, he's out doing his thing. I'd like him to end the war.",
+        "source_speaker_label": "The President",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 287,
+        "speaker": "Trump",
+        "text": "So it's very simple. I get along with both. I get along with President Putin. I get along with President Zelenskyy. I'd like—I told him I want to end the war, get the war ended. Thousands of people—25,000 people died last month. That's standard, and it's not acceptable.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 288,
+        "speaker": "Trump",
+        "text": "So I said, \"Just end the war.\" [Several reporters spoke at once.]",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      }
+    ],
+    "reason": "Not acceptable modifies casualty level, not an explicit personal judgment. Current affinity with both is reaffirmed.",
+    "review_method": "Second AI semantic review against expanded source context; no human validation"
+  },
+  {
+    "original_negative_index": 74,
+    "id": "DCPD-202600570",
+    "date": "2026-09-02",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202600570/html/DCPD-202600570.htm",
+    "original_code": "negative",
+    "review_category": "general_war_condemnation",
+    "clear_personal_negative_evaluation": false,
+    "evidence": "they ought to stop that stupid war",
+    "paragraph_indices": [
+      234,
+      236,
+      237,
+      238
+    ],
+    "context": [
+      {
+        "i": 234,
+        "speaker": "Trump",
+        "text": "You know, I was there 2016 to 2020, and I would talk to Putin about it. It would have never happened. Zero chance. And when I left, I saw what was going on, and I said, \"You know, I think these guys are going to go to war.\" I thought it was crazy. It would—just wouldn't have happened.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 236,
+        "speaker": "Trump",
+        "text": "But I will say this: One thing is that war would have never happened, and all those young—mostly soldiers, but people—you know, missiles going into towns—but mostly young soldiers. Twenty-five thousand soldiers a month are being killed. Can you imagine that? Twenty-five—that's like a stadium. Twenty-five thousand, on average. And many of them are Ukrainian. You know, they like to say, \"Oh, it's all Russian.\" Well, there are a lot of Russians. Probably more Russians because they're offensive. You know, they're on the offense, as opposed to the defense, and more people die when you're on the offense. But tremendous numbers of soldiers, both Ukrainian and Russian, are being killed, and they ought to stop that stupid war.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 237,
+        "speaker": "Trump",
+        "text": "And we are continuing—you know, I stopped eight wars. Eight. Some of them would be thought of as much tougher to stop than this, and I got them stopped. But there's tremendous animosity between the two Presidents. Tremendous animosity.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 238,
+        "speaker": "Trump",
+        "text": "But I think it's going to be pretty close. It's going to be time. They seem to have a new burst of energy. But I think they're going to be—I'm dealing with both of them, and I think they're going to stop it.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      }
+    ],
+    "reason": "Stupid modifies war, not Putin. Joint desire to stop bloodshed rather than a direct personal attack.",
+    "review_method": "Second AI semantic review against expanded source context; no human validation"
+  },
+  {
+    "original_negative_index": 75,
+    "id": "DCPD-202600575",
+    "date": "2026-09-04",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202600575/html/DCPD-202600575.htm",
+    "original_code": "negative",
+    "review_category": "joint_personal_blame",
+    "clear_personal_negative_evaluation": true,
+    "evidence": "They have serious hate, and it's getting in the way",
+    "paragraph_indices": [
+      424,
+      425,
+      426,
+      427
+    ],
+    "context": [
+      {
+        "i": 424,
+        "speaker": "Reporter",
+        "text": "Q. Can you tell us more about this new proposal for peace between Ukraine and Russia? Would it involve, for example, Ukraine ceding territories to Russia?",
+        "source_speaker_label": "Q",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 425,
+        "speaker": "Trump",
+        "text": "The President. No, we have an idea for peace. Look, I settled eight wars. Most of them were supposed to be, in my opinion, more difficult than Russia-Ukraine.",
+        "source_speaker_label": "The President",
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 426,
+        "speaker": "Trump",
+        "text": "There's a personality problem in Russia-Ukraine. You have President Zelenskyy and President Putin; they truly hate each other. Do you know what hate is? They have serious hate, and it's getting in the way of them—you know, last week they lost 32,000 people, mostly soldiers, last—during the last month. Four weeks, they lost 32,000 soldiers. They're losing, on average, 25,000 soldiers a month. It's got to get settled.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      },
+      {
+        "i": 427,
+        "speaker": "Trump",
+        "text": "So I did—I sent Steve Witkoff and Jared Kushner, the two great negotiators. They've done a great job. And we sent them over to see whether or not we can get something done. And there may be a good chance that we'll do it.",
+        "source_speaker_label": null,
+        "mixed_speaker_paragraph": false,
+        "source_speaker_runs": []
+      }
+    ],
+    "reason": "Explicitly identifies both leaders’ personal animosity as obstacle. Joint blame, while elsewhere defending Putin’s NATO intentions.",
+    "review_method": "Second AI semantic review against expanded source context; no human validation"
+  }
+]

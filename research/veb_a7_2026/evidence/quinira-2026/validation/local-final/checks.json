@@ -1,0 +1,87 @@
+{
+  "head": "4e56e96e4f232b4f8179bd911120e7b3f4e7857f",
+  "timestamp": "2026-10-11T03:42:53.283904+00:00",
+  "checks": [
+    {
+      "command": [
+        "node",
+        "research/veb_a7_2026/validate_evidence.mjs"
+      ],
+      "exit_code": 0,
+      "log": "01.log"
+    },
+    {
+      "command": [
+        "node",
+        "research/veb_a7_2026/validate_followup.mjs"
+      ],
+      "exit_code": 0,
+      "log": "02.log"
+    },
+    {
+      "command": [
+        "node",
+        "research/veb_a7_2026/validate_accounting.mjs"
+      ],
+      "exit_code": 0,
+      "log": "03.log"
+    },
+    {
+      "command": [
+        "node",
+        "research/veb_a7_2026/validate_corpus_tax.mjs"
+      ],
+      "exit_code": 0,
+      "log": "04.log"
+    },
+    {
+      "command": [
+        "node",
+        "research/veb_a7_2026/audit_rinfo.mjs"
+      ],
+      "exit_code": 0,
+      "log": "05.log"
+    },
+    {
+      "command": [
+        "node",
+        "--test",
+        "research/veb_a7_2026/validate_evidence.test.mjs",
+        "research/veb_a7_2026/review_assessment.test.mjs"
+      ],
+      "exit_code": 0,
+      "log": "06.log"
+    },
+    {
+      "command": [
+        "node",
+        "--test",
+        "research/veb_a7_2026/gorlane_review.test.mjs",
+        "research/veb_a7_2026/panama_papers_findings.test.mjs"
+      ],
+      "exit_code": 0,
+      "log": "07.log"
+    },
+    {
+      "command": [
+        "python3",
+        "-B",
+        "research/veb_a7_2026/test_gorlane_neighborhood.py"
+      ],
+      "exit_code": 0,
+      "log": "08.log"
+    },
+    {
+      "command": [
+        "node",
+        "--test",
+        "research/veb_a7_2026/quinira_review.test.mjs"
+      ],
+      "exit_code": 0,
+      "log": "09.log"
+    }
+  ],
+  "tracked_files": 506,
+  "file_hashes_unchanged": true,
+  "raw_icij_check_run": false
+}

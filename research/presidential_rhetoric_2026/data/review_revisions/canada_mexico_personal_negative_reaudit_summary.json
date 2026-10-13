@@ -1,0 +1,140 @@
+{
+  "scope": "Re-audit of the supplied 35 first-pass personally negative Canada/Mexico leader candidates (22 official leader-record rows and 13 social posts). Not exhaustive new frequency analysis; not a praise-versus-criticism comparison.",
+  "audit_date_utc": "2026-10-12",
+  "unit": "Leader-by-public-communication rows. DCPD-202600481 occurs for both Trudeau and Carney; 35 rows represent 34 distinct source IDs, with 21 official sources and 13 social posts.",
+  "input_sha256": "cca224c7133d1798218eaa593783c53585c34f78846bb50b372ab89049142e22",
+  "reviewed_rows": 35,
+  "distinct_source_ids": 34,
+  "tiers": {
+    "clear": 28,
+    "separate": 4,
+    "contextual": 3
+  },
+  "by_channel": {
+    "official": {
+      "clear": 17,
+      "separate": 2,
+      "contextual": 3
+    },
+    "social": {
+      "clear": 11,
+      "separate": 2
+    }
+  },
+  "by_target": {
+    "Trudeau": {
+      "clear": 18,
+      "contextual": 2
+    },
+    "Carney": {
+      "clear": 6,
+      "separate": 4,
+      "contextual": 1
+    },
+    "Sheinbaum": {
+      "clear": 4
+    }
+  },
+  "distinct_sources_by_tier": {
+    "clear": 28,
+    "contextual": 2,
+    "separate": 4
+  },
+  "personal_insult_or_sovereignty_derision_rows": 18,
+  "governor_nickname_rows": 16,
+  "mixed_personal_favorable_same_answer_or_statement": {
+    "count": 4,
+    "rows": [
+      "DCPD-202500304",
+      "DCPD-202500553",
+      "DCPD-202600175",
+      "DCPD-202600410"
+    ],
+    "unit_note": "Three Q&A answers plus one same-sentence uninterrupted speech passage (DCPD-202600410)."
+  },
+  "mixed_personal_favorable_same_exchange_but_other_answer": {
+    "count": 1,
+    "rows": [
+      "DCPD-202600005"
+    ]
+  },
+  "additional_favorable_language_in_separate_tier": [
+    {
+      "id": "DCPD-202600471",
+      "target": "Carney",
+      "kinds": [
+        "relationship_affinity",
+        "call_quality_only"
+      ]
+    }
+  ],
+  "separate_or_contextual_rows": [
+    {
+      "id": "DCPD-202600074",
+      "target": "Carney",
+      "tier": "separate",
+      "category": "conditional_warning_without_negative_leader_judgment"
+    },
+    {
+      "id": "DCPD-202600471",
+      "target": "Carney",
+      "tier": "separate",
+      "category": "request_state_grievance_and_tariff_pressure"
+    },
+    {
+      "id": "DCPD-202600481",
+      "target": "Carney",
+      "tier": "contextual",
+      "category": "contextual_collective_leadership_criticism"
+    },
+    {
+      "id": "DCPD-202600481",
+      "target": "Trudeau",
+      "tier": "contextual",
+      "category": "contextual_collective_leadership_criticism"
+    },
+    {
+      "id": "DCPD-202600570",
+      "target": "Trudeau",
+      "tier": "contextual",
+      "category": "contextual_responsibility_and_reported_disagreement"
+    },
+    {
+      "id": "116043090074364624",
+      "target": "Carney",
+      "tier": "separate",
+      "category": "prospective_policy_warning_and_state_trade_grievance"
+    },
+    {
+      "id": "117207758594429845",
+      "target": "Carney",
+      "tier": "separate",
+      "category": "conditional_political_consequence_warning"
+    }
+  ],
+  "historical_false_attribution_rows": [
+    "DCPD-202500564",
+    "DCPD-202500697",
+    "DCPD-202600281"
+  ],
+  "historical_verification_sources": [
+    {
+      "title": "House of Commons: Justin Trudeau roles, prime minister from November 4, 2015",
+      "url": "https://www.ourcommons.ca/members/en/justin-trudeau%2858733%29/roles"
+    },
+    {
+      "title": "European Council: Brussels G7 summit and March 24, 2014 decision to meet without Russia",
+      "url": "https://www.consilium.europa.eu/en/meetings/international-summit/2014/06/04-05/"
+    }
+  ],
+  "original_annotations_changed": false,
+  "review_method": "Independent AI semantic re-audit against full relevant cached source context; no human validation.",
+  "limitations": [
+    "Candidate-only audit cannot establish full-corpus leader frequencies or rates.",
+    "No symmetric positive-language comparison is established by these counts.",
+    "Rhetorical judgments are not validation of the factual claims Trump makes.",
+    "Social counts are source posts, not independently verified personal authorship or exhaustive platform coverage.",
+    "Requests and prospective threats are not treated as personal criticism without a separate evaluative element.",
+    "Contextual collective/ambiguous antecedents are explicitly separated."
+  ]
+}
