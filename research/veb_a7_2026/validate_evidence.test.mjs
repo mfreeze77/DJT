@@ -105,7 +105,7 @@ function followupFixture(t) {
 }
 test('follow-up production records validate and remain read-only', () => {
   const before=readFileSync(join(repositoryRoot,f,'transaction_crosswalk.csv'),'utf8');
-  assert.deepEqual(validateFollowup(repositoryRoot),{entities:38,transactions:22,instruments:13,acquisitions:195});
+  assert.deepEqual(validateFollowup(repositoryRoot),{entities:38,transactions:22,instruments:13,acquisitions:196});
   assert.equal(readFileSync(join(repositoryRoot,f,'transaction_crosswalk.csv'),'utf8'),before);
 });
 const followupCases = [

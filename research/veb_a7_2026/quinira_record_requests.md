@@ -2,6 +2,8 @@
 
 These targets replace generic company-name searches with the original registrar's specific file locators. The free index is evidence of listed records, not their contents. All source references resolve in `sources.csv`; literal rows are retained in `quinira_charge_index.csv`.
 
+**13 October 2026 locator supplement:** The later [instrument-access note](quinira_instrument_access_followthrough.md) remains controlling for execution order: Quinira and Freegain together first, then Belego, Sileni and Equalchance. Historical priority headings below are retained. [Gazette 4156](quinira_gazette_receipt_note.md) supplies receipt metadata only; the Quinira/Freegain locator paragraph is in the [repository-only inquiry revision](quinira_freegain_quotation_inquiry.md). No saved external draft or sent message has been changed.
+
 ## Priority 1: Quinira's purchase-period security package
 
 **Proposed recipient/custodian:** Cyprus Registrar detailed electronic file, **QUINIRA HOLDINGS LIMITED ΗΕ286910**. The advertised Study File link is `https://eforms.eservices.cyprus.gov.cy/MCIT/RCOR/OrganisationFileSearch`; no login/account or purchase has been attempted in this continuation.
@@ -15,6 +17,8 @@ These targets replace generic company-name searches with the original registrar'
 **Company:** EQUALCHANCE PROCESSING LIMITED **ΗΕ187745**.
 
 **Unsent draft:** Please identify/copy the indexed **06/07/2011 HE24 page 2 and HE50 page 3; 26/03/2012 X00F page 5, HE24 page 6 and HE50 page 7; 18/04/2013 HE24 page 9 and HE50 page 10**, including charge-creating instruments and incorporated schedules. Please state whether these are separate security interests, amendments, or later registration of earlier rights. Identify the original court/order number behind X00F before associating it with any lawsuit.
+
+**Later-stage Gazette locator paragraph — not sent:** For EQUALCHANCE PROCESSING LIMITED, HE187745, Gazette 4156, printed page 2953 / PDF page 199, records receipt on 16 April 2013 of one charge-registration document and one court order. Please identify those records and reconcile them with X00F file page 5, literal Order Date 26 March 2012, and HE24 page 9 / HE50 page 10, literal Order Date 18 April 2013. Please clarify whether the court-order receipt concerns an earlier order, resubmission or another order, and provide its originating court, case number and actual date. These are receipt locators, not a matched order or a new debt finding; no file-page-8 contents are inferred.
 
 **Tests:** Does the2012filing predate or explain the2012negotiations? Which original facility or obligations did each filing secure? Does any document identify the company as one of the three unnamed2010purchasers? Do not merge its two ICIJ nodes solely from the company name.
 

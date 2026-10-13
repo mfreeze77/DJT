@@ -2,6 +2,8 @@
 
 **Preparation date:** 11 October 2026 (America/Chicago).
 
+**Repository-only locator revision: 13 October 2026 (UTC).** The 11 October saved-draft checkpoint below is retained as history. The proposed repository text now includes the Gazette locator paragraph; the previously saved Gmail draft has not been modified, and no inquiry has been sent. See [the receipt note](quinira_gazette_receipt_note.md) and S120 for provenance and limits.
+
 **Status at this checkpoint: DRAFT — NOT SENT.** A Gmail draft was saved and its final plain-text body read back. Sending requires separate affirmative approval from Michael Frieson. No paid search, document order, archive retrieval, certification, accelerated service, purchase, or other expenditure is authorized. No external outreach was performed by this preparation step.
 
 This is an administrative acquisition draft, not a new historical source or an acquired financing instrument. It preserves the inquiry supplied by the user, with one recipient, no CC/BCC, and no attachments. Private Gmail identifiers and mailbox URLs are not included in this public repository.
@@ -38,6 +40,8 @@ The company-file index shows a literal “Order Date” of 18 April 2013, with:
 - HE50 certificate at page 4.
 
 I understand that these are index references and may not correspond to separate instruments, debts, or chargeable copies.
+
+The Official Gazette, issue 4156 dated 18 September 2013, lists charge-registration documents received on 9 April 2013 for QUINIRA HOLDINGS LIMITED, HE286910 (printed page 3187, PDF page 433, document count 2), and FREEGAIN TRADING LIMITED, HE286456 (printed page 3186, PDF page 432, document count 1). Please reconcile these receipt entries with the company-file packages identified above and state which documents and attachments each entry covers. Please distinguish receipt dates and document counts from instrument dates, literal index Order Dates and separate debts.
 
 For each relevant filing, please confirm the availability of:
 
