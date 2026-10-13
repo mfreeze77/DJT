@@ -1,0 +1,26 @@
+{
+  "source_path": "rinfo.json",
+  "base_commit": "730b1f25dba8900743fc67eee42300d9e6dda1a7",
+  "sha256": "6ecd7c7c9e7673b7599750611813dce754cb9e84d91fc001ffb05ca0a6093ba4",
+  "bytes": 3569917,
+  "parts": {
+    "Part 1": 156,
+    "Part 2": 135,
+    "Part 3": 135,
+    "Part 4": 140,
+    "Part 5": 26
+  },
+  "dictionaries": 2968,
+  "leaves": 44496,
+  "leaf_values": {
+    "file": 44496
+  },
+  "search_patterns": [
+    "vnesheconombank|promsvyaz|zaporizh|shnaider|schnaider|midland|toronto|exim",
+    "внешэконом|промсвязь|запорож|шнайдер|мидланд|торонто|эксим",
+    "(^|[^a-z0-9])(veb|psb|a7|a71|shor)([^a-z0-9]|$)"
+  ],
+  "matching_key_paths": 0,
+  "coverage": "Entire JSON parsed and key paths searched; metadata only.",
+  "limitation": "Referenced documents were not obtained, searched or authenticated. No inference about their contents or lawful provenance. Matching paths are not published."
+}
