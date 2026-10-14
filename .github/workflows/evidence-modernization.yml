@@ -1,0 +1,71 @@
+name: Evidence modernization
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, ready_for_review]
+    paths:
+      - 'research/evidence_modernization/**'
+      - 'research/veb_a7_2026/**'
+      - 'Tmanch*'
+      - 'trump-russia-timeline/data/**'
+      - '.github/workflows/evidence-modernization.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'research/evidence_modernization/**'
+      - 'research/veb_a7_2026/**'
+      - 'Tmanch*'
+      - 'trump-russia-timeline/data/**'
+      - '.github/workflows/evidence-modernization.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 12
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ['3.11', '3.12']
+    steps:
+      - name: Check out the actual reviewed head and source history
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+          ref: ${{ github.event.pull_request.head.sha || github.sha }}
+      - name: Set up Python
+        uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Install the exchange, renderer and real pinned Matter dependency
+        run: >-
+          python -m pip install './research/evidence_modernization[capture]'
+          'matter-foundation @ git+https://github.com/mfreeze77/matter.git@be2b652d116f4eab77fc9721ba45f545ddc40e26'
+      - name: Verify installed optional dependency is present
+        run: python -c "from importlib.metadata import version; assert version('matter-foundation') == '0.1.0.dev11'; import pymupdf"
+      - name: Test preservation, compiler, Matter boundary, capture and reporting
+        run: python -m unittest discover -s research/evidence_modernization/tests -v
+      - name: Regenerate baseline reports from the recorded source commit
+        run: >-
+          djt-evidence --repo . --revision d5f1b11a0500d5d577f4553d7e6d13a0aa69e494
+          audit --output-dir /tmp/djt-evidence-baseline
+      - name: Verify committed artifact hashes and regenerated parity
+        run: python research/evidence_modernization/verify_reports.py research/evidence_modernization/reports /tmp/djt-evidence-baseline
+      - name: Set up Node.js for inherited research checks
+        uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version: '22'
+      - name: Preserve inherited research gates
+        run: |
+          node research/veb_a7_2026/validate_evidence.mjs
+          node research/veb_a7_2026/validate_followup.mjs
+          node research/veb_a7_2026/validate_accounting.mjs
+          node research/veb_a7_2026/validate_corpus_tax.mjs
+          node research/veb_a7_2026/audit_rinfo.mjs
+          node --test research/veb_a7_2026/validate_evidence.test.mjs research/veb_a7_2026/review_assessment.test.mjs research/veb_a7_2026/gorlane_review.test.mjs research/veb_a7_2026/panama_papers_findings.test.mjs
+          python -B research/veb_a7_2026/test_gorlane_neighborhood.py
+      - name: Confirm tracked source files are unchanged
+        run: git diff --exit-code

@@ -1,0 +1,10 @@
+chapter,ledger_path,ledger_status,raw_ledger_rows,imported_raw_records,typed_claim_count,quarantined_rows,named_source_entries,named_source_reference_occurrences,resolved_source_reference_occurrences,unresolved_source_reference_occurrences,claims_without_named_source_references,manifest_status,manifest_path
+1,Tmanch_CH1_claim_ledger.csv,file_present,30,30,30,0,0,0,0,0,30,review_selection_created,chapters/chapter-1.story.json
+2,Tmanch_CH2_claim_ledger.csv,file_present,35,35,35,0,0,54,0,54,1,review_selection_created,chapters/chapter-2.story.json
+3,Tmanch_CH3_claim_ledger.csv,file_present,38,38,38,0,0,0,0,0,38,review_selection_created,chapters/chapter-3.story.json
+4,Tmanch_CH4_claim_ledger.csv,file_present,40,40,33,7,30,55,55,0,0,review_selection_created,chapters/chapter-4.story.json
+5,Tmanch_CH5_claim_ledger.csv,file_present,55,55,54,1,0,0,0,0,54,review_selection_created,chapters/chapter-5.story.json
+6,Tmanch_CH6_claim_ledger.csv,file_present,44,44,44,0,0,0,0,0,44,review_selection_created,chapters/chapter-6.story.json
+7,Tmanch_CH7_claim_ledger.csv,file_present,86,86,80,6,0,0,0,0,80,review_selection_created,chapters/chapter-7.story.json
+8,Tmanch_CH8_claim_ledger.csv,file_present,12,12,12,0,0,0,0,0,12,review_selection_created,chapters/chapter-8.story.json
+9,Tmanch_CH9_claim_ledger.csv,file_present,11,11,11,0,0,0,0,0,11,review_selection_created,chapters/chapter-9.story.json

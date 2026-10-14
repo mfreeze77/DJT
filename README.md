@@ -22,6 +22,10 @@ The research distinguishes:
 
 Circumstantial evidence is evaluated cumulatively. Timing or association alone is not treated as proof, but the absence of a signed confession does not erase a converging pattern of motive, access, opportunity, concealment, benefit, false explanations, institutional weakening, and subsequent reward.
 
+## Integrated evidence workbench (draft branch)
+
+- [Evidence modernization foundation](research/evidence_modernization/README.md) reuses the existing public preserved-source contracts, capture tools, and review compiler.
+
 ## Current synthesis and integrity controls
 
 - [Presidential rhetoric source archive and comparison research](research/presidential_rhetoric_2026/README.md) — official transcripts, social-source identifiers, auditable annotation revisions, and a prompted-versus-voluntary research protocol. Preliminary comparative counts are explicitly withheld pending symmetrical review; rhetoric alone does not establish hidden motive.

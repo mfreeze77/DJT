@@ -1,0 +1,974 @@
+{
+  "annual_local_id_collisions_by_kind": {
+    "entities": 39,
+    "events": 45,
+    "intelligenceActivities": 1,
+    "relationships": 16,
+    "transactions": 5
+  },
+  "annual_year_coverage": [
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/1971.json",
+      "record_counts": {
+        "entities": 2,
+        "events": 1,
+        "relationships": 1
+      },
+      "status": "file_present",
+      "year": 1971
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/1972.json",
+      "record_counts": {
+        "entities": 2,
+        "events": 1
+      },
+      "status": "file_present",
+      "year": 1972
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/1973.json",
+      "record_counts": {
+        "entities": 2,
+        "events": 1
+      },
+      "status": "file_present",
+      "year": 1973
+    },
+    {
+      "interpretation": "No annual file in this snapshot; does not establish that no events occurred.",
+      "path": null,
+      "status": "no_file",
+      "year": 1974
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/1975.json",
+      "record_counts": {
+        "entities": 2,
+        "events": 1
+      },
+      "status": "file_present",
+      "year": 1975
+    },
+    {
+      "interpretation": "No annual file in this snapshot; does not establish that no events occurred.",
+      "path": null,
+      "status": "no_file",
+      "year": 1976
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/1977.json",
+      "record_counts": {
+        "entities": 3,
+        "events": 1,
+        "intelligenceActivities": 1,
+        "relationships": 1
+      },
+      "status": "file_present",
+      "year": 1977
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/1978.json",
+      "record_counts": {
+        "entities": 8,
+        "events": 4,
+        "relationships": 4,
+        "transactions": 3
+      },
+      "status": "file_present",
+      "year": 1978
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/1979.json",
+      "record_counts": {
+        "entities": 2,
+        "events": 1,
+        "relationships": 1
+      },
+      "status": "file_present",
+      "year": 1979
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/1980.json",
+      "record_counts": {
+        "entities": 7,
+        "events": 2,
+        "intelligenceActivities": 1,
+        "relationships": 3,
+        "transactions": 1
+      },
+      "status": "file_present",
+      "year": 1980
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/1981.json",
+      "record_counts": {
+        "entities": 1,
+        "events": 1,
+        "transactions": 1
+      },
+      "status": "file_present",
+      "year": 1981
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/1982.json",
+      "record_counts": {
+        "entities": 3,
+        "events": 1,
+        "relationships": 2
+      },
+      "status": "file_present",
+      "year": 1982
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/1983.json",
+      "record_counts": {
+        "entities": 3,
+        "events": 1,
+        "relationships": 4,
+        "transactions": 1
+      },
+      "status": "file_present",
+      "year": 1983
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/1984.json",
+      "record_counts": {
+        "entities": 8,
+        "events": 3,
+        "relationships": 4,
+        "transactions": 3
+      },
+      "status": "file_present",
+      "year": 1984
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/1985.json",
+      "record_counts": {
+        "entities": 12,
+        "events": 7,
+        "relationships": 5,
+        "transactions": 5
+      },
+      "status": "file_present",
+      "year": 1985
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/1986.json",
+      "record_counts": {
+        "entities": 7,
+        "events": 2,
+        "intelligenceActivities": 1,
+        "relationships": 4,
+        "transactions": 2
+      },
+      "status": "file_present",
+      "year": 1986
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/1987.json",
+      "record_counts": {
+        "entities": 11,
+        "events": 3,
+        "intelligenceActivities": 1,
+        "relationships": 4,
+        "transactions": 3
+      },
+      "status": "file_present",
+      "year": 1987
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/1988.json",
+      "record_counts": {
+        "entities": 13,
+        "events": 3,
+        "relationships": 6,
+        "transactions": 3
+      },
+      "status": "file_present",
+      "year": 1988
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/1989.json",
+      "record_counts": {
+        "entities": 5,
+        "events": 1,
+        "relationships": 4,
+        "transactions": 1
+      },
+      "status": "file_present",
+      "year": 1989
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/1990.json",
+      "record_counts": {
+        "entities": 7,
+        "events": 3,
+        "relationships": 5,
+        "transactions": 3
+      },
+      "status": "file_present",
+      "year": 1990
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/1991.json",
+      "record_counts": {
+        "entities": 8,
+        "events": 3,
+        "relationships": 7,
+        "transactions": 3
+      },
+      "status": "file_present",
+      "year": 1991
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/1992.json",
+      "record_counts": {
+        "entities": 5,
+        "events": 3,
+        "relationships": 4,
+        "transactions": 3
+      },
+      "status": "file_present",
+      "year": 1992
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/1993.json",
+      "record_counts": {
+        "entities": 4,
+        "events": 4,
+        "relationships": 1,
+        "transactions": 4
+      },
+      "status": "file_present",
+      "year": 1993
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/1994.json",
+      "record_counts": {
+        "entities": 7,
+        "events": 5,
+        "relationships": 5,
+        "transactions": 4
+      },
+      "status": "file_present",
+      "year": 1994
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/1995.json",
+      "record_counts": {
+        "entities": 4,
+        "events": 4,
+        "relationships": 2,
+        "transactions": 4
+      },
+      "status": "file_present",
+      "year": 1995
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/1996.json",
+      "record_counts": {
+        "entities": 5,
+        "events": 5,
+        "relationships": 5,
+        "transactions": 5
+      },
+      "status": "file_present",
+      "year": 1996
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/1997.json",
+      "record_counts": {
+        "entities": 4,
+        "events": 3,
+        "relationships": 2
+      },
+      "status": "file_present",
+      "year": 1997
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/1998.json",
+      "record_counts": {
+        "entities": 5,
+        "events": 3,
+        "relationships": 3,
+        "transactions": 3
+      },
+      "status": "file_present",
+      "year": 1998
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/1999.json",
+      "record_counts": {
+        "entities": 7,
+        "events": 7,
+        "relationships": 2,
+        "transactions": 2
+      },
+      "status": "file_present",
+      "year": 1999
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/2000.json",
+      "record_counts": {
+        "entities": 3,
+        "events": 3,
+        "relationships": 2
+      },
+      "status": "file_present",
+      "year": 2000
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/2001.json",
+      "record_counts": {
+        "entities": 1,
+        "events": 1
+      },
+      "status": "file_present",
+      "year": 2001
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/2002.json",
+      "record_counts": {
+        "entities": 1,
+        "events": 3,
+        "transactions": 3
+      },
+      "status": "file_present",
+      "year": 2002
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/2003.json",
+      "record_counts": {
+        "entities": 2,
+        "events": 1,
+        "relationships": 1,
+        "transactions": 1
+      },
+      "status": "file_present",
+      "year": 2003
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/2004.json",
+      "record_counts": {
+        "entities": 1,
+        "events": 2
+      },
+      "status": "file_present",
+      "year": 2004
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/2005.json",
+      "record_counts": {
+        "entities": 5,
+        "events": 5,
+        "relationships": 3,
+        "transactions": 5
+      },
+      "status": "file_present",
+      "year": 2005
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/2006.json",
+      "record_counts": {
+        "entities": 1,
+        "events": 5,
+        "transactions": 5
+      },
+      "status": "file_present",
+      "year": 2006
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/2007.json",
+      "record_counts": {
+        "entities": 7,
+        "events": 5,
+        "relationships": 5,
+        "transactions": 1
+      },
+      "status": "file_present",
+      "year": 2007
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/2008.json",
+      "record_counts": {
+        "entities": 8,
+        "events": 9,
+        "relationships": 5,
+        "transactions": 2
+      },
+      "status": "file_present",
+      "year": 2008
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/2009.json",
+      "record_counts": {
+        "entities": 7,
+        "events": 9,
+        "relationships": 3
+      },
+      "status": "file_present",
+      "year": 2009
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/2010.json",
+      "record_counts": {
+        "entities": 12,
+        "events": 8,
+        "relationships": 5,
+        "transactions": 3
+      },
+      "status": "file_present",
+      "year": 2010
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/2011.json",
+      "record_counts": {
+        "entities": 16,
+        "events": 11
+      },
+      "status": "file_present",
+      "year": 2011
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/2012.json",
+      "record_counts": {
+        "entities": 9,
+        "events": 8,
+        "relationships": 6,
+        "transactions": 3
+      },
+      "status": "file_present",
+      "year": 2012
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/2013.json",
+      "record_counts": {
+        "entities": 11,
+        "events": 7,
+        "relationships": 10,
+        "transactions": 1
+      },
+      "status": "file_present",
+      "year": 2013
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/2014.json",
+      "record_counts": {
+        "entities": 8,
+        "events": 9,
+        "relationships": 5,
+        "transactions": 2
+      },
+      "status": "file_present",
+      "year": 2014
+    },
+    {
+      "path": "trump-russia-timeline/data/processed/by-year/2015.json",
+      "record_counts": {
+        "entities": 8,
+        "events": 9,
+        "intelligenceActivities": 1,
+        "relationships": 5,
+        "transactions": 1
+      },
+      "status": "file_present",
+      "year": 2015
+    },
+    {
+      "interpretation": "No annual file in this snapshot; does not establish that no events occurred.",
+      "path": null,
+      "status": "no_file",
+      "year": 2016
+    },
+    {
+      "interpretation": "No annual file in this snapshot; does not establish that no events occurred.",
+      "path": null,
+      "status": "no_file",
+      "year": 2017
+    },
+    {
+      "interpretation": "No annual file in this snapshot; does not establish that no events occurred.",
+      "path": null,
+      "status": "no_file",
+      "year": 2018
+    },
+    {
+      "interpretation": "No annual file in this snapshot; does not establish that no events occurred.",
+      "path": null,
+      "status": "no_file",
+      "year": 2019
+    },
+    {
+      "interpretation": "No annual file in this snapshot; does not establish that no events occurred.",
+      "path": null,
+      "status": "no_file",
+      "year": 2020
+    },
+    {
+      "interpretation": "No annual file in this snapshot; does not establish that no events occurred.",
+      "path": null,
+      "status": "no_file",
+      "year": 2021
+    },
+    {
+      "interpretation": "No annual file in this snapshot; does not establish that no events occurred.",
+      "path": null,
+      "status": "no_file",
+      "year": 2022
+    },
+    {
+      "interpretation": "No annual file in this snapshot; does not establish that no events occurred.",
+      "path": null,
+      "status": "no_file",
+      "year": 2023
+    },
+    {
+      "interpretation": "No annual file in this snapshot; does not establish that no events occurred.",
+      "path": null,
+      "status": "no_file",
+      "year": 2024
+    },
+    {
+      "interpretation": "No annual file in this snapshot; does not establish that no events occurred.",
+      "path": null,
+      "status": "no_file",
+      "year": 2025
+    },
+    {
+      "interpretation": "No annual file in this snapshot; does not establish that no events occurred.",
+      "path": null,
+      "status": "no_file",
+      "year": 2026
+    }
+  ],
+  "chapter_4_pilot": {
+    "build_fingerprint": "657d37466c5ad61380875dc3986fbe115a5c4f1482d329130223abfad560cc3f",
+    "component_claim_counts": {
+      "annual_2010": 8,
+      "annual_2011": 11,
+      "chapter_4": 33,
+      "selected_veb": 6
+    },
+    "limitation": "These are preserved repository assertions and source references for review. This report does not verify cited external documents, create supporting excerpts, approve factual publication, or render a V-Flow film.",
+    "manifest_path": "chapter-4-pilot.story.json",
+    "missing_requested_veb_local_ids": [],
+    "publication_allowed": false,
+    "publication_blocker_counts": {
+      "cited_source_not_evaluated": 58,
+      "controlling_interpretation_blocks_original_claim": 2,
+      "editorial_review_required": 58,
+      "no_verified_support_excerpt": 58
+    },
+    "requested_veb_local_ids": [
+      "C21",
+      "C22",
+      "C23",
+      "C24",
+      "C25",
+      "C26"
+    ],
+    "review_package_path": "chapter-4-pilot.review.json",
+    "selected_claim_count": 58,
+    "status": "review_selection_created"
+  },
+  "chapter_manifest_count": 9,
+  "classification_summary_path": "classification-summary.json",
+  "compiler_version": "0.1.0",
+  "coverage_count_note": "Inventory counts describe top-level structured records; imported raw counts may additionally include nested citations and named source sections. These counts are not interchangeable measures of verified evidence.",
+  "csv_structure_issues": [
+    {
+      "header_issues": [],
+      "path": "Tmanch_CH4_claim_ledger.csv",
+      "ragged_rows": [
+        {
+          "actual_fields": 18,
+          "expected_fields": 16,
+          "pointer": "csv:row:10"
+        },
+        {
+          "actual_fields": 19,
+          "expected_fields": 16,
+          "pointer": "csv:row:14"
+        },
+        {
+          "actual_fields": 18,
+          "expected_fields": 16,
+          "pointer": "csv:row:25"
+        },
+        {
+          "actual_fields": 18,
+          "expected_fields": 16,
+          "pointer": "csv:row:26"
+        },
+        {
+          "actual_fields": 18,
+          "expected_fields": 16,
+          "pointer": "csv:row:36"
+        },
+        {
+          "actual_fields": 18,
+          "expected_fields": 16,
+          "pointer": "csv:row:38"
+        },
+        {
+          "actual_fields": 20,
+          "expected_fields": 16,
+          "pointer": "csv:row:40"
+        }
+      ],
+      "row_count": 40
+    },
+    {
+      "header_issues": [],
+      "path": "Tmanch_CH5_claim_ledger.csv",
+      "ragged_rows": [
+        {
+          "actual_fields": 14,
+          "expected_fields": 15,
+          "pointer": "csv:row:35"
+        }
+      ],
+      "row_count": 55
+    },
+    {
+      "header_issues": [],
+      "path": "Tmanch_CH7_J20_event_ledger.csv",
+      "ragged_rows": [
+        {
+          "actual_fields": 12,
+          "expected_fields": 11,
+          "pointer": "csv:row:7"
+        },
+        {
+          "actual_fields": 12,
+          "expected_fields": 11,
+          "pointer": "csv:row:14"
+        },
+        {
+          "actual_fields": 12,
+          "expected_fields": 11,
+          "pointer": "csv:row:15"
+        },
+        {
+          "actual_fields": 12,
+          "expected_fields": 11,
+          "pointer": "csv:row:16"
+        },
+        {
+          "actual_fields": 14,
+          "expected_fields": 11,
+          "pointer": "csv:row:18"
+        },
+        {
+          "actual_fields": 12,
+          "expected_fields": 11,
+          "pointer": "csv:row:20"
+        },
+        {
+          "actual_fields": 12,
+          "expected_fields": 11,
+          "pointer": "csv:row:21"
+        },
+        {
+          "actual_fields": 12,
+          "expected_fields": 11,
+          "pointer": "csv:row:22"
+        },
+        {
+          "actual_fields": 13,
+          "expected_fields": 11,
+          "pointer": "csv:row:23"
+        },
+        {
+          "actual_fields": 12,
+          "expected_fields": 11,
+          "pointer": "csv:row:24"
+        },
+        {
+          "actual_fields": 12,
+          "expected_fields": 11,
+          "pointer": "csv:row:32"
+        },
+        {
+          "actual_fields": 12,
+          "expected_fields": 11,
+          "pointer": "csv:row:33"
+        },
+        {
+          "actual_fields": 12,
+          "expected_fields": 11,
+          "pointer": "csv:row:38"
+        },
+        {
+          "actual_fields": 12,
+          "expected_fields": 11,
+          "pointer": "csv:row:39"
+        },
+        {
+          "actual_fields": 12,
+          "expected_fields": 11,
+          "pointer": "csv:row:42"
+        },
+        {
+          "actual_fields": 12,
+          "expected_fields": 11,
+          "pointer": "csv:row:43"
+        },
+        {
+          "actual_fields": 12,
+          "expected_fields": 11,
+          "pointer": "csv:row:45"
+        }
+      ],
+      "row_count": 58
+    },
+    {
+      "header_issues": [],
+      "path": "Tmanch_CH7_claim_ledger.csv",
+      "ragged_rows": [
+        {
+          "actual_fields": 0,
+          "expected_fields": 12,
+          "pointer": "csv:row:76"
+        },
+        {
+          "actual_fields": 14,
+          "expected_fields": 12,
+          "pointer": "csv:row:77"
+        },
+        {
+          "actual_fields": 14,
+          "expected_fields": 12,
+          "pointer": "csv:row:78"
+        },
+        {
+          "actual_fields": 14,
+          "expected_fields": 12,
+          "pointer": "csv:row:79"
+        },
+        {
+          "actual_fields": 14,
+          "expected_fields": 12,
+          "pointer": "csv:row:80"
+        },
+        {
+          "actual_fields": 14,
+          "expected_fields": 12,
+          "pointer": "csv:row:81"
+        }
+      ],
+      "row_count": 86
+    },
+    {
+      "header_issues": [],
+      "path": "archive/chapter-7/pr-11/Tmanch_CH7_payoff_ledger.csv",
+      "ragged_rows": [
+        {
+          "actual_fields": 14,
+          "expected_fields": 13,
+          "pointer": "csv:row:12"
+        }
+      ],
+      "row_count": 15
+    }
+  ],
+  "filename_metadata": [
+    {
+      "content_status": "filename_metadata_only",
+      "directory_objects": 2968,
+      "filename_references": 44496,
+      "interpretation": "Names are not evidence that referenced document bytes are present, readable, authentic, or reviewed.",
+      "referenced_document_contents_acquired_by_inventory": 0
+    }
+  ],
+  "imported_quarantined_row_count": 31,
+  "invalid_json": [
+    {
+      "parse": {
+        "character_offset": 64,
+        "column": 43,
+        "error": "Expecting property name enclosed in double quotes: line 4 column 43 (char 64)",
+        "line": 4,
+        "status": "invalid_json",
+        "unparsed_sha256": "f87dcdede36f394902f4156107a82844752716691489da953dfa04f4a5d3cb38"
+      },
+      "path": "trump-russia-timeline/data/processed/json_schema.json",
+      "sha256": "f87dcdede36f394902f4156107a82844752716691489da953dfa04f4a5d3cb38"
+    },
+    {
+      "parse": {
+        "character_offset": 3168,
+        "column": 30,
+        "error": "Expecting ',' delimiter: line 139 column 30 (char 3168)",
+        "line": 139,
+        "status": "invalid_json",
+        "unparsed_sha256": "bb1c71f6032d43aae647327fc4cbd3a5441af5f6e1929d1af8e0086ce9aa3942"
+      },
+      "path": "trump-russia-timeline/data/processed/network_relationships.json",
+      "sha256": "bb1c71f6032d43aae647327fc4cbd3a5441af5f6e1929d1af8e0086ce9aa3942"
+    },
+    {
+      "parse": {
+        "character_offset": 64,
+        "column": 43,
+        "error": "Expecting property name enclosed in double quotes: line 4 column 43 (char 64)",
+        "line": 4,
+        "status": "invalid_json",
+        "unparsed_sha256": "f87dcdede36f394902f4156107a82844752716691489da953dfa04f4a5d3cb38"
+      },
+      "path": "trump-russia-timeline/dist/data/processed/json_schema.json",
+      "sha256": "f87dcdede36f394902f4156107a82844752716691489da953dfa04f4a5d3cb38"
+    },
+    {
+      "parse": {
+        "character_offset": 3168,
+        "column": 30,
+        "error": "Expecting ',' delimiter: line 139 column 30 (char 3168)",
+        "line": 139,
+        "status": "invalid_json",
+        "unparsed_sha256": "bb1c71f6032d43aae647327fc4cbd3a5441af5f6e1929d1af8e0086ce9aa3942"
+      },
+      "path": "trump-russia-timeline/dist/data/processed/network_relationships.json",
+      "sha256": "bb1c71f6032d43aae647327fc4cbd3a5441af5f6e1929d1af8e0086ce9aa3942"
+    }
+  ],
+  "inventory": {
+    "annual_file_count": 43,
+    "annual_local_id_collision_groups": 106,
+    "annual_record_counts": {
+      "entities": 247,
+      "events": 169,
+      "intelligenceActivities": 5,
+      "relationships": 129,
+      "transactions": 81
+    },
+    "blob_files": 465,
+    "csv_data_rows": 1607,
+    "csv_files": 42,
+    "duplicate_record_groups": 614,
+    "files_by_classification": {
+      "annual_json": 43,
+      "build_artifact": 4,
+      "chapter_ledger": 12,
+      "chapter_research": 48,
+      "code": 47,
+      "delivery_artifact": 48,
+      "dist_mirror": 47,
+      "financial_tranche": 39,
+      "legacy_json": 2,
+      "legacy_schema_document": 1,
+      "other": 2,
+      "raw_archive": 76,
+      "research_document": 28,
+      "research_ledger": 3,
+      "research_record": 54,
+      "rinfo_filename_metadata": 1,
+      "source_asset": 3,
+      "source_manifest": 7
+    },
+    "files_by_collection": {
+      "annual_timeline": 43,
+      "chapter_archive": 17,
+      "chapters": 60,
+      "filename_metadata": 1,
+      "financial_tranches": 39,
+      "implementation": 47,
+      "legacy_schema": 1,
+      "legacy_timeline": 2,
+      "other": 2,
+      "other_research": 31,
+      "raw_markdown": 59,
+      "research_deliveries": 48,
+      "source_acquisition": 7,
+      "source_assets": 3,
+      "timeline_dist": 51,
+      "veb_a7_2026": 54
+    },
+    "identical_file_groups": 97,
+    "invalid_json_files": 4,
+    "link_occurrences": 14881,
+    "network_checks_performed": 0,
+    "ragged_csv_rows": 32,
+    "records_by_collection": {
+      "annual_timeline": 632,
+      "chapter_archive": 98,
+      "chapters": 460,
+      "filename_metadata": 5,
+      "legacy_timeline": 11,
+      "other_research": 72,
+      "source_acquisition": 435,
+      "timeline_dist": 643,
+      "veb_a7_2026": 739
+    },
+    "records_by_kind": {
+      "alias_fields": 3,
+      "csv_row": 1607,
+      "entities": 494,
+      "entity_description_review": 4,
+      "entries": 4,
+      "events": 360,
+      "intelligenceActivities": 10,
+      "json_metadata": 83,
+      "json_row": 3,
+      "members": 6,
+      "missing_legacy_rows": 3,
+      "not_a_funds_flow": 2,
+      "records": 69,
+      "relationship_review": 1,
+      "relationships": 258,
+      "samples": 8,
+      "search_patterns": 3,
+      "seed_ids": 15,
+      "transactions": 162
+    },
+    "structured_records": 3095,
+    "total_blob_bytes": 18430348,
+    "tracked_entries": 465,
+    "unique_link_targets": 4308
+  },
+  "inventory_only_quarantined_row_count": 1,
+  "limitation": "These are preserved repository assertions and source references for review. This report does not verify cited external documents, create supporting excerpts, approve factual publication, or render a V-Flow film.",
+  "link_status_counts": {
+    "empty_reference": 1502,
+    "local_service_url_unverified": 2,
+    "local_target_missing_from_snapshot": 14,
+    "local_target_present": 789,
+    "local_target_present_at_repository_root": 36,
+    "non_url_locator": 3,
+    "placeholder_url": 10,
+    "url_syntax_valid_network_unverified": 12525
+  },
+  "package_counts": {
+    "acquisitions": 181,
+    "captures": 0,
+    "claims": 592,
+    "corrections": 5,
+    "entities": 285,
+    "evidence_links": 504,
+    "excerpts": 0,
+    "financials": 267,
+    "observations": 592,
+    "occurrences": 169,
+    "raw_records": 2480,
+    "relationships": 170,
+    "reviews": 0,
+    "source_versions": 181,
+    "sources": 396
+  },
+  "quarantined_row_count": 32,
+  "schema_version": "djt-inventory-summary/1.0",
+  "snapshot_commit_date": "2026-10-10T21:01:27-05:00",
+  "source_revision": "d5f1b11a0500d5d577f4553d7e6d13a0aa69e494",
+  "source_version_availability": {
+    "metadata_only": 181
+  },
+  "validation": {
+    "claims": 592,
+    "original_import_replayed": true,
+    "raw_records": 2480,
+    "source_bytes_checked": true,
+    "valid": true
+  },
+  "validation_scope": "Checks original repository blobs, imported payloads, and package references; external cited source contents remain unverified."
+}
