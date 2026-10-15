@@ -9,7 +9,7 @@ J20-2026-019 records one continuation event with two instrument-specific matrix 
 
 ## Scope, beneficiaries and limits
 
-GL 128D continues specified retail transactions involving Lukoil International GmbH and qualifying subsidiaries outside Russia, including covered blocked-account use. It retains the express prohibition on transfers to Russia-located persons/accounts. GL 130B covers Lukoil Neftohim Burgas JSC, Lukoil Bulgaria EOOD, Lukoil Aviation Bulgaria EOOD, Lukoil Bulgaria Bunker EOOD and qualifying majority-owned entities; its separate exclusions must not be replaced with 128D's transfer restriction.
+GL 128D continues specified retail transactions involving Lukoil International GmbH and qualifying subsidiaries outside Russia, including covered blocked-account use. It retains the express prohibition on transfers to Russia-located persons/accounts. GL 130B covers Lukoil Neftohim Burgas JSC, Lukoil Bulgaria EOOD, Lukoil Aviation Bulgaria EOOD, Lukoil Bulgaria Bunker EOOD and entities in which those companies own, directly or indirectly, individually or in aggregate, a 50 percent or greater interest; its separate exclusions must not be replaced with 128D's transfer restriction.
 
 Analytical inference: operational continuity can benefit covered operators, customers, employees and counterparties and preserve asset value. Neither instrument establishes actual payments, Russian fiscal receipts, lobbying influence or presidential motive. These extensions do not delist Lukoil. [OFAC FAQ 1225](https://ofac.treasury.gov/faqs/1225) identifies retail-consumer protection as the retail authorization's rationale and distinguishes it from divestment authority.
 
