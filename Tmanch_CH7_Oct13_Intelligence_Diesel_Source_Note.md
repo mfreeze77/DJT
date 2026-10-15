@@ -45,3 +45,11 @@ These Russian statements are not established as responses to Trump's later gaggl
 ## Missing records and publication boundary
 
 Intelligence-sharing directives and delivery logs, agreement and monitoring terms, official responses to the Senate letter, subsequent licensing or enforcement actions, shipment/customs data, company accounts and fiscal receipts could materially change the assessment. None is supplied by these statements. This addition records the verified public positions and requests without inferring an operational intelligence cutoff, completed U.S. purchase, quantified Russian revenue benefit or new motive allegation.
+
+## October 15 follow-up: IEA market forecast
+
+The [IEA's October 2026 Oil Market Report](https://www.iea.org/reports/oil-market-report-october-2026), published October 14 and inspected October 15, forecasts that easing Russian diesel export restrictions is unlikely to materially change the global gasoil balance because operational Russian refinery capacity is the limiting factor. Its gasoil/diesel section projects a seasonal surplus in 1Q27, but says replenishment of accumulated inventory losses beyond normal seasonal movements is unlikely before 2H27.
+
+This forecast qualifies the supply-and-price rationale attached to [J20-2026-014](https://github.com/mfreeze77/DJT/blob/96aa28cdfee48cc44a5d25dbde1fdc44b2286043/J20-Pres.md#L136), alongside the authorization recorded in [J20-2026-011](https://github.com/mfreeze77/DJT/blob/96aa28cdfee48cc44a5d25dbde1fdc44b2286043/J20-Pres.md#L133). The report does not name GL 135 or isolate its effects. It establishes neither zero price or trade effects from that license nor realized Russian revenue. It does not amend the license. This is follow-up evidence for existing events, not a new action or duplicate event.
+
+**Analytical inference:** The assessment weakens expectations of a large near-term consumer-supply benefit while leaving the legal commercial opportunity for Russian sellers intact; realized gains remain unmeasured.

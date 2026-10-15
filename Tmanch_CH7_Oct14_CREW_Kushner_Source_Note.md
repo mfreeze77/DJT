@@ -11,3 +11,9 @@ Connect to [CH7-PAY-SAU-002](Tmanch_CH7_payoff_ledger.csv). Historical financial
 Potential benefit is greater public accountability if disclosures or relief follow; the filing alone establishes neither outcome.
 
 Inspection: page-labelled PDF text extraction; no independent docket or image inspection.
+
+## October 15 follow-up: response to the complaint
+
+[Associated Press, October 14, via ClickOnDetroit](https://www.clickondetroit.com/news/politics/2026/10/14/watchdog-group-seeks-to-block-jared-kushner-from-serving-in-his-volunteer-envoy-role/), inspected October 15, reports that Kushner attorney Chad Mizelle disputed the suit's merits and CREW's standing. He asserted that outside ethics counsel and government ethics attorneys had reviewed Kushner's volunteer service and found the arrangements compliant with applicable ethics requirements. AP also reports CREW's argument that deprivation of otherwise available government records directly harms it.
+
+Mizelle's statement is an attributed defense, not independently obtained legal opinions or a judicial determination. Neither party's standing or merits position is resolved by this reporting. Preserve the existing allegations, denials and no-double-counting boundaries; this supplements J20-2026-018 rather than creating another event.
