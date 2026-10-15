@@ -35,3 +35,11 @@ The president's original public channel, the Ministry's original post and its fo
 ## Records needed next
 
 Final Air Force and infrastructure assessments; disaggregated outage/restoration records; agreed energy-restraint terms and compliance monitoring; White House, State and Treasury responses; section-specific sanctions implementation; Patriot commitments and delivery records; and shipment, customs, company and fiscal records would materially change the assessment. This entry preserves an attributed, preliminary snapshot rather than a final battlefield or policy-outcome finding.
+
+## October 15 follow-up: separate Ryazan refinery-site fire
+
+[Governor Pavel Malkov’s original post](https://max.ru/pv_malkov/AaE-Ou6fKh0), inspected October 15, reports a mass drone attack overnight and that morning, a fire on refinery territory, and damage to a warehouse and vehicles at another Ryazan enterprise. He reports preliminary information of no casualties and says material damage is being assessed. The post establishes an attributed local-authority report of a refinery-site fire; it does not establish damage to a particular processing unit, production loss, outage duration or an export effect.
+
+This is a separate October 15 development in Russia, not part of the October 13–14 Ukrainian attack totals supporting [J20-2026-016](https://github.com/mfreeze77/DJT/blob/aae0a90e2170db2fefc2ab18da5817082a008eeb/J20-Pres.md#L138). It supplies context for the restraint request in [J20-2026-007](https://github.com/mfreeze77/DJT/blob/aae0a90e2170db2fefc2ab18da5817082a008eeb/J20-Pres.md#L129) and commercial opportunity under [J20-2026-011](https://github.com/mfreeze77/DJT/blob/aae0a90e2170db2fefc2ab18da5817082a008eeb/J20-Pres.md#L133), without establishing agreed restraint terms, responsibility for noncompliance or a new Trump-authored action.
+
+**Analytical inference:** A refinery-site fire illustrates physical pressure on Russian fuel infrastructure and potential constraints on realizing the commercial opportunity preserved by sanctions relief. Lost production, additional repair costs, Russian revenue loss and any resulting Ukrainian strategic benefit remain unquantified.
