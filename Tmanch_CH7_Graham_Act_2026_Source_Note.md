@@ -21,3 +21,9 @@ This is material legislative counterevidence to a claim that the U.S. pressure a
 [J20-2026-012](J20-Pres.md) and its [structured companion](Tmanch_CH7_J20_event_ledger.csv) record the enactment. Relevant earlier events are J20-033–035 (threats versus implementation), J20-037 (India tariff), J20-040 (oil-company sanctions), and J20-2026-002 (Russian-oil authorizations).
 
 Sources: [White House signing notice](https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bill-h-r-5334-signed-into-law/) and [Public Law 119-111](https://www.govinfo.gov/content/pkg/PLAW-119publ111/html/PLAW-119publ111.htm).
+
+## October 15 follow-up: section 113 product definitions and evasion scope
+
+[Public Law 119-111, section 113(g)(2)](https://www.govinfo.gov/content/pkg/PLAW-119publ111/html/PLAW-119publ111.htm) expressly applies its HS2709 crude-oil and HS2711 natural-gas definitions to the importer test in subsection (c)(1). Subsection (c)(2) separately covers the top five countries facilitating Russian oil sanctions evasion, with the conduct defined in subsection (i)(2). The crude-oil definition alone therefore does not establish a blanket diesel exemption from the act.
+
+This is a clarification of the statutory scope supporting J20-2026-012, not evidence of new implementation, collected duties or a finding that the reported Morocco-bound diesel cargo triggers duties.
