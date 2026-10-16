@@ -7,3 +7,7 @@ The record is Costa's speech, not a jointly issued declaration. It does not name
 ## Analytical placement
 
 Preserving pressure on Russia is intended to favor Ukraine and allied negotiating leverage; actual effects remain unestablished. Read alongside [J20-2026-007, -011, -014 and -021](J20-Pres.md), which separately record U.S. pressure, diesel authorization, presidential statements and reported operational restrictions. [J20-2026-017 and -020](J20-Pres.md) record distinct EU financing and sanctions actions. This comparison identifies divergent policy directions, not proof Costa was directly responding to those U.S. events.
+
+## Later collective Council position
+
+See the [subsequently retrieved adopted-conclusions update](Tmanch_CH7_Oct16_Zelenskyy_European_Council_Source_Note.md#later-october-16-verification-adopted-council-conclusions). It is separate evidence; Costa's earlier speech retains its original scope.
