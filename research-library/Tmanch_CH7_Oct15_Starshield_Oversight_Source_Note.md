@@ -79,3 +79,13 @@ This contextual update to **J20-2026-021** adds no event or score. The potential
 The [ODNI March 2026 Annual Threat Assessment](https://www.dni.gov/files/ODNI/documents/assessments/ATA-2026-Unclassified-Report.pdf), prepared using information available through March 14, explicitly refers in its Europe section to “Russia’s invasion of Ukraine in 2022” (PDF page 26); its Russia–Ukraine section likewise characterizes the conflict as Russia's war against Ukraine. This is a published Intelligence Community assessment during Trump's second administration, distinct from his October 16 appeal to unspecified future disclosures.
 
 Targeted White House, State Department and ODNI searches on October 16 located no published formal reassessment reversing that war-origin baseline. This is a bounded search result, not exhaustive proof that no other assessment exists. The reported exchange itself supplies neither a replacement assessment nor evidence supporting one.
+
+## October 16 named account: outage repair versus movement-cap removal
+
+[AP's Hanna Arhirova interview with adviser Serhii Beskrestnov](https://apnews.com/article/385eb944f6c34990bdf21f624416b820), also [republished by News4JAX](https://www.news4jax.com/news/world/2026/10/16/presidential-adviser-says-ukraine-is-in-talks-to-lift-speed-limit-on-military-satellite-network/), was independently inspected through indexed AP text and the accessible syndication. They are one source family; AP's indexed 19:26:40 UTC label dates reporting, not a technical change.
+
+AP narrates his account that SpaceX repaired secondary outages after Ukraine complained, while the **160-kph terminal-movement cap** remained. He described effects on helicopter and drone interception, and talks about removing the cap or buying a costlier unrestricted aviation package; no outcome was known. He said the service does not support Ukrainian refinery-strike drones inside Russia.
+
+AP's early-Thursday onset conflicts with earlier Tuesday-night reporting. Preserve that discrepancy without inferring a second cutoff. His political interpretation identifies no decisionmaker or instruction.
+
+**Assessment:** Repair and cap removal are distinct conditions, potentially explaining differing restoration descriptions without establishing what Axios's earlier source observed. Matched terminal/service logs remain necessary; movement speed is not data throughput. Reduced defensive effectiveness can benefit Russia, but this account establishes neither personal direction, intent, coordination nor quantified losses. No event or score is added to **J20-2026-021**.
