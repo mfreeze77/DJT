@@ -16,7 +16,7 @@ A senior U.S. official, answering Reuters, said: “No such request was ever mad
 
 [Axios, October 15](https://www.axios.com/2026/10/15/ukraine-starlink-restored-strikes-russia-trump-musk), citing a Ukrainian official, reported full Starlink/Starshield restoration. The discrepancy remains unresolved.
 
-Do not silently replace either dated account with a claim of verified full restoration. System configuration, unit-level tests and timestamped change logs are needed to reconcile differences in service, movement threshold and observation time. A news-publication timestamp is not the time a technical change occurred.
+Do not silently replace either dated account with a claim of verified full restoration. Timestamped unit-level observations, configuration records or change logs could help reconcile differences in service, movement threshold and observation time. A news-publication timestamp is not the time a technical change occurred.
 
 ## Signed Senate letter: request, not investigative finding
 
