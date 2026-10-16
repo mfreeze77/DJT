@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "independent_source": "eligible_corpus.json",
+  "source_sha256": "eadbd287bb6750aa047bd21d96ec88d01bcf7c8a24f1f37199e79d227d2daeb2",
+  "source_documents": 1051,
+  "discovery_rows_checked": 53,
+  "exact_discovery_id_set_match": true,
+  "discovery_id_order_match": true,
+  "quoted_items_checked": 569,
+  "flag_evidence_items_checked": 67,
+  "all_flags_trump_attribution": true,
+  "date_min": "2025-01-20",
+  "date_max": "2026-08-19",
+  "personal_date_max": "2026-08-19",
+  "same_text_duplicate_groups": [],
+  "additional_alias_hits_outside_discovery": [],
+  "errors": [],
+  "semantic_limit": "Independent mechanical literal/source/date/count checks only. This is not a second human semantic review."
+}

@@ -1,0 +1,2043 @@
+{
+  "evidence_entries": 142,
+  "exact_match_passes": 142,
+  "exact_match_failures": [],
+  "all_true_flags_have_evidence": true,
+  "no_duplicate_communication_target": true,
+  "all_rows_within_window": true,
+  "all_social_excluded": true,
+  "mixed_speaker_evidence_manually_resolved": [
+    {
+      "id": "DCPD-202500320",
+      "target": "Sheinbaum",
+      "flag": "current_affinity",
+      "quote": "I have a lot of respect for her.",
+      "paragraph_indices": [
+        164
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Mixed"
+      ]
+    },
+    {
+      "id": "DCPD-202500700",
+      "target": "Carney",
+      "flag": "favorable_conduct_appraisal",
+      "quote": "You did a fantastic job.",
+      "paragraph_indices": [
+        3
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Mixed"
+      ]
+    },
+    {
+      "id": "DCPD-202501059",
+      "target": "Carney",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "Q. Can I ask—can I ask—Mr. President, could I just—this is an ad—that was an ad run by a provincial government in Canada. Why are you mad at the federal government?",
+      "paragraph_indices": [
+        46
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Reporter"
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "id": "DCPD-202500153",
+      "target": "Trudeau",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "The President. I've already been meeting people. I've been meeting them. I've been talking to them. He's—I met with Prime Minister Trudeau. I call him \"Governor Trudeau.\" I met with numerous foreign leaders.",
+      "paragraph_indices": [
+        77
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500174",
+      "target": "Trudeau",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "And I said to—I call him \"Governor Trudeau,\" but he's Prime Minister Trudeau—when he was prime minister, I asked him, \"Why would we do that? Why?\" And he was unable to give me an answer. He said, \"I don't know.\" And I said, \"Do you think it's fair that we're paying $200 billion to keep Canada going?\" \"And what would happen\"—I said—I asked him, \"What would happen if we didn't do that, if we didn't subsidize Canada?\" He said, \"We'd be a failed nation.\" And I said, \"Then you should be a State,\" because why are we paying all of that money to Canada when, you know, we—we could use it ourselves, right?",
+      "paragraph_indices": [
+        159
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500212",
+      "target": "Trudeau",
+      "flag": "contextual_negative",
+      "quote": "I disagree with the leadership of Canada",
+      "paragraph_indices": [
+        21
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500213",
+      "target": "Sheinbaum",
+      "flag": "explicit_character_or_competence_praise",
+      "quote": "She's a wonderful woman",
+      "paragraph_indices": [
+        174
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500213",
+      "target": "Sheinbaum",
+      "flag": "favorable_conduct_appraisal",
+      "quote": "she did agree to 10,000 soldiers on the border. I would say that's a lot. Wouldn't you say that's pretty good?",
+      "paragraph_indices": [
+        174
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500213",
+      "target": "Sheinbaum",
+      "flag": "current_affinity",
+      "quote": "I like her very much",
+      "paragraph_indices": [
+        77
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500213",
+      "target": "Sheinbaum",
+      "flag": "communication_quality",
+      "quote": "we had a great talk with Mexico",
+      "paragraph_indices": [
+        77
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500213",
+      "target": "Trudeau",
+      "flag": "communication_quality",
+      "quote": "we had a good talk in the morning",
+      "paragraph_indices": [
+        81
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500214",
+      "target": "Trudeau",
+      "flag": "communication_quality",
+      "quote": "Very good.",
+      "paragraph_indices": [
+        134
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500214",
+      "target": "Trudeau",
+      "flag": "communication_quality",
+      "quote": "It went great.",
+      "paragraph_indices": [
+        136
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500215",
+      "target": "Sheinbaum",
+      "flag": "communication_quality",
+      "quote": "It was a very friendly conversation",
+      "paragraph_indices": [
+        0
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump_written_or_single_speaker"
+      ]
+    },
+    {
+      "id": "DCPD-202500259",
+      "target": "Trudeau",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "The President. ——I spoke to Governor Trudeau on numerous occasions—[laughter]—and we'll see what happens. But it just sets up so good for them.",
+      "paragraph_indices": [
+        149
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500280",
+      "target": "Sheinbaum",
+      "flag": "explicit_character_or_competence_praise",
+      "quote": "a very wonderful woman, actually",
+      "paragraph_indices": [
+        279
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500280",
+      "target": "Sheinbaum",
+      "flag": "favorable_conduct_appraisal",
+      "quote": "What a great idea.",
+      "paragraph_indices": [
+        285
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500280",
+      "target": "Sheinbaum",
+      "flag": "communication_quality",
+      "quote": "That was such a great conversation",
+      "paragraph_indices": [
+        284
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500289",
+      "target": "Trudeau",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "And by the way, Canada was a big participant in that too. And I think Canada—you know, they're going to have to pay tariffs on automobiles, lumber, and oil and gas, et cetera, et cetera. And they get 95 percent of their product from the United States. I think they have to become the 51st State.",
+      "paragraph_indices": [
+        134
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500289",
+      "target": "Trudeau",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "And you heard the people booing the national anthem, but I think, ultimately, they'll be praising the national anthem. We'll have to work out some deal where they'll—because I do like the \"O Canada.\" Right? It's a beautiful thing. I think we're going to have to keep it for the 51st State.",
+      "paragraph_indices": [
+        135
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500289",
+      "target": "Trudeau",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "I call him Governor Trudeau. I said, \"Governor Trudeau is doing a wonderful job.\" I think it's actually cost him his election, if you want to know the truth.",
+      "paragraph_indices": [
+        136
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500304",
+      "target": "Trudeau",
+      "flag": "explicit_character_or_competence_praise",
+      "quote": "I think he's a very good guy.",
+      "paragraph_indices": [
+        306
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500304",
+      "target": "Trudeau",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "When I spoke to—let's call it the Prime Minister, rather than the governor. [Laughter] But when I spoke to him, I said, \"Why are we giving you $200 billion a year?\" He was unable to answer the question. I said, \"Why are we letting you make millions of cars and send them in?\" He was unable to answer the question—Justin Trudeau, a nice guy. I think he's a very good guy. I call him Governor Trudeau.",
+      "paragraph_indices": [
+        306
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500304",
+      "target": "Trudeau",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "He should be governor, because the fact is that if we don't give them cars—we don't have to give them cars. The—tariffs will make it impossible for them to sell cars into the United States.",
+      "paragraph_indices": [
+        307
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500320",
+      "target": "Sheinbaum",
+      "flag": "current_affinity",
+      "quote": "I have a lot of respect for her.",
+      "paragraph_indices": [
+        164
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Mixed"
+      ]
+    },
+    {
+      "id": "DCPD-202500328",
+      "target": "Sheinbaum",
+      "flag": "explicit_character_or_competence_praise",
+      "quote": "a wonderful woman",
+      "paragraph_indices": [
+        67
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500328",
+      "target": "Sheinbaum",
+      "flag": "communication_quality",
+      "quote": "we had a very good conversation.",
+      "paragraph_indices": [
+        67
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500353",
+      "target": "Sheinbaum",
+      "flag": "explicit_character_or_competence_praise",
+      "quote": "very nice woman, very fine woman",
+      "paragraph_indices": [
+        218
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500353",
+      "target": "Sheinbaum",
+      "flag": "favorable_conduct_appraisal",
+      "quote": "she gave me an idea that I think will be very successful.",
+      "paragraph_indices": [
+        232
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500384",
+      "target": "Trudeau",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "But just a little while ago, before I got involved and totally changed the election, which I don't care about—probably, it's to our advantage, actually—but the conservative was leading against—I call him \"Governor Trudeau.\" The conservative was leading by 35 points. So—you know, so I don't know about that.",
+      "paragraph_indices": [
+        228
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500414",
+      "target": "Carney",
+      "flag": "communication_quality",
+      "quote": "We had a very, very good talk.",
+      "paragraph_indices": [
+        72
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500415",
+      "target": "Carney",
+      "flag": "communication_quality",
+      "quote": "we had a very good conversation with the Prime Minister.",
+      "paragraph_indices": [
+        8
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500467",
+      "target": "Sheinbaum",
+      "flag": "explicit_character_or_competence_praise",
+      "quote": "the new President is a terrific person and a fantastic woman",
+      "paragraph_indices": [
+        451
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500507",
+      "target": "Carney",
+      "flag": "explicit_character_or_competence_praise",
+      "quote": "He was very, very nice",
+      "paragraph_indices": [
+        356
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500507",
+      "target": "Carney",
+      "flag": "communication_quality",
+      "quote": "we had a couple of very nice conversations.",
+      "paragraph_indices": [
+        356
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500507",
+      "target": "Trudeau",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "I'm running this country. I'm not running Canada. And that's why I asked Trudeau—who I call \"Governor Trudeau,\" affectionately—I asked him, \"Why are we spending $200 billion to support Canada, to subsidize Canada?\" And he was unable to answer the question. I mean, why are we doing that?",
+      "paragraph_indices": [
+        369
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500507",
+      "target": "Trudeau",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "But again, you know, why—representing this country, why are we spending $200 billion to support and subsidize another country? Because if they didn't have us, and if we didn't spend that money, as Trudeau told me, they would cease to exist. He said that to me—\"they would cease to exist\"—which is true—certainly, as a country.",
+      "paragraph_indices": [
+        374
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500541",
+      "target": "Carney",
+      "flag": "explicit_character_or_competence_praise",
+      "quote": "he's a very nice gentleman",
+      "paragraph_indices": [
+        508
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500553",
+      "target": "Sheinbaum",
+      "flag": "explicit_character_or_competence_praise",
+      "quote": "the President of Mexico is a lovely woman",
+      "paragraph_indices": [
+        114
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500553",
+      "target": "Sheinbaum",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "The President. Well, she's so afraid of the cartels she can't walk. So, you know, that's the reason. And I think she's a lovely woman, but—the President of Mexico is a lovely woman, but she is so afraid of the cartels that she can't even think straight.",
+      "paragraph_indices": [
+        114
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500563",
+      "target": "Carney",
+      "flag": "explicit_character_or_competence_praise",
+      "quote": "a very talented person, a very good person",
+      "paragraph_indices": [
+        2
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500563",
+      "target": "Carney",
+      "flag": "favorable_conduct_appraisal",
+      "quote": "you ran a really great race. I watched the debate. I thought you were excellent",
+      "paragraph_indices": [
+        4
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500563",
+      "target": "Carney",
+      "flag": "favorable_peace_intention",
+      "quote": "Mark wants it ended as quickly as I do.",
+      "paragraph_indices": [
+        4
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500563",
+      "target": "Carney",
+      "flag": "communication_quality",
+      "quote": "this is a very friendly conversation.",
+      "paragraph_indices": [
+        221
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500563",
+      "target": "Trudeau",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "I won't say this about Mark, but I didn't like his predecessor. I didn't like a person that worked—she was terrible, actually. She was a terrible person. And she really hurt that deal very badly, because she tried to take advantage of the deal, and she didn't get away with it.",
+      "paragraph_indices": [
+        146
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500563",
+      "target": "Trudeau",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "But—so, you know, I had a—we had a bad—relationship having to do with the fact that we disagreed with the way they viewed the deal, and we ended it. You know, we ended that relationship, pretty much.",
+      "paragraph_indices": [
+        148
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500563",
+      "target": "Trudeau",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "I will tell you that Trudeau, when I spoke to him—I used to call him \"Governor Trudeau.\" I think that probably didn't help his election. [Laughter] But when I spoke to him, I said: \"So why are we—why are we taking your cars? Why are we taking your—we want to make them ourself.\" I mean, I said, \"And if the price of your cars went up, or if we put a tariff—if we put a tariff on your cars of 25 percent, what would that mean to you?\" He said, \"That would mean the end of Canada.\" He actually said that to me. And I said, \"That's a strange answer,\" but I understand his answer.",
+      "paragraph_indices": [
+        225
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500564",
+      "target": "Carney",
+      "flag": "explicit_character_or_competence_praise",
+      "quote": "the new Prime Minister, who's a terrific guy",
+      "paragraph_indices": [
+        114
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500564",
+      "target": "Carney",
+      "flag": "favorable_conduct_appraisal",
+      "quote": "I thought he did really terrifically in the debates.",
+      "paragraph_indices": [
+        166
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500564",
+      "target": "Carney",
+      "flag": "current_affinity",
+      "quote": "I like him. You know, he's a nice man. We get along very well.",
+      "paragraph_indices": [
+        166
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500564",
+      "target": "Carney",
+      "flag": "communication_quality",
+      "quote": "We had a great meeting today.",
+      "paragraph_indices": [
+        166
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500564",
+      "target": "Carney",
+      "flag": "contextual_negative",
+      "quote": "they're getting away with things that they shouldn't be",
+      "paragraph_indices": [
+        113
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500564",
+      "target": "Sheinbaum",
+      "flag": "current_affinity",
+      "quote": "the relationship is really very good with the President of Mexico",
+      "paragraph_indices": [
+        117
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500564",
+      "target": "Sheinbaum",
+      "flag": "contextual_negative",
+      "quote": "they're getting away with things that they shouldn't be",
+      "paragraph_indices": [
+        113
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500564",
+      "target": "Trudeau",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "As far as calling him \"Governor Carney,\" no, I haven't done that yet, and maybe I won't. I did have a lot of fun with Trudeau, but I think this is—this is a big step up. It's a good step up for Canada.",
+      "paragraph_indices": [
+        165
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500564",
+      "target": "Trudeau",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "And I say if they didn't vote Russia out—which I thought was a very foolish decision, because it's a group of people sitting around a table. I've done it many times with them. And you get to know them. And I say that if Russia—if it was the G–8, if Russia were in it, I think you probably wouldn't have this ridiculous, deadly war going on right now.",
+      "paragraph_indices": [
+        191
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500564",
+      "target": "Trudeau",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "I thought it was a very bad decision. It was headed by Trudeau, by the way, and Obama.",
+      "paragraph_indices": [
+        192
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500564",
+      "target": "Trudeau",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "They were the ones that really fought hard to get Russia out.",
+      "paragraph_indices": [
+        193
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500564",
+      "target": "Trudeau",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "I think if Russia were in, you wouldn't be—they threw them out. And because of that, maybe, millions of people are dying. Millions. You know, millions. The numbers are—far greater than you think. But millions of people are dying.",
+      "paragraph_indices": [
+        194
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500564",
+      "target": "Trudeau",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "The President. No, I think it's not good timing now. No, right now it's—we missed that gate, didn't we? Huh? We missed that gate with another great decision by some people that shouldn't have been making decisions.",
+      "paragraph_indices": [
+        197
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500565",
+      "target": "Carney",
+      "flag": "explicit_character_or_competence_praise",
+      "quote": "new and very talented Prime Minister of Canada",
+      "paragraph_indices": [
+        72
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500651",
+      "target": "Carney",
+      "flag": "explicit_character_or_competence_praise",
+      "quote": "I think he's really a very nice person",
+      "paragraph_indices": [
+        58
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500651",
+      "target": "Carney",
+      "flag": "communication_quality",
+      "quote": "we've had some good talks.",
+      "paragraph_indices": [
+        58
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500697",
+      "target": "Carney",
+      "flag": "favorable_conduct_appraisal",
+      "quote": "Mark has a—a more complex idea, but also very good.",
+      "paragraph_indices": [
+        27
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500697",
+      "target": "Carney",
+      "flag": "current_affinity",
+      "quote": "we've developed a very good relationship",
+      "paragraph_indices": [
+        9
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500697",
+      "target": "Trudeau",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "The G–7 used to be the G–8. Barack Obama and a person named Trudeau didn't want to have Russia in. And I would say that that was a mistake, because I think you wouldn't have a war right now if you had Russia in. And you wouldn't have a war right now if Trump were President 4 years ago, but it didn't work out that way.",
+      "paragraph_indices": [
+        11
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500697",
+      "target": "Trudeau",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "President Trump. ——it switched over. They threw Russia out, which I claimed was a very",
+      "paragraph_indices": [
+        15
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500697",
+      "target": "Trudeau",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "big mistake. Even though I wasn't in politics then, I was very loud about it. It was a mistake in that you spend so much time talking about Russia, and he's no longer at the table. So, it makes life more complicated. But you wouldn't have had the war.",
+      "paragraph_indices": [
+        16
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500697",
+      "target": "Trudeau",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "President Trump. Well, it's not a bad idea. I don't mind that. If somebody wants to suggest China coming in, I think we suggest—but you want to have people that you can talk to. You know, they don't talk to—Putin speaks to me. He doesn't speak to anybody else. He doesn't want to talk, because he was very insulted when he got thrown out of the G–8. As I would be, as you would be, as anybody would be, he was very insulted.",
+      "paragraph_indices": [
+        57
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500697",
+      "target": "Trudeau",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "And, I mean, he was thrown out by Trudeau, who convinced one or two people, along with Obama. He was thrown out, and he's not a happy person about it. I can tell you that. He's—he—",
+      "paragraph_indices": [
+        58
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500697",
+      "target": "Trudeau",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "He basically doesn't even speak to the people that threw him out, and I agree with him. [Several reporters spoke at once.]",
+      "paragraph_indices": [
+        61
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500700",
+      "target": "Carney",
+      "flag": "favorable_conduct_appraisal",
+      "quote": "You did a fantastic job.",
+      "paragraph_indices": [
+        3
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Mixed"
+      ]
+    },
+    {
+      "id": "DCPD-202500701",
+      "target": "Carney",
+      "flag": "favorable_conduct_appraisal",
+      "quote": "He did a very good job.",
+      "paragraph_indices": [
+        109
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500701",
+      "target": "Carney",
+      "flag": "communication_quality",
+      "quote": "I think it was good.",
+      "paragraph_indices": [
+        114
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500703",
+      "target": "Carney",
+      "flag": "explicit_character_or_competence_praise",
+      "quote": "I think Carney is a good man.",
+      "paragraph_indices": [
+        349
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500703",
+      "target": "Carney",
+      "flag": "favorable_conduct_appraisal",
+      "quote": "a good representative of Canada.",
+      "paragraph_indices": [
+        349
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500864",
+      "target": "Carney",
+      "flag": "explicit_character_or_competence_praise",
+      "quote": "I think he's a good—good person",
+      "paragraph_indices": [
+        288
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500864",
+      "target": "Carney",
+      "flag": "current_affinity",
+      "quote": "I like Carney a lot.",
+      "paragraph_indices": [
+        288
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500864",
+      "target": "Carney",
+      "flag": "communication_quality",
+      "quote": "we had a very good talk yesterday.",
+      "paragraph_indices": [
+        288
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500987",
+      "target": "Carney",
+      "flag": "explicit_character_or_competence_praise",
+      "quote": "He is a world-class leader.",
+      "paragraph_indices": [
+        288
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500987",
+      "target": "Carney",
+      "flag": "favorable_conduct_appraisal",
+      "quote": "your hosting of the various countries that showed up were—that was a beautiful job you did",
+      "paragraph_indices": [
+        3
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500987",
+      "target": "Carney",
+      "flag": "favorable_conduct_appraisal",
+      "quote": "You've done well.",
+      "paragraph_indices": [
+        92
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500987",
+      "target": "Carney",
+      "flag": "favorable_conduct_appraisal",
+      "quote": "He does a great job",
+      "paragraph_indices": [
+        288
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202500987",
+      "target": "Carney",
+      "flag": "current_affinity",
+      "quote": "Right from the beginning, I've liked him, and we've had a good relationship.",
+      "paragraph_indices": [
+        1
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202501040",
+      "target": "Sheinbaum",
+      "flag": "explicit_character_or_competence_praise",
+      "quote": "a tremendous woman. She's a very brave woman.",
+      "paragraph_indices": [
+        418
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202501040",
+      "target": "Sheinbaum",
+      "flag": "current_affinity",
+      "quote": "I really respect the President.",
+      "paragraph_indices": [
+        416
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202501040",
+      "target": "Sheinbaum",
+      "flag": "contextual_negative",
+      "quote": "they are in fear in their own country",
+      "paragraph_indices": [
+        416
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202501042",
+      "target": "Carney",
+      "flag": "contextual_negative",
+      "quote": "They cheated on a commercial.",
+      "paragraph_indices": [
+        5
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202501059",
+      "target": "Carney",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "The President. One of the most difficult countries to deal with has been Canada. As much as I love Canada itself and the people of Canada, they've just had a lot of bad representatives.",
+      "paragraph_indices": [
+        41
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202501059",
+      "target": "Carney",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "They did a fake ad yesterday. They were caught. The Ronald Reagan Foundation was the one that caught them, and it was totally the opposite of what they said. So I don't like that. That's dirty pool, and you can't do that. And—and let me just tell you, they shouldn't have done it.",
+      "paragraph_indices": [
+        42
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202501059",
+      "target": "Carney",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "Q. Can I ask—can I ask—Mr. President, could I just—this is an ad—that was an ad run by a provincial government in Canada. Why are you mad at the federal government?",
+      "paragraph_indices": [
+        46
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Reporter"
+      ]
+    },
+    {
+      "id": "DCPD-202501059",
+      "target": "Carney",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "The President. I don't care. Because the—whether it's provincial or Canada itself, they all knew exactly what the ad was. The Prime Minister knew. Everybody knew. The prime minister knew what the ad was before it ran.",
+      "paragraph_indices": [
+        47
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202501059",
+      "target": "Carney",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "The President. I don't want to meet with him. No, I'm not going to be meeting with him for a while. No. I'm very happy with the deal we have right now with Canada. We're going to let it ride.",
+      "paragraph_indices": [
+        50
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202501078",
+      "target": "Carney",
+      "flag": "communication_quality",
+      "quote": "We had a very nice conversation with him last night",
+      "paragraph_indices": [
+        125
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202501081",
+      "target": "Carney",
+      "flag": "explicit_character_or_competence_praise",
+      "quote": "He was very nice",
+      "paragraph_indices": [
+        41
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202501081",
+      "target": "Carney",
+      "flag": "favorable_conduct_appraisal",
+      "quote": "he did apologize, and I appreciated it.",
+      "paragraph_indices": [
+        41
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202501081",
+      "target": "Carney",
+      "flag": "current_affinity",
+      "quote": "I think we have a very good relationship, personally.",
+      "paragraph_indices": [
+        42
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202501081",
+      "target": "Carney",
+      "flag": "contextual_negative",
+      "quote": "what they did was wrong",
+      "paragraph_indices": [
+        41
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202501162",
+      "target": "Carney",
+      "flag": "current_affinity",
+      "quote": "we're getting along very well",
+      "paragraph_indices": [
+        246
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202501162",
+      "target": "Sheinbaum",
+      "flag": "explicit_character_or_competence_praise",
+      "quote": "She's a good woman",
+      "paragraph_indices": [
+        112
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202501162",
+      "target": "Sheinbaum",
+      "flag": "favorable_conduct_appraisal",
+      "quote": "she's doing a very good job.",
+      "paragraph_indices": [
+        112
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202501162",
+      "target": "Sheinbaum",
+      "flag": "current_affinity",
+      "quote": "we're getting along very well",
+      "paragraph_indices": [
+        246
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202501163",
+      "target": "Carney",
+      "flag": "favorable_conduct_appraisal",
+      "quote": "the coordination and friendship and relationship has been outstanding",
+      "paragraph_indices": [
+        26
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202501163",
+      "target": "Carney",
+      "flag": "current_affinity",
+      "quote": "the coordination and friendship and relationship has been outstanding",
+      "paragraph_indices": [
+        26
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202501163",
+      "target": "Sheinbaum",
+      "flag": "favorable_conduct_appraisal",
+      "quote": "the coordination and friendship and relationship has been outstanding",
+      "paragraph_indices": [
+        26
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202501163",
+      "target": "Sheinbaum",
+      "flag": "current_affinity",
+      "quote": "the coordination and friendship and relationship has been outstanding",
+      "paragraph_indices": [
+        26
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202501174",
+      "target": "Carney",
+      "flag": "current_affinity",
+      "quote": "I have a very good relationship with the Prime Minister",
+      "paragraph_indices": [
+        218
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202501174",
+      "target": "Carney",
+      "flag": "communication_quality",
+      "quote": "A very good, a very productive",
+      "paragraph_indices": [
+        215
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202501174",
+      "target": "Sheinbaum",
+      "flag": "communication_quality",
+      "quote": "A very good, a very productive",
+      "paragraph_indices": [
+        215
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202600005",
+      "target": "Sheinbaum",
+      "flag": "explicit_character_or_competence_praise",
+      "quote": "I think she's a terrific person.",
+      "paragraph_indices": [
+        159
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202600005",
+      "target": "Sheinbaum",
+      "flag": "current_affinity",
+      "quote": "I like Claudia.",
+      "paragraph_indices": [
+        159
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202600005",
+      "target": "Sheinbaum",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "The President. She's concerned. She's a little afraid. The cartels are running Mexico, whether you like it or not.",
+      "paragraph_indices": [
+        162
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202600005",
+      "target": "Sheinbaum",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "The President. It's not nice to say, but the cartels—the cartels are running Mexico.",
+      "paragraph_indices": [
+        164
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202600032",
+      "target": "Carney",
+      "flag": "favorable_conduct_appraisal",
+      "quote": "That's what he should be doing. I mean, it's a good thing for him to sign a trade deal.",
+      "paragraph_indices": [
+        24
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202600046",
+      "target": "Carney",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "That's going to, just by its very nature—going to be defending Canada. Canada gets a lot of freebies from us, by the way. They should be grateful also, but they're not. I watched your Prime Minister yesterday. He wasn't so grateful. They should be grateful to us. Canada—Canada lives because of the United States. Remember that, Mark, the next time you make your statements. [Laughter]",
+      "paragraph_indices": [
+        93
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202600074",
+      "target": "Sheinbaum",
+      "flag": "favorable_conduct_appraisal",
+      "quote": "President Sheinbaum, was very good.",
+      "paragraph_indices": [
+        95
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202600155",
+      "target": "Sheinbaum",
+      "flag": "explicit_character_or_competence_praise",
+      "quote": "She's a very good person.",
+      "paragraph_indices": [
+        97
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202600155",
+      "target": "Sheinbaum",
+      "flag": "current_affinity",
+      "quote": "I like the President very much.",
+      "paragraph_indices": [
+        97
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202600175",
+      "target": "Sheinbaum",
+      "flag": "current_affinity",
+      "quote": "I like her very much",
+      "paragraph_indices": [
+        51
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202600175",
+      "target": "Sheinbaum",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "The President. Well, she should not have refused my help. I offered to get rid of the cartels in Mexico, and for some reason, she doesn't want to do that. I like her very much, but she should get rid of the cartels because the cartels are—whether we like it or not, the cartels are running Mexico. We can't have that.",
+      "paragraph_indices": [
+        51
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202600213",
+      "target": "Sheinbaum",
+      "flag": "explicit_character_or_competence_praise",
+      "quote": "She's really a nice person too.",
+      "paragraph_indices": [
+        30
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202600213",
+      "target": "Sheinbaum",
+      "flag": "current_affinity",
+      "quote": "I like her a lot.",
+      "paragraph_indices": [
+        30
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202600281",
+      "target": "Trudeau",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "The President. No, but if he came, it would be probably very helpful. You know, I've said a long time ago, when they made the G–8 the G–7—they threw Russia out before my time. That was Obama and a certain Prime Minister from a place called Canada. That's Trudeau. And I said, \"That's a stupid thing to do,\" and I was right.",
+      "paragraph_indices": [
+        181
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202600281",
+      "target": "Trudeau",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "You know, they spent—I'd go to these meetings at the G–7, and about 90 percent of the meeting was talking about Russia and what's going on with Russia. And I said, \"Why'd you throw them out?\" You know, if they didn't throw them out, they would have been much better off, in my opinion. You know, it should have been the G–8.",
+      "paragraph_indices": [
+        182
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202600281",
+      "target": "Trudeau",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "But when they threw out President Putin, he was very offended by that. He was, you know, rightfully—but he was very offended by that. I venture to say you probably wouldn't be having these problems if you didn't throw him out. Okay?",
+      "paragraph_indices": [
+        183
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202600410",
+      "target": "Sheinbaum",
+      "flag": "explicit_character_or_competence_praise",
+      "quote": "the President is a very good woman",
+      "paragraph_indices": [
+        149
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202600410",
+      "target": "Sheinbaum",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "But drugs are down by water 97 percent, and over 60 percent they're down, and now we're going to go and focus on the land. They come through Mexico, and Mexico has lost control of their country. The cartels run Mexico, and it's sad.",
+      "paragraph_indices": [
+        148
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202600410",
+      "target": "Sheinbaum",
+      "flag": "clear_personal_or_conduct_negative",
+      "quote": "And the President is a very good woman, but she's a very scared woman. The drug cartels are totally running Mexico. It's not even close.",
+      "paragraph_indices": [
+        149
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202600471",
+      "target": "Carney",
+      "flag": "current_affinity",
+      "quote": "I have a good relationship with Mark Carney",
+      "paragraph_indices": [
+        20
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202600471",
+      "target": "Carney",
+      "flag": "communication_quality",
+      "quote": "it went good",
+      "paragraph_indices": [
+        20
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202600481",
+      "target": "Carney",
+      "flag": "contextual_negative",
+      "quote": "President Trump. It's only response to the way they've treated our farmers and our people, yes. Canada has been very, very tough on us over the years. For many years. And no other President's done anything about it.",
+      "paragraph_indices": [
+        167
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202600481",
+      "target": "Carney",
+      "flag": "contextual_negative",
+      "quote": "I love Canada. I love the people of Canada—many friends that live in Canada. But their leadership from Trudeau to the current leadership—I mean, in all fairness to them, they need us to survive. Without us, there's no way they can survive. So—but they've been very, very tough over a period of the last 50 years, actually.",
+      "paragraph_indices": [
+        168
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202600481",
+      "target": "Carney",
+      "flag": "contextual_negative",
+      "quote": "President Trump. We're looking—a lot of damage has been done. They're not managing their forests properly, and the wind has a tendency to blow right over New York City, right",
+      "paragraph_indices": [
+        182
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202600481",
+      "target": "Carney",
+      "flag": "contextual_negative",
+      "quote": "over—you saw Detroit. They had to close the whole place. Michigan was really affected. They had to close businesses for 4 days.",
+      "paragraph_indices": [
+        183
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202600481",
+      "target": "Carney",
+      "flag": "contextual_negative",
+      "quote": "It's very serious what they're doing, and they don't seem to be able to do anything about it. If they managed their forests, they wouldn't have the fires.",
+      "paragraph_indices": [
+        184
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202600481",
+      "target": "Trudeau",
+      "flag": "contextual_negative",
+      "quote": "President Trump. It's only response to the way they've treated our farmers and our people, yes. Canada has been very, very tough on us over the years. For many years. And no other President's done anything about it.",
+      "paragraph_indices": [
+        167
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202600481",
+      "target": "Trudeau",
+      "flag": "contextual_negative",
+      "quote": "I love Canada. I love the people of Canada—many friends that live in Canada. But their leadership from Trudeau to the current leadership—I mean, in all fairness to them, they need us to survive. Without us, there's no way they can survive. So—but they've been very, very tough over a period of the last 50 years, actually.",
+      "paragraph_indices": [
+        168
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202600494",
+      "target": "Sheinbaum",
+      "flag": "explicit_character_or_competence_praise",
+      "quote": "She's very nice",
+      "paragraph_indices": [
+        73
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202600546",
+      "target": "Carney",
+      "flag": "communication_quality",
+      "quote": "we had a very good conversation with the Prime Minister last night",
+      "paragraph_indices": [
+        239
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202600550",
+      "target": "Carney",
+      "flag": "current_affinity",
+      "quote": "I've dealt with the Prime Minister. I have a good relationship.",
+      "paragraph_indices": [
+        95
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202600570",
+      "target": "Carney",
+      "flag": "explicit_character_or_competence_praise",
+      "quote": "this new guy, who's a nice guy",
+      "paragraph_indices": [
+        179
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202600570",
+      "target": "Trudeau",
+      "flag": "contextual_negative",
+      "quote": "But they need us. We don't need them. They've taken advantage of us for years, and it's time to stop. We can't lose $60- to $100 billion a year for the privilege of allowing them to make cars. We don't want their cars. We want the cars to be made in Detroit and in South Carolina and in Tennessee and in all of our places where we make cars. We don't want them to be made in Canada. So this is nothing against anybody.",
+      "paragraph_indices": [
+        178
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202600570",
+      "target": "Trudeau",
+      "flag": "contextual_negative",
+      "quote": "And this started with Trudeau. Trudeau and I used to have it out pretty good, and now we have this new guy, who's a nice guy, but you know, he's just—and then they have the other guy, the slob. I guess some people call him a slob. I don't want to call him that because I want to be nice.",
+      "paragraph_indices": [
+        179
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202600570",
+      "target": "Trudeau",
+      "flag": "contextual_negative",
+      "quote": "Canada has taken advantage of us. They have ripped us off for years, and now we're turning the tables very—very easily turning the tables.",
+      "paragraph_indices": [
+        182
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    },
+    {
+      "id": "DCPD-202600575",
+      "target": "Sheinbaum",
+      "flag": "current_affinity",
+      "quote": "we get along very well with the President. We like the president, respect her a lot.",
+      "paragraph_indices": [
+        362
+      ],
+      "exact_match": true,
+      "attributed_speaker": "Trump",
+      "source_speakers": [
+        "Trump"
+      ]
+    }
+  ]
+}

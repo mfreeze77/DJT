@@ -31,3 +31,9 @@ jobs:
         run: python -m unittest discover -s tests -v
       - name: Reproduce frozen official sources without source network access
         run: python scripts/verify_official_snapshot.py
+      - name: Reproduce draft cumulative comparison from the frozen archive
+        run: |
+          python scripts/restore_official_snapshot.py
+          python scripts/build_corpus.py
+          python scripts/extract_packets.py
+          python comparisons/2026-10-16/scripts/reproduce.py

@@ -26,3 +26,10 @@ The initial 76-personal-criticism figure and its praise-versus-criticism balance
 - `results/`: reserved for comparison outputs after explicit review approval; currently withheld
 
 All semantic review was performed by AI. The deliverable preserves evidence and limitations so a human can audit or revise it. Keyword matches select candidates; they are never treated as sentiment classifications.
+
+
+## October 16 cumulative comparison (separate draft extension)
+
+The [cumulative comparison](comparisons/2026-10-16/README.md) adds a common-rubric, source-indexed AI review of Putin, Kim Jong Un, Mohammed bin Salman, Trudeau, Carney, Sheinbaum, and NATO as a distinct institutional target. See its [report and limitations](comparisons/2026-10-16/REPORT.md), [category membership ledger](comparisons/2026-10-16/data/category_membership.json), and [correction history](comparisons/2026-10-16/docs/COMPARISON_CORRECTIONS.md).
+
+This is draft descriptive research, not human validation, a matched-opportunity rate, or a causal finding. It reuses the frozen official source archive through September 11, 2026. The first-pass annotations and their fail-closed aggregation gate remain unchanged; the earlier withheld comparison is not promoted by this extension.
