@@ -73,3 +73,9 @@ This contextual update to **J20-2026-021** adds no event or score. The potential
 [Newsquawk's October 16 headline](https://www.newsquawk.com/headlines/us-president-trump-says-he-wants-the-russiaukraine-war-ended-on-zelenskyukraine-says-at-some-point-ill-release-details) separately records the future-disclosure and end-the-war remarks. Its 17:28 UTC publication and 17:08 feed labels are reporting timestamps, not verified speech times. Both indexed texts were inspected; the full original English recording/transcript remains unavailable here.
 
 **Analytical implication:** Such a pivot can dilute scrutiny of Russia's responsibility; intent and actual audience effect are unestablished. The exchange does not establish that Trump explicitly denied Russia's invasion, possessed validated undisclosed evidence, or substantiated casualty figures. This is separate attributed rhetoric context, not technical evidence for the satellite restriction or a new scored event.
+
+### Published U.S. intelligence baseline
+
+The [ODNI March 2026 Annual Threat Assessment](https://www.dni.gov/files/ODNI/documents/assessments/ATA-2026-Unclassified-Report.pdf), prepared using information available through March 14, explicitly refers in its Europe section to “Russia’s invasion of Ukraine in 2022” (PDF page 26); its Russia–Ukraine section likewise characterizes the conflict as Russia's war against Ukraine. This is a published Intelligence Community assessment during Trump's second administration, distinct from his October 16 appeal to unspecified future disclosures.
+
+Targeted White House, State Department and ODNI searches on October 16 located no published formal reassessment reversing that war-origin baseline. This is a bounded search result, not exhaustive proof that no other assessment exists. The reported exchange itself supplies neither a replacement assessment nor evidence supporting one.
