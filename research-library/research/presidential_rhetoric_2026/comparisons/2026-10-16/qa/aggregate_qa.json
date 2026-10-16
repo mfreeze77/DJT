@@ -1,0 +1,8 @@
+{
+  "status": "pass",
+  "category_membership_checks": 72,
+  "targets": 6,
+  "all_source_ids_unique_within_target_category": true,
+  "all_source_dates_in_shared_window": true,
+  "no_exposure_rates_computed": true
+}

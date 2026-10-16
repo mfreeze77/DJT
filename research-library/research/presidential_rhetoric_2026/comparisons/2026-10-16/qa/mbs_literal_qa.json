@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "errors": [],
+  "discovery_records_checked": 209,
+  "discovery_quotes_checked": 576,
+  "coded_evidence_paragraph_quotes_checked": 245,
+  "question_indices_checked": 41,
+  "additional_variant_exclusions_checked": 9,
+  "exact_source_text_duplicate_groups": [],
+  "scope": "Independent validation script compares serialized review against source eligible_corpus.json, not merely against extraction packets. This checks literal quotations, provenance, dates, URLs, indices, complete discovery coverage, and flag/evidence consistency; semantic judgments remain AI review."
+}

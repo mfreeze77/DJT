@@ -1,0 +1,1996 @@
+{
+  "schema_version": "independent_defense_semantic_qa_v1",
+  "created_utc": "2026-10-16T19:40:54.960096+00:00",
+  "review_type": "Independent AI semantic audit; not human-validated. Frozen supplied sources only; no web verification of underlying allegations.",
+  "scope": "All original 29 Putin main defense records, both Kim records and both MBS records; relevant full source exchanges and continuation reviewed. Targeted consistency screen of Canada/Mexico candidates, seven Putin sensitivity examples, MBS main and sensitivity evidence, and whole-corpus Khashoggi aliases. Not an independent exhaustive whole-corpus recall audit.",
+  "unit": "Unique official DCPD communication × target, regardless of multiple passages.",
+  "rubric": {
+    "main": "Explicit adopted justification, normalization, personal-conduct/performance/reputation rebuttal, or direct protective/fairness defense of the leader. Allow mild diplomatic and protective defense, but mark subtype and significance.",
+    "exclude_main": "State-only sympathy; affinity/praise alone; mere attributed rationale without adoption; generic peace intentions; claims own policy creates pressure; ambiguous causal prediction without secure normative function.",
+    "comparability": "Counts use shared semantic boundary, not equivalence of moral significance, opportunities, exposure, misconduct severity or leaders’ underlying acts. Economic-performance rebuttal, protective fairness, diplomacy and murder denial are distinct subtypes.",
+    "truth_status": "Codes what Trump asserted. Neither historical statistics nor alleged incidents nor denials are fact-checked by this audit."
+  },
+  "source_corpus": {
+    "path": "data/eligible_corpus.json",
+    "sha256": "eadbd287bb6750aa047bd21d96ec88d01bcf7c8a24f1f37199e79d227d2daeb2",
+    "records": 1051
+  },
+  "counts": {
+    "Vladimir Putin": {
+      "original_main_reviewed": 29,
+      "secure_broad_personal_defense_or_protection": 26,
+      "retained_as_ambiguous_sensitivity": 2,
+      "removed_for_other_category_only": 1,
+      "original_all_inclusive_count_not_recommended_as_secure": 29,
+      "subtypes_main": {
+        "invasion_blame_mitigation": 1,
+        "invasion_rationale_with_explicit_fairness": 1,
+        "reputational_allegation_denial": 1,
+        "reputational_allegation_denial_and_deal_rebuttal": 1,
+        "normalization_of_military_attacks": 1,
+        "ceasefire_rejection_rebuttal": 1,
+        "diplomatic_nonattendance_normalization": 2,
+        "diplomatic_nonattendance_justification": 1,
+        "normalization_of_ongoing_war_attacks": 1,
+        "reputational_fairness_using_state_history": 1,
+        "diplomatic_noncooperation_justification": 1,
+        "mockery_allegation_rebuttal": 1,
+        "diplomatic_meeting_refusal_normalization": 1,
+        "opposition_to_adversary_armament_normalization": 1,
+        "wartime_excuse_for_unproductive_negotiations": 1,
+        "attacks_normalized_as_mutual_war": 1,
+        "ceasefire_refusal_justification": 1,
+        "protective_fairness_defense_of_personal_residence": 1,
+        "attack_pause_compliance_rebuttal": 1,
+        "g8_exclusion_grievance_justification": 1,
+        "external_obstacles_to_peace_mitigation": 1,
+        "personal_honor_and_deal_reliability_rebuttal": 1,
+        "enabling_iran_denial_and_minimization": 1,
+        "negotiating_inflexibility_normalization": 1,
+        "aggressive_intention_rebuttal": 1
+      },
+      "secure_plus_defense_ambiguous_sensitivity": 28
+    },
+    "Kim Jong Un": {
+      "original_main_reviewed": 2,
+      "secure_broad_personal_defense_or_protection": 2,
+      "retained_as_ambiguous_sensitivity": 0,
+      "removed_for_other_category_only": 0,
+      "original_all_inclusive_count_not_recommended_as_secure": 2,
+      "subtypes_main": {
+        "missile_launch_normalization_and_minimization": 1,
+        "protective_defense_against_military_posture": 1
+      },
+      "secure_plus_defense_ambiguous_sensitivity": 2
+    },
+    "Mohammed bin Salman": {
+      "original_main_reviewed": 2,
+      "secure_broad_personal_defense_or_protection": 2,
+      "retained_as_ambiguous_sensitivity": 0,
+      "removed_for_other_category_only": 0,
+      "original_all_inclusive_count_not_recommended_as_secure": 2,
+      "subtypes_main": {
+        "economic_performance_rebuttal": 1,
+        "denial_of_knowledge_and_minimization_of_murder": 1
+      },
+      "secure_plus_defense_ambiguous_sensitivity": 2
+    }
+  },
+  "initiation_summary_audited_main_passages_only": {
+    "Vladimir Putin": {
+      "main_document_count": 26,
+      "observed_kind_counts": {
+        "mixed_topical_prompt_and_direct_critical_followup": 1,
+        "volunteered_in_other_topic_answer": 2,
+        "direct_critical_target_question": 11,
+        "direct_target_question_and_critical_followup": 1,
+        "followup_target_topic_question": 1,
+        "topical_question_about_g7_membership": 1,
+        "direct_target_question": 2,
+        "direct_target_question_and_followup": 2,
+        "direct_target_question_with_historical_digression": 1,
+        "direct_target_topic_question": 1,
+        "topical_security_guarantee_question": 1,
+        "critical_state_question_personalized_by_answer": 1,
+        "direct_critical_target_followup": 1
+      },
+      "any_prompted": 26,
+      "any_unsolicited_target_introduction": 2,
+      "any_direct_target_or_critical_conduct_prompt": 22
+    },
+    "Kim Jong Un": {
+      "main_document_count": 2,
+      "observed_kind_counts": {
+        "direct_critical_state_conduct_question_personalized_by_answer": 1,
+        "direct_critical_target_question_and_followup": 1
+      },
+      "any_prompted": 2,
+      "any_unsolicited_target_introduction": 0,
+      "any_direct_target_or_critical_conduct_prompt": 2
+    },
+    "Mohammed bin Salman": {
+      "main_document_count": 2,
+      "observed_kind_counts": {
+        "volunteered_speech": 1,
+        "direct_critical_target_question": 1
+      },
+      "any_prompted": 1,
+      "any_unsolicited_target_introduction": 1,
+      "any_direct_target_or_critical_conduct_prompt": 1
+    },
+    "note": "any_prompted includes an answer to any question, even an unrelated question. It can overlap any_unsolicited_target_introduction. For reporting, prefer the mutually exclusive observed_kind_counts and direct-target/conduct-prompt field."
+  },
+  "mandatory_changes": [
+    {
+      "id": "DCPD-202500661",
+      "decision": "downgrade_to_sensitivity",
+      "reason": "I understand it can refer to Ukraine hitting Putin after his attacks; not playing games is immediately explained as wanting all Ukraine, not necessarily favorable conduct. At 231 Trump faults Putin while also blaming others; this is insufficiently clear mitigation for secure main defense.",
+      "paragraph_indices": [
+        228,
+        231
+      ]
+    },
+    {
+      "id": "DCPD-202500664",
+      "decision": "downgrade_to_sensitivity",
+      "reason": "Gave Putin a reason to bomb and anticipated retaliation can be strategic causal explanation rather than endorsing a justified response. Keep literal evidence, but do not equate reason automatically with normative excuse.",
+      "paragraph_indices": [
+        79
+      ]
+    },
+    {
+      "id": "DCPD-202600446",
+      "decision": "remove_main_defense_keep_other_categories",
+      "reason": "Feeling pressure is a psychological/policy-effectiveness claim. Wanting the war ended is peace-intention rhetoric. Neither addresses, excuses or normalizes the reported attack on civilians; a critical prompt does not itself turn a favorable answer into defense.",
+      "paragraph_indices": [
+        213,
+        217
+      ]
+    }
+  ],
+  "rows": [
+    {
+      "id": "DCPD-202500259",
+      "target": "Vladimir Putin",
+      "date": "2025-02-13",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202500259/html/DCPD-202500259.htm",
+      "input_main_defense": true,
+      "independent_decision": "retain_main",
+      "recommended_main_defense": true,
+      "subtype": "invasion_blame_mitigation",
+      "reason": "NATO/provocation rationale is initially state-framed, but the direct question contrasts Biden and Putin blame and the answer explicitly explains Putin’s decision. This supports a personal causal excuse in context, without endorsing the factual claim.",
+      "personal_target_resolution": "Direct name or resolved personal pronoun/second-person address, except explicitly identified ambiguities in reason.",
+      "source_assertions": [
+        {
+          "paragraph_index": 203,
+          "speaker": "Trump",
+          "quote": "The President. I don't see any way that a country in Russia's position could allow them—just in their position—could allow them to join NATO. I don't see that happening."
+        },
+        {
+          "paragraph_index": 205,
+          "speaker": "Trump",
+          "quote": "The President. And long before President Putin, Russia was very strong on the fact that—I believe that's the reason the war started, because Biden went out and said that they could join NATO, and he shouldn't have said that. As soon as he said that, I said: \"You know what? You're going to have a war now.\" And I was right about that. That—this is a war that would have never happened if I were President."
+        },
+        {
+          "paragraph_index": 207,
+          "speaker": "Trump",
+          "quote": "The President. I think Biden is incompetent. And I think when he said that they could join NATO, I thought that was a very stupid thing to say. I thought when he said, \"Well, it depends if"
+        },
+        {
+          "paragraph_index": 208,
+          "speaker": "Trump",
+          "quote": "it's a minor incursion\"—in other words, it's okay if Russia does a minor incursion—I thought that was a very foolish thing to say."
+        },
+        {
+          "paragraph_index": 211,
+          "speaker": "Trump",
+          "quote": "The President. Those things got it started."
+        },
+        {
+          "paragraph_index": 213,
+          "speaker": "Trump",
+          "quote": "The President. The other thing that got it started was how badly Milley and these stupid people—the bad generals—how badly they did with Afghanistan. I was going to pull out, but we were pulling out with dignity and strength, and we were going to take our equipment with us and everything else. They are—I mean, what they're doing is—what they did with that—I think Putin looked at that mess, and he said: \"Wow, this is a great time. I'm going to go in.\""
+        },
+        {
+          "paragraph_index": 214,
+          "speaker": "Trump",
+          "quote": "But what—what the Americans said—I'm not blaming Americans, but I will say what they said had a big influence on his deciding to go in."
+        }
+      ],
+      "prompt_evidence": [
+        {
+          "paragraph_index": 194,
+          "speaker": "Reporter",
+          "quote": "Q. Did you ask Secretary Hegseth to walk back his comments yesterday, saying Ukraine won't join NATO and won't go back to pre-2014 borders——"
+        },
+        {
+          "paragraph_index": 198,
+          "speaker": "Q. ——",
+          "quote": "Q. ——bargaining chips you could use?"
+        },
+        {
+          "paragraph_index": 200,
+          "speaker": "Reporter",
+          "quote": "Q. Is that at your direction?"
+        },
+        {
+          "paragraph_index": 206,
+          "speaker": "Reporter",
+          "quote": "Q. But you don't think it's—you think it's President Biden's fault, not President Putin? I mean, he's the one who invaded."
+        }
+      ],
+      "initiation": {
+        "observed_kind": "mixed_topical_prompt_and_direct_critical_followup",
+        "any_prompted": true,
+        "any_direct_target_or_critical_conduct_prompt": true,
+        "any_unsolicited_target_introduction": false,
+        "note": "Describes only the audited defense passage(s), not every target mention in the document. Topical prompts do not establish an obligation to answer favorably, and prompted answers remain chosen output."
+      },
+      "relevant_context_reviewed": true
+    },
+    {
+      "id": "DCPD-202500304",
+      "target": "Vladimir Putin",
+      "date": "2025-02-26",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202500304/html/DCPD-202500304.htm",
+      "input_main_defense": true,
+      "independent_decision": "retain_main",
+      "recommended_main_defense": true,
+      "subtype": "invasion_rationale_with_explicit_fairness",
+      "reason": "In response to a Bagram question, Trump introduces Putin and explicitly says in all fairness to Putin before endorsing opportunistic invasion timing. More than merely reporting Putin’s rationale; the fairness framing supplies the justificatory function.",
+      "personal_target_resolution": "Direct name or resolved personal pronoun/second-person address, except explicitly identified ambiguities in reason.",
+      "source_assertions": [
+        {
+          "paragraph_index": 250,
+          "speaker": "Trump",
+          "quote": "Well, they ran out. It was—what happened there was a disgrace—in fact, you know, in all fairness to Putin, when he saw that, he said, \"Well, this is our time to go and go into Ukraine,\" I guess, because it was—the timing seemed to be about right."
+        }
+      ],
+      "prompt_evidence": [
+        {
+          "paragraph_index": 242,
+          "speaker": "Reporter",
+          "quote": "Q. Are we going to take Bagram back?"
+        }
+      ],
+      "initiation": {
+        "observed_kind": "volunteered_in_other_topic_answer",
+        "any_prompted": true,
+        "any_direct_target_or_critical_conduct_prompt": false,
+        "any_unsolicited_target_introduction": true,
+        "note": "Describes only the audited defense passage(s), not every target mention in the document. Topical prompts do not establish an obligation to answer favorably, and prompted answers remain chosen output."
+      },
+      "relevant_context_reviewed": true
+    },
+    {
+      "id": "DCPD-202500306",
+      "target": "Vladimir Putin",
+      "date": "2025-02-27",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202500306/html/DCPD-202500306.htm",
+      "input_main_defense": true,
+      "independent_decision": "retain_main",
+      "recommended_main_defense": true,
+      "subtype": "reputational_allegation_denial",
+      "reason": "Explicitly portrays Putin as jointly subjected to an unfair fabricated Russia story. Pronouns at 180 resolve to Putin; not merely state-only Russia language at 181.",
+      "personal_target_resolution": "Direct name or resolved personal pronoun/second-person address, except explicitly identified ambiguities in reason.",
+      "source_assertions": [
+        {
+          "paragraph_index": 180,
+          "speaker": "Trump",
+          "quote": "President Trump. I think he'll keep his word. I think—I think he's—I've spoken to him. I've known him for a long time now. You know, I've known him—we had to go through the Russian hoax together. That was not a good thing. It's not fair."
+        },
+        {
+          "paragraph_index": 181,
+          "speaker": "Trump",
+          "quote": "That was a rigged deal and had nothing to do with Russia. It was a rigged deal with inside the country, and they had to put up with that too. They put up with a lot. It wasn't just us. They had to put up with it—with a phony story that was made up."
+        }
+      ],
+      "prompt_evidence": [
+        {
+          "paragraph_index": 177,
+          "speaker": "Reporter",
+          "quote": "Q. Sorry. Mr. President, what would you be willing to do if Vladimir Putin did not stick to the terms of any deal on Ukraine?"
+        },
+        {
+          "paragraph_index": 179,
+          "speaker": "Reporter",
+          "quote": "Q. He did not stick to the terms of any deal on Ukraine, because he has a history of not sticking to his word when it comes to international agreements."
+        }
+      ],
+      "initiation": {
+        "observed_kind": "direct_critical_target_question",
+        "any_prompted": true,
+        "any_direct_target_or_critical_conduct_prompt": true,
+        "any_unsolicited_target_introduction": false,
+        "note": "Describes only the audited defense passage(s), not every target mention in the document. Topical prompts do not establish an obligation to answer favorably, and prompted answers remain chosen output."
+      },
+      "relevant_context_reviewed": true
+    },
+    {
+      "id": "DCPD-202500310",
+      "target": "Vladimir Putin",
+      "date": "2025-02-28",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202500310/html/DCPD-202500310.htm",
+      "input_main_defense": true,
+      "independent_decision": "retain_main",
+      "recommended_main_defense": true,
+      "subtype": "reputational_allegation_denial_and_deal_rebuttal",
+      "reason": "Explicitly says Putin had nothing to do with allegations and suffered through them; additionally disputes/qualifies broken-deal allegations. Distinct defensive passages count once.",
+      "personal_target_resolution": "Direct name or resolved personal pronoun/second-person address, except explicitly identified ambiguities in reason.",
+      "source_assertions": [
+        {
+          "paragraph_index": 318,
+          "speaker": "Trump",
+          "quote": "President Trump. Well, that's what I do. My whole life is deals. I know pretty good. And I really—I've known him for a long time. I've dealt with him for a long time. He had to suffer through the Russia hoax. You know, \"Russia, Russia, Russia.\" It was a hoax. That was all Biden. It was nothing to do with him. So he had to suffer through that, and he was able to do that."
+        },
+        {
+          "paragraph_index": 579,
+          "speaker": "Trump",
+          "quote": "President Trump. Let me tell you, Putin went through a hell of a lot with me. He went through a phony witch hunt where they used him and Russia. \"Russia, Russia, Russia.\" You ever hear of that deal? That was a phony—that was a phony Hunter Biden, Joe Biden scam—Hillary Clinton, shifty Adam Schiff. It was a Democrat scam. And he had to go through that. And he did go through it. We didn't end up in a war. And he went through it."
+        },
+        {
+          "paragraph_index": 580,
+          "speaker": "Trump",
+          "quote": "He was accused of all that stuff. He had nothing to do with it. It came out of Hunter Biden's bathroom. It came out of Hunter Biden's bedroom. It was disgusting."
+        },
+        {
+          "paragraph_index": 581,
+          "speaker": "Trump",
+          "quote": "And then they said: \"Oh. Oh, the laptop from hell was made by Russia.\" The 51 agents. The whole thing was a scam. And he had to put up with that. He was being accused of all that stuff."
+        },
+        {
+          "paragraph_index": 582,
+          "speaker": "Trump",
+          "quote": "All I can say is this: He might have broken deals with Obama and Bush, and he might have broken them with Biden. He did, maybe. Maybe he didn't. I don't know what happened. But he didn't break them with me."
+        }
+      ],
+      "prompt_evidence": [
+        {
+          "paragraph_index": 315,
+          "speaker": "Reporter",
+          "quote": "Q. Mr. President—thank you. Mr. President, when did you last speak with President Putin? And what did he say that gave——"
+        },
+        {
+          "paragraph_index": 317,
+          "speaker": "Reporter",
+          "quote": "Q. And what did he tell you that gave you the assurance that he wanted peace?"
+        },
+        {
+          "paragraph_index": 574,
+          "speaker": "Reporter",
+          "quote": "Q. But they have broken cease-fires——"
+        },
+        {
+          "paragraph_index": 576,
+          "speaker": "Reporter",
+          "quote": "Q. ——many times."
+        }
+      ],
+      "initiation": {
+        "observed_kind": "direct_target_question_and_critical_followup",
+        "any_prompted": true,
+        "any_direct_target_or_critical_conduct_prompt": true,
+        "any_unsolicited_target_introduction": false,
+        "note": "Describes only the audited defense passage(s), not every target mention in the document. Topical prompts do not establish an obligation to answer favorably, and prompted answers remain chosen output."
+      },
+      "relevant_context_reviewed": true
+    },
+    {
+      "id": "DCPD-202500337",
+      "target": "Vladimir Putin",
+      "date": "2025-03-07",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202500337/html/DCPD-202500337.htm",
+      "input_main_defense": true,
+      "independent_decision": "retain_main",
+      "recommended_main_defense": true,
+      "subtype": "normalization_of_military_attacks",
+      "reason": "Rejects allegation of taking advantage of paused U.S. support and says anyone in his position would hit harder. Explicit normalization rather than peace intention alone.",
+      "personal_target_resolution": "Direct name or resolved personal pronoun/second-person address, except explicitly identified ambiguities in reason.",
+      "source_assertions": [
+        {
+          "paragraph_index": 126,
+          "speaker": "Trump",
+          "quote": "The President. No, I actually think he's doing what anybody else would do. I think he's—I think he wants to get it stopped and settled. And I think he's hitting them harder than—than he's been hitting them, and I think probably anybody in that position would be doing that right now. He wants to get it ended. And I think Ukraine wants to get it ended, but I don't see—it's crazy. They're taking tremendous punishment. I don't quite get it, but I suspect, Michael, he probably wants to get it ended."
+        }
+      ],
+      "prompt_evidence": [
+        {
+          "paragraph_index": 125,
+          "speaker": "Reporter",
+          "quote": "Do you, Mr. President, think that Vladimir Putin is taking advantage of the U.S. pause right now on intelligence and military aid to Ukraine?"
+        }
+      ],
+      "initiation": {
+        "observed_kind": "direct_critical_target_question",
+        "any_prompted": true,
+        "any_direct_target_or_critical_conduct_prompt": true,
+        "any_unsolicited_target_introduction": false,
+        "note": "Describes only the audited defense passage(s), not every target mention in the document. Topical prompts do not establish an obligation to answer favorably, and prompted answers remain chosen output."
+      },
+      "relevant_context_reviewed": true
+    },
+    {
+      "id": "DCPD-202500385",
+      "target": "Vladimir Putin",
+      "date": "2025-03-21",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202500385/html/DCPD-202500385.htm",
+      "input_main_defense": true,
+      "independent_decision": "retain_main",
+      "recommended_main_defense": true,
+      "subtype": "ceasefire_rejection_rebuttal",
+      "reason": "He did not reject anything directly rebuts reporter’s accusation against Putin. Subsequent sanctions language is state-level but does not undo the personal first clause.",
+      "personal_target_resolution": "Direct name or resolved personal pronoun/second-person address, except explicitly identified ambiguities in reason.",
+      "source_assertions": [
+        {
+          "paragraph_index": 30,
+          "speaker": "Trump",
+          "quote": "The President. He didn't reject anything, and they do have sanctions. They have a lot of sanctions. They have just about more sanctions than anybody."
+        }
+      ],
+      "prompt_evidence": [
+        {
+          "paragraph_index": 29,
+          "speaker": "Reporter",
+          "quote": "Q. Mr. President, why won't you impose sanctions on Russia after Putin rejected your ceasefire offer?"
+        }
+      ],
+      "initiation": {
+        "observed_kind": "direct_critical_target_question",
+        "any_prompted": true,
+        "any_direct_target_or_critical_conduct_prompt": true,
+        "any_unsolicited_target_introduction": false,
+        "note": "Describes only the audited defense passage(s), not every target mention in the document. Topical prompts do not establish an obligation to answer favorably, and prompted answers remain chosen output."
+      },
+      "relevant_context_reviewed": true
+    },
+    {
+      "id": "DCPD-202500604",
+      "target": "Vladimir Putin",
+      "date": "2025-05-15",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202500604/html/DCPD-202500604.htm",
+      "input_main_defense": true,
+      "independent_decision": "retain_main",
+      "recommended_main_defense": true,
+      "subtype": "diplomatic_nonattendance_normalization",
+      "reason": "Directly rejects disappointment and explains that Putin could not be expected to attend without Trump. Mild diplomatic rationale; not an excuse of violent conduct.",
+      "personal_target_resolution": "Direct name or resolved personal pronoun/second-person address, except explicitly identified ambiguities in reason.",
+      "source_assertions": [
+        {
+          "paragraph_index": 124,
+          "speaker": "Trump",
+          "quote": "The President. No, I didn't anticipate. I actually said, \"Why would he go if I'm not going?\" Because I wasn't going to go. I wasn't planning to go. I would go, but I wasn't planning to go. And I said, \"I don't think he's going to go if I don't go.\" And that's turned out to be right."
+        },
+        {
+          "paragraph_index": 125,
+          "speaker": "Trump",
+          "quote": "But we have people there. Marco, as you know, is doing a fantastic job. Marco is there, secretary of State, and we have people there. But I don't—I didn't think it was possible for Putin to go if I'm not there."
+        }
+      ],
+      "prompt_evidence": [
+        {
+          "paragraph_index": 123,
+          "speaker": "Reporter",
+          "quote": "Q. Mr. President, no—Mr. President—Mr. President, no—no Putin in Turkey. No Putin in Turkey. Are you disappointed by that?"
+        }
+      ],
+      "initiation": {
+        "observed_kind": "direct_critical_target_question",
+        "any_prompted": true,
+        "any_direct_target_or_critical_conduct_prompt": true,
+        "any_unsolicited_target_introduction": false,
+        "note": "Describes only the audited defense passage(s), not every target mention in the document. Topical prompts do not establish an obligation to answer favorably, and prompted answers remain chosen output."
+      },
+      "relevant_context_reviewed": true
+    },
+    {
+      "id": "DCPD-202500606",
+      "target": "Vladimir Putin",
+      "date": "2025-05-15",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202500606/html/DCPD-202500606.htm",
+      "input_main_defense": true,
+      "independent_decision": "retain_main",
+      "recommended_main_defense": true,
+      "subtype": "diplomatic_nonattendance_normalization",
+      "reason": "Reporter explicitly highlights no Putin. Trump rejects disappointment and calls Putin’s nonattendance obvious without Trump. The personal rationale at 15, not ignorance of delegation alone at 14, is the basis.",
+      "personal_target_resolution": "Direct name or resolved personal pronoun/second-person address, except explicitly identified ambiguities in reason.",
+      "source_assertions": [
+        {
+          "paragraph_index": 14,
+          "speaker": "Trump",
+          "quote": "The President. I'm not disappointed—why would I be—we just took in $4 trillion, and he says, \"Are you disappointed about a delegation?\" I know nothing about a delegation. I haven't even checked."
+        },
+        {
+          "paragraph_index": 15,
+          "speaker": "Trump",
+          "quote": "Look, nothing's going to happen until Putin and I get together. Okay? And obviously, he wasn't going to go. He was going to go, but he thought I was going to go. He wasn't going if I wasn't there. And I don't believe anything is going to happen, whether you like it or not, until he and I get together. But we're going to have to get it solved, because too many people are dying."
+        }
+      ],
+      "prompt_evidence": [
+        {
+          "paragraph_index": 10,
+          "speaker": "Reporter",
+          "quote": "Q. Mr. President, are you disappointed in the level of the delegation that the Russians sent to Turkey? No Putin——"
+        },
+        {
+          "paragraph_index": 12,
+          "speaker": "Mixed",
+          "quote": "Q. ——no—obviously, no—[inaudible]—— The President. I'm not disappointed in anything. Where are—who are you from?"
+        }
+      ],
+      "initiation": {
+        "observed_kind": "direct_critical_target_question",
+        "any_prompted": true,
+        "any_direct_target_or_critical_conduct_prompt": true,
+        "any_unsolicited_target_introduction": false,
+        "note": "Describes only the audited defense passage(s), not every target mention in the document. Topical prompts do not establish an obligation to answer favorably, and prompted answers remain chosen output."
+      },
+      "relevant_context_reviewed": true
+    },
+    {
+      "id": "DCPD-202500610",
+      "target": "Vladimir Putin",
+      "date": "2025-05-16",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202500610/html/DCPD-202500610.htm",
+      "input_main_defense": true,
+      "independent_decision": "retain_main",
+      "recommended_main_defense": true,
+      "subtype": "diplomatic_nonattendance_justification",
+      "reason": "Says Putin did not go and I understand that. Unambiguous personal understanding/justification in this diplomatic context, although low-consequence compared with wartime misconduct.",
+      "personal_target_resolution": "Direct name or resolved personal pronoun/second-person address, except explicitly identified ambiguities in reason.",
+      "source_assertions": [
+        {
+          "paragraph_index": 460,
+          "speaker": "Trump",
+          "quote": "President Trump. I think it's time for us to just do it. I said—you know, they all said Putin was going, and Zelenskyy was going. And I said, \"If I don't go, I guarantee Putin is not going,\" and he didn't go. And I understand that."
+        }
+      ],
+      "prompt_evidence": [
+        {
+          "paragraph_index": 457,
+          "speaker": "Reporter",
+          "quote": "Q. You said that you didn't expect him to go if you didn't go. The question might be, then, when are you going to do it? Why wait?"
+        },
+        {
+          "paragraph_index": 459,
+          "speaker": "Reporter",
+          "quote": "Q. What's the holdup, so to speak?"
+        }
+      ],
+      "initiation": {
+        "observed_kind": "followup_target_topic_question",
+        "any_prompted": true,
+        "any_direct_target_or_critical_conduct_prompt": true,
+        "any_unsolicited_target_introduction": false,
+        "note": "Describes only the audited defense passage(s), not every target mention in the document. Topical prompts do not establish an obligation to answer favorably, and prompted answers remain chosen output."
+      },
+      "relevant_context_reviewed": true
+    },
+    {
+      "id": "DCPD-202500615",
+      "target": "Vladimir Putin",
+      "date": "2025-05-19",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202500615/html/DCPD-202500615.htm",
+      "input_main_defense": true,
+      "independent_decision": "retain_main",
+      "recommended_main_defense": true,
+      "subtype": "normalization_of_ongoing_war_attacks",
+      "reason": "In direct answer about Putin attacking despite peace claims, invokes war and absence of an agreement to stop. Subsequent terrible at 209 qualifies the defense but does not remove it.",
+      "personal_target_resolution": "Direct name or resolved personal pronoun/second-person address, except explicitly identified ambiguities in reason.",
+      "source_assertions": [
+        {
+          "paragraph_index": 208,
+          "speaker": "Trump",
+          "quote": "The President. Well, he's in a war. You know, I mean, it's—nobody said, \"Don't.\" It's—they're fighting, they're attacking—they're attacking each other, and people are dying all the time. You know, he's in a war. He's fighting a war. Nobody said he was going to stop."
+        }
+      ],
+      "prompt_evidence": [
+        {
+          "paragraph_index": 207,
+          "speaker": "Reporter",
+          "quote": "You've mentioned the bloodbath that you want to see end in Ukraine. You mentioned that you believe Putin wants peace, but he just attacked Ukraine yesterday, so what makes you think that he wants peace?"
+        }
+      ],
+      "initiation": {
+        "observed_kind": "direct_critical_target_question",
+        "any_prompted": true,
+        "any_direct_target_or_critical_conduct_prompt": true,
+        "any_unsolicited_target_introduction": false,
+        "note": "Describes only the audited defense passage(s), not every target mention in the document. Topical prompts do not establish an obligation to answer favorably, and prompted answers remain chosen output."
+      },
+      "relevant_context_reviewed": true
+    },
+    {
+      "id": "DCPD-202500661",
+      "target": "Vladimir Putin",
+      "date": "2025-06-05",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202500661/html/DCPD-202500661.htm",
+      "input_main_defense": true,
+      "independent_decision": "downgrade_to_sensitivity",
+      "recommended_main_defense": false,
+      "subtype": "ambiguous_referent_and_seriousness_plus_diffused_blame",
+      "reason": "I understand it can refer to Ukraine hitting Putin after his attacks; not playing games is immediately explained as wanting all Ukraine, not necessarily favorable conduct. At 231 Trump faults Putin while also blaming others; this is insufficiently clear mitigation for secure main defense.",
+      "personal_target_resolution": "Direct name or resolved personal pronoun/second-person address, except explicitly identified ambiguities in reason.",
+      "source_assertions": [
+        {
+          "paragraph_index": 228,
+          "speaker": "Trump",
+          "quote": "President Trump. Well, look, he's—he got hit. He's been doing hitting. So I understand it, but he got hit hard, and he's—I don't think he's playing games. I think he—I've always said he wanted the whole thing. I thought he wanted the entire—everything having to do with Ukraine."
+        },
+        {
+          "paragraph_index": 231,
+          "speaker": "Trump",
+          "quote": "And I think we're—mistakes were made by him, but I think mistakes were made by other people. The President should have never allowed that war. Biden should have never allowed that war to happen. If you had a—the right guy in here, that war would have never happened."
+        }
+      ],
+      "prompt_evidence": [
+        {
+          "paragraph_index": 227,
+          "speaker": "Reporter",
+          "quote": "Q. Mr. President, speaking of ending wars in this room, you were very critical of Vladimir Putin a couple of days ago. What kind of play is he playing, from your perspective? What are his—[inaudible]?"
+        }
+      ],
+      "initiation": {
+        "observed_kind": "direct_critical_target_question",
+        "any_prompted": true,
+        "any_direct_target_or_critical_conduct_prompt": true,
+        "any_unsolicited_target_introduction": false,
+        "note": "Describes only the audited defense passage(s), not every target mention in the document. Topical prompts do not establish an obligation to answer favorably, and prompted answers remain chosen output."
+      },
+      "relevant_context_reviewed": true
+    },
+    {
+      "id": "DCPD-202500664",
+      "target": "Vladimir Putin",
+      "date": "2025-06-06",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202500664/html/DCPD-202500664.htm",
+      "input_main_defense": true,
+      "independent_decision": "downgrade_to_sensitivity",
+      "recommended_main_defense": false,
+      "subtype": "causal_prediction_not_clear_normative_excuse",
+      "reason": "Gave Putin a reason to bomb and anticipated retaliation can be strategic causal explanation rather than endorsing a justified response. Keep literal evidence, but do not equate reason automatically with normative excuse.",
+      "personal_target_resolution": "Direct name or resolved personal pronoun/second-person address, except explicitly identified ambiguities in reason.",
+      "source_assertions": [
+        {
+          "paragraph_index": 79,
+          "speaker": "Trump",
+          "quote": "The President. Well, they gave Putin a reason to go in and bomb the hell out of them last night. That's the thing I didn't like about it. When I saw it, I said: \"Here we go. Now it's going to be a strike.\""
+        }
+      ],
+      "prompt_evidence": [
+        {
+          "paragraph_index": 78,
+          "speaker": "Reporter",
+          "quote": "Q. Mr. President, on Russia-Ukraine. Did the Ukraine drone strikes against the—bombers inside Russia, the airfields, did that change your view at all of what Zelenskyy—the cards he has, what he's capable of?"
+        }
+      ],
+      "initiation": {
+        "observed_kind": "topical_question_about_ukrainian_capability",
+        "any_prompted": true,
+        "any_direct_target_or_critical_conduct_prompt": false,
+        "any_unsolicited_target_introduction": false,
+        "note": "Describes only the audited defense passage(s), not every target mention in the document. Topical prompts do not establish an obligation to answer favorably, and prompted answers remain chosen output."
+      },
+      "relevant_context_reviewed": true
+    },
+    {
+      "id": "DCPD-202500683",
+      "target": "Vladimir Putin",
+      "date": "2025-06-12",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202500683/html/DCPD-202500683.htm",
+      "input_main_defense": true,
+      "independent_decision": "retain_main",
+      "recommended_main_defense": true,
+      "subtype": "reputational_fairness_using_state_history",
+      "reason": "Trump directly introduces Putin, says in fairness to him, and questions why everybody hates him. Personal reputational shielding is explicit despite impossible literal attribution of World War II acts to Putin. State historical facts must not be relabeled as Putin’s actual personal conduct.",
+      "personal_target_resolution": "Direct name or resolved personal pronoun/second-person address, except explicitly identified ambiguities in reason.",
+      "source_assertions": [
+        {
+          "paragraph_index": 378,
+          "speaker": "Trump",
+          "quote": "Now, in all fairness to him, he lost 51 million people, and he did fight. Russia fought. Sort of interesting, isn't it? He fought with us in World War II, and everybody hates him. And Germany and Japan, they're fine. You know, it's—someday, somebody will explain that. But I like Germany and Japan too."
+        },
+        {
+          "paragraph_index": 379,
+          "speaker": "Trump",
+          "quote": "But Putin is a little confused by that, you know? He said: \"We lost 51 million people, and we were your ally. And now everybody hates Russia, and they love Germany and Japan.\" I said, \"Let's explain that sometime. Okay?\" But it's a strange world."
+        }
+      ],
+      "prompt_evidence": [
+        {
+          "paragraph_index": 372,
+          "speaker": "Reporter",
+          "quote": "Q. Mr. President, for Americans that are coming to Washington on Saturday for the military parade, what——"
+        },
+        {
+          "paragraph_index": 374,
+          "speaker": "Q. ——",
+          "quote": "Q. ——what would you like folks to take away from that day? What would you hope that they would remember?"
+        }
+      ],
+      "initiation": {
+        "observed_kind": "volunteered_in_other_topic_answer",
+        "any_prompted": true,
+        "any_direct_target_or_critical_conduct_prompt": false,
+        "any_unsolicited_target_introduction": true,
+        "note": "Describes only the audited defense passage(s), not every target mention in the document. Topical prompts do not establish an obligation to answer favorably, and prompted answers remain chosen output."
+      },
+      "relevant_context_reviewed": true
+    },
+    {
+      "id": "DCPD-202500697",
+      "target": "Vladimir Putin",
+      "date": "2025-06-16",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202500697/html/DCPD-202500697.htm",
+      "input_main_defense": true,
+      "independent_decision": "retain_main",
+      "recommended_main_defense": true,
+      "subtype": "diplomatic_noncooperation_justification",
+      "reason": "Putin’s refusal to talk is normalized by analogy to anyone being insulted and expressly endorsed with I agree with him. More than a report of Putin’s feelings.",
+      "personal_target_resolution": "Direct name or resolved personal pronoun/second-person address, except explicitly identified ambiguities in reason.",
+      "source_assertions": [
+        {
+          "paragraph_index": 57,
+          "speaker": "Trump",
+          "quote": "President Trump. Well, it's not a bad idea. I don't mind that. If somebody wants to suggest China coming in, I think we suggest—but you want to have people that you can talk to. You know, they don't talk to—Putin speaks to me. He doesn't speak to anybody else. He doesn't want to talk, because he was very insulted when he got thrown out of the G–8. As I would be, as you would be, as anybody would be, he was very insulted."
+        },
+        {
+          "paragraph_index": 61,
+          "speaker": "Trump",
+          "quote": "He basically doesn't even speak to the people that threw him out, and I agree with him. [Several reporters spoke at once.]"
+        }
+      ],
+      "prompt_evidence": [
+        {
+          "paragraph_index": 53,
+          "speaker": "Reporter",
+          "quote": "Q. Why not have China at the G–8?"
+        },
+        {
+          "paragraph_index": 56,
+          "speaker": "Reporter",
+          "quote": "Q. Why not have China here—the biggest economy in the world, after the United States?"
+        }
+      ],
+      "initiation": {
+        "observed_kind": "topical_question_about_g7_membership",
+        "any_prompted": true,
+        "any_direct_target_or_critical_conduct_prompt": false,
+        "any_unsolicited_target_introduction": false,
+        "note": "Describes only the audited defense passage(s), not every target mention in the document. Topical prompts do not establish an obligation to answer favorably, and prompted answers remain chosen output."
+      },
+      "relevant_context_reviewed": true
+    },
+    {
+      "id": "DCPD-202500748",
+      "target": "Vladimir Putin",
+      "date": "2025-07-04",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202500748/html/DCPD-202500748.htm",
+      "input_main_defense": true,
+      "independent_decision": "retain_main",
+      "recommended_main_defense": true,
+      "subtype": "mockery_allegation_rebuttal",
+      "reason": "No I do not think he is directly rebuts claim that Putin is mocking Trump. Sanctions prediction alone would not suffice.",
+      "personal_target_resolution": "Direct name or resolved personal pronoun/second-person address, except explicitly identified ambiguities in reason.",
+      "source_assertions": [
+        {
+          "paragraph_index": 63,
+          "speaker": "Trump",
+          "quote": "The President. No, I don't think he is. I think he's worried about sanctions. I do think he's very worried about sanctions, and you know, we're determining that. The Senate, as you know, has put in big sanctions—very big sanctions."
+        }
+      ],
+      "prompt_evidence": [
+        {
+          "paragraph_index": 62,
+          "speaker": "Reporter",
+          "quote": "Q. Mr. President, Putin has not agreed to a cease-fire. Do you think he's mocking you?"
+        }
+      ],
+      "initiation": {
+        "observed_kind": "direct_critical_target_question",
+        "any_prompted": true,
+        "any_direct_target_or_critical_conduct_prompt": true,
+        "any_unsolicited_target_introduction": false,
+        "note": "Describes only the audited defense passage(s), not every target mention in the document. Topical prompts do not establish an obligation to answer favorably, and prompted answers remain chosen output."
+      },
+      "relevant_context_reviewed": true
+    },
+    {
+      "id": "DCPD-202500865",
+      "target": "Vladimir Putin",
+      "date": "2025-08-25",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202500865/html/DCPD-202500865.htm",
+      "input_main_defense": true,
+      "independent_decision": "retain_main",
+      "recommended_main_defense": true,
+      "subtype": "diplomatic_meeting_refusal_normalization",
+      "reason": "Answers Putin’s reluctance by comparing it with Trump himself not liking to meet disliked people. That explicit self-analogy normalizes the reluctance. It is a mild diplomatic defense, not justification of wartime atrocities.",
+      "personal_target_resolution": "Direct name or resolved personal pronoun/second-person address, except explicitly identified ambiguities in reason.",
+      "source_assertions": [
+        {
+          "paragraph_index": 451,
+          "speaker": "Trump",
+          "quote": "The President. Because he doesn't like him. He doesn't like him, you know? They don't like—I have people I don't like. I don't like to meet with them. Sometimes I do like to meet with people I don't like. [Laughter]"
+        },
+        {
+          "paragraph_index": 453,
+          "speaker": "Trump",
+          "quote": "The President. They don't like—no, they don't like each other, really."
+        }
+      ],
+      "prompt_evidence": [
+        {
+          "paragraph_index": 450,
+          "speaker": "Reporter",
+          "quote": "Why do you think President Putin is so reluctant to meet with President Zelenskyy?"
+        },
+        {
+          "paragraph_index": 452,
+          "speaker": "Reporter",
+          "quote": "Q. So how do you get them together, then?"
+        }
+      ],
+      "initiation": {
+        "observed_kind": "direct_target_question",
+        "any_prompted": true,
+        "any_direct_target_or_critical_conduct_prompt": true,
+        "any_unsolicited_target_introduction": false,
+        "note": "Describes only the audited defense passage(s), not every target mention in the document. Topical prompts do not establish an obligation to answer favorably, and prompted answers remain chosen output."
+      },
+      "relevant_context_reviewed": true
+    },
+    {
+      "id": "DCPD-202501019",
+      "target": "Vladimir Putin",
+      "date": "2025-10-16",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202501019/html/DCPD-202501019.htm",
+      "input_main_defense": true,
+      "independent_decision": "retain_main",
+      "recommended_main_defense": true,
+      "subtype": "opposition_to_adversary_armament_normalization",
+      "reason": "Repeatedly says anybody would oppose Tomahawks sent against them and nobody wants to be shot. Explicit universal normalization of Putin’s objection; no inference from the mere report of his preference.",
+      "personal_target_resolution": "Direct name or resolved personal pronoun/second-person address, except explicitly identified ambiguities in reason.",
+      "source_assertions": [
+        {
+          "paragraph_index": 315,
+          "speaker": "Trump",
+          "quote": "The President. Well, of course. What, do you think he's going to say, \"Please sell Tomahawks\"? [Laughter]"
+        },
+        {
+          "paragraph_index": 317,
+          "speaker": "Trump",
+          "quote": "The President. Is he going to say, \"Please sell those Tomahawks. I really appreciate it\"? I did actually say, \"Would you mind if I gave a couple of thousand Tomahawks to your opposition?\" I did say that to him. I said it just that way."
+        },
+        {
+          "paragraph_index": 319,
+          "speaker": "Trump",
+          "quote": "The President. He didn't like the idea. [Laughter] He really didn't like the idea."
+        },
+        {
+          "paragraph_index": 320,
+          "speaker": "Trump",
+          "quote": "No, I said it that way. You have to be a little bit lighthearted sometimes. But no, he doesn't want Tomahawk—Tomahawk is a vicious weapon. It's a vicious, offensive, incredibly destructive weapon. Nobody wants Tomahawks shot at them."
+        },
+        {
+          "paragraph_index": 323,
+          "speaker": "Trump",
+          "quote": "The President. So—wouldn't anybody? I mean, it's been in the news. Who wouldn't do that?"
+        },
+        {
+          "paragraph_index": 324,
+          "speaker": "Trump",
+          "quote": "CNN, who wouldn't do that, you know? You think he's going to say—"
+        },
+        {
+          "paragraph_index": 326,
+          "speaker": "Trump",
+          "quote": "The President. ——\"I'd love to have Tomahawks sent my way\"? I don't think so."
+        }
+      ],
+      "prompt_evidence": [
+        {
+          "paragraph_index": 314,
+          "speaker": "Reporter",
+          "quote": "Q. Right. But did President Putin try to dissuade you from selling Tomahawk missiles?"
+        },
+        {
+          "paragraph_index": 316,
+          "speaker": "Reporter",
+          "quote": "Q. No, but did he give any kind of——"
+        },
+        {
+          "paragraph_index": 318,
+          "speaker": "Reporter",
+          "quote": "Q. And what was his response?"
+        },
+        {
+          "paragraph_index": 322,
+          "speaker": "Reporter",
+          "quote": "Q. Did he specifically ask you not to provide Tomahawks?"
+        }
+      ],
+      "initiation": {
+        "observed_kind": "direct_target_question_and_followup",
+        "any_prompted": true,
+        "any_direct_target_or_critical_conduct_prompt": true,
+        "any_unsolicited_target_introduction": false,
+        "note": "Describes only the audited defense passage(s), not every target mention in the document. Topical prompts do not establish an obligation to answer favorably, and prompted answers remain chosen output."
+      },
+      "relevant_context_reviewed": true
+    },
+    {
+      "id": "DCPD-202501038",
+      "target": "Vladimir Putin",
+      "date": "2025-10-22",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202501038/html/DCPD-202501038.htm",
+      "input_main_defense": true,
+      "independent_decision": "retain_main",
+      "recommended_main_defense": true,
+      "subtype": "wartime_excuse_for_unproductive_negotiations",
+      "reason": "Admits conversations go nowhere, then counters honesty criticism with he is fighting a war and that is the way war is. Mixed unfavorable/favorable context remains visible.",
+      "personal_target_resolution": "Direct name or resolved personal pronoun/second-person address, except explicitly identified ambiguities in reason.",
+      "source_assertions": [
+        {
+          "paragraph_index": 115,
+          "speaker": "Trump",
+          "quote": "President Trump. Well, I think that in terms of honesty, the only thing I can say is every time I speak with Vladimir, I have good conversations and then they don't go anywhere. They just don't go anywhere. So in that sense."
+        },
+        {
+          "paragraph_index": 116,
+          "speaker": "Trump",
+          "quote": "But no, look, he's fighting a war. He's in a war. It's two very competent sides, and that's the way war is. You never know with war."
+        }
+      ],
+      "prompt_evidence": [
+        {
+          "paragraph_index": 113,
+          "speaker": "Reporter",
+          "quote": "Q. Mr. President, Secretary Bessent said that—Secretary Bessent said that Vladimir Putin had not been honest and forthright in his talks with you. Just wondering if you could tell us a little bit more about your feelings about that."
+        },
+        {
+          "paragraph_index": 114,
+          "speaker": "Reporter",
+          "quote": "And also, if I may, to—[inaudible]—Rutte, just your thoughts on whether Ukraine should get Tomahawks. Thank you."
+        }
+      ],
+      "initiation": {
+        "observed_kind": "direct_critical_target_question",
+        "any_prompted": true,
+        "any_direct_target_or_critical_conduct_prompt": true,
+        "any_unsolicited_target_introduction": false,
+        "note": "Describes only the audited defense passage(s), not every target mention in the document. Topical prompts do not establish an obligation to answer favorably, and prompted answers remain chosen output."
+      },
+      "relevant_context_reviewed": true
+    },
+    {
+      "id": "DCPD-202501222",
+      "target": "Vladimir Putin",
+      "date": "2025-12-28",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202501222/html/DCPD-202501222.htm",
+      "input_main_defense": true,
+      "independent_decision": "retain_main",
+      "recommended_main_defense": true,
+      "subtype": "attacks_normalized_as_mutual_war",
+      "reason": "Directly rebuts inference from Putin’s recent attacks, points to Ukrainian attacks as necessary too and invokes fighting a war. The mutual-war rationale adds defense beyond peace-intention assertion.",
+      "personal_target_resolution": "Direct name or resolved personal pronoun/second-person address, except explicitly identified ambiguities in reason.",
+      "source_assertions": [
+        {
+          "paragraph_index": 40,
+          "speaker": "Trump",
+          "quote": "President Trump. No, he's very serious. I think, you know, I can say that I believe Ukraine has made some very strong attacks also. And I don't say that negatively. I think you probably have to. I don't say that negatively. You understand?"
+        },
+        {
+          "paragraph_index": 41,
+          "speaker": "Trump",
+          "quote": "But I think—now, he hasn't told me that—but there have been some explosions in various parts of Russia, and it looks to me like, I don't know, I don't think it came from the Congo. I don't think it came from the United States of America. It possibly came from Ukraine. But I haven't asked that question. Maybe I won't bother asking."
+        },
+        {
+          "paragraph_index": 42,
+          "speaker": "Trump",
+          "quote": "No, they have—they're fighting a war, and we'll see what happens. But I believe it's a war that we have two willing parties, we have two willing countries—they want to see it end. Look, the people of Ukraine want it to end, and the people of Russia want it to end, and the two leaders want it to end."
+        }
+      ],
+      "prompt_evidence": [
+        {
+          "paragraph_index": 39,
+          "speaker": "Reporter",
+          "quote": "Q. President Trump, some are saying that the recent attacks in the past couple days on—that Russia has staged against Ukraine shows that President Putin isn't serious about peace. What is your reaction to that?"
+        }
+      ],
+      "initiation": {
+        "observed_kind": "direct_critical_target_question",
+        "any_prompted": true,
+        "any_direct_target_or_critical_conduct_prompt": true,
+        "any_unsolicited_target_introduction": false,
+        "note": "Describes only the audited defense passage(s), not every target mention in the document. Topical prompts do not establish an obligation to answer favorably, and prompted answers remain chosen output."
+      },
+      "relevant_context_reviewed": true
+    },
+    {
+      "id": "DCPD-202501223",
+      "target": "Vladimir Putin",
+      "date": "2025-12-28",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202501223/html/DCPD-202501223.htm",
+      "input_main_defense": true,
+      "independent_decision": "retain_main",
+      "recommended_main_defense": true,
+      "subtype": "ceasefire_refusal_justification",
+      "reason": "Reports the stop/restart rationale and personally adopts it with I understand that position and I understand President Putin. That adoption distinguishes defense from mere reported rationale.",
+      "personal_target_resolution": "Direct name or resolved personal pronoun/second-person address, except explicitly identified ambiguities in reason.",
+      "source_assertions": [
+        {
+          "paragraph_index": 171,
+          "speaker": "Trump",
+          "quote": "President Trump. Not a cease-fire. And that's one of the points that we're working on right now. No, not a cease-fire. He feels that, look, you know, they're fighting, and to stop and then to—if they have to start again, which is a possibility, he doesn't want to be in that position. And I understand that position. The President feels strongly about that or something, but I think we're finding ways that we can get around that."
+        },
+        {
+          "paragraph_index": 172,
+          "speaker": "Trump",
+          "quote": "But I understand President Putin from that standpoint. You know, you have to understand the other side. And you know, I'm on the side of peace. I'm on the side of stopping the war."
+        }
+      ],
+      "prompt_evidence": [
+        {
+          "paragraph_index": 170,
+          "speaker": "Reporter",
+          "quote": "Q. Did Russia agree or did Putin agree to a cease-fire to allow a referendum to take place?"
+        }
+      ],
+      "initiation": {
+        "observed_kind": "direct_target_question",
+        "any_prompted": true,
+        "any_direct_target_or_critical_conduct_prompt": true,
+        "any_unsolicited_target_introduction": false,
+        "note": "Describes only the audited defense passage(s), not every target mention in the document. Topical prompts do not establish an obligation to answer favorably, and prompted answers remain chosen output."
+      },
+      "relevant_context_reviewed": true
+    },
+    {
+      "id": "DCPD-202501225",
+      "target": "Vladimir Putin",
+      "date": "2025-12-29",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202501225/html/DCPD-202501225.htm",
+      "input_main_defense": true,
+      "independent_decision": "retain_main",
+      "recommended_main_defense": true,
+      "subtype": "protective_fairness_defense_of_personal_residence",
+      "reason": "Condemns alleged attack on Putin’s house and treats it as impermissible timing. Direct protective defense, not exculpation of Putin’s own misconduct. At 161 admits attack might not have occurred; preserve this verification uncertainty.",
+      "personal_target_resolution": "Direct name or resolved personal pronoun/second-person address, except explicitly identified ambiguities in reason.",
+      "source_assertions": [
+        {
+          "paragraph_index": 145,
+          "speaker": "Trump",
+          "quote": "President Trump. Yes, I don't—I don't like it. It's not good. I'm—I heard about it this morning."
+        },
+        {
+          "paragraph_index": 147,
+          "speaker": "Trump",
+          "quote": "President Trump. You know who told me about it? President Putin told me about it. Early in the morning he said he was attacked."
+        },
+        {
+          "paragraph_index": 148,
+          "speaker": "Trump",
+          "quote": "That's no good. It's no good."
+        },
+        {
+          "paragraph_index": 151,
+          "speaker": "Trump",
+          "quote": "President Trump. Don't forget: You know, the Tomahawks—I stopped the Tomahawks. I didn't want that, because we're talking about—you know, it's a delicate period of time. This is not the right time. It's one thing to be offensive because they're offensive. It's another thing to attack his house."
+        },
+        {
+          "paragraph_index": 152,
+          "speaker": "Trump",
+          "quote": "It's not the right time to do any of that and can't do it. And I learned about it from President Putin today. I was very angry about it."
+        },
+        {
+          "paragraph_index": 161,
+          "speaker": "Trump",
+          "quote": "President Trump. Well, it came out—it came out—well, we'll find out. I mean, you're saying maybe the attack didn't take place. It's possible too, I guess. But President Putin told me this morning it did."
+        }
+      ],
+      "prompt_evidence": [
+        {
+          "paragraph_index": 144,
+          "speaker": "Reporter",
+          "quote": "Q. Mr. President, are you worried that the strike—the alleged strike on Putin's residence could scuttle the peace discussions?"
+        },
+        {
+          "paragraph_index": 146,
+          "speaker": "Reporter",
+          "quote": "Q. Did Putin tell you about it?"
+        },
+        {
+          "paragraph_index": 160,
+          "speaker": "Reporter",
+          "quote": "Q. Don't you have U.S. intelligence services that monitor that region very closely? Is there any evidence that the U.S. has——"
+        }
+      ],
+      "initiation": {
+        "observed_kind": "direct_target_question_and_followup",
+        "any_prompted": true,
+        "any_direct_target_or_critical_conduct_prompt": true,
+        "any_unsolicited_target_introduction": false,
+        "note": "Describes only the audited defense passage(s), not every target mention in the document. Topical prompts do not establish an obligation to answer favorably, and prompted answers remain chosen output."
+      },
+      "relevant_context_reviewed": true
+    },
+    {
+      "id": "DCPD-202600078",
+      "target": "Vladimir Putin",
+      "date": "2026-02-03",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202600078/html/DCPD-202600078.htm",
+      "input_main_defense": true,
+      "independent_decision": "retain_main",
+      "recommended_main_defense": true,
+      "subtype": "attack_pause_compliance_rebuttal",
+      "reason": "Directly answers renewed attacks by asserting Putin kept the agreed one-week promise. At 206 wishes for longer restraint. Defense concerns agreement compliance, not approval of renewed deaths.",
+      "personal_target_resolution": "Direct name or resolved personal pronoun/second-person address, except explicitly identified ambiguities in reason.",
+      "source_assertions": [
+        {
+          "paragraph_index": 203,
+          "speaker": "Trump",
+          "quote": "The President. I know. It was Sunday. It was Sunday to Sunday. And it opened up, and he hit them hard last night."
+        },
+        {
+          "paragraph_index": 204,
+          "speaker": "Trump",
+          "quote": "No, he agreed—he kept his word on that. It was—it's a lot. You know, 1 week is—we'll take anything, because it's really, really cold over there. But it was on Sunday, and he went from Sunday to Sunday."
+        },
+        {
+          "paragraph_index": 206,
+          "speaker": "Trump",
+          "quote": "The President. Yes, I would have liked him to. I want him to end the war. I spoke to him. I want him to end the war."
+        }
+      ],
+      "prompt_evidence": [
+        {
+          "paragraph_index": 202,
+          "speaker": "Reporter",
+          "quote": "Q. On Ukraine, Mr. President. Yesterday you were talking about how Vladimir Putin had agreed to a pause during the cold weather. Overnight, those attacks have started up again. Apparently, the worst——"
+        },
+        {
+          "paragraph_index": 205,
+          "speaker": "Reporter",
+          "quote": "Q. Are you disappointed he didn't go further or go longer?"
+        }
+      ],
+      "initiation": {
+        "observed_kind": "direct_critical_target_question",
+        "any_prompted": true,
+        "any_direct_target_or_critical_conduct_prompt": true,
+        "any_unsolicited_target_introduction": false,
+        "note": "Describes only the audited defense passage(s), not every target mention in the document. Topical prompts do not establish an obligation to answer favorably, and prompted answers remain chosen output."
+      },
+      "relevant_context_reviewed": true
+    },
+    {
+      "id": "DCPD-202600281",
+      "target": "Vladimir Putin",
+      "date": "2026-04-23",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202600281/html/DCPD-202600281.htm",
+      "input_main_defense": true,
+      "independent_decision": "retain_main",
+      "recommended_main_defense": true,
+      "subtype": "g8_exclusion_grievance_justification",
+      "reason": "State G8 argument becomes personal at 183: Putin was rightfully offended. Explicit endorsement of grievance permits main despite country language elsewhere.",
+      "personal_target_resolution": "Direct name or resolved personal pronoun/second-person address, except explicitly identified ambiguities in reason.",
+      "source_assertions": [
+        {
+          "paragraph_index": 181,
+          "speaker": "Trump",
+          "quote": "The President. No, but if he came, it would be probably very helpful. You know, I've said a long time ago, when they made the G–8 the G–7—they threw Russia out before my time. That was Obama and a certain Prime Minister from a place called Canada. That's Trudeau. And I said, \"That's a stupid thing to do,\" and I was right."
+        },
+        {
+          "paragraph_index": 182,
+          "speaker": "Trump",
+          "quote": "You know, they spent—I'd go to these meetings at the G–7, and about 90 percent of the meeting was talking about Russia and what's going on with Russia. And I said, \"Why'd you throw them out?\" You know, if they didn't throw them out, they would have been much better off, in my opinion. You know, it should have been the G–8."
+        },
+        {
+          "paragraph_index": 183,
+          "speaker": "Trump",
+          "quote": "But when they threw out President Putin, he was very offended by that. He was, you know, rightfully—but he was very offended by that. I venture to say you probably wouldn't be having these problems if you didn't throw him out. Okay?"
+        }
+      ],
+      "prompt_evidence": [
+        {
+          "paragraph_index": 180,
+          "speaker": "Reporter",
+          "quote": "Q. There was some reporting today, sir, that you intend to invite Vladimir Putin to the G–20 in Miami. Is that the case?"
+        }
+      ],
+      "initiation": {
+        "observed_kind": "direct_target_question_with_historical_digression",
+        "any_prompted": true,
+        "any_direct_target_or_critical_conduct_prompt": true,
+        "any_unsolicited_target_introduction": false,
+        "note": "Describes only the audited defense passage(s), not every target mention in the document. Topical prompts do not establish an obligation to answer favorably, and prompted answers remain chosen output."
+      },
+      "relevant_context_reviewed": true
+    },
+    {
+      "id": "DCPD-202600290",
+      "target": "Vladimir Putin",
+      "date": "2026-04-29",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202600290/html/DCPD-202600290.htm",
+      "input_main_defense": true,
+      "independent_decision": "retain_main",
+      "recommended_main_defense": true,
+      "subtype": "external_obstacles_to_peace_mitigation",
+      "reason": "Beyond claiming Putin was ready for a deal, Trump says other people made it difficult for him. That explicit externally imposed obstacle mitigates responsibility for failure to agree.",
+      "personal_target_resolution": "Direct name or resolved personal pronoun/second-person address, except explicitly identified ambiguities in reason.",
+      "source_assertions": [
+        {
+          "paragraph_index": 83,
+          "speaker": "Trump",
+          "quote": "The President. Well, we talked about—more about the war in Ukraine, but he would like to be of help. I said, \"Before you help me, I want to end your war.\" So we had a good talk. I've known him a long time. I think he was ready to make a deal a while ago. I think some people made it difficult for him to make a deal. But we talked more about Ukraine."
+        }
+      ],
+      "prompt_evidence": [
+        {
+          "paragraph_index": 82,
+          "speaker": "Reporter",
+          "quote": "Q. On your call with President Putin today. Do you think the war in Iran ends first or the war in Ukraine?"
+        }
+      ],
+      "initiation": {
+        "observed_kind": "direct_target_topic_question",
+        "any_prompted": true,
+        "any_direct_target_or_critical_conduct_prompt": true,
+        "any_unsolicited_target_introduction": false,
+        "note": "Describes only the audited defense passage(s), not every target mention in the document. Topical prompts do not establish an obligation to answer favorably, and prompted answers remain chosen output."
+      },
+      "relevant_context_reviewed": true
+    },
+    {
+      "id": "DCPD-202600446",
+      "target": "Vladimir Putin",
+      "date": "2026-07-06",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202600446/html/DCPD-202600446.htm",
+      "input_main_defense": true,
+      "independent_decision": "remove_main_defense_keep_other_categories",
+      "recommended_main_defense": false,
+      "subtype": "peace_intention_and_policy_pressure_only",
+      "reason": "Feeling pressure is a psychological/policy-effectiveness claim. Wanting the war ended is peace-intention rhetoric. Neither addresses, excuses or normalizes the reported attack on civilians; a critical prompt does not itself turn a favorable answer into defense.",
+      "personal_target_resolution": "Direct name or resolved personal pronoun/second-person address, except explicitly identified ambiguities in reason.",
+      "source_assertions": [
+        {
+          "paragraph_index": 213,
+          "speaker": "Trump",
+          "quote": "The President. Well, I think he does feel pressure. He wants to end it. And Ukraine wants to end it. And we're in talks, and we'll see if we can get it ended. It's a terrible thing."
+        },
+        {
+          "paragraph_index": 217,
+          "speaker": "Trump",
+          "quote": "But this is one that I think we're getting much closer than people realize. And President Putin wants it to end—I will tell you that—very strongly. We had a good call. And President Zelenskyy actually wants it to end now."
+        }
+      ],
+      "prompt_evidence": [
+        {
+          "paragraph_index": 212,
+          "speaker": "Reporter",
+          "quote": "Q. Mr. President, Vladimir Putin, shortly after speaking to you on July 4, struck Kyiv and killed innocent civilians. Why isn't he feeling any pressure after speaking with you?"
+        }
+      ],
+      "initiation": {
+        "observed_kind": "direct_critical_target_question",
+        "any_prompted": true,
+        "any_direct_target_or_critical_conduct_prompt": true,
+        "any_unsolicited_target_introduction": false,
+        "note": "Describes only the audited defense passage(s), not every target mention in the document. Topical prompts do not establish an obligation to answer favorably, and prompted answers remain chosen output."
+      },
+      "relevant_context_reviewed": true
+    },
+    {
+      "id": "DCPD-202600450",
+      "target": "Vladimir Putin",
+      "date": "2026-07-08",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202600450/html/DCPD-202600450.htm",
+      "input_main_defense": true,
+      "independent_decision": "retain_main",
+      "recommended_main_defense": true,
+      "subtype": "personal_honor_and_deal_reliability_rebuttal",
+      "reason": "While contesting doubts a deal will hold, contrasts Iran’s dishonor with I do not find that with Putin and his good past dealings. Personal-honor/reliability rebuttal supports broad defense, but not an excuse for an identified atrocity.",
+      "personal_target_resolution": "Direct name or resolved personal pronoun/second-person address, except explicitly identified ambiguities in reason.",
+      "source_assertions": [
+        {
+          "paragraph_index": 293,
+          "speaker": "Trump",
+          "quote": "President Trump. If it's necessary, yes. I mean, I—look, I tell you, when we have a deal—we're going to have a deal, security guarantee or no security guarantee."
+        },
+        {
+          "paragraph_index": 294,
+          "speaker": "Trump",
+          "quote": "If we have a deal, we're going to have a deal. We're not going to have to worry about what you're saying. We're going to have a deal. I think if wecome to a solution, which I think we will, we're going to have a deal."
+        },
+        {
+          "paragraph_index": 295,
+          "speaker": "Trump",
+          "quote": "Now, we want to make sure the deal sticks. Some people don't think it will. I think it will. I think if—I'm sure it will."
+        },
+        {
+          "paragraph_index": 296,
+          "speaker": "Trump",
+          "quote": "I'm not sure it will with Iran. If we make a deal with Iran, I'm not sure that will stick. [Several reporters spoke at once.]"
+        },
+        {
+          "paragraph_index": 297,
+          "speaker": "Trump",
+          "quote": "Because I found them to be very dishonorable people. Yes."
+        },
+        {
+          "paragraph_index": 300,
+          "speaker": "Trump",
+          "quote": "President Trump. I don't find that with him, and, I mean, I don't want to upset him, but—everything I've done with President Putin has been okay. It's been good."
+        },
+        {
+          "paragraph_index": 301,
+          "speaker": "Trump",
+          "quote": "He's going say \"Oh, that\"—but you know, I wouldn't expect you to say that. But that's good. I don't think anything is going to be broken. And we're going to do a security guarantee in case it is."
+        }
+      ],
+      "prompt_evidence": [
+        {
+          "paragraph_index": 283,
+          "speaker": "Reporter",
+          "quote": "Q. As part of security guarantees, are you ready to close the skies in case Russia attacks again?"
+        },
+        {
+          "paragraph_index": 285,
+          "speaker": "Reporter",
+          "quote": "Q. To close the skies over Ukraine in case Russia——"
+        },
+        {
+          "paragraph_index": 288,
+          "speaker": "Reporter",
+          "quote": "Q. As a part of security guarantees——"
+        },
+        {
+          "paragraph_index": 292,
+          "speaker": "Reporter",
+          "quote": "Q. Are you willing to impose the no-flight zone?"
+        }
+      ],
+      "initiation": {
+        "observed_kind": "topical_security_guarantee_question",
+        "any_prompted": true,
+        "any_direct_target_or_critical_conduct_prompt": false,
+        "any_unsolicited_target_introduction": false,
+        "note": "Describes only the audited defense passage(s), not every target mention in the document. Topical prompts do not establish an obligation to answer favorably, and prompted answers remain chosen output."
+      },
+      "relevant_context_reviewed": true
+    },
+    {
+      "id": "DCPD-202600489",
+      "target": "Vladimir Putin",
+      "date": "2026-07-24",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202600489/html/DCPD-202600489.htm",
+      "input_main_defense": true,
+      "independent_decision": "retain_main",
+      "recommended_main_defense": true,
+      "subtype": "enabling_iran_denial_and_minimization",
+      "reason": "Answer explicitly identifies Xi and Putin, trusts their personal assurances, disputes enabling and minimizes any help. This personal adoption distinguishes it from state-only reassurance cases.",
+      "personal_target_resolution": "Direct name or resolved personal pronoun/second-person address, except explicitly identified ambiguities in reason.",
+      "source_assertions": [
+        {
+          "paragraph_index": 107,
+          "speaker": "Trump",
+          "quote": "The President. Well, I don't know that they're enabling. I mean, I will tell you that President Xi said he will not partake, and President Putin said the same thing. I think—you know, I trust them."
+        },
+        {
+          "paragraph_index": 108,
+          "speaker": "Trump",
+          "quote": "Do they—they've had a long-term relationship. There could be some things they do. But thus far, at least, it has not been major. I don't think they'd want to have me disappointed."
+        }
+      ],
+      "prompt_evidence": [
+        {
+          "paragraph_index": 106,
+          "speaker": "Reporter",
+          "quote": "Q. And you said today that Russia and China are not helping. Earlier this week, the War Secretary, Hegseth, said that they are \"enabling.\" So what is the difference?"
+        }
+      ],
+      "initiation": {
+        "observed_kind": "critical_state_question_personalized_by_answer",
+        "any_prompted": true,
+        "any_direct_target_or_critical_conduct_prompt": true,
+        "any_unsolicited_target_introduction": false,
+        "note": "Describes only the audited defense passage(s), not every target mention in the document. Topical prompts do not establish an obligation to answer favorably, and prompted answers remain chosen output."
+      },
+      "relevant_context_reviewed": true
+    },
+    {
+      "id": "DCPD-202600509",
+      "target": "Vladimir Putin",
+      "date": "2026-07-31",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202600509/html/DCPD-202600509.htm",
+      "input_main_defense": true,
+      "independent_decision": "retain_main",
+      "recommended_main_defense": true,
+      "subtype": "negotiating_inflexibility_normalization",
+      "reason": "Nobody wants to make concessions explicitly normalizes Putin’s reluctance while adding both leaders must concede. The qualification does not erase the normalization.",
+      "personal_target_resolution": "Direct name or resolved personal pronoun/second-person address, except explicitly identified ambiguities in reason.",
+      "source_assertions": [
+        {
+          "paragraph_index": 299,
+          "speaker": "Trump",
+          "quote": "The President. Well, nobody wants to make concessions, but they're both going to have to make some concessions. I mean, you've got to make a deal. Twenty-five thousand young, beautiful people—soldiers—mostly soldiers are dying a month."
+        }
+      ],
+      "prompt_evidence": [
+        {
+          "paragraph_index": 298,
+          "speaker": "Reporter",
+          "quote": "Q. But he seems very reluctant to make concessions—President Putin, I mean."
+        }
+      ],
+      "initiation": {
+        "observed_kind": "direct_critical_target_followup",
+        "any_prompted": true,
+        "any_direct_target_or_critical_conduct_prompt": true,
+        "any_unsolicited_target_introduction": false,
+        "note": "Describes only the audited defense passage(s), not every target mention in the document. Topical prompts do not establish an obligation to answer favorably, and prompted answers remain chosen output."
+      },
+      "relevant_context_reviewed": true
+    },
+    {
+      "id": "DCPD-202600575",
+      "target": "Vladimir Putin",
+      "date": "2026-09-04",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202600575/html/DCPD-202600575.htm",
+      "input_main_defense": true,
+      "independent_decision": "retain_main",
+      "recommended_main_defense": true,
+      "subtype": "aggressive_intention_rebuttal",
+      "reason": "Directly rejects suggested Putin/NATO aggression by saying he is not looking to attack NATO. Count as intention/allegation rebuttal, not proof the attributed drone incident did not occur.",
+      "personal_target_resolution": "Direct name or resolved personal pronoun/second-person address, except explicitly identified ambiguities in reason.",
+      "source_assertions": [
+        {
+          "paragraph_index": 302,
+          "speaker": "Trump",
+          "quote": "The President. I don't think that Putin will be—I speak to him. I know him very well. Putin is not looking to attack NATO territory."
+        }
+      ],
+      "prompt_evidence": [
+        {
+          "paragraph_index": 301,
+          "speaker": "Reporter",
+          "quote": "Q. Mr. President, you said, under your watch, that Putin would never attack NATO territory. Now Germany is blaming Russia for an explosive drone found at a German airport. Isn't that an attack on NATO territory?"
+        }
+      ],
+      "initiation": {
+        "observed_kind": "direct_critical_target_question",
+        "any_prompted": true,
+        "any_direct_target_or_critical_conduct_prompt": true,
+        "any_unsolicited_target_introduction": false,
+        "note": "Describes only the audited defense passage(s), not every target mention in the document. Topical prompts do not establish an obligation to answer favorably, and prompted answers remain chosen output."
+      },
+      "relevant_context_reviewed": true
+    },
+    {
+      "id": "DCPD-202501069",
+      "target": "Kim Jong Un",
+      "date": "2025-10-29",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202501069/html/DCPD-202501069.htm",
+      "input_main_defense": true,
+      "independent_decision": "retain_main",
+      "recommended_main_defense": true,
+      "subtype": "missile_launch_normalization_and_minimization",
+      "reason": "Explicitly shifts they to he and calls it just another missile after decades of launches. Main basis is personal normalization, not ensuing affinity.",
+      "personal_target_resolution": "Direct name or resolved personal pronoun/second-person address, except explicitly identified ambiguities in reason.",
+      "source_assertions": [
+        {
+          "paragraph_index": 82,
+          "speaker": "Trump",
+          "quote": "The President. Oh, I don't know. They've been launching—he's been launching missiles for decades, right? Just another missile was launched. I always had a very good relationship with him."
+        }
+      ],
+      "prompt_evidence": [
+        {
+          "paragraph_index": 77,
+          "speaker": "Reporter",
+          "quote": "Q. Sir, what's your reaction to North Korea test-launching a missile this morning?"
+        },
+        {
+          "paragraph_index": 79,
+          "speaker": "Reporter",
+          "quote": "Q. North Korea test launched missiles this morning. What's your reaction to that?"
+        },
+        {
+          "paragraph_index": 81,
+          "speaker": "Reporter",
+          "quote": "Q. The missiles—the North Korean missiles."
+        }
+      ],
+      "initiation": {
+        "observed_kind": "direct_critical_state_conduct_question_personalized_by_answer",
+        "any_prompted": true,
+        "any_direct_target_or_critical_conduct_prompt": true,
+        "any_unsolicited_target_introduction": false,
+        "note": "Describes only the audited defense passage(s), not every target mention in the document. Topical prompts do not establish an obligation to answer favorably, and prompted answers remain chosen output."
+      },
+      "relevant_context_reviewed": true
+    },
+    {
+      "id": "DCPD-202600547",
+      "target": "Kim Jong Un",
+      "date": "2026-08-19",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202600547/html/DCPD-202600547.htm",
+      "input_main_defense": true,
+      "independent_decision": "retain_main",
+      "recommended_main_defense": true,
+      "subtype": "protective_defense_against_military_posture",
+      "reason": "Calls joint exercises insulting to the personally well-behaved Kim. Protective/fairness defense tied to conduct appraisal; does not specifically exculpate nuclear expansion. Equivalent broad scope to Putin residence-protection case.",
+      "personal_target_resolution": "Direct name or resolved personal pronoun/second-person address, except explicitly identified ambiguities in reason.",
+      "source_assertions": [
+        {
+          "paragraph_index": 223,
+          "speaker": "Trump",
+          "quote": "Now, I didn't like the fact that we're doing these massive military exercises, really, against North Korea—it was a, you know, exercise against North Korea—when I'm friendly with him, when we have—I don't see anything happening for certainly 2½ years. It's not going to happen with me. But I don't see anything happening."
+        },
+        {
+          "paragraph_index": 226,
+          "speaker": "Trump",
+          "quote": "Thank you.\" He made us a lot of money. I didn't like that. So I felt that to do a massive—we were doing a massive war exercise. I thought that was very insulting to somebody that, frankly, has been—during my term, at least—very well behaved."
+        }
+      ],
+      "prompt_evidence": [
+        {
+          "paragraph_index": 215,
+          "speaker": "Reporter",
+          "quote": "Q. Mr. President, earlier today you said North Korea has something like 57 nuclear weapons. They've been expanding their nuclear program."
+        },
+        {
+          "paragraph_index": 217,
+          "speaker": "Reporter",
+          "quote": "Q. Is your goal in—trying to reengage with Chairman Kim still denuclearization? And—and what makes you think you could be successful now when you weren't——"
+        },
+        {
+          "paragraph_index": 219,
+          "speaker": "Q. ——",
+          "quote": "Q. ——in the first term?"
+        },
+        {
+          "paragraph_index": 221,
+          "speaker": "Reporter",
+          "quote": "Q. Do you think you can use that?"
+        }
+      ],
+      "initiation": {
+        "observed_kind": "direct_critical_target_question_and_followup",
+        "any_prompted": true,
+        "any_direct_target_or_critical_conduct_prompt": true,
+        "any_unsolicited_target_introduction": false,
+        "note": "Describes only the audited defense passage(s), not every target mention in the document. Topical prompts do not establish an obligation to answer favorably, and prompted answers remain chosen output."
+      },
+      "relevant_context_reviewed": true
+    },
+    {
+      "id": "DCPD-202500598",
+      "target": "Mohammed bin Salman",
+      "date": "2025-05-13",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202500598/html/DCPD-202500598.htm",
+      "input_main_defense": true,
+      "independent_decision": "retain_main",
+      "recommended_main_defense": true,
+      "subtype": "economic_performance_rebuttal",
+      "reason": "Direct address to Muhammad and what you have done precedes explicit claim critics were proved wrong about economic transformation. Personal-performance rebuttal despite joint credit to King Salman and state achievements. Not a misconduct or Khashoggi excuse.",
+      "personal_target_resolution": "Direct name or resolved personal pronoun/second-person address, except explicitly identified ambiguities in reason.",
+      "source_assertions": [
+        {
+          "paragraph_index": 45,
+          "speaker": "Trump_written_or_single_speaker",
+          "quote": "Muhammad, do you sleep at night? How do you sleep? [Laughter] Huh? Just thinking."
+        },
+        {
+          "paragraph_index": 46,
+          "speaker": "Trump_written_or_single_speaker",
+          "quote": "What a job. He tosses and turns like some of us—tosses and turns all night. \"How do I make it even better?\" All night. It's the ones that don't toss and turn. They're the ones that will never take you to the promised land, won't they? But you have done some job. True."
+        },
+        {
+          "paragraph_index": 47,
+          "speaker": "Trump_written_or_single_speaker",
+          "quote": "But critics doubted that it was possible what you've done. But over the past 8 years, Saudi Arabia has proved the critics totally wrong. The transformation that has occurred, even by these incredible business leaders—I mean, you had the biggest leaders in business anywhere in the world standing right before us—but the transformation that has occurred under the leadership of King Salman and Crown Prince Muhammad has been truly extraordinary. Such a thing has, I don't think, ever happened before. I've never seen anything at that scale happen before."
+        },
+        {
+          "paragraph_index": 49,
+          "speaker": "Trump_written_or_single_speaker",
+          "quote": "Majestic skyscrapers, I—the towers that I see—the difference between now and 8 years ago—and 8 years ago it was very impressive. But the towers that I see rising—some of the exhibits that I was shown by Muhammad, if—what I've seen there is just an amazing—it's amazing process. This is an amazing genius of so many people, architecture. But I have a feeling know where—I know where many of those ideas came from. Happens to be sitting right in this room, right before me."
+        },
+        {
+          "paragraph_index": 55,
+          "speaker": "Trump_written_or_single_speaker",
+          "quote": "In a historic milestone, other industries recently surpassed oil. Think of it. All of your other industries now have surpassed oil—I don't know if a lot of people will understand what that means; it's so big—to make up a majority of the Saudi economy for the very first time ever. So, think of that. Other industries are now bigger even than oil, which is always going to be a big monster. It's a big one. But that's a great tribute to you and economic development properly used."
+        }
+      ],
+      "prompt_evidence": [],
+      "initiation": {
+        "observed_kind": "volunteered_speech",
+        "any_prompted": false,
+        "any_direct_target_or_critical_conduct_prompt": false,
+        "any_unsolicited_target_introduction": true,
+        "note": "Describes only the audited defense passage(s), not every target mention in the document. Topical prompts do not establish an obligation to answer favorably, and prompted answers remain chosen output."
+      },
+      "relevant_context_reviewed": true
+    },
+    {
+      "id": "DCPD-202501130",
+      "target": "Mohammed bin Salman",
+      "date": "2025-11-18",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202501130/html/DCPD-202501130.htm",
+      "input_main_defense": true,
+      "independent_decision": "retain_main",
+      "recommended_main_defense": true,
+      "subtype": "denial_of_knowledge_and_minimization_of_murder",
+      "reason": "Trump personally denies MBS knew, calls the victim controversial and says things happen, after direct murder/trust question. This is a direct consequential exculpatory defense. Assertions are Trump’s, not independently verified findings.",
+      "personal_target_resolution": "Direct name or resolved personal pronoun/second-person address, except explicitly identified ambiguities in reason.",
+      "source_assertions": [
+        {
+          "paragraph_index": 98,
+          "speaker": "Trump",
+          "quote": "As far as this gentleman is concerned, he's done a phenomenal job. You're mentioning somebody that was extremely controversial. A lot of people didn't like that gentleman that you're talking about. Whether you like him or didn't like him, things happen, but he knew nothing about it. And we can leave it at that. You don't have to embarrass our guest by asking a question like that."
+        }
+      ],
+      "prompt_evidence": [
+        {
+          "paragraph_index": 80,
+          "speaker": "Reporter",
+          "quote": "Q. Mr. President—Mr. President—is it appropriate, Mr. President, for your family to be doing business in Saudi Arabia while you're President? Is that a conflict of interest?"
+        },
+        {
+          "paragraph_index": 81,
+          "speaker": "Reporter",
+          "quote": "And, Your Royal Highness, the U.S. intelligence concluded that you orchestrated the brutal murder of a journalist. 9/11 families are furious that you are here in the Oval Office."
+        },
+        {
+          "paragraph_index": 83,
+          "speaker": "Reporter",
+          "quote": "Q. Why should Americans trust you?"
+        },
+        {
+          "paragraph_index": 85,
+          "speaker": "Reporter",
+          "quote": "Q. And the same to you, Mr. President."
+        }
+      ],
+      "initiation": {
+        "observed_kind": "direct_critical_target_question",
+        "any_prompted": true,
+        "any_direct_target_or_critical_conduct_prompt": true,
+        "any_unsolicited_target_introduction": false,
+        "note": "Describes only the audited defense passage(s), not every target mention in the document. Topical prompts do not establish an obligation to answer favorably, and prompted answers remain chosen output."
+      },
+      "relevant_context_reviewed": true
+    }
+  ],
+  "consistency_checks": [
+    {
+      "id": "DCPD-202500273",
+      "target": "Vladimir Putin",
+      "finding": "Retain state-only sensitivity. Question and denial concern Russia attacking NATO; unlike 202600575, answer does not personally attribute or deny Putin’s intention.",
+      "source_evidence": [
+        {
+          "paragraph_index": 14,
+          "speaker": "Reporter",
+          "quote": "Q. Sir, Zelenskyy said today that Russia is going to wage war on NATO. Do you agree with that? Do you have any concerns about——"
+        },
+        {
+          "paragraph_index": 15,
+          "speaker": "Trump",
+          "quote": "The President. No, I don't agree. I don't agree with that. Not even a little bit."
+        }
+      ]
+    },
+    {
+      "id": "DCPD-202500351",
+      "target": "Vladimir Putin",
+      "finding": "Retain state-only sensitivity. Speaking with Russian President is background; they wanting rest is not a direct personal Putin conduct attribution.",
+      "source_evidence": [
+        {
+          "paragraph_index": 313,
+          "speaker": "Reporter",
+          "quote": "Q. Mr. President, some of our allies have said that they're worried that they could be the next to be attacked by Russia. You've spoken directly with the Russian President."
+        },
+        {
+          "paragraph_index": 315,
+          "speaker": "Reporter",
+          "quote": "Q. Do you think those fears are justified?"
+        },
+        {
+          "paragraph_index": 316,
+          "speaker": "Trump",
+          "quote": "President Trump. No, I don't. I think when this gets done, it's done. They're going to all want to go home and rest. I don't see it happening. Nope, I don't see that happening. And we'll make sure it doesn't happen. Not going to happen. But we'll make sure it doesn't happen."
+        }
+      ]
+    },
+    {
+      "id": "DCPD-202500497",
+      "target": "Vladimir Putin",
+      "finding": "Retain state-only sensitivity. Question asks whether Russia plays Trump; nobody not playing does not explicitly resolve Putin, unlike 202500748 personal mockery denial.",
+      "source_evidence": [
+        {
+          "paragraph_index": 107,
+          "speaker": "Reporter",
+          "quote": "Q. Do you think Russia is playing you?"
+        },
+        {
+          "paragraph_index": 110,
+          "speaker": "Reporter",
+          "quote": "Q. Do you think Russia is playing you?"
+        },
+        {
+          "paragraph_index": 111,
+          "speaker": "Trump",
+          "quote": "The President. No. Nobody is playing me. I'm trying to help."
+        },
+        {
+          "paragraph_index": 115,
+          "speaker": "Trump",
+          "quote": "Nobody is playing anybody. We are going to see if we can get it done. I think we have a really good chance of getting it done, and it's coming to a head right now."
+        }
+      ]
+    },
+    {
+      "id": "DCPD-202500519",
+      "target": "Vladimir Putin",
+      "finding": "Retain state-only sensitivity. Not an obstacle to peace is a rebuttal, but object is Russia; do not automatically personalize it.",
+      "source_evidence": [
+        {
+          "paragraph_index": 82,
+          "speaker": "Reporter",
+          "quote": "Q. This proposal that you put on the table, it's a 30-day cease-fire proposal. Your national security team presented it to both Ukraine and Russia. Two months ago, Ukraine agreed to that cease-fire proposal immediately; Russia has not. And my question is: Is Russia the obstacle to peace, based upon that? Just getting to that 30-day cease-fire."
+        },
+        {
+          "paragraph_index": 83,
+          "speaker": "Trump",
+          "quote": "President Trump. I don't think so. I think that they both want peace right now. They're ready to do something. We'll see what happens. Complicated. Very complicated. But I think they are both very much looking to make a deal."
+        }
+      ]
+    },
+    {
+      "id": "DCPD-202500644",
+      "target": "Vladimir Putin",
+      "finding": "Retain hypothetical sensitivity. Maybe that would be a reason is tentative and unverified after explicit condemnation; analogous to requiring clearer normative force for 202500664.",
+      "source_evidence": [
+        {
+          "paragraph_index": 66,
+          "speaker": "Trump",
+          "quote": "The President. I don't like what Putin is doing, not even a little bit. He's killing people. And something happened to this guy, and I don't like it."
+        },
+        {
+          "paragraph_index": 69,
+          "speaker": "Reporter",
+          "quote": "Q. Can I follow up on that? A Russian commander reportedly said that Putin was almost caught in the middle of a drone attack from Ukraine. So do you have any response——"
+        },
+        {
+          "paragraph_index": 70,
+          "speaker": "Trump",
+          "quote": "The President. I haven't heard that, but maybe that would be a reason. I don't know, but I have not heard that."
+        }
+      ]
+    },
+    {
+      "id": "DCPD-202600492",
+      "target": "Vladimir Putin",
+      "finding": "Retain state-only sensitivity. Putin is someone to ask about state aid, while denial/minimization remains they; unlike 202600489 no personal assurance is endorsed.",
+      "source_evidence": [
+        {
+          "paragraph_index": 54,
+          "speaker": "Reporter",
+          "quote": "Q. Zelenskyy—President Zelensky says—Zelenskyy says that Russia is giving Iran satellite imagery of U.S. bases in the Gulf to help them target. What can you do about that?"
+        },
+        {
+          "paragraph_index": 55,
+          "speaker": "Trump",
+          "quote": "The President. Well, we'll find out if that's true. I'll ask Putin about it. We'll find out."
+        },
+        {
+          "paragraph_index": 56,
+          "speaker": "Reporter",
+          "quote": "Q. Sir, do you think that he would say?"
+        },
+        {
+          "paragraph_index": 58,
+          "speaker": "Trump",
+          "quote": "The President. It hasn't had much impact, because we've knocked the hell out of them, when you think. If that's the case—look, you know, they gave Venezuela a lot of equipment. Venezuela had all Russian equipment. How did that work out? Not too good."
+        },
+        {
+          "paragraph_index": 59,
+          "speaker": "Trump",
+          "quote": "So they may be giving, but if they are, it hasn't worked out, because they have no army, they have no air force, they have no navy, they have no nothing, so it hasn't worked out well."
+        },
+        {
+          "paragraph_index": 60,
+          "speaker": "Trump",
+          "quote": "I don't think they've been doing it. Certainly not at a high level. And if they have, it has been very unimpactful."
+        }
+      ]
+    },
+    {
+      "id": "DCPD-202600562",
+      "target": "Vladimir Putin",
+      "finding": "Retain state-only sensitivity. Question names Putin or Russia, but answer explicitly says Russia behaved well; do not collapse state and leader.",
+      "source_evidence": [
+        {
+          "paragraph_index": 81,
+          "speaker": "Reporter",
+          "quote": "Q. But will you punish Putin or Russia if they continue to do business with Iran?"
+        },
+        {
+          "paragraph_index": 82,
+          "speaker": "Trump",
+          "quote": "The President. Well, it depends. It depends. So far, I think Russia's behaved quite well, having to do with the Strait of Hormuz. And you have to understand: For everything they do, we do also."
+        }
+      ]
+    },
+    {
+      "id": "DCPD-202500563",
+      "target": "Justin Trudeau",
+      "finding": "No main defense. I understand his answer means understanding a forecast of Canadian dependency amid mockery; not adoption of a rationale for Trudeau’s disputed conduct. Keyword understand alone is insufficient.",
+      "source_evidence": [
+        {
+          "paragraph_index": 225,
+          "speaker": "Trump",
+          "quote": "I will tell you that Trudeau, when I spoke to him—I used to call him \"Governor Trudeau.\" I think that probably didn't help his election. [Laughter] But when I spoke to him, I said: \"So why are we—why are we taking your cars? Why are we taking your—we want to make them ourself.\" I mean, I said, \"And if the price of your cars went up, or if we put a tariff—if we put a tariff on your cars of 25 percent, what would that mean to you?\" He said, \"That would mean the end of Canada.\" He actually said that to me. And I said, \"That's a strange answer,\" but I understand his answer."
+        },
+        {
+          "paragraph_index": 228,
+          "speaker": "Trump",
+          "quote": "President Trump. ——I mean, it's hard to justify subsidizing Canada to the tune of maybe"
+        },
+        {
+          "paragraph_index": 229,
+          "speaker": "Trump",
+          "quote": "$200 billion a year. We protect Canada militarily, and we always will. We're not going to—you know, that's not a money thing. That's—but we always will. But you know, it's not fair."
+        }
+      ]
+    },
+    {
+      "id": "DCPD-202600411",
+      "target": "Mark Carney",
+      "finding": "No main personal defense. Understand the cap evaluates state trade policy, without praising or exculpating Carney personally.",
+      "source_evidence": [
+        {
+          "paragraph_index": 45,
+          "speaker": "Reporter",
+          "quote": "Q. There was a hot mike moment at the G–7 where the Canadian Prime Minister was talking to you about their Chinese car cap, and he said you said you like it. Can you comment on that?"
+        },
+        {
+          "paragraph_index": 47,
+          "speaker": "Reporter",
+          "quote": "Q. The cap that China—that Canada put on Chinese car imports. You were talking about it with Carney. What do you think of that?"
+        },
+        {
+          "paragraph_index": 50,
+          "speaker": "Trump",
+          "quote": "The President. Well, I don't—I don't know that I said I like it, but I could understand that."
+        },
+        {
+          "paragraph_index": 53,
+          "speaker": "Trump",
+          "quote": "The President. A cap—would I rather see a cap than no cap? Yes, I would, on Canada."
+        }
+      ]
+    },
+    {
+      "id": "DCPD-202500987",
+      "target": "Mark Carney",
+      "finding": "No main personal defense. Understanding Canadian travelers’ refusal targets citizens, not Carney.",
+      "source_evidence": [
+        {
+          "paragraph_index": 64,
+          "speaker": "Reporter",
+          "quote": "Q. Canadians are refusing to go to the U.S. The numbers are down like 23 percent in the first 7 months of the year. What do you say to Canadians that don't want to go to the U.S. now because of your 51st State talk, because of the trade war, the tariffs——"
+        },
+        {
+          "paragraph_index": 66,
+          "speaker": "Reporter",
+          "quote": "Q. ——and the fear of also being detained at the border?"
+        },
+        {
+          "paragraph_index": 67,
+          "speaker": "Trump",
+          "quote": "President Trump. Well, I understand that. Look, I understand that. And Americans don't want to buy cars that are made in Canada, you know? I mean, we have the same conflict. So there isn't—it's something that we'll get worked out. There's still great love between the two countries."
+        }
+      ]
+    },
+    {
+      "id": "DCPD-202500414",
+      "target": "Mark Carney",
+      "finding": "No main personal defense. I do not blame them shifts to many countries, explicitly not Canada at 73. Good conversation with Mark does not personalize the subsequent general defense.",
+      "source_evidence": [
+        {
+          "paragraph_index": 71,
+          "speaker": "Reporter",
+          "quote": "Q. Mr. President, Canada's Prime Minister says that they will be implementing retaliatory tariffs. You said, if that were to happen, that you would be responding with large-scale tariffs. Will you be following through with that promise?"
+        },
+        {
+          "paragraph_index": 72,
+          "speaker": "Trump",
+          "quote": "The President. Well, absolutely. But we had a very good conversation. Mark called me today at 10 o'clock. We put out a statement. We had a very, very good talk. He's going through an election now, and we'll see what happens."
+        },
+        {
+          "paragraph_index": 73,
+          "speaker": "Trump",
+          "quote": "But we are—we have liberation day, as you know, on April 2, because—and I'm not referring to Canada, but many countries have taken advantage of us, the likes of which nobody even thought was possible, for many, many decades—for decades. And you know, that has to stop."
+        },
+        {
+          "paragraph_index": 74,
+          "speaker": "Trump",
+          "quote": "We're going to end up with a very good relationship with Canada and a lot of the other countries. Some, we probably won't. It won't be so pleasant. But with—I think most countries will—are agreeing with me. They actually—many of them have actually apologized. They said, \"Look, we have taken advantage.\" And I don't blame them as much as I blame the people that stood—in this case, I can say the men because, so far, they've been all men, haven't they?—but the men that sat right there and behind the Resolute Desk—mostly the Resolute Desk, you know."
+        }
+      ]
+    },
+    {
+      "id": "DCPD-202600481",
+      "target": "Justin Trudeau and Mark Carney",
+      "finding": "Boundary sensitivity recommended. In all fairness to them explicitly refers to leadership from Trudeau to current leadership; survival rationale may mitigate trade behavior, but surrounding function can be disparaging dependency. Main zero remains supportable; preserve ambiguity.",
+      "source_evidence": [
+        {
+          "paragraph_index": 167,
+          "speaker": "Trump",
+          "quote": "President Trump. It's only response to the way they've treated our farmers and our people, yes. Canada has been very, very tough on us over the years. For many years. And no other President's done anything about it."
+        },
+        {
+          "paragraph_index": 168,
+          "speaker": "Trump",
+          "quote": "I love Canada. I love the people of Canada—many friends that live in Canada. But their leadership from Trudeau to the current leadership—I mean, in all fairness to them, they need us to survive. Without us, there's no way they can survive. So—but they've been very, very tough over a period of the last 50 years, actually."
+        }
+      ]
+    },
+    {
+      "id": "DCPD-202600570",
+      "target": "Justin Trudeau and Mark Carney",
+      "finding": "No main personal defense from I do not blame them. Immediate antecedent is Canada taking industry and state trade policy; leaders are named later. Keep state-only mitigation separate rather than automatically back-projecting personal attribution.",
+      "source_evidence": [
+        {
+          "paragraph_index": 175,
+          "speaker": "Trump",
+          "quote": "And people are surprised when I say it. Like, I have China coming here. A lot of people say: \"Who's the toughest one to deal with? Is it China, sir? Is it China? Is it Vietnam? Is it\"—I said, \"No, actually, it's Canada.\" Canada has felt emboldened. We—they had Presidents that didn't know what was happening. Not only the last one, all of them. I mean, they just were taken into—our country's been taken advantage of by Canada."
+        },
+        {
+          "paragraph_index": 176,
+          "speaker": "Trump",
+          "quote": "They took 20 percent of our car industry out. I don't blame them for that, but if we would have had a President that knew what was happening, nobody would have left. Now they're all coming back. All they would have had to do is charge tariffs, and they would have put tariffs on. If you build a car in Canada, you have to pay a 25-percent tariff, and nobody could pay. And if that didn't work, you make it 50 percent, or if that didn't work, you make it 100 percent."
+        },
+        {
+          "paragraph_index": 177,
+          "speaker": "Trump",
+          "quote": "And we have everybody coming. Or you stop doing business with the nation. You know, when we lose $60- to $100 billion with Canada, I could say, \"Well, if we don't do business\"—because we don't need—we have more oil and gas than they do. We have tremendous forests. We don't need their lumber. We don't need the things they have. They need what we have. They do most of their business with us. I've heard numbers—95 percent. We do a very small percentage compared to others. We do a very small percentage by comparison to that."
+        },
+        {
+          "paragraph_index": 178,
+          "speaker": "Trump",
+          "quote": "But they need us. We don't need them. They've taken advantage of us for years, and it's time to stop. We can't lose $60- to $100 billion a year for the privilege of allowing them to make cars. We don't want their cars. We want the cars to be made in Detroit and in South Carolina and in Tennessee and in all of our places where we make cars. We don't want them to be made in Canada. So this is nothing against anybody."
+        },
+        {
+          "paragraph_index": 179,
+          "speaker": "Trump",
+          "quote": "And this started with Trudeau. Trudeau and I used to have it out pretty good, and now we have this new guy, who's a nice guy, but you know, he's just—and then they have the other guy, the slob. I guess some people call him a slob. I don't want to call him that because I want to be nice."
+        }
+      ]
+    }
+  ],
+  "mbs_hidden_defense_screen": {
+    "main_and_sensitivity_artifact_defense_flags": 2,
+    "extra_sensitivity_defense_flags": 0,
+    "corpus_Khashoggi_or_Saudi_journalist_exact_alias_documents": [
+      "DCPD-202501130"
+    ],
+    "additional_defense_evidence_found_in_sensitivity": false,
+    "limitation": "Targeted evidence/alias screen, not exhaustive manual reread of all 209 source documents."
+  },
+  "canada_mexico_crosscheck": {
+    "main_defense_additions_recommended": 0,
+    "boundary_sensitivity": {
+      "id": "DCPD-202600481",
+      "paragraph_indices": [
+        167,
+        168
+      ],
+      "targets": [
+        "Justin Trudeau",
+        "Mark Carney"
+      ]
+    },
+    "method": "Screened named-target source neighborhoods in all retained candidate rows for defense/mitigation markers and read full relevant exchanges for plausible cases. Supports reported zeros in reviewed candidates; cannot prove universal absence."
+  }
+}

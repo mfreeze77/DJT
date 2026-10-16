@@ -1,0 +1,806 @@
+{
+  "status": "Additional discovery and source-context review, AI-coded; not exhaustive full response-opportunity inventory",
+  "broad_hits": 396,
+  "outside_original_243": 153,
+  "outside_direct_name_in_Trump_speech": 0,
+  "outside_any_speaker_name": 12,
+  "rows": [
+    {
+      "id": "DCPD-202500225",
+      "date": "2025-02-04",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202500225/html/DCPD-202500225.htm",
+      "classification": "prompted_nonanswer_redirect",
+      "reason": "Question asks whether he will demand Putin leave sovereign Ukraine; answer discusses negotiations and deaths without answering withdrawal demand. No personal praise/defense judgment inferred.",
+      "source_context": [
+        {
+          "i": 188,
+          "speaker": "Reporter",
+          "text": "Q. For Ukraine, yes. You consider yourself a strong leader. You blamed your predecessor for letting Russia to take over Ukraine. Will you demand from Putin to get out of Ukraine—from sovereign territory of Ukraine?",
+          "source_speaker_label": "Q",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 189,
+          "speaker": "Trump",
+          "text": "President Trump. So we're dealing right now on the subject—I don't want to spend a lot of time because we're here for another reason—but we are having very good talks, very constructive talks on Ukraine. And we're talking to the Russians. We're talking to the Ukrainian leadership.",
+          "source_speaker_label": "President Trump",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 190,
+          "speaker": "Trump",
+          "text": "It would have never happened. That would have never happened—it should have never happened. I get reports every week: the number of soldiers—mostly soldiers now. The cities have been largely demolished. You talk about a very sad sight to see.",
+          "source_speaker_label": null,
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 191,
+          "speaker": "Trump",
+          "text": "We talk Gaza. Well, many of these cities look as bad as Gaza and worse—what's happened to them—and I want to see that end.",
+          "source_speaker_label": null,
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 192,
+          "speaker": "Trump",
+          "text": "And I want to see it end for one simple reason: the life of young people being absolutely obliterated on both sides. You probably have 700,000 Ukrainian soldiers dead, 800,000—maybe more—Russian soldiers dead. It's very flat land, and the only thing that's going to stop a bullet is a human body—in this case, usually soldiers.",
+          "source_speaker_label": null,
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 193,
+          "speaker": "Trump",
+          "text": "And the numbers are staggering, when you hear the real numbers in Ukraine, what the numbers are, and this doesn't include the cities that have been demolished and all of the people that were killed. So I want to see it stopped.",
+          "source_speaker_label": null,
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 194,
+          "speaker": "Trump",
+          "text": "We're having very good talks, and I think we're going to get it. I think something will be, hopefully, dramatically—it will—it will rise above everything. You have to. You can't let this continue. You can't—this is an absolute slaughter that's taking place on the beautiful farmlands of Ukraine, and we have to stop it. We can't let this continue.",
+          "source_speaker_label": null,
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 195,
+          "speaker": "Editorial",
+          "text": "[Several reporters spoke at once.]",
+          "source_speaker_label": null,
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 196,
+          "speaker": "Trump",
+          "text": "It's a human—it's a human—it is a human tragedy, and we're going to try very hard to stop",
+          "source_speaker_label": null,
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 197,
+          "speaker": "Trump",
+          "text": "it.",
+          "source_speaker_label": null,
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 198,
+          "speaker": "Trump",
+          "text": "[Several reporters spoke at once.] Yes, please. Go ahead, sir. Go ahead.",
+          "source_speaker_label": null,
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        }
+      ]
+    },
+    {
+      "id": "DCPD-202500285",
+      "date": "2025-02-19",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202500285/html/DCPD-202500285.htm",
+      "classification": "responsive_policy_answer",
+      "reason": "Rejects Greenland connection to Putin peace negotiations, then explains Greenland policy. No personal appraisal.",
+      "source_context": [
+        {
+          "i": 183,
+          "speaker": "Reporter",
+          "text": "Q. Can I just follow up? Are you seeing it as part of any of the discussions you're having with Europeans and Putin in some sort of peace deal?",
+          "source_speaker_label": "Q",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 184,
+          "speaker": "Trump",
+          "text": "The President. No, no. We have to have Greenland because of the national security picture, even more so now than it would have been 20 years ago, 30 years ago, when they talked about it then too.",
+          "source_speaker_label": "The President",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 185,
+          "speaker": "Trump",
+          "text": "You know, they used to talk about it. Years ago, they were talking about Greenland, but much more so now with, you know, modern weaponry, planes and the speed of planes, and all of the things. So we have to have Greenland.",
+          "source_speaker_label": null,
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 186,
+          "speaker": "Trump",
+          "text": "Thank you very much.",
+          "source_speaker_label": null,
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        }
+      ]
+    },
+    {
+      "id": "DCPD-202500345",
+      "date": "2025-03-09",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202500345/html/DCPD-202500345.htm",
+      "classification": "prompted_deflection_to_reporter_attack",
+      "reason": "Asked if Putin disrespects him by attacking Ukraine; challenges outlet credibility and moves to another question. Deflection, not explicit personal defense.",
+      "source_context": [
+        {
+          "i": 12,
+          "speaker": "Reporter",
+          "text": "Q. Mr. President, is Putin disrespecting you by attacking Ukraine when you're trying to make peace there?",
+          "source_speaker_label": "Q",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 13,
+          "speaker": "Trump",
+          "text": "The President. Who? Who?",
+          "source_speaker_label": "The President",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 14,
+          "speaker": "Reporter",
+          "text": "Q. Is President Putin disrespecting you by attacking Ukraine when you're trying to make peace there?",
+          "source_speaker_label": "Q",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 15,
+          "speaker": "Trump",
+          "text": "The President. What did he do?",
+          "source_speaker_label": "The President",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 16,
+          "speaker": "Reporter",
+          "text": "Q. Well, he's attacked Ukraine.",
+          "source_speaker_label": "Q",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 17,
+          "speaker": "Trump",
+          "text": "The President. Is he disrespecting me?",
+          "source_speaker_label": "The President",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 18,
+          "speaker": "Reporter",
+          "text": "Q. Yes.",
+          "source_speaker_label": "Q",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 19,
+          "speaker": "Trump",
+          "text": "The President. Who are you with?",
+          "source_speaker_label": "The President",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 20,
+          "speaker": "Reporter",
+          "text": "Q. I'm Michael Birnbaum with the Washington Post.",
+          "source_speaker_label": "Q",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 21,
+          "speaker": "Trump",
+          "text": "The President. You've lost a lot of credibility. Go ahead. What else?",
+          "source_speaker_label": "The President",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        }
+      ]
+    },
+    {
+      "id": "DCPD-202500368",
+      "date": "2025-03-17",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202500368/html/DCPD-202500368.htm",
+      "classification": "unanswered_departure",
+      "reason": "Invitation question at closing; thanks audience without answering. Cannot infer deliberate evasion rather than closing.",
+      "source_context": [
+        {
+          "i": 27,
+          "speaker": "Reporter",
+          "text": "Q. Mr. President, are you open to inviting Putin to the White House if a peace deal is reached?",
+          "source_speaker_label": "Q",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 28,
+          "speaker": "Trump",
+          "text": "The President. Thank you, everybody.",
+          "source_speaker_label": "The President",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        }
+      ]
+    },
+    {
+      "id": "DCPD-202500438",
+      "date": "2025-04-07",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202500438/html/DCPD-202500438.htm",
+      "classification": "partial_answer_state_criticism",
+      "reason": "Answers tariffs/Russia bombing but not Putin meeting follow-up. Explicit state bombing criticism, no strict personal attribution.",
+      "source_context": [
+        {
+          "i": 242,
+          "speaker": "Reporter",
+          "text": "Q. Could you talk a little bit about—thank you, sir. Can you talk a little bit about your meeting—potential meeting with Vladimir Putin? Do you still plan to meet with him? Could that happen in Saudi Arabia? And maybe you could elaborate as well a little bit on not providing tariffs on Russia, sir?",
+          "source_speaker_label": "Q",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 243,
+          "speaker": "Trump",
+          "text": "President Trump. So the reason we're not talking about tariffs with Russia is because we're not doing business, essentially, with Russia, because they're in a war. And I'm not happy about what's going on with the bombing, because they're bombing like crazy right now. They're bombing—I don't know what's happening there. That's not a good situation.",
+          "source_speaker_label": "President Trump",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 244,
+          "speaker": "Trump",
+          "text": "So we're meeting with Russia, we're meeting with Ukraine, and we're getting sort of close.",
+          "source_speaker_label": null,
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 245,
+          "speaker": "Trump",
+          "text": "But I'm not happy with all the bombing that's going on the last week or so. Horrible.",
+          "source_speaker_label": null,
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 246,
+          "speaker": "Reporter",
+          "text": "Q. Do you anticipate meeting in person?",
+          "source_speaker_label": "Q",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 247,
+          "speaker": "Trump",
+          "text": "President Trump. It's a horrible thing. It's a horrible thing. [Several reporters spoke at once.]",
+          "source_speaker_label": "President Trump",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 248,
+          "speaker": "Trump",
+          "text": "Go ahead, please.",
+          "source_speaker_label": null,
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        }
+      ]
+    },
+    {
+      "id": "DCPD-202500757",
+      "date": "2025-07-09",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202500757/html/DCPD-202500757.htm",
+      "classification": "other_speaker_reference",
+      "reason": "Foreign leader describes meeting Putin. Trump thanks him; no personal appraisal endorsement inferred.",
+      "source_context": [
+        {
+          "i": 108,
+          "speaker": "President Embalo",
+          "text": "President Embalo. Oh. Of course, we are in favor of this dynamic for peace. We are very committed on peace. I am the first head of state who went to Russia and who went to Ukraine— both—since the start of the war. I was—I held the Presidency of ECOWAS, and I went to see Mr. Putin. We spoke for 4 hours, and then I went to Ukraine. I spent 12 hours on a train to speak to President Zelenskyy.",
+          "source_speaker_label": "President Embalo",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 109,
+          "speaker": "President Embalo",
+          "text": "But now the weight of President Trump is something else altogether. We are with you. We are behind you to see what we can do to help bring peace back. No one wins when there's war.",
+          "source_speaker_label": null,
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 110,
+          "speaker": "Trump",
+          "text": "President Trump. That's right.",
+          "source_speaker_label": "President Trump",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 111,
+          "speaker": "President Embalo",
+          "text": "President Embalo. So you have our support——",
+          "source_speaker_label": "President Embalo",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 112,
+          "speaker": "Trump",
+          "text": "President Trump. Thank you.",
+          "source_speaker_label": "President Trump",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        }
+      ]
+    },
+    {
+      "id": "DCPD-202500795",
+      "date": "2025-07-25",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202500795/html/DCPD-202500795.htm",
+      "classification": "overlapping_unanswered_question",
+      "reason": "Putin meeting question amid simultaneous reporters; answers Hamas question. No deliberate avoidance inference.",
+      "source_context": [
+        {
+          "i": 52,
+          "speaker": "Reporter",
+          "text": "Q. Will your administration end homelessness?",
+          "source_speaker_label": "Q",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 53,
+          "speaker": "Reporter",
+          "text": "Q. Are you hoping to meet with President Putin? [Several reporters spoke at once.]",
+          "source_speaker_label": "Q",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 54,
+          "speaker": "Editorial_heading",
+          "text": "Hostages Held in Gaza, Palestinian Territories",
+          "source_speaker_label": null,
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 55,
+          "speaker": "Reporter",
+          "text": "Q. What are you plans for bringing hostages home? What are the alternative methods to bring hostages home from Gaza?",
+          "source_speaker_label": "Q",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 56,
+          "speaker": "Trump",
+          "text": "The President. Well, we got a lot of them out. And it's always—I've always said those last 10 or 20 are going to be the toughest, because Hamas knows what happens when they don't have any bargaining chips. And they really broke a deal. They broke a deal, and you're going to have to do what you have to do right now. It's a terrible thing.",
+          "source_speaker_label": "The President",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 57,
+          "speaker": "Reporter",
+          "text": "Q. What about on Russia?",
+          "source_speaker_label": "Q",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 58,
+          "speaker": "Trump",
+          "text": "The President. And I always knew that. I said, \"When you get down to the last one, they're not going to be able to make a deal.\"",
+          "source_speaker_label": "The President",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        }
+      ]
+    },
+    {
+      "id": "DCPD-202500900",
+      "date": "2025-09-07",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202500900/html/DCPD-202500900.htm",
+      "classification": "sanction_willingness_not_personal_criticism",
+      "reason": "Affirms readiness for Russia sanctions before follow-up wording about punishing Putin. Policy willingness separate from personal evaluation.",
+      "source_context": [
+        {
+          "i": 13,
+          "speaker": "Editorial_heading",
+          "text": "Russia",
+          "source_speaker_label": null,
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 14,
+          "speaker": "Reporter",
+          "text": "Q. Mr. President, are you ready—are you ready to move to the second phase—are you ready to move to the second phase of sanctions against Russia——",
+          "source_speaker_label": "Q",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 15,
+          "speaker": "Trump",
+          "text": "The President. Yes, I am. Yes.",
+          "source_speaker_label": "The President",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 16,
+          "speaker": "Q. ——",
+          "text": "Q. ——or punishing Putin?",
+          "source_speaker_label": "Q. ——",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 17,
+          "speaker": "Reporter",
+          "text": "Q. How was your call with the Prime Minister—[inaudible]? [Several reporters spoke at once.]",
+          "source_speaker_label": "Q",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        }
+      ]
+    },
+    {
+      "id": "DCPD-202500947",
+      "date": "2025-09-23",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202500947/html/DCPD-202500947.htm",
+      "classification": "other_speaker_reference",
+      "reason": "Von der Leyen says Russian energy payments fill Putin war chest. Not Trump assertion.",
+      "source_context": [
+        {
+          "i": 12,
+          "speaker": "Reporter",
+          "text": "Q. How soon do you think—sorry—Madam President, how soon do you think that Europe can stop buying Russian oil and gas fully, like President Trump has asked for?",
+          "source_speaker_label": "Q",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 13,
+          "speaker": "President von der Leyen",
+          "text": "President von der Leyen. Yes. President Trump is absolutely right. We're on it. We have reduced already massively the gas supply from Russia, completely gotten out of Russian coal, and massively also reduced the oil supply. But there's still some coming to the European continent.",
+          "source_speaker_label": "President von der Leyen",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 14,
+          "speaker": "President von der Leyen",
+          "text": "So what we do now, we put sanctions out to those ports where, for example, LNG is coming from Russia. And we want to put tariffs on oil supplies that are still coming to the European Union.",
+          "source_speaker_label": null,
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 15,
+          "speaker": "President von der Leyen",
+          "text": "So we are really getting after the last bits of oil and gas coming from Russia to the European Union. We want to get rid of it.",
+          "source_speaker_label": null,
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 16,
+          "speaker": "Reporter",
+          "text": "Q. When do you think you'll be able to do that? You had previously said 2027, and you're looking at a quicker timeline now.",
+          "source_speaker_label": "Q",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 17,
+          "speaker": "President von der Leyen",
+          "text": "President von der Leyen. We want to be out earlier, absolutely. So, till the end of the year, we have the phasing out. We have now the sanctions on the table proposed. Member states have to agree.",
+          "source_speaker_label": "President von der Leyen",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 18,
+          "speaker": "President von der Leyen",
+          "text": "But we have to be faster, because every payment is filling Putin's war chest. This cannot be.",
+          "source_speaker_label": null,
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 19,
+          "speaker": "Editorial_heading",
+          "text": "President Trump's Address to the United Nations General Assembly/President Trump's Foreign Policy Achievements",
+          "source_speaker_label": null,
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        }
+      ]
+    },
+    {
+      "id": "DCPD-202501125",
+      "date": "2025-11-16",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202501125/html/DCPD-202501125.htm",
+      "classification": "policy_pressure_not_personal_criticism",
+      "reason": "Approves sanctions legislation against countries doing business with Russia. No clear personal judgment.",
+      "source_context": [
+        {
+          "i": 34,
+          "speaker": "Reporter",
+          "text": "Q. On Russia, Mr. President. Is it time for Congress to move legislation that puts pressure on Russia and puts pressure on Putin?",
+          "source_speaker_label": "Q",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 35,
+          "speaker": "Trump",
+          "text": "The President. Well, I hear they're doing that, and that's okay with me. They're passing legislation or putting—the Republicans are putting in legislation that—very tough—it's sanctioning, et cetera, et cetera, on any country doing business with Russia. They may add Iran to that, as you know. I suggested it.",
+          "source_speaker_label": "The President",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 36,
+          "speaker": "Trump",
+          "text": "So any country that does business with Russia will be very severely sanctioned. We may add Iran to the formula.",
+          "source_speaker_label": null,
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 37,
+          "speaker": "Trump",
+          "text": "Yes.",
+          "source_speaker_label": null,
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        }
+      ]
+    },
+    {
+      "id": "DCPD-202600057",
+      "date": "2026-01-27",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202600057/html/DCPD-202600057.htm",
+      "classification": "partial_answer_negotiation_optimism",
+      "reason": "Asked closeness of deal and Budapest meeting; answers good things happening Russia/Ukraine. No direct Putin personal intention or call-quality assignment.",
+      "source_context": [
+        {
+          "i": 48,
+          "speaker": "Reporter",
+          "text": "Q. How close are we to the deal after talks in Abu Dhabi that Jared Kushner and Steve Witkoff held? Is your meeting with President Putin in Budapest back in play?",
+          "source_speaker_label": "Q",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 49,
+          "speaker": "Trump",
+          "text": "The President. We're looking at some very good things happening on Ukraine and Russia.",
+          "source_speaker_label": "The President",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 50,
+          "speaker": "Trump",
+          "text": "Very good things——",
+          "source_speaker_label": null,
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 51,
+          "speaker": "Editorial",
+          "text": "[Several reporters spoke at once.]",
+          "source_speaker_label": null,
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 52,
+          "speaker": "Trump",
+          "text": "——very good things are happening on Ukraine and Russia. [Several reporters spoke at once.]",
+          "source_speaker_label": null,
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        }
+      ]
+    },
+    {
+      "id": "DCPD-202600262",
+      "date": "2026-04-16",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202600262/html/DCPD-202600262.htm",
+      "classification": "prompted_nonanswer_redirect",
+      "reason": "Reporter embeds Putin unwillingness and asks whether war may continue for years. Answer says never would have started under him and hopes ends soon; no assessment of Putin premise.",
+      "source_context": [
+        {
+          "i": 164,
+          "speaker": "Reporter",
+          "text": "Q. Do you think this war in Ukraine—you know, Putin doesn't want to stop it, apparently. He keeps bombing Ukraine. Do you think this war has the potential to go on for years more?",
+          "source_speaker_label": "Q",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 165,
+          "speaker": "Trump",
+          "text": "The President. Well, it should have been—it should have never started. If I were President, the war in Ukraine never would have started with Russia. But it's going on. Hopefully, it will get over soon.",
+          "source_speaker_label": "The President",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        }
+      ]
+    },
+    {
+      "id": "DCPD-202500805",
+      "date": "2025-07-29",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202500805/html/DCPD-202500805.htm",
+      "classification": "additional_personal_negative_candidate",
+      "reason": "In Russia ceasefire-deadline response, he wants probably keep war going assigns negative intent to unnamed singular Russian decisionmaker, contextually Putin. Probabilistic qualifier retained; no other personal antecedent in exchange.",
+      "source_context": [
+        {
+          "i": 153,
+          "speaker": "Reporter",
+          "text": "Q. Mr. President, yesterday, you mentioned that you would change the Russia deadline to 10 to 12 days. Has that started yet? Or when can we, you know, see the official statement that that is the new deadline?",
+          "source_speaker_label": "Q",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 154,
+          "speaker": "Trump",
+          "text": "The President. I'll tell you what, I'll give it to you now. Do you want a big scoop?",
+          "source_speaker_label": "The President",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 155,
+          "speaker": "Reporter",
+          "text": "Q. Yes, please.",
+          "source_speaker_label": "Q",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 156,
+          "speaker": "Trump",
+          "text": "The President. Everybody else, close your ears. Okay? You ready?",
+          "source_speaker_label": "The President",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 157,
+          "speaker": "Reporter",
+          "text": "Q. I'm ready.",
+          "source_speaker_label": "Q",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 158,
+          "speaker": "Trump",
+          "text": "The President. Ten days from today.",
+          "source_speaker_label": "The President",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 159,
+          "speaker": "Reporter",
+          "text": "Q. Got it.",
+          "source_speaker_label": "Q",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 160,
+          "speaker": "Trump",
+          "text": "The President. Okay?",
+          "source_speaker_label": "The President",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 161,
+          "speaker": "Reporter",
+          "text": "Q. Got it.",
+          "source_speaker_label": "Q",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 162,
+          "speaker": "Trump",
+          "text": "The President. Good.",
+          "source_speaker_label": "The President",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 163,
+          "speaker": "Trump",
+          "text": "[Several reporters spoke at once.] We have a scoop.",
+          "source_speaker_label": null,
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 164,
+          "speaker": "Reporter",
+          "text": "Q. Thank you.",
+          "source_speaker_label": "Q",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 165,
+          "speaker": "Trump",
+          "text": "The President. And then, you know, we're going to put on tariffs and stuff. And I don't know if it's going to affect Russia, because he wants to, obviously—probably keep the war going. But we're going to put on tariffs and the various things that you put on.",
+          "source_speaker_label": "The President",
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 166,
+          "speaker": "Editorial",
+          "text": "[Several reporters spoke at once.]",
+          "source_speaker_label": null,
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        },
+        {
+          "i": 167,
+          "speaker": "Trump",
+          "text": "And it may or may not affect them, but it could. [Several reporters spoke at once.]",
+          "source_speaker_label": null,
+          "mixed_speaker_paragraph": false,
+          "source_speaker_runs": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "window_inclusive": [
+    "2025-01-20",
+    "2026-09-11"
+  ],
+  "channel": "GovInfo DCPD, direct Trump speech/text or explicit adoption; source-identified other speakers only context",
+  "target": "Vladimir Putin",
+  "reviewed_candidates": 244,
+  "original_candidates": 243,
+  "additional_personal_judgment_id": "DCPD-202500805",
+  "unique_communication_target_pairs": 244,
+  "flags_overlap": true,
+  "counts_main": {
+    "explicit_character_or_competence_praise": 8,
+    "favorable_conduct_appraisal": 36,
+    "current_affinity": 26,
+    "explicit_trust": 9,
+    "defense_or_excuse": 26,
+    "favorable_peace_intention": 56,
+    "communication_quality": 49,
+    "clear_personal_or_conduct_negative": 63,
+    "contextual_negative": 32
+  },
+  "union_counts": {
+    "character_or_conduct": 43,
+    "praise_affinity_trust": 65,
+    "broad_favorable_excluding_communication": 103,
+    "favorable_including_communication": 124
+  },
+  "counts_qualified_or_contextual_favorable": {
+    "explicit_character_or_competence_praise": 3,
+    "favorable_conduct_appraisal": 10,
+    "current_affinity": 3,
+    "explicit_trust": 0,
+    "defense_or_excuse": 15,
+    "favorable_peace_intention": 3,
+    "communication_quality": 2
+  },
+  "negative_tier_counts": {
+    "clear": 63,
+    "contextual": 32,
+    "separate": 124,
+    "none": 25
+  },
+  "broad_favorable_and_clear_negative_same_communication": 29,
+  "broad_favorable_only_relative_to_clear_negative": 74,
+  "clear_negative_only_relative_to_broad_favorable": 34,
+  "neither_broad_favorable_nor_clear_negative": 107,
+  "historical_affinity_records": 10,
+  "communication_quality_undercut_records": 10,
+  "completion": {
+    "positive": "All243 supplied full favorable-audit records harmonized with common personal scope; all flagged excerpts, qualifications and no-positive exclusion notes inspected, with targeted source-context rereads. Supplemental broad scan adds no favorable judgment. This is not an independent second full-transcript favorable pass.",
+    "negative": "All243 original candidates now individually adjudicated (prior110 plus completed133); additional pronoun-only negative805 reviewed. No unadjudicated original candidate remains.",
+    "discovery": "Parent broad screen396 Russia/Putin/Kremlin records,153 outside original243;12 reporter/editorial-only named records separately reviewed;805 found by broad pronoun context. This is a bounded DCPD candidate-screen audit, not proof every implicit reference in every medium was found."
+  },
+  "denominator_warning": "244 is the reviewed candidate pool, not an exposure-matched or uniformly harmonized personal-mention denominator. Report raw counts; no cross-leader rate or praise-to-criticism winner inferred.",
+  "semantic_warning": "Character/conduct praise, affinity, trust, defense and peace-intention have different meanings. Broad favorable is not synonymous with praise. Clear negatives include mild shared negotiation blame and are not equivalent to personal insults.",
+  "sensitivities": {
+    "clear_negative_excluding_new_borderline_causal_linkage_202500870": 62,
+    "clear_negative_excluding_pronoun_target_resolution_202500805": 62,
+    "clear_negative_excluding_both": 61,
+    "contextual_counterfactual_or_qualified_invasion_responsibility_in_completion": 10,
+    "strict_character_praise_excluding_possible_wry_nice_gentleman_202500617": 7,
+    "defense_before_independent_secure_scope_QA": 29,
+    "defense_after_independent_secure_scope_QA": 26,
+    "three_additional_defense_sensitivity_ids": [
+      "DCPD-202500661",
+      "DCPD-202500664",
+      "DCPD-202600446"
+    ]
+  },
+  "qa": {
+    "unique_ids": true,
+    "dates_urls_match_corpus": true,
+    "negative_evidence_items_literal_verified": 863,
+    "favorable_main_and_sensitivity_evidence_items_literal_verified": 436,
+    "literal_failures": [],
+    "missing_negative_reviews": 0
+  },
+  "review_type": "AI semantic review; not human validated; rhetoric claims are not verified historical facts",
+  "source_files": {
+    "source-archive/data/review_revisions/putin_positive_reaudit_combined.json": "f6f66c27b093025ef772a96c5e636d52f57e3f15b190353597396b542c2d5c2b",
+    "source-archive/data/review_revisions/putin_negative_reaudit_revised_combined.json": "122059e09ff06e7ed189659a12105f771d48879726708185287a7ff245651e49",
+    "data/eligible_corpus.json": "eadbd287bb6750aa047bd21d96ec88d01bcf7c8a24f1f37199e79d227d2daeb2"
+  }
+}

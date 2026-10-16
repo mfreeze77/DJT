@@ -1,0 +1,7 @@
+# Comparison correction history
+
+2026-10-16, artifact version 1: Final NATO category-boundary QA moved two summit-quality-only appraisals (DCPD-202500719 and DCPD-202600449) out of conduct praise. The latter retains a separate defense. Main broad-favorable union changes 42 to 41; institutional quality/conduct union changes 34 to 32. DCPD-202500723 praises collective conduct rather than separately describing communication quality, changing that category 16 to 15. Narrower-referent sensitivity changes to 38 broad favorable and 29 quality/conduct praise. Clear negatives remain 81, any negatives 88, reviewed institutional communications 157. All named-leader counts are unchanged. The delivered report and source records are updated consistently. Superseded counts are preserved here rather than silently erased.
+
+Earlier pre-delivery scope refinement excluded three Europe-only/neutral records: final institutional target-bearing denominator 157 rather than 160, contextual-negative union 88 rather than 89. These denominators are not comparable exposure/opportunity denominators.
+
+For the Putin defense audit, 39 original inclusive flags were narrowed to 29 personally harmonized candidates and independently reviewed to 26 secure personal/protective defenses. Two ambiguous cases form a sensitivity of 28; a third peace-intention/pressure case is not defense. The main report explains these distinct scopes. Original archive correction history is preserved separately.
