@@ -67,3 +67,7 @@ Reuters reported, citing LSEG shipping data, that a tanker loaded approximately 
 This adds a reported physical export movement to the authorization and commercial-negotiation evidence associated with [J20-2026-011](https://github.com/mfreeze77/DJT/blob/abc3b869f8d341709f196d989f76a53ebf752bd3/J20-Pres.md#L133) and the world-market explanation in [J20-2026-014](https://github.com/mfreeze77/DJT/blob/abc3b869f8d341709f196d989f76a53ebf752bd3/J20-Pres.md#L136). It remains distinct from U.S.-bound delivery forecasts. The report does not identify the vessel, buyer or seller, document completed discharge or payment, or establish that this cargo was contracted under the presidential arrangement or depended on GL 135. The underlying LSEG record was not obtained. Morocco-bound loading does not establish U.S. importation and does not contradict Novak's separate conditional estimate for possible U.S. deliveries.
 
 **Analytical inference:** The report supplies limited evidence of resumed commercial export activity, while the specific beneficiaries, realized revenue and causal contribution of U.S. licensing remain unestablished.
+
+## October 15 House oversight follow-up
+
+[The separate 22-member House letter and its implementation questions](Tmanch_CH7_Graham_Act_2026_Source_Note.md#october-15-house-letter-implementation-questions-and-license-revocation-request) supplement J20-2026-011, -012 and -015. This does not alter the October 13 Senate letter or establish executive action.

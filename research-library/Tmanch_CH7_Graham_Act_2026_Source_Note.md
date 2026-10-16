@@ -27,3 +27,11 @@ Sources: [White House signing notice](https://www.whitehouse.gov/briefings-state
 [Public Law 119-111, section 113(g)(2)](https://www.govinfo.gov/content/pkg/PLAW-119publ111/html/PLAW-119publ111.htm) expressly applies its HS2709 crude-oil and HS2711 natural-gas definitions to the importer test in subsection (c)(1). Subsection (c)(2) separately covers the top five countries facilitating Russian oil sanctions evasion, with the conduct defined in subsection (i)(2). The crude-oil definition alone therefore does not establish a blanket diesel exemption from the act.
 
 This is a clarification of the statutory scope supporting J20-2026-012, not evidence of new implementation, collected duties or a finding that the reported Morocco-bound diesel cargo triggers duties.
+
+## October 15 House letter: implementation questions and license-revocation request
+
+[McCaul's official release and reproduced letter](https://mccaul.house.gov/media-center/press-releases/mccaul-costa-colleagues-urge-full-and-faithful-implementation-lindsey-o), dated October 15 and inspected October 16, identifies Michael McCaul, Jim Costa and 20 colleagues: 22 House members. They urged Graham Act implementation and GL 135 revocation, requested answers before October 18 and a committee briefing afterward, and sought trade/maritime-data methodology and benchmarks for Russian energy-revenue and third-country purchase reductions.
+
+This is a distinct House request, not the [October 13 twelve-senator letter](Tmanch_CH7_Oct13_Intelligence_Diesel_Source_Note.md). It supplements [J20-2026-011, -012 and -015](J20-Pres.md) without adding an event or score. Congressional questions establish neither revocation, completed implementation, legal invalidity, executive response nor realized revenue effects. The official page supplies a reproduced text and named signers; this review did not independently authenticate signature images.
+
+**Analytical inference:** The requested reporting could make executive implementation and revenue-pressure claims more testable, potentially supporting Ukrainian/allied leverage. Compliance and outcomes remain unverified. Preserve the statutory exceptions and licensing/waiver distinctions above.
