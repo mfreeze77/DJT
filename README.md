@@ -1,206 +1,57 @@
-# Donald J. Trump — Foreign Influence, Financial Leverage, and Counterintelligence Research
+# DJT | Research powered by Grok SI
 
-## Project purpose
+## Donald J. Trump: foreign influence, financial leverage, and counterintelligence research
 
-This repository investigates whether Donald J. Trump’s business relationships, financial dependencies, foreign contacts, political conduct, and governmental decisions created susceptibility to foreign influence or hidden agendas from 1977 to the present.
+A working research library examining business relationships, financial dependencies, foreign contacts, political conduct, and governmental decisions from 1977 to the present. The collection brings together chapter narratives, source inventories, claim and event ledgers, counterevidence, records requests, and timeline materials.
 
-The project does not require every relationship to form one centrally directed conspiracy. It examines whether separate financial, intelligence, criminal, political, media, and diplomatic networks became interoperable—allowing different actors to deliver money, access, market value, information, prestige, or political assistance while seeking private or governmental benefit.
+**[Open the full research library →](research-library/)**  
+The familiar files and folders are all inside, with their original names and organization. The [detailed research index](research-library/README.md) preserves the previous README and its chapter-by-chapter navigation.
 
-## Evidence standard
+## Start here
 
-The research distinguishes:
+- **Quick orientation:** [Executive TLDR](research-library/DJT_TLDR.md)
+- **Full synthesis:** [Current Working Conclusion](research-library/Current_Working_Tmanch_Conclusion.md)
+- **Recent events:** [J20–Present action ledger](research-library/J20-Pres.md) · [CSV event ledger](research-library/Tmanch_CH7_J20_event_ledger.csv) · [Reconciliation and corrections](research-library/Tmanch_CH7_J20_reconciliation.md)
+- **Check the evidence:** [Source Integrity Audit](research-library/SOURCE_INTEGRITY_AUDIT.md) · [Counterevidence Attribution Matrix](research-library/Tmanch_Conclusion_Attribution_Matrix.csv)
 
-- established primary-record facts;
-- official findings;
-- criminal or civil allegations;
-- sworn testimony;
-- documentary investigative reporting;
-- analytical inference;
-- unresolved leads;
-- contested claims;
-- and disproved or corrected propositions.
+## Explore the chapters
 
-Circumstantial evidence is evaluated cumulatively. Timing or association alone is not treated as proof, but the absence of a signed confession does not erase a converging pattern of motive, access, opportunity, concealment, benefit, false explanations, institutional weakening, and subsequent reward.
+1. [Ivana and the original Eastern Bloc bridge](research-library/Tmanch_CH1.md)
+2. [From Eastern Bloc access to Soviet cultivation](research-library/Tmanch_CH2.md)
+3. [Creditor control and networked financial recovery](research-library/Tmanch_CH3.md)
+4. [Bayrock, licensing, and the post-Soviet capital platform](research-library/Tmanch_CH4.md)
+5. [Campaign and first-term counterintelligence risk](research-library/Tmanch_CH5.md)
+6. [Post-presidency political-financial platform](research-library/Tmanch_CH6.md)
+7. [Institutional withdrawal and second-term payoff networks](research-library/Tmanch_CH7.md)
+8. [Active measures, institutional exploitation, and the American feedback loop](research-library/Tmanch_CH8.md)
+9. [Family value channels, Russian-linked patronage, and access](research-library/Tmanch_CH9.md)
 
-## Current synthesis and integrity controls
+Chapter titles describe the existing research packages. Use the [detailed index](research-library/README.md#chapter-research-packages) to find each chapter's available source inventories, ledgers, supporting research, counterevidence, and open questions.
 
-- [Presidential rhetoric source archive and comparison research](research/presidential_rhetoric_2026/README.md) — official transcripts, social-source identifiers, auditable annotation revisions, and a prompted-versus-voluntary research protocol. Preliminary comparative counts are explicitly withheld pending symmetrical review; rhetoric alone does not establish hidden motive.
+## Focused research collections
 
-- [VEB / A7 / Trump Toronto evidence-ranked crosswalk (October 2026)](research/veb_a7_2026/README.md) — original Toronto receivership references, A7 source lineage, financial-claim safeguards, machine-readable ledgers and records plan. **Shared VEB does not establish a continuous money trail.**
+- [Russian capital, AML exposure, and influence](research-library/Tmanch_Russian_Capital_AML_Influence_Matrix.md) · [Financial methodology](research-library/Tmanch_Russian_Linked_Financial_Methodology.md)
+- [VEB / A7 / Trump Toronto evidence crosswalk](research-library/research/veb_a7_2026/README.md)
+- [Presidential rhetoric source archive](research-library/research/presidential_rhetoric_2026/README.md)
+- [FOIA and records strategy](research-library/Tmanch_FOIA_Index.md) · [Request tracker](research-library/Tmanch_FOIA_Request_Tracker.csv)
+- [Interactive timeline project](research-library/trump-russia-timeline/README.md)
 
+## How to read and use this research
 
-- [Current Working Conclusion](Current_Working_Tmanch_Conclusion.md)
-- [Executive TLDR](DJT_TLDR.md)
-- [Counterevidence Attribution Matrix](Tmanch_Conclusion_Attribution_Matrix.csv)
-- [Transatlantic Deterrence and Russia-Pressure Architecture Matrix](Tmanch_CH7_Transatlantic_Pressure_Architecture_Matrix.md)
-- [Russia–China–Iran Targeting and U.S. Casualty Matrix](Tmanch_CH7_Russia_China_Iran_Targeting_Casualty_Matrix.md)
-- [Russia–Iran Targeting and Sanctions High-Magnitude Red-Flag Finding](Tmanch_CH7_Russia_Iran_Sanctions_High_Magnitude_Red_Flag.md)
-- [Source Integrity Audit](SOURCE_INTEGRITY_AUDIT.md)
+The project distinguishes primary-record facts, official findings, allegations, testimony, investigative reporting, analytical inference, unresolved leads, contested claims, and corrections. A source citation or a relationship in a timeline does not by itself establish wrongdoing, intent, or a complete chain of causation.
 
-The active synthesis distinguishes Trump-originated actions from policies imposed or funded by Congress, allies, agencies, military officials, market conditions, or later reversals. It also identifies sanctions and threats that were announced but not implemented, implemented temporarily, or diluted through general licenses and waivers.
+Read material claims alongside their linked sources, limitations, counterevidence, and correction history. Estimates and working interpretations should remain labeled as such. AI-assisted research still requires source checking.
 
-The transatlantic matrix distinguishes formal NATO membership and sanctions listings from operational effectiveness. It reweights Article 5 ambiguity, Ukraine-support suspensions, territorial-recognition policy, specialist enforcement dismantling, hybrid-defense reductions, and the domestic beneficial-ownership rollback. Its weighted **55–70 percent** pressure-architecture degradation range is an explicit analytical estimate—not an audited claim that 55–70 percent of statutory sanctions were repealed.
+The older narrative files and archived branches remain available as research history and lead collections. They do not supersede the current source-controlled chapter packages and ledgers. Nothing in this layout change revises the underlying research conclusions.
 
-The Russia–Iran high-magnitude red-flag synthesis isolates the combined significance of American casualties, credible Russian targeting support, Trump’s minimization, public reliance on Moscow’s denial, differential punishment of China-based providers, and successive OFAC licenses preserving qualifying Russian-origin oil transactions. It distinguishes targeted sanctions loosening from wholesale repeal while treating the timing and response asymmetry as a controlling Chapter 7 finding.
+## Working with the files
 
-The active conclusion, TLDR, and source-controlled `J20-Pres.md` contain no fictional-reference or placeholder URLs.
+All research and application files now live under [research-library/](research-library/). Existing commands and repository-relative paths in the preserved research documentation are relative to that folder unless a page says otherwise:
 
-## Russian-linked financial and AML research
+```sh
+cd research-library
+```
 
-- [Russian Capital, AML Exposure, and Influence Matrix](Tmanch_Russian_Capital_AML_Influence_Matrix.md)
-- [Russian-Linked Financial Flow Ledger](Tmanch_Russian_Linked_Financial_Flows.csv)
-- [Financial Quantification and No-Double-Counting Methodology](Tmanch_Russian_Linked_Financial_Methodology.md)
-- [Financial Source Inventory](Tmanch_Russian_Linked_Financial_Sources.md)
-- [Visual Timeline Financial Reconciliation](Tmanch_Visual_Timeline_Financial_Reconciliation.md)
+For the timeline app, continue into `trump-russia-timeline/` and follow its README. For evidence checks, follow the relevant collection's README. GitHub workflows stay in `.github/workflows/` and use the new paths automatically.
 
-The stand-alone matrix distinguishes direct Trump receipts, project-level transaction value, branded-property volume, indirect capital, prospective deals, and non-cash cultivation. It also reconciles the 2026 Capital One litigation: Capital One says it closed most of a hundreds-account Trump relationship for AML reasons, while the Trump plaintiffs allege the AML rationale was a political pretext. Neither party’s theory has been adjudicated. The matrix explains why the bank action is material independent institutional-risk evidence without mislabeling it a criminal money-laundering finding.
-
----
-
-# Chapter research packages
-
-## Chapter 1 — Ivana and the original Eastern Bloc bridge
-
-The Chapter 1 expansion develops the exception pattern around Ivana Zelníčková’s sporting identity, controlled mobility, marriages and status changes, StB family access, FBI counterintelligence inquiry, and role as Donald Trump’s original bridge into the Soviet-bloc world.
-
-- [Main Chapter 1](Tmanch_CH1.md)
-- [Supporting research](Tmanch_CH1_support.md)
-- [Claim ledger](Tmanch_CH1_claim_ledger.csv)
-- [Primary-source inventory](Tmanch_CH1_primary_sources.md)
-- [Counterevidence and hypothesis tests](Tmanch_CH1_counterevidence.md)
-- [Open questions and records plan](Tmanch_CH1_open_questions.md)
-
-## Chapter 2 — From Eastern Bloc access to Soviet cultivation
-
-The Chapter 2 expansion follows the family channel into direct Soviet cultivation and separates intelligence, political, organized-crime, property, aviation, narcotics, casino-compliance, and financial-vulnerability mechanisms that converged between 1977 and 1990.
-
-- [Main Chapter 2](Tmanch_CH2.md)
-- [Supporting research](Tmanch_CH2_support.md)
-- [Claim ledger](Tmanch_CH2_claim_ledger.csv)
-- [Primary-source inventory](Tmanch_CH2_primary_sources.md)
-- [Counterevidence and hypothesis tests](Tmanch_CH2_counterevidence.md)
-- [Open questions and records plan](Tmanch_CH2_open_questions.md)
-
-## Chapter 3 — Creditor control and networked financial recovery
-
-The Chapter 3 expansion reconstructs Trump’s 1990s recovery as a staged capital system: creditor-controlled survival, foreign-asset and public-market recapitalization, and a partnership, presale, private-credit, and foreign-demand model in which post-Soviet buyers and intermediaries became increasingly important.
-
-- [Main Chapter 3](Tmanch_CH3.md)
-- [Supporting research](Tmanch_CH3_support.md)
-- [Claim ledger](Tmanch_CH3_claim_ledger.csv)
-- [Primary-source inventory](Tmanch_CH3_primary_sources.md)
-- [Counterevidence and hypothesis tests](Tmanch_CH3_counterevidence.md)
-- [Open questions and records plan](Tmanch_CH3_open_questions.md)
-
-## Chapter 4 — Bayrock, licensing, and the post-Soviet capital platform
-
-The Chapter 4 expansion reconstructs Bayrock ownership and capital, Sater’s criminal/cooperation history, Trump SoHo presale and sales mechanics, FL Group’s investment, Deutsche Bank’s separate credit and Russian-AML systems, foreign-buyer liquidity, indirect state-linked pathways, and the Agalarov commercial relationship that became a political-access channel.
-
-- [Main Chapter 4](Tmanch_CH4.md)
-- [Supporting research](Tmanch_CH4_support.md)
-- [Claim ledger](Tmanch_CH4_claim_ledger.csv)
-- [Primary-source inventory](Tmanch_CH4_primary_sources.md)
-- [Counterevidence and hypothesis tests](Tmanch_CH4_counterevidence.md)
-- [Open questions and records plan](Tmanch_CH4_open_questions.md)
-
-## Chapter 5 — Campaign and first-term counterintelligence risk
-
-The Chapter 5 expansion follows commercial networks into the 2016 campaign, transition, first administration, and 2020 election. It separates interference, receptivity, contact, coordination, conspiracy, obstruction, financial conflicts, policy alignment, and counterintelligence vulnerability.
-
-- [Main Chapter 5](Tmanch_CH5.md)
-- [Supporting research](Tmanch_CH5_support.md)
-- [Claim ledger](Tmanch_CH5_claim_ledger.csv)
-- [Primary-source inventory](Tmanch_CH5_primary_sources.md)
-- [Cambridge Analytica Data-Bridge Matrix](Tmanch_CH5_Cambridge_Analytica_Data_Bridge_Matrix.md)
-- [Counterevidence and hypothesis tests](Tmanch_CH5_counterevidence.md)
-- [Manafort–Kilimnik Operational-Use Matrix](Tmanch_CH5_Manafort_Kilimnik_Operational_Use_Matrix.md)
-- [Open questions and records plan](Tmanch_CH5_open_questions.md)
-
-## Chapter 6 — Post-presidency political-financial platform
-
-The Chapter 6 expansion reconstructs January 2021 through January 19, 2025 as a transition from legacy real-estate and bank exposure into replacement credit, public media equity, foreign-state-linked business, family sovereign wealth, crypto, private-club access, retained Presidential records, and Americanized foreign-influence pipelines.
-
-- [Main Chapter 6](Tmanch_CH6.md)
-- [Supporting research](Tmanch_CH6_support.md)
-- [Claim ledger](Tmanch_CH6_claim_ledger.csv)
-- [Primary-source inventory](Tmanch_CH6_primary_sources.md)
-- [Counterevidence and hypothesis tests](Tmanch_CH6_counterevidence.md)
-- [Open questions and records plan](Tmanch_CH6_open_questions.md)
-
-## Chapter 7 — Institutional withdrawal and second-term payoff networks
-
-The Chapter 7 expansion covers January 20, 2025 through August 31, 2026. It reconciles the complete rapid-response presidency ledger, Russian official and public reaction, institutional and enforcement changes, Ukraine and NATO policy, sanctions licenses, late-2025 settlement terms, and private-value/public-action chains involving crypto, technology, sovereign-linked development, trade, defense, regulation, and clemency.
-
-### Main research package
-
-- [Main Chapter 7](Tmanch_CH7.md)
-- [Supporting research](Tmanch_CH7_support.md)
-- [Claim ledger](Tmanch_CH7_claim_ledger.csv)
-- [Pre-value/post-benefit payoff ledger](Tmanch_CH7_payoff_ledger.csv)
-- [Primary-source inventory](Tmanch_CH7_primary_sources.md)
-- [Russian-language source appendix](Tmanch_CH7_russian_sources.md)
-- [Counterevidence and hypothesis tests](Tmanch_CH7_counterevidence.md)
-- [Transatlantic Deterrence and Russia-Pressure Architecture Matrix](Tmanch_CH7_Transatlantic_Pressure_Architecture_Matrix.md)
-- [Russia–China–Iran Targeting and U.S. Casualty Matrix](Tmanch_CH7_Russia_China_Iran_Targeting_Casualty_Matrix.md)
-- [Russia–Iran Targeting and Sanctions High-Magnitude Red-Flag Finding](Tmanch_CH7_Russia_Iran_Sanctions_High_Magnitude_Red_Flag.md)
-- [Open questions and records plan](Tmanch_CH7_open_questions.md)
-
-### `J20-Pres.md` reconciliation package
-
-- [Source-controlled rapid-response action ledger](J20-Pres.md)
-- [Complete reconciliation and corrections](Tmanch_CH7_J20_reconciliation.md)
-- [Machine-readable event ledger](Tmanch_CH7_J20_event_ledger.csv)
-- [Russian official, state-media, Telegram, and forum reaction chronology](Tmanch_CH7_J20_russian_commentary.md)
-- [OFAC license-by-license matrix](Tmanch_CH7_OFAC_license_matrix.csv)
-
-The rapid ledger is retained as investigative evidence discovery. Every material event is promoted, qualified, merged as a duplicate, retained as an unresolved lead, or corrected with an explanation. Nothing is silently discarded.
-
-The living ledger now includes year-qualified 2026 continuation rows, including the Russia–Iran targeting and casualty sequence, Russian-oil licenses, presidential minimization, August intelligence diplomacy, the volunteered Asheville G20 financial normalization event, September personalized Moscow diplomacy, Trump's refinery/diesel request to Ukraine, and the Kremlev–Trump Jr. family-value disclosure.
-
-## Chapter 8 — Active measures, institutional exploitation, and the American feedback loop
-
-Chapter 8 separates the Russian information operation from the narrower collusion question. It follows GRU hacking and publication, IRA influence activity, Russian intelligence receipt of campaign information, the Senate's redacted Kilimnik/GRU hack-and-leak findings, the dubious Russian intelligence material that affected Comey's 2016 decision process, kompromat risk, domestic amplification, and the later fight over attribution.
-
-- [Main Chapter 8](Tmanch_CH8.md)
-- [Primary-source and source-control inventory](Tmanch_CH8_primary_sources.md)
-- [Claim ledger](Tmanch_CH8_claim_ledger.csv)
-
-## Chapter 9 — Family value channels, Russian-linked patronage, and access
-
-Chapter 9 maps money, gifts, hospitality, sponsorship, business support, relationship-building, and access delivered to Trump-family or immediate-network nodes. Its first new case study is the Umar Kremlev–Donald Trump Jr. chain: IBA outreach to the administration, a public Kremlev/Trump Jr. alliance, Putin's 2026 Order of Friendship to Kremlev, and Kremlev's later high-value Bahamas wedding hospitality.
-
-- [Main Chapter 9](Tmanch_CH9.md)
-- [Primary-source and source-control inventory](Tmanch_CH9_primary_sources.md)
-- [Claim ledger](Tmanch_CH9_claim_ledger.csv)
-
----
-
-# Primary-record and FOIA research
-
-- [FOIA and records strategy index](Tmanch_FOIA_Index.md)
-- [FOIA request tracker](Tmanch_FOIA_Request_Tracker.csv)
-- [1977–1983 property and FBI tranche](Tmanch_Fin_77-83_FOIA_Tranche.md)
-- [1983–1986 Atlantic City and aviation tranche](Tmanch_Fin_83-86_FOIA_Tranche.md)
-- [Cuba narcotics-route tranche](Tmanch_FOIA_Cuba_79-85.md)
-
-The Chapter 5–9 records plans also include targeted Presidential Records Act, agency FOIA, congressional-subpoena, court-record, corporate-discovery, property-record, sanctions, beneficial-ownership, and blockchain-KYC programs.
-
----
-
-# Legacy working papers
-
-Earlier large narrative files remain useful as research history and lead collections, but they do not supersede the source-controlled chapter packages, conclusion, TLDR, and ledgers:
-
-- `DJT 2015-2021.md`
-- `DJT 2021-Pres.md`
-- `Tmanch.md`
-
-Their remaining citations should be modernized before they are used as controlling evidence.
-
----
-
-# Working analytical principle
-
-The project’s central test is not whether every fact independently proves the entire hypothesis. It is whether multiple independently sourced facts converge on the same explanation more strongly than they support ordinary politics, legitimate commerce, bureaucratic coincidence, or unrelated personal preference.
-
-Serious evidence is not minimized. Weak evidence is not inflated. Counterevidence is preserved and correctly attributed because the conclusions that survive it are substantially stronger.
+Older bookmarked file URLs may need `research-library/` inserted after the branch name. Links pinned to historical commits retain their original paths.

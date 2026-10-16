@@ -3,12 +3,12 @@ name: Presidential rhetoric archive
 on:
   pull_request:
     paths:
-      - 'research/presidential_rhetoric_2026/**'
+      - 'research-library/research/presidential_rhetoric_2026/**'
       - '.github/workflows/rhetoric-archive.yml'
   push:
     branches: [main]
     paths:
-      - 'research/presidential_rhetoric_2026/**'
+      - 'research-library/research/presidential_rhetoric_2026/**'
       - '.github/workflows/rhetoric-archive.yml'
   workflow_dispatch:
 
@@ -21,7 +21,7 @@ jobs:
     timeout-minutes: 10
     defaults:
       run:
-        working-directory: research/presidential_rhetoric_2026
+        working-directory: research-library/research/presidential_rhetoric_2026
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
