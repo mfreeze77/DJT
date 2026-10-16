@@ -43,3 +43,7 @@ Final Air Force and infrastructure assessments; disaggregated outage/restoration
 This is a separate October 15 development in Russia, not part of the October 13–14 Ukrainian attack totals supporting [J20-2026-016](https://github.com/mfreeze77/DJT/blob/aae0a90e2170db2fefc2ab18da5817082a008eeb/J20-Pres.md#L138). It supplies context for the restraint request in [J20-2026-007](https://github.com/mfreeze77/DJT/blob/aae0a90e2170db2fefc2ab18da5817082a008eeb/J20-Pres.md#L129) and commercial opportunity under [J20-2026-011](https://github.com/mfreeze77/DJT/blob/aae0a90e2170db2fefc2ab18da5817082a008eeb/J20-Pres.md#L133), without establishing agreed restraint terms, responsibility for noncompliance or a new Trump-authored action.
 
 **Analytical inference:** A refinery-site fire illustrates physical pressure on Russian fuel infrastructure and potential constraints on realizing the commercial opportunity preserved by sanctions relief. Lost production, additional repair costs, Russian revenue loss and any resulting Ukrainian strategic benefit remain unquantified.
+
+## Interceptor-supply context
+
+[October 15–16 shortage reporting and attribution limits](Tmanch_CH7_Oct15_16_Patriot_Shortage_Source_Note.md) supplies contextual evidence without adding an event, score or delivery count.
