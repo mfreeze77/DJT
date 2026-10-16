@@ -1,6 +1,6 @@
 {
-  "README.md": "473ef9294ba6f384882dd6bf40a4836f34560fa1503525c94bed1a204fe418c2",
-  "REPORT.md": "4b07fcd0c5a9da66b8b0a515b837f8c492ecd2877b97abeb7ae32527bdff790f",
+  "README.md": "9e14cd9fedcefb7116fb0178f18987171fe8541353f38e34c3cdc032b914fe0e",
+  "REPORT.md": "195fbe374e3468921f35989b028ef23630a2564f33d2fa6cca61c7a33fb17af6",
   "comparison_summary.csv": "0160cebd11b0dbe2658ad272962f6a2d73515d264d8b195bac901a69c6e98a19",
   "data/canada_mexico_records.json": "7904fb583e31f76eda82f1662dde63a80c81c9440d1d709f14457efcb4191382",
   "data/category_membership.json": "8b75f44b2361977a9bec70e66eeefb920082e10b14ee8cefa4463b9c1b13eeb4",
@@ -11,6 +11,7 @@
   "data/putin_supplemental_context.json": "70d3fddb0e3a8b61cdec086b419965c743d52c3497fc4ddc3c26174b53634dad",
   "docs/CODEBOOK.md": "4855c1bc315cd2be52267ca85867e852e37069f38d483dbbb29e17d7ebda8311",
   "docs/COMPARISON_CORRECTIONS.md": "eef0f21f05b4e9bdabe5807bf654bb699b08db22e598654716ad34cb48beb34f",
+  "docs/OCTOBER_MATCHED_WAR_CONTEXT.md": "a2cd018a9deafa4b6ee8c6045f5f4a6d300ee7a8f27f86e98a11a901ae7d9137",
   "docs/archive_CORRECTION_LOG.md": "aa8d3122061b37bcfbfc0c5216653223159032bc650ff4feee221ed4f2476828",
   "docs/archive_DCPD_SOURCES.md": "e5651810ffaeb646974b17696fa384352ba27450eecacb63bd3f37fc957f5704",
   "docs/archive_METHOD.md": "03d97a78a53a0c3ccc97cd798523b3d231c8e0876bdd7ea6f27befa0b7041520",

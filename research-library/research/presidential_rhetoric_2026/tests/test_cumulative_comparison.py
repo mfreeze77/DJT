@@ -33,6 +33,14 @@ class CumulativeComparisonTest(unittest.TestCase):
                           nato['clear_personal_or_conduct_negative'],
                           nato['communication_quality']), (32, 41, 81, 15))
 
+    def test_later_context_is_separate_from_cumulative_counts(self):
+        report = (ROOT / 'docs/OCTOBER_MATCHED_WAR_CONTEXT.md').read_text()
+        self.assertIn('one shared episode', report)
+        self.assertIn('not necessarily that exact individual strike', report)
+        self.assertIn('No stable primary transcript', report)
+        self.assertIn('outside the frozen official corpus', (ROOT / 'REPORT.md').read_text())
+        self.assertIn('does not alter any coded record', (ROOT / 'README.md').read_text())
+
     def test_portable_context_and_correction_history(self):
         pattern = re.compile(r'/workspace/|/tmp/|/home/|/root/|AKIA[0-9A-Z]{16}|'
                              r'gh[pousr]_[A-Za-z0-9]{20,}|-----BEGIN [A-Z ]*PRIVATE KEY')

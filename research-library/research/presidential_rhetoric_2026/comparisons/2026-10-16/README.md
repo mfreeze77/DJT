@@ -34,3 +34,10 @@ The first three commands reuse the existing `data/official_source_html.zip` and 
 `SHA256SUMS.json` verifies this comparison's committed files. Exact quoted source context remains in the coded records. The script checks the membership/count tables and their CSV/source-index parity, and literal quotation fields; it does not redo semantic judgments, establish equal exposure, or authorize release of the archive's original withdrawn comparison. See [comparison correction history](docs/COMPARISON_CORRECTIONS.md) and [preserved original corrections](docs/archive_CORRECTION_LOG.md).
 
 Status: draft AI-reviewed research, not human validation. The original archive annotations, fail-closed release gate, and previous correction history remain unchanged.
+
+
+## Separate October 2026 matched-war context
+
+[Trump and three allied leaders in the October energy-war episode](docs/OCTOBER_MATCHED_WAR_CONTEXT.md) compares responsibility, credibility, and pressure within the October 9–16 diesel-relief and energy-strikes episode. This is a separately sourced contextual report outside the cumulative corpus cutoff. It does not alter any coded record, category membership, total, or source-index row above. It covers one shared episode, not a frequency denominator, a NATO-wide consensus, or independent repeated tests. Source-access limits and the distinction between leader remarks and government-spokesperson statements remain explicit.
+
+The source draft was supplied with SHA-256 `36a97cb936e9aa09b17b856f5d0f3d11b31d90be360c30561a16f810e9a97b00`; only its publication-status sentence was changed for this draft-PR copy. No new allegation was added.

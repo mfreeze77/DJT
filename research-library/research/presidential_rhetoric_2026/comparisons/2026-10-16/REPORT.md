@@ -81,3 +81,8 @@ This is a separate institutional comparison, not a comparison of allied leaders 
 The analogous nine flags are 6 institutional quality/competence, 29 conduct appraisal, 10 current affinity, zero explicit trust, five defense/protection, one peace intention, 15 communication quality, 81 clear negative and 11 contextual negative. These are institution/adversarial-policy judgments, not personal character labels. A narrower referential sensitivity gives 29 quality/conduct praise, 38 broad favorable and 80 clear negative. Source evidence and oral-only results are in qa/nato_summary.json and data/nato_institution_records.json. All 273 flagged excerpts were literal-checked. NATO-country leaders and EU/country criticism are not silently added.
 
 This corpus contains Trump communications. A comparison of Trump and allied leaders reacting to the same Russian actions requires an additional matched-speaker source corpus; these totals do not answer that distinct question.
+
+
+## Separate later contextual comparison
+
+A [matched-war contextual report for October 9–16, 2026](docs/OCTOBER_MATCHED_WAR_CONTEXT.md) compares Trump and three allied national leaders within the diesel-relief/energy-strikes episode. It falls outside the frozen official corpus, uses separately described sources, and is not included in any cumulative count above. It supports a bounded episode-level interpretation, not a comparative frequency rate or NATO-wide finding.
