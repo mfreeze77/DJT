@@ -10,9 +10,9 @@ Supports **J20-2026-021** and **J20-2026-022** in [J20-Pres.md](J20-Pres.md) and
 
 A senior U.S. official, answering Reuters, said: “No such request was ever made by the president.” Questions about other officials went unanswered. Ukraine's Defence Ministry source reported a remaining 160-kph ceiling October 15; Ukrainian officials described impaired strike and interceptor operations.
 
-## Assessment and restoration conflict
+## October 15 assessment and restoration conflict
 
-**Analytical inference:** This strengthens deliberate government restriction over unexplained malfunction. The solicited denial is president-specific, leaving broader attribution unrebutted, not admitted. Impairment benefits Russia operationally; personal presidential direction, Russian coordination, attack timing and a diesel quid pro quo remain unproved.
+**Analytical inference on the October 15 Reuters report and response:** This strengthens deliberate government restriction over unexplained malfunction. The solicited denial is president-specific, leaving broader attribution unrebutted, not admitted. Impairment benefits Russia operationally; personal presidential direction, Russian coordination, attack timing and a diesel quid pro quo remain unproved.
 
 [Axios, October 15](https://www.axios.com/2026/10/15/ukraine-starlink-restored-strikes-russia-trump-musk), citing a Ukrainian official, reported full Starlink/Starshield restoration. The discrepancy remains unresolved.
 
@@ -53,3 +53,23 @@ All three texts were independently inspected through indexed results October 16 
 **Analytical inference:** Degraded coordination and defensive capability can advantage Russia. No quantified casualties, payments, presidential order, Russian coordination or attack timing is established by this update. Physical Patriot ammunition remains a separate issue.
 
 The [J20-2026-024 address](Tmanch_CH7_Oct16_Zelenskyy_European_Council_Source_Note.md) is a separate speech. Its 15:51 publication label (timezone unspecified) must not be assigned to the briefing. No new event or score is added.
+
+## October 16 follow-up: prompted presidential denial
+
+[AP's October 16 live report](https://apnews.com/article/5da043282984cc21947a2d9c8147e4ff) places Trump's remarks outside the White House before departure for Georgia. [Anadolu](https://www.aa.com.tr/en/world/trump-denies-ordering-pause-in-starlink-access-for-ukrainian-military/4091392) reports that he was asked whether he or Musk had paused access: he denied personal responsibility, expressed doubt about Musk's involvement and described service as unchanged. [Reuters](https://www.investing.com/news/commodities-news/trump-says-neither-he-nor-musk-responsible-for-ukraine-starlink-access-4954681) reports his broader denial of U.S.-imposed limits.
+
+[Axios, October 16, published 18:52 UTC](https://www.axios.com/2026/10/16/trump-starlink-musk-ukraine-zelensky), reports that Trump said he had checked that morning and denied U.S. responsibility. [UNN's account](https://unn.ua/en/news/i-dont-know-who-gave-the-order-trump-says-the-us-government-is-not-involved-in-restricting-starlinks-operation-in-ukraine) also records his doubt that service had been shut off at all. These reports cover the same exchange, not independent confirmations of system state. Indexed texts were independently inspected October 16; a complete original recording or official transcript was not obtained. Paraphrases avoid resolving differing transcriptions of the exchange.
+
+**Updated assessment:** The October 15 Reuters-response analysis above concerns that narrower, president-specific denial. Trump's October 16 remarks expressly contest broader U.S. responsibility; the earlier White House-origin attribution is now disputed by this presidential response, not admitted or disproved. Neither account establishes who issued or implemented an instruction.
+
+A claimed morning check does not establish uninterrupted earlier service. Complete shutdown and a movement-speed ceiling are distinct; the reported remarks offer no technical reconciliation with the operational witness, Ukrainian restriction reports or differing restoration accounts retained above. The check's source, contents, timing and covered terminals/services are additional records needed. It does not establish that Trump knew contrary facts or knowingly misrepresented them.
+
+This contextual update to **J20-2026-021** adds no event or score. The potential Russian operational benefit described above remains an inference; no personal order, coordinated attack timing, casualty total or payment is established.
+
+## October 16 separate exchange: war-origin question
+
+[Actualno's October 16 report](https://www.actualno.com/america/pitat-go-zabravi-li-che-putin-pochna-vojnata-v-ukrajna-trymp-pak-e-natjasno-iska-izrael-da-se-bie-s-hutite-video-news_2651323.html), reproducing a Clash Report excerpt, describes a question linking Trump's position on Zelenskyy leaving office to Putin having started the war. In the reported answer, Trump invoked unspecified details he said he knew and would disclose later, then emphasized wanting the war ended, without directly answering the question about Putin's responsibility.
+
+[Newsquawk's October 16 headline](https://www.newsquawk.com/headlines/us-president-trump-says-he-wants-the-russiaukraine-war-ended-on-zelenskyukraine-says-at-some-point-ill-release-details) separately records the future-disclosure and end-the-war remarks. Its 17:28 UTC publication and 17:08 feed labels are reporting timestamps, not verified speech times. Both indexed texts were inspected; the full original English recording/transcript remains unavailable here.
+
+**Analytical implication:** Such a pivot can dilute scrutiny of Russia's responsibility; intent and actual audience effect are unestablished. The exchange does not establish that Trump explicitly denied Russia's invasion, possessed validated undisclosed evidence, or substantiated casualty figures. This is separate attributed rhetoric context, not technical evidence for the satellite restriction or a new scored event.
