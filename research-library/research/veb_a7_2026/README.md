@@ -1,5 +1,9 @@
 # VEB / A7 / Trump Toronto: evidence-ranked crosswalk
 
+## October 15, 2026: A7 advisory-council context
+
+[Agency source and governance scope note](a7_oct15_advisory_council_source_note.md) records official participation in an advisory council. This adds no ownership, payment or Toronto connection and changes no financial totals.
+
 ## Gazette receipt-locator supplement (13 October 2026)
 
 [Gazette 4156 receipt note](quinira_gazette_receipt_note.md) and [four selected receipt observations](quinira_gazette_receipts.csv) add administrative locators for Quinira, Freegain and later-stage Equalchance requests. Receipt dates and document counts are not registry Order Dates, instrument dates or debt counts. The Equalchance court-order comparison remains unmatched. All 21 original registry observations and financial totals are unchanged; no underlying financing instrument was acquired.
@@ -118,3 +122,4 @@ The validator checks CSV structure, unique record IDs, source references across 
 [S12]: ../../Tmanch_CH4_primary_sources.md
 [S13]: https://www.rferl.org/a/russia-cryptocurrency-a7a5-ilan-shor-investigation-sanction-evasion/33746026.html
 [S14]: ../../Tmanch_CH5.md
+
