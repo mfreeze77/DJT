@@ -9,3 +9,7 @@ These are forecasts and requests, not payments, commitments or deliveries. Condi
 ## Cumulative placement
 
 Compare [J20-2026-007, -011, -014 and -015](J20-Pres.md) on diesel policy and objections; [-016 and -017](J20-Pres.md) on earlier Ukrainian requests and separate EU financing; and [-021, -022 and -023](J20-Pres.md) on operational reporting, oversight and Costa's position. This is one later speech, not independent confirmation of earlier claims or an additive funding/delivery event. No conclusion about final Council adoption is drawn.
+
+## Interceptor-supply context
+
+[October 15–16 shortage reporting and attribution limits](Tmanch_CH7_Oct15_16_Patriot_Shortage_Source_Note.md) supplies contextual evidence without adding an event, score or delivery count.
