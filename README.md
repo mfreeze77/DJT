@@ -1,5 +1,7 @@
 # DJT | Research powered by Grok SI
 
+## Case Study: Donald J. Trump — The Muscovy Candidate
+
 ## Donald J. Trump: foreign influence, financial leverage, and counterintelligence research
 
 A working research library examining business relationships, financial dependencies, foreign contacts, political conduct, and governmental decisions from 1977 to the present. The collection brings together chapter narratives, source inventories, claim and event ledgers, counterevidence, records requests, and timeline materials.
