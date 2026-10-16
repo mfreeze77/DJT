@@ -25,3 +25,16 @@ Compare [J20-2026-007, -011, -014 and -015](J20-Pres.md) on diesel policy and ob
 That defence-specific total/gap is not reconciled here with Zelenskyy's broader **additional €70 billion** appeal above. Do not add the figures or infer contradiction without matching budget scope, period and financing assumptions. This is another Ukrainian-government statement, not independent validation of the figures.
 
 **Analytical inference:** Predictable debt-neutral support could sustain Ukrainian defence and fiscal capacity without added servicing burdens. The release establishes neither adopted funding, disbursement nor confiscation of frozen principal. No new event or score is added to J20-2026-024.
+
+## Later October 16 verification: adopted Council conclusions
+
+The earlier speech-only adoption limit above is historical. The [official adoption notice](https://www.consilium.europa.eu/en/press/press-releases/2026/10/16/european-council-conclusions-15-and-16-october-2026/) and linked [EUCO 14/26 conclusions](https://www.consilium.europa.eu/media/4tglqede/en-20261016-european-council-conclusions.pdf) were independently retrieved October 16 via the notice's PDF link after direct retrieval failed.
+
+- Paragraph 21 (printed p. 6) acknowledges ongoing disbursements under the existing €90 billion 2026–27 loan; identified 2026 financing still requires implementation steps.
+- Paragraph 22 (p. 7) awaits an updated Commission/IMF assessment and further consideration. It does not approve Zelenskyy's additional €70 billion request.
+- Paragraph 23 (p. 7) welcomes the €6.6 billion EPF release agreement and establishment of the Integrated Anti-Ballistic Missile Coalition. Neither establishes payment or equipment delivery.
+- Paragraph 25 (p. 8) expresses collective regret at U.S. temporary Russian-diesel sanctions relief. This is distinct from Costa's individual remarks, not GL 135 revocation.
+
+The [September 28 Foreign Affairs Council account](https://www.consilium.europa.eu/en/meetings/fac/2026/09/28/) already records agreement to mobilise €6.6 billion. Do not count October's welcome as a new increment. The underlying legal instrument was not identified in this review.
+
+**Analytical placement:** These positions favor Ukrainian financing/defence and pressure on Russia; implementation and effects require separate evidence. Compare [J20-2026-011, -017, -023 and -024](J20-Pres.md). No new event, score or funding total is added.
