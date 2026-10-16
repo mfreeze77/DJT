@@ -39,3 +39,17 @@ These links place the new reporting within the repository's existing support-res
 ## Records that could change the assessment
 
 White House/NSC and Pentagon instructions; SpaceX and government change-control records; terminal configuration and performance logs; communications with Ukrainian authorities; separate warning-delivery logs; contractual amendments; and any IG acknowledgement, status response or findings. Preserve provenance and timing before reconciling competing accounts. Retain earlier entries and corrections rather than rewriting historical claims as if later reporting had always been available.
+
+## October 16 follow-up: unit experience and incomplete-restoration remarks
+
+[Reuters, Sergiy Chalyi, October 16](https://www.internazionale.it/ultime-notizie-reuters/2026/10/16/starlink-disruptions-are-being-felt-on-the-front-lines-of-ukraine) interviewed artilleryman Ukrlan (callsign), serving in the Special Rifle Police Battalion in Donetsk region. He described degraded internet and headquarters communications and attributed impaired missile/drone detection and interception to slower service. This is a distinct firsthand operational witness, not a technical audit or identification of the order's author.
+
+[EFE's October 16 Brussels briefing report](https://efe.com/euro-efe/2026-10-16/zelenski-starlink-ucrania-cumbre-ue/) attributes to Zelenskyy that previous speed limits had not yet been restored. He said partners had relayed White House indications that restoration would occur. That is an attributed, secondhand expectation, not a direct White House commitment or completed restoration.
+
+[Ukraine's Center for Countering Disinformation briefing summary](https://cpd.gov.ua/international-direction/yevropa/klyuchovi-tezy-z-presbryfingu-volodymyra-zelenskogo-u-bryusseli/) attributes jet-Shahed interception rather than deep-strike use to Zelenskyy, and describes work with France and others for additional capabilities, not replacement. These are attributed remarks, not an audit of every operation. EFE and this summary cover the same briefing; they are not independent technical confirmations.
+
+All three texts were independently inspected through indexed results October 16 after direct retrieval failed. The earlier restoration account above remains intact. Observation times, terminal populations, services and configurations are not aligned; the accounts therefore establish neither a second cutoff nor universal outage or falsehood.
+
+**Analytical inference:** Degraded coordination and defensive capability can advantage Russia. No quantified casualties, payments, presidential order, Russian coordination or attack timing is established by this update. Physical Patriot ammunition remains a separate issue.
+
+The [J20-2026-024 address](Tmanch_CH7_Oct16_Zelenskyy_European_Council_Source_Note.md) is a separate speech. Its 15:51 publication label (timezone unspecified) must not be assigned to the briefing. No new event or score is added.

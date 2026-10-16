@@ -13,3 +13,7 @@ Compare [J20-2026-007, -011, -014 and -015](J20-Pres.md) on diesel policy and ob
 ## Interceptor-supply context
 
 [October 15–16 shortage reporting and attribution limits](Tmanch_CH7_Oct15_16_Patriot_Shortage_Source_Note.md) supplies contextual evidence without adding an event, score or delivery count.
+
+## Separate briefing and operational reporting
+
+[October 16 unit experience and restoration remarks](Tmanch_CH7_Oct15_Starshield_Oversight_Source_Note.md#october-16-follow-up-unit-experience-and-incomplete-restoration-remarks) concern separate reporting and a Brussels briefing. This address's publication time does not date that briefing.
