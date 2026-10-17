@@ -688,3 +688,39 @@ Encore's detail record FT_1520000230152 and Bogatin's lot 1179 result-list entry
 ### CH2-P26 subsequent detail upgrades
 
 Bogatin POA FT_1520000175752 now independently verifies the formerly result-list-only reel 1183/page 400 entry. The dated source-note follow-up preserves that earlier limitation. Additional lot 1136 details establish the Encore/Urban Research conveyance, mortgage extension, Chase assignment, Gallery Urban assumption, explicit former-name entry and 1991 satisfaction. The satisfaction's retained Encore/Bank of China names remain unresolved against the intervening assignment; no payment or beneficial-owner inference is made.
+
+## CH2-P35 — Bally acquisition and repurchase funding
+
+**Source/date:** NJ DGE, April 7, 1987, pp.37–45  
+**Location:** https://www.washingtonpost.com/wp-stat/graphics/politics/trump-archive/docs/trump-plaza-renewal-dge-report-d-16-1987-04-20.pdf
+
+**Supports:** Mixed funding, preferred-financed repurchase, additional consideration and gross profit.
+
+**Limits:** Distribution provenance, bank reconciliation and share discrepancies unresolved; conditional put not verified paid.
+
+## CH2-P36 — Bally receipt testimony
+
+**Source/date:** NJ Casino Control Commission, April 20, 1987; printed p.134/PDF p.135  
+**Location:** https://www.washingtonpost.com/wp-stat/graphics/politics/trump-archive/docs/1987-04-20-trump-plaza-renewal-djt-transcript--.pdf
+
+**Supports:** Trump's confirmation of approximately $6.215 million additional receipt.
+
+**Limits:** Not bank-clearing documentation.
+
+## CH2-P37 — Bally ownership digests
+
+**Source/date:** SEC, November 28, 1986 and March 2, 1987  
+**Locations:** https://www.sec.gov/news/digest/1986/dig112886.pdf ; https://www.sec.gov/news/digest/1987/dig030287.pdf
+
+**Supports:** Reported holdings and changes.
+
+**Limits:** Event date differs from filing date; no payment evidence or resolution of all DGE share discrepancies.
+
+## CH2-P38 — Antitrust consent judgment
+
+**Source/date:** DOJ complaint April 5, 1988; judgment April 12, 1988  
+**Locations:** https://www.justice.gov/atr/case-document/325366 ; https://www.justice.gov/atr/case-document/file/969611/dl
+
+**Supports:** Correct chronology and ordered $750,000 penalty.
+
+**Limits:** Consent disposition without trial/admission; no payment receipt.
