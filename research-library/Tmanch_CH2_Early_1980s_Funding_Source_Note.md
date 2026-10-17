@@ -85,3 +85,23 @@ The first Citytrust letter of credit had a $1,911,000 face amount, issued July 5
 ## October 17 follow-up: neutral lender identity
 
 **CH2-P33:** A [January 31, 1984 Federal Reserve memorandum](https://www.federalreserve.gov/monetarypolicy/files/FOMC19840131Memo01.pdf), PDF p.7, lists **Union Chelsea National Bank as Banco Union's U.S. bank subsidiary**, with **$188 million in assets as of June 30, 1983**. This supplies contemporaneous institutional affiliation for the indexed mortgage lender, not the provenance of Bogatin's advance or a 1984 shareholder-percentage finding. No BCCI ownership or misconduct inference is made. Candidate corporate purchasers whose ownership remains unresolved are not added to the established Bogatin chain.
+
+## October 17 follow-up: corporate chronology and purchaser-name matches
+
+**CH2-P34:** Official NY DOS All Filings rows identify the following Kings County domestic corporations. Each was incorporated **August 6, 1984** and dissolved by proclamation **June 24, 1992**.
+
+| Registered name | DOS number | Incorporation filing | Dissolution filing |
+|---|---:|---|---|
+| Elite Equities Inc. | 935032 | B129853-4 | DP-698564 |
+| Luxury Equities Inc. | 935147 | B129991-4 | DP-710820 |
+| Encore Equities Inc. | 935034 | B129855-4 | DP-698861 |
+
+[Official Elite/Luxury rows](https://data.ny.gov/resource/63wc-4exh.json?$where=corpid_num%20in(935032,935147)); [Encore rows](https://data.ny.gov/resource/63wc-4exh.json?corpid_num=935034). The returned fields supply no signers, officers or beneficial owners. Same-day formation alone establishes no shared ownership; definitive matching of these DOS entities to deed parties requires original certificates and instruments.
+
+Separately, ACRIS indexes [FT_1940000078694](https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail?doc_id=FT_1940000078694), Trump-Equitable to **Elite Equities, Inc.**, block 1292/lot 1123, and [FT_1010000078701](https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail?doc_id=FT_1010000078701), Trump-Equitable to **LUXURY EGUITIES,INC**, lot 1177. Both deeds are dated **October 10, 1984**, recorded **November 15**, at reel 848/pages 237 and 296 respectively. The Luxury spelling discrepancy is retained rather than silently treated as a definitive corporate match. Their zero indexed amounts leave consideration unresolved; signatures and Bogatin ownership remain unverified.
+
+The separate [Encore deed FT_1060000082306](https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail?doc_id=FT_1060000082306) indexes Trump-Equitable to Encore Equities Inc. for block 1292/lot 1136, dated **October 30, 1984**, recorded **December 28** (reel 861/p.166). Its zero indexed amount leaves consideration unresolved. [FT_1080000082308](https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail?doc_id=FT_1080000082308), recorded December 28, indexes a **$930,000 Bank of China mortgage** on that parcel (reel 861/p.177), with a July 9, 1991 discharge notation referring to reel 1795/p.1083. These are metadata, not inspected mortgage terms, demonstrated advances or proof of shared owners.
+
+## October 17 follow-up: 2004 parcel metadata
+
+A later official [ACRIS detail read, document 2004050501243002 / CRFN 2004000344454](https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail?doc_id=2004050501243002), explicitly identifies unit **53B**, block 1292/lot 1179. It indexes an April 28, 2004 deed, recorded June 4, from **Immobiliare G3 to Cronel Properties SA**, with **$1.56 million** consideration. Cronel's Geneva c/o Budin & Partners address is a professional contact address, not beneficial-ownership evidence. This upgrades the earlier unverified later-deed lead to verified metadata only: the four-page instrument image remained unavailable, and execution, signatories, actual payment and underlying ownership were not verified.

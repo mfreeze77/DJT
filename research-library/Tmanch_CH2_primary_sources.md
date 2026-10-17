@@ -666,3 +666,17 @@ The initial index-only review is preserved. Subsequent visual inspection of [FT_
 **Supports:** Banco Union/Union Chelsea parent-subsidiary listing; assets of $188 million at June 30, 1983.
 
 **Limits:** No particular mortgage-money provenance, 1984 shareholder percentages, BCCI ownership or misconduct conclusion.
+
+## CH2-P34 — Historical NY corporate filing rows
+
+**Source:** NY Department of State, All Filings dataset 63wc-4exh  
+**Type:** Official filing metadata  
+**Locations:** [Elite/Luxury rows](https://data.ny.gov/resource/63wc-4exh.json?$where=corpid_num%20in(935032,935147)); [Encore rows](https://data.ny.gov/resource/63wc-4exh.json?corpid_num=935034)
+
+**Supports:** Formation/dissolution chronology for three named corporations; see source-note table.
+
+**Limits:** No signatories or beneficial owners; name matches do not conclusively identify deed entities.
+
+### CH2-P26 further detail follow-up
+
+Verified detail metadata now also covers the 2004 unit 53B deed (2004050501243002) and Encore's lot 1136 deed/mortgage (FT_1060000082306 / FT_1080000082308). Instrument images remained unavailable. Dates, amounts, party names and limits are set out in the source note; no additional cash-flow or ownership inference follows.
