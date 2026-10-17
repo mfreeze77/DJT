@@ -48,3 +48,8 @@ No absence of a publicly obtained report is treated as proof of non-submission. 
 ## Related energy-restraint evidence
 
 The [October 17 review of October 11–15 restraint and reciprocity](Tmanch_CH7_Oct14_Energy_Attack_Source_Note.md#october-17-source-review-october-1115-restraint-and-reciprocity) adds Ukrainian public commitments, Russia's attributed acknowledgment of energy targeting, and contested accounts of Ukrainian restraint and resumption. It supplements J20-2026-007 and -016; it does not establish complete agreement terms, a causal link to this order or a Russian concession exchanged for the waivers.
+
+
+## Earlier legislative proposal
+
+[H.R. 10828, J20-2026-027](Tmanch_CH7_Oct15_Meeks_Diesel_Bill_Source_Note.md), supplies separate countervailing congressional pressure on Russian-energy relief. Its October 15 introduction precedes this order; the later committee announcement does not establish that the bill responded to the waivers. Its proposed licensing and sanctions provisions are not enacted measures or restoration of the Graham Act's tariffs.

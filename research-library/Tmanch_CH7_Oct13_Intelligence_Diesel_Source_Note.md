@@ -76,3 +76,8 @@ This adds a reported physical export movement to the authorization and commercia
 ## October 16 related implementation record
 
 [The Graham Act follow-up, J20-2026-025](Tmanch_CH7_Oct16_Graham_Waivers_Source_Note.md), belongs alongside the GL 135 authorization and congressional requests above. It is a separate instrument, not a second diesel transaction or evidence of completed sales. The product-specific market forecasts here do not quantify the wider policy's effects.
+
+
+## Separate October 15 legislative proposal
+
+[H.R. 10828, J20-2026-027](Tmanch_CH7_Oct15_Meeks_Diesel_Bill_Source_Note.md), is a distinct Meeks bill introduced October 15 and announced by the committee minority October 16. Its proposed license restrictions remain separate from GL 135's existing authorization, the Senate request and the House implementation letter. Introduction does not rescind a license or establish enactment.
