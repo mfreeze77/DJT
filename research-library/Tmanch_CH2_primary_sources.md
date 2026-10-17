@@ -728,3 +728,37 @@ Bogatin POA FT_1520000175752 now independently verifies the formerly result-list
 ### CH2-P32 / CH2-P27 clarification — Economic entitlement and bank-record limits
 
 The [dated source-note clarification](Tmanch_CH2_Early_1980s_Funding_Source_Note.md#october-17-clarification-broker-receipts-and-missing-bank-records) records the Harbor telex's Debbie Oil principal/broker language, contrary invoice issuer, unresolved routing-number discrepancy and non-additive letter-of-credit/wire arrangement. SMI's decision expressly reports missing subpoenaed bank records; its tax audit does not establish a property-funding transfer. Existing CH2-BOGATIN-041/046 and their source IDs remain unchanged. Related ALJ and tribunal reproductions belong to the same evidentiary chain, not independent receipts.
+
+# October 17 consolidated petroleum-finance package
+
+[Research narrative, chronology and typed companions](research/early_petroleum_financing_2026/README.md) adds CH2-FIN-056–060. Existing history and core financial totals remain unchanged.
+
+## CH2-P39 — M&Q operating payment and financing record
+
+**Source:** NY Tax Appeals Tribunal, May 22, 1997, DTA 810457; https://www.dta.ny.gov/pdf/archive/decisions/810457.2.dec.pdf
+
+**Limits:** Described bank exhibits not independently obtained; invoice mismatch and tax credits preserved. Full pinpoints and evidence rules are in the [package source inventory](research/early_petroleum_financing_2026/sources.md).
+
+## CH2-P40 — Restitution orders in congressional reporting
+
+**Source:** June 20, 1989 House hearing, printed p.125; https://www.ojp.gov/pdffiles1/Digitization/148382NCJRS.pdf
+
+**Limits:** Reported obligations, not collections; overlap with state commitments unresolved. Full pinpoints and evidence rules are in the [package source inventory](research/early_petroleum_financing_2026/sources.md).
+
+## CH2-P41 — Official Enterprise and Pan American merger crosswalk
+
+**Source:** NY DOS filing B262523-5, effective August 31, 1985; https://data.ny.gov/resource/63wc-4exh.json
+
+**Limits:** Registry merger established; identity of DTA factor and shareholder still unresolved. Full pinpoints and evidence rules are in the [package source inventory](research/early_petroleum_financing_2026/sources.md).
+
+## CH2-P42 — ICC division style on 1965 invoice
+
+**Source:** American Permac invoice in NY DEC archive, PDF p.146; https://extapps.dec.ny.gov/data/DecDocs/130063/Report.HW.130063.1997-03-25.FRI_Report_Appendices.pdf
+
+**Limits:** Contemporaneous division style, not a bridge to the 1983 payment or a new petroleum receipt. Full pinpoints and evidence rules are in the [package source inventory](research/early_petroleum_financing_2026/sources.md).
+
+## CH2-P43 — Diamond address and counsel context
+
+**Source:** NY Tax Appeals Tribunal, September 22, 1988, DTA 805249; https://www.dta.ny.gov/pdf/archive/decisions/805249.DEC.pdf
+
+**Limits:** Time-separated address/counsel evidence only; stricken ALJ finding 53 excluded. Full pinpoints and evidence rules are in the [package source inventory](research/early_petroleum_financing_2026/sources.md).
