@@ -111,3 +111,22 @@ A later official [ACRIS detail read, document 2004050501243002 / CRFN 2004000344
 The [ACRIS detail for FT_1520000230152](https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail?doc_id=FT_1520000230152) indexes an **Encore Equities Inc. to Paul S. Sibener power of attorney**, recorded **January 15, 1988**, reel **1348/page 94**, four pages, covering lot 1136. Execution date is unavailable. Separately, the official lot 1179 result list records **David G. Bogatin to Paul S. Sibener**, a four-page power of attorney recorded **January 30, 1987**, reel **1183/page 400**. The latter finding is result-list metadata, without a separately verified document-detail identifier in this review.
 
 These records provide a shared named representative connection beyond an address match. They do not establish the authority's scope, underlying signatories, corporate ownership or misconduct; the original instruments remain unread.
+
+## October 17 follow-up: Bogatin POA detail retrieved
+
+The earlier result-list-only limitation above records the initial review. Subsequent inspection of [FT_1520000175752](https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail?doc_id=FT_1520000175752) verifies the **David G. Bogatin / Paul S. Sibener** power-of-attorney detail: recorded **January 30, 1987**, reel **1183/page 400**, four pages, entire block 1292/lot 1179. The placeholder parcel expressly cross-refers to that lot. Execution date remains unavailable; the original authority scope and signatories remain unread. This upgrades retrieval provenance for the existing shared-representative finding, without expanding it into an ownership finding.
+
+## October 17 follow-up: Encore parcel's subsequent debt and name chain
+
+Verified ACRIS details for block 1292/lot 1136 extend the earlier recorded Encore purchase and Bank of China mortgage. They remain metadata, without inspected instrument terms or bank-payment evidence.
+
+| Record | Verified detail and linkage |
+|---|---|
+| [FT_1530000230153](https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail?doc_id=FT_1530000230153) | Encore Equities Inc. to Urban Research Corp.; deed dated December 18, 1987, recorded January 15, 1988; reel 1348/p.98. Indexed zero does not establish consideration. |
+| [FT_1750000233775](https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail?doc_id=FT_1750000233775) | Bank of China/Urban Research extension agreement, recorded February 4, 1988; reel 1359/p.1826; expressly references the earlier mortgage at reel 861/p.177. |
+| [FT_1760000353076](https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail?doc_id=FT_1760000353076) | Bank of China to Chase mortgage assignment, recorded September 25, 1990; reel 1731/p.1869; expressly references reel 861/p.177. |
+| [FT_1770000353077](https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail?doc_id=FT_1770000353077) | Chase/Gallery Urban modification and assumption, recorded September 25, 1990; reel 1731/p.1873; references the assignment at reel 1731/p.1869. The party spelling is indexed as GALLERY URBAN COAP NY. |
+| [FT_1980000372298](https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail?doc_id=FT_1980000372298) | Deed dated May 31, recorded June 5, 1991; lists GALLERY URBAN CORP NY and URBAN RESEARCH CORPFKA, to Andrea FortySeven CP. The explicit former-name entry establishes Urban Research/Gallery Urban continuity at the index tier. |
+| [FT_1610000375061](https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail?doc_id=FT_1610000375061) | Satisfaction recorded July 9, 1991; reel 1795/p.1083; expressly discharges reel 861/p.177. The original mortgage has a reciprocal discharge notation. |
+
+The satisfaction index still names **Encore/Bank of China**, despite the intervening Chase assignment. Preserve that discrepancy pending the originals: it does not identify a payoff amount, payer or discharge mechanism. No new advance is inferred from the extension, assignment or assumption; sale proceeds, bank receipts and beneficial ownership remain unverified.

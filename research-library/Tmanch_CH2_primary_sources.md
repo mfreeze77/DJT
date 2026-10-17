@@ -684,3 +684,7 @@ Verified detail metadata now also covers the 2004 unit 53B deed (200405050124300
 ### CH2-P26 representation-record follow-up
 
 Encore's detail record FT_1520000230152 and Bogatin's lot 1179 result-list entry at reel 1183/page 400 name Paul S. Sibener in separate powers of attorney. The source note preserves the different retrieval tiers; authority scope and ownership remain unverified.
+
+### CH2-P26 subsequent detail upgrades
+
+Bogatin POA FT_1520000175752 now independently verifies the formerly result-list-only reel 1183/page 400 entry. The dated source-note follow-up preserves that earlier limitation. Additional lot 1136 details establish the Encore/Urban Research conveyance, mortgage extension, Chase assignment, Gallery Urban assumption, explicit former-name entry and 1991 satisfaction. The satisfaction's retained Encore/Bank of China names remain unresolved against the intervening assignment; no payment or beneficial-owner inference is made.
