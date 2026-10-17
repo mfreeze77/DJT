@@ -327,7 +327,8 @@ FBI Cody file, trial exhibits, subpoena records, apartment deed and closing file
 
 **Title:** *Ewe Distributors, Inc. v. Chu*, 629 F. Supp. 1527  
 **Court:** U.S. District Court for the Eastern District of New York  
-**Date:** February 26, 1986  
+**Date:** March 13, 1986  
+**Correction recorded October 17, 2026:** Earlier inventory gave February 26, 1986. The linked opinion's heading and decision date specify March 13; the earlier date is retained here as correction history.  
 **Type:** Federal judicial opinion  
 **Location:** https://law.justia.com/cases/federal/district-courts/FSupp/629/1527/1577748/
 
@@ -576,3 +577,68 @@ Context only; do not back-project later willfulness into 1990–91.
 13. IRS examination workpapers and CTRC schedules underlying the FinCEN penalty.
 14. Slušovice delegation and Trump-visit files.
 15. 1990 bank workout and liquidity documents.
+
+
+# October 17, 2026 historical funding supplement
+
+Full page citations, transaction classification and limitations: [Early-1980s funding source note](Tmanch_CH2_Early_1980s_Funding_Source_Note.md). Existing claim history remains intact; new companion claims are CH2-FIN-036–039, CH2-BOGATIN-040–042 and CH2-CODY-043.
+
+## CH2-P26 — Bogatin ACRIS property index chain
+
+**Source/date:** NYC Department of Finance; instruments recorded 1984–1990  
+**Type:** Official index/detail metadata, not inspected instrument images  
+**Location:** https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail?doc_id=FT_1970000078697
+
+**Supports:** Recorded deed, encumbrances, attorney authorization and lender assignment on block1292/lot1179.
+
+**Limits:** No actual advances, seller receipts, equity provenance, complete five-unit reconstruction or misconduct inference.
+
+## CH2-P27 — SMI tax decision
+
+**Source/date:** NY Tax Appeals Tribunal; February 27,1997; DTA 801735/801744/807078  
+**Type:** Official decision; trial testimony explicitly attributed  
+**Location:** https://www.dta.ny.gov/pdf/archive/decisions/801735.dec.pdf
+
+**Supports:** 1982–83 share acquisition and recounted in-kind consideration; pp3–5.
+
+**Limits:** No traced Trump payment or condo-funding link.
+
+## CH2-P28 — PX-632 organizational-document exhibit
+
+**Source/date:** NY Attorney General public exhibit; 2012 email package containing 1979–1989 instruments  
+**Type:** Publicly released executed contracts and closing recitals  
+**Location:** https://ag.ny.gov/document/px-00632-e-mail-s-hwang-subj-trump-tower-organizational-documentspdf
+
+**Supports:** 1980 JV mechanism; 1986 seller-note consideration and closing distributions.
+
+**Limits:** No complete 1980 Initial Costs schedule/draw ledger; note repayment absent; exhibit publication is not adjudication of every recital.
+
+## CH2-P29 — 1981 casino-license investigation
+
+**Source/date:** NJ Division of Gaming Enforcement; October 16,1981  
+**Type:** Contemporaneous government report, publicly reproduced scan  
+**Location:** https://www.washingtonpost.com/wp-stat/graphics/politics/trump-archive/docs/state-of-new-jersey-department-of-law-and-public-safety-division-of-gaming-enforcement-report-to-the-casino-control-commission-oct-16-1981.pdf
+
+**Supports:** Printed pp28/52: family receipts, working-capital balance and project borrowing.
+
+**Limits:** Not underlying bank statements; prevent refinancing and stock/flow double counting.
+
+## CH2-P30 — Manufacturers Hanover Trust Co. v. Hixon, 124 A.D.2d 488
+
+**Source/date:** New York Appellate Division; November 13,1986  
+**Type:** Judicial opinion; indexed reproduction  
+**Location:** https://openjurist.org/124/ad2d/488/manufacturers-hanover-trust-co-v-hixon
+
+**Supports:** January 4,1984 note/mortgage and default/procedural history.
+
+**Limits:** No principal amount, Cody funding link or closing disbursement.
+
+## CH2-P31 — DGE investigation case 92-107
+
+**Source/date:** NJ Division of Gaming Enforcement; June 24,1992  
+**Type:** Government investigation, publicly reproduced scan  
+**Location:** https://a.fastcompany.net/asset_files/-/2016/03/04/Trump1992MOB.pdf
+
+**Supports:** Pp23–25: Hixon litigation/settlement terms and primary qualifications of Cody claim.
+
+**Limits:** No verified settlement payment; agent assessment not final adjudication; further questioning recommended.
