@@ -89,3 +89,11 @@ AP narrates his account that SpaceX repaired secondary outages after Ukraine com
 AP's early-Thursday onset conflicts with earlier Tuesday-night reporting. Preserve that discrepancy without inferring a second cutoff. His political interpretation identifies no decisionmaker or instruction.
 
 **Assessment:** Repair and cap removal are distinct conditions, potentially explaining differing restoration descriptions without establishing what Axios's earlier source observed. Matched terminal/service logs remain necessary; movement speed is not data throughput. Reduced defensive effectiveness can benefit Russia, but this account establishes neither personal direction, intent, coordination nor quantified losses. No event or score is added to **J20-2026-021**.
+
+## October 17 follow-up: reported European vehicle comparison
+
+[Ukrinform's October 17 report](https://www.ukrinform.net/rubric-ato/4175451-ukraine-loses-ability-to-use-starlink-to-shoot-down-jetpowered-shaheds-zelensky.html), labeled 16:18 (timezone unspecified), attributes to Zelenskyy a journalist-chat account that several Starlink-equipped vehicles sent to European countries remained connected at 180 km/h, whereas exceeding 161 km/h in Ukraine cut the connection. He linked the Ukrainian limit to impaired interception of jet-powered Shaheds and described ongoing negotiations. The full relevant indexed article passage was inspected October 17; this was not direct-page acquisition.
+
+This adds a named-official account of cross-location tests, not an independent technical audit. Test dates, locations, vehicle/terminal identities, accounts/service plans, configurations and telemetry were not supplied. The comparison does not establish matched conditions, prior mission planning, an instruction's author, motive or coordination with Russian attacks. The test passage calls the system Starlink; its contextual restoration reference to Starshield does not identify the tested service plan.
+
+This supplements **J20-2026-021** without adding an event or score. Earlier restoration discrepancies and the repair-versus-movement-cap distinction remain. Matched technical records are needed to assess the reported geographical difference; no new loss total or payment claim is established.
