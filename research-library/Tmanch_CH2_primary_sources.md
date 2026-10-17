@@ -724,3 +724,7 @@ Bogatin POA FT_1520000175752 now independently verifies the formerly result-list
 **Supports:** Correct chronology and ordered $750,000 penalty.
 
 **Limits:** Consent disposition without trial/admission; no payment receipt.
+
+### CH2-P32 / CH2-P27 clarification — Economic entitlement and bank-record limits
+
+The [dated source-note clarification](Tmanch_CH2_Early_1980s_Funding_Source_Note.md#october-17-clarification-broker-receipts-and-missing-bank-records) records the Harbor telex's Debbie Oil principal/broker language, contrary invoice issuer, unresolved routing-number discrepancy and non-additive letter-of-credit/wire arrangement. SMI's decision expressly reports missing subpoenaed bank records; its tax audit does not establish a property-funding transfer. Existing CH2-BOGATIN-041/046 and their source IDs remain unchanged. Related ALJ and tribunal reproductions belong to the same evidentiary chain, not independent receipts.
