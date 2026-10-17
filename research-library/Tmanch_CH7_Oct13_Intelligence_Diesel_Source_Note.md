@@ -71,3 +71,8 @@ This adds a reported physical export movement to the authorization and commercia
 ## October 15 House oversight follow-up
 
 [The separate 22-member House letter and its implementation questions](Tmanch_CH7_Graham_Act_2026_Source_Note.md#october-15-house-letter-implementation-questions-and-license-revocation-request) supplement J20-2026-011, -012 and -015. This does not alter the October 13 Senate letter or establish executive action.
+
+
+## October 16 related implementation record
+
+[The Graham Act follow-up, J20-2026-025](Tmanch_CH7_Oct16_Graham_Waivers_Source_Note.md), belongs alongside the GL 135 authorization and congressional requests above. It is a separate instrument, not a second diesel transaction or evidence of completed sales. The product-specific market forecasts here do not quantify the wider policy's effects.
