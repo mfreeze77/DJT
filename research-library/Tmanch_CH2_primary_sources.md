@@ -642,3 +642,27 @@ Full page citations, transaction classification and limitations: [Early-1980s fu
 **Supports:** Pp23–25: Hixon litigation/settlement terms and primary qualifications of Cody claim.
 
 **Limits:** No verified settlement payment; agent assessment not final adjudication; further questioning recommended.
+
+## CH2-P26 follow-up — Original deed page and 1992 detail records
+
+The initial index-only review is preserved. Subsequent visual inspection of [FT_1440000335044 page 1](https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentImageView?doc_id=FT_1440000335044) establishes the deed's referee, Citibank case and $885,000 consideration recitals. Only page 1 was inspected; recording-date and middle-initial differences remain unresolved. Later index/detail records FT_1160000396416, FT_1770000400477 and FT_1360000400436 establish the Yasuda security/discharge and Immobiliare deed chain without cash-flow attribution. See the [dated source-note follow-up](Tmanch_CH2_Early_1980s_Funding_Source_Note.md#october-17-follow-up-original-foreclosure-page-and-later-recorded-chain).
+
+## CH2-P32 — Harbor Petroleum payment findings
+
+**Source/date:** NY Tax Appeals Tribunal; September 21, 1989; DTA 801569/801747/801746  
+**Type:** Official tribunal decision  
+**Location:** https://www.dta.ny.gov/pdf/archive/decisions/801569.dec.pdf
+
+**Supports:** Bogatin's Lesez role and tribunal-described payments for two July 1984 shipments; pp.3, 6–7, 11. The two invoices total $3,773,569.79.
+
+**Limits:** Not independently reconciled bank receipts or a Tower-funding bridge. Credit face amounts, intermediate payments and invoices overlap. September proposal expressly unconsummated, pp.12–13.
+
+## CH2-P33 — Union Chelsea contemporaneous bank affiliation
+
+**Source/date:** Federal Reserve memorandum to FOMC; January 31, 1984  
+**Type:** Official institutional table, PDF p.7  
+**Location:** https://www.federalreserve.gov/monetarypolicy/files/FOMC19840131Memo01.pdf
+
+**Supports:** Banco Union/Union Chelsea parent-subsidiary listing; assets of $188 million at June 30, 1983.
+
+**Limits:** No particular mortgage-money provenance, 1984 shareholder percentages, BCCI ownership or misconduct conclusion.
