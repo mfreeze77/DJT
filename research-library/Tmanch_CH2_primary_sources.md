@@ -680,3 +680,7 @@ The initial index-only review is preserved. Subsequent visual inspection of [FT_
 ### CH2-P26 further detail follow-up
 
 Verified detail metadata now also covers the 2004 unit 53B deed (2004050501243002) and Encore's lot 1136 deed/mortgage (FT_1060000082306 / FT_1080000082308). Instrument images remained unavailable. Dates, amounts, party names and limits are set out in the source note; no additional cash-flow or ownership inference follows.
+
+### CH2-P26 representation-record follow-up
+
+Encore's detail record FT_1520000230152 and Bogatin's lot 1179 result-list entry at reel 1183/page 400 name Paul S. Sibener in separate powers of attorney. The source note preserves the different retrieval tiers; authority scope and ownership remain unverified.

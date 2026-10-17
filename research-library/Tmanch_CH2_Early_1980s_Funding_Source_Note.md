@@ -105,3 +105,9 @@ The separate [Encore deed FT_1060000082306](https://a836-acris.nyc.gov/DS/Docume
 ## October 17 follow-up: 2004 parcel metadata
 
 A later official [ACRIS detail read, document 2004050501243002 / CRFN 2004000344454](https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail?doc_id=2004050501243002), explicitly identifies unit **53B**, block 1292/lot 1179. It indexes an April 28, 2004 deed, recorded June 4, from **Immobiliare G3 to Cronel Properties SA**, with **$1.56 million** consideration. Cronel's Geneva c/o Budin & Partners address is a professional contact address, not beneficial-ownership evidence. This upgrades the earlier unverified later-deed lead to verified metadata only: the four-page instrument image remained unavailable, and execution, signatories, actual payment and underlying ownership were not verified.
+
+## October 17 follow-up: named power-of-attorney records
+
+The [ACRIS detail for FT_1520000230152](https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail?doc_id=FT_1520000230152) indexes an **Encore Equities Inc. to Paul S. Sibener power of attorney**, recorded **January 15, 1988**, reel **1348/page 94**, four pages, covering lot 1136. Execution date is unavailable. Separately, the official lot 1179 result list records **David G. Bogatin to Paul S. Sibener**, a four-page power of attorney recorded **January 30, 1987**, reel **1183/page 400**. The latter finding is result-list metadata, without a separately verified document-detail identifier in this review.
+
+These records provide a shared named representative connection beyond an address match. They do not establish the authority's scope, underlying signatories, corporate ownership or misconduct; the original instruments remain unread.
