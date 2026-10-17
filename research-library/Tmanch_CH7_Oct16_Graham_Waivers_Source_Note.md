@@ -43,3 +43,8 @@ Read alongside J20-033–035's earlier threats, J20-037 and -040's countervailin
 - Trade, collection, licensing and enforcement data separating legal opportunity from realized effects.
 
 No absence of a publicly obtained report is treated as proof of non-submission. No duplicate OFAC-license row or financial-transfer edge is created.
+
+
+## Related energy-restraint evidence
+
+The [October 17 review of October 11–15 restraint and reciprocity](Tmanch_CH7_Oct14_Energy_Attack_Source_Note.md#october-17-source-review-october-1115-restraint-and-reciprocity) adds Ukrainian public commitments, Russia's attributed acknowledgment of energy targeting, and contested accounts of Ukrainian restraint and resumption. It supplements J20-2026-007 and -016; it does not establish complete agreement terms, a causal link to this order or a Russian concession exchanged for the waivers.
