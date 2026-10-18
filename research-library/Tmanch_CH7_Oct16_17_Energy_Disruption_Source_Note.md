@@ -19,3 +19,7 @@ Compare [J20-2026-016's earlier attack and reciprocity record](Tmanch_CH7_Oct14_
 ## Records needed next
 
 Timestamped outage and restoration logs; disaggregated customer and facility assessments; Ukrenergo instructions and revised schedules; procurement, commissioning and grid-connection records; and finalized attack assessments. Preserve reporting windows and avoid adding overlapping totals to J20-2026-016.
+
+## October 18 related cumulative account
+
+[Zelenskyy's October 18 energy-attack account](Tmanch_CH7_Oct14_Energy_Attack_Source_Note.md#october-18-follow-up-cumulative-energy-attack-account) supplies later attributed reporting covering a window that overlaps this note. Its cumulative count is not additional to the October 16–17 record, and the reported overnight substation strikes do not establish every region's outage cause or completed restoration. The original operator and government snapshots above remain unchanged. No new event or numerical score is added.
