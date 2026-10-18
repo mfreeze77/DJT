@@ -774,3 +774,9 @@ The controlling classification is:
 - [TASS — Trump says he wants to get along with everyone](https://tass.com/world/2180105)
 - [Interfax — Russian Finance Ministry readout](https://interfax.com/newsroom/top-stories/118922/)
 - [Associated Press — simultaneous SCO gathering involving Russia, China, and Iran](https://apnews.com/article/cf543dfad0a20097ed4c2b415a26e8b4)
+
+## October 18, 2026 source update: LIG negotiation license and corporate status
+
+**J20-2026-028** backfills the September 18 issuance of **GL 131J**, with one instrument row and five source-qualified claim companions. No existing 131J event was found in the main baseline. The earlier grouped **J20-041** and **GL_131** remain historical records; October 15's **J20-2026-019**, **GL_128D** and **GL_130B** concern different authorizations. No earlier issue date, score or correction is overwritten. The new event remains unscored and must not be added to the historical headline concession count merely because it has a separate row.
+
+The [primary-source note](Tmanch_CH7_Oct18_Lukoil_Divestment_Source_Note.md) distinguishes the conditional Carlyle announcement, the preliminary filing's end-July lapse disclosure, the separate company-reported West Qurna-2 permission, the negotiation license and the DFC–IHC general framework. Corporate disclosures and framework context are not extra presidency-action events. The company accounts are preliminary and unapproved; a license disclosure is not closing evidence. No financial-flow or payoff total changes.

@@ -1,0 +1,11 @@
+Entity_ID,Source_Name,Entity_Type,Jurisdiction_or_Location,Registry_ID,Source_Defined_Role,Source_IDs,Limitations
+LIG-E001,PAO / PJSC LUKOIL,legal_entity,Russia,,Seller parent named by Lukoil release; listed shareholder of LIG,LIG-S001;LIG-S006,Source aliases retained; no Russian registry identifier verified here
+LIG-E002,LUKOIL INTERNATIONAL GmbH,legal_entity,Austria,FN 134399x; EUID ATBRA.134399-000,LIG subject of conditional-sale announcement and accounts,LIG-S001;LIG-S002;LIG-S006,Distinct from LIG-E006; company statement not transaction settlement
+LIG-E003,LUKOIL International Upstream Holding B.V.,legal_entity,Netherlands,,Direct 100% LIG holding in page 33; intermediary in page 29 Iraqi chain,LIG-S002,No Netherlands registry extract or sale-perimeter schedule obtained
+LIG-E004,LUKOIL Mid-East Limited,legal_entity,Cyprus,,Named holder of 75% West Qurna-2 interest through Dutch holding chain,LIG-S002,Company-reported permission; no Cyprus identifier or closing evidence obtained
+LIG-E005,Basra Oil Company,source_named_company,Iraq,,Named transferee under company-described Iraqi contract,LIG-S002,No independent legal identifier or settlement record verified
+LIG-E006,LUKOIL International Holding GmbH,legal_entity,Austria,FN 532399s,Distinct wholly owned holding listed on page 33; LIG listed as shareholder,LIG-S002;LIG-S006,Do not merge with LIG-E002 despite similar name and shared address
+LIG-E007,Carlyle,source_named_company,United States,,Buyer label in conditional-sale release and lapse disclosure,LIG-S001;LIG-S002,Exact contracting subsidiary or acquisition SPV not established; no present ownership inferred
+LIG-E008,U.S. International Development Finance Corporation,government_agency,United States,,Issuer and named party to announced IHC framework,LIG-S005,Framework announcement names no Lukoil investment allocation
+LIG-E009,International Holding Company,source_named_company,United Arab Emirates,,IHC named party to DFC framework,LIG-S005,No registry identifier or Lukoil subscribing vehicle established; do not equate with other Gulf entities
+LIG-E010,West Qurna-2,project,Iraq,,Oilfield/project interest described in the company filing,LIG-S002,75% is a project-interest percentage; project is not a legal entity or transaction value
