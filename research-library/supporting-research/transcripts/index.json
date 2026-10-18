@@ -1,0 +1,36 @@
+{
+  "schema_version": "djt-transcript-public-index/1.0",
+  "publication_scope": "metadata_and_original_summaries_only",
+  "sources": [
+    {
+      "source_id": "yt-ibzY4rWssEw",
+      "source_family": "yt-ibzY4rWssEw",
+      "youtube_url": "https://www.youtube.com/watch?v=ibzY4rWssEw",
+      "title": "David Frum: Markets Are Sending Trump a Very Ominous Warning | Mona Charen Show",
+      "alternate_title": "David Frum: Is Trump Selling Out Ukraine to Make His Friends Rich? | Mona Charen Show",
+      "publisher": "The Bulwark",
+      "published_at": "2026-10-18T05:30:33-07:00",
+      "recorded_at": null,
+      "audio_verified": false,
+      "passage_count": 389,
+      "first_cue_start_seconds": 0,
+      "last_cue_start_seconds": 2949,
+      "audio_coverage_seconds": null,
+      "reported_video_duration_seconds": [
+        2981,
+        2982
+      ],
+      "raw_sha256": "8e1242b9fec67a9bdc952eff14ca5d445ea1873e28f8ebed9020f31282d71df9",
+      "legacy_origin_commit": "0e7c74406a9e384a04fcad4ae3b7ef491961ff1e",
+      "raw_and_cleaned_storage": "private_workspace",
+      "republishing_permission": "not_established",
+      "summary_path": "sources/yt-ibzY4rWssEw.md",
+      "status": "supporting_research_only",
+      "unresolved_transcription_seconds": [
+        865,
+        2042
+      ],
+      "independence_count": null
+    }
+  ]
+}
