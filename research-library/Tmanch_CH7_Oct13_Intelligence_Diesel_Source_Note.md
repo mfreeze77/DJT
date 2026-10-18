@@ -72,6 +72,16 @@ This adds a reported physical export movement to the authorization and commercia
 
 [The separate 22-member House letter and its implementation questions](Tmanch_CH7_Graham_Act_2026_Source_Note.md#october-15-house-letter-implementation-questions-and-license-revocation-request) supplement J20-2026-011, -012 and -015. This does not alter the October 13 Senate letter or establish executive action.
 
+
+## October 16 related implementation record
+
+[The Graham Act follow-up, J20-2026-025](Tmanch_CH7_Oct16_Graham_Waivers_Source_Note.md), belongs alongside the GL 135 authorization and congressional requests above. It is a separate instrument, not a second diesel transaction or evidence of completed sales. The product-specific market forecasts here do not quantify the wider policy's effects.
+
+
+## Separate October 15 legislative proposal
+
+[H.R. 10828, J20-2026-027](Tmanch_CH7_Oct15_Meeks_Diesel_Bill_Source_Note.md), is a distinct Meeks bill introduced October 15 and announced by the committee minority October 16. Its proposed license restrictions remain separate from GL 135's existing authorization, the Senate request and the House implementation letter. Introduction does not rescind a license or establish enactment.
+
 ## October 16 follow-up: SPR crude-exchange solicitation
 
 DOE's [FY27 SPR Oil Release No. 1 RFP](https://www.spr.doe.gov/posting/EXCHANGE/FY27%20SPR%20Oil%20Release%20No.%201/1-Request%20for%20Proposal/FY27%20SPR%20Oil%20Release%20No.%201%20Request%20for%20Proposal.pdf), **DE-RP96-27PO00001**, is dated October 16, 2026. Its cover letter requests bids by **October 21 at 11:00 a.m. Central Time** for exchange of up to **17 million barrels of sour crude**. Printed B-1 allocates Bryan Mound deliveries of 1 million barrels in November and 6 million in December 2026, and Big Hill deliveries of 3 million in December and 7 million in January 2027. Returns are scheduled in 2028–29; minimum premiums vary from 12.5% to 14%, with additional return-period premiums. The tender does not commit DOE to award contracts. B-1/B-2 warn that earlier tenders have priority and throughput is not guaranteed. The cover letter and allocation table were inspected October 16; the table was visually checked.

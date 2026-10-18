@@ -35,3 +35,8 @@ This is a clarification of the statutory scope supporting J20-2026-012, not evid
 This is a distinct House request, not the [October 13 twelve-senator letter](Tmanch_CH7_Oct13_Intelligence_Diesel_Source_Note.md). It supplements [J20-2026-011, -012 and -015](J20-Pres.md) without adding an event or score. Congressional questions establish neither revocation, completed implementation, legal invalidity, executive response nor realized revenue effects. The official page supplies a reproduced text and named signers; this review did not independently authenticate signature images.
 
 **Analytical inference:** The requested reporting could make executive implementation and revenue-pressure claims more testable, potentially supporting Ukrainian/allied leverage. Compliance and outcomes remain unverified. Preserve the statutory exceptions and licensing/waiver distinctions above.
+
+
+## October 16 implementation follow-up
+
+[The subsequent presidential decision, J20-2026-025](Tmanch_CH7_Oct16_Graham_Waivers_Source_Note.md), is now documented separately. Read it alongside the original enactment finding and the October 15 House request; preserve the earlier review dates rather than treating their then-unresolved implementation status as current. The new note distinguishes statutory waiver and termination procedures and identifies the remaining evidentiary gaps.

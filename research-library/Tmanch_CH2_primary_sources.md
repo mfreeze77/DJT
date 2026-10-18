@@ -327,7 +327,8 @@ FBI Cody file, trial exhibits, subpoena records, apartment deed and closing file
 
 **Title:** *Ewe Distributors, Inc. v. Chu*, 629 F. Supp. 1527  
 **Court:** U.S. District Court for the Eastern District of New York  
-**Date:** February 26, 1986  
+**Date:** March 13, 1986  
+**Correction recorded October 17, 2026:** Earlier inventory gave February 26, 1986. The linked opinion's heading and decision date specify March 13; the earlier date is retained here as correction history.  
 **Type:** Federal judicial opinion  
 **Location:** https://law.justia.com/cases/federal/district-courts/FSupp/629/1527/1577748/
 
@@ -576,3 +577,188 @@ Context only; do not back-project later willfulness into 1990–91.
 13. IRS examination workpapers and CTRC schedules underlying the FinCEN penalty.
 14. Slušovice delegation and Trump-visit files.
 15. 1990 bank workout and liquidity documents.
+
+
+# October 17, 2026 historical funding supplement
+
+Full page citations, transaction classification and limitations: [Early-1980s funding source note](Tmanch_CH2_Early_1980s_Funding_Source_Note.md). Existing claim history remains intact; new companion claims are CH2-FIN-036–039, CH2-BOGATIN-040–042 and CH2-CODY-043.
+
+## CH2-P26 — Bogatin ACRIS property index chain
+
+**Source/date:** NYC Department of Finance; instruments recorded 1984–1990  
+**Type:** Official index/detail metadata, not inspected instrument images  
+**Location:** https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail?doc_id=FT_1970000078697
+
+**Supports:** Recorded deed, encumbrances, attorney authorization and lender assignment on block1292/lot1179.
+
+**Limits:** No actual advances, seller receipts, equity provenance, complete five-unit reconstruction or misconduct inference.
+
+## CH2-P27 — SMI tax decision
+
+**Source/date:** NY Tax Appeals Tribunal; February 27,1997; DTA 801735/801744/807078  
+**Type:** Official decision; trial testimony explicitly attributed  
+**Location:** https://www.dta.ny.gov/pdf/archive/decisions/801735.dec.pdf
+
+**Supports:** 1982–83 share acquisition and recounted in-kind consideration; pp3–5.
+
+**Limits:** No traced Trump payment or condo-funding link.
+
+## CH2-P28 — PX-632 organizational-document exhibit
+
+**Source/date:** NY Attorney General public exhibit; 2012 email package containing 1979–1989 instruments  
+**Type:** Publicly released executed contracts and closing recitals  
+**Location:** https://ag.ny.gov/document/px-00632-e-mail-s-hwang-subj-trump-tower-organizational-documentspdf
+
+**Supports:** 1980 JV mechanism; 1986 seller-note consideration and closing distributions.
+
+**Limits:** No complete 1980 Initial Costs schedule/draw ledger; note repayment absent; exhibit publication is not adjudication of every recital.
+
+## CH2-P29 — 1981 casino-license investigation
+
+**Source/date:** NJ Division of Gaming Enforcement; October 16,1981  
+**Type:** Contemporaneous government report, publicly reproduced scan  
+**Location:** https://www.washingtonpost.com/wp-stat/graphics/politics/trump-archive/docs/state-of-new-jersey-department-of-law-and-public-safety-division-of-gaming-enforcement-report-to-the-casino-control-commission-oct-16-1981.pdf
+
+**Supports:** Printed pp28/52: family receipts, working-capital balance and project borrowing.
+
+**Limits:** Not underlying bank statements; prevent refinancing and stock/flow double counting.
+
+## CH2-P30 — Manufacturers Hanover Trust Co. v. Hixon, 124 A.D.2d 488
+
+**Source/date:** New York Appellate Division; November 13,1986  
+**Type:** Judicial opinion; indexed reproduction  
+**Location:** https://openjurist.org/124/ad2d/488/manufacturers-hanover-trust-co-v-hixon
+
+**Supports:** January 4,1984 note/mortgage and default/procedural history.
+
+**Limits:** No principal amount, Cody funding link or closing disbursement.
+
+## CH2-P31 — DGE investigation case 92-107
+
+**Source/date:** NJ Division of Gaming Enforcement; June 24,1992  
+**Type:** Government investigation, publicly reproduced scan  
+**Location:** https://a.fastcompany.net/asset_files/-/2016/03/04/Trump1992MOB.pdf
+
+**Supports:** Pp23–25: Hixon litigation/settlement terms and primary qualifications of Cody claim.
+
+**Limits:** No verified settlement payment; agent assessment not final adjudication; further questioning recommended.
+
+## CH2-P26 follow-up — Original deed page and 1992 detail records
+
+The initial index-only review is preserved. Subsequent visual inspection of [FT_1440000335044 page 1](https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentImageView?doc_id=FT_1440000335044) establishes the deed's referee, Citibank case and $885,000 consideration recitals. Only page 1 was inspected; recording-date and middle-initial differences remain unresolved. Later index/detail records FT_1160000396416, FT_1770000400477 and FT_1360000400436 establish the Yasuda security/discharge and Immobiliare deed chain without cash-flow attribution. See the [dated source-note follow-up](Tmanch_CH2_Early_1980s_Funding_Source_Note.md#october-17-follow-up-original-foreclosure-page-and-later-recorded-chain).
+
+## CH2-P32 — Harbor Petroleum payment findings
+
+**Source/date:** NY Tax Appeals Tribunal; September 21, 1989; DTA 801569/801747/801746  
+**Type:** Official tribunal decision  
+**Location:** https://www.dta.ny.gov/pdf/archive/decisions/801569.dec.pdf
+
+**Supports:** Bogatin's Lesez role and tribunal-described payments for two July 1984 shipments; pp.3, 6–7, 11. The two invoices total $3,773,569.79.
+
+**Limits:** Not independently reconciled bank receipts or a Tower-funding bridge. Credit face amounts, intermediate payments and invoices overlap. September proposal expressly unconsummated, pp.12–13.
+
+## CH2-P33 — Union Chelsea contemporaneous bank affiliation
+
+**Source/date:** Federal Reserve memorandum to FOMC; January 31, 1984  
+**Type:** Official institutional table, PDF p.7  
+**Location:** https://www.federalreserve.gov/monetarypolicy/files/FOMC19840131Memo01.pdf
+
+**Supports:** Banco Union/Union Chelsea parent-subsidiary listing; assets of $188 million at June 30, 1983.
+
+**Limits:** No particular mortgage-money provenance, 1984 shareholder percentages, BCCI ownership or misconduct conclusion.
+
+## CH2-P34 — Historical NY corporate filing rows
+
+**Source:** NY Department of State, All Filings dataset 63wc-4exh  
+**Type:** Official filing metadata  
+**Locations:** [Elite/Luxury rows](https://data.ny.gov/resource/63wc-4exh.json?$where=corpid_num%20in(935032,935147)); [Encore rows](https://data.ny.gov/resource/63wc-4exh.json?corpid_num=935034)
+
+**Supports:** Formation/dissolution chronology for three named corporations; see source-note table.
+
+**Limits:** No signatories or beneficial owners; name matches do not conclusively identify deed entities.
+
+### CH2-P26 further detail follow-up
+
+Verified detail metadata now also covers the 2004 unit 53B deed (2004050501243002) and Encore's lot 1136 deed/mortgage (FT_1060000082306 / FT_1080000082308). Instrument images remained unavailable. Dates, amounts, party names and limits are set out in the source note; no additional cash-flow or ownership inference follows.
+
+### CH2-P26 representation-record follow-up
+
+Encore's detail record FT_1520000230152 and Bogatin's lot 1179 result-list entry at reel 1183/page 400 name Paul S. Sibener in separate powers of attorney. The source note preserves the different retrieval tiers; authority scope and ownership remain unverified.
+
+### CH2-P26 subsequent detail upgrades
+
+Bogatin POA FT_1520000175752 now independently verifies the formerly result-list-only reel 1183/page 400 entry. The dated source-note follow-up preserves that earlier limitation. Additional lot 1136 details establish the Encore/Urban Research conveyance, mortgage extension, Chase assignment, Gallery Urban assumption, explicit former-name entry and 1991 satisfaction. The satisfaction's retained Encore/Bank of China names remain unresolved against the intervening assignment; no payment or beneficial-owner inference is made.
+
+## CH2-P35 — Bally acquisition and repurchase funding
+
+**Source/date:** NJ DGE, April 7, 1987, pp.37–45  
+**Location:** https://www.washingtonpost.com/wp-stat/graphics/politics/trump-archive/docs/trump-plaza-renewal-dge-report-d-16-1987-04-20.pdf
+
+**Supports:** Mixed funding, preferred-financed repurchase, additional consideration and gross profit.
+
+**Limits:** Distribution provenance, bank reconciliation and share discrepancies unresolved; conditional put not verified paid.
+
+## CH2-P36 — Bally receipt testimony
+
+**Source/date:** NJ Casino Control Commission, April 20, 1987; printed p.134/PDF p.135  
+**Location:** https://www.washingtonpost.com/wp-stat/graphics/politics/trump-archive/docs/1987-04-20-trump-plaza-renewal-djt-transcript--.pdf
+
+**Supports:** Trump's confirmation of approximately $6.215 million additional receipt.
+
+**Limits:** Not bank-clearing documentation.
+
+## CH2-P37 — Bally ownership digests
+
+**Source/date:** SEC, November 28, 1986 and March 2, 1987  
+**Locations:** https://www.sec.gov/news/digest/1986/dig112886.pdf ; https://www.sec.gov/news/digest/1987/dig030287.pdf
+
+**Supports:** Reported holdings and changes.
+
+**Limits:** Event date differs from filing date; no payment evidence or resolution of all DGE share discrepancies.
+
+## CH2-P38 — Antitrust consent judgment
+
+**Source/date:** DOJ complaint April 5, 1988; judgment April 12, 1988  
+**Locations:** https://www.justice.gov/atr/case-document/325366 ; https://www.justice.gov/atr/case-document/file/969611/dl
+
+**Supports:** Correct chronology and ordered $750,000 penalty.
+
+**Limits:** Consent disposition without trial/admission; no payment receipt.
+
+### CH2-P32 / CH2-P27 clarification — Economic entitlement and bank-record limits
+
+The [dated source-note clarification](Tmanch_CH2_Early_1980s_Funding_Source_Note.md#october-17-clarification-broker-receipts-and-missing-bank-records) records the Harbor telex's Debbie Oil principal/broker language, contrary invoice issuer, unresolved routing-number discrepancy and non-additive letter-of-credit/wire arrangement. SMI's decision expressly reports missing subpoenaed bank records; its tax audit does not establish a property-funding transfer. Existing CH2-BOGATIN-041/046 and their source IDs remain unchanged. Related ALJ and tribunal reproductions belong to the same evidentiary chain, not independent receipts.
+
+# October 17 consolidated petroleum-finance package
+
+[Research narrative, chronology and typed companions](research/early_petroleum_financing_2026/README.md) adds CH2-FIN-056–060. Existing history and core financial totals remain unchanged.
+
+## CH2-P39 — M&Q operating payment and financing record
+
+**Source:** NY Tax Appeals Tribunal, May 22, 1997, DTA 810457; https://www.dta.ny.gov/pdf/archive/decisions/810457.2.dec.pdf
+
+**Limits:** Described bank exhibits not independently obtained; invoice mismatch and tax credits preserved. Full pinpoints and evidence rules are in the [package source inventory](research/early_petroleum_financing_2026/sources.md).
+
+## CH2-P40 — Restitution orders in congressional reporting
+
+**Source:** June 20, 1989 House hearing, printed p.125; https://www.ojp.gov/pdffiles1/Digitization/148382NCJRS.pdf
+
+**Limits:** Reported obligations, not collections; overlap with state commitments unresolved. Full pinpoints and evidence rules are in the [package source inventory](research/early_petroleum_financing_2026/sources.md).
+
+## CH2-P41 — Official Enterprise and Pan American merger crosswalk
+
+**Source:** NY DOS filing B262523-5, effective August 31, 1985; https://data.ny.gov/resource/63wc-4exh.json
+
+**Limits:** Registry merger established; identity of DTA factor and shareholder still unresolved. Full pinpoints and evidence rules are in the [package source inventory](research/early_petroleum_financing_2026/sources.md).
+
+## CH2-P42 — ICC division style on 1965 invoice
+
+**Source:** American Permac invoice in NY DEC archive, PDF p.146; https://extapps.dec.ny.gov/data/DecDocs/130063/Report.HW.130063.1997-03-25.FRI_Report_Appendices.pdf
+
+**Limits:** Contemporaneous division style, not a bridge to the 1983 payment or a new petroleum receipt. Full pinpoints and evidence rules are in the [package source inventory](research/early_petroleum_financing_2026/sources.md).
+
+## CH2-P43 — Diamond address and counsel context
+
+**Source:** NY Tax Appeals Tribunal, September 22, 1988, DTA 805249; https://www.dta.ny.gov/pdf/archive/decisions/805249.DEC.pdf
+
+**Limits:** Time-separated address/counsel evidence only; stricken ALJ finding 53 excluded. Full pinpoints and evidence rules are in the [package source inventory](research/early_petroleum_financing_2026/sources.md).

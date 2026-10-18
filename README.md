@@ -32,6 +32,8 @@ Chapter titles describe the existing research packages. Use the [detailed index]
 
 ## Focused research collections
 
+- [Supporting transcript research](research-library/supporting-research/transcripts/README.md) — source metadata, qualified summaries and exact video moments; full transcript intake stays in the private workbench.
+
 - [Russian capital, AML exposure, and influence](research-library/Tmanch_Russian_Capital_AML_Influence_Matrix.md) · [Financial methodology](research-library/Tmanch_Russian_Linked_Financial_Methodology.md)
 - [VEB / A7 / Trump Toronto evidence crosswalk](research-library/research/veb_a7_2026/README.md)
 - [Presidential rhetoric source archive](research-library/research/presidential_rhetoric_2026/README.md)

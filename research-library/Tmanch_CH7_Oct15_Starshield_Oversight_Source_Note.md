@@ -89,3 +89,19 @@ AP narrates his account that SpaceX repaired secondary outages after Ukraine com
 AP's early-Thursday onset conflicts with earlier Tuesday-night reporting. Preserve that discrepancy without inferring a second cutoff. His political interpretation identifies no decisionmaker or instruction.
 
 **Assessment:** Repair and cap removal are distinct conditions, potentially explaining differing restoration descriptions without establishing what Axios's earlier source observed. Matched terminal/service logs remain necessary; movement speed is not data throughput. Reduced defensive effectiveness can benefit Russia, but this account establishes neither personal direction, intent, coordination nor quantified losses. No event or score is added to **J20-2026-021**.
+
+## October 17 follow-up: reported European vehicle comparison
+
+[Ukrinform's October 17 report](https://www.ukrinform.net/rubric-ato/4175451-ukraine-loses-ability-to-use-starlink-to-shoot-down-jetpowered-shaheds-zelensky.html), labeled 16:18 (timezone unspecified), attributes to Zelenskyy a journalist-chat account that several Starlink-equipped vehicles sent to European countries remained connected at 180 km/h, whereas exceeding 161 km/h in Ukraine cut the connection. He linked the Ukrainian limit to impaired interception of jet-powered Shaheds and described ongoing negotiations. The full relevant indexed article passage was inspected October 17; this was not direct-page acquisition.
+
+This adds a named-official account of cross-location tests, not an independent technical audit. Test dates, locations, vehicle/terminal identities, accounts/service plans, configurations and telemetry were not supplied. The comparison does not establish matched conditions, prior mission planning, an instruction's author, motive or coordination with Russian attacks. The test passage calls the system Starlink; its contextual restoration reference to Starshield does not identify the tested service plan.
+
+This supplements **J20-2026-021** without adding an event or score. Earlier restoration discrepancies and the repair-versus-movement-cap distinction remain. Matched technical records are needed to assess the reported geographical difference; no new loss total or payment claim is established.
+
+## October 17 follow-up: Rubio's counteraccount (reviewed October 18)
+
+[AP](https://apnews.com/article/07e1dfc41bdad7b3292c6c263005fabc) reports Rubio denied a U.S.-ordered or deliberate Starlink slowdown and said Ukraine presently lacked Starshield access, having requested it for deep strikes inside Russia. These are attributed official assertions. [Axios](https://www.axios.com/2026/10/17/zelensky-starlink-elon-musk-trump) places his remarks on Saturday evening and identifies its story as updated with his comments. AP's initial October 17 story label does not date its Rubio passage; a precise utterance or update time is not established here. AP's relevant indexed text and Axios's page were inspected October 18. No original official transcript or complete recording was obtained in this review.
+
+The present-access assertion conflicts with the earlier named Ukrainian account and descriptions of military service retained above. Service names, products, terminal populations, contract scope and observation dates need reconciliation before treating the accounts as technically equivalent or selecting one as established. This additional denial follows Trump's October 16 denial already documented here; it is not the first U.S. rebuttal.
+
+These reports supply no matched terminal logs, configuration history or contractual access record. They do not independently establish universal restoration, identify an instruction's author, or resolve the geographical comparison. The accounts remain disputed; no finding of falsehood is made. Preserve them pending technical and documentary evidence. This supplements **J20-2026-021** without adding an event, score, loss total or payment claim.
