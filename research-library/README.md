@@ -134,7 +134,7 @@ The Chapter 7 expansion covers January 20, 2025 through August 31, 2026. It reco
 ### Main research package
 
 - [Main Chapter 7](Tmanch_CH7.md)
-- [TMTG–TAE financing and contract reconciliation (October 19)](Tmanch_CH7_Oct19_TAE_Financing_Source_Note.md) — corporate funding, voting formula and unresolved disclosure differences; non-additive observations with no national-benefit attribution.
+- [TMTG–TAE financing and contract reconciliation (October 19)](Tmanch_CH7_Oct19_TAE_Financing_Source_Note.md) — corporate funding, voting formula, UKAEA equity and unresolved disclosure differences; non-additive observations and conditional allied-industrial mechanisms, with net national benefits unverified.
 - [Supporting research](Tmanch_CH7_support.md)
 - [Claim ledger](Tmanch_CH7_claim_ledger.csv)
 - [Pre-value/post-benefit payoff ledger](Tmanch_CH7_payoff_ledger.csv)
