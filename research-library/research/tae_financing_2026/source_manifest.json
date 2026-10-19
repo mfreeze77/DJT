@@ -1,0 +1,196 @@
+{
+  "prepared_utc": "2026-10-19",
+  "scope": "Corporate financing observations and unresolved disclosure differences; no legal resolution, personal-receipt or national-benefit finding.",
+  "baseline": {
+    "repository": "mfreeze77/DJT",
+    "commit": "dbf38944e035ce598d036ed03c97dea755ab77aa",
+    "completed_watch_pr": 54,
+    "separate_drafts": [
+      52,
+      53
+    ]
+  },
+  "preservation_notice": "Artifact hashes identify retained source HTML/JSON or returned web output as individually labeled. No PDF/page-image inspection is claimed. Full source material remains outside this addition. Related issuer filings are not independent bank confirmations.",
+  "transaction_schema_reference": "research-library/research/early_petroleum_financing_2026/transactions.csv",
+  "counting_rules": [
+    "All five rows excluded from historical receipt totals.",
+    "TAE-T01 and TAE-T02 describe the same advance.",
+    "Capacity, accrued unpaid interest and compensation are different categories; no grand total.",
+    "A reported bonus does not identify the bank source of the payment."
+  ],
+  "sources": [
+    {
+      "source_id": "TAE-S01",
+      "title": "Original signed unsecured note",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000114036125046056/ef20061577_ex10-1.htm",
+      "document_date": "2025-12-18",
+      "source_family": "issuer_filing_hosted_by_SEC",
+      "locator": "Preamble; sections 1(b), 2, 3(a)-(e); signature blocks",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "preserved_SEC_HTML",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "original-note.html",
+          "artifact_type": "preserved_SEC_HTML",
+          "bytes": 127590,
+          "sha256": "69f65eaa82b6ae920f09c1581f1b88f1a236b027ca78170f13d2b73217ded46a",
+          "hash_scope": "Exact retained local artifact only; not uploaded with this addition."
+        }
+      ],
+      "source_quality": "Retained SEC HTML independently inspected; filesystem modification time is not asserted as retrieval time."
+    },
+    {
+      "source_id": "TAE-S02",
+      "title": "Amended and restated signed unsecured note",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000143774926031535/ex_1020868.htm",
+      "document_date": "2026-09-30",
+      "source_family": "issuer_filing_hosted_by_SEC",
+      "locator": "Preamble; sections 1(b), 2, 3(a), 3(c), 3(i); signature blocks",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "preserved_SEC_HTML",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "tae-amended-note.html",
+          "artifact_type": "preserved_SEC_HTML",
+          "bytes": 94205,
+          "sha256": "389d1d037fdb4f1f3ec0a46db4875a524b8c028e2de30a9aed5b1d3571a1c1f1",
+          "hash_scope": "Exact retained local artifact only; not uploaded with this addition."
+        }
+      ],
+      "source_quality": "Retained SEC HTML independently inspected; filesystem modification time is not asserted as retrieval time."
+    },
+    {
+      "source_id": "TAE-S03",
+      "title": "TMTG September financing Form 8-K",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000143774926031535/djt20260930_8k.htm",
+      "document_date": "2026-09-30",
+      "source_family": "issuer_filing_hosted_by_SEC",
+      "locator": "Item 1.01",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "returned_web_tool_result_not_HTML",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "sept30-8k-web-result.json",
+          "artifact_type": "returned_web_tool_result_not_HTML",
+          "bytes": 17651,
+          "sha256": "a1f6608f4300c3c54f2b5f8f03823185d8db895948f351d7e3062b688698bbcc",
+          "hash_scope": "Exact retained local artifact only; not uploaded with this addition."
+        }
+      ],
+      "source_quality": "Official web-rendered text inspected; preserved artifact is the returned tool result, not original HTML bytes."
+    },
+    {
+      "source_id": "TAE-S04",
+      "title": "TMTG Form S-4 including TAE financial statements",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000143774926031534/djt20260922_s4.htm",
+      "document_date": "2026-09-30",
+      "source_family": "issuer_filing_hosted_by_SEC",
+      "locator": "Printed pp.119, 133, 140, 143, 150-151, 235-236; audited Note 9 pp.F-15-F-16",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "preserved_SEC_HTML",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "tmtg-tae-s4.html",
+          "artifact_type": "preserved_SEC_HTML",
+          "bytes": 8933727,
+          "sha256": "0b035272d1b0ac9dccf086b5bae448e1083afcacd795df8e3d0e18452bc4b2e8",
+          "hash_scope": "Exact retained local artifact only; not uploaded with this addition."
+        }
+      ],
+      "source_quality": "Complete retained SEC HTML and extracted text independently checked; printed page labels checked in HTML. No PDF or page-image claim."
+    },
+    {
+      "source_id": "TAE-S05",
+      "title": "TMTG 2025 Form 10-K",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000114036126007174/ef20062365_10k.htm",
+      "document_date": null,
+      "source_family": "issuer_filing_hosted_by_SEC",
+      "locator": "Consolidated Statements of Cash Flows; year ended December 31, 2025; amounts in thousands",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "preserved_SEC_HTML",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "tmtg-2025-10k.html",
+          "artifact_type": "preserved_SEC_HTML",
+          "bytes": 2651064,
+          "sha256": "9c1e1c386fb1c6755eb5defc4f5422c55b0a16dcfdabffa14c4ce798f36a5320",
+          "hash_scope": "Exact retained local artifact only; not uploaded with this addition."
+        }
+      ],
+      "source_quality": "Retained SEC HTML independently inspected; filesystem modification time is not asserted as retrieval time."
+    },
+    {
+      "source_id": "TAE-S06",
+      "title": "Signed merger agreement",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000114036125046056/ef20061577_ex2-1.htm",
+      "document_date": "2025-12-18",
+      "source_family": "issuer_filing_hosted_by_SEC",
+      "locator": "Sections 7.1-7.3; 8.1(b)(i)",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "official_web_text_inspected",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [],
+      "source_quality": "Official web-rendered text independently inspected; no full-file preservation hash is claimed."
+    },
+    {
+      "source_id": "TAE-S07",
+      "title": "TMTG delaying amendment",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000143774926031872/djt20261002_delam.htm",
+      "document_date": "2026-10-02",
+      "source_family": "issuer_filing_hosted_by_SEC",
+      "locator": "Rule 473 amendment letter",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "official_web_text_inspected",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [],
+      "source_quality": "Official web-rendered text independently inspected; no full-file preservation hash is claimed."
+    },
+    {
+      "source_id": "TAE-S08",
+      "title": "SEC issuer submissions index",
+      "source_url": "https://data.sec.gov/submissions/CIK0001849635.json",
+      "document_date": null,
+      "source_family": "SEC_filing_index",
+      "locator": "filings.recent; inspected October 19, 2026",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "preserved_SEC_JSON",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "tmtg-submissions-refreshed.json",
+          "artifact_type": "preserved_SEC_JSON",
+          "bytes": 115284,
+          "sha256": "d8334dda7483267cad64225857f173c110400d5f200e5cfb672ac7e800d38566",
+          "hash_scope": "Exact retained local artifact only; not uploaded with this addition."
+        }
+      ],
+      "source_quality": "Dated index snapshot; later or unfiled events are not excluded."
+    },
+    {
+      "source_id": "TAE-S09",
+      "title": "TMTG original merger Form 8-K",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000114036125046056/ef20061577_8k.htm",
+      "document_date": "2025-12-18",
+      "source_family": "issuer_filing_hosted_by_SEC",
+      "locator": "Item 1.01",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "preserved_SEC_HTML",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "original-8k.html",
+          "artifact_type": "preserved_SEC_HTML",
+          "bytes": 77214,
+          "sha256": "23f84b6aee3a0d48a055966931482ee06759ee5bf28571e8c872d9f35016bc3b",
+          "hash_scope": "Exact retained local artifact only; not uploaded with this addition."
+        }
+      ],
+      "source_quality": "Retained SEC HTML independently inspected; filesystem modification time is not asserted as retrieval time."
+    }
+  ]
+}
