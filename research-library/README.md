@@ -153,6 +153,7 @@ The Chapter 7 expansion covers January 20, 2025 through August 31, 2026. It reco
 - [Russian official, state-media, Telegram, and forum reaction chronology](Tmanch_CH7_J20_russian_commentary.md)
 - [OFAC license-by-license matrix](Tmanch_CH7_OFAC_license_matrix.csv)
 - [Lukoil divestment primary-record status (October 18)](Tmanch_CH7_Oct18_Lukoil_Divestment_Source_Note.md) — conditional agreement, preliminary accounts, separate licensing stages and entity distinctions; no closing or proceeds assumed.
+- [ALT5/WLF disclosed financing and governance (October 19)](Tmanch_CH7_Oct19_ALT5_WLF_Source_Note.md) — reported loan funding, collateral quantities, implemented board roles and a separate Concrete arrangement; no personal receipts or Russian-financial totals inferred.
 
 The rapid ledger is retained as investigative evidence discovery. Every material event is promoted, qualified, merged as a duplicate, retained as an unresolved lead, or corrected with an explanation. Nothing is silently discarded.
 
