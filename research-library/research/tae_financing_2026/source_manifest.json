@@ -1,6 +1,6 @@
 {
   "prepared_utc": "2026-10-19",
-  "scope": "Corporate financing, cash-pool bridge, UK public-body JV equity and unresolved disclosure differences; no transaction-level capital-origin trace, legal resolution, personal-receipt or demonstrated net-national-benefit finding.",
+  "scope": "Corporate financing, historical security-allocation identities, cash-pool bridge, UK public-body JV equity and unresolved disclosure differences; no investor-wire or subscriber-to-TAE trace, current ownership, legal resolution, personal-receipt or demonstrated net-national-benefit finding.",
   "baseline": {
     "repository": "mfreeze77/DJT",
     "commit": "dbf38944e035ce598d036ed03c97dea755ab77aa",
@@ -12,7 +12,9 @@
     ],
     "extension_parent": "7e0c032cc9f5efcae7b5155def95272e070f47c1",
     "source_of_funds_parent": "cda1ca31c7a90c28404364aed26ac4359709416b",
-    "completed_financing_pr": 55
+    "completed_financing_pr": 55,
+    "counterparty_crosswalk_parent": "8c3bfe0b34a8ccf59b8c63b63d135017d9c49cd5",
+    "completed_cash_bridge_pr": 57
   },
   "preservation_notice": "Artifact hashes identify exact retained source HTML/JSON, official PDFs, local PDF renders or returned web output as individually labeled. PDF visual verification is limited to listed selected pages; SEC S-4 printed labels were inspected in HTML, not PDF images. Full sources remain outside this addition. Accounting and filing records are not independent bank confirmations.",
   "transaction_schema_reference": "research-library/research/early_petroleum_financing_2026/transactions.csv",
@@ -28,7 +30,13 @@
     "TAE-T14 asset sales overlap TAE-T11 investing net flow; TAE-T01 is already the advance; no settlement/date/account matching.",
     "TAE-T18 is TAE-T15 plus TAE-T16 minus TAE-T17; gross equity, note face, fee offsets and net package overlap.",
     "Unexplained100USD difference in Q3 cash offering costs is retained mechanically in annual-minus-nine-month arithmetic, not classified as fresh proceeds.",
-    "TAE-T19 is cash paid by TMTG for CRO; share and crypto consideration are not incoming cash."
+    "TAE-T19 is cash paid by TMTG for CRO; share and crypto consideration are not incoming cash.",
+    "The 75-row counterparty crosswalk has 74 named underlying entries and one unnamed aggregate; all are excluded from historical receipt totals and are not added to transactions.csv.",
+    "Fort Baker reporting row is split into two named funds without retaining an additive manager row; One Fin table adviser and underlying fund are separate fields.",
+    "55,857,181 PIPE shares and 27,514,652 named note-conversion shares are footnote-disclosed; unnamed 1,285,348-share note classification is an arithmetic inference, with instrument-specific disclosed fields blank.",
+    "Investor dollar fields are calculated contractual consideration or note face-equivalents, not bank payments or allocations of net cash; underlying fund capital origin and current holdings are unresolved.",
+    "Annual dollar amounts are displayed in thousands to one decimal ($100 precision); sub-$100 calculated residuals are not settlement discrepancy evidence.",
+    "Reported manager/control relationships do not establish ownership of underlying fund capital; note consent is not common-stock voting or board control."
   ],
   "sources": [
     {
@@ -496,6 +504,223 @@
         }
       ],
       "source_quality": "Retained full SEC HTML and text/cells inspected; no original PDF or page-image verification. Issuer disclosures do not identify transaction-level bank origins. Signed schedule and annual report corroborate outgoing cash direction; annual business summary date differs by one day from agreement and annual Note 13."
+    },
+    {
+      "source_id": "TAE-S23",
+      "title": "June5 S-3",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000114036125021579/ny20050075x1_s3.htm",
+      "document_date": "2025-06-05",
+      "source_family": "issuer_or_securityholder_filing_hosted_by_SEC",
+      "locator": "SellingSecurityholders pp53–60, fn1–74",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "preserved_SEC_HTML",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "reg-20250605.html",
+          "artifact_type": "preserved_SEC_HTML",
+          "bytes": 998685,
+          "sha256": "dd18cbed58c856dd05801273e52eae9b907a25da32905ae431e6d93ed64b6a71",
+          "hash_scope": "Exact retained local artifact only; not uploaded with this addition."
+        }
+      ],
+      "source_quality": "Retained full source inspected as text and tables; no PDF/page-image claim."
+    },
+    {
+      "source_id": "TAE-S24",
+      "title": "June13 424B3 final prospectus",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000114036125022485/ny20050075x2_424b3.htm",
+      "document_date": "2025-06-13",
+      "source_family": "issuer_or_securityholder_filing_hosted_by_SEC",
+      "locator": "SellingSecurityholders pp53–60 fn1–74; VotingRights p27; transfer agent",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "preserved_SEC_HTML",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "reg-20250613.html",
+          "artifact_type": "preserved_SEC_HTML",
+          "bytes": 885683,
+          "sha256": "13705bc811c47091378e044674cac70641295900a7257998b80797de02328565",
+          "hash_scope": "Exact retained local artifact only; not uploaded with this addition."
+        }
+      ],
+      "source_quality": "Retained full source inspected as text and tables; no PDF/page-image claim."
+    },
+    {
+      "source_id": "TAE-S25",
+      "title": "May27 financing 8-K",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000114036125020420/ef20049689_8k.htm",
+      "document_date": "2025-05-27",
+      "source_family": "issuer_or_securityholder_filing_hosted_by_SEC",
+      "locator": "Item9.01 omission/redaction footnotes",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "preserved_SEC_HTML",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "announcing-20250527.html",
+          "artifact_type": "preserved_SEC_HTML",
+          "bytes": 62709,
+          "sha256": "cb94a78cb08e5df7e0aeeff1aa65ba57b19dbe92059b7dc1146b2b3b0820d484",
+          "hash_scope": "Exact retained local artifact only; not uploaded with this addition."
+        }
+      ],
+      "source_quality": "Retained full source inspected as text and tables; no PDF/page-image claim."
+    },
+    {
+      "source_id": "TAE-S26",
+      "title": "May30 closing press release, SEC exhibit99.1",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000114036125020967/ef20049966_ex99-1.htm",
+      "document_date": "2025-05-30",
+      "source_family": "issuer_or_securityholder_filing_hosted_by_SEC",
+      "locator": "placement agents/adviser/custody paragraph",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "preserved_SEC_HTML",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "closing-release-20250530.html",
+          "artifact_type": "preserved_SEC_HTML",
+          "bytes": 10612,
+          "sha256": "63d5d50f0b31b9649f0b0e16da31b641d2b06e602c62cccef6c97016119cbec1",
+          "hash_scope": "Exact retained local artifact only; not uploaded with this addition."
+        }
+      ],
+      "source_quality": "Retained full source inspected as text and tables; no PDF/page-image claim."
+    },
+    {
+      "source_id": "TAE-S27",
+      "title": "July3 2024 SEPA",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000114036124032410/ny20031506x2_ex10-3.htm",
+      "document_date": "2024-07-03",
+      "source_family": "issuer_or_securityholder_filing_hosted_by_SEC",
+      "locator": "preamble; §5.1; signatures",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "preserved_SEC_HTML",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "sepa-2024.html",
+          "artifact_type": "preserved_SEC_HTML",
+          "bytes": 224777,
+          "sha256": "2d5c3c0c5e109fe0bbdea617116650456a4cf03ccf1d9fd974b4385b5ab64de8",
+          "hash_scope": "Exact retained local artifact only; not uploaded with this addition."
+        }
+      ],
+      "source_quality": "Retained full source inspected as text and tables; no PDF/page-image claim."
+    },
+    {
+      "source_id": "TAE-S28",
+      "title": "Jane Street June5 Schedule13G",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000159588825000101/xslSCHEDULE_13G_X01/primary_doc.xml",
+      "document_date": "2025-06-05",
+      "source_family": "issuer_or_securityholder_filing_hosted_by_SEC",
+      "locator": "May29 event; cover sheets; Items4/7/10",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "preserved_SEC_XML",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "jane-street-20250605.xml",
+          "artifact_type": "preserved_SEC_XML",
+          "bytes": 9812,
+          "sha256": "f139be30965f0d4ab6fee1b5c194cab4c51b0a1b1cbeec5c433b5e1f3e1b4f7c",
+          "hash_scope": "Exact retained local artifact only; not uploaded with this addition."
+        }
+      ],
+      "source_quality": "Raw SEC primary_doc.xml retained; cited URL is the SEC styled display for the same accession. Ownership event date is distinct from filing date."
+    },
+    {
+      "source_id": "TAE-S29",
+      "title": "Jane Street August14 Schedule13G/A1",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1595888/000159588825000115/xslSCHEDULE_13G_X01/primary_doc.xml",
+      "document_date": "2025-08-14",
+      "source_family": "issuer_or_securityholder_filing_hosted_by_SEC",
+      "locator": "June30 event; cover sheets; Items4/7/10",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "preserved_SEC_XML",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "jane-street-20250814.xml",
+          "artifact_type": "preserved_SEC_XML",
+          "bytes": 8637,
+          "sha256": "df96f7d08dec8928c1f05e8eb012e12767972d650e03ba4122ca8a0946dc34f1",
+          "hash_scope": "Exact retained local artifact only; not uploaded with this addition."
+        }
+      ],
+      "source_quality": "Raw SEC primary_doc.xml retained; cited URL is the SEC styled display for the same accession. Ownership event date is distinct from filing date."
+    },
+    {
+      "source_id": "TAE-S30",
+      "title": "Jane Street November13 Schedule13G/A2",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000159588825000144/xslSCHEDULE_13G_X01/primary_doc.xml",
+      "document_date": "2025-11-13",
+      "source_family": "issuer_or_securityholder_filing_hosted_by_SEC",
+      "locator": "September30 event; cover sheets; Items4/5/7/10",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "preserved_SEC_styled_HTML",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "jane-street-20251113.xml",
+          "artifact_type": "preserved_SEC_styled_HTML",
+          "bytes": 38990,
+          "sha256": "cfc213d895abc444a4e72fccbb8d26950b438b321b5cdec8b867bde04d0e0ee0",
+          "hash_scope": "Exact retained local artifact only; not uploaded with this addition."
+        }
+      ],
+      "source_quality": "SEC styled HTML retained under .xml filename; ownership event date is distinct from filing date. No PDF/page-image claim."
+    },
+    {
+      "source_id": "TAE-S31",
+      "title": "June10 staff no-review letter",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000000000025006116/filename1.pdf",
+      "document_date": "2025-06-10",
+      "source_family": "SEC_staff_correspondence",
+      "locator": "p1",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "preserved_SEC_PDF",
+      "page_images_visually_verified": true,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "sec-comment-20250610.pdf",
+          "artifact_type": "preserved_SEC_PDF",
+          "bytes": 27731,
+          "sha256": "d57e99f665176c25274cd8cae3903f54ca1cf12b60a85770fe20ef4cbeef445a",
+          "hash_scope": "Exact retained local artifact only; not uploaded with this addition."
+        },
+        {
+          "artifact_name": "sec-comment-20250610.png",
+          "bytes": 115225,
+          "sha256": "ad3934493fc923e2a9551c78dc0c534b150ba53349b79ebf6deb11843733cb2d",
+          "artifact_type": "local_render_of_preserved_SEC_PDF_page_1",
+          "hash_scope": "Exact retained local render only; not uploaded."
+        }
+      ],
+      "source_quality": "Official one-page PDF and its local render independently inspected. Staff non-review is not substantive investor validation."
+    },
+    {
+      "source_id": "TAE-S32",
+      "title": "June13 effectiveness record",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/999999999525001931/xslEFFECTX01/primary_doc.xml",
+      "document_date": "2025-06-13",
+      "source_family": "SEC_effectiveness_record",
+      "locator": "file333-287813",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "preserved_SEC_styled_HTML",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "effect-20250613.xml",
+          "artifact_type": "preserved_SEC_styled_HTML",
+          "bytes": 2564,
+          "sha256": "72809caac14217254a315541be86e5ab6fc94c134d0f683479a5f200efead908",
+          "hash_scope": "Exact retained local artifact only; not uploaded with this addition."
+        }
+      ],
+      "source_quality": "SEC styled HTML retained under .xml filename; official effectiveness record does not validate investors or source of funds."
     }
   ],
   "revision_history": [
@@ -508,6 +733,11 @@
       "date": "2026-10-19",
       "change": "Added sources-and-uses bridge after PR55 merge; original eight observations preserved; no matched asset-sale-to-advance route or new historical total.",
       "base_head": "cda1ca31c7a90c28404364aed26ac4359709416b"
+    },
+    {
+      "date": "2026-10-19",
+      "change": "Added independently checked historical May 2025 allocation crosswalk and source/role/consent context after PR57; nineteen existing transaction rows unchanged. No subscriber-to-TAE attribution.",
+      "base_head": "8c3bfe0b34a8ccf59b8c63b63d135017d9c49cd5"
     }
   ],
   "derived_calculations": {
@@ -536,6 +766,45 @@
       "Annual/nine-month/component/net measures overlap; no grand total.",
       "Cash balances include restricted cash; no bank-account availability or tracing.",
       "May net is FY cash-flow reconstruction of the package, not closing-day balance."
+    ]
+  },
+  "counterparty_crosswalk": {
+    "path": "research-library/research/tae_financing_2026/counterparty_crosswalk.csv",
+    "schema": "75 data rows; 21 columns; names and integer share counts are historical filing observations; calculated USD fields are decimal strings rounded to cents",
+    "record_id_prefix": "TAE-CP",
+    "source_ids": [
+      "TAE-S24",
+      "TAE-S18",
+      "TAE-S21"
+    ],
+    "disclosure_date": "2025-06-13",
+    "comparison_source": "TAE-S23",
+    "named_reporting_rows": 73,
+    "named_underlying_entries": 74,
+    "unnamed_aggregate_entries": 1,
+    "pipe_shares_disclosed": 55857181,
+    "note_conversion_shares_disclosed_named": 27514652,
+    "note_conversion_total_registered": 28800000,
+    "unnamed_registered_shares": 1285348,
+    "registered_share_total": 84657181,
+    "outside_financing_shares": 2689774,
+    "pre_offering_beneficial_share_total": 87346955,
+    "equity_calculation": "PIPE shares * 25.72 USD; contractual consideration, not investor cash payment",
+    "note_calculation": "conversion shares / 28.8 * 1000 USD; initial face-equivalent, not confirmed subscription denomination or cash payment",
+    "rounding": "ROUND_HALF_UP to cents for row calculations; no additive investor-payment total",
+    "unnamed_classification": "28,800,000 - 27,514,652 = 1,285,348 is arithmetic inference only; instrument-specific disclosed cells remain blank",
+    "yorkville_bridge_usd": {
+      "reported_proceeds": "208671600",
+      "fee_offset": "41328400",
+      "sum": "250000000",
+      "calculated_share_consideration": "249999994.64",
+      "calculated_minus_reported_residual": "-5.36",
+      "precision_limit": "Annual values displayed to 0.1 thousand USD; difference is below source precision and establishes no settlement discrepancy"
+    },
+    "limits": [
+      "Registration allocation is not current ownership or proof of an original note subscriber.",
+      "No manager, custodian, adviser, affiliate or parent is substituted for the named purchaser or traced bank payer.",
+      "No historical totals, scores or existing transaction rows changed."
     ]
   }
 }
