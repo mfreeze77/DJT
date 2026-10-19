@@ -1,5 +1,5 @@
 {
-  "scope": "ALT5/WLF financing and governance; primary-source metadata, not independent verification of the filing assertions",
+  "scope": "ALT5/WLF financing and governance; primary-source metadata, not independent verification of the filing assertions; October 19 MOG investor-side follow-up retains inferred fund-identity joins and non-additive accounting observations",
   "prepared_utc": "2026-10-19",
   "sources": [
     {
@@ -183,6 +183,128 @@
       "sha256": "1b5370d41f3e853700b2eab44584d30e030c02f605f9066d3d497d06f2c6d1e0",
       "extracted_text_sha256": "034a8c3697cd549109dd628a9296d1b79b55feae4e310b2b63879f5dd7f3a96c",
       "preservation": "Metadata only; full original and extracted text are not included in this repository addition."
+    },
+    {
+      "source_id": "ALT5-S015",
+      "title": "MOG voluntary announcement: Subscription of Interests in WLFI Fund",
+      "filing_date": "2025-08-25",
+      "source_url": "https://www.hkexnews.hk/listedco/listconews/sehk/2025/0825/2025082500095.pdf",
+      "locator": "Printed/PDF pp1\u20133: investment; background disclaimer; illustrative FX; p1 visually inspected",
+      "source_family": "mog_investor_issuer",
+      "retrieved_utc": "2026-10-19T17:37:59.882282+00:00",
+      "retrieval_time_basis": "Local completed-download filesystem timestamp in UTC",
+      "bytes": 47044,
+      "sha256": "9e8c1654bb2706b92b0904500bcbcb99bc6dcd22964920c2f5711df40a7a4f86",
+      "extracted_text_sha256": "50754b22463b1f9a2a32466b8e82c9f09c1c146dfcc095a3b893bf2e8455c5ff",
+      "preservation": "Original PDF, pdftotext layout extraction and selected page render retained locally; metadata only committed. Relevant rendered page visually inspected.",
+      "retained_artifacts": [
+        {
+          "artifact": "mog-2025-0825-announcement.pdf",
+          "bytes": 47044,
+          "sha256": "9e8c1654bb2706b92b0904500bcbcb99bc6dcd22964920c2f5711df40a7a4f86"
+        },
+        {
+          "artifact": "mog-2025-0825-announcement.txt",
+          "bytes": 6587,
+          "sha256": "50754b22463b1f9a2a32466b8e82c9f09c1c146dfcc095a3b893bf2e8455c5ff"
+        },
+        {
+          "artifact": "mog-announcement-p1.png",
+          "bytes": 426899,
+          "sha256": "78902efaeca2d5c454580ee7b633e1027bcd7617f90a6a97916ac6e9265acde7"
+        }
+      ],
+      "limitations": "Investor-side company report; ALT5/WLFI background expressly based on their press releases and not independently verified by MOG; no executed settlement evidence."
+    },
+    {
+      "source_id": "ALT5-S016",
+      "title": "MOG Interim Report 2025",
+      "filing_date": "2025-09-17",
+      "source_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0917/2025091700316.pdf",
+      "locator": "Printed p46 / physical PDF p47 Note21(E), visually inspected; subsequent event after June30 reporting period",
+      "source_family": "mog_investor_issuer",
+      "retrieved_utc": "2026-10-19T17:38:37.305845+00:00",
+      "retrieval_time_basis": "Local completed-download filesystem timestamp in UTC",
+      "bytes": 1359442,
+      "sha256": "25657f74d4bdb64849c3aefa09cc48b8922ed5d19090cb14e7e2126d79a9a01b",
+      "extracted_text_sha256": "ac073e0523f6097b9dcbdbc85aedd05c6467251bf53412a57e64ebd0fe75e771",
+      "preservation": "Original PDF, pdftotext layout extraction and selected page render retained locally; metadata only committed. Relevant rendered page visually inspected.",
+      "retained_artifacts": [
+        {
+          "artifact": "mog-2025-interim-report.pdf",
+          "bytes": 1359442,
+          "sha256": "25657f74d4bdb64849c3aefa09cc48b8922ed5d19090cb14e7e2126d79a9a01b"
+        },
+        {
+          "artifact": "mog-2025-interim-report.txt",
+          "bytes": 134173,
+          "sha256": "ac073e0523f6097b9dcbdbc85aedd05c6467251bf53412a57e64ebd0fe75e771"
+        },
+        {
+          "artifact": "mog-interim-note21.png",
+          "bytes": 388153,
+          "sha256": "f18fcb5c17cf1fbe6fccb8a8d09bb1dcdc2561b892250b77fe76364e6bed86cb"
+        }
+      ],
+      "limitations": "Unaudited interim report; repeated subscription is not additional capital or June30 holding. Publication date is HKEX document date; management discussion dated August29. Distinct from August29 interim-results announcement Note18(E)."
+    },
+    {
+      "source_id": "ALT5-S017",
+      "title": "MOG Annual Report 2025",
+      "filing_date": "2026-04-24",
+      "source_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0424/2026042403586.pdf",
+      "locator": "Printed p183 / physical PDF p184 Note26(d), visually inspected; year ended December31,2025",
+      "source_family": "mog_investor_issuer",
+      "retrieved_utc": "2026-10-19T17:35:21.220170+00:00",
+      "retrieval_time_basis": "Local completed-download filesystem timestamp in UTC",
+      "bytes": 5610208,
+      "sha256": "928ce378fb335cb563fef451dae5e98f760b144cd9bd1579a59cfedeb5d1bfbf",
+      "extracted_text_sha256": "fcc51165e4a7ebcc5dcec69e9f040e920e984f122da5f94c02f55dd4ef4a5b42",
+      "preservation": "Original PDF, pdftotext layout extraction and selected page render retained locally; metadata only committed. Relevant rendered page visually inspected.",
+      "retained_artifacts": [
+        {
+          "artifact": "mog-2025-annual.pdf",
+          "bytes": 5610208,
+          "sha256": "928ce378fb335cb563fef451dae5e98f760b144cd9bd1579a59cfedeb5d1bfbf"
+        },
+        {
+          "artifact": "mog-2025-annual.txt",
+          "bytes": 532977,
+          "sha256": "fcc51165e4a7ebcc5dcec69e9f040e920e984f122da5f94c02f55dd4ef4a5b42"
+        },
+        {
+          "artifact": "mog-annual-note26.png",
+          "bytes": 316413,
+          "sha256": "e98cc0e67959e81082d401b5620db5651c57c66174321925f252d73dca72d256"
+        }
+      ],
+      "limitations": "Annual-to-ALT5 fund match inferred; no explicit August reference or executed subscription identifier. Full disposal concerns Group investment. Mixed FVTPL table cannot establish SV-specific disposal proceeds."
+    },
+    {
+      "source_id": "ALT5-S018",
+      "title": "Delaware Division of Corporations: SV WORLD LIBERTY FINANCIAL, LLC",
+      "filing_date": null,
+      "source_url": "https://icis.corp.delaware.gov/eCorp/EntitySearch/NameSearch.aspx",
+      "locator": "Stateful Entity Details; search file 10255889 or exact name; no stable entity-specific URL",
+      "source_family": "official_corporate_registry",
+      "retrieved_utc": "2026-10-19T17:39:04Z",
+      "bytes": null,
+      "sha256": null,
+      "extracted_text_sha256": "eb7ad9bfc213a38a562ec8ccb5c511a85ce8b1a493e7e6190158ee946e69a83e",
+      "preservation": "Official displayed record independently inspected in cloud browser; exact returned accessibility text and displayed JPEG screenshot retained locally. No original HTML download, certified record or paid status document obtained. sha256 null avoids presenting browser captures as original page bytes.",
+      "retained_artifacts": [
+        {
+          "artifact": "delaware-registry-20261019-1739-ax.txt",
+          "bytes": 6544,
+          "sha256": "eb7ad9bfc213a38a562ec8ccb5c511a85ce8b1a493e7e6190158ee946e69a83e"
+        },
+        {
+          "artifact": "delaware-registry-20261019-1739.jpg",
+          "bytes": 115163,
+          "sha256": "6b0a7fb2a83d2c561a82541f2b9b3368e9d799df4b7466d1fe15c089cbc7960d"
+        }
+      ],
+      "limitations": "Not good-standing evidence. Exact-name candidate lacks MOG identifier/address bridge. Apex is registered agent only; manager, administrator, members and beneficial owners unestablished."
     }
   ]
 }
