@@ -1,6 +1,6 @@
 {
   "prepared_utc": "2026-10-19",
-  "scope": "Corporate financing and UK public-body JV equity observations, unresolved disclosure differences and conditional allied-industrial mechanisms; no legal resolution, personal-receipt or demonstrated net-national-benefit finding.",
+  "scope": "Corporate financing, cash-pool bridge, UK public-body JV equity and unresolved disclosure differences; no transaction-level capital-origin trace, legal resolution, personal-receipt or demonstrated net-national-benefit finding.",
   "baseline": {
     "repository": "mfreeze77/DJT",
     "commit": "dbf38944e035ce598d036ed03c97dea755ab77aa",
@@ -10,18 +10,25 @@
       53,
       56
     ],
-    "extension_parent": "7e0c032cc9f5efcae7b5155def95272e070f47c1"
+    "extension_parent": "7e0c032cc9f5efcae7b5155def95272e070f47c1",
+    "source_of_funds_parent": "cda1ca31c7a90c28404364aed26ac4359709416b",
+    "completed_financing_pr": 55
   },
   "preservation_notice": "Artifact hashes identify exact retained source HTML/JSON, official PDFs, local PDF renders or returned web output as individually labeled. PDF visual verification is limited to listed selected pages; SEC S-4 printed labels were inspected in HTML, not PDF images. Full sources remain outside this addition. Accounting and filing records are not independent bank confirmations.",
   "transaction_schema_reference": "research-library/research/early_petroleum_financing_2026/transactions.csv",
   "counting_rules": [
-    "All eight rows excluded from historical receipt totals.",
+    "All nineteen rows excluded from historical receipt totals.",
     "TAE-T01 and TAE-T02 describe the same advance.",
     "Capacity, accrued unpaid interest and compensation are different categories; no grand total.",
     "A reported bonus does not identify the bank source of the payment.",
     "TAE-T06 GBP5.6m and TAE-T07 rounded USD7.5m describe one UKAEA equity investment; never sum them or the aggregate USD7.475m noncontrolling-interest cash-flow presentation.",
     "TAE-T08 USD47.9m principally intangible/IP contribution or commitment is separate from cash, and nominal capital is not another cash receipt.",
-    "SH01 cash consideration is not by itself bank cash; no particular statutory mechanism or legal fault is inferred."
+    "SH01 cash consideration is not by itself bank cash; no particular statutory mechanism or legal fault is inferred.",
+    "TAE-T09 and TAE-T13 are balances including restricted cash, not receipts; TAE-T10-T12 net flows reconcile them.",
+    "TAE-T14 asset sales overlap TAE-T11 investing net flow; TAE-T01 is already the advance; no settlement/date/account matching.",
+    "TAE-T18 is TAE-T15 plus TAE-T16 minus TAE-T17; gross equity, note face, fee offsets and net package overlap.",
+    "Unexplained100USD difference in Q3 cash offering costs is retained mechanically in annual-minus-nine-month arithmetic, not classified as fresh proceeds.",
+    "TAE-T19 is cash paid by TMTG for CRO; share and crypto consideration are not incoming cash."
   ],
   "sources": [
     {
@@ -114,7 +121,7 @@
       "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000114036126007174/ef20062365_10k.htm",
       "document_date": null,
       "source_family": "issuer_filing_hosted_by_SEC",
-      "locator": "Consolidated Statements of Cash Flows; year ended December 31, 2025; amounts in thousands",
+      "locator": "F-4/F-7; Notes 2,5,11,13; pp.8,99-101; amounts in thousands except share/per-share/quantity data",
       "inspection_date": "2026-10-19",
       "inspection_mode": "preserved_SEC_HTML",
       "page_images_visually_verified": false,
@@ -362,6 +369,133 @@
       ],
       "source_quality": "Retained official HTML and current official data.html text inspected. Standard web route returned unsupported content-type; official alternate HTML representation succeeded. No specific transaction mechanism or legal resolution inferred.",
       "readable_url": "https://www.legislation.gov.uk/ukpga/2006/46/section/583/data.html"
+    },
+    {
+      "source_id": "TAE-S17",
+      "title": "TMTG September 2025 Form 10-Q",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000114036125040977/ef20054981_10q.htm",
+      "document_date": null,
+      "source_family": "issuer_filing_hosted_by_SEC",
+      "locator": "Cash flow p.5; balance sheet p.2; Note 14 cash offering cost narrative",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "preserved_SEC_HTML",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "tmtg-2025-q3.html",
+          "artifact_type": "preserved_SEC_HTML",
+          "bytes": 1793039,
+          "sha256": "38e83435b7bb6154a20749061b7fcbc29ce29d299f8675ef78493c9945c74c35",
+          "hash_scope": "Exact retained local artifact only; not uploaded with this addition."
+        }
+      ],
+      "source_quality": "Retained full SEC HTML and text/cells inspected; no original PDF or page-image verification. Issuer disclosures do not identify transaction-level bank origins.",
+      "report_period_end": "2025-09-30"
+    },
+    {
+      "source_id": "TAE-S18",
+      "title": "May financing closing Form 8-K",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000114036125020967/ef20049966_8k.htm",
+      "document_date": "2025-05-29",
+      "source_family": "issuer_filing_hosted_by_SEC",
+      "locator": "Item1.01",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "preserved_SEC_HTML",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "tmtg-closing-8k.html",
+          "artifact_type": "preserved_SEC_HTML",
+          "bytes": 54651,
+          "sha256": "e800195e9d1e0de3154dcd858cf8e8240843ed839251c3990ec453757bade628",
+          "hash_scope": "Exact retained local artifact only; not uploaded with this addition."
+        }
+      ],
+      "source_quality": "Retained full SEC HTML and text/cells inspected; no original PDF or page-image verification. Issuer disclosures do not identify transaction-level bank origins."
+    },
+    {
+      "source_id": "TAE-S19",
+      "title": "Filed equity subscription form",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000114036125020420/ef20049689_ex10-1.htm",
+      "document_date": "2025-05-27",
+      "source_family": "issuer_filing_hosted_by_SEC",
+      "locator": "Sections3(w),8(o)",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "preserved_SEC_HTML",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "tmtg-pipe.html",
+          "artifact_type": "preserved_SEC_HTML",
+          "bytes": 341382,
+          "sha256": "caabfdc021c184720a32a5433de2cb30867cde696c1df2c81fb8ea8e75712b63",
+          "hash_scope": "Exact retained local artifact only; not uploaded with this addition."
+        }
+      ],
+      "source_quality": "Retained full SEC HTML and text/cells inspected; no original PDF or page-image verification. Issuer disclosures do not identify transaction-level bank origins. Filed form has blank investor signature fields; not all executed subscriber pages. No compliance or breach adjudicated."
+    },
+    {
+      "source_id": "TAE-S20",
+      "title": "Filed note subscription form",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000114036125020420/ef20049689_ex10-2.htm",
+      "document_date": "2025-05-27",
+      "source_family": "issuer_filing_hosted_by_SEC",
+      "locator": "Preamble; Sections1,3(z),6(b),8(i)",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "preserved_SEC_HTML",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "tmtg-note-subscription.html",
+          "artifact_type": "preserved_SEC_HTML",
+          "bytes": 260246,
+          "sha256": "6c5773cb665cfac8b7b63083a7d852e0f532cfdaa2a87e2dfe102b82901f8981",
+          "hash_scope": "Exact retained local artifact only; not uploaded with this addition."
+        }
+      ],
+      "source_quality": "Retained full SEC HTML and text/cells inspected; no original PDF or page-image verification. Issuer disclosures do not identify transaction-level bank origins. Filed form has blank investor signature fields; not all executed subscriber pages. No compliance or breach adjudicated."
+    },
+    {
+      "source_id": "TAE-S21",
+      "title": "Executed May convertible-note indenture",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000114036125020967/ef20049966_ex4-1.htm",
+      "document_date": "2025-05-29",
+      "source_family": "issuer_filing_hosted_by_SEC",
+      "locator": "Sections1.1,3.8,3.10,13.1–13.2",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "preserved_SEC_HTML",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "tmtg-indenture.html",
+          "artifact_type": "preserved_SEC_HTML",
+          "bytes": 852752,
+          "sha256": "79b9f928cb99a004f74499a592f66cb26a986f1d7b54f308cf1095d5f78f30a9",
+          "hash_scope": "Exact retained local artifact only; not uploaded with this addition."
+        }
+      ],
+      "source_quality": "Retained full SEC HTML and text/cells inspected; no original PDF or page-image verification. Issuer disclosures do not identify transaction-level bank origins."
+    },
+    {
+      "source_id": "TAE-S22",
+      "title": "Executed Foris CRO purchase agreement",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000114036125032615/ef20054552_ex10-1.htm",
+      "document_date": "2025-08-26",
+      "source_family": "issuer_filing_hosted_by_SEC",
+      "locator": "Sections1,2,4.1; signature schedule",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "preserved_SEC_HTML",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "tmtg-foris-purchase.html",
+          "artifact_type": "preserved_SEC_HTML",
+          "bytes": 233635,
+          "sha256": "bfe52d0666057d7e2982d3497d6461316343cdf423294cc0649b4a2895c63310",
+          "hash_scope": "Exact retained local artifact only; not uploaded with this addition."
+        }
+      ],
+      "source_quality": "Retained full SEC HTML and text/cells inspected; no original PDF or page-image verification. Issuer disclosures do not identify transaction-level bank origins. Signed schedule and annual report corroborate outgoing cash direction; annual business summary date differs by one day from agreement and annual Note 13."
     }
   ],
   "revision_history": [
@@ -369,6 +503,39 @@
       "date": "2026-10-19",
       "change": "Added UKAEA equity and corporate-form reconciliation; narrowed prior sovereign-source absence statement to the TMTG advance; original five transaction rows and historical totals unchanged.",
       "base_head": "7e0c032cc9f5efcae7b5155def95272e070f47c1"
+    },
+    {
+      "date": "2026-10-19",
+      "change": "Added sources-and-uses bridge after PR55 merge; original eight observations preserved; no matched asset-sale-to-advance route or new historical total.",
+      "base_head": "cda1ca31c7a90c28404364aed26ac4359709416b"
     }
-  ]
+  ],
+  "derived_calculations": {
+    "units": "USD millions except residual in USD",
+    "source_ids": [
+      "TAE-S05",
+      "TAE-S17",
+      "TAE-S18",
+      "TAE-S20"
+    ],
+    "method": "Q4 annual less nine-month published cash flows; not a separately filed audited quarter statement",
+    "q4_cash_bridge": {
+      "opening": "501.9115",
+      "operating": "12.1193",
+      "investing": "-294.1748",
+      "financing": "-53.9679",
+      "closing": "165.8881",
+      "residual": "0.0000"
+    },
+    "q4_investment_sales": "250.0000",
+    "may_package_net": "2320.9191",
+    "may_formula": "1395.3183 + 960.0000 - 34.3992",
+    "share_price_less_offset_less_reported_cash_residual_USD": "-4.68",
+    "reporting_difference": "Q3 cash-flow costs 34.3993 versus Q3 Note 14/annual 34.3992; unexplained 100 USD; no cause or new receipt inferred",
+    "constraints": [
+      "Annual/nine-month/component/net measures overlap; no grand total.",
+      "Cash balances include restricted cash; no bank-account availability or tracing.",
+      "May net is FY cash-flow reconstruction of the package, not closing-day balance."
+    ]
+  }
 }
