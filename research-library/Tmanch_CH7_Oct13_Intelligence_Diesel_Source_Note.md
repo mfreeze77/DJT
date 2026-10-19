@@ -113,3 +113,13 @@ The official channel text and the two reports above were independently inspected
 ## October 18 presidential-statement cross-reference
 
 The [dated statement follow-up](Tmanch_CH7_Oct12_Iran_Statement_Source_Note.md#october-18-follow-up-publicly-linked-rationale) supplies additional attributed context for **J20-2026-007/-011**. It does not change the trade-evidence requirements above or supply new intelligence-delivery evidence. The October 18 restoration and October 19 warning qualifications remain preserved.
+
+## October 19 evening follow-up: primary warning qualification and proposed reciprocity
+
+The [Ukrainian presidency's congressional-meeting readout](https://www.president.gov.ua/en/news/prezident-proviv-onlajn-zustrich-iz-dvopartijnoyu-ta-dvopala-106957) specifies the **first wave** of overnight ballistic strikes and identifies American early warning. This sharpens the earlier broad statement without displacing Ihnat's second-wave receipt account. It remains an attributed official account, not a warning-delivery log.
+
+The readout separately describes Zelenskyy's proposal for **30 days of refinery restraint in exchange for Patriot protection**, while saying he had heard no willingness to help with that option. This supplies proposal evidence for **J20-2026-007/-016/-024** and the [interceptor-supply note](Tmanch_CH7_Oct15_16_Patriot_Shortage_Source_Note.md), not an agreed exchange, new shipment or completed protection.
+
+The full official page text was inspected through web-text retrieval October 19. Its **22:19** publication label has no stated timezone and is not assigned as the meeting time. A separate page-open attempt failed; no original HTML-byte archive or complete recording was retained. The accessible text establishes the attributed account, not an independently verified operational result.
+
+This supplements **J20-2026-014**, preserving restoration history and the first-/second-wave distinction. Warning information, [satellite-service restrictions](Tmanch_CH7_Oct15_Starshield_Oversight_Source_Note.md) and physical interceptor supply remain separate. Potential Russian benefit from impaired preparation and potential Ukrainian/allied benefit from protection are mechanisms, not measured outcomes. No deliberate withholding, instruction author, accepted bargain, new event or score is established.
