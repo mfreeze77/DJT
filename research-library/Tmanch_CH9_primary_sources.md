@@ -42,6 +42,14 @@
 - Supports: Zelenskyy's position that no formal agreement existed and Ukraine required credible Russian reciprocity.
 - Limits: negotiation was evolving.
 
+## CH9-SRC-008 — Kremlev repayment assertion
+- Date: October 6, 2026; source-context review October 19, 2026.
+- Event/date source: https://www.iba.sport/?p=55938
+- Original IBA Boxing video: https://www.youtube.com/watch?v=i0TbVPeqAyg
+- Supports: In the displayed English transcript, the question at 54:52 names Donald Trump Jr. and asks whether he repaid the money. At 55:51, Kremlev says he did repay the money spent on the present. Kremlev also characterizes the occasion as a shared event rather than wedding participation.
+- Limits: This is an attributed repayment assertion. The reviewed exchange supplies no repayment amount, currency, transfer date, bank/account, or legal remitting entity. Original-language audio and the accuracy of the English interpretation/transcription were not independently audited. The transcript and IBA event date were independently inspected October 19.
+- Claim control: Pair with CH9-KR-001's documented original spending. The assertion bears on eventual net cost but does not establish full reimbursement, zero net benefit, or a specific source of repayment funds. Net benefit remains unresolved.
+
 ## Source-control rules
 
 1. ProPublica establishes the reported payment chain; the couple's later statement materially corroborates the core gift/hospitality event.

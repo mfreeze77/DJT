@@ -274,9 +274,13 @@ The reported UAE World Liberty investment became public. Senators requested CFIU
 
 Trump removed the Russia-oil-related tariff after an asserted Indian commitment to stop direct and indirect Russian-oil imports.
 
-### March — Justin Sun settlement sequence
+### March 5 — Justin Sun proposed-settlement sequence
 
 The SEC proposed a settlement involving Rainberry and dismissal of remaining Sun-related claims if approved.
+
+### March 9 — Signed judgment closes the approval question
+
+Judge Edgardo Ramos signed Doc. 98 in *SEC v. Sun*, No. 1:23-cv-02433-ER. All SEC claims against Sun, Tron Foundation Limited, and BitTorrent Foundation Ltd. were dismissed with prejudice, along with the remaining specified claims against Rainberry. Rainberry was permanently enjoined from violating Securities Act Section 17(a)(3) and ordered to pay a $10 million civil penalty within 30 days after entry. The judgment does not establish that the penalty was paid. The SEC covered-action notice dated April 30 separately identifies March 9, 2026 as the qualifying judgment date. This is a historical status closure, not an October 2026 event or evidence resolving the alleged regulatory exchange (CH7-SRC-SUN-JUDGMENT-20260309).
 
 ### July — NATO Ankara
 
