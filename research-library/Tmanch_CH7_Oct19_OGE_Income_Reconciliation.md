@@ -36,6 +36,16 @@ The earlier KSA row describes its location as Dubai, UAE; the later row says Sau
 - The Diriyah and Dubai DG hotel-manager rows use a below-$201 category. That category is not an exact zero and supplies no exact licensing addition.
 - Asset-value ranges, project development values, company loan capacities and loan draws are not extra licensing income. No borrowing-to-fee trace is supplied here.
 
+### Historical Dar funding and Oman guarantee context
+
+Dar Global's February 2023 prospectus describes shareholder funding for co-branding expenses. The group principally used non-interest-bearing shareholder loans and off-plan receipts. Its Major Shareholder definition means Dar Al Arkan Real Estate Development Company PJSC, contextually including consolidated subsidiaries outside the listed group.
+
+Dar Global UAE, defined as Dar Al Arkan Global Real Estate Development LLC, assigned loan rights to Dar Global PLC on January 9, 2023 (effective December 31, 2022), and to Dar Al Arkan Holdings Limited on January 24, for ordinary shares on a dollar-for-dollar basis.
+
+The support-agreement summary preserves guarantees benefiting DT Marks Oman LLC for AIDA hotel/golf-management obligations after termination of the support agreement; Dar Global PLC indemnifies guarantors. It does not expressly extend this exception to the separate residential licence.
+
+These issuer-described historical arrangements neither identify funding of a 2025 fee nor establish settlement, sovereign or Russian-source payment. The Doha join remains unresolved. [OGE-S006](https://cdn.darglobal.co.uk/Dar_Global_PLC_IPO_Prospectus_4552734f2c_b3a7ac7a34.pdf), sections 9.1, 4.1(f), 17.3–17.5 and definitions; printed pp213, 276, 307–308, 314–316 (physical pages +1).
+
 ## 2. Crypto entries are different categories and reporting levels
 
 | Reported under / item | 2025 amount | Classification | Schedule locator |

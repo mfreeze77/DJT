@@ -1,6 +1,6 @@
 {
   "prepared_utc": "2026-10-19",
-  "scope": "Reported disclosure amounts and comparison controls; no independently verified bank-flow or payer finding.",
+  "scope": "Reported disclosure amounts, comparison controls and bounded historical issuer funding context; no independently verified bank-flow or payer finding.",
   "baseline": {
     "repository": "mfreeze77/DJT",
     "commit": "705017b6ce2014990b2b3141a58253aff309f49b",
@@ -159,6 +159,54 @@
           "hash_scope": "Local retained artifact only; not original PDF or source HTML bytes; artifact is not uploaded in this addition."
         }
       ]
+    },
+    {
+      "source_id": "OGE-S006",
+      "title": "Dar Global PLC prospectus, February 23, 2023",
+      "source_url": "https://cdn.darglobal.co.uk/Dar_Global_PLC_IPO_Prospectus_4552734f2c_b3a7ac7a34.pdf",
+      "source_family": "issuer_prospectus",
+      "locator": "Sections 9.1, 4.1(f), 17.3\u201317.5 and definitions; printed pp213, 276, 307\u2013308, 314\u2013316; physical pp214, 277, 308\u2013309, 315\u2013317 (one-based)",
+      "page_count_reported_by_web_tool": 320,
+      "original_pdf_acquired": false,
+      "original_pdf_sha256": null,
+      "page_images_visually_verified": false,
+      "acquisition_status": "Issuer-hosted web text independently inspected; contract summaries, not executed agreement copies.",
+      "preserved_artifacts": [
+        {
+          "artifact_name": "dar2023_funding_web.txt",
+          "artifact_type": "retained_returned_web_text",
+          "bytes": 29308,
+          "sha256": "ef4e166c8b7e11644e009348f429194e8cba8a5dfbb5176b7cdf17a73a1f7d4d",
+          "hash_scope": "Local text artifact only; original PDF bytes and page images were not acquired; artifact is not uploaded."
+        },
+        {
+          "artifact_name": "dar2023_reorganisation_web.txt",
+          "artifact_type": "retained_returned_web_text",
+          "bytes": 30455,
+          "sha256": "305dc9bbc795c07f28169eca51167b878cdf2637300589d1cd2416d576c908a4",
+          "hash_scope": "Local text artifact only; original PDF bytes and page images were not acquired; artifact is not uploaded."
+        },
+        {
+          "artifact_name": "dar2023_guarantees_assignments_web.txt",
+          "artifact_type": "retained_returned_web_text",
+          "bytes": 33423,
+          "sha256": "a91e5e6494f4eaf3a3e1ce6c056b19659d3c222b2c2c5fe099052e06b530b142",
+          "hash_scope": "Local text artifact only; original PDF bytes and page images were not acquired; artifact is not uploaded."
+        },
+        {
+          "artifact_name": "dar2023_definitions_web.txt",
+          "artifact_type": "retained_returned_web_text",
+          "bytes": 30634,
+          "sha256": "cdd1680dff07e442d63e6559114f5aa18cf5d351fa94bf1edb758441979c2633",
+          "hash_scope": "Local text artifact only; original PDF bytes and page images were not acquired; artifact is not uploaded."
+        }
+      ]
     }
-  ]
+  ],
+  "supplement": {
+    "prepared_utc": "2026-10-19",
+    "draft_pr": 53,
+    "parent_commit": "43d82436cef5c05c4c440027336e8ec88fbe2713",
+    "scope": "Historical context only; no amount-register or total changes."
+  }
 }
