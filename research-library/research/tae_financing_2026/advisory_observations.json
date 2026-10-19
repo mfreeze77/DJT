@@ -1,0 +1,214 @@
+{
+  "scope": "Separate non-additive advisory and relationship observations; preserve May2025 allocation crosswalk and monetary transaction rows",
+  "review_date": "2026-10-19",
+  "observations": [
+    {
+      "observation_id": "TAE-ADV01",
+      "type": "contingent_advisory_share_compensation",
+      "from": "Trump Media & Technology Group Corp.",
+      "to_historical_name": "Yorkville Securities, LLC",
+      "to_current_reported_name": "Yorkville Ives & Co., LLC",
+      "quantity": 6000000,
+      "unit": "TMTG_common_shares",
+      "cash_amount_usd": null,
+      "share_valuation_usd": null,
+      "engagement_month_reported": "2025-12",
+      "contract_execution_date": null,
+      "latest_explicit_untriggered_date": "2026-06-30",
+      "status": "Payment event reported untriggered as of June 30; later payment or share issuance not established",
+      "fee_tail_branches": [
+        "Transaction closes during engagement or within 12 months after termination",
+        "Transaction agreement entered during engagement or within 12 months after termination, with subsequent closing; no requirement inferred that this later closing fall within 12 months"
+      ],
+      "sources": [
+        "TAE-S05",
+        "TAE-S33",
+        "TAE-S04"
+      ],
+      "locators": [
+        "Note 10/F-26",
+        "Note 9/p.14",
+        "pp.157,185"
+      ],
+      "historical_receipt_total_eligible": false,
+      "tae_funding_trace_established": false
+    },
+    {
+      "observation_id": "TAE-ADV02",
+      "type": "prospective_business_right",
+      "grantor": "Trump Media & Technology Group Corp.",
+      "holder": "Yorkville Ives & Co., LLC",
+      "right": "Exclusive right of first refusal to act as exclusive placement agent for equity-line-of-credit and at-the-market offerings",
+      "duration_months": 12,
+      "period_start_event": "merger_closing",
+      "actual_start_date": null,
+      "earned_fee_usd": null,
+      "status": "Disclosed prospective contractual right; qualifying future financing and fee not established",
+      "sources": [
+        "TAE-S04"
+      ],
+      "locators": [
+        "p.185"
+      ],
+      "historical_receipt_total_eligible": false,
+      "tae_funding_trace_established": false
+    },
+    {
+      "observation_id": "TAE-ADV03",
+      "type": "board_authorization_date",
+      "reported_date": "2025-12-02",
+      "date_precision": "board_authorization_not_contract_execution",
+      "engagement_month_reported": "2025-12",
+      "contract_execution_date": null,
+      "prior_work_context": "S-4 describes affiliate introduction around November 9, 2025 and work in anticipation of formal engagement",
+      "sources": [
+        "TAE-S04",
+        "TAE-S05"
+      ],
+      "locators": [
+        "pp.181,185",
+        "Note 10/F-26"
+      ],
+      "historical_receipt_total_eligible": false,
+      "tae_funding_trace_established": false
+    },
+    {
+      "observation_id": "TAE-ADV04",
+      "type": "attributed_conflict_and_opinion_scope",
+      "as_of_filing_date": "2026-09-30",
+      "issuer_statement": "Yorkville affiliate financed TMTG in 2024–2025 and continued holding TMTG securities at filing; Yorkville considered and cleared potential conflicts with TAE",
+      "independent_conflict_clearance_established": false,
+      "underlying_analysis_or_written_waiver_located": false,
+      "clear_street_opinion_exclusions": [
+        "Yorkville share issuance",
+        "Entry into and terms of the original bridge promissory note; no separate fairness review of the September 30 amended note established"
+      ],
+      "sources": [
+        "TAE-S04"
+      ],
+      "locators": [
+        "pp.181,209; Annex D p.3"
+      ],
+      "historical_receipt_total_eligible": false,
+      "tae_funding_trace_established": false
+    },
+    {
+      "observation_id": "TAE-ADV05",
+      "type": "bounded_search_result",
+      "inspection_date": "2026-10-19",
+      "latest_filing_in_inspected_index": "2026-10-02",
+      "executed_advisory_letter_located": false,
+      "amendment_located": false,
+      "later_advisory_share_issuance_notice_located": false,
+      "sources": [
+        "TAE-S05",
+        "TAE-S33",
+        "TAE-S04",
+        "TAE-S03",
+        "TAE-S07",
+        "TAE-S08",
+        "TAE-S35",
+        "TAE-S36",
+        "TAE-S37",
+        "TAE-S38"
+      ],
+      "limits": "Reviewed exhibit lists/index and listed later filings only; no absence claim for unfiled events or conclusion about filing obligations",
+      "historical_receipt_total_eligible": false,
+      "tae_funding_trace_established": false
+    },
+    {
+      "observation_id": "TAE-ADV06",
+      "type": "analytical_inference",
+      "statement": "Closing-contingent equity creates completion incentive and prospective share-value exposure; post-closing refusal right creates possible future fee opportunity",
+      "sources": [
+        "TAE-S04",
+        "TAE-S33"
+      ],
+      "limits": "Inference only; no improper intent, governmental bargain, personal Trump receipt or subscription-to-TAE payment trace established",
+      "historical_receipt_total_eligible": false,
+      "tae_funding_trace_established": false
+    }
+  ],
+  "entity_relationships": [
+    {
+      "relationship_id": "TAE-REL01",
+      "type": "reported_rename",
+      "historical_name": "Yorkville Securities, LLC",
+      "reported_current_name": "Yorkville Ives & Co., LLC",
+      "s4_short_name_variation": "Yorkville Ives, LLC",
+      "effective_rename_date": null,
+      "disclosure_date": "2026-09-30",
+      "sources": [
+        "TAE-S04",
+        "TAE-S34"
+      ],
+      "locators": [
+        "pp.33,157,181",
+        "printed pp.1–3"
+      ],
+      "limits": "No separate recipient or assignment inferred from short-name variation",
+      "historical_receipt_total_eligible": false,
+      "tae_funding_trace_established": false
+    },
+    {
+      "relationship_id": "TAE-REL02",
+      "type": "reported_wholly_owned_subsidiary",
+      "parent": "Yorkville BD Holdings, LLC",
+      "child": "Yorkville Ives & Co., LLC",
+      "child_crd": 330480,
+      "child_sec_number": "8-71241",
+      "ownership_percent_reported": 100,
+      "observed_at": "2026-10-19",
+      "sources": [
+        "TAE-S34"
+      ],
+      "locators": [
+        "printed p.21 / physical PDF p.23"
+      ],
+      "limits": "FINRA organizational-affiliate narrative snapshot; no individual distribution or historical-payment inference",
+      "historical_receipt_total_eligible": false,
+      "tae_funding_trace_established": false
+    },
+    {
+      "relationship_id": "TAE-REL03",
+      "type": "reported_wholly_owned_subsidiary",
+      "parent": "Yorkville Advisors Global, LP",
+      "parent_crd": 165390,
+      "child": "Yorkville BD Holdings, LLC",
+      "ownership_percent_reported": 100,
+      "observed_at": "2026-10-19",
+      "sources": [
+        "TAE-S34"
+      ],
+      "locators": [
+        "printed p.21 / physical PDF p.23"
+      ],
+      "limits": "FINRA organizational-affiliate narrative snapshot; manager remains separate from YA II PN and broker-dealer",
+      "historical_receipt_total_eligible": false,
+      "tae_funding_trace_established": false
+    },
+    {
+      "relationship_id": "TAE-REL04",
+      "type": "reported_common_control",
+      "entity_a": "Yorkville America, LLC",
+      "entity_b": "Yorkville Ives & Co., LLC",
+      "observed_at": "2026-10-19",
+      "sources": [
+        "TAE-S34"
+      ],
+      "locators": [
+        "printed p.21 / physical PDF p.23"
+      ],
+      "limits": "Common control is not entity identity, economic payer or allocation of advisory shares",
+      "historical_receipt_total_eligible": false,
+      "tae_funding_trace_established": false
+    }
+  ],
+  "outstanding_records": [
+    "Executed letter and amendments",
+    "Execution/effective dates and engagement/transaction definitions",
+    "Termination, expense, indemnity, fee-exception, transfer-restriction and refusal-right terms",
+    "Closing and share-issuance evidence"
+  ],
+  "no_cash_flow_total": true
+}

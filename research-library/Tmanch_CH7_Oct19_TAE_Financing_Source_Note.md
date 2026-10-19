@@ -146,6 +146,38 @@ Remaining records include individual executed subscriptions/allocation schedules
 
 Revision record, October 19: added the independently checked historical purchaser/holder crosswalk after PR57. The companion CSV contains factual names, counts, calculated equivalents and paraphrased control relationships, not reproduced footnotes. HTML/XML source inspection and the staff letter's page-one visual check are separately identified in the manifest. No earlier note text or transaction row is replaced.
 
+## October 19 follow-up: Yorkville advisory compensation and ownership
+
+The [typed advisory observations](research/tae_financing_2026/advisory_observations.json) record a separate contingent share fee, prospective business right and dated legal-entity relationships. They do not add shares to the May purchaser crosswalk or amounts to the nineteen transaction observations.
+
+### Six million contingent shares and two different twelve-month periods
+
+TMTG's annual Note 10 describes a December 2025 M&A engagement with **Yorkville Securities, LLC** for a fee of **6,000,000 TMTG common shares**. The June-quarter report expressly says that the payment-triggering event had **not occurred by June 30, 2026**. No cash value or later payment is inferred. [TAE-S05, Note 10/F-26](https://www.sec.gov/Archives/edgar/data/1849635/000114036126007174/ef20062365_10k.htm); [TAE-S33, Note 9/p.14](https://www.sec.gov/Archives/edgar/data/1849635/000143774926026777/djt20260630_10q.htm).
+
+The annual and quarterly descriptions contain two fee-tail branches: a transaction closes during the engagement or within twelve months after termination; **or** TMTG enters a transaction agreement during that interval and the transaction subsequently closes. The second branch does not require that every closing itself occur within twelve months. The reviewed disclosures do not supply the engagement's exact execution date, duration or termination procedure. [TAE-S05; TAE-S33].
+
+The S-4 separately places issuance of the six million shares at merger closing and describes a **twelve-month post-closing exclusive right of first refusal** for Yorkville to act as TMTG's exclusive placement agent for equity-line-of-credit and at-the-market offerings. This is a prospective business right, distinct from the termination-tail periods and from any earned fee for a future financing. Its narrative says the board authorized Yorkville's lead financial/M&A engagement on **December 2, 2025**; that is an authorization date, not verification of the signed letter's date. The earlier November 9 narrative says the broker-dealer affiliate began work in anticipation of formal engagement. [TAE-S04, pp.181, 185](https://www.sec.gov/Archives/edgar/data/1849635/000143774926031534/djt20260922_s4.htm).
+
+### Dated entity relationship, without collapsing the May counterparties
+
+The S-4 identifies Yorkville Securities, LLC as now named **Yorkville Ives & Co., LLC**. Other passages use the shortened **Yorkville Ives, LLC**; the variation is retained without inferring a second recipient or an assignment. [TAE-S04, pp.33, 157, 181]. FINRA's BrokerCheck report inspected October 19 identifies Yorkville Ives & Co., LLC as **CRD 330480 / SEC 8-71241**. Its organizational-affiliate disclosure describes the broker-dealer as wholly owned by **Yorkville BD Holdings, LLC**, itself wholly owned by **Yorkville Advisors Global, LP (CRD 165390)**. It separately describes Yorkville America, LLC as under common control. This is a dated regulatory disclosure, not an independently reconstructed ownership history or a traced bank-payment chain. [TAE-S34, printed pp.1–3, 9, 21 / physical PDF pp.3–5, 11, 23](https://files.brokercheck.finra.org/firm/firm_330480.pdf).
+
+**YA II PN, Ltd. remains a separately identified May purchaser.** The 2024 SEPA investment-manager signature relationship does not make YA II PN or Yorkville Advisors Global the contractual M&A fee recipient. Nor does the broker-dealer's ownership chain identify an individual's entitlement to the advisory shares. The May share allocations, paid placement-fee categories and unresolved settlement-entity descriptions above remain unchanged. [TAE-S24, footnote 73](https://www.sec.gov/Archives/edgar/data/1849635/000114036125022485/ny20050075x2_424b3.htm); [TAE-S27, signature page](https://www.sec.gov/Archives/edgar/data/1849635/000114036124032410/ny20031506x2_ex10-3.htm).
+
+### Attributed conflict statement and opinion boundary
+
+The S-4 says a Yorkville affiliate financed TMTG in 2024–2025 and still held TMTG securities at filing; it also says Yorkville considered and cleared potential conflicts with TAE. This is the issuer's statement. No underlying conflict analysis or written waiver was located in the reviewed materials. Clear Street's fairness opinion expressly excludes the Yorkville share issuance and entry into and terms of the original bridge promissory note. This exclusion does not establish a separate fairness review of the September 30 amended note. It therefore cannot be treated as independent fairness clearance of this fee or those note terms. [TAE-S04, pp.181, 209 and Annex D, p.3].
+
+As an explicitly labeled analytical inference, closing-contingent shares create an economic incentive for completion, and the refusal right offers potential future fee business if qualifying offerings occur. These observations establish neither improper intent nor a governmental bargain, personal Trump payment or subscriber-to-TAE transfer.
+
+### Search boundary and outstanding contract terms
+
+The reviewed annual, quarterly and S-4 exhibit lists and S-4 filing index did not identify a separately filed executed M&A engagement letter or amendment. The inspected SEC index still ended with the October 2 delaying amendment; reviewed September 30 8-K/425 filings, October 1 interview filing and that amendment supplied no later advisory-share issuance notice. This is a bounded search result, not proof that no unfiled event occurred or a conclusion about filing obligations. [TAE-S03; TAE-S07; TAE-S08](https://data.sec.gov/submissions/CIK0001849635.json); [TAE-S35](https://www.sec.gov/Archives/edgar/data/1849635/000143774926031736/djt20261001_425.htm); [TAE-S36](https://www.sec.gov/Archives/edgar/data/1849635/000143774926031534/0001437749-26-031534-index.htm); [TAE-S37](https://www.sec.gov/Archives/edgar/data/1849635/000143774926031536/djt20260930_425.htm); [TAE-S38](https://www.sec.gov/Archives/edgar/data/1849635/000143774926031600/djt20260930c_425.htm).
+
+The signed letter and amendments remain necessary to verify execution/effective dates, transaction and engagement-period definitions, termination rights, expense/indemnity provisions, fee exceptions, transfer restrictions and refusal-right mechanics. Closing and share-issuance records remain necessary to establish payment. No amount is added to historical receipt totals.
+
+Revision record, October 19: appended this bounded advisory/ownership context to the existing PR58 crosswalk. All May allocations, earlier note history and transaction rows are preserved; share quantities and prospective rights remain in a separate typed companion rather than cash-flow fields.
+
 ## Existing-record crosswalk and counting controls
 
 - [CH6-2024-TMTGTRUST-018 and CH6-2024-TMTGOWN-017](Tmanch_CH6_claim_ledger.csv): preserve the historical trust transfer and March 2024 percentage. The dated current ownership observation does not rewrite them.
