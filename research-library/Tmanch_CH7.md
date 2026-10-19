@@ -211,7 +211,7 @@ Reuters reported that:
 - Justin Sun ranked first;
 - and Trump-linked entities controlled most of the announced token supply and earned substantial fees.
 
-Sun had also purchased at least $75 million of World Liberty tokens while facing SEC civil allegations. The SEC paused the litigation and later proposed a narrower resolution involving Rainberry while dismissing other claims if approved.
+Sun had also purchased at least $75 million of World Liberty tokens while facing SEC civil allegations. The SEC paused the litigation and, on March 5, 2026, proposed a narrower resolution involving Rainberry and dismissal of other claims if approved. The court entered the final judgment on March 9, 2026: all SEC claims against Sun, Tron Foundation, and BitTorrent Foundation were dismissed with prejudice; Rainberry was permanently enjoined under Section 17(a)(3) and ordered to pay a $10 million civil penalty. Payment is not established by the reviewed judgment. See the dated closure in Section 14.3 and source CH7-SRC-SUN-JUDGMENT-20260309.
 
 The established mechanism is:
 
@@ -920,7 +920,9 @@ The original website reportedly referenced a White House tour for top purchasers
 
 ## 14.3 SEC sequence and counterevidence
 
-The SEC paused the Sun litigation in February 2025. Sun then appeared as the top-ranked dinner holder. In 2026, the SEC proposed a narrower settlement involving Rainberry and dismissal of other claims if approved.
+The SEC paused the Sun litigation in February 2025. Sun then appeared as the top-ranked dinner holder. On March 5, 2026, the SEC proposed a narrower settlement involving Rainberry and dismissal of other claims if approved. That proposed-stage event remains part of the chronology (CH7-SRC-039).
+
+**March 9, 2026 judgment closure:** Judge Edgardo Ramos signed the final judgment in *SEC v. Sun*, No. 1:23-cv-02433-ER, Doc. 98. It dismissed with prejudice all SEC claims against Justin Sun, Tron Foundation Limited, and BitTorrent Foundation Ltd., and the remaining specified claims against Rainberry. Rainberry remained subject to a permanent injunction against violating Securities Act Section 17(a)(3) and was ordered to pay a $10 million civil penalty within 30 days after entry. The judgment was entered without admitting or denying the allegations as to Rainberry on the settled claim; it is not a finding of liability against Sun. The reviewed records establish the payment obligation, not that payment occurred. The SEC's April 30 covered-action notice independently identifies March 9 as the qualifying judgment date (CH7-SRC-SUN-JUDGMENT-20260309). This closes the court-approval question; it does not establish presidential intervention or a quid pro quo.
 
 Counterevidence matters: World Liberty later froze Sun-linked tokens during a dispute, showing that the commercial relationship was not uniformly cooperative.
 

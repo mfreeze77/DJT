@@ -328,6 +328,18 @@ Each entry states both its proper use and its limit. An official statement prove
 - **Supports:** claims, procedural status, and proposed settlement information.
 - **Does not support:** guilt unless admitted or adjudicated; does not prove political influence.
 
+## CH7-SRC-SUN-JUDGMENT-20260309 — Signed Sun/Rainberry final judgment and SEC date corroboration
+
+- **Judgment date:** March 9, 2026; reviewed October 19, 2026. The review date is not the event date.
+- **Court record:** *Securities and Exchange Commission v. Sun et al.*, No. 1:23-cv-02433-ER (S.D.N.Y.), Doc. 98, signed by Judge Edgardo Ramos; four pages.
+- **Court-record mirror:** [Signed Doc. 98 (Justia)](https://cases.justia.com/federal/district-courts/new-york/nysdce/1:2023cv02433/596044/98/0.pdf?ts=1773158532).
+- **Original PDF SHA-256:** `50fd510f8137283d1907c74eb2163b8101bf22316433b9bbb2e805d2da6455fd`.
+- **Visual locators:** page 1, title (the word “PROPOSED” is struck through), consent/no-admission recital, and Section I; page 2, Sections I–II (Section 17(a)(3) injunction; $10 million civil penalty due within 30 days after entry); page 4, Section IV (dismissals with prejudice), Section V (retained enforcement jurisdiction), and dated judicial signature.
+- **Independent official date corroboration:** [SEC covered-action notice 2026-034](https://www.sec.gov/enforcement-litigation/whistleblower-program/notice-covered-actions/award-claim-2026-034), dated April 30, 2026; the “Date of Qualifying Judgment/Order” field is March 9, 2026. That notice corroborates the judgment date, not receipt of payment.
+- **Supports:** the court entered the settlement judgment; all SEC claims against Justin Sun, Tron Foundation Limited, and BitTorrent Foundation Ltd. were dismissed with prejudice. The specified remaining claims against Rainberry were also dismissed with prejudice; Rainberry was permanently enjoined from violating Securities Act Section 17(a)(3) and ordered to pay a $10 million civil penalty. The settled Rainberry claim was resolved without admission or denial of the allegations.
+- **Does not support:** that Rainberry paid the penalty, that Sun personally paid it, findings of liability against Sun, presidential intervention, or a quid pro quo. The judgment retains enforcement jurisdiction; it does not establish that every obligation has been performed.
+- **Preserved proposal history:** CH7-SRC-039 remains the March 5, 2026 SEC proposed-settlement release. Its linked [judgment26496.pdf](https://www.sec.gov/files/litigation/litreleases/2026/judgment26496.pdf) contains proposed Doc. 96 filed March 5 (PDF pages 1–4), followed by consent Doc. 96-1; its proposed judgment signature/date fields are blank on page 4. Do not relabel that file as signed Doc. 98 or substitute it for the preserved signed judgment.
+
 ## CH7-SRC-040 — Senate ethics inquiry concerning meme-coin access
 
 - **Date:** 2025
