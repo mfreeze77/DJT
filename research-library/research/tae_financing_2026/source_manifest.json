@@ -1,0 +1,374 @@
+{
+  "prepared_utc": "2026-10-19",
+  "scope": "Corporate financing and UK public-body JV equity observations, unresolved disclosure differences and conditional allied-industrial mechanisms; no legal resolution, personal-receipt or demonstrated net-national-benefit finding.",
+  "baseline": {
+    "repository": "mfreeze77/DJT",
+    "commit": "dbf38944e035ce598d036ed03c97dea755ab77aa",
+    "completed_watch_pr": 54,
+    "separate_drafts": [
+      52,
+      53,
+      56
+    ],
+    "extension_parent": "7e0c032cc9f5efcae7b5155def95272e070f47c1"
+  },
+  "preservation_notice": "Artifact hashes identify exact retained source HTML/JSON, official PDFs, local PDF renders or returned web output as individually labeled. PDF visual verification is limited to listed selected pages; SEC S-4 printed labels were inspected in HTML, not PDF images. Full sources remain outside this addition. Accounting and filing records are not independent bank confirmations.",
+  "transaction_schema_reference": "research-library/research/early_petroleum_financing_2026/transactions.csv",
+  "counting_rules": [
+    "All eight rows excluded from historical receipt totals.",
+    "TAE-T01 and TAE-T02 describe the same advance.",
+    "Capacity, accrued unpaid interest and compensation are different categories; no grand total.",
+    "A reported bonus does not identify the bank source of the payment.",
+    "TAE-T06 GBP5.6m and TAE-T07 rounded USD7.5m describe one UKAEA equity investment; never sum them or the aggregate USD7.475m noncontrolling-interest cash-flow presentation.",
+    "TAE-T08 USD47.9m principally intangible/IP contribution or commitment is separate from cash, and nominal capital is not another cash receipt.",
+    "SH01 cash consideration is not by itself bank cash; no particular statutory mechanism or legal fault is inferred."
+  ],
+  "sources": [
+    {
+      "source_id": "TAE-S01",
+      "title": "Original signed unsecured note",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000114036125046056/ef20061577_ex10-1.htm",
+      "document_date": "2025-12-18",
+      "source_family": "issuer_filing_hosted_by_SEC",
+      "locator": "Preamble; sections 1(b), 2, 3(a)-(e); signature blocks",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "preserved_SEC_HTML",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "original-note.html",
+          "artifact_type": "preserved_SEC_HTML",
+          "bytes": 127590,
+          "sha256": "69f65eaa82b6ae920f09c1581f1b88f1a236b027ca78170f13d2b73217ded46a",
+          "hash_scope": "Exact retained local artifact only; not uploaded with this addition."
+        }
+      ],
+      "source_quality": "Retained SEC HTML independently inspected; filesystem modification time is not asserted as retrieval time."
+    },
+    {
+      "source_id": "TAE-S02",
+      "title": "Amended and restated signed unsecured note",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000143774926031535/ex_1020868.htm",
+      "document_date": "2026-09-30",
+      "source_family": "issuer_filing_hosted_by_SEC",
+      "locator": "Preamble; sections 1(b), 2, 3(a), 3(c), 3(i); signature blocks",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "preserved_SEC_HTML",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "tae-amended-note.html",
+          "artifact_type": "preserved_SEC_HTML",
+          "bytes": 94205,
+          "sha256": "389d1d037fdb4f1f3ec0a46db4875a524b8c028e2de30a9aed5b1d3571a1c1f1",
+          "hash_scope": "Exact retained local artifact only; not uploaded with this addition."
+        }
+      ],
+      "source_quality": "Retained SEC HTML independently inspected; filesystem modification time is not asserted as retrieval time."
+    },
+    {
+      "source_id": "TAE-S03",
+      "title": "TMTG September financing Form 8-K",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000143774926031535/djt20260930_8k.htm",
+      "document_date": "2026-09-30",
+      "source_family": "issuer_filing_hosted_by_SEC",
+      "locator": "Item 1.01",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "returned_web_tool_result_not_HTML",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "sept30-8k-web-result.json",
+          "artifact_type": "returned_web_tool_result_not_HTML",
+          "bytes": 17651,
+          "sha256": "a1f6608f4300c3c54f2b5f8f03823185d8db895948f351d7e3062b688698bbcc",
+          "hash_scope": "Exact retained local artifact only; not uploaded with this addition."
+        }
+      ],
+      "source_quality": "Official web-rendered text inspected; preserved artifact is the returned tool result, not original HTML bytes."
+    },
+    {
+      "source_id": "TAE-S04",
+      "title": "TMTG Form S-4 including TAE financial statements",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000143774926031534/djt20260922_s4.htm",
+      "document_date": "2026-09-30",
+      "source_family": "issuer_filing_hosted_by_SEC",
+      "locator": "Printed pp.119, 133, 140, 143, 150-151, 181, 183, 235-236; audited annual F-5 and Note 2 F-7-F-8; Note 9 F-15-F-16",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "preserved_SEC_HTML",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "tmtg-tae-s4.html",
+          "artifact_type": "preserved_SEC_HTML",
+          "bytes": 8933727,
+          "sha256": "0b035272d1b0ac9dccf086b5bae448e1083afcacd795df8e3d0e18452bc4b2e8",
+          "hash_scope": "Exact retained local artifact only; not uploaded with this addition."
+        }
+      ],
+      "source_quality": "Complete retained SEC HTML and extracted text independently checked; printed page labels checked in HTML. No PDF or page-image claim."
+    },
+    {
+      "source_id": "TAE-S05",
+      "title": "TMTG 2025 Form 10-K",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000114036126007174/ef20062365_10k.htm",
+      "document_date": null,
+      "source_family": "issuer_filing_hosted_by_SEC",
+      "locator": "Consolidated Statements of Cash Flows; year ended December 31, 2025; amounts in thousands",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "preserved_SEC_HTML",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "tmtg-2025-10k.html",
+          "artifact_type": "preserved_SEC_HTML",
+          "bytes": 2651064,
+          "sha256": "9c1e1c386fb1c6755eb5defc4f5422c55b0a16dcfdabffa14c4ce798f36a5320",
+          "hash_scope": "Exact retained local artifact only; not uploaded with this addition."
+        }
+      ],
+      "source_quality": "Retained SEC HTML independently inspected; filesystem modification time is not asserted as retrieval time."
+    },
+    {
+      "source_id": "TAE-S06",
+      "title": "Signed merger agreement",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000114036125046056/ef20061577_ex2-1.htm",
+      "document_date": "2025-12-18",
+      "source_family": "issuer_filing_hosted_by_SEC",
+      "locator": "Sections 7.1-7.3; 8.1(b)(i)",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "official_web_text_inspected",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [],
+      "source_quality": "Official web-rendered text independently inspected; no full-file preservation hash is claimed."
+    },
+    {
+      "source_id": "TAE-S07",
+      "title": "TMTG delaying amendment",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000143774926031872/djt20261002_delam.htm",
+      "document_date": "2026-10-02",
+      "source_family": "issuer_filing_hosted_by_SEC",
+      "locator": "Rule 473 amendment letter",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "official_web_text_inspected",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [],
+      "source_quality": "Official web-rendered text independently inspected; no full-file preservation hash is claimed."
+    },
+    {
+      "source_id": "TAE-S08",
+      "title": "SEC issuer submissions index",
+      "source_url": "https://data.sec.gov/submissions/CIK0001849635.json",
+      "document_date": null,
+      "source_family": "SEC_filing_index",
+      "locator": "filings.recent; inspected October 19, 2026",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "preserved_SEC_JSON",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "tmtg-submissions-refreshed.json",
+          "artifact_type": "preserved_SEC_JSON",
+          "bytes": 115284,
+          "sha256": "d8334dda7483267cad64225857f173c110400d5f200e5cfb672ac7e800d38566",
+          "hash_scope": "Exact retained local artifact only; not uploaded with this addition."
+        }
+      ],
+      "source_quality": "Dated index snapshot; later or unfiled events are not excluded."
+    },
+    {
+      "source_id": "TAE-S09",
+      "title": "TMTG original merger Form 8-K",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000114036125046056/ef20061577_8k.htm",
+      "document_date": "2025-12-18",
+      "source_family": "issuer_filing_hosted_by_SEC",
+      "locator": "Item 1.01",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "preserved_SEC_HTML",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "original-8k.html",
+          "artifact_type": "preserved_SEC_HTML",
+          "bytes": 77214,
+          "sha256": "23f84b6aee3a0d48a055966931482ee06759ee5bf28571e8c872d9f35016bc3b",
+          "hash_scope": "Exact retained local artifact only; not uploaded with this addition."
+        }
+      ],
+      "source_quality": "Retained SEC HTML independently inspected; filesystem modification time is not asserted as retrieval time."
+    },
+    {
+      "source_id": "TAE-S10",
+      "title": "UKAEA audited annual report and accounts 2025-26",
+      "source_url": "https://assets.publishing.service.gov.uk/media/6a563f942f6185941a9a649c/uk-atomic-energy-authority-annual-report-and-accounts-2025-2026.pdf",
+      "document_date": "2026-07-16",
+      "source_family": "UK_public_body_publication",
+      "locator": "Note14.3 printed160/PDF83; printed82/PDF44; cash flow136/PDF71; activity15/PDF10 and42/PDF24",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "preserved_official_PDF_and_selected_page_review",
+      "page_images_visually_verified": true,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "ukaea-2025-2026-accounts.pdf",
+          "artifact_type": "original_official_PDF",
+          "bytes": 16552977,
+          "sha256": "1db5b87cfeb95c58d67eef180e79d5a8407751e5e00e4e09600686629e958629",
+          "hash_scope": "Exact retained local artifact only; not uploaded with this addition."
+        },
+        {
+          "artifact_name": "ukaea-2025-2026-accounts-index.html",
+          "artifact_type": "original_official_index_HTML",
+          "bytes": 71393,
+          "sha256": "0cdc3d029738bde96877d4b0024433b0b0188bdf6895ddd014746e52b9f7c5d5",
+          "hash_scope": "Exact retained local artifact only; not uploaded with this addition."
+        },
+        {
+          "artifact_name": "ukaea-accounts-pdf-page-83.png",
+          "artifact_type": "local_PDF_page_render",
+          "bytes": 153527,
+          "sha256": "23d912b4b4dce27cd0c1bfb9d48814bc6c3c598f10f4016a2db55eaf9325b467",
+          "hash_scope": "Exact retained local artifact only; not uploaded with this addition."
+        }
+      ],
+      "source_quality": "Note 14.3 printed160/PDF83 visually inspected; other cited technical activity extracted as text. Original PDF and listed local render hashes are distinct."
+    },
+    {
+      "source_id": "TAE-S11",
+      "title": "UKAEA planned JV investment announcement",
+      "source_url": "https://www.gov.uk/government/news/tae-technologies-and-ukaea-partner-to-commercialise-fusion-tech",
+      "document_date": "2025-12-02",
+      "source_family": "UK_public_body_publication",
+      "locator": "New global hub section; planned equity and approvals paragraphs",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "preserved_official_HTML_and_text_review",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "ukaea-dec2025-announcement.html",
+          "artifact_type": "original_HTML",
+          "bytes": 82937,
+          "sha256": "c0099df1a8710bd24c3c7e2ef299a7f817770b7b5edd4a294db866fb27889e82",
+          "hash_scope": "Exact retained local artifact only; not uploaded with this addition."
+        }
+      ],
+      "source_quality": "Retained official source inspected; no full-document visual claim or bank confirmation."
+    },
+    {
+      "source_id": "TAE-S12",
+      "title": "TAE Beam incorporation and initial subscriber",
+      "source_url": "https://find-and-update.company-information.service.gov.uk/company/17090053/filing-history/MzUxMDA3MzM3NGFkaXF6a2N4/document?format=pdf&download=0",
+      "document_date": "2026-03-13",
+      "source_family": "official_corporate_register",
+      "locator": "p5 initial subscriber; p6 no registrable PSC; p9 memorandum",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "preserved_official_PDF_and_selected_page_review",
+      "page_images_visually_verified": true,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "MzUxMDA3MzM3NGFkaXF6a2N4.pdf",
+          "artifact_type": "original_Companies_House_PDF",
+          "bytes": 277048,
+          "sha256": "d975bd4354db318ee6e2bc33b2fa09cd61550f7124af5d92bd34a670f6c64221",
+          "hash_scope": "Exact retained local artifact only; not uploaded with this addition."
+        }
+      ],
+      "source_quality": "Retained incorporation PDF; initial subscriber p5 visually inspected. Date/capital context checked from extracted text and independent corporate-filings audit.",
+      "document_id": "MzUxMDA3MzM3NGFkaXF6a2N4"
+    },
+    {
+      "source_id": "TAE-S13",
+      "title": "TAE Beam SH01 allotment return",
+      "source_url": "https://find-and-update.company-information.service.gov.uk/company/17090053/filing-history/MzUxMzg3NDMwOGFkaXF6a2N4/document?format=pdf&download=0",
+      "document_date": "2026-04-01",
+      "source_family": "official_corporate_register",
+      "locator": "p1 allotment and paid-value/cash fields; pp2–3 capital and rights",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "preserved_official_PDF_and_selected_page_review",
+      "page_images_visually_verified": true,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "MzUxMzg3NDMwOGFkaXF6a2N4.pdf",
+          "artifact_type": "original_Companies_House_PDF",
+          "bytes": 98008,
+          "sha256": "1e3d5a8d864ba87a021e767470f762933fbab025dfbc2eb475108e312da70761",
+          "hash_scope": "Exact retained local artifact only; not uploaded with this addition."
+        }
+      ],
+      "source_quality": "Retained electronic SH01 PDF; p1 visually inspected, pp2-3 text checked. Amount-paid field is not treated as total bank cash; allottees unnamed.",
+      "document_id": "MzUxMzg3NDMwOGFkaXF6a2N4"
+    },
+    {
+      "source_id": "TAE-S14",
+      "title": "TAE Beam articles adopted March 31, filed April 17",
+      "source_url": "https://find-and-update.company-information.service.gov.uk/company/17090053/filing-history/MzUxMzY2NDQ5MmFkaXF6a2N4/document?format=pdf&download=0",
+      "document_date": "2026-04-17",
+      "source_family": "official_corporate_register",
+      "locator": "pp1/3 adoption; governance pp7–12; issues pp19–20",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "preserved_official_PDF_and_selected_page_review",
+      "page_images_visually_verified": true,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "MzUxMzY2NDQ5MmFkaXF6a2N4.pdf",
+          "artifact_type": "original_Companies_House_PDF",
+          "bytes": 1107745,
+          "sha256": "c3b89eafcefe6c5afdbae4ff7e8821c31c5db55f0e2c7cab25a5d0e79c2cf603",
+          "hash_scope": "Exact retained local artifact only; not uploaded with this addition."
+        }
+      ],
+      "source_quality": "Retained articles PDF: pages 1, 7, 10, 12 and 19 visually inspected; remaining cited pages checked through page-level OCR. Governance references do not supply missing shareholder agreements.",
+      "document_id": "MzUxMzY2NDQ5MmFkaXF6a2N4"
+    },
+    {
+      "source_id": "TAE-S15",
+      "title": "TAE Beam March 31 sole-member resolution, filed June 9",
+      "source_url": "https://find-and-update.company-information.service.gov.uk/company/17090053/filing-history/WUYzM1JJOFdhZGlxemtjeA/document?format=pdf&download=0",
+      "document_date": "2026-06-09",
+      "source_family": "official_corporate_register",
+      "locator": "p1 March31 signed sole-member resolution; annexed articles pp2–23",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "preserved_official_PDF_and_selected_page_review",
+      "page_images_visually_verified": true,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "WUYzM1JJOFdhZGlxemtjeA.pdf",
+          "artifact_type": "original_Companies_House_PDF",
+          "bytes": 1157244,
+          "sha256": "d2928b740e69c980790b29e310c5dd73768764215838ab767cbf81e4574286a1",
+          "hash_scope": "Exact retained local artifact only; not uploaded with this addition."
+        }
+      ],
+      "source_quality": "Retained resolution PDF; signed p1 visually inspected. Annexed articles do not supply missing shareholder or IP agreements.",
+      "document_id": "WUYzM1JJOFdhZGlxemtjeA"
+    },
+    {
+      "source_id": "TAE-S16",
+      "title": "Companies Act 2006 section 583",
+      "source_url": "https://www.legislation.gov.uk/ukpga/2006/46/section/583",
+      "document_date": "2006",
+      "source_family": "official_UK_legislation",
+      "locator": "Subsections2–3",
+      "inspection_date": "2026-10-19",
+      "inspection_mode": "preserved_official_HTML_and_text_review",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "companies-act-s583.html",
+          "artifact_type": "original_HTML",
+          "bytes": 45352,
+          "sha256": "57c1f7149a2c796ec7382d2ee3e206d8946ee6d25f5e9fecfb9ad36154f26175",
+          "hash_scope": "Exact retained local artifact only; not uploaded with this addition."
+        }
+      ],
+      "source_quality": "Retained official HTML and current official data.html text inspected. Standard web route returned unsupported content-type; official alternate HTML representation succeeded. No specific transaction mechanism or legal resolution inferred.",
+      "readable_url": "https://www.legislation.gov.uk/ukpga/2006/46/section/583/data.html"
+    }
+  ],
+  "revision_history": [
+    {
+      "date": "2026-10-19",
+      "change": "Added UKAEA equity and corporate-form reconciliation; narrowed prior sovereign-source absence statement to the TMTG advance; original five transaction rows and historical totals unchanged.",
+      "base_head": "7e0c032cc9f5efcae7b5155def95272e070f47c1"
+    }
+  ]
+}
