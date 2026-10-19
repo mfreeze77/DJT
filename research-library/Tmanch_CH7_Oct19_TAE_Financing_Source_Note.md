@@ -59,11 +59,54 @@ If the venture improves TAE's value or repayment capacity, TMTG could benefit as
 
 Revision record, October 19: this extension narrows the earlier general sovereign-source absence statement to the specific $200 million TMTG advance. It documents separate UK public-body equity in the TAE group without tracing that advance's origin. Existing loan terms, unresolved contract-summary differences and historical totals remain unchanged.
 
+## October 19 follow-up: corporate sources and uses behind the advance
+
+The annual and September-quarter reports narrow the context to accumulated corporate liquidity and fourth-quarter asset turnover. They do **not** identify the December 19 originating account, wire remitter, investment-settlement dates or any investor's earmarked dollars. In particular, **$250 million of Q4 short-term-investment sales is not a traced source of the $200 million TAE advance**. TAE-T01/T02 remain the same advance, without a new receipt entry. [TAE-S05, annual F-7](https://www.sec.gov/Archives/edgar/data/1849635/000114036126007174/ef20062365_10k.htm); [TAE-S17, nine-month cash flow p.5](https://www.sec.gov/Archives/edgar/data/1849635/000114036125040977/ef20054981_10q.htm).
+
+### Q4 bridge, derived rather than separately reported
+
+The following USD-million values are annual cash-flow amounts less nine-month amounts. Cash includes equivalents **and restricted cash**; a consolidated balance does not establish unrestricted cash in TMTG's paying account.
+
+| Cash bridge | USD million |
+|---|---:|
+| September 30 opening balance | 501.9115 |
+| Q4 operating net inflow: 14.7581 − 2.6388 | +12.1193 |
+| Q4 investing net flow: −2,267.2830 − (−1,973.1082) | −294.1748 |
+| Q4 financing net flow: 2,248.1769 − 2,302.1448 | −53.9679 |
+| December 31 closing balance | 165.8881 |
+
+The bridge closes exactly at published precision. Within Q4 investing, short-term-investment sales were 325 − 75 = **250**, short-term-investment purchases 23.5060 − 18.8744 = **4.6316**, and equity-security purchases 932.2958 − 592.7564 = **339.5394**, alongside the existing **200** TAE outflow. These components overlap the net investing line and must not be added to it. The annual accounting policy describes short-term investments primarily as Treasury-collateralized repurchase arrangements in which TMTG lends to a seller. The accounting description does not establish a new TMTG borrowing or identify the TAE wire bank. [TAE-S05, F-7 and Note 2]; [TAE-S17, p.5].
+
+PIPE and note-issuance proceeds are unchanged between the two cash-flow statements, so there is no disclosed Q4 increment in those lines. The annual report states there were no 2025 SEPA share sales. Q4 financing is a net outflow, despite small warrant and noncontrolling-interest receipts. A **$100 unexplained reporting difference** in cash offering costs is retained mechanically in the subtraction, not classified as new proceeds: Q3's cash-flow table says $34,399.3 thousand, while its Note 14 and the annual report say $34,399.2 thousand. No rounding or reclassification explanation is assumed. [TAE-S05, F-7, Note 13 and pp.99–100](https://www.sec.gov/Archives/edgar/data/1849635/000114036126007174/ef20062365_10k.htm); [TAE-S17, p.5 and Note 14](https://www.sec.gov/Archives/edgar/data/1849635/000114036125040977/ef20054981_10q.htm).
+
+### May financing package: gross, face and cash are different measures
+
+The closing report identifies 55,857,181 shares at $25.72, or calculated equity consideration of **$1,436,646,695.32**. It also identifies **$1 billion note principal**; the note subscription form prices the notes at 96% of principal. [TAE-S18, Item 1.01](https://www.sec.gov/Archives/edgar/data/1849635/000114036125020967/ef20049966_8k.htm); [TAE-S20, preamble](https://www.sec.gov/Archives/edgar/data/1849635/000114036125020420/ef20049689_ex10-2.htm).
+
+| FY2025 cash-flow reconstruction of the May package | USD million |
+|---|---:|
+| PIPE cash-flow proceeds, after fee offset | 1,395.3183 |
+| Note cash proceeds, after original-issue discount | 960.0000 |
+| Cash debt/equity offering costs | (34.3992) |
+| Derived net new cash | **2,320.9191** |
+
+The disclosed **75.7276** total offering costs consist of **41.3284** netted against subscriptions and **34.3992** paid in cash. Subtracting the whole fee amount again from the PIPE cash-flow line would double count the offset. Share-price gross minus the offset differs from reported PIPE cash by **−$4.68**, retained as a published-precision reconciliation residual. The annual report labels its 1,395.3183 figure gross even though the offset explains its difference from share-price consideration. Note face, discount, gross consideration, cash components and net cash overlap; they are not separate fundraising receipts. This is an annual-report reconstruction of the May package, not proof of a closing-day bank balance or December availability. [TAE-S05, F-7 and Note 13](https://www.sec.gov/Archives/edgar/data/1849635/000114036126007174/ef20062365_10k.htm).
+
+The funds should not all be described as unrestricted. The filed equity form limits working-capital/general-corporate use to **3% of equity gross proceeds**; the note form specifies Bitcoin strategy and collateral uses, less expenses. These filed forms do not include every investor's executed signature page. Written amendment/waiver provisions do not establish that a waiver occurred. The executed indenture names U.S. Bank Trust Company, N.A. as trustee/collateral agent and addresses collateral coverage and release; that role does not identify the economic source or TAE wire bank. No reviewed record allocates these proceeds to TAE or establishes compliance or breach. [TAE-S19, §§3(w), 8(o)](https://www.sec.gov/Archives/edgar/data/1849635/000114036125020420/ef20049689_ex10-1.htm); [TAE-S20, §§1, 3(z), 6(b), 8(i)](https://www.sec.gov/Archives/edgar/data/1849635/000114036125020420/ef20049689_ex10-2.htm); [TAE-S21, §§3.8, 3.10, 13.1–13.2](https://www.sec.gov/Archives/edgar/data/1849635/000114036125020967/ef20049966_ex4-1.htm).
+
+### Foris cash direction and remaining documentary gap
+
+The signed Foris Holdings US Inc. agreement and annual Note 13 describe **TMTG transferring $50 million plus 2,797,985 shares in exchange for 684,427,004 CRO**. The agreement's $105 million CRO consideration is not $105 million incoming Crypto.com cash. The agreement is dated August 26, 2025, as is Note 13; the annual business summary instead says August 25. Preserve that date difference without treating either as an independently verified bank-settlement date. [TAE-S22, definitions, §§2.1–2.2 and signed schedule](https://www.sec.gov/Archives/edgar/data/1849635/000114036125032615/ef20054552_ex10-1.htm); [TAE-S05, p.8 and Note 13/F-28](https://www.sec.gov/Archives/edgar/data/1849635/000114036126007174/ef20062365_10k.htm).
+
+Further earmarking requires the December 19 disbursement/wire and originating-account ledger matched to TAE's receipt, investment trade/settlement records, and any applicable collateral-release instructions or executed investor consents. Aggregate cash, crypto, collateral and receivables cannot substitute for those records. The later UKAEA investment remains separate. No Russian or sovereign source of the TMTG advance, governmental exchange or personal Trump receipt is established; historical financial totals are unchanged.
+
+Revision record, October 19: added this bounded corporate cash-pool reconciliation after PR55's merge. It preserves all earlier contract, UKAEA and ownership observations and stops short of assigning the advance to any asset sale, financing investor or custody account.
+
 ## Existing-record crosswalk and counting controls
 
 - [CH6-2024-TMTGTRUST-018 and CH6-2024-TMTGOWN-017](Tmanch_CH6_claim_ledger.csv): preserve the historical trust transfer and March 2024 percentage. The dated current ownership observation does not rewrite them.
 - [RF-026](Tmanch_Russian_Linked_Financial_Flows.csv), CH6-2021-TMTGLOAN-013 through CH6-2022-TMTGKNOWLEDGE-016, and [FIN-SRC-022](Tmanch_Russian_Linked_Financial_Sources.md): separate 2021–2022 financing records do not trace this advance. ES Family Trust and the Donald J. Trump Revocable Trust are distinct.
-- The eight transaction rows use the existing [13-column transaction schema](research/early_petroleum_financing_2026/transactions.csv). Funding, its cash-flow presentation, capacity, unpaid interest, compensation, public equity and intangible contributions are non-additive categories. TAE-T06 and TAE-T07 are GBP/USD observations of the same investment; TAE-T08 is a separate intangible contribution/commitment, not added as cash. Every row is excluded from [historical receipt totals](Tmanch_Russian_Linked_Financial_Methodology.md).
+- The nineteen transaction rows use the existing [13-column transaction schema](research/early_petroleum_financing_2026/transactions.csv). Funding, its cash-flow presentation, capacity, unpaid interest, compensation, public equity and intangible contributions are non-additive categories. TAE-T06 and TAE-T07 are GBP/USD observations of the same investment; TAE-T08 is a separate intangible contribution/commitment, not added as cash. TAE-T09–T14 are cash balances or overlapping Q4 flow observations, not a wire reconstruction; TAE-T15–T18 are overlapping May-package components and net cash; TAE-T19 is the separate Foris cash outflow. Every row is excluded from [historical receipt totals](Tmanch_Russian_Linked_Financial_Methodology.md).
 
 ## Verification and remaining records
 
