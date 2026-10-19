@@ -109,3 +109,7 @@ In his [October 19 official post](https://t.me/V_Zelenskiy_official/21425), read
 **Evidence and inference boundary:** The October 18 restoration account above remains part of the record. Second-wave receipt is material counterevidence to a blanket overnight cutoff; the accounts do not reconcile exact service scope or observation windows. Analytical inference: an absent advance warning can reduce Ukrainian preparation time and potentially favor Russian strike effectiveness. The sources do not prove deliberate withholding, a presidential instruction, coordination, or causal responsibility for particular casualties. Warning delivery remains distinct from the satellite-terminal restrictions in [J20-2026-021's source note](Tmanch_CH7_Oct15_Starshield_Oversight_Source_Note.md).
 
 The official channel text and the two reports above were independently inspected October 19. The original broadcast and complete official recording/transcript were not obtained. The State Department transcript route had returned HTTP 403 and remained stopped. This is dated follow-up to **J20-2026-014**, with no new event ID or numerical score.
+
+## October 18 presidential-statement cross-reference
+
+The [dated statement follow-up](Tmanch_CH7_Oct12_Iran_Statement_Source_Note.md#october-18-follow-up-publicly-linked-rationale) supplies additional attributed context for **J20-2026-007/-011**. It does not change the trade-evidence requirements above or supply new intelligence-delivery evidence. The October 18 restoration and October 19 warning qualifications remain preserved.

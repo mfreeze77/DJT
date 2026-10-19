@@ -25,3 +25,22 @@ The proposed event record is **J20-2026-013** in [J20-Pres.md](J20-Pres.md), wit
 ## Records that could change the assessment
 
 The decisive missing records are contemporaneous intelligence assessments, the president's actual briefing history, the time period and type of assistance at issue, and any resulting policy instructions or consequences. Do not infer those records from the language of the post. This source note does not revalidate the entire historical matrix or establish present military-assistance facts.
+
+## October 18 follow-up: publicly linked rationale
+
+Donald Trump's [account post 117463828588421761](https://truthsocial.com/@realDonaldTrump/117463828588421761) is dated **October 18, 2026, 4:36 p.m. EDT / 20:36 UTC**, to minute precision, by [Trump's Truth archive](https://www.trumpstruth.org/statuses/42416). Its October 19 capture time is separate.
+
+Trump argued that pressure could drive Russia from negotiations and that keeping its claimed limited assistance to Iran low was another reason for restraint. He described that assistance as “very little, if anything” relative to what Russia could provide, and said he wanted to “keep it that way.” He also blamed Ukrainian refinery strikes for diesel-market harm, praised claimed Russian supply, and accused Zelenskyy of resisting peace. These are his assertions. The reference to “Signing that document” remains ambiguous. [Original post](https://truthsocial.com/@realDonaldTrump/117463828588421761).
+
+**Acquisition history:** On October 19, a direct open failed; following the archive's original link returned the full wording in the official page's indexed title, with a JavaScript-only body. The archive matched the text, account and ID. No rendered primary page, platform timestamp field or original-page byte export was acquired. Timestamp provenance is the archive's labeled original-post field, not its capture field.
+
+### Existing-event and claim crosswalk
+
+- **J20-2026-013:** This is later Russia-specific response evidence. The October 12 statement above still concerned both Russia and China; its event time and wording are unchanged.
+- **J20-2026-025:** Read beside the [October 16 Graham-waiver source note](Tmanch_CH7_Oct16_Graham_Waivers_Source_Note.md). The operative order and September enactment remain separate records; the ambiguous document reference does not identify a new instrument, amendment or rescission.
+- **J20-2026-007 and J20-2026-011:** Read beside the [refinery/diesel source note](Tmanch_CH7_Oct13_Intelligence_Diesel_Source_Note.md). The September request and October license retain their dates and distinct legal/operational scope. Market and shipment assertions require trade evidence; they are not proof of purchases, payments or realized savings.
+- **CH7-RUS-IRN-004, -005 and -007:** The [existing claim ledger](Tmanch_CH7_claim_ledger.csv) preserves March presidential minimization, Witkoff's separate reliance on Russian denials subject to intelligence review, and the narrower August Hormuz remarks. The new statement extends that response chronology without making the speakers, dates or subjects interchangeable.
+
+**Countervailing record:** CH7-RUS-IRN-001/-002 and the [targeting/casualty matrix](Tmanch_CH7_Russia_China_Iran_Targeting_Casualty_Matrix.md) preserve the earlier multi-official targeting-assistance reporting and satellite-support chronology, together with Russian denials, source limitations and unresolved precise causation. Established U.S. casualties remain separate from attribution of any particular death to Russian assistance. The new claim does not disprove those records or establish current assistance levels. This follow-up does not re-audit their underlying sources.
+
+**Cumulative assessment:** The express public linkage supplies more evidence of Trump's stated rationale than chronology alone. It does not establish his private motive or briefing knowledge, an accepted exchange, a reciprocal Russian concession, coercion, payment or a secret agreement. In particular, it does not corroborate the specific exchange allegation retained as unverified in CH7-RUS-IRN-008. Existing energy-reciprocity evidence and countervailing sanctions/support records remain relevant comparators. No new implementation event, numeric score, casualty attribution or financial flow is added.
