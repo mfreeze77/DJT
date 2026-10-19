@@ -769,3 +769,16 @@ Each entry states both its proper use and its limit. An official statement prove
 5. White House fact sheets establish announced agreements, not completed investment or lack of conflict.
 6. Documentary reporting is strongest when it identifies contracts, filings, witnesses, or records and includes denials.
 7. No source should be cited for a proposition broader than the record it contains.
+
+## CH7-SRC-LIG-20261018 — LIG divestment and licensing status
+
+- **Primary records:** Lukoil's January 29 conditional-sale release; LIG's preliminary 2025 accounts prepared/filed September 30; GL 131J; FAQ 1224; DFC's January 14 IHC-framework announcement; Austrian entity pages.
+- **Source register, exact pages, document hash and limits:** [Lukoil divestment source note](Tmanch_CH7_Oct18_Lukoil_Divestment_Source_Note.md).
+- **Companions:** CH7-LIG-001–005, GL_131J and J20-2026-028; source-scoped entity crosswalk linked in the note.
+- **Limits:** Preliminary company disclosure is distinct from an inspected specific license or closed transaction. DFC–IHC framework is not Lukoil financing evidence. No realized proceeds or personal benefit established.
+
+### October 19 continuation — option rights, parent financing and Fieldwood
+
+The [LIG source-note continuation](Tmanch_CH7_Oct18_Lukoil_Divestment_Source_Note.md#october-19-continuation-identified-option-rights-and-creditor-claims) adds LIG-S007–012: Atash's filed FY2024 accounts, MOL issuer subsidiary reporting, Carso's audited statements and separate consideration/approval disclosures, and the GLEIF identity record for the existing Dutch holding company. New companions are **CH7-LIG-006–010** and **LIG-E011–019**; E003 gains a sourced identifier without merging entities.
+
+Option rights, equity-classified parent financing, ordinary loan balances, share price and assumed company debt retain separate labels and dates. These records do not establish exercise, closing, settled proceeds, a private benefit or a new U.S. policy action. Full acquired originals remain outside the public repository; acquisition scope, exact pages and hashes are in the source note.
