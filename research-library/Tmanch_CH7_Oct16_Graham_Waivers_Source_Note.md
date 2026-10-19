@@ -75,3 +75,7 @@ The [October 16 White House order](https://www.whitehouse.gov/presidential-actio
 In [Sky News's October 18 liveblog](https://news.sky.com/story/politics-latest-burnham-starmer-labour-makerfield-by-election-12593360?postid=11923005), the 08:35:37 UK-time item reports Yvette Cooper repeatedly saying the United Kingdom takes a different view from the United States on Russia sanctions, while affirming NATO support for Ukraine. [GOV.UK identifies her current role](https://www.gov.uk/government/people/yvette-cooper) as Secretary of State for Health and Social Care. The original broadcaster's text was inspected; the interview recording was not. The supplied link opens the liveblog rather than a segment-only page.
 
 This adds an attributed UK policy disagreement and support statement alongside **J20-2026-023**'s separate EU position. It is not a new British sanctions instrument, a demonstrated increase in pressure, or evidence that all allies agree on implementation. No new event or score is assigned.
+
+## October 18 presidential-statement cross-reference
+
+The [dated statement follow-up](Tmanch_CH7_Oct12_Iran_Statement_Source_Note.md#october-18-follow-up-publicly-linked-rationale) records a later attributed public rationale relevant to **J20-2026-025**, with original-post and archive provenance. Its ambiguous document reference does not alter the instrument analysis above. No additional waiver, reversal or implementation event is inferred.
