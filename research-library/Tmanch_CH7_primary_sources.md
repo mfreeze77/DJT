@@ -794,3 +794,29 @@ Each entry states both its proper use and its limit. An official statement prove
 The [LIG source-note continuation](Tmanch_CH7_Oct18_Lukoil_Divestment_Source_Note.md#october-19-continuation-identified-option-rights-and-creditor-claims) adds LIG-S007–012: Atash's filed FY2024 accounts, MOL issuer subsidiary reporting, Carso's audited statements and separate consideration/approval disclosures, and the GLEIF identity record for the existing Dutch holding company. New companions are **CH7-LIG-006–010** and **LIG-E011–019**; E003 gains a sourced identifier without merging entities.
 
 Option rights, equity-classified parent financing, ordinary loan balances, share price and assumed company debt retain separate labels and dates. These records do not establish exercise, closing, settled proceeds, a private benefit or a new U.S. policy action. Full acquired originals remain outside the public repository; acquisition scope, exact pages and hashes are in the source note.
+
+
+## October 19, 2026 — ALT5/WLF financing and governance supplement
+
+[Full neutral source note](Tmanch_CH7_Oct19_ALT5_WLF_Source_Note.md), claims CH7-ALT5-001–010, [entity crosswalk](research/alt5_wlf_2026/entity_crosswalk.csv), [transaction observations](research/alt5_wlf_2026/transactions.csv), and [source preservation manifest](research/alt5_wlf_2026/source_manifest.json).
+
+The following source IDs are scoped to that supplement. Issuer reports and related-person filings are not independent bank or wallet confirmation. The January principal/net/balance observations describe one loan; collateral counts are not new cash; Concrete token value, advance, deployed progress and planned total are separate categories with no aggregate. No Russian-financial total, payoff entry or personal receipt is added.
+
+| Source ID | Record | Filing / access date | Exact location |
+|---|---|---|---|
+| ALT5-S001 | [ALT5 Sigma Corporation Form 8-K](https://www.sec.gov/Archives/edgar/data/862861/000164117225022905/form8-k.htm) | 2025-08-11 | Item 5.02; initial appointment announcement |
+| ALT5-S002 | [Form of Securities Purchase Agreement](https://www.sec.gov/Archives/edgar/data/862861/000164117225022905/ex10-2.htm) | 2025-08-11 | Sections 4.20–4.21; purchaser signature pages |
+| ALT5-S003 | [ALT5 Sigma Corporation Form 8-K](https://www.sec.gov/Archives/edgar/data/862861/000164117225026082/form8-k.htm) | 2025-08-29 | Item 5.02, Board Composition and Employment Matters |
+| ALT5-S004 | [ALT5 Sigma Corporation Form 8-K](https://www.sec.gov/Archives/edgar/data/862861/000149315225017935/form8-k.htm) | 2025-10-14 | Item 5.07, October 10 special meeting, Proposal 2 |
+| ALT5-S005 | [World Liberty Financial, Inc. Form 3](https://www.sec.gov/Archives/edgar/data/862861/000110465925111655/xslF345X02/tm2531242-1_3seq1.xml) | 2025-11-13 | Relationship of Reporting Person; Remarks; event date August 12, 2025 |
+| ALT5-S006 | [Zachary S. Folkman Form 3](https://www.sec.gov/Archives/edgar/data/862861/000149315225022432/xslF345X02/ownership.xml) | 2025-11-13 | Event date October 20, 2025; director box; Remarks |
+| ALT5-S007 | [ALT5 Sigma Corporation revised definitive proxy](https://www.sec.gov/Archives/edgar/data/862861/000149315226005629/formdefr14a.htm) | 2026-02-06 | Folkman biography; Actions and Committees of our Board |
+| ALT5-S008 | [ALT5 Sigma Corporation Form 8-K](https://www.sec.gov/Archives/edgar/data/862861/000149315226008573/form8-k.htm) | 2026-03-02 | Item 5.07, February 27 annual meeting, Proposal 1 |
+| ALT5-S009 | [ALT5 Sigma Corporation Form 8-K](https://www.sec.gov/Archives/edgar/data/862861/000149315226004616/form8-k.htm) | 2026-02-02 | Items 1.01 and 2.03; January 29 loan and draw |
+| ALT5-S010 | [Master Loan and Security Agreement dated January 29, 2026](https://www.sec.gov/Archives/edgar/data/862861/000149315226004616/ex10-130.htm) | 2026-02-02 | Opening parties; sections 2–3, 11, 16–24; Schedule 1; signature blocks |
+| ALT5-S011 | [AI Financial Corporation Form 10-Q, period ended June 27, 2026](https://www.sec.gov/Archives/edgar/data/862861/000149315226038732/form10-q.htm) | 2026-08-17 | Note 1 pp. 8–9; Note 14 pp. 20–21; Concrete Agreement p. 33; MD&A treasury policy |
+| ALT5-S012 | [AI Financial board webpage](https://www.aifi.co/ir/board-of-directors) | Undated; retrieved 2026-10-19 | Board roster retrieved October 19, 2026 |
+| ALT5-S013 | [AI Financial committee-composition webpage](https://www.aifi.co/ir/committee-composition) | Undated; retrieved 2026-10-19 | Stale committee roster; unsuitable as current membership proof |
+| ALT5-S014 | [AI Financial governance-documents webpage](https://www.aifi.co/ir/governance-documents) | Undated; retrieved 2026-10-19 | Links to three standard committee charters |
+
+The January exhibit also has blank signature fields: funding rests on the issuer's express draw disclosure, not a separately authenticated signed counterpart. WLF Inc./LLC continuity, Folkman's precise appointment date, form-SPA committee implementation, actual settlement instruments and Concrete downstream recipients remain unresolved. Full originals are linked; only metadata and hashes accompany the analytical note.

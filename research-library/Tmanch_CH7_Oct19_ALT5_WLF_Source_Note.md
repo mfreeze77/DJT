@@ -1,0 +1,125 @@
+# ALT5 / World Liberty: disclosed financing and implemented governance
+
+Prepared October 19, 2026. This is a bounded primary-record supplement to Chapter 7. It separates the January loan, changes in pledged collateral, actual board appointments, proposed treasury-governance provisions, and the later Concrete services arrangement. It does not revise the chapter's existing policy or payoff conclusions.
+
+## Finding and evidentiary boundary
+
+ALT5 disclosed an actual January 29, 2026 draw of $15 million from World Liberty Financial LLC through ALT5 Digital Holdings, Inc., with approximately $14.2 million of net proceeds. Its later quarterly report still showed a $15 million loan balance and a larger quantity of pledged WLFI tokens. Separate filings establish actual World Liberty Financial, Inc. board representatives, rather than merely proposed nomination rights. The same quarter's subsequent-event disclosure describes a distinct July 30 Concrete arrangement, including a reported $3 million advance and $25 million deployed toward a $32 million plan. These are corporate disclosures, not independently reconciled bank or wallet records. [ALT5-S009](https://www.sec.gov/Archives/edgar/data/862861/000149315226004616/form8-k.htm) [ALT5-S011](https://www.sec.gov/Archives/edgar/data/862861/000149315226038732/form10-q.htm) [ALT5-S005](https://www.sec.gov/Archives/edgar/data/862861/000110465925111655/xslF345X02/tm2531242-1_3seq1.xml) [ALT5-S008](https://www.sec.gov/Archives/edgar/data/862861/000149315226008573/form8-k.htm)
+
+**No amount in this supplement is added to historical Russian-linked financial totals or treated as a personal Trump-family receipt.** No inspected record traces these loan or deployment funds to a Russian-asset acquisition, identifies a governmental exchange, or establishes an IHC/Aryam funding route into either arrangement. The absence of such a trace in these records is a coverage limit, not proof that no connection could exist.
+
+Companions: [entity identities](research/alt5_wlf_2026/entity_crosswalk.csv), [classified transaction observations](research/alt5_wlf_2026/transactions.csv), [original-source preservation metadata](research/alt5_wlf_2026/source_manifest.json), and claims CH7-ALT5-001–010 in the [Chapter 7 claim ledger](Tmanch_CH7_claim_ledger.csv). All ten transaction observations have `include_in_totals=no`.
+
+## 1. Preserve the legal identities
+
+- The Nevada issuer was **ALT5 Sigma Corporation** when the January loan was disclosed. The quarterly report says it became **AI Financial Corporation** effective April 28, 2026, with the company surviving the name-change merger. This reported continuity supports one issuer identity, SEC CIK 0000862861. It does not merge the issuer with any subsidiary. [ALT5-S011](https://www.sec.gov/Archives/edgar/data/862861/000149315226038732/form10-q.htm)
+- The January borrower is **ALT5 Digital Holdings, Inc.**, expressly a Wyoming profit corporation in the loan exhibit. It is not an LLC. The quarterly report describes it as an indirect wholly owned subsidiary and again names it as the counterparty to Concrete. [ALT5-S010](https://www.sec.gov/Archives/edgar/data/862861/000149315226004616/ex10-130.htm) [ALT5-S011](https://www.sec.gov/Archives/edgar/data/862861/000149315226038732/form10-q.htm)
+- **World Liberty Financial LLC**, expressly a Florida limited liability company in the loan exhibit, is the named January lender. **World Liberty Financial, Inc.** is the named investor/nomination-rights holder in the 2025 documents and the reporting person in the November Form 3. The reviewed set does not establish whether these names represent a conversion, succession, affiliate relationship, or another legal-identity change. They remain separate crosswalk entries; neither a common brand nor the shorthand “WLFI” resolves that question. [ALT5-S010](https://www.sec.gov/Archives/edgar/data/862861/000149315226004616/ex10-130.htm) [ALT5-S002](https://www.sec.gov/Archives/edgar/data/862861/000164117225022905/ex10-2.htm) [ALT5-S005](https://www.sec.gov/Archives/edgar/data/862861/000110465925111655/xslF345X02/tm2531242-1_3seq1.xml)
+- **Concrete Network Services Ltd** is described as a BVI business company. Its disclosed role is the July services counterparty. The company's description is not a BVI registry extract, proof of beneficial ownership, or identification of every deployment beneficiary. [ALT5-S011](https://www.sec.gov/Archives/edgar/data/862861/000149315226038732/form10-q.htm)
+- **Zachary Witkoff** and **Zachary Folkman** are the two identified WLF board representatives. **Eric Trump** is identified as an observer in the later August disclosure. Zachary Witkoff is not Steve Witkoff. [ALT5-S003](https://www.sec.gov/Archives/edgar/data/862861/000164117225026082/form8-k.htm) [ALT5-S005](https://www.sec.gov/Archives/edgar/data/862861/000110465925111655/xslF345X02/tm2531242-1_3seq1.xml)
+
+## 2. January 29 loan: funding, terms, and controls
+
+### What was reported as funded
+
+The February 2 Form 8-K states that the borrower drew the entire $15 million in one tranche on January 29 and received approximately $14.2 million after prepaid interest and lender expenses. The gross principal and net proceeds describe the **same financing**, not two receipts totaling $29.2 million. The June 27 debt table reports $15,000 in thousands, or $15 million, as the WLFI loan balance; that is a later stock of debt, not another draw. [ALT5-S009](https://www.sec.gov/Archives/edgar/data/862861/000149315226004616/form8-k.htm) [ALT5-S011](https://www.sec.gov/Archives/edgar/data/862861/000149315226038732/form10-q.htm)
+
+Schedule 1 allows the lender to fund in U.S. dollars, USD1, or a combination at its discretion and treats USD1 as $1 for that contractual calculation. The reviewed disclosures do not identify the actual settlement mix, sending account, receiving wallet, or underlying source of the lender's funds. “USD” in the companion ledger denotes the stated dollar amount, not a finding that every dollar was wired as fiat. The rounded principal/net difference is not a verified fee payment or a separately established distribution. [ALT5-S010](https://www.sec.gov/Archives/edgar/data/862861/000149315226004616/ex10-130.htm)
+
+The February 8-K identifies intended uses as a board-approved stock buyback program, WLFI-token purchases, and general corporate purposes. The later quarterly loan discussion describes the intended use as a board-approved buyback program. Neither statement, alone, traces the loan to particular purchases or proves which shareholders received any repurchase proceeds. [ALT5-S009](https://www.sec.gov/Archives/edgar/data/862861/000149315226004616/form8-k.htm) [ALT5-S011](https://www.sec.gov/Archives/edgar/data/862861/000149315226038732/form10-q.htm)
+
+### Contractual terms, without overstating execution evidence
+
+The dated filed exhibit and issuer summary set out:
+
+- 4.50% annual interest, payable annually in advance, and maturity 24 months after the initial closing;
+- secured, non-recourse lending, with lender recourse limited to the applicable collateral under the agreement;
+- a 65% loan-to-value provision, requiring approximately $23 million of collateral value for a $15 million advance in the issuer's description;
+- transfer of legal title and custody of the pledged WLFI tokens, margin-call/top-up provisions, and collateral forfeiture after the specified uncured defaults;
+- a ten-business-day final-look opportunity for the lender on proposed third-party financing involving WLFI collateral, together with references to September 2025 side-letter restrictions;
+- no origination, management, or prepayment fee in the issuer summary, while borrower reimbursement of lender expenses remains applicable. [ALT5-S010](https://www.sec.gov/Archives/edgar/data/862861/000149315226004616/ex10-130.htm) [ALT5-S009](https://www.sec.gov/Archives/edgar/data/862861/000149315226004616/form8-k.htm)
+
+The loan exhibit's By/Name/Title signature fields are blank in the inspected HTML, with no signature image or `/s/` text. Accordingly, this collection calls it a **filed dated agreement** and attributes entry into it and funding to the issuer's explicit report. It is not represented as a separately authenticated signed counterpart. Closing statements, wallet attribution, custody confirmations, and bank reconciliations were not obtained.
+
+Section 23 records the borrower's representations that it solicited alternative financing, found these terms more favorable, negotiated at arm's length, and excluded the lender and its affiliates from the borrower's decision. These are relevant contractual counterstatements, not an independent market-pricing opinion. The quarterly report separately says WLF transactions, including the January agreement, were reviewed and approved by its Audit Committee under the related-party policy. This establishes the reported approval process; minutes, recusals, alternatives and transaction-specific voting records were not obtained. [ALT5-S010](https://www.sec.gov/Archives/edgar/data/862861/000149315226004616/ex10-130.htm) [ALT5-S011](https://www.sec.gov/Archives/edgar/data/862861/000149315226038732/form10-q.htm)
+
+### Collateral changed; that is not additional cash
+
+The quarterly report states that **220,620,679 WLFI tokens** were pledged as of March 28, with **157,689,435 additional tokens** pledged during the following 13 weeks, for **378,310,114 tokens** as of June 27. The arithmetic reconciles exactly. The three observations are the opening quantity, period increase and closing quantity of one collateral position; they must not be added together or converted into a new cash receipt. [ALT5-S011](https://www.sec.gov/Archives/edgar/data/862861/000149315226038732/form10-q.htm)
+
+The February summary describes collateral in terms of free-trading, unrestricted tokens. Note 1 of the later quarterly report says all the issuer's WLFI holdings were subject to contractual lock-ups at June 27, with limited collateral/staking/lending uses that do not involve a sale or permanent transfer. Schedule 1 of the loan also says redelivered collateral remains subject to other agreement restrictions. This supplement preserves those differently framed disclosures without inferring unrestricted resale, full removal of lock-ups, or that the later collateral increase proves a particular margin call or use of the tokens. [ALT5-S009](https://www.sec.gov/Archives/edgar/data/862861/000149315226004616/form8-k.htm) [ALT5-S010](https://www.sec.gov/Archives/edgar/data/862861/000149315226004616/ex10-130.htm) [ALT5-S011](https://www.sec.gov/Archives/edgar/data/862861/000149315226038732/form10-q.htm)
+
+## 3. Governance: implemented seats versus proposed terms
+
+| Date / record | What it establishes | What it does not establish |
+|---|---|---|
+| August 11, 2025 8-K and form SPA | Initial appointment announcement and documented nomination/observer/CIO/treasury terms | The announcement alone does not settle the subsequently revised roles; the SPA has blank execution blocks |
+| August 29, 2025 8-K | After Nasdaq discussions, Witkoff accepted the chairmanship as the initial WLF nominee; Eric Trump and Folkman were observers; Folkman's second seat was conditional on stockholder approval; Matt Morgan would perform CIO-like services as a consultant | Eric Trump as an implemented director; Morgan as an appointed corporate officer; implementation of every form-SPA provision |
+| October 10 meeting, reported October 14 | Approval of a second WLF-selected director: 25,091,099 for, 23,868,657 against, 417,426 abstentions and 13,867,952 broker non-votes | The proposal itself does not name that director or establish an effective appointment date |
+| November 13 WLF and Folkman Forms 3 | WLF’s Form 3 names Witkoff and Folkman as actual representatives; Folkman’s confirms his own appointment; WLF reports director-by-deputization status for Section 16 | Independent SEC adjudication of those representations or a resolved Folkman start date |
+| February 27, 2026 election, reported March 2 | Shareholders elected Witkoff, Isaac, Folkman, Hajjar, Bitar, Elmessiry and Stanley for one-year terms; Witkoff received 29,558,662 votes for and Folkman 28,914,712 | WLF majority ownership, majority board control, or proof of how either representative voted on a particular transaction |
+
+Sources: [ALT5-S001](https://www.sec.gov/Archives/edgar/data/862861/000164117225022905/form8-k.htm) [ALT5-S002](https://www.sec.gov/Archives/edgar/data/862861/000164117225022905/ex10-2.htm) [ALT5-S003](https://www.sec.gov/Archives/edgar/data/862861/000164117225026082/form8-k.htm) [ALT5-S004](https://www.sec.gov/Archives/edgar/data/862861/000149315225017935/form8-k.htm) [ALT5-S005](https://www.sec.gov/Archives/edgar/data/862861/000110465925111655/xslF345X02/tm2531242-1_3seq1.xml) [ALT5-S006](https://www.sec.gov/Archives/edgar/data/862861/000149315225022432/xslF345X02/ownership.xml) [ALT5-S008](https://www.sec.gov/Archives/edgar/data/862861/000149315226008573/form8-k.htm).
+
+**Folkman's start date is inconsistent across filings.** His Form 3 lists October 20, 2025 as the event requiring the statement, while the February proxy biography says he had served since August 2025. WLF's own Form 3 has an August 12 event date and, when filed in November, names both representatives. The August 29 conditional-appointment disclosure and October 10 vote must remain visible alongside those records. Actual service is supported by November 13 and by the February election; the exact effective start date is not silently reconciled here. [ALT5-S003](https://www.sec.gov/Archives/edgar/data/862861/000164117225026082/form8-k.htm) [ALT5-S004](https://www.sec.gov/Archives/edgar/data/862861/000149315225017935/form8-k.htm) [ALT5-S005](https://www.sec.gov/Archives/edgar/data/862861/000110465925111655/xslF345X02/tm2531242-1_3seq1.xml) [ALT5-S006](https://www.sec.gov/Archives/edgar/data/862861/000149315225022432/xslF345X02/ownership.xml) [ALT5-S007](https://www.sec.gov/Archives/edgar/data/862861/000149315226005629/formdefr14a.htm)
+
+### Treasury governance is only partly established
+
+Sections 4.20–4.21 of the **form** SPA contemplate an investment committee, a WLF-selected/board-approved CIO, and a treasury subcommittee with WLF-representative participation and specified approval protections. The form's board-nomination wording must not be used to manufacture an additional implemented seat. The later August 29 disclosure provides the concrete two-seat/observer arrangement and consultant role. [ALT5-S002](https://www.sec.gov/Archives/edgar/data/862861/000164117225022905/ex10-2.htm) [ALT5-S003](https://www.sec.gov/Archives/edgar/data/862861/000164117225026082/form8-k.htm)
+
+The revised February proxy lists three standing committees and says there were no others, while separately describing an independent special committee and a one-time disinterested finance committee. It does not identify the proposed investment committee or treasury subcommittee, their members, minutes or exercise of the form's approval powers. The quarterly report describes a long-term WLFI holding policy, permitting sales for liquidity or material portfolio rebalancing, and reports Audit Committee review of related-party transactions. These establish an articulated policy and an asserted approval process, not implementation of every proposed committee or veto. Non-identification in these records also does not prove that no special or subsequently constituted committee could have existed. [ALT5-S007](https://www.sec.gov/Archives/edgar/data/862861/000149315226005629/formdefr14a.htm) [ALT5-S011](https://www.sec.gov/Archives/edgar/data/862861/000149315226038732/form10-q.htm)
+
+The issuer board page retrieved October 19 lists the seven directors. Its committee page still lists Rick Butler despite the proxy's account of his death and later board changes. The governance page links the three standard charters. The stale committee roster is retained as a source-quality limit, not used to assign current committee seats. [ALT5-S012](https://www.aifi.co/ir/board-of-directors) [ALT5-S013](https://www.aifi.co/ir/committee-composition) [ALT5-S014](https://www.aifi.co/ir/governance-documents)
+
+## 4. Concrete: a separate services and deployment arrangement
+
+The August quarterly report's subsequent-event disclosure says ALT5 Digital Holdings, Inc. and Concrete Network Services Ltd entered a two-year master services agreement on July 30, 2026, with two statements of work for exclusive vault infrastructure and related services. It reports the following categories separately. [ALT5-S011](https://www.sec.gov/Archives/edgar/data/862861/000149315226038732/form10-q.htm)
+
+| Disclosed amount | Category | Counting rule |
+|---|---|---|
+| $100 million of WLFI tokens provided to Concrete | Dollar value assigned to a token deposit; not a token count or cash proceeds | Do not treat as $100 million of new cash or add to the issuer's token holdings as a second asset |
+| $3 million of cash or cash equivalents delivered to ALT5 Digital | Advance against expected investment returns, with any repayment shortfall guaranteed by ALT5 Digital | Reported advance, not earned profit, a gift, or an unqualified non-recourse loan |
+| $25 million deposited and deployed as of the quarterly report | Reported deployment into agreed activities | Not established as a payment to ALT5, a named borrower, or an ultimate beneficiary |
+| $32 million to be deposited and deployed | Forward-looking total plan | Includes the reported $25 million progress; do not add them to $57 million |
+
+The disclosure says Concrete will earn fees and an otherwise unrelated third party will receive remuneration. It does not identify that third party, the agreed deployment activities, the capital source, bank accounts, wallet addresses, or downstream recipients. Return of the token deposit is subject to satisfying secured obligations and release conditions. The relationship between the $3 million advance and the $25 million deployment cannot be independently reconciled from the disclosure; the ledger therefore does **not** sum them as $28 million of additional funding. Nor does the record establish that the Concrete token deposit and January loan collateral were the same token units, separate token units, or a refinancing of one another.
+
+The acquired quarterly filing/index and complete-submission review did not yield the July master services agreement or its statements of work. No Concrete-side named-customer confirmation or wallet attribution was located in the bounded companion research. Generic WLFI product descriptions do not prove ALT5 use or July 30 product availability. The service terms remain attributed to AI Financial's filing. No raw partner webpage or complete submission is reproduced here.
+
+## 5. Source and accounting controls
+
+1. **Source independence:** ALT5/AI Financial filings and issuer webpages form one issuer family. WLF's and Folkman's Forms 3 are separate filing persons but financially related. SEC hosting does not independently validate every assertion. The note does not count related filings as disinterested corroboration.
+2. **Amounts versus balances:** $15 million principal, approximately $14.2 million net and the later $15 million balance belong to one loan chain. The token quantities are collateral observations. Concrete token value, advance, deployment progress and planned total are different categories. There is no aggregate across these rows.
+3. **No personal-income inference:** Institutional funding or contractual rights are not automatically receipts by Donald Trump, Eric Trump, either Witkoff, Folkman, or WLF's ultimate owners. No bank-level distribution is demonstrated.
+4. **No Russia attribution:** The historical financial ledger, totals, policy-event scores and payoff ledger remain unchanged. The document adds no corruption, quid-pro-quo, Russian-origin funding, or Russian-asset-purchase claim.
+5. **Preservation:** The source manifest records canonical URLs, retrieval time, byte length, SHA-256 and extracted-text hash. Original bytes and extracted-text hashes were rechecked for all fourteen listed sources. Only metadata and original analytical paraphrase are committed; full filings are linked rather than duplicated.
+
+## 6. Specific remaining evidence gaps
+
+- A closing statement and independently attributable January settlement records, including the USD/USD1 mix and lender source of funds.
+- Signed counterparts, custody and collateral-account records, margin notices and release records; the inspected exhibit does not supply authenticated signatures or wallet attribution.
+- Corporate conversion/succession or affiliate records resolving World Liberty Financial, Inc. versus World Liberty Financial LLC.
+- Appointment resolutions resolving Folkman's exact start date, actual treasury/investment committee charters and minutes, related-party approvals, recusals, and comparative financing materials.
+- The July Concrete agreement and both statements of work, financing/deployment instructions, the remunerated third party's identity, and reconciled bank/wallet evidence for the $3 million advance and $25 million reported deployment.
+- Any record tying either financing chain to a particular asset acquisition or personal distribution. Such a connection is not supplied by this packet.
+
+These are evidentiary gaps, not a recommendation or authorization to contact counterparties, submit records requests, acquire accounts, or bypass restricted sources.
+
+## Primary-source inventory
+
+| Source ID | Record | Filing / access date | Exact location |
+|---|---|---|---|
+| ALT5-S001 | [ALT5 Sigma Corporation Form 8-K](https://www.sec.gov/Archives/edgar/data/862861/000164117225022905/form8-k.htm) | 2025-08-11 | Item 5.02; initial appointment announcement |
+| ALT5-S002 | [Form of Securities Purchase Agreement](https://www.sec.gov/Archives/edgar/data/862861/000164117225022905/ex10-2.htm) | 2025-08-11 | Sections 4.20–4.21; purchaser signature pages |
+| ALT5-S003 | [ALT5 Sigma Corporation Form 8-K](https://www.sec.gov/Archives/edgar/data/862861/000164117225026082/form8-k.htm) | 2025-08-29 | Item 5.02, Board Composition and Employment Matters |
+| ALT5-S004 | [ALT5 Sigma Corporation Form 8-K](https://www.sec.gov/Archives/edgar/data/862861/000149315225017935/form8-k.htm) | 2025-10-14 | Item 5.07, October 10 special meeting, Proposal 2 |
+| ALT5-S005 | [World Liberty Financial, Inc. Form 3](https://www.sec.gov/Archives/edgar/data/862861/000110465925111655/xslF345X02/tm2531242-1_3seq1.xml) | 2025-11-13 | Relationship of Reporting Person; Remarks; event date August 12, 2025 |
+| ALT5-S006 | [Zachary S. Folkman Form 3](https://www.sec.gov/Archives/edgar/data/862861/000149315225022432/xslF345X02/ownership.xml) | 2025-11-13 | Event date October 20, 2025; director box; Remarks |
+| ALT5-S007 | [ALT5 Sigma Corporation revised definitive proxy](https://www.sec.gov/Archives/edgar/data/862861/000149315226005629/formdefr14a.htm) | 2026-02-06 | Folkman biography; Actions and Committees of our Board |
+| ALT5-S008 | [ALT5 Sigma Corporation Form 8-K](https://www.sec.gov/Archives/edgar/data/862861/000149315226008573/form8-k.htm) | 2026-03-02 | Item 5.07, February 27 annual meeting, Proposal 1 |
+| ALT5-S009 | [ALT5 Sigma Corporation Form 8-K](https://www.sec.gov/Archives/edgar/data/862861/000149315226004616/form8-k.htm) | 2026-02-02 | Items 1.01 and 2.03; January 29 loan and draw |
+| ALT5-S010 | [Master Loan and Security Agreement dated January 29, 2026](https://www.sec.gov/Archives/edgar/data/862861/000149315226004616/ex10-130.htm) | 2026-02-02 | Opening parties; sections 2–3, 11, 16–24; Schedule 1; signature blocks |
+| ALT5-S011 | [AI Financial Corporation Form 10-Q, period ended June 27, 2026](https://www.sec.gov/Archives/edgar/data/862861/000149315226038732/form10-q.htm) | 2026-08-17 | Note 1 pp. 8–9; Note 14 pp. 20–21; Concrete Agreement p. 33; MD&A treasury policy |
+| ALT5-S012 | [AI Financial board webpage](https://www.aifi.co/ir/board-of-directors) | Undated; retrieved 2026-10-19 | Board roster retrieved October 19, 2026 |
+| ALT5-S013 | [AI Financial committee-composition webpage](https://www.aifi.co/ir/committee-composition) | Undated; retrieved 2026-10-19 | Stale committee roster; unsuitable as current membership proof |
+| ALT5-S014 | [AI Financial governance-documents webpage](https://www.aifi.co/ir/governance-documents) | Undated; retrieved 2026-10-19 | Links to three standard committee charters |
