@@ -133,6 +133,8 @@ The Chapter 7 expansion covers January 20, 2025 through August 31, 2026. It reco
 
 ### Main research package
 
+- [OGE disclosed-income reconciliation (October 19, 2026)](Tmanch_CH7_Oct19_OGE_Income_Reconciliation.md) — reported Dar fees and crypto categories, prior-year comparison controls, and explicit cash-tracing limits; no historical-total or payoff-score changes.
+
 - [Main Chapter 7](Tmanch_CH7.md)
 - [Supporting research](Tmanch_CH7_support.md)
 - [Claim ledger](Tmanch_CH7_claim_ledger.csv)

@@ -1,0 +1,164 @@
+{
+  "prepared_utc": "2026-10-19",
+  "scope": "Reported disclosure amounts and comparison controls; no independently verified bank-flow or payer finding.",
+  "baseline": {
+    "repository": "mfreeze77/DJT",
+    "commit": "705017b6ce2014990b2b3141a58253aff309f49b",
+    "separate_ALT5_draft_pr": 52,
+    "separate_ALT5_head": "b22b46056080ac4bf878d7b0b2a76a302bffe0c5"
+  },
+  "preservation_notice": "Hashes below identify only retained returned-text or error artifacts. No original PDF was acquired or visually verified. Full sources and returned extracts remain outside this repository addition. Shared extraction artifacts and related disclosures are not independent confirmations.",
+  "sources": [
+    {
+      "source_id": "OGE-S001",
+      "title": "Donald J. Trump annual financial disclosure filed in 2026",
+      "source_url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS%2BIndex/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+      "source_family": "filer_disclosure_hosted_by_OGE",
+      "filing_year": 2026,
+      "income_period": "2025-01-01/2025-12-31",
+      "locator": "Schedule 1 for Part 2, printed pp. 4-9, 12, 20; physical PDF pp. 851-856, 859, 867 (one-based)",
+      "page_count_reported_by_web_tool": 927,
+      "original_pdf_acquired": false,
+      "original_pdf_sha256": null,
+      "page_images_visually_verified": false,
+      "acquisition_status": "Official web-extracted text inspected. Direct original download returned tunnel HTTP 403 and was stopped; no alternate bypass. Screenshot calls returned references without inspectable images.",
+      "preserved_artifacts": [
+        {
+          "artifact_name": "oge2026_dar_fees.txt",
+          "artifact_type": "returned_web_text",
+          "bytes": 20425,
+          "sha256": "05825da4b0ad0d07c21e8b9ef2939862bfb4bfe5818fe9c8b3da3bf6e2b63fdf",
+          "hash_scope": "Local retained artifact only; not original PDF or source HTML bytes; artifact is not uploaded in this addition."
+        },
+        {
+          "artifact_name": "oge2026_dar_context.txt",
+          "artifact_type": "returned_web_text",
+          "bytes": 23599,
+          "sha256": "4b499e0aaaedc7a41717526c350a8e34aee0973bad0cd38b3b44904eb99102a9",
+          "hash_scope": "Local retained artifact only; not original PDF or source HTML bytes; artifact is not uploaded in this addition."
+        },
+        {
+          "artifact_name": "oge2026_crypto.txt",
+          "artifact_type": "returned_web_text",
+          "bytes": 22950,
+          "sha256": "a476f919bf45aca9879763e750049726d9fd46642eacdd7a66a12e0614ee34bb",
+          "hash_scope": "Local retained artifact only; not original PDF or source HTML bytes; artifact is not uploaded in this addition."
+        },
+        {
+          "artifact_name": "oge2026_ownership.txt",
+          "artifact_type": "returned_web_text",
+          "bytes": 24797,
+          "sha256": "04f4b615dd13ed0cad32809910c84f8a83a20cb1c2748d36ca9a4c378bfc21b5",
+          "hash_scope": "Local retained artifact only; not original PDF or source HTML bytes; artifact is not uploaded in this addition."
+        },
+        {
+          "artifact_name": "oge2026_exclusions.txt",
+          "artifact_type": "returned_web_text",
+          "bytes": 22956,
+          "sha256": "c8976973fea0585cbd3fa905b7d237075fd2ab0ce57ffcdec737ec2d51c615e2",
+          "hash_scope": "Local retained artifact only; not original PDF or source HTML bytes; artifact is not uploaded in this addition."
+        },
+        {
+          "artifact_name": "oge2026_token_front.txt",
+          "artifact_type": "returned_web_text",
+          "bytes": 22324,
+          "sha256": "a0cf5afb75be8503b24244d2b51bbefc17780c4a33083312fc0418f83f32f3b9",
+          "hash_scope": "Local retained artifact only; not original PDF or source HTML bytes; artifact is not uploaded in this addition."
+        },
+        {
+          "artifact_name": "oge2026_token_tail.txt",
+          "artifact_type": "returned_web_text",
+          "bytes": 21460,
+          "sha256": "0c431967a26613438e864afc350244e9048933f87b6b0cf10df9e1bd2baab0ef",
+          "hash_scope": "Local retained artifact only; not original PDF or source HTML bytes; artifact is not uploaded in this addition."
+        },
+        {
+          "artifact_name": "oge2026_acquisition_error.json",
+          "artifact_type": "acquisition_error_record",
+          "bytes": 273,
+          "sha256": "f60e3671b98c52d86a956e7d2876f1d15d115801b97c0b56449dda80e36ffa06",
+          "hash_scope": "Local retained artifact only; not original PDF or source HTML bytes; artifact is not uploaded in this addition."
+        }
+      ]
+    },
+    {
+      "source_id": "OGE-S002",
+      "title": "Donald J. Trump annual financial disclosure filed in 2025",
+      "source_url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS%2BIndex/4EC9A8E6DD078F2985258CA9002C9377/$FILE/Trump%2C%20Donald%20J.%202025%20Annual%20278.pdf",
+      "source_family": "filer_disclosure_hosted_by_OGE",
+      "official_release_url": "https://extapps2.oge.gov/web/oge.nsf/Resources/Available%2BNow:%2BThe%2BPresident%E2%80%99s%2Band%2BVice%2BPresident%E2%80%99s%2Bcertified%2Bannual%2Bfinancial%2Bdisclosure%2Breports",
+      "filing_year": 2025,
+      "income_period": "2024-01-01/2024-12-31",
+      "locator": "Schedule 1 for Part 2, printed pp. 5-6, 23; physical PDF pp. 153-154, 171 (one-based)",
+      "page_count_reported_by_web_tool": 234,
+      "original_pdf_acquired": false,
+      "original_pdf_sha256": null,
+      "page_images_visually_verified": false,
+      "acquisition_status": "Official web-extracted text inspected; no original PDF or page images acquired. OGE June 13, 2025 release independently identifies this filing context.",
+      "preserved_artifacts": [
+        {
+          "artifact_name": "oge2025_extract.txt",
+          "artifact_type": "returned_web_text",
+          "bytes": 22619,
+          "sha256": "1db450cf1fe7ecb2b291250100577a1ef3341e4169372c2932ead3fa61b91c65",
+          "hash_scope": "Local retained artifact only; not original PDF or source HTML bytes; artifact is not uploaded in this addition."
+        }
+      ]
+    },
+    {
+      "source_id": "OGE-S003",
+      "title": "OGE Public Financial Disclosure Guide: Definitions",
+      "source_url": "https://www.oge.gov/web/278eGuide.nsf/Definitions",
+      "source_family": "OGE_guidance",
+      "locator": "Received; Total Income from Partnership, LLCs, and S-Corporations",
+      "acquisition_status": "Official web-extracted text inspected, not preserved original HTML.",
+      "preserved_artifacts": [
+        {
+          "artifact_name": "oge_guidance_extract.txt",
+          "artifact_type": "returned_web_text",
+          "bytes": 36003,
+          "sha256": "94df727b4ca54c7d4151bad7fd972ed257c4853defbf52cca780ffa90279be39",
+          "hash_scope": "Local retained artifact only; not original PDF or source HTML bytes; artifact is not uploaded in this addition."
+        }
+      ]
+    },
+    {
+      "source_id": "OGE-S004",
+      "title": "OGE Public Financial Disclosure Guide: Reporting Periods",
+      "source_url": "https://www.oge.gov/web/278eGuide.nsf/For_Ethics_Officials#_2.01:Reporting_Periods",
+      "source_family": "OGE_guidance",
+      "locator": "Section 2.01, annual Part 2; extensions do not change reporting period",
+      "acquisition_status": "Official web-extracted text inspected, not preserved original HTML.",
+      "preserved_artifacts": [
+        {
+          "artifact_name": "oge_guidance_extract.txt",
+          "artifact_type": "returned_web_text",
+          "bytes": 36003,
+          "sha256": "94df727b4ca54c7d4151bad7fd972ed257c4853defbf52cca780ffa90279be39",
+          "hash_scope": "Local retained artifact only; not original PDF or source HTML bytes; artifact is not uploaded in this addition."
+        }
+      ]
+    },
+    {
+      "source_id": "OGE-S005",
+      "title": "Dar Global FY2025 full statement of results, March 10, 2026",
+      "source_url": "https://cdn.darglobal.co.uk/2_RNS_Announcement_Dar_Global_FY_25_Full_Statement_of_Results_10032026_v5_Clean_002_SIGNED_5e321d5bc0.pdf",
+      "source_family": "issuer_results_announcement",
+      "locator": "Note 1.4, printed/physical pp. 23-25; note 2.1, p. 26",
+      "page_count_reported_by_web_tool": 75,
+      "original_pdf_acquired": false,
+      "original_pdf_sha256": null,
+      "page_images_visually_verified": false,
+      "acquisition_status": "Issuer-hosted PDF web text inspected. Announcement extracts statutory-account information but says it is not itself statutory accounts.",
+      "preserved_artifacts": [
+        {
+          "artifact_name": "dar2025_names.txt",
+          "artifact_type": "returned_web_text",
+          "bytes": 23208,
+          "sha256": "dd1b5a4e5a24da40a383080c3e8e4b55549de2aa4667bd433ed3daf299c4c4fb",
+          "hash_scope": "Local retained artifact only; not original PDF or source HTML bytes; artifact is not uploaded in this addition."
+        }
+      ]
+    }
+  ]
+}
