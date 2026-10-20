@@ -139,3 +139,20 @@ These are evidentiary gaps, not a recommendation or authorization to contact cou
 | ALT5-S016 | [MOG interim report 2025](https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0917/2025091700316.pdf) | 2025-09-17 publication; period ended 2025-06-30 | Printed p. 46 / PDF p. 47, Note 21(E); subsequent event |
 | ALT5-S017 | [MOG annual report 2025](https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0424/2026042403586.pdf) | 2026-04-24 publication; year ended 2025-12-31 | Printed p. 183 / PDF p. 184, Note 26(d) |
 | ALT5-S018 | [Delaware Division of Corporations entity record](https://icis.corp.delaware.gov/eCorp/EntitySearch/NameSearch.aspx) | Inspected 2026-10-19 | Search file 10255889 or exact name; stateful result, no stable entity-specific URL |
+
+## October 20 follow-up — Anticipated transferability was conditional
+
+**CH7-ALT5-011**, supplementing CH7-ALT5-002–003: the June 10 furnished Form 8-K describes 3,321,690,994 tokens available for collateral, staking or lending under ancillary conditions, excluding approximately 378,310,000 pledged tokens. It describes another 3,583,585,650 tokens as locked and anticipates August 12 transferability. Footnote 3 expressly conditions the lapse in restrictions on effectiveness of a registration covering WLF-held issuer shares and underlying warrant shares. An anticipated date is not an effectiveness notice. [ALT5-S019, Item 7.01, footnotes 1–3](https://www.sec.gov/Archives/edgar/data/862861/000149315226028049/form8-k.htm)
+
+The August 17 quarterly report says the required PIPE resale registration remained unfiled as of that report's date. This is an issuer statement after the anticipated release date, not proof of the October 20 filing or transfer status. [ALT5-S011, Note 16, printed pp. 26–27](https://www.sec.gov/Archives/edgar/data/862861/000149315226038732/form10-q.htm)
+
+**Increment to the record:** existing section 2 already distinguishes limited collateral uses from unrestricted resale. These passages add a dated condition and subsequent reported status, not a correction of an automatic-release claim. They do not reverse reported January funding. The June usage groups also differ from Note 1's June-27 TPA/SPA quantities; no token-unit mapping is assumed. Existing ALT5-T004–006 remain unchanged. No amount is added to transaction or historical financial totals.
+
+**Benefits and mechanism:** national-benefit classification is **uncertain**. The immediate relevance is private corporate liquidity and continuing contractual dependency: token holdings, permitted collateral uses and unrestricted disposition are not interchangeable. No additional cash receipt, personal Trump-family benefit, Russian funding, wrongdoing or governmental exchange follows from these passages. Actual implementation requires the applicable registration/effectiveness record, full ancillary terms and transfer/custody evidence. Later satisfaction of the condition remains unverified; absence of a matched record in this review is not proof of continuing nonfiling.
+
+The June disclosure is furnished rather than deemed filed under Exchange Act section 18. Original June and August HTML were re-inspected for this supplement. ALT5-S019 is new to this source inventory; ALT5-S011 is an existing source, not independent corroboration of itself. Source metadata below and in the manifest preserve the earlier acquisition record.
+
+| Source | Document | Date | Added locator |
+|---|---|---|---|
+| ALT5-S019 | [AI Financial Form 8-K](https://www.sec.gov/Archives/edgar/data/862861/000149315226028049/form8-k.htm) | June 10, 2026 | Item 7.01, footnotes 1–3 |
+| ALT5-S011 | [AI Financial Form 10-Q](https://www.sec.gov/Archives/edgar/data/862861/000149315226038732/form10-q.htm) | August 17, 2026 | Note 16, printed pp. 26–27 |

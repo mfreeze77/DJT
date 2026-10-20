@@ -283,3 +283,12 @@ This inventory identifies the records used to expand Chapter 4 and states the pr
 5. **Missing primary records explicitly targeted:** PS4-022 through PS4-030.
 
 No claim should be upgraded from allegation to fact merely because it appears in several secondary articles that trace back to the same complaint or unnamed source.
+
+## October 20, 2026 — Post-notice relationship supplement
+
+[Source-level analysis](Tmanch_CH4_Oct20_Post_Notice_Source_Note.md); claim CH4-TRUMP-SATER-POSTNOTICE-041 supplements, without replacing, CH4-TRUMP-SATER-KNOWLEDGE-006.
+
+- **PS4-031:** Donald Trump deposition, December 19–20, 2007, O'Brien litigation; transcript pp. 410–413 / physical PDF p. 104. [Public transcript mirror](https://media-cdn.factba.se/pdf/trump-deposition-obrien-20071219-20071220.pdf). Primary testimony; establishes dated notice, not complete earlier knowledge. Retained PDF and cited page visually inspected.
+- **PS4-032:** Felix Sater, House Intelligence Committee testimony, December 20, 2017, pp. 118–119. [Official transcript](https://intelligence.house.gov/uploadedfiles/felix_sater_testimony_dec_20_2017.pdf). Primary witness account of direct negotiation and later role, not a committee merits finding. Retained PDF and cited pages visually inspected.
+- **PS4-033:** Jeff Horwitz/AP, December 4, 2015, [KSL reproduction](https://www.ksl.com/article/37620475). Reported interview; company-side account, not underlying corporate records.
+- **PS4-034:** Washington Post, May 17, 2016, [reported company response](https://www.washingtonpost.com/politics/former-mafia-linked-figure-describes-association-with-trump/2016/05/17/cec6c2c6-16d3-11e6-aa55-670cabef46e0_story.html). Same Garten source as PS4-033, not an additional independent witness. See the source note for the bounded qualification.

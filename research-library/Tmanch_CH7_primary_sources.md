@@ -820,3 +820,7 @@ The following source IDs are scoped to that supplement. Issuer reports and relat
 | ALT5-S014 | [AI Financial governance-documents webpage](https://www.aifi.co/ir/governance-documents) | Undated; retrieved 2026-10-19 | Links to three standard committee charters |
 
 The January exhibit also has blank signature fields: funding rests on the issuer's express draw disclosure, not a separately authenticated signed counterpart. WLF Inc./LLC continuity, Folkman's precise appointment date, form-SPA committee implementation, actual settlement instruments and Concrete downstream recipients remain unresolved. Full originals are linked; only metadata and hashes accompany the analytical note.
+
+## October 20, 2026 — ALT5 conditional transferability
+
+Claim CH7-ALT5-011 and the [dated follow-up](Tmanch_CH7_Oct19_ALT5_WLF_Source_Note.md#october-20-follow-up--anticipated-transferability-was-conditional) add ALT5-S019, [June 10 Form 8-K](https://www.sec.gov/Archives/edgar/data/862861/000149315226028049/form8-k.htm), Item 7.01 footnotes 1–3, and an additional locator for existing ALT5-S011, [August 17 Form 10-Q](https://www.sec.gov/Archives/edgar/data/862861/000149315226038732/form10-q.htm), Note 16 printed pp.26–27. Dated issuer disclosures, not current transfer verification or new funds-flow evidence. See source manifest for preserved acquisition history.
