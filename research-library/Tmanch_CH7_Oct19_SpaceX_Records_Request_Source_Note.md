@@ -45,3 +45,8 @@ Inspected October 20, 2026:
 3. PTI report: full indexed article text inspected; direct page opening returned a tool accessibility error. No official transcript or complete recording inspected. No secondary report is promoted to an agency operational finding.
 
 Outstanding: SpaceX response and production; exact contracts and amendments; decision, notification and implementation logs; matched terminal/service-plan telemetry; warning-delivery records; interceptor transfer approvals and delivery records. The November 2 deadline is a requested response date, not proof of enforceable compulsion or a scheduled restoration.
+
+
+## October 20 evening follow-up: functioning warning reported
+
+The [later official Oslo readout](https://www.president.gov.ua/en/news/v-oslo-prezident-ukrayini-proviv-zustrichi-z-premyer-ministr-106981) reports that ballistic-missile early warning is now working. [J20-2026-030's source note](Tmanch_CH7_Oct20_Warning_Status_Source_Note.md) preserves the original Ukrainian check, publication-time limits and subsystem distinction. This adds a reported operational result after the earlier willingness-to-help account, without revising that earlier observation window. It does not establish full Starlink/Starshield restoration, interceptor delivery, exact resumption time, sustained reliability or authorship of earlier gaps. Prior restoration and renewed-gap history remains intact.

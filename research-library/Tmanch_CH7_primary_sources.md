@@ -820,3 +820,7 @@ The following source IDs are scoped to that supplement. Issuer reports and relat
 | ALT5-S014 | [AI Financial governance-documents webpage](https://www.aifi.co/ir/governance-documents) | Undated; retrieved 2026-10-19 | Links to three standard committee charters |
 
 The January exhibit also has blank signature fields: funding rests on the issuer's express draw disclosure, not a separately authenticated signed counterpart. WLF Inc./LLC continuity, Folkman's precise appointment date, form-SPA committee implementation, actual settlement instruments and Concrete downstream recipients remain unresolved. Full originals are linked; only metadata and hashes accompany the analytical note.
+
+## October 20, 2026 — Binance USD1 retention incentives
+
+**USD1-INC-S001:** [Binance announcement](https://www.binance.com/en/support/announcement/detail/9745ace0eb7a42d396e22a711f907616), published October 1 with October 15 and 20 amendments. Direct live HTML inspected; exchange-advertised terms, not independent payout verification. [Scoped note](Tmanch_CH7_Oct20_Binance_USD1_Incentives_Source_Note.md), claim CH7-UAE-USD1-002, supplements existing CH7-UAE-USD1-001 / CH7-PAY-UAE-002. No funding-contributor allocation, personal receipt or state beneficiary established. Original acquisition hashes and version limits are preserved in the note.
