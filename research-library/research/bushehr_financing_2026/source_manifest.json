@@ -1,0 +1,165 @@
+{
+  "review_date": "2026-10-20",
+  "scope": "Public source locators, provenance and limits; no private artifact paths or full news copies",
+  "original_hash_policy": "Null means no original bytes retained for this source in the research packet; hashes are not claims of payment verification.",
+  "sources": [
+    {
+      "title": "NO RAO repost of Rosatom release",
+      "document_date": "2017-03-15",
+      "url": "https://www.norao.ru/press/news/1488/",
+      "source_type": "institutional_press_release_repost",
+      "preservation_mode": "bounded_extract",
+      "original_sha256": null,
+      "original_bytes": null,
+      "source_id": "BUS-S01"
+    },
+    {
+      "title": "Rosatom 2016 annual report",
+      "document_date": "2016 report; publication date not independently established",
+      "url": "https://report.rosatom.ru/go/rosatom/go_rosatom_2016/go_rosatom_2016.pdf",
+      "source_type": "institutional_annual_report",
+      "preservation_mode": "original_bytes",
+      "original_sha256": "5c12b00118d373c7b73e673b8a1d778f9567fcb79521f7c84bec39ea03d75c7c",
+      "original_bytes": 6523606,
+      "source_id": "BUS-S02",
+      "retrieved_utc": "2026-10-20T00:08:53.717973+00:00"
+    },
+    {
+      "title": "Strana Rosatom Bushehr-2 account",
+      "document_date": "2017-11-07",
+      "url": "https://strana-rosatom.ru/2017/11/07/busher-2-simvol-treh-pokolenij/",
+      "source_type": "corporate_sector_publication",
+      "preservation_mode": "bounded_extract",
+      "original_sha256": null,
+      "original_bytes": null,
+      "source_id": "BUS-S03"
+    },
+    {
+      "title": "Rosatom Newsletter financing estimates",
+      "document_date": "2016-08-26",
+      "url": "https://rosatomnewsletter.com/2016/08/26/new-reactor-units-for-iran/",
+      "source_type": "corporate_newsletter_partly_secondary_finance_claim",
+      "preservation_mode": "bounded_extract",
+      "original_sha256": null,
+      "original_bytes": null,
+      "source_id": "BUS-S04"
+    },
+    {
+      "title": "IRNA interview with Mojtaba Yousefi",
+      "document_date": "2021-09-12",
+      "url": "https://en.irna.ir/news/84467902/Russia-s-allots-5b-loan-to-Iran-to-develop-Bushehr-Ramin-power",
+      "source_type": "original_state_news_interview",
+      "preservation_mode": "bounded_extract",
+      "original_sha256": null,
+      "original_bytes": null,
+      "source_id": "BUS-S05"
+    },
+    {
+      "title": "Noronha House written testimony",
+      "document_date": "2024-04-17",
+      "url": "https://docs.house.gov/meetings/FA/FA13/20240417/117148/HHRG-118-FA13-Wstate-NoronhaG-20240417.pdf",
+      "source_type": "externally_authored_official_congressional_submission",
+      "preservation_mode": "original_bytes",
+      "original_sha256": "9891187c21ae4da5b4a3afb34470f2dbef6dd5c9e01a8b394fb9d50854189489",
+      "original_bytes": 535409,
+      "source_id": "BUS-S06",
+      "retrieved_utc": "2026-10-20T00:13:02.467665+00:00"
+    },
+    {
+      "title": "Free Beacon article cited in testimony",
+      "document_date": "2022-03-16",
+      "url": "https://freebeacon.com/national-security/new-iran-agreement-would-let-russia-cash-in-on-10-billion-contract-to-build-nuclear-sites/",
+      "source_type": "secondary_news_citation_check_only",
+      "preservation_mode": "link_and_bounded_comparison",
+      "original_sha256": null,
+      "original_bytes": null,
+      "source_id": "BUS-S07"
+    },
+    {
+      "title": "Rosatom Iran SMR memorandum release",
+      "document_date": "2025-09-24",
+      "url": "https://atommedia.online/en/press-releases/sostoyalas-vstrecha-glavy-rosatoma-alekseya-likhacheva-s-vitse-prezidentom-irana-prezidentom-organiz/",
+      "source_type": "corporate_press_release",
+      "preservation_mode": "bounded_extract",
+      "original_sha256": null,
+      "original_bytes": null,
+      "source_id": "BUS-S08"
+    },
+    {
+      "title": "IRNA separate Sirik announcement",
+      "document_date": "2025-09-26",
+      "url": "https://www.irna.ir/news/85949922/",
+      "source_type": "original_state_news_report",
+      "preservation_mode": "bounded_fact_only",
+      "original_sha256": null,
+      "original_bytes": null,
+      "source_id": "BUS-S09",
+      "valuation_independently_verified": false
+    },
+    {
+      "source_id": "BUS-S10",
+      "title": "2019 Digest of U.S. Practice in International Law, Chapter 16",
+      "document_date": "2019 practice; May 3 announcement / May 4 policy",
+      "url": "https://2017-2021.state.gov/wp-content/uploads/2020/09/2019-Digest-Chapter-16.pdf",
+      "locator": "Printed p. 509; official digest corroborates announcement",
+      "source_type": "us_official_record",
+      "preservation_mode": "bounded_summary",
+      "original_sha256": null,
+      "original_bytes": null
+    },
+    {
+      "source_id": "BUS-S11",
+      "title": "State statement on nuclear cooperation",
+      "document_date": "2020-05-27",
+      "url": "https://2017-2021.state.gov/keeping-the-world-safe-from-irans-nuclear-program/",
+      "locator": "Unit 1 90-day support extension",
+      "source_type": "us_official_record",
+      "preservation_mode": "bounded_summary",
+      "original_sha256": null,
+      "original_bytes": null
+    },
+    {
+      "source_id": "BUS-S12",
+      "title": "State Ford/Hook briefing",
+      "document_date": "2020-05-27",
+      "url": "https://2017-2021.state.gov/briefing-with-special-representative-for-iran-and-senior-advisor-to-the-secretary-brian-hook-and-assistant-secretary-for-international-security-and-nonproliferation-dr-christopher-a-ford-o/",
+      "locator": "Unit 1 operations/safety/fuel; additional units excluded",
+      "source_type": "us_official_record",
+      "preservation_mode": "bounded_summary",
+      "original_sha256": null,
+      "original_bytes": null
+    },
+    {
+      "source_id": "BUS-S13",
+      "title": "Blinken written answers in Senate hearing record",
+      "document_date": "2023-03-22 hearing; written-answer date unknown",
+      "url": "https://www.govinfo.gov/content/pkg/CHRG-118shrg52967/html/CHRG-118shrg52967.htm",
+      "locator": "Question beginning Why does the Administration continue issuing nuclear project waivers",
+      "source_type": "us_official_record",
+      "preservation_mode": "bounded_summary",
+      "original_sha256": null,
+      "original_bytes": null
+    },
+    {
+      "title": "OFAC GL115D",
+      "document_date": "2026-06-11",
+      "url": "https://ofac.treasury.gov/media/935701/download?inline=",
+      "source_type": "us_government_legal_instrument",
+      "preservation_mode": "original_bytes",
+      "original_sha256": "5c9283974b7db5c43e945c0de82fbe3f75b7e33c3c1667435bc31bb40a50cdca",
+      "original_bytes": 258335,
+      "source_id": "BUS-S14",
+      "retrieved_utc": "2026-10-20T00:12:55.650773+00:00"
+    },
+    {
+      "title": "ITSR scope provision",
+      "document_date": "current eCFR displayed through 2026-10-15",
+      "url": "https://www.ecfr.gov/current/title-31/subtitle-B/chapter-V/part-560/subpart-A/section-560.101",
+      "source_type": "us_regulation",
+      "preservation_mode": "bounded_summary",
+      "original_sha256": null,
+      "original_bytes": null,
+      "source_id": "BUS-S15"
+    }
+  ]
+}
