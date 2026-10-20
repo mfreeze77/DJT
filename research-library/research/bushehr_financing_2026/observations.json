@@ -1,0 +1,245 @@
+{
+  "scope": "Non-additive commercial, financing and licensing observations; no new October 20 event or historical cash-total changes",
+  "review_date": "2026-10-20",
+  "null_policy": "Unknown paid amounts remain null, not zero. Contract estimates, proposed or reported credit, arrears and authorizations are not disbursements.",
+  "observations": [
+    {
+      "observation_id": "BUS-FIN-001",
+      "type": "reported_contract_relationship",
+      "paid_amount": null,
+      "paid_currency": null,
+      "historical_receipt_total_eligible": false,
+      "source_review_date": "2026-10-20",
+      "project": "Bushehr Units 2 and 3",
+      "contract_month_reported": "2014-11",
+      "date_precision": "month",
+      "customer": "Nuclear Power Production and Development Company of Iran (NPPD)",
+      "general_contractor": "JSC ASE",
+      "contract_type_reported": "EPC turnkey",
+      "executed_contract_inspected": false,
+      "sources": [
+        "BUS-S01"
+      ]
+    },
+    {
+      "observation_id": "BUS-FIN-002",
+      "type": "corporate_reported_advance",
+      "paid_amount": null,
+      "paid_currency": null,
+      "historical_receipt_total_eligible": false,
+      "source_review_date": "2026-10-20",
+      "project": "Bushehr Units 2 and 3",
+      "event_date": "2016-12",
+      "date_precision": "month",
+      "receipt_source": "BUS-S02",
+      "reported_transfer_date": "2016-12-28",
+      "reported_transfer_date_source": "BUS-S03",
+      "exact_receipt_date": null,
+      "payment_remitter_description": "Iranian side",
+      "verified_payment_remitter": null,
+      "verified_payment_beneficiary": null,
+      "bank_record_independently_inspected": false,
+      "bank_route": null,
+      "total_lifetime_paid_established": false,
+      "sources": [
+        "BUS-S02",
+        "BUS-S03"
+      ]
+    },
+    {
+      "observation_id": "BUS-FIN-003",
+      "type": "dated_financing_description",
+      "paid_amount": null,
+      "paid_currency": null,
+      "historical_receipt_total_eligible": false,
+      "source_review_date": "2026-10-20",
+      "publication_date": "2017-11-07",
+      "description": "Sector account describes construction as fully Iranian-financed at that time.",
+      "later_year_financing_structure_established": false,
+      "sources": [
+        "BUS-S03"
+      ]
+    },
+    {
+      "observation_id": "BUS-FIN-004",
+      "type": "non_additive_project_estimates",
+      "paid_amount": null,
+      "paid_currency": null,
+      "historical_receipt_total_eligible": false,
+      "source_review_date": "2026-10-20",
+      "publication_date": "2016-08-26",
+      "reported_estimates_usd": [
+        10000000000,
+        11000000000
+      ],
+      "executed_contract_price_verified": false,
+      "limits": "Broad references to the same two-unit project; not two payments or a paid total.",
+      "sources": [
+        "BUS-S04"
+      ]
+    },
+    {
+      "observation_id": "BUS-FIN-005",
+      "type": "unverified_credit_package_lead",
+      "paid_amount": null,
+      "paid_currency": null,
+      "historical_receipt_total_eligible": false,
+      "source_review_date": "2026-10-20",
+      "publication_date": "2016-08-26",
+      "reported_amount": 2200000000,
+      "reported_currency": "EUR",
+      "underlying_attribution": "Bloomberg, as cited by Rosatom Newsletter",
+      "bushehr_allocation_verified": false,
+      "executed_credit_verified": false,
+      "drawdown_verified": false,
+      "sources": [
+        "BUS-S04"
+      ]
+    },
+    {
+      "observation_id": "BUS-FIN-006",
+      "type": "unverified_financing_lead",
+      "paid_amount": null,
+      "paid_currency": null,
+      "historical_receipt_total_eligible": false,
+      "source_review_date": "2026-10-20",
+      "publication_date": "2021-09-12",
+      "speaker": "Mojtaba Yousefi",
+      "reported_amount": 5000000000,
+      "reported_currency": "USD",
+      "projects_named": [
+        "Bushehr",
+        "Ramin"
+      ],
+      "project_match_to_units_2_3_verified": false,
+      "geography_precision": "Imprecise source wording",
+      "executed_credit_verified": false,
+      "project_allocation_verified": false,
+      "drawdown_verified": false,
+      "sources": [
+        "BUS-S05"
+      ]
+    },
+    {
+      "observation_id": "BUS-FIN-007",
+      "type": "source_amount_scope_difference",
+      "paid_amount": null,
+      "paid_currency": null,
+      "historical_receipt_total_eligible": false,
+      "source_review_date": "2026-10-20",
+      "testimony_date": "2024-04-17",
+      "cited_article_date": "2022-03-16",
+      "testimony_scope": "USD 10 billion per reactor",
+      "cited_article_scope": "USD 10 billion for two additional units",
+      "do_not_multiply": true,
+      "executed_price_verified": false,
+      "sources": [
+        "BUS-S06",
+        "BUS-S07"
+      ]
+    },
+    {
+      "observation_id": "BUS-FIN-008",
+      "type": "separate_project_announcements",
+      "paid_amount": null,
+      "paid_currency": null,
+      "historical_receipt_total_eligible": false,
+      "source_review_date": "2026-10-20",
+      "smr_memorandum_date": "2025-09-24",
+      "sirik_agreement_report_date": "2025-09-26",
+      "bushehr_2014_epc_payment": false,
+      "sirik_valuation_independently_verified": false,
+      "sources": [
+        "BUS-S08",
+        "BUS-S09"
+      ]
+    },
+    {
+      "observation_id": "BUS-FIN-009",
+      "type": "historical_waiver_scope",
+      "paid_amount": null,
+      "paid_currency": null,
+      "historical_receipt_total_eligible": false,
+      "source_review_date": "2026-10-20",
+      "announcement_date": "2019-05-03",
+      "policy_start_date": "2019-05-04",
+      "description": "Expansion beyond the existing Bushehr reactor potentially sanctionable; existing-unit support treated separately.",
+      "current_validity_inferred": false,
+      "sources": [
+        "BUS-S10"
+      ]
+    },
+    {
+      "observation_id": "BUS-FIN-010",
+      "type": "historical_unit_1_extension",
+      "paid_amount": null,
+      "paid_currency": null,
+      "historical_receipt_total_eligible": false,
+      "source_review_date": "2026-10-20",
+      "announcement_date": "2020-05-27",
+      "extension_days_reported": 90,
+      "scope": "Unit 1 operations/safety, fuel supply and fuel take-back; additional units excluded.",
+      "current_validity_inferred": false,
+      "sources": [
+        "BUS-S11",
+        "BUS-S12"
+      ]
+    },
+    {
+      "observation_id": "BUS-FIN-011",
+      "type": "historical_written_answer",
+      "paid_amount": null,
+      "paid_currency": null,
+      "historical_receipt_total_eligible": false,
+      "source_review_date": "2026-10-20",
+      "hearing_date": "2023-03-22",
+      "written_answer_date": null,
+      "underlying_waiver_instrument_retrieved": false,
+      "scope": "Unit 1 operations, training and services included; additional Bushehr reactor construction excluded.",
+      "current_validity_inferred": false,
+      "sources": [
+        "BUS-S13"
+      ]
+    },
+    {
+      "observation_id": "BUS-FIN-012",
+      "type": "russia_program_general_license",
+      "paid_amount": null,
+      "paid_currency": null,
+      "historical_receipt_total_eligible": false,
+      "source_review_date": "2026-10-20",
+      "instrument": "OFAC GL 115D",
+      "effective_date": "2026-06-11",
+      "scheduled_expiry": "2026-12-18T00:01:00-05:00",
+      "authority": [
+        "EO 14024",
+        "31 CFR part 587"
+      ],
+      "scope": "Specified listed-entity transactions solely to maintain or support civil-nuclear projects initiated before November 21, 2024, subject to exclusions.",
+      "bushehr_named": false,
+      "iran_specific_permission_established": false,
+      "actual_bushehr_bank_use_established": false,
+      "sources": [
+        "BUS-S14",
+        "BUS-S15"
+      ]
+    },
+    {
+      "observation_id": "BUS-FIN-013",
+      "type": "bounded_current_document_gap",
+      "paid_amount": null,
+      "paid_currency": null,
+      "historical_receipt_total_eligible": false,
+      "source_review_date": "2026-10-20",
+      "current_bushehr_state_waiver_retrieved": false,
+      "renewal_or_revocation_chain_retrieved": false,
+      "payment_specific_ofac_license_retrieved": false,
+      "limits": "Not a finding that all activities are permitted or prohibited; historical descriptions are not carried forward.",
+      "sources": [
+        "BUS-S13",
+        "BUS-S14",
+        "BUS-S15"
+      ]
+    }
+  ]
+}
