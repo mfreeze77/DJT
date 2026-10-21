@@ -149,6 +149,12 @@
           "added_utc": "2026-10-20",
           "locator": "Note 16, printed pp.26\u201327, PIPE resale registration status as of report date",
           "limitation": "Does not establish subsequent filing, effectiveness or current token transfer status."
+        },
+        {
+          "added_utc": "2026-10-21",
+          "locator": "Note 1, printed pp. 9\u201310, especially Liquidity Considerations p. 10; read with Note 16 pp. 26\u201327",
+          "correction": "October 20 synthesis omitted the affirmative issuer assertion of full August 12 transferability of all 7,283,585,650 WLFI tokens. Corrected CH7-ALT5-011 and dated source note; earlier version preserved in commit e09d415a0ae7090e7e6099f4712d24f3d148eb94.",
+          "limitation": "Issuer-reported release and report-date registration nonfiling both retained; applicable release-condition reconciliation, independent implementation and cash realization unresolved."
         }
       ],
       "additional_inspections": [
@@ -157,6 +163,11 @@
           "bytes": 2601451,
           "sha256": "b58aee598a8f0ba5a61e170db3cda8874e6b2fde343e2a5872dbb06b17315d38",
           "preservation": "Original HTML retained locally, not republished; earlier acquisition metadata above preserved unchanged."
+        },
+        {
+          "date_utc": "2026-10-21",
+          "method": "Original SEC HTML and previously retained text re-inspected for Note 1 and Note 16 reconciliation.",
+          "preservation": "No replacement acquisition hash asserted; all prior acquisition and inspection metadata preserved."
         }
       ]
     },

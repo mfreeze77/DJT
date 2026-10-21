@@ -824,3 +824,7 @@ The January exhibit also has blank signature fields: funding rests on the issuer
 ## October 20, 2026 — ALT5 conditional transferability
 
 Claim CH7-ALT5-011 and the [dated follow-up](Tmanch_CH7_Oct19_ALT5_WLF_Source_Note.md#october-20-follow-up--anticipated-transferability-was-conditional) add ALT5-S019, [June 10 Form 8-K](https://www.sec.gov/Archives/edgar/data/862861/000149315226028049/form8-k.htm), Item 7.01 footnotes 1–3, and an additional locator for existing ALT5-S011, [August 17 Form 10-Q](https://www.sec.gov/Archives/edgar/data/862861/000149315226038732/form10-q.htm), Note 16 printed pp.26–27. Dated issuer disclosures, not current transfer verification or new funds-flow evidence. See source manifest for preserved acquisition history.
+
+## October 21, 2026 — Correction: affirmative ALT5 release assertion
+
+Existing **ALT5-S011**, [August 17 Form 10-Q](https://www.sec.gov/Archives/edgar/data/862861/000149315226038732/form10-q.htm), Note 1 printed p. 10 (Liquidity Considerations), affirmatively reports full August 12 transferability. Read with Note 1 p. 9 (June 27 restrictions) and Note 16 pp. 26–27 (report-date PIPE nonfiling). This corrects a material omission in the October 20 synthesis and CH7-ALT5-011, not the reported financial totals. The issuer's statements and independent implementation remain distinct. See the corrected dated follow-up and appended source-manifest inspection metadata; prior acquisition hashes and October 20 history are preserved.
