@@ -849,3 +849,30 @@ Existing **ALT5-S011**, [August 17 Form 10-Q](https://www.sec.gov/Archives/edgar
 ## October 21, 2026 — LIG license successor GL 131K
 
 [Version-comparison source note](Tmanch_CH7_Oct21_Lukoil_GL131K_Source_Note.md), event **J20-2026-032** and instrument **GL_131K**. Inspected originals: GL 131K and predecessor GL 131J; October 21 issuance notice; amended FAQs 1224 and 1225. This is a duration extension, not sale performance approval. Historical J20-2026-028 and LIG-S003/004 remain preserved.
+
+## October 21, 2026 — Iran designations and bounded wind-down permissions
+
+Event J20-2026-033 and [scope note](Tmanch_CH7_Oct21_Iran_Designations_Source_Note.md); companion matrix rows IRAN_GL_GG and IRAN_GL_HH.
+
+- **IRN-OCT21-S001:** [OFAC notice](https://ofac.treasury.gov/recent-actions/20261021), October 21. Legal-action counts and identifiers; no adoption of underlying allegations.
+- **IRN-OCT21-S002:** [Treasury release](https://home.treasury.gov/news/press-releases/sb0664/), October 21. Official context and legal consequences; agency attribution, not independent adjudication.
+- **IRN-OCT21-S003:** [GG original](https://ofac.treasury.gov/media/937266/download?inline), one page, October 21. Wind-down scope, blocked-account condition and November 20 expiry.
+- **IRN-OCT21-S004:** [HH original](https://ofac.treasury.gov/media/937271/download?inline), three pages, October 21. Seven-vessel annex and precise exclusions; not nine-vessel coverage. Both original PDFs visually inspected.
+
+## October 21, 2026 — OCC final GENIUS Act rule
+
+J20-2026-034 / CH7-GEN-OCC-001; [comparison and limits](Tmanch_CH7_Oct21_OCC_GENIUS_Source_Note.md).
+
+- **GEN-OCC-S001:** October 21 [OCC announcement](https://www.occ.treas.gov/news-issuances/news-releases/2026/nr-occ-2026-92.html).
+- **GEN-OCC-S002:** [Final original](https://www.occ.treas.gov/news-issuances/news-releases/2026/nr-occ-2026-92a.pdf), 721 pages; relevant pages cited above. Original 2,737,976 bytes, SHA256 `8054f03c5abb35b61dbff9bab3068d3f6dc1c1723bbe2e2c58c331e695254b39`. Page 98 visually inspected; operative text extracted.
+- **GEN-OCC-S003:** [Proposed original](https://www.occ.gov/news-issuances/federal-register/2026/91fr10202.pdf), printed page 10288/PDF page 87 visually inspected. Original 695,807 bytes, SHA256 `da7e4c77383bbaaf69fe3ba6356a8b81db77133f5011be46d829613056eb82f0`.
+- **GEN-OCC-S004:** October 21 [waiver/application guidance](https://www.occ.treas.gov/news-issuances/bulletins/2026/bulletin-2026-51.html), original HTML inspected.
+- **GEN-OCC-S005:** [BitGo USD1 terms](https://www.bitgo.com/usd1-terms/), January 8 update, introductory parties and Definitions E inspected. Historical role description, not proof of later migration.
+
+The announcement, rule and agency guidance are one agency source family. Proposed-to-final comparison establishes a real change, not independent corroboration of the agency's predicted benefits.
+
+## October 21, 2026 — Norwegian-Ukrainian defensive capability planning
+
+J20-2026-035; [source and scope note](Tmanch_CH7_Oct21_Norway_Defence_Resilience_Source_Note.md).
+
+- **NOR-OCT21-S001:** Ukrainian presidency [English readout](https://www.president.gov.ua/en/news/v-oslo-prezident-zustrivsya-z-premyer-ministrom-norvegiyi-mi-106985) and [Ukrainian original](https://www.president.gov.ua/news/v-oslo-prezident-zustrivsya-z-premyer-ministrom-norvegiyi-mi-106985), October 21. Named meetings and developmental FREYJA/satellite-communications account; not completed tests or delivery. Both originals inspected; one institutional source family. Page time has no explicit timezone.
