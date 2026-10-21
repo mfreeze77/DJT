@@ -143,7 +143,33 @@
       "bytes": 2601464,
       "sha256": "5c6159c1193500d2823959100f49535ac3499c88d767821b6151573909768182",
       "extracted_text_sha256": "65dd52e27ec4e01c9484a02513e43f0d3000fa5e1660424a33cfb12bba0eec20",
-      "preservation": "Metadata only; full original and extracted text are not included in this repository addition."
+      "preservation": "Metadata only; full original and extracted text are not included in this repository addition.",
+      "additional_locators": [
+        {
+          "added_utc": "2026-10-20",
+          "locator": "Note 16, printed pp.26\u201327, PIPE resale registration status as of report date",
+          "limitation": "Does not establish subsequent filing, effectiveness or current token transfer status."
+        },
+        {
+          "added_utc": "2026-10-21",
+          "locator": "Note 1, printed pp. 9\u201310, especially Liquidity Considerations p. 10; read with Note 16 pp. 26\u201327",
+          "correction": "October 20 synthesis omitted the affirmative issuer assertion of full August 12 transferability of all 7,283,585,650 WLFI tokens. Corrected CH7-ALT5-011 and dated source note; earlier version preserved in commit e09d415a0ae7090e7e6099f4712d24f3d148eb94.",
+          "limitation": "Issuer-reported release and report-date registration nonfiling both retained; applicable release-condition reconciliation, independent implementation and cash realization unresolved."
+        }
+      ],
+      "additional_inspections": [
+        {
+          "date_utc": "2026-10-20",
+          "bytes": 2601451,
+          "sha256": "b58aee598a8f0ba5a61e170db3cda8874e6b2fde343e2a5872dbb06b17315d38",
+          "preservation": "Original HTML retained locally, not republished; earlier acquisition metadata above preserved unchanged."
+        },
+        {
+          "date_utc": "2026-10-21",
+          "method": "Original SEC HTML and previously retained text re-inspected for Note 1 and Note 16 reconciliation.",
+          "preservation": "No replacement acquisition hash asserted; all prior acquisition and inspection metadata preserved."
+        }
+      ]
     },
     {
       "source_id": "ALT5-S012",
@@ -305,6 +331,20 @@
         }
       ],
       "limitations": "Not good-standing evidence. Exact-name candidate lacks MOG identifier/address bridge. Apex is registered agent only; manager, administrator, members and beneficial owners unestablished."
+    },
+    {
+      "source_id": "ALT5-S019",
+      "title": "AI Financial Corporation Form 8-K",
+      "filing_date": "2026-06-10",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/862861/000149315226028049/form8-k.htm",
+      "locator": "Item 7.01, footnotes 1\u20133",
+      "source_family": "issuer_furnished_disclosure",
+      "retrieved_date_utc": "2026-10-20",
+      "bytes": 47509,
+      "sha256": "7a8017f0c63ec5ea336f2f4ac3933b569a4608c8558edba7f41e1046ddb25281",
+      "preservation": "Original HTML retained locally; metadata only committed.",
+      "limitations": "Furnished disclosure; anticipated transferability conditional, not actual release, cash receipt or independent custody verification."
     }
-  ]
+  ],
+  "supplemented_utc": "2026-10-20"
 }

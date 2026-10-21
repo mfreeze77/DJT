@@ -611,3 +611,7 @@ Recommended formulation:
 - [Primary-source inventory](Tmanch_CH4_primary_sources.md)
 - [Hypothesis tests and counterevidence](Tmanch_CH4_counterevidence.md)
 - [Open questions and records plan](Tmanch_CH4_open_questions.md)
+
+# October 20, 2026 — Dated notice and personal continuation
+
+The [post-notice source supplement](Tmanch_CH4_Oct20_Post_Notice_Source_Note.md) and CH4-TRUMP-SATER-POSTNOTICE-041 add a narrower, stronger finding to section 6: the 2007 deposition establishes notice; Sater's later official testimony attributes the subsequent arrangement directly to Trump. This does not resolve complete knowledge from the beginning, the different question retained in CH4-TRUMP-SATER-KNOWLEDGE-006. Company-side explanation and response are preserved in the supplement. No prior claim row or financial total is replaced.
