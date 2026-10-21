@@ -824,3 +824,15 @@ The January exhibit also has blank signature fields: funding rests on the issuer
 ## October 20, 2026 — Binance USD1 retention incentives
 
 **USD1-INC-S001:** [Binance announcement](https://www.binance.com/en/support/announcement/detail/9745ace0eb7a42d396e22a711f907616), published October 1 with October 15 and 20 amendments. Direct live HTML inspected; exchange-advertised terms, not independent payout verification. [Scoped note](Tmanch_CH7_Oct20_Binance_USD1_Incentives_Source_Note.md), claim CH7-UAE-USD1-002, supplements existing CH7-UAE-USD1-001 / CH7-PAY-UAE-002. No funding-contributor allocation, personal receipt or state beneficiary established. Original acquisition hashes and version limits are preserved in the note.
+
+
+## October 21, 2026 — Hubbard release announcement and sanctions rationale
+
+[Source and assessment note](Tmanch_CH7_Oct21_Hubbard_Sanctions_Rationale_Source_Note.md), event J20-2026-031 and claims CH7-HUB-001–002.
+
+- **HUB-S001:** [Trump release announcement](https://truthsocial.com/@realDonaldTrump/117478460769539937). Original publicly served HTML title/description inspected October 21; attributed release, journey-home and no-swap/nothing-in-return claims. Final arrival and complete negotiating terms independently unverified.
+- **HUB-S002:** [Trump sanctions statement](https://truthsocial.com/@realDonaldTrump/117478508731391744). Original publicly served HTML title/description inspected October 21; sanctions-restraint rationale, not independently established necessity, specific instrument or bargain.
+- **HUB-S003:** [Official Kremlin meeting video post](https://t.me/news_kremlin/8194). Channel description inspected for meeting identity/location; full video not audited and linked transcript unavailable. No inference about complete remarks from the description alone.
+- **HUB-S004 (secondary corroboration):** [ABC News/GMA meeting report](https://www.goodmorningamerica.com/news/story/witkoff-arrives-st-petersburg-putin-talks-kremlin-aide-137438106), October 21. Reported meeting remarks corroborate the release announcement, not all terms or final homecoming.
+
+No new legal relief, financial flow or personal-payment allegation is added. Earlier sanctions instruments and dated observation windows remain unchanged.
