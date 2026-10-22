@@ -33,3 +33,14 @@ An industry-wide regulatory-calibration explanation has affirmative documentary 
 - **GEN-OCC-S005:** [BitGo USD1 terms](https://www.bitgo.com/usd1-terms/), January 8 update, introductory parties and Definitions E inspected. Historical role description, not proof of later migration.
 
 The announcement, rule and agency guidance are one agency source family. Proposed-to-final comparison establishes a real change, not independent corroboration of the agency's predicted benefits.
+
+
+## October 22 historical source supplement: conditional charter, not completed migration
+
+The OCC's August 14 [Corporate Decision 1385](https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/cd1385.pdf), pp.1–2, grants World Liberty Trust Company, National Association preliminary conditional approval and documents its plan to assume USD1 issuance/custody from BitGo. This supplies a dated primary institutional plan beyond the older BitGo terms, not proof that the transfer occurred. Final authorization and preopening requirements remain explicit gates. Conditions include **$20 million minimum tier-1 capital**, separate liquidity covering 180 days of expenses, BSA/OFAC policies, and a preopening examination (pp.8–12). The capital minimum is a regulatory condition, not a payment or realized proceeds.
+
+Condition 2 (p.8) also requires the bank to conform, cease or divest proposed activities as necessary for the GENIUS Act and future implementing rules. This links the conditional charter to J20-2026-034’s regulatory framework; it is not a special exemption.
+
+This supplement does not change **J20-2026-034**'s October 21 date or establish final opening approval, issuer migration, reserve transfer, incentive authorization or personal receipts. Potential private benefit is prospective consolidation of issuance and custody; national effects remain mixed/uncertain rather than a Russian-specific benefit. The separate charter and general rule are not independent corroboration of realized commercial effects.
+
+**GEN-OCC-S006:** August 14 original, 19 pages; 819,981 bytes; SHA256 `fe8bebe9763985318cf8e3f418b54bd3b4f437245a4096cdd147f80760219d53`. Retrieved October 22; pp.1–2 visually inspected and conditions text inspected. Existing CH7-GEN-OCC-001 and CH7-UAE-USD1-001/002 remain the cross-references; no new transaction total is added.

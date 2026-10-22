@@ -79,3 +79,17 @@ This adds an attributed UK policy disagreement and support statement alongside *
 ## October 18 presidential-statement cross-reference
 
 The [dated statement follow-up](Tmanch_CH7_Oct12_Iran_Statement_Source_Note.md#october-18-follow-up-publicly-linked-rationale) records a later attributed public rationale relevant to **J20-2026-025**, with original-post and archive provenance. Its ambiguous document reference does not alter the instrument analysis above. No additional waiver, reversal or implementation event is inferred.
+
+
+
+## October 22 acquisition: congressional certifications and reports
+
+[House Document 119–202](https://www.govinfo.gov/content/pkg/CDOC-119hdoc202/pdf/CDOC-119hdoc202.pdf) now supplies the public certification/report contents previously unacquired. The complete official PDF was inspected: thirteen letters to Speaker Mike Johnson, dated and effective October 16, cover sections 102–112, 113(a) and 117 (PDF pages 3–15; printed pages 1–13). The cover records October 19 referral to House Foreign Affairs and Judiciary and an order to print, not the actual delivery time. The October 20 production footer is not an effective date.
+
+The letters give a formal national-interest rationale: applying the covered measures then would impede U.S. negotiations for a durable Ukraine–Russia peace. They retain discretion to impose measures if needed to incentivize resolution or circumstances change. Section 102 expressly includes 102(d)'s statutory maintenance requirement; waiving that requirement does not itself repeal the underlying executive-order sanctions. The 113(a) letter's introduction references section 113 while its discretion paragraph references section 115; this difference in the printed statutory references is not silently normalized or treated as an adjudicated legal defect.
+
+This closes the public report-content gap for **J20-2026-025**, not a second waiver or economic flow. The negotiating explanation is now affirmatively documented in the formal report, rather than merely a possible explanation. Its necessity, effectiveness, underlying analysis and reciprocal Russian concessions remain unestablished. The existing Russia-favorable avoided-pressure mechanism remains; the letters do not establish realized U.S./allied gains, personal benefit or motive. Thirteen substantially similar letters are not thirteen independent confirmations of outcomes.
+
+**Current missing records:** actual transmission/receipt timing and statutory advance-notice compliance; other required congressional delivery; any nonpublic/classified annex and underlying analysis; agency implementation; section-specific legal interpretation; trade, enforcement and negotiating outcomes. Neither complete compliance nor unlawful non-submission is established. Earlier acquisition statements above are preserved as dated history and are superseded only as to availability of these public contents.
+
+Acquisition: original PDF, 246,737 bytes; SHA256 `ef3c29047a297c21145001e25ae2cff5096cdf6e896849735bb1626fd733b998`. No new event, claim score, license row or financial edge is added.

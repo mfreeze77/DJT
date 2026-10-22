@@ -19,3 +19,13 @@ This is affirmative counterevidence to uniform non-enforcement against Iran-link
 ## Inspection and limits
 
 Original GG (one page) and HH (three pages) were downloaded and visually inspected on October 21. GG SHA256: d4a9cf17b4cef73d33cf9addb8903d62ae321edbab5f52aadc02fd253953f10a; HH SHA256: 579f578955ed76aa54b0fb21194d5bf3693a61c62975c33fd1b3ec220e01b750. Exact-keyword repository searches found no Karnakis, Roxette, Amigoz, Whales, Shamkhani, Emamjomeh, Al-Qatirji, Sepehr, Sparrow or sb0664 entry; bounded search, not an exhaustive absence claim. Underlying named conduct allegations and the announced unnamed-bank investigation are not findings adopted in this entry.
+
+
+
+## October 22 source-completeness check: separate October 21 delistings
+
+The same [October 21 OFAC notice](https://ofac.treasury.gov/recent-actions/20261021) separately removes four distinct targets: Andrei Alekseevich Rybakov (also Rybakou), Lu Hezheng, Shanghai Moxing Cultural Media (also Moxing Cartoon), and Shanghai Hongman Cartoon and Animation Design Studio (also Shanghai Hongman Animation Design Studio). Repeated alias entries do not represent additional targets. Rybakov's entry carries the Belarus program; the other three carry DPRK3. These are separate legal actions, not part of J20-2026-033's Iran additions or evidence that the same parties received its wind-down permissions.
+
+[Treasury's August 9, 2021 announcement](https://home.treasury.gov/news/press-releases/jy0315) identifies Rybakov's original designation as acting for or on behalf of Belneftekhim under EO13405. The October 21 notice gives no removal rationale and does not remove Belneftekhim. No wider Belarus-sector relief, Russia-linked transaction, negotiated exchange or Trump/family financial benefit is established.
+
+**Who benefits:** direct legal relief for the four removed targets from these listings; broader United States/allied versus Russian strategic effects are **uncertain**. Actual unblocked assets, other restrictions, counterparties, removal grounds and resulting transactions remain unverified. This source-completeness observation is retained separately rather than counted as an additional Iran event or an independent Russia-benefit finding.

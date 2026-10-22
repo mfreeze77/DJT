@@ -876,3 +876,16 @@ The announcement, rule and agency guidance are one agency source family. Propose
 J20-2026-035; [source and scope note](Tmanch_CH7_Oct21_Norway_Defence_Resilience_Source_Note.md).
 
 - **NOR-OCT21-S001:** Ukrainian presidency [English readout](https://www.president.gov.ua/en/news/v-oslo-prezident-zustrivsya-z-premyer-ministrom-norvegiyi-mi-106985) and [Ukrainian original](https://www.president.gov.ua/news/v-oslo-prezident-zustrivsya-z-premyer-ministrom-norvegiyi-mi-106985), October 21. Named meetings and developmental FREYJA/satellite-communications account; not completed tests or delivery. Both originals inspected; one institutional source family. Page time has no explicit timezone.
+
+
+
+## GRAHAM-HD119-202 — October 22 acquisition supplement: Graham Act certifications
+
+- **Original:** [House Document 119–202](https://www.govinfo.gov/content/pkg/CDOC-119hdoc202/pdf/CDOC-119hdoc202.pdf), complete official PDF.
+- **Dates/scope:** thirteen October 16 letters, sections 102–112, 113(a), 117; House referral/printing order October 19. PDF pages 3–15 / printed pages 1–13.
+- **Use:** closes the public certification/report-content gap in J20-2026-025. Formal negotiating rationale, not proof of delivery timing, compliance, reciprocal concession or economic outcome.
+- **Cross-reference:** [Graham waiver source note](Tmanch_CH7_Oct16_Graham_Waivers_Source_Note.md#october-22-acquisition-congressional-certifications-and-reports). No new event or financial amount.
+
+### October 22 historical charter-source supplement
+
+**GEN-OCC-S006:** August 14 [OCC Corporate Decision 1385](https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/cd1385.pdf), pp.1–2 and 8–12. Preliminary conditional approval and a documented plan for World Liberty Trust Company to assume USD1 issuance/custody from BitGo, not final authorization or implemented migration. Supplements [the October 21 OCC note](Tmanch_CH7_Oct21_OCC_GENIUS_Source_Note.md#october-22-historical-source-supplement-conditional-charter-not-completed-migration), CH7-GEN-OCC-001 and J20-2026-034 without adding a new October 22 action or transaction total. Original provenance is recorded in the note.
