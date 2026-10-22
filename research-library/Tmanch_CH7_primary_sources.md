@@ -844,3 +844,48 @@ Claim CH7-ALT5-011 and the [dated follow-up](Tmanch_CH7_Oct19_ALT5_WLF_Source_No
 ## October 21, 2026 — Correction: affirmative ALT5 release assertion
 
 Existing **ALT5-S011**, [August 17 Form 10-Q](https://www.sec.gov/Archives/edgar/data/862861/000149315226038732/form10-q.htm), Note 1 printed p. 10 (Liquidity Considerations), affirmatively reports full August 12 transferability. Read with Note 1 p. 9 (June 27 restrictions) and Note 16 pp. 26–27 (report-date PIPE nonfiling). This corrects a material omission in the October 20 synthesis and CH7-ALT5-011, not the reported financial totals. The issuer's statements and independent implementation remain distinct. See the corrected dated follow-up and appended source-manifest inspection metadata; prior acquisition hashes and October 20 history are preserved.
+
+
+## October 21, 2026 — LIG license successor GL 131K
+
+[Version-comparison source note](Tmanch_CH7_Oct21_Lukoil_GL131K_Source_Note.md), event **J20-2026-032** and instrument **GL_131K**. Inspected originals: GL 131K and predecessor GL 131J; October 21 issuance notice; amended FAQs 1224 and 1225. This is a duration extension, not sale performance approval. Historical J20-2026-028 and LIG-S003/004 remain preserved.
+
+## October 21, 2026 — Iran designations and bounded wind-down permissions
+
+Event J20-2026-033 and [scope note](Tmanch_CH7_Oct21_Iran_Designations_Source_Note.md); companion matrix rows IRAN_GL_GG and IRAN_GL_HH.
+
+- **IRN-OCT21-S001:** [OFAC notice](https://ofac.treasury.gov/recent-actions/20261021), October 21. Legal-action counts and identifiers; no adoption of underlying allegations.
+- **IRN-OCT21-S002:** [Treasury release](https://home.treasury.gov/news/press-releases/sb0664/), October 21. Official context and legal consequences; agency attribution, not independent adjudication.
+- **IRN-OCT21-S003:** [GG original](https://ofac.treasury.gov/media/937266/download?inline), one page, October 21. Wind-down scope, blocked-account condition and November 20 expiry.
+- **IRN-OCT21-S004:** [HH original](https://ofac.treasury.gov/media/937271/download?inline), three pages, October 21. Seven-vessel annex and precise exclusions; not nine-vessel coverage. Both original PDFs visually inspected.
+
+## October 21, 2026 — OCC final GENIUS Act rule
+
+J20-2026-034 / CH7-GEN-OCC-001; [comparison and limits](Tmanch_CH7_Oct21_OCC_GENIUS_Source_Note.md).
+
+- **GEN-OCC-S001:** October 21 [OCC announcement](https://www.occ.treas.gov/news-issuances/news-releases/2026/nr-occ-2026-92.html).
+- **GEN-OCC-S002:** [Final original](https://www.occ.treas.gov/news-issuances/news-releases/2026/nr-occ-2026-92a.pdf), 721 pages; relevant pages cited above. Original 2,737,976 bytes, SHA256 `8054f03c5abb35b61dbff9bab3068d3f6dc1c1723bbe2e2c58c331e695254b39`. Page 98 visually inspected; operative text extracted.
+- **GEN-OCC-S003:** [Proposed original](https://www.occ.gov/news-issuances/federal-register/2026/91fr10202.pdf), printed page 10288/PDF page 87 visually inspected. Original 695,807 bytes, SHA256 `da7e4c77383bbaaf69fe3ba6356a8b81db77133f5011be46d829613056eb82f0`.
+- **GEN-OCC-S004:** October 21 [waiver/application guidance](https://www.occ.treas.gov/news-issuances/bulletins/2026/bulletin-2026-51.html), original HTML inspected.
+- **GEN-OCC-S005:** [BitGo USD1 terms](https://www.bitgo.com/usd1-terms/), January 8 update, introductory parties and Definitions E inspected. Historical role description, not proof of later migration.
+
+The announcement, rule and agency guidance are one agency source family. Proposed-to-final comparison establishes a real change, not independent corroboration of the agency's predicted benefits.
+
+## October 21, 2026 — Norwegian-Ukrainian defensive capability planning
+
+J20-2026-035; [source and scope note](Tmanch_CH7_Oct21_Norway_Defence_Resilience_Source_Note.md).
+
+- **NOR-OCT21-S001:** Ukrainian presidency [English readout](https://www.president.gov.ua/en/news/v-oslo-prezident-zustrivsya-z-premyer-ministrom-norvegiyi-mi-106985) and [Ukrainian original](https://www.president.gov.ua/news/v-oslo-prezident-zustrivsya-z-premyer-ministrom-norvegiyi-mi-106985), October 21. Named meetings and developmental FREYJA/satellite-communications account; not completed tests or delivery. Both originals inspected; one institutional source family. Page time has no explicit timezone.
+
+
+
+## GRAHAM-HD119-202 — October 22 acquisition supplement: Graham Act certifications
+
+- **Original:** [House Document 119–202](https://www.govinfo.gov/content/pkg/CDOC-119hdoc202/pdf/CDOC-119hdoc202.pdf), complete official PDF.
+- **Dates/scope:** thirteen October 16 letters, sections 102–112, 113(a), 117; House referral/printing order October 19. PDF pages 3–15 / printed pages 1–13.
+- **Use:** closes the public certification/report-content gap in J20-2026-025. Formal negotiating rationale, not proof of delivery timing, compliance, reciprocal concession or economic outcome.
+- **Cross-reference:** [Graham waiver source note](Tmanch_CH7_Oct16_Graham_Waivers_Source_Note.md#october-22-acquisition-congressional-certifications-and-reports). No new event or financial amount.
+
+### October 22 historical charter-source supplement
+
+**GEN-OCC-S006:** August 14 [OCC Corporate Decision 1385](https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/cd1385.pdf), pp.1–2 and 8–12. Preliminary conditional approval and a documented plan for World Liberty Trust Company to assume USD1 issuance/custody from BitGo, not final authorization or implemented migration. Supplements [the October 21 OCC note](Tmanch_CH7_Oct21_OCC_GENIUS_Source_Note.md#october-22-historical-source-supplement-conditional-charter-not-completed-migration), CH7-GEN-OCC-001 and J20-2026-034 without adding a new October 22 action or transaction total. Original provenance is recorded in the note.
