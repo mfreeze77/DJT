@@ -1,0 +1,76 @@
+[
+  {
+    "source_id": "PSI-SAT-S001",
+    "url": "https://www.blumenthal.senate.gov/download/2026-10-22_letter_from_ranking_member_blumenthal_to_hegseth_final",
+    "acquired_date": "2026-10-23",
+    "bytes": 316318,
+    "sha256": "f217840b07e078823919b59ec7314f0c0f7f6223e0b581d2a2d8e086e50941a8",
+    "status": "Original bytes acquired; interpretation limits in source note"
+  },
+  {
+    "source_id": "PSI-SAT-S002",
+    "url": "https://www.blumenthal.senate.gov/download/2026-10-22_letter_from_ranking_member_blumenthal_to_spacex_final",
+    "acquired_date": "2026-10-23",
+    "bytes": 308591,
+    "sha256": "2e5c23b0e0ae792bed71463e5e8d91d3c2f6ef1c7bf8c29d2d039ac938723434",
+    "status": "Original bytes acquired; interpretation limits in source note"
+  },
+  {
+    "source_id": "SAT-STATUS-S005",
+    "url": "https://www.president.gov.ua/en/news/nam-potribni-tristoronni-peregovori-mizh-ukrayinoyu-amerikoy-107013",
+    "acquired_date": "2026-10-23",
+    "bytes": 102355,
+    "sha256": "f77dd170fe044a47e6c21d78c545cd3ae779f7a48edc38f6b63ff90b78d69304",
+    "status": "Original bytes acquired; interpretation limits in source note"
+  },
+  {
+    "source_id": "OLESHKY-S001",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-secures-ceasefire-between-russia-and-ukraine-localized-to-oleshky/",
+    "acquired_date": "2026-10-23",
+    "bytes": 268388,
+    "sha256": "3944f9c4854b1c1435a5bfc2df35e9a78b00533fe62c0fdbcd958f06b8ca2bb2",
+    "status": "Original bytes acquired; interpretation limits in source note"
+  },
+  {
+    "source_id": "OLESHKY-S003",
+    "url": "https://armyinform.com.ua/2026/10/23/vpershe-uzgodzhena-gumanitarna-misiya-v-oleshkah-syly-oborony-zabezpechat-rezhym-tyshi-ta-vyhid-czyvilnyh/",
+    "acquired_date": "2026-10-23",
+    "bytes": 130010,
+    "sha256": "a4da2f4be60fbb30997c3e7fe6fef926f57bf77201b6f2d9c5c44559e52acc83",
+    "status": "Original bytes acquired; interpretation limits in source note"
+  },
+  {
+    "source_id": "TAPI-S002",
+    "url": "https://s3.amazonaws.com/b2icontent.irpass.cc/2660/rl168841.pdf",
+    "acquired_date": "2026-10-23",
+    "bytes": 70187,
+    "sha256": "8bd4b635ac22e3bd14b42c352ad40e0cb80dee23379a6eb3caf73a191fd14e06",
+    "status": "Original bytes acquired; interpretation limits in source note"
+  },
+  {
+    "source_id": "TAPI-S003",
+    "url": "https://www.sec.gov/Archives/edgar/data/1849635/000143774926033275/djt20261022_425.htm",
+    "acquired_date": "2026-10-23",
+    "bytes": 49226,
+    "sha256": "667d87877947a95f7d904c23e165b27ba7b4c046495fb8d868d55a6a3209dc87",
+    "status": "Original bytes acquired; interpretation limits in source note"
+  },
+  {
+    "source_id": "TAPI-S004",
+    "url": "https://www.sec.gov/Archives/edgar/data/1849635/000143774926031534/djt20260922_s4.htm",
+    "acquired_date": "2026-10-23",
+    "bytes": 8933725,
+    "sha256": "251236dd97c97e48dcbf9ea7b50d828cc1cdccd79b55c482f3f47a4b35bfc0a2",
+    "status": "Original bytes acquired; interpretation limits in source note"
+  },
+  {
+    "source_id": "OLESHKY-S002",
+    "url": "https://www.zsu.gov.ua/news/syly-oborony-ukrainy-zaprovadzhuiut-rezhym-prypynennia-vohniu-dlia-dopomohy-meshkantsiam-okupovanykh-oleshok",
+    "status": "Full short text inspected in search index; direct retrieval403, stopped; no original-byte hash claimed"
+  },
+  {
+    "source_id": "TAPI-S001",
+    "url": "https://www.globenewswire.com/news-release/2026/07/16/3328489/0/en/Trump-Media-and-Technology-Group-Launches-Truth-API-a-New-Licensed-Data-Service-for-Financial-Services-Partners-That-Provides-the-Fastest-Access-to-Truth-Social-s-Most-Influential-.html",
+    "status": "Issuer-distributed original inspected; no local acquisition hash"
+  }
+]

@@ -14,3 +14,9 @@ Connections: **J20-2026-021**, **022**, **029**, **030**, **035** and **037**. S
 ## Inspection boundary
 
 Original CNN/PBS transcript pages were retrieved and read; the video audio was not independently audited. The original Telegram channel and adviser-appointment decree were inspected. Broadcast and publication times are not technical-change timestamps. The source inventory identifies each evidence family.
+
+## Later October 23 official status account
+
+**SAT-STATUS-S005:** In the [Hudson Institute address published October 23 at 21:51](https://www.president.gov.ua/en/news/nam-potribni-tristoronni-peregovori-mizh-ukrayinoyu-amerikoy-107013), Zelenskyy said Starlink/Starshield speed limits remained and already-agreed ballistic interceptors were still delayed. The page does not explicitly label its timezone. Full original HTML was retrieved and read; this is an attributable same-day operational account, not independent terminal telemetry. It supplies later evidence than the October 22 assurance, strengthening the record of continuing defensive and logistical impairment rather than demonstrated restoration.
+
+The reported restrictions favor Russia operationally; exact losses, affected-terminal scope and responsibility remain unresolved. This does not negate the separately reported warning-intelligence restoration or prove intent. The speech supplies no new named missile-holder inventory or re-export refusal. It also describes planned team-level trilateral talks in early November, not a completed meeting or concession. This supplements **J20-2026-039 / CH7-SAT-STATUS-001**, without counting another restriction event. See [source hashes](Tmanch_CH7_Oct23_Evening_Source_Manifest.json).

@@ -969,3 +969,12 @@ The linked notes preserve inspected URLs, dates, source dependencies and impleme
 Original links, historical limits and **CH7-KUSHNER-TRACE-002 / CH7-KUSHNER-REPORT-001** joins are in the [later money-trace verification](Tmanch_CH7_Oct23_Kushner_Money_Trace_Source_Note.md#later-october-23-verification-commencement-appointed-boards-and-a-bounded-bank-collaboration); acquisition hashes are appended to the [manifest](Tmanch_CH7_Oct23_Money_Trace_Source_Manifest.json). These are distinct institutional records, not independent witnesses to the alleged money path.
 
 - **DPC-S004:** [DNB register T0185](https://www.dnb.nl/openbaar-register/registerdetailpagina/?registerCode=WTTTK&relationNumber=T0185); identity/licence only. See [Dutch control supplement](Tmanch_CH7_Oct23_Dutch_Ownership_Control_Source_Note.md#later-october-23-verification-named-regulated-intermediary), **CH7-DUTCH-CONTROL-001**. No duplicate J20 event.
+
+## October 23 evening source additions
+
+- **PSI-SAT-S001–002:** October 22 signed Hegseth and SpaceX letters; one inquiry family. [Originals, scope and existing joins](Tmanch_CH7_Oct22_PSI_SpaceX_Inquiry_Source_Note.md), **J20-2026-042**.
+- **SAT-STATUS-S005:** October 23 Hudson address, original presidency HTML; supplements **039 / CH7-SAT-STATUS-001**, not independent telemetry. [Chronology](Tmanch_CH7_Oct22_23_Satellite_Status_Source_Note.md#later-october-23-official-status-account).
+- **OLESHKY-S001–003:** White House, Ukrainian armed forces and ArmyInform publications; distinct acquisition forms and conflicting dates retained. [Source note](Tmanch_CH7_Oct23_Oleshky_Source_Note.md), **043**.
+- **TAPI-S001–004:** Issuer product announcement, August release, October Form 425 and existing S-4 ownership record. [Chronology and limits](Tmanch_CH7_Oct23_Truth_API_Source_Note.md), **044 / CH7-TMTG-API-001**. The interview and its news coverage are one source family.
+
+Acquired original-byte hashes and index-only boundaries appear in the [evening manifest](Tmanch_CH7_Oct23_Evening_Source_Manifest.json). No new allegations or numerical financial-flow totals are added.
