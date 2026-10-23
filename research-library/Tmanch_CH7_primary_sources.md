@@ -907,3 +907,8 @@ Event **J20-2026-037**; [source and capability-development limits](Tmanch_CH7_Oc
 - **FIN-SAT-S003:** [Associated presidential statement](https://www.president.gov.ua/en/news/zayava-prezidenta-ukrayini-pid-chas-spilnogo-z-premyer-minis-107001), October 22. Broader financial figures are not summed or allocated to satellites; no satellite-specific payment added.
 
 Both new events are contextual allied responses, not Trump administration actions, and remain unscored. They add institutional and development-stage steps without counting proposed protection as delivered capability. Prior events, amounts and correction history remain unchanged.
+
+
+## CH7-COLE-S001 — Cole’s October 22 investigative report
+
+[Original publication](https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations). Inspected original reporting, not primary proof of its underlying assertions. See [Tmanch_CH7_Oct22_Cole_Kushner_Reporting_Source_Note.md](Tmanch_CH7_Oct22_Cole_Kushner_Reporting_Source_Note.md) for evidence status, existing-history joins, responses, accounting boundaries and missing records.
