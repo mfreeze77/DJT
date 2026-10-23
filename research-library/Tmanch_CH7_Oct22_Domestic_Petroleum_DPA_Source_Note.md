@@ -1,0 +1,21 @@
+# October 22 domestic petroleum determination and planned refinery support
+
+**J20-2026-041.** DOE announced planned support of up to **$150 million**; this ceiling is not a payment or awarded transaction.
+
+1. The [October 22 White House memorandum](https://www.whitehouse.gov/presidential-actions/2026/10/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-domestic-petroleum-production-refining-and-logistics-capacity-c139/) directs the Secretary of War to implement section 303 support for domestic petroleum production, refining and associated logistics. Its section 303(a)(7) waiver covers section 303(a)(1)–(a)(6); this is not a demonstrated blanket repeal of permitting or environmental law. Its final sentence supersedes earlier directives only where inconsistent. No project-specific amount appears.
+2. The predecessor was addressed to the Secretary of Energy on April 20, not first issued in October. The official Federal Register document identifies it as Presidential Determination 2026–11, published April 23, pages 21933–21934, document 2026–08016. [Original official PDF](https://www.govinfo.gov/content/pkg/FR-2026-04-23/pdf/2026-08016.pdf). The April White House text is also inspected: https://www.whitehouse.gov/presidential-actions/2026/04/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-domestic-petroleum-production-refining-and-logistics-capacity/
+3. [DOE's October 22 release](https://www.energy.gov/articles/energy-department-use-defense-production-act-funding-restart-american-refinery-and-expand) explicitly says selection is ongoing. It links the April determination, not the October memorandum, so the funding announcement should not be represented as solely dependent on October's action. The release forecasts additional output; that forecast is not measured production. Neither inspected October document identifies recipients, completed contracts, payments or commissioning dates. No October Federal Register publication or project implementation record was identified in this bounded check; this is not proof none exists.
+
+## Existing-history linkage and cumulative significance
+
+The April predecessor is already indexed as DCPD-202600276 in research-library/research/presidential_rhetoric_2026/data/corpus_manifest.csv (also verified in the current main snapshot). Searches of the October 22 ledger snapshot found no DPA entry. Current main a774cb05d0c7e45c6106f0733b826419296fb784 was checked: the April corpus entry remains, with no corresponding DPA event in the living/structured ledger.
+
+Connect research-library/J20-Pres.md and research-library/Tmanch_CH7_J20_event_ledger.csv IDs J20-2026-007 (restraint on Russian refinery strikes), -011 (GL135), -014 (Trump's price/world-market rationale), -024 (Zelenskyy's forecast), and -025 (Graham waiver notices). This adds a separate domestic-capacity policy track. It does not cancel the Russian trade opening, prove that opening necessary, establish immediate substitutes, or establish realized Russian revenue. Do not count the April and October findings as two independent instances of realized industrial expansion.
+
+## Beneficiaries and competing explanations
+
+United States/allies, prospective and conditional: effective domestic capacity expansion could strengthen fuel resilience and reduce dependence on foreign supply; allies could benefit indirectly through supply availability. The near-term verified result is executive authorization and a funding plan, not added fuel. Direct beneficiaries of financial support remain unknown pending selections. No direct Russian benefit from these two domestic-capacity documents is established. Increasing non-Russian supply could eventually reduce Russian leverage, but that remains an inference contingent on actual commissioning and market effects. The domestic-supply action is affirmative evidence of a domestic energy-policy component, not a rebuttal to separately documented Russia-benefiting licensing decisions.
+
+## Implementation tests
+
+Follow selection notices, signed awards, obligations/outlays, additional output, commissioning dates and price effects. No new financial-flow row or score is added.
