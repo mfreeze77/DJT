@@ -32,3 +32,9 @@ The original PDFs were acquired and inspected. SHA256:
 - DPC-S003, decision_2026D40665.pdf: 574e8b5eb9fe3b6ca1d90571502acff7136f10e0fcbd306f1edf32e7ec7e1cf2.
 
 These hashes identify the inspected originals, not account records. Research leads about earlier phone-hacking publications remain separate and are not incorporated here.
+
+## Later October 23 verification: named regulated intermediary
+
+**DPC-S004:** [DNB's Dutch Trust Management B.V. register entry](https://www.dnb.nl/openbaar-register/registerdetailpagina/?registerCode=WTTTK&relationNumber=T0185), inspected October 23; page last-updated October 13, 2026, 04:03. It identifies KvK **34203884**, relation **T0185**, and lists a trust-office licence with historical start **June 17, 2005**, no displayed end date, and **Interroyal B.V.** under group component. The current row cites Article 6(1) Wtt 2018; this does not date that statute to 2005.
+
+This adds an exact regulated entity to the control inquiry in **CH7-DUTCH-CONTROL-001**. DNB establishes identity and register status, not the project role described by FTM, a project-specific examination, enforcement, compliance, ultimate investor or payment. Licensing neither proves misconduct nor exonerates it. No newly demonstrated geopolitical benefit follows from this identity verification. This is a supporting record, not a new presidential action; no private corporate-chain material is republished. The original register page was read directly; no local original/hash is claimed.

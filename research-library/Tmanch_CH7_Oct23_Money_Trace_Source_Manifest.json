@@ -71,6 +71,42 @@
       "sha256": "55f31566744d4585a23394596ea75978abe785792bd3e1166c737e17524c492e",
       "url": "https://www.justice.gov/opa/press-release/file/1557611/dl",
       "kind": "acquired original"
+    },
+    {
+      "source_id": "WFS-S001",
+      "file": "gazette688.pdf",
+      "url": "https://dlp.dubai.gov.ae/Official%20Gazette/O%20G%20688.pdf",
+      "inspected_date": "2026-10-23",
+      "kind": "acquired original; later verification",
+      "bytes": 3222365,
+      "sha256": "6b2f1d584f1feaa5c5986e726ea284c6c3ec2763d0d2dfaeef31d21b21e1f000"
+    },
+    {
+      "source_id": "WFS-S002",
+      "file": "board2018.html",
+      "url": "https://dlp.dubai.gov.ae/Legislation%20Ar%20Reference/2018/%D9%85%D8%B1%D8%B3%D9%88%D9%85%20%D8%B1%D9%82%D9%85%20%2821%29%20%D9%84%D8%B3%D9%86%D8%A9%202018.html",
+      "inspected_date": "2026-10-23",
+      "kind": "acquired original; later verification",
+      "bytes": 171868,
+      "sha256": "3845dcf84488afa0c3a198008300727b12b5e43f245073d9ec24e7db3679e30f"
+    },
+    {
+      "source_id": "WFS-S003",
+      "file": "board2021.html",
+      "url": "https://dlp.dubai.gov.ae/Legislation%20Ar%20Reference/2021/%D9%85%D8%B1%D8%B3%D9%88%D9%85%20%D8%B1%D9%82%D9%85%20%2830%29%20%D9%84%D8%B3%D9%86%D8%A9%202021%20%D8%A8%D8%AA%D8%B4%D9%83%D9%8A%D9%84%20%D9%85%D8%AC%D9%84%D8%B3%20%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9%20%D9%85%D8%A4%D8%B3%D8%B3%D8%A9%20%D9%88%D8%B7%D9%86%D9%8A%20%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA.html",
+      "inspected_date": "2026-10-23",
+      "kind": "acquired original; later verification",
+      "bytes": 257317,
+      "sha256": "0db9be759959934d9ad8bfc0b35d83783431929956c6bb474f67e7f50fdf162b"
+    },
+    {
+      "source_id": "WFS-S004",
+      "file": "fab_2024.html",
+      "url": "https://www.bankfab.com/en-ae/about-fab/group/in-the-media/fab-concludes-largest-ramadan-campaign",
+      "inspected_date": "2026-10-23",
+      "kind": "acquired original; later verification",
+      "bytes": 280548,
+      "sha256": "486c3b5036e47d2071a5008bd70e9cfd8560ce23c75c8061b72d89f8daadedd0"
     }
   ],
   "web_inspected_without_local_original": [
