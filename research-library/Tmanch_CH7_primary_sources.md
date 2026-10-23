@@ -959,3 +959,13 @@ The linked notes preserve inspected URLs, dates, source dependencies and impleme
 - **DPA-PET-S001:** October 22 White House determination.
 - **DPA-PET-S002:** April 20 predecessor, official Federal Register 2026-08016 and White House text; one instrument family.
 - **DPA-PET-S003:** October 22 DOE program announcement. See [domestic-capacity note](Tmanch_CH7_Oct22_Domestic_Petroleum_DPA_Source_Note.md), **041 / CH7-DPA-PETROLEUM-001**.
+
+## October 23 later institutional-record verification
+
+- **WFS-S001:** Arabic Gazette 688, November 13, 2024, Law 27/2024 printed pp. 8–9; resolves the earlier commencement-date gap.
+- **WFS-S002–003:** Arabic board Decrees 21/2018 and 30/2021, Articles 1–2; appointments and effective dates, not account mandates.
+- **WFS-S004:** FAB April 5, 2024 release; bounded public collaboration, not banking-customer proof.
+
+Original links, historical limits and **CH7-KUSHNER-TRACE-002 / CH7-KUSHNER-REPORT-001** joins are in the [later money-trace verification](Tmanch_CH7_Oct23_Kushner_Money_Trace_Source_Note.md#later-october-23-verification-commencement-appointed-boards-and-a-bounded-bank-collaboration); acquisition hashes are appended to the [manifest](Tmanch_CH7_Oct23_Money_Trace_Source_Manifest.json). These are distinct institutional records, not independent witnesses to the alleged money path.
+
+- **DPC-S004:** [DNB register T0185](https://www.dnb.nl/openbaar-register/registerdetailpagina/?registerCode=WTTTK&relationNumber=T0185); identity/licence only. See [Dutch control supplement](Tmanch_CH7_Oct23_Dutch_Ownership_Control_Source_Note.md#later-october-23-verification-named-regulated-intermediary), **CH7-DUTCH-CONTROL-001**. No duplicate J20 event.
