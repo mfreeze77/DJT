@@ -912,3 +912,21 @@ Both new events are contextual allied responses, not Trump administration action
 ## CH7-COLE-S001 — Cole’s October 22 investigative report
 
 [Original publication](https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations). Inspected original reporting, not primary proof of its underlying assertions. See [Tmanch_CH7_Oct22_Cole_Kushner_Reporting_Source_Note.md](Tmanch_CH7_Oct22_Cole_Kushner_Reporting_Source_Note.md) for evidence status, existing-history joins, responses, accounting boundaries and missing records.
+
+
+## October 23, 2026 — money-trace institutions and reusable research tests
+
+These supplement **CH7-KUSHNER-REPORT-001 / J20-2026-038**, not a newly traced payment. See [institutional/source findings](Tmanch_CH7_Oct23_Kushner_Money_Trace_Source_Note.md), [research method](Tmanch_Azerbaijan_AML_Research_Method.md), and [acquired-source hashes](Tmanch_CH7_Oct23_Money_Trace_Source_Manifest.json).
+
+- **KMT-S001:** [FAB merger archive](https://www.bankfab.com/en-ae/about-fab/investor-relations/archive/fgb-nbad-merger); historical bank role and merger identity, not account control.
+- **KMT-S002:** [Dubai Protocol, June 12, 2017](https://www.protocol.dubai.ae/en/media-listing/news-events/hamdan-bin-rashid-honors-the-winners-of-watani-al-emarat-humanitarian-work-award/); Watani/Dherar role and contemporary name.
+- **KMT-S003:** [Dubai Law 7/2018](https://dlp.dubai.gov.ae/Legislation%20Reference/2018/Law%20No.%20(7)%20of%202018%20Establishing%20Watani%20Al%20Emarat%20Foundation.html), Articles 3, 9, 11, 13–14; legal person, controls and predecessor succession. Arabic controls.
+- **KMT-S004:** [Dubai Law 27/2024](https://dlp.dubai.gov.ae/Legislation%20Reference/2024/Law%20No.%20(27)%20of%202024%20Dissolving%20Watani%20Al%20Emarat%20Foundation.pdf), pp.1–3; dissolution and succession process, not proof of completed settlement.
+- **KMT-S005:** [Executive Council Resolution 85/2024](https://dlp.dubai.gov.ae/Legislation%20Reference/2024/Executive%20Council%20Resolution%20No.%20(85)%20of%202024%20Forming%20the%20Steering%20for%20Watani%20Al%20Emarat%20Foundation.pdf), Articles 2–3 and 6–7; successor records and oversight targets.
+- **KMT-S006:** [Bank of Israel Law](https://www.boi.org.il/media/s2tb3h2w/bank-of-israel-law.pdf), sections 48/50; official-hosted translation, Hebrew controls. Account categories do not prove a named account.
+- **AZ-ML-S001:** [NCA January 31, 2022](https://nca-newsroom.prgloo.com/news/laundered-millions-linked-to-azeri-politician-forfeited); official report of contested civil findings, full judgment not acquired.
+- **AZ-ML-S002:** [NCA July 5, 2021](https://nca-newsroom.prgloo.com/news/azeri-elite-agrees-to-hand-over-gbp-4-million); distinct negotiated settlement without admission/finding of respondent wrongdoing.
+- **AZ-ML-S003:** [Danske plea Attachment A](https://www.justice.gov/opa/press-release/file/1557611/dl), paragraphs 3–6, 33; admitted concealment/control conduct, not a link to the alleged Kushner route.
+- **AZ-ML-S004:** [MONEYVAL 2023](https://www.fatf-gafi.org/content/dam/fatf-gafi/fsrb-mer/Azerbaijan-MER-2023.pdf.coredownload.inline.pdf), case 3.5 and cited paragraphs in method note; dated assessment, anonymized case.
+- **AZ-ML-S005:** [MONEYVAL 2025](https://www.fatf-gafi.org/content/dam/fatf-gafi/fsrb-fur/Azerbaijan-FUR-2025.pdf.coredownload.inline.pdf); technical upgrades, not effectiveness assessment.
+- **AZ-ML-S006:** [FATF/Egmont March 2021 indicators](https://www.fatf-gafi.org/content/dam/fatf-gafi/reports/Trade-Based-Money-Laundering-Risk-Indicators.pdf.coredownload.inline.pdf); research tests, not proof by checklist.

@@ -1,0 +1,81 @@
+{
+  "inspected_date": "2026-10-23",
+  "scope": "Acquisition fingerprints only; original files are not republished here. No account or transfer records acquired.",
+  "files": [
+    {
+      "file": "watani_2018.html",
+      "url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2018/Law%20No.%20(7)%20of%202018%20Establishing%20Watani%20Al%20Emarat%20Foundation.html",
+      "status": 200,
+      "bytes": 264349,
+      "sha256": "2edeae8fe70e5517f94b7cc1b9e8aa6a6e0a6244df7fa79b01c13ddb742001de"
+    },
+    {
+      "file": "watani_2024_dissolution.pdf",
+      "url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2024/Law%20No.%20(27)%20of%202024%20Dissolving%20Watani%20Al%20Emarat%20Foundation.pdf",
+      "status": 200,
+      "bytes": 299622,
+      "sha256": "a92d5175254d1adb8380c73c4f3563012adc8d1ecb82ea2c5ad2c1362525c85c"
+    },
+    {
+      "file": "watani_2024_committee.pdf",
+      "url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2024/Executive%20Council%20Resolution%20No.%20(85)%20of%202024%20Forming%20the%20Steering%20for%20Watani%20Al%20Emarat%20Foundation.pdf",
+      "status": 200,
+      "bytes": 245595,
+      "sha256": "2cee1848dffafb66e55b6e684a39b5ccb2f2215a0bbf4a332c2db1a22c6b5cae"
+    },
+    {
+      "file": "boi_law.pdf",
+      "url": "https://www.boi.org.il/media/s2tb3h2w/bank-of-israel-law.pdf",
+      "status": 200,
+      "bytes": 780998,
+      "sha256": "24bfd176509207c574bc2508ff4c34cf49c2668f6bdf948b5dab13e40c69ec03"
+    },
+    {
+      "file": "fab_merger.html",
+      "url": "https://www.bankfab.com/en-ae/about-fab/investor-relations/archive/fgb-nbad-merger",
+      "status": 200,
+      "bytes": 349696,
+      "sha256": "fa1d2aaf377cdef09bb52883d014bf303a3449c51350041294a28abf5b417c66"
+    },
+    {
+      "file": "watani_2017.html",
+      "url": "https://www.protocol.dubai.ae/en/media-listing/news-events/hamdan-bin-rashid-honors-the-winners-of-watani-al-emarat-humanitarian-work-award/",
+      "status": 200,
+      "bytes": 32472,
+      "sha256": "7e2d0793c199e7149eb72e8a823c28ac1be52cb73bca2f7b0e35458146446398"
+    },
+    {
+      "file": "nca_feyziyev.html",
+      "bytes": 5332,
+      "sha256": "0e8d38fddff3f1fad8fc5552de104786e6e6670d3a2202ddd7818cba22bf7a18",
+      "url": "https://nca-newsroom.prgloo.com/news/laundered-millions-linked-to-azeri-politician-forfeited",
+      "kind": "acquired original"
+    },
+    {
+      "file": "nca_javadov.html",
+      "bytes": 6068,
+      "sha256": "10aef40208e1d8e77bfd9f2fb48fc84db41d9e334d2111ca73e76dbadd0cf917",
+      "url": "https://nca-newsroom.prgloo.com/news/azeri-elite-agrees-to-hand-over-gbp-4-million",
+      "kind": "acquired original"
+    },
+    {
+      "file": "danske_plea.txt",
+      "bytes": 104070,
+      "sha256": "2900247b51221078ff0973a62467dcd0246788a3b25ab09b6b00c74a73b6f2e4",
+      "url": "https://www.justice.gov/opa/press-release/file/1557611/dl",
+      "kind": "derived text extraction"
+    },
+    {
+      "file": "danske_plea.pdf",
+      "bytes": 2329069,
+      "sha256": "55f31566744d4585a23394596ea75978abe785792bd3e1166c737e17524c492e",
+      "url": "https://www.justice.gov/opa/press-release/file/1557611/dl",
+      "kind": "acquired original"
+    }
+  ],
+  "web_inspected_without_local_original": [
+    "AZ-ML-S004",
+    "AZ-ML-S005",
+    "AZ-ML-S006"
+  ]
+}
