@@ -939,3 +939,23 @@ These supplement **CH7-KUSHNER-REPORT-001 / J20-2026-038**, not a newly traced p
 - **DPC-S001:** [June 15 parliamentary questions](https://www.tweedekamer.nl/kamerstukken/kamervragen/detail?did=2026D29785&id=2026Z13066); scrutiny, not adjudicated premises.
 - **DPC-S002:** [September 3 answer, AH2923](https://www.tweedekamer.nl/downloads/document?id=2026D40663), answers 4–6; official explanation and disclosure boundaries.
 - **DPC-S003:** [August 20 decision note](https://www.tweedekamer.nl/downloads/document?id=2026D40665), accompanying the answer; attributed background and response provenance, not independent corroboration.
+
+
+## October 23 Dutch newsroom verification outcome
+
+- **CH7-COLE-S002:** Original NOS report, October 23, 07:50 CEST; source-specific verification limit, not a refutation. See [source note](Tmanch_CH7_Oct22_Cole_Kushner_Reporting_Source_Note.md), **CH7-KUSHNER-REPORT-001 / J20-2026-038**.
+
+## October 22–23 satellite, shipment and domestic-capacity sources
+
+The linked notes preserve inspected URLs, dates, source dependencies and implementation limits. IDs below identify source families, not extra corroborating witnesses.
+
+- **SAT-STATUS-S001:** CNN Amanpour original October 22 transcript; named operational account.
+- **SAT-STATUS-S002:** PBS/CNN presentations of the same October 22 Trump remark; one statement family.
+- **SAT-STATUS-S003:** Beskrestnov primary post 7826; Euronews supplies October 23 date attribution, not independent telemetry.
+- **SAT-STATUS-S004:** Ukrainian presidential Decree 621/2026 verifies advisory appointment. See [satellite note](Tmanch_CH7_Oct22_23_Satellite_Status_Source_Note.md), **039 / CH7-SAT-STATUS-001**.
+- **DIESEL-SHIP-S001:** PRIME original direct reporting of Peskov's October 23 remarks.
+- **DIESEL-SHIP-S002:** Reuters report carried by MarketScreener; indexed text inspected, underlying LSEG records unavailable.
+- **DIESEL-SHIP-S003:** AP's attributed Kpler report; common AIS inputs may overlap Reuters. See [shipment note](Tmanch_CH7_Oct23_Diesel_Shipment_Source_Note.md), **040 / CH7-DIESEL-SHIP-001**.
+- **DPA-PET-S001:** October 22 White House determination.
+- **DPA-PET-S002:** April 20 predecessor, official Federal Register 2026-08016 and White House text; one instrument family.
+- **DPA-PET-S003:** October 22 DOE program announcement. See [domestic-capacity note](Tmanch_CH7_Oct22_Domestic_Petroleum_DPA_Source_Note.md), **041 / CH7-DPA-PETROLEUM-001**.

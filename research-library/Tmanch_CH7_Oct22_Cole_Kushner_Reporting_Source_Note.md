@@ -41,3 +41,10 @@ Original article HTML acquired October 22, 2026; SHA256 1130a74d0d1255a08fd7885c
 ## October 23 source follow-up
 
 [Independent institutional and legal-record findings](Tmanch_CH7_Oct23_Kushner_Money_Trace_Source_Note.md) now identify historical roles and successor-record targets without claiming a traced transfer. [Azerbaijan-linked laundering research tests](Tmanch_Azerbaijan_AML_Research_Method.md) connect documented enforcement mechanisms to the existing Baku and financial-control record. These supplement CH7-KUSHNER-REPORT-001 / J20-2026-038; they do not add a duplicate reporting event or new confirmed money.
+
+
+## October 23 Dutch newsroom verification outcome
+
+**CH7-COLE-S002 / CH7-KUSHNER-REPORT-001 / J20-2026-038.** [NOS's October 23 report](https://nos.nl/artikel/2636293-mivd-zag-op-gehackte-iphone-hoe-trumps-schoonzoon-vele-miljoenen-ontving), published 07:50 CEST, says Nieuwsuur/de Volkskrant spent years investigating MIVD phone access, interviewed multiple directly involved people, and obtained no confirmation. It names no interviewees or source overlap. The years describe the investigation, not demonstrated surveillance duration.
+
+This is the newsroom's verification outcome, not a subject's denial or a refutation. NOS's financial/surveillance narrative remains attributed to Cole, not independent account evidence. The documented financial/access pattern above remains intact. This adds a source-provenance test, not another transaction, benefit outcome or event.
