@@ -889,3 +889,21 @@ J20-2026-035; [source and scope note](Tmanch_CH7_Oct21_Norway_Defence_Resilience
 ### October 22 historical charter-source supplement
 
 **GEN-OCC-S006:** August 14 [OCC Corporate Decision 1385](https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/cd1385.pdf), pp.1–2 and 8–12. Preliminary conditional approval and a documented plan for World Liberty Trust Company to assume USD1 issuance/custody from BitGo, not final authorization or implemented migration. Supplements [the October 21 OCC note](Tmanch_CH7_Oct21_OCC_GENIUS_Source_Note.md#october-22-historical-source-supplement-conditional-charter-not-completed-migration), CH7-GEN-OCC-001 and J20-2026-034 without adding a new October 22 action or transaction total. Original provenance is recorded in the note.
+
+
+## October 22, 2026 — European Parliament Black Sea resolution
+
+Event **J20-2026-036**; [source and implementation limits](Tmanch_CH7_Oct22_Black_Sea_Resolution_Source_Note.md).
+
+- **EP-BLACKSEA-S001:** [Original Parliament press release 20261018IPR48267](https://www.europarl.europa.eu/pdfs/news/expert/2026/10/press_release/20261018IPR48267/20261018IPR48267_en.pdf), October 22, pp.1–3. Confirms announced adoption by 432–52–88 and the institution's requests; not mission authorization or deployment. Original acquired and pp.2–3 visually inspected.
+- **EP-BLACKSEA-S002:** [Procedure 2026/2933(RSP)](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026%2F2933%28RSP%29). Dated debate/vote locators; displayed status lagged the adoption announcement. Final numbered text and roll-call record not acquired.
+
+## October 22, 2026 — Ukraine–Nokia–ICEYE satellite Letter of Intent
+
+Event **J20-2026-037**; [source and capability-development limits](Tmanch_CH7_Oct22_Finland_Satellite_LOI_Source_Note.md).
+
+- **FIN-SAT-S001:** [Nokia announcement](https://www.nokia.com/newsroom/iceye-and-nokia-partner-with-the-ministry-of-defence-of-ukraine-to-develop-sovereign-satcom-capability/), October 22. Counterparty account of signed Letter of Intent and prospective sovereign-control architecture, not operating service.
+- **FIN-SAT-S002:** [Ukrainian presidency seven-document announcement](https://www.president.gov.ua/en/news/ukrayina-ta-finlyandiya-pidpisali-sim-dokumentiv-u-sferah-ob-107005), October 22, matched to the Ukrainian original. Same proposed cooperation, not an additional transaction or delivery.
+- **FIN-SAT-S003:** [Associated presidential statement](https://www.president.gov.ua/en/news/zayava-prezidenta-ukrayini-pid-chas-spilnogo-z-premyer-minis-107001), October 22. Broader financial figures are not summed or allocated to satellites; no satellite-specific payment added.
+
+Both new events are contextual allied responses, not Trump administration actions, and remain unscored. They add institutional and development-stage steps without counting proposed protection as delivered capability. Prior events, amounts and correction history remain unchanged.
