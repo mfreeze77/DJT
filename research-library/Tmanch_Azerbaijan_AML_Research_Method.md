@@ -1,0 +1,38 @@
+# Azerbaijan-linked laundering: reusable tests for the DJT money-trace record
+
+Research reviewed October 23, 2026. This is a source-grounded investigation method, not a newly established payment or accusation against a DJT-linked person.
+
+## Why this lead matters
+
+Official enforcement records establish specific Azerbaijan-linked laundering cases and concealment mechanisms. The alleged Azerbaijan leg in [the Cole reporting record](Tmanch_CH7_Oct22_Cole_Kushner_Reporting_Source_Note.md) therefore deserves concrete testing, not dismissal as an unfamiliar geography. These cases do not identify Cole's unnamed bank or prove a shared flow. The research unit is an identified entity, authority and transaction at a particular date.
+
+Start with the existing [Chapter 4 claim ledger](Tmanch_CH4_claim_ledger.csv): **CH4-BAKU-PEP-027 / CH4-BAKU-IRGC-028** already preserve politically exposed partners, reported contractor risk, notice and continued project participation. They are more than geographic overlap. **CH4-DEUTSCHE-MIRROR-020 / CH4-DEUTSCHE-OVERLAP-021** distinguish an established banking mechanism from an unproved bridge into Trump loans. **CH4-PANAMA-SPV-029** and **CH4-MISSUNIVERSE-PAYMENT-030** remain separate structures and flows. Do not merge them through nationality or shared institutions.
+
+## Inspected official precedents and legal status
+
+- **AZ-ML-S001:** [NCA, January 31, 2022](https://nca-newsroom.prgloo.com/news/laundered-millions-linked-to-azeri-politician-forfeited). The agency reports a contested civil court finding concerning a significant Azerbaijan–Estonia–Latvia scheme and fictitious commercial documentation. The ordered recovery was smaller than the amount frozen. This is an official account of a civil finding; the full judgment was not acquired and no universal criminal finding against named family members is implied.
+- **AZ-ML-S002:** [NCA, July 5, 2021](https://nca-newsroom.prgloo.com/news/azeri-elite-agrees-to-hand-over-gbp-4-million). The separate Javadov recovery was a negotiated settlement. The agency expressly disclaims an admission or finding of respondent wrongdoing. A settlement, freezing order and contested forfeiture must have separate evidentiary labels.
+- **AZ-ML-S003:** [Danske's original plea, Attachment A](https://www.justice.gov/opa/press-release/file/1557611/dl), December 13, 2022, paragraphs 3–6 and 33; [DOJ announcement](https://www.justice.gov/archives/opa/pr/danske-bank-pleads-guilty-fraud-us-banks-multi-billion-dollar-scheme-access-us-financial). Admissions describe employee-assisted concealment and cancellation of an independent investigation in 2014 following executive objections. The offense was conspiracy to commit bank fraud, not adjudication that every nonresident transfer was criminal. This is a strong controls-after-notice comparison, not identification of Cole's bank.
+- **AZ-ML-S004:** [MONEYVAL 2023 assessment](https://www.fatf-gafi.org/content/dam/fatf-gafi/fsrb-mer/Azerbaijan-MER-2023.pdf.coredownload.inline.pdf), case 3.5, printed p.65; paragraphs 20, 28–29 and 207–210. Its anonymized convicted bank-insider case and discussion of ownership and enforcement vulnerabilities identify testable mechanisms. The assessment concerns the March 2023 onsite period, not a finding against a named person in this project.
+- **AZ-ML-S005:** [MONEYVAL 2025 follow-up](https://www.fatf-gafi.org/content/dam/fatf-gafi/fsrb-fur/Azerbaijan-FUR-2025.pdf.coredownload.inline.pdf), adopted November 10, published December 2025. It records technical upgrades, including beneficial ownership. Paragraph 4 expressly excludes evaluation of improved effectiveness. Preserve both the legal improvements and that limit; do not present all 2023 legal gaps as current.
+- **AZ-ML-S006:** [FATF/Egmont trade-based laundering indicators](https://www.fatf-gafi.org/content/dam/fatf-gafi/reports/Trade-Based-Money-Laundering-Risk-Indicators.pdf.coredownload.inline.pdf), March 2021. Business substance, documentary consistency and account behavior must be examined together. Indicators guide research; correlated flags do not become independent proof.
+
+## Apply the construction-control lens
+
+1. **Name the bank before drawing the money edge.** Keep the Azerbaijani bank unresolved until a source supplies its legal identity. Do not insert IBA, the Central Bank or a bank from another case.
+2. **Separate authority from benefit.** Record legal owner, authorized signatory, discretionary controller and ultimate recipient separately. A board chair's title does not prove instructions over a customer account.
+3. **Reconcile both sides.** Seek matching debit/credit records, value dates, currencies and references. Give related transfer legs one flow-group ID. Do not sum upstream deposits, downstream disbursements, migrated balances, reversals and fees as new independent funding.
+4. **Test actual performance.** Compare claimed goods, services, donations or official purposes with executed authority, normal pricing and delivered output. A document alone is not performance; independently verified consideration is affirmative evidence, not an imagined excuse.
+5. **Follow the warning into the decision.** Identify who was notified, who could constrain the relationship and what they actually did. Continued access or benefit after specific notice is more probative than isolated association. Apply this to existing Baku chronology without assuming the same bank or funds.
+6. **Compare complete explanations.** Ordinary commerce must account for the route and economics; tolerated misconduct may explain benefit and ignored controls without proving foreign direction. An influence explanation must account for access, dependencies, concealment and outcomes better than the alternatives. A hypothetical innocent explanation is not affirmative evidence, and no direct-intent document is required before circumstantial patterns can carry weight.
+7. **Separate financial and national benefits.** Identify the actual recipient and mechanism before assigning realized benefit to Russia, the United States/allies or another actor. Institutional vulnerability is not proof of a completed payment-for-policy exchange.
+
+## Reusable evidence record
+
+For each candidate edge retain claim/event ID, source family, original URL/page, event and publication dates, legal identifiers, transaction role, native amount/currency, dated authority, instrument status, observed action, inference, supported alternative evidence, missing record and what would change the assessment. Use distinct categories: observed document, attributed report, admitted fact, civil finding, criminal finding and inference. Do not collapse these into a numeric score.
+
+The [institution and control-record follow-up](Tmanch_CH7_Oct23_Kushner_Money_Trace_Source_Note.md) provides exact legal succession targets. Next acquisitions are the unnamed bank's identity, original mandates, lawful public transaction exhibits and corresponding oversight records. For Baku, use already-cited contract, diligence, warning and receipt records before proposing a financial bridge. No outreach, records request, purchase or private-bank access has been performed.
+
+## Preservation
+
+The [source acquisition manifest](Tmanch_CH7_Oct23_Money_Trace_Source_Manifest.json) identifies acquired original files and hashes. NCA records and the DOJ plea were acquired; MONEYVAL and FATF documents were inspected through official web-rendered PDFs. A separate raw MONEYVAL 2023 request returned 403 and was stopped. Do not represent every source as locally preserved. The legal statuses and source independence limits above remain part of the findings.

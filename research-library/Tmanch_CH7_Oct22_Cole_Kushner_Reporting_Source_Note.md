@@ -37,3 +37,7 @@ Priority missing records: account ownership/signatory mandates; dated debit/cred
 ## Preservation
 
 Original article HTML acquired October 22, 2026; SHA256 1130a74d0d1255a08fd7885c4bd61d529f67b719e9105700f6011d8188fafc87. The preserved original is an inspection record, not permission to republish the article. No verbatim article excerpt is reproduced here.
+
+## October 23 source follow-up
+
+[Independent institutional and legal-record findings](Tmanch_CH7_Oct23_Kushner_Money_Trace_Source_Note.md) now identify historical roles and successor-record targets without claiming a traced transfer. [Azerbaijan-linked laundering research tests](Tmanch_Azerbaijan_AML_Research_Method.md) connect documented enforcement mechanisms to the existing Baku and financial-control record. These supplement CH7-KUSHNER-REPORT-001 / J20-2026-038; they do not add a duplicate reporting event or new confirmed money.
