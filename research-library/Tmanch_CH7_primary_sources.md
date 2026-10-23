@@ -930,3 +930,12 @@ These supplement **CH7-KUSHNER-REPORT-001 / J20-2026-038**, not a newly traced p
 - **AZ-ML-S004:** [MONEYVAL 2023](https://www.fatf-gafi.org/content/dam/fatf-gafi/fsrb-mer/Azerbaijan-MER-2023.pdf.coredownload.inline.pdf), case 3.5 and cited paragraphs in method note; dated assessment, anonymized case.
 - **AZ-ML-S005:** [MONEYVAL 2025](https://www.fatf-gafi.org/content/dam/fatf-gafi/fsrb-fur/Azerbaijan-FUR-2025.pdf.coredownload.inline.pdf); technical upgrades, not effectiveness assessment.
 - **AZ-ML-S006:** [FATF/Egmont March 2021 indicators](https://www.fatf-gafi.org/content/dam/fatf-gafi/reports/Trade-Based-Money-Laundering-Risk-Indicators.pdf.coredownload.inline.pdf); research tests, not proof by checklist.
+
+
+## September 3 Dutch response — source follow-up inspected October 23
+
+**CH7-DUTCH-CONTROL-001**; [bounded findings and original hashes](Tmanch_CH7_Oct23_Dutch_Ownership_Control_Source_Note.md).
+
+- **DPC-S001:** [June 15 parliamentary questions](https://www.tweedekamer.nl/kamerstukken/kamervragen/detail?did=2026D29785&id=2026Z13066); scrutiny, not adjudicated premises.
+- **DPC-S002:** [September 3 answer, AH2923](https://www.tweedekamer.nl/downloads/document?id=2026D40663), answers 4–6; official explanation and disclosure boundaries.
+- **DPC-S003:** [August 20 decision note](https://www.tweedekamer.nl/downloads/document?id=2026D40665), accompanying the answer; attributed background and response provenance, not independent corroboration.

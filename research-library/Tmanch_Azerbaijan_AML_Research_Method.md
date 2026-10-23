@@ -36,3 +36,8 @@ The [institution and control-record follow-up](Tmanch_CH7_Oct23_Kushner_Money_Tr
 ## Preservation
 
 The [source acquisition manifest](Tmanch_CH7_Oct23_Money_Trace_Source_Manifest.json) identifies acquired original files and hashes. NCA records and the DOJ plea were acquired; MONEYVAL and FATF documents were inspected through official web-rendered PDFs. A separate raw MONEYVAL 2023 request returned 403 and was stopped. Do not represent every source as locally preserved. The legal statuses and source independence limits above remain part of the findings.
+
+
+## Dutch control-response follow-up
+
+The [September 3 ministerial response and source note](Tmanch_CH7_Oct23_Dutch_Ownership_Control_Source_Note.md) adds **CH7-DUTCH-CONTROL-001** to the ownership-versus-control research test. Treat an official explanation, entity-specific compliance and an actual money trail as separate evidentiary questions. No Dutch–Azerbaijani transaction bridge is inferred.
