@@ -216,3 +216,5 @@ See [`Tmanch_CH7_open_questions.md`](Tmanch_CH7_open_questions.md) for the filin
 
 
 
+
+**October 24 attribution supplement:** [CH7-SAT-ATTR-001 and source boundary](Tmanch_CH7_Oct24_Musk_Commercial_Restriction_Source_Note.md) joins existing **J20-2026-021, 039 and 045** without a new restriction/restoration event, score or loss total. Earlier observations and correction history remain intact.

@@ -986,3 +986,7 @@ Acquired original-byte hashes and index-only boundaries appear in the [evening m
 - **SAT-OVERSIGHT-S002:** October 23 Liccardo/Panetta/Khanna signed letter to Wiles, **047 / CH7-SAT-OVERSIGHT-002**. [Both originals and distinct request scopes](Tmanch_CH7_Oct23_Additional_Satellite_Oversight_Source_Note.md). Repeated reporting in letters is not additional corroboration.
 
 Original-byte hashes are recorded in the [acquisition manifest](Tmanch_CH7_Oct24_Policy_Source_Manifest.json). No underlying telemetry, response, completed investigation or implemented safeguard is claimed.
+
+## October 24 attribution supplement
+
+- **SAT-ATTR-S001 / CH7-SAT-ATTR-001:** [Bounded source note and acquisition limits](Tmanch_CH7_Oct24_Musk_Commercial_Restriction_Source_Note.md). Secondary indexed report; original post unacquired. Joins existing **J20-2026-021, 039 and 045**; no new operational event or independently corroborating source family.
