@@ -131,3 +131,7 @@ The four-senator October 19 request to SpaceX is now recorded as **J20-2026-029*
 The [October 20 Ukrainian presidential readout](https://www.president.gov.ua/en/news/rannye-poperedzhennya-pro-rosijski-ataki-balistikoyu-ta-situ-106965) records Zelenskyy's call with Rubio concerning interceptors, ballistic-missile early warning and Starlink/Starshield restoration. It describes willingness to help and a planned follow-up, not verified restoration or delivery. [PTI's contemporaneous Mumbai report](https://theprint.in/india/no-change-in-us-policy-on-ukraine-rubio/3076979/) attributes to Rubio a denial of policy changes and deliberate denial of aid; it is reported public remarks, not an inspected official transcript or operational verification.
 
 The [October 19 SpaceX records-request and October 20 status note](Tmanch_CH7_Oct19_SpaceX_Records_Request_Source_Note.md#october-20-follow-up-assurance-is-not-implementation) preserves both accounts, publication-time limits, source provenance and missing implementation records. Warning delivery, satellite services and physical interceptor supply remain distinct. This supplements existing events without a new restriction event, score, causal finding or revision of earlier restoration history.
+
+## October 24 attribution supplement
+
+See [CH7-SAT-ATTR-001 and acquisition boundary](Tmanch_CH7_Oct24_Musk_Commercial_Restriction_Source_Note.md), linking existing **J20-2026-021/039/045**. This adds attribution analysis, not a replacement for the dated operational accounts or another restriction/restoration event.
