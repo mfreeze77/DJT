@@ -1,0 +1,37 @@
+{
+  "checked_at_utc": "2026-10-24T12:52:00Z",
+  "sources": [
+    {
+      "name": "mod_en",
+      "url": "https://mod.gov.ua/en/news/starlink-and-starshield-speed-restored-in-ukraine",
+      "status": 200,
+      "bytes": 155281,
+      "sha256": "95ff6096182135c7db510682ece9a2e3fcc38f4e2fbec17bd5598fb24bee59d3",
+      "source_id": "SAT-RESTORE-S001"
+    },
+    {
+      "name": "mod_uk",
+      "url": "https://mod.gov.ua/news/sistemi-monitoringu-ministerstva-oboroni-ukrayini-oficzijno-fiksuyut-vidnovlennya-shvidkosti-roboti-starlink-starshield",
+      "status": 200,
+      "bytes": 177532,
+      "sha256": "da2dd2cc7c13175fd69d65d329f9827c1ebed159089625290d102f93e6eca312",
+      "source_id": "SAT-RESTORE-S001-UK"
+    },
+    {
+      "name": "meeks_welch",
+      "url": "https://democrats-foreignaffairs.house.gov/index.cfm?File_id=ABC3B43F-B47D-49B5-AAB8-37C8CC4ADF78&a=Files.Serve",
+      "status": 200,
+      "bytes": 406706,
+      "sha256": "fc87086516d85d853805c822b48466209cac1f471dc8577f4de70f4abd21a0ae",
+      "source_id": "SAT-OVERSIGHT-S001"
+    },
+    {
+      "name": "liccardo",
+      "url": "https://liccardo.house.gov/sites/evo-subsites/liccardo.house.gov/files/evo-media-document/10.23.26-starshield-slowdown-letter-to-wh.pdf",
+      "status": 200,
+      "bytes": 343328,
+      "sha256": "9f33ae9cccf4466a8d4a6f0961a06967c2eb277c0109040bcfbf7ddae93df011",
+      "source_id": "SAT-OVERSIGHT-S002"
+    }
+  ]
+}

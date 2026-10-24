@@ -978,3 +978,11 @@ Original links, historical limits and **CH7-KUSHNER-TRACE-002 / CH7-KUSHNER-REPO
 - **TAPI-S001–004:** Issuer product announcement, August release, October Form 425 and existing S-4 ownership record. [Chronology and limits](Tmanch_CH7_Oct23_Truth_API_Source_Note.md), **044 / CH7-TMTG-API-001**. The interview and its news coverage are one source family.
 
 Acquired original-byte hashes and index-only boundaries appear in the [evening manifest](Tmanch_CH7_Oct23_Evening_Source_Manifest.json). No new allegations or numerical financial-flow totals are added.
+
+## October 24 satellite restoration and additional oversight
+
+- **SAT-RESTORE-S001 / SAT-RESTORE-S001-UK:** English and Ukrainian versions of the October 24 Ministry of Defence monitoring statement, one institutional source family. [Originals, timing and limits](Tmanch_CH7_Oct24_Satellite_Restoration_Source_Note.md), **J20-2026-045 / CH7-SAT-RESTORE-001**.
+- **SAT-OVERSIGHT-S001:** October 23 six-member signed letter to Musk, **046 / CH7-SAT-OVERSIGHT-001**.
+- **SAT-OVERSIGHT-S002:** October 23 Liccardo/Panetta/Khanna signed letter to Wiles, **047 / CH7-SAT-OVERSIGHT-002**. [Both originals and distinct request scopes](Tmanch_CH7_Oct23_Additional_Satellite_Oversight_Source_Note.md). Repeated reporting in letters is not additional corroboration.
+
+Original-byte hashes are recorded in the [acquisition manifest](Tmanch_CH7_Oct24_Policy_Source_Manifest.json). No underlying telemetry, response, completed investigation or implemented safeguard is claimed.
