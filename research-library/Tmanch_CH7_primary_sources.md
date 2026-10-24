@@ -990,3 +990,12 @@ Original-byte hashes are recorded in the [acquisition manifest](Tmanch_CH7_Oct24
 ## October 24 attribution supplement
 
 - **SAT-ATTR-S001 / CH7-SAT-ATTR-001:** [Bounded source note and acquisition limits](Tmanch_CH7_Oct24_Musk_Commercial_Restriction_Source_Note.md). Secondary indexed report; original post unacquired. Joins existing **J20-2026-021, 039 and 045**; no new operational event or independently corroborating source family.
+
+## October 24 acquisition: introduced controls and operational follow-up
+
+- **REAGAN-S001:** [Authenticated H.R. 10866 IH](https://www.govinfo.gov/content/pkg/BILLS-119hr10866ih/pdf/BILLS-119hr10866ih.pdf), October 22, pp. 1–4; numbered introduction and proposed scope, not enactment. Full original text inspected; pp. 1–2 visually inspected.
+- **REAGAN-S002:** [October 22 Congressional Record](https://www.govinfo.gov/content/pkg/CREC-2026-10-22/pdf/CREC-2026-10-22.pdf#page=3), H6055/PDF p. 3, acquired and visually inspected; introduction, original cosponsors and referrals.
+- **REAGAN-S003:** [October 23 sponsor announcement](https://fitzpatrick.house.gov/2026/10/fitzpatrick-introduces-ronald-reagan-peace-through-strength-act-to-block-russian-oil-imports-and-defend-ukrain), original HTML; later announcement, not controlling introduction date. The linked October 21 drafting-stamp text was also acquired, but the authenticated introduced version supplies operative proposal scope. See [source note](Tmanch_CH7_Oct22_Fitzpatrick_Bill_Source_Note.md), **J20-2026-048 / CH7-REAGAN-BILL-001**.
+- **SAT-RESTORE-S002:** [October 24 presidential address](https://www.president.gov.ua/en/news/vidnovili-robotu-starlinku-starshildu-na-shvidkosti-yaka-bul-107025), original HTML, publication 15:50 without explicit timezone. Attributed testing, approximate restoration window and still-undelivered approved interceptor packages; no raw telemetry, exact change time or missile-holder inventory. Supplements **045/039 / CH7-SAT-RESTORE-001 / CH7-SAT-STATUS-001**, not another operational event or independent telemetry family.
+
+Original-byte hashes appear in [the acquisition manifest](Tmanch_CH7_Oct24_Evening_Policy_Source_Manifest.json). Source identification is not a new claim of motive or personal decision authority.

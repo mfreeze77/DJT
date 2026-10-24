@@ -11,3 +11,13 @@ Joins: **J20-2026-021, 022, 029, 030, 035, 037, 039, 042**. Warning intelligence
 ## October 24 attribution supplement
 
 See [CH7-SAT-ATTR-001 and acquisition boundary](Tmanch_CH7_Oct24_Musk_Commercial_Restriction_Source_Note.md), linking existing **J20-2026-021/039/045**. This adds attribution analysis, not a replacement for the dated operational accounts or another restriction/restoration event.
+
+## October 24 presidential testing and delivery-status follow-up
+
+**SAT-RESTORE-S002:** In the [October 24 address published at 15:50](https://www.president.gov.ua/en/news/vidnovili-robotu-starlinku-starshildu-na-shvidkosti-yaka-bul-107025), Zelenskyy reported that restoration began overnight and speeds were usable by that morning, and said tests showed Starlink/Starshield working. He credited American and other partners, including members of Congress, senators, media, the State Department and the President. This adds an official approximate transition window and testing account to the ministry's monitoring report; it is not independent telemetry or a precise configuration timestamp. The page does not label its timezone. Original HTML was acquired and read.
+
+The same address says already-politically-approved ballistic-interceptor packages from **both the United States and European partners** still awaited delivery. This preserves the distinction between communications restored and other defensive support still missing. It adds no named holder, missile inventory, re-export refusal or decisionmaker for the delay. The prior October 23 observations in **J20-2026-039 / CH7-SAT-STATUS-001** remain historical observations, not errors erased by restoration. Supplement **J20-2026-045 / CH7-SAT-RESTORE-001**, without another restriction/restoration event or scored loss.
+
+The direct near-term benefit of restored communications is Ukrainian/allied frontline logistics and defensive interception. The outstanding interceptor gap leaves a different defensive vulnerability unresolved. Attributed thanks is affirmative acknowledgment of assistance, but does not establish which official ordered either the initial restriction or the technical reversal. The cumulative record therefore supports a real remediation, not a conclusion that all support was restored or the underlying dependency/control problem was solved. The address also anticipates an Oleshky humanitarian operation; it reports no delivered aid or completed evacuation and supplies no date reconciliation for **J20-2026-043**.
+
+Original-byte hash: [source manifest](Tmanch_CH7_Oct24_Evening_Policy_Source_Manifest.json).
