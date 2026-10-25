@@ -1004,3 +1004,10 @@ Original-byte hashes appear in [the acquisition manifest](Tmanch_CH7_Oct24_Eveni
 
 - **UA-SAN-S001–003 / CH7-UA-SANCTIONS-001–002 / J20-2026-049–050:** [Controlling decrees, four original annexes, identity mapping and explanatory-release limits](Tmanch_CH7_Oct24_Ukraine_Sanctions_Source_Note.md). Decrees dated October 24 implement October 22 decisions; publication-effective Ukrainian restrictions, not demonstrated enforcement results or US/EU adoption. [Original-byte hashes](Tmanch_CH7_Oct25_Policy_Source_Manifest.json).
 - **OLESHKY-S004 / CH7-OLESHKY-STATUS-001:** [Original Lubinets channel post 12917](https://t.me/s/dmytro_lubinetzs/12917), original web-text inspected, raw-byte acquisition unavailable. [Bounded source supplement](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#october-24-coordination-statement-acquired-october-25) to **J20-2026-043**, not another aid or ceasefire implementation event. October 27 scheduling statement does not reconcile the White House October 29 date.
+
+## October 25 evening: domestic diesel renewals and qualified Oleshky schedule
+
+- **EPA-DIESEL-S001–003 / CH7-EPA-DIESEL-001–002 / J20-2026-051–052:** [Signed originals, operative controls, predecessor-index limits and benefit analysis](Tmanch_CH7_Oct20_EPA_Diesel_Waivers_Source_Note.md). Legal issue date October 20; effective October 25–November 13 with qualified-volume sell-through. No economic outcome assumed.
+- **OLESHKY-S005:** [Pool report 9909](https://pool.pp.tools/reports/9909), October 24, original HTML acquired October 25; attributed U.S.-side October 27 scheduling account with reporter quotation caveat. Supplements **043 / CH7-OLESHKY-STATUS-001** only. No inspected agreement or delivered relief.
+
+[Original-byte hashes](Tmanch_CH7_Oct25_Evening_Policy_Source_Manifest.json). Earlier source gaps and correction history preserved.
