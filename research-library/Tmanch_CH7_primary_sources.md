@@ -1022,3 +1022,8 @@ Original-byte hashes appear in [the acquisition manifest](Tmanch_CH7_Oct24_Eveni
 - **DIESEL-SHIP-S005:** [EASTMED Tankers MR fleet disclosure](https://www.eastmed.gr/tankers-mr/), undated; ship/IMO/call-sign/named-owner join only, not registry or cargo-title evidence. These supplement **040 / CH7-DIESEL-SHIP-001**; [source note](Tmanch_CH7_Oct23_Diesel_Shipment_Source_Note.md).
 
 Source-byte hashes and acquisition limits: [October 26 manifest](Tmanch_CH7_Oct26_Source_Manifest.json). No new cargo, financial flow, personal allegation or score is created by these qualifications.
+
+
+## October 26 evening: EPF adoption step
+
+- **EPF-S001–002 / J20-2026-054 / CH7-EPF-ADOPTION-001:** [Council adoption announcement, preparatory agenda and acquisition limits](Tmanch_CH7_Oct26_EPF_Adoption_Source_Note.md). Advances the existing agreement linked to **024**; distinct from **017** loan financing. Reimbursement for already delivered aid and EUMAM financing are not new equipment delivery or verified payments. Conflicting prior-agreement years and historical inspection status remain preserved.
