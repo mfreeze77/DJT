@@ -25,3 +25,23 @@ Acquisition: original channel web-text inspected; raw HTTP retrieval returned Si
 **OLESHKY-S005** — [White House pool report 9909](https://pool.pp.tools/reports/9909), Emily Goodin, New York Post: archive timestamp October 24 20:53 UTC; report says sent October 24 4:40 p.m., without a stated timezone. The reporter explicitly cautions readers to double-check quotations. The report attributes **October 27** to Melania Trump for the localized ceasefire and reports an agreement-signing claim; Trump says both presidents signed. These are attributed remarks, not an inspected agreement or independent evidence of implementation.
 
 This adds U.S.-side support for the October 27 schedule alongside **OLESHKY-S002/S004**, but does **not** reconcile the White House statement's October 29 date. Update **CH7-OLESHKY-STATUS-001 / J20-2026-043**, not a second ceasefire or aid-delivery event. Prospective humanitarian benefit remains Ukrainian/allied; no delivered relief or exchange for policy concessions is established. [Original HTML acquisition hash](Tmanch_CH7_Oct25_Evening_Policy_Source_Manifest.json). The pool account and official statement are related U.S.-side communications, not two independent confirmations of implementation.
+
+
+### October 26 verification supplement — staged account and planned safeguards
+
+The original comparison correctly recorded differing White House and military dates. A subsequently inspected October 23 Radio Svoboda interview supplies a participant's staged explanation: Lubinets said the humanitarian mission should begin October 29, preceded by a quiet period and mine clearance. This supports interpreting the October 27 military date as a preparatory phase; it does not amend the White House document, which itself described October 29 as the ceasefire start. Accordingly, the earlier statement that the inspected evidence did not reconcile the dates should be read as the original inspection's status, not a claim that no staged explanation exists. No agreed signed text was acquired.
+
+Source: https://www.radiosvoboda.org/a/news-lubinets-oleshky-humanitarna-misiya-detali/33883148.html — published October 23 at 19:58, timezone unstated; original interview text inspected. **OLESHKY-S006**.
+
+In Espreso's October 24 interview, Lubinets said quiet would begin October 27 at 03:00 Kyiv for road clearance, followed by aid and voluntary departure with a choice of Ukraine or Russia. He promised a new, undisclosed control mechanism including physical US monitoring. These are concrete proposed safeguards, not evidence that observers were deployed, roads cleared, aid delivered through the agreement, or civilians voluntarily evacuated. They strengthen the plan's stated protective design without establishing implementation or rebutting separately recorded evacuation risks.
+
+Source: https://espreso.tv/viyna-z-rosiyeyu-vi-pobachite-mi-zapustimo-noviy-metod-kontrolyu-vikonannya-domovlenostey-lubinets-pro-gumanitarnu-misiyu-v-oleshkakh — published October 24 at 19:01, timezone unstated; original interview text inspected through web tool. **OLESHKY-S007**. Raw HTML GET later returned HTTP403; stopped, no retry or video acquisition.
+
+Separately, the Interior Ministry reported October 25 at 11:25 that the Bolharychi special-purpose company of the National Guard's 11th brigade used drones to deliver 15 packages weighing more than 600 kg, including food and toys for Oleshky families. The execution date is unspecified. This is official reporting of a distinct delivery, not independently verified receipts and not evidence of implementation of the announced US-mediated mission. The note's absence-of-verified-mission-delivery statement must not become a general claim that no aid reached Oleshky.
+
+Source: https://mvs.gov.ua/news/ivan-vigivskii-gvardiici-za-dopomogoiu-droniv-dostavili-do-olesok-ditiace-xarcuvannia-i-igraski — **OLESHKY-S008**. Do not create another US-mediated ceasefire event or attribute this drone operation to Melania/Trump.
+
+Benefit assessment: the planned route choice and monitoring would directly benefit Ukrainian civilians and allied humanitarian objectives if carried out. The separate drone aid is an officially reported direct Ukrainian civilian benefit. No realized strategic Russian advantage or verified successful mediated evacuation is established by these texts. Join humanitarian diplomacy event031 and constraint/restoration events039/045: a concrete humanitarian plan can coexist with independently documented prior operational harms; neither should erase the other. Do not count multiple interviews with the same participant as independent corroboration of implementation.
+
+
+Acquisition details: [October 26 manifest](Tmanch_CH7_Oct26_Source_Manifest.json).

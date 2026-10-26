@@ -1011,3 +1011,14 @@ Original-byte hashes appear in [the acquisition manifest](Tmanch_CH7_Oct24_Eveni
 - **OLESHKY-S005:** [Pool report 9909](https://pool.pp.tools/reports/9909), October 24, original HTML acquired October 25; attributed U.S.-side October 27 scheduling account with reporter quotation caveat. Supplements **043 / CH7-OLESHKY-STATUS-001** only. No inspected agreement or delivered relief.
 
 [Original-byte hashes](Tmanch_CH7_Oct25_Evening_Policy_Source_Manifest.json). Earlier source gaps and correction history preserved.
+
+## October 26 verified proposal and source qualifications
+
+- **OISP-S001:** [October 26 Treasury NPRM 2026-21786](https://www.govinfo.gov/content/pkg/FR-2026-10-26/pdf/2026-21786.pdf), authenticated Federal Register original. Proposed COINS investment controls and notifications, not final restrictions. **J20-2026-053 / CH7-OISP-PROPOSAL-001**; [scope note](Tmanch_CH7_Oct26_Outbound_Investment_Proposal_Source_Note.md).
+- **OLESHKY-S006:** [October 23 Radio Svoboda Lubinets interview](https://www.radiosvoboda.org/a/news-lubinets-oleshky-humanitarna-misiya-detali/33883148.html); staged mission/quiet/clearance explanation, not signed agreement.
+- **OLESHKY-S007:** [October 24 Espreso Lubinets interview](https://espreso.tv/viyna-z-rosiyeyu-vi-pobachite-mi-zapustimo-noviy-metod-kontrolyu-vikonannya-domovlenostey-lubinets-pro-gumanitarnu-misiyu-v-oleshkakh); planned route choice and monitoring. Web text inspected; raw GET403 stopped.
+- **OLESHKY-S008:** [October 25 MVS original](https://mvs.gov.ua/news/ivan-vigivskii-gvardiici-za-dopomogoiu-droniv-dostavili-do-olesok-ditiace-xarcuvannia-i-igraski); separately reported Ukrainian drone aid, execution date unspecified. These three supplement **043 / CH7-OLESHKY-STATUS-001**, not independent confirmation of mission implementation; [dated note](Tmanch_CH7_Oct23_Oleshky_Source_Note.md).
+- **DIESEL-SHIP-S004:** [Kyiv Independent October 23 original reporting](https://kyivindependent.com/how-eu-ships-are-still-able-to-carry-trumps-russian-diesel-despite-so-many-sanctions/); later destination qualification and attributed company/authority responses; linked MarineTraffic original not acquired.
+- **DIESEL-SHIP-S005:** [EASTMED Tankers MR fleet disclosure](https://www.eastmed.gr/tankers-mr/), undated; ship/IMO/call-sign/named-owner join only, not registry or cargo-title evidence. These supplement **040 / CH7-DIESEL-SHIP-001**; [source note](Tmanch_CH7_Oct23_Diesel_Shipment_Source_Note.md).
+
+Source-byte hashes and acquisition limits: [October 26 manifest](Tmanch_CH7_Oct26_Source_Manifest.json). No new cargo, financial flow, personal allegation or score is created by these qualifications.
