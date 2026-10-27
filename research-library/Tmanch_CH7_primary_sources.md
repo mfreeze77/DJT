@@ -1055,3 +1055,11 @@ Source-byte hashes and acquisition limits: [October 26 manifest](Tmanch_CH7_Oct2
 ## October 27 acquisition: distinct industry-facing diesel warning
 
 - **DIESEL-INDUSTRY-S001–002 / J20-2026-057 / CH7-DIESEL-INDUSTRY-001:** [Signed October 26 Raskin letter and same-day announcement](Tmanch_CH7_Oct26_Diesel_Industry_Warning_Source_Note.md). Original four-page PDF and release HTML acquired; date, three addressees and signature visually checked. Industry-facing warning distinct from **056** preservation request; no deadline, implemented restraint or adjudicated liability. Legal assertions attributed; derivative satellite reporting not independent corroboration. Original-byte hashes and inspection scope are in the source note.
+
+## October 27 diesel output and sailing-status supplement
+
+- **DIESEL-SHIP-S006:** [Reuters October 26 original report carried by MarketScreener](https://uk.marketscreener.com/news/russian-refiners-ramp-up-diesel-output-after-us-deal-sources-say-ce785cdcda8ef225); two unnamed industry sources, production/export-capacity estimates, one source family. Full web-rendered text inspected; raw GET 403 stopped.
+- **DIESEL-SHIP-S007:** [Russian government official post 33459](https://t.me/government_rus/33459), inspected through its [public context](https://t.me/s/government_rus/33458); October 10 effective relaxation and initial 500,000-tonne authorization, not operative signed instrument or deliveries.
+- **DIESEL-SHIP-S008:** [PRIME October 27 direct report of Novak remarks](https://1prime.ru/20261027/novak-874650546.html), 14:51 Moscow; attributed three ships in transit and expected October 28 fourth sailing to world market, not confirmed departure or US destination. Original HTML acquired.
+
+These supplement existing **040 / CH7-DIESEL-SHIP-001**, cross-reference **011**, and add no event or financial flow. [Cumulative assessment, chronology discrepancy, acquisition limits and original-byte hash](Tmanch_CH7_Oct23_Diesel_Shipment_Source_Note.md#october-2627-production-and-sailing-status-follow-up).
