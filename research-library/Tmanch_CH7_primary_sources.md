@@ -1063,3 +1063,15 @@ Source-byte hashes and acquisition limits: [October 26 manifest](Tmanch_CH7_Oct2
 - **DIESEL-SHIP-S008:** [PRIME October 27 direct report of Novak remarks](https://1prime.ru/20261027/novak-874650546.html), 14:51 Moscow; attributed three ships in transit and expected October 28 fourth sailing to world market, not confirmed departure or US destination. Original HTML acquired.
 
 These supplement existing **040 / CH7-DIESEL-SHIP-001**, cross-reference **011**, and add no event or financial flow. [Cumulative assessment, chronology discrepancy, acquisition limits and original-byte hash](Tmanch_CH7_Oct23_Diesel_Shipment_Source_Note.md#october-2627-production-and-sailing-status-follow-up).
+
+## October 27 evening: vessel identity and later Oleshky observation
+
+- **DIESEL-SHIP-S009:** [UNITED24 October 27](https://united24media.com/world/three-russian-diesel-tankers-head-to-us-including-one-sanctioned-in-europe-23847), full indexed text inspected; FT-derived reported names, dates and aggregate only, original FT and tracking records unacquired.
+- **DIESEL-SHIP-S010:** Original VesselFinder pages for [Talisman IMO9292060](https://www.vesselfinder.com/vessels/details/9292060), [Leruo IMO9385831](https://www.vesselfinder.com/vessels/details/9385831) and [Agioi Fanendes IMO9798375](https://www.vesselfinder.com/vessels/details/9798375), original web text inspected; for-orders fields and differing ETAs, not raw AIS or confirmed US arrivals.
+- **DIESEL-SHIP-S011:** [OFAC record51581](https://sanctionssearch.ofac.treas.gov/Details.aspx?id=51581), original HTML acquired; Talisman exact IMO, Russia-program designations and Sovcomflot link.
+- **DIESEL-SHIP-S012:** [Treasury January 10, 2025 notice](https://home.treasury.gov/news/press-releases/jy2777), original HTML acquired; historical vessel designation linkage, not new current ownership evidence.
+- **DIESEL-SHIP-S013:** [UK original list XML](https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.xml), acquired earlier October 27; exact Talisman RUS2886 and Leruo RUS3144 records, jurisdiction-specific shipping restrictions.
+- **DIESEL-SHIP-S014:** [Original GL135](https://ofac.treasury.gov/media/937216/download?inline), re-inspected including image; existing legal instrument, not another authorization event.
+- **OLESHKY-S013:** [Original Lubinets post12938](https://t.me/dmytro_lubinetzs/12938), full public-channel web text inspected; later 17:30 attributed compliance, defined territories, planned end not achieved outcome. No original-byte archive.
+
+[Diesel assessment and limits](Tmanch_CH7_Oct23_Diesel_Shipment_Source_Note.md#october-27-vessel-identity-and-license-scope-qualification); [Oleshky supplement](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#october-27-later-localized-compliance-account). Source hashes and access limits are in the [acquisition manifest](Tmanch_CH7_Oct27_Evening_Source_Manifest.json). The [separately dated allied-diplomacy context](research/presidential_rhetoric_2026/comparisons/2026-10-16/docs/OCTOBER_MATCHED_WAR_CONTEXT.md#later-contextual-follow-through-october-27) does not change the frozen comparison window or add a Trump action.

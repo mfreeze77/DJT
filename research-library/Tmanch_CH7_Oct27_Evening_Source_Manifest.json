@@ -1,0 +1,56 @@
+{
+  "review_date": "2026-10-27",
+  "scope": "Existing040/043 supplements and separately dated allied comparison context; no new event or flow",
+  "original_bytes": [
+    {
+      "id": "DIESEL-SHIP-S011",
+      "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=51581",
+      "bytes": 19416,
+      "sha256": "533a3b26798f01cff4527f61462248312209f3006d9ad901ab2bccf163ceb6f0"
+    },
+    {
+      "id": "DIESEL-SHIP-S012",
+      "url": "https://home.treasury.gov/news/press-releases/jy2777",
+      "bytes": 154008,
+      "sha256": "e040bc37b76f5d6bfb0a34476cbf427277fd9b77fcfdc8efbcb65d183e79aaa9"
+    },
+    {
+      "id": "DIESEL-SHIP-S013",
+      "url": "https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.xml",
+      "bytes": 22083004,
+      "sha256": "6ddb9315a4d34cc89824a321db3688beaf4d71e4ceda7899874539d8e332792b",
+      "scope": "Earlier same-day acquisition; exact two ship records inspected; differing structured port flag and narrative restriction retained"
+    },
+    {
+      "id": "DIESEL-SHIP-S014",
+      "url": "https://ofac.treasury.gov/media/937216/download?inline",
+      "bytes": 190208,
+      "sha256": "b42bed871cff3162540bc645eba298e4c0cf73d0a5b1712879a3f4fec060d65b",
+      "inspection": "Full text and original render"
+    },
+    {
+      "context": "Finnish presidency",
+      "url": "https://www.sttinfo.fi/tiedote/72447433/president-stubb-and-prime-minister-store-held-a-phone-call-with-president-putin?lang=en&publisherId=3981",
+      "bytes": 137739,
+      "sha256": "48ac4e5bbc97db059cd0f062b5454210833d17abbc2227e23a5982834397dd65"
+    },
+    {
+      "context": "Ukrainian presidency",
+      "url": "https://www.president.gov.ua/news/volodimir-zelenskij-proviv-rozmovu-z-aleksandrom-stubbom-i-j-107041",
+      "bytes": 141476,
+      "sha256": "215e9ce6b344c4e24fba46d5f2fa52f99a76d27dca70c48c01f404f63f56e3df"
+    }
+  ],
+  "web_text_only": {
+    "DIESEL-SHIP-S009": "Full indexed UNITED24 text; direct open failed; FT original unacquired",
+    "DIESEL-SHIP-S010": "Original provider web pages inspected; raw GET403 stopped for each; no raw AIS or original HTML archive",
+    "OLESHKY-S013": "Original channel web text inspected; raw response was unavailable body, not source archive",
+    "Norway_context": "Full indexed official text inspected; raw GET403 stopped"
+  },
+  "limits": [
+    "No final port, delivery, settlement or whole-transaction legality certified",
+    "No independent ceasefire monitoring, aid delivery or evacuation outcome",
+    "No frozen rhetoric counts or original comparison window changed",
+    "No private held findings included"
+  ]
+}
