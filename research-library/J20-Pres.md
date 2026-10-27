@@ -181,6 +181,8 @@ The cumulative evidence supports susceptibility, exploitation, institutional wea
 
 | **J20-2026-057** | Oct. 26, 2026 | Raskin sent three industry-association leaders a Russian-diesel liability warning. This extends congressional opposition toward potential importers through their associations, not a binding ruling or demonstrated restraint on trade. | Verified signed warning; legal position attributed and effects unestablished | — | — | [Original letter, scope and prior oversight joins](Tmanch_CH7_Oct26_Diesel_Industry_Warning_Source_Note.md) |
 
+| **J20-2026-058** | Oct. 20–22, 2026 execution; announced Oct. 27 | OFAC and DOJ resolved Extreme Networks' historical Russian military-supply conduct through a civil settlement and non-prosecution agreement. Net stated obligations after interagency credit are $2,017,545.84; payment unverified. | Original executed instruments; civil and criminal admissions distinguished | — | — | [Scope, crediting and institutional benefit](Tmanch_CH7_Oct27_Extreme_Enforcement_Source_Note.md) |
+
 **October 12, 2026 source update:** Added J20-2026-009 through -011 without renumbering prior events. J20-2026-002 and the OFAC matrix now distinguish an amendment from a time extension and identify the April and May expiry gaps. The earlier matrix label for GL 134A, “Extension of temporary Russian-oil relief,” is superseded by the source-based amendment description; the historical issue dates and event remain. New rows are unscored pending comparative review. These entries record agency legal actions, not evidence of motive, completed transactions, or personal presidential authorship.
 
 ---
@@ -246,3 +248,6 @@ See [`Tmanch_CH7_open_questions.md`](Tmanch_CH7_open_questions.md) for the filin
 
 
 **October 27 late source qualification:** Existing **040** gains [unreconciled production estimates and a repair account](Tmanch_CH7_Oct23_Diesel_Shipment_Source_Note.md#october-27-later-production-estimate-and-repair-account), not another shipment. Existing **043** gains a [later US-side timing/geography explanation](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#october-27-later-us-side-timing-and-geography-explanation), preserving earlier accounts and relief-outcome limits. No new event or financial flow.
+
+
+**October 27 interceptor-status follow-up:** [Original presidency account](Tmanch_CH7_Oct22_23_Satellite_Status_Source_Note.md#october-27-presidential-account-continuing-interceptor-dependency) supplements **039/045** with continuing package delays and requested Pentagon Patriot authorizations, not another satellite restriction or attribution to a named decisionmaker.

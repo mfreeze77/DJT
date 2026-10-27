@@ -1083,3 +1083,9 @@ These supplement existing **040 / CH7-DIESEL-SHIP-001**, cross-reference **011**
 - **OLESHKY-S014 / CH7-OLESHKY-STATUS-001 / existing 043:** [Later US-side explanation and original-post acquisition gap](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#october-27-later-us-side-timing-and-geography-explanation).
 
 [Original-byte hashes and provenance](Tmanch_CH7_Oct27_Late_Chronology_Source_Manifest.json). No new event or monetary flow.
+
+
+## October 27 case-level enforcement and interceptor-status follow-up
+
+- **EXTREME-S001–006 / CH7-EXTREME-ENFORCEMENT-001 / J20-2026-058:** [Executed OFAC and DOJ instruments, announcements and exact blocked-entity identity records](Tmanch_CH7_Oct27_Extreme_Enforcement_Source_Note.md). Distinguishes execution from announcement, OFAC non-admission from NPA admissions, credited net obligations from verified payment, and continuing institutional enforcement from personal presidential direction. [Original-byte hashes](Tmanch_CH7_Oct27_Extreme_Source_Manifest.json).
+- **SAT-STATUS-S006 / existing 039/045:** [October 27 original presidency address and continuing interceptor dependency](Tmanch_CH7_Oct22_23_Satellite_Status_Source_Note.md#october-27-presidential-account-continuing-interceptor-dependency). Full relevant original HTML inspected; hash and acquisition boundary in the source note. No new restriction/restoration event or named-decisionmaker claim.
