@@ -45,3 +45,18 @@ Benefit assessment: the planned route choice and monitoring would directly benef
 
 
 Acquisition details: [October 26 manifest](Tmanch_CH7_Oct26_Source_Manifest.json).
+
+
+### October 27 initial implementation report — bounded observation
+
+**OLESHKY-S009–011 / CH7-OLESHKY-STATUS-001 / J20-2026-043.** The record now extends beyond advance scheduling. In the public HTML metadata of [Pavlo Drohal's original Facebook post](https://www.facebook.com/pavlodrogal/posts/pfbid0343MnXa1TB4rPLjZWioRitEboi7R9duSdY74kdpbD2Gus6iVx4wSLF4b8rTF4YkgNl), the Marine Corps spokesperson reports Russian compliance as of **09:00**. The complete key sentence is present; the subsequent metadata is truncated. The original post timestamp, timezone, full body and any video were not acquired. [Radio Svoboda's October 27 report](https://www.radiosvoboda.org/a/news-oleshky-humanitarna-misia/33885065.html) supplies the dated context and links this exact post. Its metadata records publication/modification at 2026-10-27 08:09:20Z; do not silently assign that timezone to Drohal's observation.
+
+The [Kherson regional government's October 27 notice](https://khoda.gov.ua/news/kyrylo-budanov-rozpochalasia-vazhlyva-humanitarna-misiia-v-oleshkakh), labeled 08:36 without an explicit timezone, reproduces Budanov's account that the mission had begun and Lubinets had departed to coordinate on site. This is a verified official statement, not independent observation of completed relief. Radio Svoboda separately retains October 29 for the planned aid-delivery/free-movement phase, consistent with the previously recorded staged explanation. Budanov's use of “mission” for the opening phase must not be converted into completed delivery.
+
+**Assessment:** the named Ukrainian operational assessment is affirmative evidence of initial localized compliance, not merely another promise. It supports a limited near-term civilian-protection benefit to Ukraine and allied humanitarian objectives through reduced exposure to fire. The size and duration of that benefit are unmeasured. It does not establish sustained compliance, mine clearance, deployed US monitoring, mission-delivered aid, voluntary departures or arrivals. It supplies a concrete positive development without erasing earlier defensive constraints in **039/045**, establishing nationwide peace, or proving an exchange for sanctions/diesel concessions. Political credit and any longer-term Russian strategic benefit remain separate and unestablished.
+
+The Facebook metadata and reports repeating Drohal form **one statement family**, not independent battlefield corroboration. The official Budanov republication establishes his announcement, not independent confirmation of Drohal's monitoring. Preserve earlier inspection status, the White House wording discrepancy and separate drone aid **OLESHKY-S008**. Supplement the existing event and claim; no new event, score, casualty total or financial flow.
+
+Acquisition: original Radio Svoboda AMP HTML and original Facebook HTML retained with SHA-256 hashes; Kherson notice inspected through its full indexed text, direct GET503. Telegram locators for Budanov933 and Lubinets12931 yielded only Site Unavailable responses; no original post acquisition claimed.
+
+[Acquisition manifest](Tmanch_CH7_Oct27_Oleshky_Source_Manifest.json).

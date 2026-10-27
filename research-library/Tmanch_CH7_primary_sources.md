@@ -1027,3 +1027,12 @@ Source-byte hashes and acquisition limits: [October 26 manifest](Tmanch_CH7_Oct2
 ## October 26 evening: EPF adoption step
 
 - **EPF-S001–002 / J20-2026-054 / CH7-EPF-ADOPTION-001:** [Council adoption announcement, preparatory agenda and acquisition limits](Tmanch_CH7_Oct26_EPF_Adoption_Source_Note.md). Advances the existing agreement linked to **024**; distinct from **017** loan financing. Reimbursement for already delivered aid and EUMAM financing are not new equipment delivery or verified payments. Conflicting prior-agreement years and historical inspection status remain preserved.
+
+
+## October 27: initial Oleshky compliance assessment
+
+- **OLESHKY-S009:** [Drohal original Facebook post](https://www.facebook.com/pavlodrogal/posts/pfbid0343MnXa1TB4rPLjZWioRitEboi7R9duSdY74kdpbD2Gus6iVx4wSLF4b8rTF4YkgNl), original public HTML metadata acquired October 27; complete key 09:00 compliance sentence, not full post/video or timestamp. Observation timezone unstated.
+- **OLESHKY-S010:** [Radio Svoboda October 27 original report](https://www.radiosvoboda.org/a/news-oleshky-humanitarna-misia/33885065.html), original AMP HTML acquired; publication/modification metadata 08:09:20Z. Dated context and exact original-post locator, not independent corroboration of the statement it repeats.
+- **OLESHKY-S011:** [Kherson regional government Budanov notice](https://khoda.gov.ua/news/kyrylo-budanov-rozpochalasia-vazhlyva-humanitarna-misiia-v-oleshkakh), October 27 08:36, timezone unstated; full indexed text inspected, raw GET503. Official mission-commencement and coordination announcement, not delivered relief. These sources supplement **043 / CH7-OLESHKY-STATUS-001**, not a new event.
+
+[Source boundaries and cumulative assessment](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#october-27-initial-implementation-report--bounded-observation). [Acquisition manifest](Tmanch_CH7_Oct27_Oleshky_Source_Manifest.json).
