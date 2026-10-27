@@ -60,3 +60,12 @@ The Facebook metadata and reports repeating Drohal form **one statement family**
 Acquisition: original Radio Svoboda AMP HTML and original Facebook HTML retained with SHA-256 hashes; Kherson notice inspected through its full indexed text, direct GET503. Telegram locators for Budanov933 and Lubinets12931 yielded only Site Unavailable responses; no original post acquisition claimed.
 
 [Acquisition manifest](Tmanch_CH7_Oct27_Oleshky_Source_Manifest.json).
+
+
+### October 27 acquisition: specified media-documentation plan
+
+**OLESHKY-S012.** [Original Ukrinform interview](https://www.ukrinform.ua/rubric-world/4178305-mark-bekmen-golovnij-radnik-melanii-tramp.html), published October 26, 2026 at 15:59, timezone unspecified; Volodymyr Ilchenko, New York.
+
+In an October 26 direct Ukrinform interview, Marc Beckman named Newsmax as the planned American media organization documenting the operation after work with its owner. His description of neutral observers is an attributed characterization, not an independent finding of neutrality, unrestricted access or formal enforcement authority. Private journalistic documentation is distinct from deployed US governmental monitoring. Beckman estimated five to seven days after October 29 for planned work and said an extension required both sides' agreement; neither estimate establishes actual duration. Asked about free destination choice, he relayed Russian assurances while expressing hope that safeguards would suffice. He withheld details of other response mechanisms at the parties' request. This narrows the previously unspecified monitoring plan without proving its implementation or excluding other mechanisms. The possible protective benefit is documentation of civilian choices; observed consent, unrestricted interviews, safe passage and delivered aid remain unverified. Preserve the initial compliance assessment and the October 27/29 staged account; no new event or success count. RBC and later reports repeating this interview are one source family.
+
+Original HTML acquired and inspected; [hash and provenance](Tmanch_CH7_Oct27_Policy_Source_Manifest.json).

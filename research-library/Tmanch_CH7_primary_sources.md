@@ -1036,3 +1036,17 @@ Source-byte hashes and acquisition limits: [October 26 manifest](Tmanch_CH7_Oct2
 - **OLESHKY-S011:** [Kherson regional government Budanov notice](https://khoda.gov.ua/news/kyrylo-budanov-rozpochalasia-vazhlyva-humanitarna-misiia-v-oleshkakh), October 27 08:36, timezone unstated; full indexed text inspected, raw GET503. Official mission-commencement and coordination announcement, not delivered relief. These sources supplement **043 / CH7-OLESHKY-STATUS-001**, not a new event.
 
 [Source boundaries and cumulative assessment](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#october-27-initial-implementation-report--bounded-observation). [Acquisition manifest](Tmanch_CH7_Oct27_Oleshky_Source_Manifest.json).
+
+
+
+## October 27 acquisition: October 22 meme-coin oversight request
+
+- **TRUMP-DIN-OV-S001–004 / J20-2026-055 / CH7-TRUMP-DIN-OVERSIGHT-001:** [Signed letter, announcement and current commercial safeguards](Tmanch_CH7_Oct22_Meme_Coin_Oversight_Source_Note.md). Nine signatories; request and announcement dates distinct. Current no-private-meeting wording and eligibility restrictions are not proof of enforcement. No new misconduct finding, payment or completed dinner.
+
+
+## October 27 acquisition: diesel preservation and Oleshky documentation plan
+
+- **DIESEL-PRESERVE-S001–002 / J20-2026-056 / CH7-DIESEL-PRESERVE-001:** [Original letter and recipient scope](Tmanch_CH7_Oct24_Diesel_Preservation_Source_Note.md). October 24 request, October 26 announcement; not evidence of transactions or legal liability.
+- **OLESHKY-S012:** [October 26 direct Ukrinform interview](https://www.ukrinform.ua/rubric-world/4178305-mark-bekmen-golovnij-radnik-melanii-tramp.html); specified private media-documentation plan, not deployed governmental monitoring. Supplements existing **043 / CH7-OLESHKY-STATUS-001**; [limits](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#october-27-acquisition-specified-media-documentation-plan).
+
+[Acquisition manifest](Tmanch_CH7_Oct27_Policy_Source_Manifest.json).
