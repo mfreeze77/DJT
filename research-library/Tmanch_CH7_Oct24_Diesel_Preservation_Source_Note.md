@@ -18,3 +18,8 @@ Join J20-2026-015 and the [October 13 intelligence/diesel note](Tmanch_CH7_Oct13
 
 
 [Original-byte acquisition manifest](Tmanch_CH7_Oct27_Policy_Source_Manifest.json).
+
+
+## Separate October 26 industry warning
+
+[Raskin's industry-association warning, J20-2026-057](Tmanch_CH7_Oct26_Diesel_Industry_Warning_Source_Note.md), is a separate action aimed at potential importers through their associations. It has no response deadline or records demand; the October 28 deadline above applies to the October 24 preservation request, not that warning. Neither action establishes recipient participation or commercial restraint.

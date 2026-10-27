@@ -1050,3 +1050,8 @@ Source-byte hashes and acquisition limits: [October 26 manifest](Tmanch_CH7_Oct2
 - **OLESHKY-S012:** [October 26 direct Ukrinform interview](https://www.ukrinform.ua/rubric-world/4178305-mark-bekmen-golovnij-radnik-melanii-tramp.html); specified private media-documentation plan, not deployed governmental monitoring. Supplements existing **043 / CH7-OLESHKY-STATUS-001**; [limits](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#october-27-acquisition-specified-media-documentation-plan).
 
 [Acquisition manifest](Tmanch_CH7_Oct27_Policy_Source_Manifest.json).
+
+
+## October 27 acquisition: distinct industry-facing diesel warning
+
+- **DIESEL-INDUSTRY-S001–002 / J20-2026-057 / CH7-DIESEL-INDUSTRY-001:** [Signed October 26 Raskin letter and same-day announcement](Tmanch_CH7_Oct26_Diesel_Industry_Warning_Source_Note.md). Original four-page PDF and release HTML acquired; date, three addressees and signature visually checked. Industry-facing warning distinct from **056** preservation request; no deadline, implemented restraint or adjudicated liability. Legal assertions attributed; derivative satellite reporting not independent corroboration. Original-byte hashes and inspection scope are in the source note.
