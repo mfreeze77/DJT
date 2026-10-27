@@ -73,3 +73,15 @@ Original HTML acquired and inspected; [hash and provenance](Tmanch_CH7_Oct27_Pol
 ### October 27 later localized compliance account
 
 **OLESHKY-S013.** [Official Lubinets post 12938](https://t.me/dmytro_lubinetzs/12938), inspected through the [public channel](https://t.me/s/dmytro_lubinetzs), reports both parties' compliance on defined humanitarian-mission territories as of 17:30 October 27 and announces an end of November 1 at 22:59. The observation and end timezones are not explicitly assigned here. This extends the earlier 09:00 account, not the number of ceasefires. It is affirmative evidence of continued localized civilian-protection benefit through the stated observation, not independent monitoring or compliance through the planned end. Delivered aid, completed clearance and voluntary evacuation remain unverified. Reports repeating this post form one statement family. Supplement existing 043 / CH7-OLESHKY-STATUS-001 without a new event, score or beneficiary count. Full original channel web text inspected; raw retrieval produced only a Site Unavailable body, not an archived original post.
+
+
+### October 27 later US-side timing and geography explanation
+
+**OLESHKY-S014 / CH7-OLESHKY-STATUS-001.** [Reuters' October 27 report](https://www.aol.com/articles/first-lady-melania-trump-says-161008000.html), published 16:10 UTC, attributes to Melania Trump a two-day acceleration and expansion beyond Oleshky within Kherson for humanitarian convoys. It supplies a later US-side explanation for the previously retained October 27/29 discrepancy, not an amendment to the original White House text or independently inspected agreed boundaries. Preserve both the earlier participant's staged preparation/mission account and this later acceleration account rather than silently treating them as identical descriptions.
+
+Expanded protected access would benefit Ukrainian civilians and allied humanitarian objectives if implemented. This statement does not establish the precise agreed area, completed convoy passage, delivered aid or voluntary evacuation. The independently sourced Ukrainian localized-compliance accounts at 09:00 and 17:30 remain separately attributed; Melania's statement is not a third independent battlefield observation. No new event or realized relief total.
+
+Original X locator identified through an embedded link: https://x.com/MELANIATRUMP/status/2115116465942614045 . Retrieval returned 403 and stopped; original post not acquired. The inspected Reuters text supports acceleration/geography, not an independently verified confirmation by Gerasimov or every detail reproduced by other outlets. The official White House index and bounded search did not yield a later original statement; this is an acquisition limit, not proof none exists.
+
+
+Acquisition: full AOL Reuters republication HTML acquired and inspected. [Hashes and source limits](Tmanch_CH7_Oct27_Late_Chronology_Source_Manifest.json).

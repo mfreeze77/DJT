@@ -54,3 +54,17 @@ Original PRIME HTML: 124,250 bytes; SHA-256 `8113d4dfc10c6d0c08924f64989c9c3a94f
 Acquisition: original OFAC record and GL 135 PDF acquired; license visually inspected. Treasury's 2025 original notice acquired. UK XML was acquired earlier the same day and exact ship records inspected. VesselFinder original web-rendered pages inspected; subsequent raw GET403s stopped, no original-byte AIS-page archive. UNITED24 full indexed article inspected; direct opening failed. FT original remains unacquired, not bypassed.
 
 [Original-byte hashes and acquisition boundaries](Tmanch_CH7_Oct27_Evening_Source_Manifest.json).
+
+
+### October 27 later production estimate and repair account
+
+**DIESEL-SHIP-S015–016 / CH7-DIESEL-SHIP-001.** [Reuters' October 27 report](https://www.aol.com/articles/russian-oil-refineries-boost-output-163238000.html), published 16:32 UTC, attributes to three unnamed sources second-half-October crude throughput of 5 million barrels/day, about 25% above early October; diesel output of 225,000 metric tonnes/day; and potentially exportable diesel of 80,000 tonnes/day. These are estimates, not shipments or receipts. Its account of no refinery attacks after October 16 is attributed to Russian authorities, not independent monitoring. Republications are one source family.
+
+**Source reconciliation:** preserve **S006**'s earlier 180,000-tonne/day estimate. The broad periods overlap; matching observation dates, datasets and source independence are unknown. Do not infer one-day growth, overwrite or sum them. Underlying series are needed to reconcile the estimates.
+
+[URA's original October 27 correspondent report](https://ura.news/news/1053139511), labeled 20:20 without an assigned timezone, separately records Novak's statement that domestic equipment production permits rapid restoration of refinery units. This establishes his public repair-capability account, not the numerical production estimates or independently audited repairs. A complete original briefing recording was not obtained.
+
+**Cumulative inference:** refinery recovery and renewed export authorization are complementary Russia-benefiting mechanisms alongside the already recorded restraint request **007**, GL135 **011**, policy rationale **014**, and shipment account **040**. The observations support more than legal permission alone, but repairs, reduced attack pressure and seasonal demand are distinct contributors; GL135's individual causal share is not isolated. Actual exporter receipts, state tax gains, US delivery and consumer-price effects remain unmeasured. No new event, cargo or financial flow is added.
+
+
+Acquisition: full AOL Reuters republication and original URA HTML acquired and inspected; the Reuters original production series and complete Novak briefing were not acquired. [Hashes and source limits](Tmanch_CH7_Oct27_Late_Chronology_Source_Manifest.json).

@@ -1075,3 +1075,11 @@ These supplement existing **040 / CH7-DIESEL-SHIP-001**, cross-reference **011**
 - **OLESHKY-S013:** [Original Lubinets post12938](https://t.me/dmytro_lubinetzs/12938), full public-channel web text inspected; later 17:30 attributed compliance, defined territories, planned end not achieved outcome. No original-byte archive.
 
 [Diesel assessment and limits](Tmanch_CH7_Oct23_Diesel_Shipment_Source_Note.md#october-27-vessel-identity-and-license-scope-qualification); [Oleshky supplement](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#october-27-later-localized-compliance-account). Source hashes and access limits are in the [acquisition manifest](Tmanch_CH7_Oct27_Evening_Source_Manifest.json). The [separately dated allied-diplomacy context](research/presidential_rhetoric_2026/comparisons/2026-10-16/docs/OCTOBER_MATCHED_WAR_CONTEXT.md#later-contextual-follow-through-october-27) does not change the frozen comparison window or add a Trump action.
+
+
+## October 27 late chronology qualifications
+
+- **DIESEL-SHIP-S015–016 / CH7-DIESEL-SHIP-001 / existing 040:** [Later attributed production estimates, original repair remarks and source-family limits](Tmanch_CH7_Oct23_Diesel_Shipment_Source_Note.md#october-27-later-production-estimate-and-repair-account).
+- **OLESHKY-S014 / CH7-OLESHKY-STATUS-001 / existing 043:** [Later US-side explanation and original-post acquisition gap](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#october-27-later-us-side-timing-and-geography-explanation).
+
+[Original-byte hashes and provenance](Tmanch_CH7_Oct27_Late_Chronology_Source_Manifest.json). No new event or monetary flow.
