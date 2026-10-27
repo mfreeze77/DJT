@@ -24,3 +24,7 @@ The reported restrictions favor Russia operationally; exact losses, affected-ter
 ## Later October 24 monitoring report
 
 Ukraine's Ministry of Defence subsequently reported restored high-speed Starlink/Starshield operation on October 24. See [later official monitoring account](Tmanch_CH7_Oct24_Satellite_Restoration_Source_Note.md), **J20-2026-045 / CH7-SAT-RESTORE-001**. This is a later status change; the earlier statements and observation windows above remain preserved. Exact technical-change timing remains unverified.
+
+## Later October 24 presidential follow-up
+
+The [dated restoration follow-up](Tmanch_CH7_Oct24_Satellite_Restoration_Source_Note.md#october-24-presidential-testing-and-delivery-status-follow-up), **SAT-RESTORE-S002**, adds Zelenskyy’s overnight/morning restoration account and his statement that already-approved American and European ballistic-interceptor packages still awaited delivery. This supplements **039/045** without rewriting the October 23 observation or treating restored communications as delivered missiles.

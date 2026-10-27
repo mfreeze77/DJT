@@ -40,3 +40,8 @@ The [September 28 Foreign Affairs Council account](https://www.consilium.europa.
 **Analytical placement:** These positions favor Ukrainian financing/defence and pressure on Russia; implementation and effects require separate evidence. Compare [J20-2026-011, -017, -023 and -024](J20-Pres.md). No new event, score or funding total is added.
 
 **Coalition chronology:** The independently inspected [July 13, 2026 joint declaration published by the UK government](https://www.gov.uk/government/news/joint-declaration-on-the-establishment-of-the-integrated-anti-ballistic-missile-coalition) already announced the ten-country initiative. It set out planned common requirements, technical working groups, governance and a roadmap toward first operational capabilities. October 16's welcome therefore must not be counted as a newly launched coalition or evidence that operational capability or equipment had been delivered.
+
+
+## October 26 follow-through
+
+The [later EPF adoption announcement and source limits](Tmanch_CH7_Oct26_EPF_Adoption_Source_Note.md) adds **J20-2026-054 / CH7-EPF-ADOPTION-001**. It advances the previously recorded agreement without creating another €6.6 billion increment. This note's September 28 source date and earlier inspection limits remain historical; the new release's conflicting September 25 agreement years are recorded separately, not silently reconciled. Adoption reporting does not establish payment or new equipment delivery.

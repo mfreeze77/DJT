@@ -1,0 +1,32 @@
+{
+  "inspection_date": "2026-10-26",
+  "baseline_commit": "77137d0a0d36d0b6f4f6c0d563b8200d4d326e42",
+  "sources": [
+    {
+      "id": "OISP-S001",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-26/pdf/2026-21786.pdf",
+      "sha256": "161bfbe262babd09c2835cd809055312734ef3a2b2806e84238942873629a80c",
+      "bytes": 403534,
+      "acquisition": "ordinary GET; original bytes retained privately"
+    },
+    {
+      "id": "OLESHKY-S006",
+      "url": "https://www.radiosvoboda.org/a/news-lubinets-oleshky-humanitarna-misiya-detali/33883148.html",
+      "sha256": "7bd704cf39ccef79a9f27676e902aaf5c8525ce7431f206a9b2a7bf6a307273e",
+      "bytes": 102853,
+      "acquisition": "ordinary GET; original bytes retained privately"
+    },
+    {
+      "id": "OLESHKY-S008",
+      "url": "https://mvs.gov.ua/news/ivan-vigivskii-gvardiici-za-dopomogoiu-droniv-dostavili-do-olesok-ditiace-xarcuvannia-i-igraski",
+      "sha256": "fe7861cbe51e328fbf847a31a72ab0de4aee2bb20b09ec1110a7a5ab633b5d64",
+      "bytes": 138816,
+      "acquisition": "ordinary GET; original bytes retained privately"
+    }
+  ],
+  "limits": [
+    "OLESHKY-S007 original web text inspected; subsequent raw GET returned403 and was stopped; no original-byte hash or audiovisual verification.",
+    "DIESEL-SHIP-S004/S005 original texts inspected by financial reviewer; no raw-byte archival claim. Linked MarineTraffic returned403; not retried.",
+    "No TSN, DocumentCloud, video or EUR-Lex retry. No held material added."
+  ]
+}

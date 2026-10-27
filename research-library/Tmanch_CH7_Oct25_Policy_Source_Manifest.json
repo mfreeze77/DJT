@@ -1,0 +1,42 @@
+{
+  "review_date": "2026-10-25",
+  "sources": [
+    {
+      "url": "https://www.president.gov.ua/storage/j-files-storage/01/52/13/c46b29cc7512d0e595e42b27713fd811_1792834145.docx",
+      "file": "1058-annex1.docx",
+      "bytes": 28943,
+      "sha256": "71faf9e498a6ef41aa8c646435104aa0376b3775227b8a63e2997df3709bb1a8"
+    },
+    {
+      "url": "https://www.president.gov.ua/storage/j-files-storage/01/52/17/8b38aea6987491b88099d1063136c3f4_1792834181.docx",
+      "file": "1058-annex2.docx",
+      "bytes": 33668,
+      "sha256": "28a1330b8cf1369233e82aca5caaa7d85e8b3c887f400a7b01f74e923ddaddae"
+    },
+    {
+      "url": "https://www.president.gov.ua/storage/j-files-storage/01/52/05/a07026f1437049f9245f91d855aa18cd_1792834091.docx",
+      "file": "1059-annex1.docx",
+      "bytes": 32542,
+      "sha256": "1685cf30e3adc4be50c655d09e4693e32f913927ee03a9629cbfb3b401953717"
+    },
+    {
+      "url": "https://www.president.gov.ua/storage/j-files-storage/01/52/09/70c39daf50c344e5e3738fab1ce7de7e_1792834119.docx",
+      "file": "1059-annex2.docx",
+      "bytes": 36228,
+      "sha256": "5b542c9d84e016003b3d89a13ba0720fd4a5245743ddf4e7641bb072f9e19c41"
+    },
+    {
+      "url": "https://www.president.gov.ua/documents/10582026-62173",
+      "file": "1058.html",
+      "bytes": 139368,
+      "sha256": "7169ade62d44a9bfd7a6c138d4876137a21da6cb44602ac090e564aa93fa99b1"
+    },
+    {
+      "url": "https://www.president.gov.ua/documents/10592026-62177",
+      "file": "1059.html",
+      "bytes": 139356,
+      "sha256": "e6db6587e76fc1ae2fa615b0f0414a9aadc01862998c80df8d4bb3fff9da1d7e"
+    }
+  ],
+  "telegram_acquisition": "Original channel web-text inspected at https://t.me/s/dmytro_lubinetzs/12917; raw HTTP returned SiteUnavailable and is not archived as source evidence."
+}

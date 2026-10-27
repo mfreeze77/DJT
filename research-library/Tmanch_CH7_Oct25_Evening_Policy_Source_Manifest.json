@@ -1,0 +1,28 @@
+{
+  "review_date": "2026-10-25",
+  "sources": [
+    {
+      "id": "EPA-DIESEL-S001",
+      "url": "https://www.epa.gov/system/files/documents/2026-10/fuel-waiver-txled-ulsd-2026-1020.pdf",
+      "sha256": "8f2edd77ee591e8860c8f84daea541dd3a9b9f3efdc64e936f351241144076e5",
+      "inspection": "Full extracted text; operative page 4 visual review"
+    },
+    {
+      "id": "EPA-DIESEL-S002",
+      "url": "https://www.epa.gov/system/files/documents/2026-10/fuel-waiver-alaska-arctic-2026-1020.pdf",
+      "sha256": "ce7a4d2358da34ac106d87965f8048a164f4d7cde8b4078373c6894170a28e00",
+      "inspection": "Full extracted text; operative page 4 visual review"
+    },
+    {
+      "id": "EPA-DIESEL-S003",
+      "url": "https://www.epa.gov/gasoline-standards/fuel-waivers",
+      "inspection": "Original web text; no raw-byte hash; predecessor PDFs not acquired"
+    },
+    {
+      "id": "OLESHKY-S005",
+      "url": "https://pool.pp.tools/reports/9909",
+      "sha256": "883dc1f0c89cf258a24f63244e9ed3482a1d37931a9a783a77668a7834483290",
+      "inspection": "Original web text and HTML acquired; reporter quotation caveat retained"
+    }
+  ]
+}

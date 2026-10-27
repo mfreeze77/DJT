@@ -990,3 +990,40 @@ Original-byte hashes are recorded in the [acquisition manifest](Tmanch_CH7_Oct24
 ## October 24 attribution supplement
 
 - **SAT-ATTR-S001 / CH7-SAT-ATTR-001:** [Bounded source note and acquisition limits](Tmanch_CH7_Oct24_Musk_Commercial_Restriction_Source_Note.md). Secondary indexed report; original post unacquired. Joins existing **J20-2026-021, 039 and 045**; no new operational event or independently corroborating source family.
+
+## October 24 acquisition: introduced controls and operational follow-up
+
+- **REAGAN-S001:** [Authenticated H.R. 10866 IH](https://www.govinfo.gov/content/pkg/BILLS-119hr10866ih/pdf/BILLS-119hr10866ih.pdf), October 22, pp. 1–4; numbered introduction and proposed scope, not enactment. Full original text inspected; pp. 1–2 visually inspected.
+- **REAGAN-S002:** [October 22 Congressional Record](https://www.govinfo.gov/content/pkg/CREC-2026-10-22/pdf/CREC-2026-10-22.pdf#page=3), H6055/PDF p. 3, acquired and visually inspected; introduction, original cosponsors and referrals.
+- **REAGAN-S003:** [October 23 sponsor announcement](https://fitzpatrick.house.gov/2026/10/fitzpatrick-introduces-ronald-reagan-peace-through-strength-act-to-block-russian-oil-imports-and-defend-ukrain), original HTML; later announcement, not controlling introduction date. The linked October 21 drafting-stamp text was also acquired, but the authenticated introduced version supplies operative proposal scope. See [source note](Tmanch_CH7_Oct22_Fitzpatrick_Bill_Source_Note.md), **J20-2026-048 / CH7-REAGAN-BILL-001**.
+- **SAT-RESTORE-S002:** [October 24 presidential address](https://www.president.gov.ua/en/news/vidnovili-robotu-starlinku-starshildu-na-shvidkosti-yaka-bul-107025), original HTML, publication 15:50 without explicit timezone. Attributed testing, approximate restoration window and still-undelivered approved interceptor packages; no raw telemetry, exact change time or missile-holder inventory. Supplements **045/039 / CH7-SAT-RESTORE-001 / CH7-SAT-STATUS-001**, not another operational event or independent telemetry family.
+
+Original-byte hashes appear in [the acquisition manifest](Tmanch_CH7_Oct24_Evening_Policy_Source_Manifest.json). Source identification is not a new claim of motive or personal decision authority.
+
+## October 25 acquisition: Ukrainian legal sanctions and Oleshky scheduling
+
+- **UA-SAN-S001–003 / CH7-UA-SANCTIONS-001–002 / J20-2026-049–050:** [Controlling decrees, four original annexes, identity mapping and explanatory-release limits](Tmanch_CH7_Oct24_Ukraine_Sanctions_Source_Note.md). Decrees dated October 24 implement October 22 decisions; publication-effective Ukrainian restrictions, not demonstrated enforcement results or US/EU adoption. [Original-byte hashes](Tmanch_CH7_Oct25_Policy_Source_Manifest.json).
+- **OLESHKY-S004 / CH7-OLESHKY-STATUS-001:** [Original Lubinets channel post 12917](https://t.me/s/dmytro_lubinetzs/12917), original web-text inspected, raw-byte acquisition unavailable. [Bounded source supplement](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#october-24-coordination-statement-acquired-october-25) to **J20-2026-043**, not another aid or ceasefire implementation event. October 27 scheduling statement does not reconcile the White House October 29 date.
+
+## October 25 evening: domestic diesel renewals and qualified Oleshky schedule
+
+- **EPA-DIESEL-S001–003 / CH7-EPA-DIESEL-001–002 / J20-2026-051–052:** [Signed originals, operative controls, predecessor-index limits and benefit analysis](Tmanch_CH7_Oct20_EPA_Diesel_Waivers_Source_Note.md). Legal issue date October 20; effective October 25–November 13 with qualified-volume sell-through. No economic outcome assumed.
+- **OLESHKY-S005:** [Pool report 9909](https://pool.pp.tools/reports/9909), October 24, original HTML acquired October 25; attributed U.S.-side October 27 scheduling account with reporter quotation caveat. Supplements **043 / CH7-OLESHKY-STATUS-001** only. No inspected agreement or delivered relief.
+
+[Original-byte hashes](Tmanch_CH7_Oct25_Evening_Policy_Source_Manifest.json). Earlier source gaps and correction history preserved.
+
+## October 26 verified proposal and source qualifications
+
+- **OISP-S001:** [October 26 Treasury NPRM 2026-21786](https://www.govinfo.gov/content/pkg/FR-2026-10-26/pdf/2026-21786.pdf), authenticated Federal Register original. Proposed COINS investment controls and notifications, not final restrictions. **J20-2026-053 / CH7-OISP-PROPOSAL-001**; [scope note](Tmanch_CH7_Oct26_Outbound_Investment_Proposal_Source_Note.md).
+- **OLESHKY-S006:** [October 23 Radio Svoboda Lubinets interview](https://www.radiosvoboda.org/a/news-lubinets-oleshky-humanitarna-misiya-detali/33883148.html); staged mission/quiet/clearance explanation, not signed agreement.
+- **OLESHKY-S007:** [October 24 Espreso Lubinets interview](https://espreso.tv/viyna-z-rosiyeyu-vi-pobachite-mi-zapustimo-noviy-metod-kontrolyu-vikonannya-domovlenostey-lubinets-pro-gumanitarnu-misiyu-v-oleshkakh); planned route choice and monitoring. Web text inspected; raw GET403 stopped.
+- **OLESHKY-S008:** [October 25 MVS original](https://mvs.gov.ua/news/ivan-vigivskii-gvardiici-za-dopomogoiu-droniv-dostavili-do-olesok-ditiace-xarcuvannia-i-igraski); separately reported Ukrainian drone aid, execution date unspecified. These three supplement **043 / CH7-OLESHKY-STATUS-001**, not independent confirmation of mission implementation; [dated note](Tmanch_CH7_Oct23_Oleshky_Source_Note.md).
+- **DIESEL-SHIP-S004:** [Kyiv Independent October 23 original reporting](https://kyivindependent.com/how-eu-ships-are-still-able-to-carry-trumps-russian-diesel-despite-so-many-sanctions/); later destination qualification and attributed company/authority responses; linked MarineTraffic original not acquired.
+- **DIESEL-SHIP-S005:** [EASTMED Tankers MR fleet disclosure](https://www.eastmed.gr/tankers-mr/), undated; ship/IMO/call-sign/named-owner join only, not registry or cargo-title evidence. These supplement **040 / CH7-DIESEL-SHIP-001**; [source note](Tmanch_CH7_Oct23_Diesel_Shipment_Source_Note.md).
+
+Source-byte hashes and acquisition limits: [October 26 manifest](Tmanch_CH7_Oct26_Source_Manifest.json). No new cargo, financial flow, personal allegation or score is created by these qualifications.
+
+
+## October 26 evening: EPF adoption step
+
+- **EPF-S001–002 / J20-2026-054 / CH7-EPF-ADOPTION-001:** [Council adoption announcement, preparatory agenda and acquisition limits](Tmanch_CH7_Oct26_EPF_Adoption_Source_Note.md). Advances the existing agreement linked to **024**; distinct from **017** loan financing. Reimbursement for already delivered aid and EUMAM financing are not new equipment delivery or verified payments. Conflicting prior-agreement years and historical inspection status remain preserved.

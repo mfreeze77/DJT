@@ -1,0 +1,35 @@
+{
+  "review_date": "2026-10-24",
+  "sources": [
+    {
+      "url": "https://fitzpatrick.house.gov/index.cfm?File_id=8CC6DF45-BEBB-4C22-9E35-B6C42D40B111&a=Files.Serve",
+      "http_status": 200,
+      "sha256": "4401d06898bd12ccbd2d80a117eebd382816122acbbb1baade2736ac6a4c5ca3",
+      "bytes": 30536
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/CREC-2026-10-22/pdf/CREC-2026-10-22.pdf",
+      "http_status": 200,
+      "sha256": "76e672513a01036dc0757b6c0046acd1e7601318ff2c8dab483a6cb23ff18259",
+      "bytes": 1042111
+    },
+    {
+      "url": "https://fitzpatrick.house.gov/2026/10/fitzpatrick-introduces-ronald-reagan-peace-through-strength-act-to-block-russian-oil-imports-and-defend-ukrain",
+      "http_status": 200,
+      "sha256": "12c5e9ed494d18a0809accaa81f7ac7f7e734d71fc237eeec034c0e9fb0a8ea2",
+      "bytes": 50829
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr10866ih/pdf/BILLS-119hr10866ih.pdf",
+      "http_status": 200,
+      "sha256": "7e3c324612992656c7c82742200889179bbb13f909ed595288ef87b98e6c8d8d",
+      "bytes": 246354
+    },
+    {
+      "url": "https://www.president.gov.ua/en/news/vidnovili-robotu-starlinku-starshildu-na-shvidkosti-yaka-bul-107025",
+      "http_status": 200,
+      "sha256": "c2a4408f6c2d304c0de6df576dc323ec9c468e774851fd876818f79772f9463b",
+      "bytes": 102529
+    }
+  ]
+}
