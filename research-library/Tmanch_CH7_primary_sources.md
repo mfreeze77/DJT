@@ -1101,3 +1101,14 @@ These supplement existing **040 / CH7-DIESEL-SHIP-001**, cross-reference **011**
 - **OLESHKY-S021**: [DW original Tolokonnikov interview](https://amp.dw.com/uk/evakuacia-civilnih-z-okupovanih-olesok-vidbudetsa-30-zovtna-ova/a-79781430). Original HTML acquired; provisional plan, not implemented evacuation.
 
 Supplements existing **043 / CH7-OLESHKY-STATUS-001**, without new event, score, beneficiary total or financial flow. [Cumulative benefit and chronology](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#october-28-compliance-updates); [hashes, dates and acquisition limits](Tmanch_CH7_Oct28_Oleshky_Source_Manifest.json).
+
+
+## October 28 North Korea sanctions designations
+
+- **DPRK-OCT28-S001**: [Official record](https://ofac.treasury.gov/recent-actions/20261028). October 28 SDN additions.
+- **DPRK-OCT28-S002**: [Official record](https://ofac.treasury.gov/specially-designated-nationals-list-sdn-list/program-tag-definitions-for-ofac-sanctions-lists). Authority/scope reference; not independent confirmation of designation.
+- **DPRK-OCT28-S003**: [Official record](https://ofac.treasury.gov/faqs/9). Authority/scope reference; not independent confirmation of designation.
+- **DPRK-OCT28-S004**: [Official record](https://ofac.treasury.gov/media/7671/download?inline=). Authority/scope reference; not independent confirmation of designation.
+- **DPRK-OCT28-S005**: [Official record](https://ofac.treasury.gov/media/7686/download?inline=). Authority/scope reference; not independent confirmation of designation.
+
+**J20-2026-059 / CH7-DPRK-DESIGNATIONS-001**: [Identity, scope and benefit assessment](Tmanch_CH7_Oct28_DPRK_Designations_Source_Note.md); [source manifest](Tmanch_CH7_Oct28_DPRK_Source_Manifest.json). No seized-value or disrupted-flow estimate.
