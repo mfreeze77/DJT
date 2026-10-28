@@ -1089,3 +1089,15 @@ These supplement existing **040 / CH7-DIESEL-SHIP-001**, cross-reference **011**
 
 - **EXTREME-S001–006 / CH7-EXTREME-ENFORCEMENT-001 / J20-2026-058:** [Executed OFAC and DOJ instruments, announcements and exact blocked-entity identity records](Tmanch_CH7_Oct27_Extreme_Enforcement_Source_Note.md). Distinguishes execution from announcement, OFAC non-admission from NPA admissions, credited net obligations from verified payment, and continuing institutional enforcement from personal presidential direction. [Original-byte hashes](Tmanch_CH7_Oct27_Extreme_Source_Manifest.json).
 - **SAT-STATUS-S006 / existing 039/045:** [October 27 original presidency address and continuing interceptor dependency](Tmanch_CH7_Oct22_23_Satellite_Status_Source_Note.md#october-27-presidential-account-continuing-interceptor-dependency). Full relevant original HTML inspected; hash and acquisition boundary in the source note. No new restriction/restoration event or named-decisionmaker claim.
+
+## October 28 Oleshky compliance, civilian observations and provisional evacuation
+
+- **OLESHKY-S015**: [Lubinets original post12942](https://t.me/dmytro_lubinetzs/12942). Full channel web text inspected; raw SiteUnavailable, no original-byte post archive.
+- **OLESHKY-S016**: [ArmyInform Lubinets republication](https://armyinform.com.ua/2026/10/28/v-oleshkah-protyagom-30-godyn-ne-fiksuvaly-inczydentiv-pid-chas-rezhymu-tyshi/). Original HTML acquired; same Lubinets family.
+- **OLESHKY-S017**: [Ukrinform Lubinets and Drohal report](https://www.ukrinform.ua/amp/rubric-regions/4178856-v-oleskah-za-30-godin-rezimu-tisi-ne-zafiksuvali-zodnogo-incidentu-lubinec.html). Original HTML acquired; same Lubinets family plus dated Drohal attribution.
+- **OLESHKY-S018**: [Drohal original Facebook metadata](https://www.facebook.com/pavlodrogal/posts/pfbid02MtTHeuvdXixHwA7QiLcRTjHTR3ycQ7fv6mZWY6SDCEMNKGVFC8ttqvoSCKp4kRKul). Original HTML metadata acquired; excerpt confirms08:00, not date; fullbody truncated.
+- **OLESHKY-S019**: [Reuters civilian interviews via Sight](https://sightmagazine.com.au/news/us-brokered-truce-appears-to-hold-in-ukrainian-town-close-to-starvation/). Full web-rendered text inspected; raw403 stopped, errorbody not article archive.
+- **OLESHKY-S020**: [CNN civilian interview via KEYT](https://keyt.com/news/national-world/cnn-world/2026/10/27/melania-trump-brokered-ceasefire-takes-effect-around-russian-occupied-city-of-oleshky/). Full indexed text inspected; prior raw403 respected; no recording acquired.
+- **OLESHKY-S021**: [DW original Tolokonnikov interview](https://amp.dw.com/uk/evakuacia-civilnih-z-okupovanih-olesok-vidbudetsa-30-zovtna-ova/a-79781430). Original HTML acquired; provisional plan, not implemented evacuation.
+
+Supplements existing **043 / CH7-OLESHKY-STATUS-001**, without new event, score, beneficiary total or financial flow. [Cumulative benefit and chronology](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#october-28-compliance-updates); [hashes, dates and acquisition limits](Tmanch_CH7_Oct28_Oleshky_Source_Manifest.json).
