@@ -1112,3 +1112,14 @@ Supplements existing **043 / CH7-OLESHKY-STATUS-001**, without new event, score,
 - **DPRK-OCT28-S005**: [Official record](https://ofac.treasury.gov/media/7686/download?inline=). Authority/scope reference; not independent confirmation of designation.
 
 **J20-2026-059 / CH7-DPRK-DESIGNATIONS-001**: [Identity, scope and benefit assessment](Tmanch_CH7_Oct28_DPRK_Designations_Source_Note.md); [source manifest](Tmanch_CH7_Oct28_DPRK_Source_Manifest.json). No seized-value or disrupted-flow estimate.
+
+
+## October 27–28 allied support instruments
+
+- **UK-BUDGET-S001**: [UK original Budget](https://www.gov.uk/government/publications/budget-2026-document/budget-2026-html). Original full HTML inspected October 28. Instrument-specific commitments; no disbursement proof.
+- **UK-BUDGET-S002**: [Downing Street Oct28 call](https://www.gov.uk/government/news/prime-minister-and-chancellors-call-with-the-president-of-ukraine-28-october-2026). Original full HTML inspected October 28. Same package and government source family, not another flow.
+- **NOR-ENERGY-S001**: [Norway Oct27 funding release](https://www.regjeringen.no/en/whats-new/500-million-nok-in-energy-support-for-ukraine/id3183922/). Original full HTML inspected October 28. Existing-envelope funding scheduled November–December through UESF.
+- **NOR-ENERGY-S002**: [Norway Oct27 cooperation signing](https://www.regjeringen.no/en/whats-new/norway-and-ukraine-strengthen-energy-cooperation/id3184399/). Original full HTML inspected October 28. Official signing account; executed memorandum unacquired.
+- **NOR-ENERGY-S003**: [Ukrainian Energy Ministry Oct28 publication](https://www.kmu.gov.ua/en/news/norvehiia-vydiliaie-500-mln-norvezkykh-kron-na-pidtrymku-enerhetyky-ukrainy-denys-shmyhal). Original full HTML inspected October 28. Recipient account of same meeting/signing, not a second allocation.
+
+See [Tmanch_CH7_Oct28_UK_Ukraine_Budget_Source_Note.md](Tmanch_CH7_Oct28_UK_Ukraine_Budget_Source_Note.md) and [Tmanch_CH7_Oct27_Norway_Energy_Source_Note.md](Tmanch_CH7_Oct27_Norway_Energy_Source_Note.md); [acquisition manifest](Tmanch_CH7_Oct28_Allied_Support_Source_Manifest.json).

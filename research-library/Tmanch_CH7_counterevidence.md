@@ -583,3 +583,8 @@ The following survive strongly:
 The best current formulation is:
 
 > **The second administration operated through a conflict-rich hub-and-spoke system. Multiple foreign and regulated actors could supply private value, political benefit, access, or information and later receive government attention or favorable outcomes. Some sequences are strong enough to support a serious circumstantial inference of possible reciprocity, but direct quid-pro-quo proof remains in records not yet public.**
+
+
+## October 27–28 allied-originated support commitments
+
+**J20-2026-060 / CH7-UK-BUDGET-001** and **061 / CH7-NORWAY-ENERGY-001** add affirmative allied mitigation: UK instrument-specific financing/defensive commitments and Norway scheduled energy funding plus official cooperation signing. They support prospective Ukrainian/allied resilience, not a claim of personal Trump direction, completed delivery, or resolved Pentagon Patriot permissions. Norway funding is inside the existing envelope; UK guarantees and credit capacity are not cash disbursements. These do not erase earlier impairment or its Russian advantage. See [UK limits](Tmanch_CH7_Oct28_UK_Ukraine_Budget_Source_Note.md) and [Norway limits](Tmanch_CH7_Oct27_Norway_Energy_Source_Note.md).
