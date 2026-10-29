@@ -1123,3 +1123,16 @@ Supplements existing **043 / CH7-OLESHKY-STATUS-001**, without new event, score,
 - **NOR-ENERGY-S003**: [Ukrainian Energy Ministry Oct28 publication](https://www.kmu.gov.ua/en/news/norvehiia-vydiliaie-500-mln-norvezkykh-kron-na-pidtrymku-enerhetyky-ukrainy-denys-shmyhal). Original full HTML inspected October 28. Recipient account of same meeting/signing, not a second allocation.
 
 See [Tmanch_CH7_Oct28_UK_Ukraine_Budget_Source_Note.md](Tmanch_CH7_Oct28_UK_Ukraine_Budget_Source_Note.md) and [Tmanch_CH7_Oct27_Norway_Energy_Source_Note.md](Tmanch_CH7_Oct27_Norway_Energy_Source_Note.md); [acquisition manifest](Tmanch_CH7_Oct28_Allied_Support_Source_Manifest.json).
+
+
+## October 28 evening: verified contextual and implementation records
+
+- **J20-2026-062 / CH7-BULGARIA-LICENCE-001**: [Bulgaria-specific operating licence extension](Tmanch_CH7_Oct28_Bulgaria_Licence_Source_Note.md). BULGARIA-S001–003. Original instrument and notice verified; transactions unverified.
+- **J20-2026-063 / CH7-NETHERLANDS-SUPPORT-001**: [Dutch support allocations and defence cooperation](Tmanch_CH7_Oct28_Netherlands_Support_Source_Note.md). NL-S001–005. Original civilian allocation and military announcement verified; implementation unverified.
+- **J20-2026-064 / CH7-NEHHOR-EXCHANGE-001**: [NEHHOR competitive exchange solicitation](Tmanch_CH7_Oct21_NEHHOR_Source_Note.md). NEHHOR-S001–003. Original release RFP and Q&A verified; award and delivery unverified.
+- **OLESHKY-S022–023 / 043**: [Original DMS and Suspilne individual-arrival evidence](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#october-28-individual-arrival-and-documentation-application). One resident/institutional family, not organized mission completion.
+- [Acquired source hashes](Tmanch_CH7_Oct28_Evening_Source_Manifest.json); no new financial-flow rows.
+
+- **DPRK-OCT28-S006 / 059**: [Treasury explanatory release acquisition](Tmanch_CH7_Oct28_DPRK_Designations_Source_Note.md#october-28-evening-original-explanatory-release-acquired), source-locator closure only; underlying administrative evidence and outcomes remain missing.
+
+- **NATO-OCT28-S001–002 / PRES-OCT28-S001 / J20-032 / CH7-RUS-PURL-001**: [Reported cumulative deliveries, EU financing-route acknowledgment and continuing shortages](Tmanch_CH7_Oct28_NATO_Delivery_Source_Note.md). No new financial-flow total.

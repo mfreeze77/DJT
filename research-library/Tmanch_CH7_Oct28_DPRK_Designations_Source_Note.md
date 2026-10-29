@@ -31,3 +31,10 @@ Cumulative comparison favors a differentiated explanation: surviving institution
 Missing: separate designation rationale/administrative basis, exact subsection determination for each designee, current wallet balances and verified transaction graph, blocked-property reports, actual compliance results, policy decision chain. Do not add flow/payoff rows or invented confidence scores.
 
 [Acquisition manifest and original-source hashes](Tmanch_CH7_Oct28_DPRK_Source_Manifest.json). The source families are five official records, not five independent confirmations of the October 28 designation.
+
+
+### October 28 evening: original explanatory release acquired
+
+**DPRK-OCT28-S006 / J20-2026-059 / CH7-DPRK-DESIGNATIONS-001.** Treasury's [October 28 explanatory release](https://home.treasury.gov/news/press-releases/sb0669), directly linked from the existing OFAC list update, was acquired after the earlier review. This closes the missing-release locator while preserving that review's acquisition history. The release and list concern the same designation action and agency source family, not a new event or independent enforcement result. This source-only supplement does not promote additional allegations or monetary flows.
+
+The underlying administrative evidence, actual blocked assets, transaction-level tracing and realized disruption remain unverified. General leadership credit in a release does not document a separate personal presidential instruction. Original HTML acquired HTTP 200, 77,010 bytes, SHA256 d9e9f33661a21dc22d65c50795cac286d6215a732970e778439f77f5c3fdd02d.

@@ -112,3 +112,14 @@ DW metadata records publication 2026-10-27 19:18:45.842Z and modification 19:26:
 
 
 Acquisition details and source-family boundaries: [October 28 manifest](Tmanch_CH7_Oct28_Oleshky_Source_Manifest.json). Lubinets channel web text was inspected, but raw retrieval yielded only SiteUnavailable, not original article bytes. ArmyInform and Ukrinform originals were acquired; the former repeats Lubinets, while the latter also supplies the date for Drohal’s truncated primary metadata.
+
+
+### October 28 individual arrival and documentation application
+
+**OLESHKY-S022–023 / J20-2026-043 / CH7-OLESHKY-STATUS-001.** Ukraine's [State Migration Service original](https://dmsu.gov.ua/news/region/22052.html), displayed October 28 without a time, reports an Oleshky resident applying at its Volodymyr office in Volyn. This is an actual reported individual arrival and access to documentation, not only a future evacuation plan. Processing an application is not proof that a passport has been issued.
+
+[Suspilne's original](https://suspilne.media/lutsk/1438927-evakujovana-pid-cas-rezimu-tisi-z-olesok-zinka-vigotovlae-dokumenti-na-volini/), metadata October 28 at 18:15:36+02:00, quotes regional Migration Service spokesperson Nataliia Levchuk confirming entry through Domanove. The resident reports deciding to leave on October 27 and describes a dangerous 23 km bicycle segment. October 27 dates the reported decision, not a separately timestamped border crossing. The DMS original repeats the bicycle account but does not identify Domanove or date departure. No complete route or border log was inspected. Both accounts concern the same resident and institution, not two evacuees or independent confirmations of every route detail. Neither account establishes the first evacuation from Oleshky overall.
+
+**Cumulative assessment:** a limited realized Ukrainian civilian benefit, within the US/allied humanitarian category, beyond the earlier official compliance and Kherson calm observations. A decision during the quiet period supports a plausible enabling mechanism, not a measured causal contribution or personal Trump/Melania causation for this particular departure. This does not establish organized mission membership, completion of the provisional October 30 hospital evacuation, fully cleared routes, delivered mission aid, durable peace or total departures. Prior plans, chronology and correction history remain intact. No new scored event, individual entity linkage or financial flow. No corresponding realized Russian strategic gain is established by these sources.
+
+Both original HTMLs acquired HTTP 200 and hashed in the [consolidation manifest](Tmanch_CH7_Oct28_Evening_Source_Manifest.json). An earlier unsuccessful DMS search was superseded by acquisition of the original; exact crossing timing and border records remain unavailable.
