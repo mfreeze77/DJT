@@ -1,0 +1,16 @@
+# October 27 EASTMED request: conditional recall and transaction-chain questions
+
+**J20-2026-066 / CH7-EASTMED-REQUEST-001 / EASTMED-S001.** Blumenthal's [October 27 official release](https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-demands-shipping-companies-recall-tankers-carrying-illegal-russian-diesel) reproduces a letter to EASTMED/Martinos requesting recall if Agioi Fanendes intends US discharge, and answers by October 31 identifying seller, buyer, charterer, insurer/P&I, terminal, distributor and any federal direction. This is an attributed oversight request, not a subpoena, confirmed recall, response or finding of unlawful trade. The response date is the recipient's requested date, not a user obligation.
+
+The reproduced text was inspected through the official web rendering. The linked [Agioi letter PDF](https://www.blumenthal.senate.gov/download/2026-10-27_letter_to_agioi_fenandes_final) returned HTTP 403; acquisition stopped. No inspected signed instrument is claimed. The release's separate PVT AZURA premise was subsequently [retracted by the underlying shipping report](https://gcaptain.com/rare-russian-diesel-shipment-expected-to-arrive-in-norfolk-on-november-2/) in its October 28 editor note; that vessel is excluded, with no extra diesel cargo or shipping total added. The senator's legal characterization is not adopted as an adjudication or a substitute for the operative licence.
+
+## Exact prior joins and evidentiary limits
+
+- [040 / CH7-DIESEL-SHIP-001](Tmanch_CH7_Oct23_Diesel_Shipment_Source_Note.md): DIESEL-SHIP-S004 preserves the company's unresolved destination; S005 identifies Maltatankers Shipping Ltd rather than treating loose EASTMED ownership shorthand as a verified registry identity. Requesting recall does not resolve destination, beneficial ownership, actual arrival, payment or a fourth departure.
+- [056 / CH7-DIESEL-PRESERVE-001](Tmanch_CH7_Oct24_Diesel_Preservation_Source_Note.md) and [057 / CH7-DIESEL-INDUSTRY-001](Tmanch_CH7_Oct26_Diesel_Industry_Warning_Source_Note.md) concern distinct preservation and industry-warning actions. Earlier 015 Senate rescission request and 048 legislative proposal are not implementation of this request.
+
+**Cumulative meaning:** this oversight action seeks the specific transaction chain still missing from the record. It does not supply that chain, reverse GL135, prove stopped trade or erase the separate Russian market-access benefit. Prospective US/allied accountability benefit; no realized Russian revenue loss or quantified consumer result established. Affirmative company-response uncertainty about destination remains evidence, not an assumption of wrongdoing or proof that licensed trade has no Russian benefit. No financial flow, score or personal presidential directive is added. Recipient naming alone creates no match to unrelated people or entities in financial research.
+
+**EASTMED-S002:** the gCaptain editor note was inspected as rendered original text; subsequent raw retrieval returned 403 and stopped. Operator cargo representations and underlying documents were not independently verified. The retraction supports exclusion, not a substitute cargo finding.
+
+No recipient response was acquired in this bounded review. Signed originals and transaction/response records remain acquisition targets; no outreach performed.

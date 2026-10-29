@@ -1136,3 +1136,13 @@ See [Tmanch_CH7_Oct28_UK_Ukraine_Budget_Source_Note.md](Tmanch_CH7_Oct28_UK_Ukra
 - **DPRK-OCT28-S006 / 059**: [Treasury explanatory release acquisition](Tmanch_CH7_Oct28_DPRK_Designations_Source_Note.md#october-28-evening-original-explanatory-release-acquired), source-locator closure only; underlying administrative evidence and outcomes remain missing.
 
 - **NATO-OCT28-S001–002 / PRES-OCT28-S001 / J20-032 / CH7-RUS-PURL-001**: [Reported cumulative deliveries, EU financing-route acknowledgment and continuing shortages](Tmanch_CH7_Oct28_NATO_Delivery_Source_Note.md). No new financial-flow total.
+
+
+## October 29 Oleshky implementation follow-up
+
+- **OLESHKY-S024–025 / J20-2026-043 / CH7-OLESHKY-STATUS-001:** [Original participant reports and chronology limits](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#october-29-official-delegation-movement-organized-relief-still-prospective). Original channel text reports 54 hours of calm and delegation departure toward Oleshky, with organized aid and civilian-departure work still ahead. Same official source family; no independent observation or inferred second trip.
+
+## October 29 financing disclosure and procedural oversight additions
+
+- **TAE-S39 / TAE-T20 / 065:** [Later issuer funding report](Tmanch_CH7_Oct19_TAE_Financing_Source_Note.md#october-29-disclosure-second-tranche-reported-funded-october-7), one USD 100 million corporate advance, not bank-source or personal-receipt proof.
+- **EASTMED-S001 / 066:** [Official reproduced conditional recall request](Tmanch_CH7_Oct27_EASTMED_Request_Source_Note.md); signed PDF unacquired, response and implementation unverified, PVT AZURA excluded.
