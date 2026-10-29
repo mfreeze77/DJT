@@ -68,3 +68,8 @@ Acquisition: original OFAC record and GL 135 PDF acquired; license visually insp
 
 
 Acquisition: full AOL Reuters republication and original URA HTML acquired and inspected; the Reuters original production series and complete Novak briefing were not acquired. [Hashes and source limits](Tmanch_CH7_Oct27_Late_Chronology_Source_Manifest.json).
+
+
+### October 29 acquisition: dated EIA retail benchmark
+
+**EIA-DIESEL-S001–002 / CH7-DIESEL-PRICE-001:** [Original EIA observations and methodology](Tmanch_CH7_Oct27_EIA_Diesel_Prices_Source_Note.md) add an October26 national on-highway diesel estimate of $6.352/gallon, up $0.076 on the week, while New England and Central Atlantic fell. These are October27-published tax-inclusive Monday pump observations, not weekly transaction averages. They do not establish US cargo arrival/payment or isolate the Russian arrangement's causal effect. Policy-attributable consumer savings remain unverified; no extra flow or shipment is counted.

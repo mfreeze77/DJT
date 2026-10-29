@@ -1,0 +1,87 @@
+{
+  "review_date": "2026-10-29",
+  "base_head": "fddee20ad3f3428dcf2f03caeeb442999ec3929a",
+  "sources": [
+    {
+      "id": "irs122",
+      "url": "https://www.irs.gov/newsroom/irs-provides-dyed-diesel-fuel-relief-related-to-excise-tax-following-president-trumps-executive-order",
+      "final_url": "https://www.irs.gov/newsroom/irs-provides-dyed-diesel-fuel-relief-related-to-excise-tax-following-president-trumps-executive-order",
+      "status": 200,
+      "bytes": 101021,
+      "sha256": "794e2a62851987280da0817a8119ff449eb41dc265842e39077c88d222048857"
+    },
+    {
+      "id": "irs125",
+      "url": "https://www.irs.gov/newsroom/temporary-reporting-and-recordkeeping-relief-for-certain-fuel-uses",
+      "final_url": "https://www.irs.gov/newsroom/temporary-reporting-and-recordkeeping-relief-for-certain-fuel-uses",
+      "status": 200,
+      "bytes": 99662,
+      "sha256": "052d28e74dfaabbca89bddccd5d7babc48540993e3429668b759b09e935d04aa"
+    },
+    {
+      "id": "faq",
+      "url": "https://www.irs.gov/newsroom/dyed-diesel-frequently-asked-questions",
+      "final_url": "https://www.irs.gov/newsroom/dyed-diesel-frequently-asked-questions",
+      "status": 200,
+      "bytes": 104484,
+      "sha256": "fe57de46c9889f4f16422e623908afeb82ba4d1cd8795542d72759e0274f9ffc"
+    },
+    {
+      "id": "eo14435",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/10/emergency-tax-relief-on-diesel-fuel/",
+      "status": 200,
+      "bytes": 309231,
+      "sha256": "4a94dcb26dcb46f2e2d069eafa26f65a715c7a3997bc8697a32521ff806d0870"
+    }
+  ],
+  "eia": [
+    {
+      "name": "prices",
+      "url": "https://www.eia.gov/petroleum/gasdiesel/",
+      "status": 200,
+      "bytes": 114596,
+      "sha256": "768043cb4b2744762c2b9ea42e5da5acade6ce208f5c3c8eeded47d853cb54fb"
+    },
+    {
+      "name": "methodology",
+      "url": "https://www.eia.gov/petroleum/gasdiesel/diesel_proc-methods.php",
+      "status": 200,
+      "bytes": 66534,
+      "sha256": "e51b24684952eb2c6406c5ecc970275b0ae6cb958c1aca92a9e5b27db996a1e6"
+    }
+  ],
+  "limits": [
+    "Hashes cover retained original bytes, not an uploaded source archive.",
+    "Telegram relevant original web text inspected; no original-byte archive claimed.",
+    "USDA alternate-host figures and all private-review allegations excluded."
+  ],
+  "ff_sources": {
+    "ff.pdf": {
+      "url": "https://ofac.treasury.gov/media/937246/download?inline",
+      "status": 200,
+      "bytes": 49062,
+      "sha256": "ec3ba896fa3175935fa8461d494649c0ba5eea40cb3b17fb4e5865e6d0481538"
+    },
+    "ff1.pdf": {
+      "url": "https://ofac.treasury.gov/media/937311/download?inline",
+      "status": 200,
+      "bytes": 192768,
+      "sha256": "ac660cb00657baf73c1a546281fdb32f4f469bae61da1f990b56245579f5c7c1"
+    },
+    "ff1-release.html": {
+      "url": "https://ofac.treasury.gov/recent-actions/20261029",
+      "status": 200,
+      "bytes": 38757,
+      "sha256": "d19ebe078160d8ff218046e4285e41e889acc9a135a7d0f9596bc59da005a6a8"
+    }
+  },
+  "dw_staging_source": [
+    {
+      "name": "dw.html",
+      "url": "https://amp.dw.com/uk/predstavniki-ukraini-ssa-ta-rosii-pribuli-do-punktu-vidpravlenna-dopomogi-v-oleski/a-79801128",
+      "status": 200,
+      "size": 367527,
+      "sha256": "76336db586952673d450bdc30c09b9ed21f67a67c681016ab9c9affdb47b2439"
+    }
+  ]
+}

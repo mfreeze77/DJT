@@ -1146,3 +1146,12 @@ See [Tmanch_CH7_Oct28_UK_Ukraine_Budget_Source_Note.md](Tmanch_CH7_Oct28_UK_Ukra
 
 - **TAE-S39 / TAE-T20 / 065:** [Later issuer funding report](Tmanch_CH7_Oct19_TAE_Financing_Source_Note.md#october-29-disclosure-second-tranche-reported-funded-october-7), one USD 100 million corporate advance, not bank-source or personal-receipt proof.
 - **EASTMED-S001 / 066:** [Official reproduced conditional recall request](Tmanch_CH7_Oct27_EASTMED_Request_Source_Note.md); signed PDF unacquired, response and implementation unverified, PVT AZURA excluded.
+
+
+## October 29 evening source consolidation
+
+- **DD-S001–004 / 067 / CH7-DYED-DIESEL-001:** [Executive direction and IRS relief](Tmanch_CH7_Oct5_21_Dyed_Diesel_Source_Note.md); specific tax scope, not general records waiver or measured savings.
+- **EIA-DIESEL-S001–002 / CH7-DIESEL-PRICE-001 / 014/040:** [Dated retail observations](Tmanch_CH7_Oct27_EIA_Diesel_Prices_Source_Note.md); no causal savings estimate.
+- **OLESHKY-S026–030 / 043:** [Participant readiness updates](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#october-29-later-status-designated-route-clearance-and-convoy-readiness-reported); organized outcomes pending, separate returns excluded.
+
+- **FF-S001–003 / 068 / CH7-IRAN-FF1-001:** [Bank wind-down duration extension](Tmanch_CH7_Oct29_Iran_FF1_Source_Note.md), original predecessor/successor and retained blocked-account controls.
