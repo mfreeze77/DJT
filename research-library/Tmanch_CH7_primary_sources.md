@@ -1155,3 +1155,16 @@ See [Tmanch_CH7_Oct28_UK_Ukraine_Budget_Source_Note.md](Tmanch_CH7_Oct28_UK_Ukra
 - **OLESHKY-S026–030 / 043:** [Participant readiness updates](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#october-29-later-status-designated-route-clearance-and-convoy-readiness-reported); organized outcomes pending, separate returns excluded.
 
 - **FF-S001–003 / 068 / CH7-IRAN-FF1-001:** [Bank wind-down duration extension](Tmanch_CH7_Oct29_Iran_FF1_Source_Note.md), original predecessor/successor and retained blocked-account controls.
+
+
+## October 30 morning primary-source follow-ups
+
+- **OLESHKY-S031–035 / 043:** Original Lubinets 12957/12958 and Arakhamia 433/434 channel text, with dated relay context, inspected as described in [source note](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#october-30-staging-and-participant-reported-relief-implementation). Coordinated participant implementation reports, not independent field verification; source timestamps and rendered-acquisition limits retained.
+- **LIG-S013–014 / CH7-LIG-009/010:** October 26 Carso Q3 regulatory PDF pp. 38, 127–129 and companion release p. 12. [Precise sources/joins](Tmanch_CH7_Oct18_Lukoil_Divestment_Source_Note.md#october-26-q3-disclosure-inspected-october-30-operating-recovery-and-separate-sale-gates) distinguish issuer-reported approvals/operations, date conflict and nonadditive balance movements from closing or seller payment.
+- **USD1-INC-S002 / CH7-UAE-USD1-002:** October 29 Binance original/reproduction inspected; [terms and overlap](Tmanch_CH7_Oct20_Binance_USD1_Incentives_Source_Note.md#october-29-announcement-successive-wlfi-round-and-extended-existing-usd1-pool) preserve same USD1 cap and distinct WLFI period. No verified payout/funding allocation.
+
+[October 30 source manifest](Tmanch_CH7_Oct30_Morning_Source_Manifest.json) records acquired artifacts and their limits; hashes identify retained bytes, not independent truth of issuer/participant assertions.
+
+
+- **UA1072-S001–003 / 069; UA1073-S001–002 / 070:** [October 29 decrees and original annexes](Tmanch_CH7_Oct29_Ukraine_Sanctions_Source_Note.md) establish 19 individual/10 entity and 39 vessel entries respectively, with October 30 publication context and scope/identity controls. No new conduct allegations adopted.
+- **DIANA-S001 / 071:** [NATO October 29 signing account](Tmanch_CH7_Oct29_DIANA_Ukraine_Source_Note.md) verifies reported institutional cooperation, not an acquired executed instrument or operational result.

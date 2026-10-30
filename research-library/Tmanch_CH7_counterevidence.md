@@ -602,3 +602,15 @@ The best current formulation is:
 ## October 29 source-controlled domestic-response and implementation additions
 
 [067 executive/IRS dyed-diesel relief](Tmanch_CH7_Oct5_21_Dyed_Diesel_Source_Note.md) supplies affirmative presidential-direction and agency-implementation evidence, not merely a hypothetical domestic motive. Its narrow compliance effects are documented; net economic results remain unmeasured. It joins064/041/051/052 without establishing interchangeability or erasing011/040 Russian access benefits. [EIA observations](Tmanch_CH7_Oct27_EIA_Diesel_Prices_Source_Note.md) show national increases and some regional decreases, not a policy counterfactual. A possible avoided increase is not affirmative evidence of achieved savings. [043 readiness](Tmanch_CH7_Oct23_Oleshky_Source_Note.md) advances preparation, while organized receipt/departure outcomes remain pending and earlier individual civilian benefit retains its distinct weight. These unlike mechanisms should not be collapsed into a single exonerating or incriminating score.
+
+
+## October 30: reported humanitarian implementation and commercial mechanisms
+
+**043 / CH7-OLESHKY-STATUS-001:** Participant reports now expressly say aid delivered, beyond planning. Give this positive humanitarian evidence real weight; do not keep calling all relief merely planned. Coordinated accounts and absent quantities/onward-arrival records limit independent outcome verification, not the fact of the statements. No speculative Russian publicity benefit is needed to cancel this limited Ukrainian civilian benefit.
+
+**CH7-LIG-009/010:** Q3 issuer disclosure supports concrete operating recovery and obtained Mexican approvals, while the acquisition-specific OFAC condition remains pending. This is mixed operating continuity/value-preservation evidence, not a completed disposal, seller remittance or policy bargain. Balance changes lack a cash/noncash bridge and must not be treated as receipts.
+
+**CH7-UAE-USD1-002:** A documented successive promotion is affirmative commercial-mechanism evidence, not merely a possible innocent explanation. It does not resolve separate governmental-treatment questions. Continued pool terms are not realized income or an additional USD1 allocation; national benefit remains uncertain. Source notes retain all earlier evidence and limits.
+
+
+**069/070 and 071:** Ukraine's original sanctions instruments and NATO's reported DIANA–Ukraine signing add affirmative allied restrictive/capability-development measures. Count the institutional actions and prospective mechanisms without inventing seizures, cargo interruption, deployment or personal Trump authorship. They coexist with US permissions and documented dependencies; no automatic cancellation or equal weighting follows from simple event counts.
