@@ -1,0 +1,39 @@
+{
+  "sources": [
+    {
+      "file": "aol-production.html",
+      "url": "https://www.aol.com/articles/russian-oil-refineries-boost-output-163238000.html",
+      "bytes": 789693,
+      "sha256": "1cc73e3f7509052eb2f556de0c5b9071b8c6ad4bf61bb1e53db8833eff1d46c0",
+      "status": 200,
+      "source_id": "DIESEL-SHIP-S015",
+      "acquired_utc_date": "2026-10-27",
+      "scope": "Full article text inspected; original publisher HTML bytes retained. AOL entries are Reuters republications, not reuters.com original bytes."
+    },
+    {
+      "file": "aol-melania.html",
+      "url": "https://www.aol.com/articles/first-lady-melania-trump-says-161008000.html",
+      "bytes": 789452,
+      "sha256": "97deb9fad2e78be807d9db2615e0cc4974250160032961fd6cb824ca0abc4224",
+      "status": 200,
+      "source_id": "OLESHKY-S014",
+      "acquired_utc_date": "2026-10-27",
+      "scope": "Full article text inspected; original publisher HTML bytes retained. AOL entries are Reuters republications, not reuters.com original bytes."
+    },
+    {
+      "file": "ura-novak.html",
+      "url": "https://ura.news/news/1053139511",
+      "bytes": 270507,
+      "sha256": "312c786759c881ebd04954254ceb9b0ab2568ee5c6b91b69061ebd92e189fd0c",
+      "status": 200,
+      "source_id": "DIESEL-SHIP-S016",
+      "acquired_utc_date": "2026-10-27",
+      "scope": "Full article text inspected; original publisher HTML bytes retained. AOL entries are Reuters republications, not reuters.com original bytes."
+    }
+  ],
+  "limits": [
+    "Original Melania X post2115116465942614045 returned403; stopped.",
+    "MarketScreener production, StreetInsider Melania and Moneycontrol raw retrieval403 stopped after web-text inspection.",
+    "No original statistical series, signed revised humanitarian agreement, boundary map or complete Novak briefing acquired."
+  ]
+}

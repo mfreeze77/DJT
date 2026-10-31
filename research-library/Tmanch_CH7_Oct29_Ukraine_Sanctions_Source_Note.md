@@ -1,0 +1,19 @@
+# Ukraine decrees 1072/2026 and 1073/2026: verified legal restrictions
+
+Reviewed October 30, 2026. **J20-2026-069/070**, **CH7-UA-SANC-1072-001 / CH7-UA-SANC-1073-001**. Unscored Ukrainian institutional actions, not new Trump decisions. Neutral legal status only; no new supply, criminality or cargo allegation is adopted.
+
+## Original instruments and chronology
+
+**UA1072-S001:** [Decree 1072/2026 and NSDC decision](https://www.president.gov.ua/documents/10722026-62257), dated October 29. **UA1072-S002:** [individual annex](https://www.president.gov.ua/storage/j-files-storage/01/52/29/ca2b3165a96d5e313ae54b40d7717fee_1793294002.docx), 19 numbered entries. **UA1072-S003:** [entity annex](https://www.president.gov.ua/storage/j-files-storage/01/52/33/7882e2ec0ab2b1e28b2dee63faa919e5_1793294051.docx), 10 entries. Merged cells repeat row labels in extraction, not additional entities. Restrictions include asset blocking, trade/transit, capital/financial and technology/IP controls; duration cells literally distinguish indefinite and ten-year terms. Do not call all measures ten-year restrictions or infer a global ban.
+
+**UA1073-S001:** [Decree 1073/2026 and NSDC decision](https://www.president.gov.ua/documents/10732026-62261), dated October 29. **UA1073-S002:** [vessel annex](https://www.president.gov.ua/storage/j-files-storage/01/52/37/193b704fc12b266cfc755a37e2239b4d_1793294521.docx), 39 entries and 39 distinct IMO identifiers. Its eight measures include asset blocking, trade/transit limits, suspension of financial obligations, licensing/radiofrequency and entry restrictions plus additional controls, with ten-year duration. These are domestic legal restrictions, not proof of global interdiction, seized value or stopped cargoes.
+
+Both decrees take effect on publication. The presidency's [October 30 announcement](https://www.president.gov.ua/news/ukrayina-zastosuvala-sankciyi-proti-kompanij-ta-osib-prichet-107085) is publication context, not an October 30 signature date or independently verified absolute effective timestamp. It is not independent corroboration of implementation. Decisions instruct domestic implementation/monitoring and requests for partner alignment; partner adoption is not automatic. Newly asserted military-supply and vessel-cargo allegations are excluded from this legal-action entry.
+
+Full HTML and three original DOCX annexes were acquired and hashed in the [manifest](Tmanch_CH7_Oct30_Morning_Source_Manifest.json). Complete tables were parsed; first/last rendered pages of each annex visually checked, not every page. Counts require no republication of personal identifiers. Bureau 1440 appears as entity row 6; VASILY DINKOV is vessel row 13, IMO 9372547. These identify listed subjects only, not underlying misconduct findings.
+
+## Existing joins and cumulative benefit
+
+Prior Ukrainian restrictions **049/050** remain separate in [October 24 note](Tmanch_CH7_Oct24_Ukraine_Sanctions_Source_Note.md). Communications/resilience context joins **021/039/045** and **035/037/063**, without identity or money-flow inference. Petroleum context joins **011/040 / CH7-DIESEL-SHIP-001**. Exact comparison against all 39 IMOs finds no Talisman **9292060**, Leruo **9385831**, or Agioi Fanendes **9798375**. Do not describe these measures as listing those three reported diesel ships or proving US delivery.
+
+**United States/allies, prospective restrictive benefit:** Ukraine imposes technology, trade and asset controls and seeks partner alignment. The direct legal actions are verified; realized blocking, denied technology, interrupted cargoes and Russian revenue losses remain unmeasured. This adds concrete continuing allied opposition to Russian capabilities while separate US energy permissions remain in place. Neither cancels the other, and Ukrainian institutional action cannot be credited to personal Trump direction. No new cash flow or quantified economic effect.

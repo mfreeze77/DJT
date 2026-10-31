@@ -1,0 +1,26 @@
+{
+  "acquired_date": "2026-10-27",
+  "sources": [
+    {
+      "id": "DIESEL-PRESERVE-S001",
+      "url": "https://www.foreign.senate.gov/download/10242026-letter-regarding-russia-diesel-arrangement_-goldman",
+      "sha256": "aec32e2972dbe158138222fea7b1fe8cc4b7fb0ea11630dbeef3c9ad93c6d34b",
+      "bytes": 373813,
+      "inspection": "Three pages text inspected; signature pages 2–3 visually inspected, including image-only Tillis."
+    },
+    {
+      "id": "DIESEL-PRESERVE-S002",
+      "url": "https://www.foreign.senate.gov/press/dem/release/ranking-member-shaheen-leads-bipartisan-lawmakers-in-warning-ceos-of-banks-port-authorities-and-fuel-distributors-against-importing-russian-diesel",
+      "sha256": "b24ec8f047764d2b03f36a6ba0e97e027db09b4d833b2647d989b7367d1a9362",
+      "bytes": 218492,
+      "inspection": "Official release and reproduced letter; other named recipients rely on release, not individually inspected letters."
+    },
+    {
+      "id": "OLESHKY-S012",
+      "url": "https://www.ukrinform.ua/rubric-world/4178305-mark-bekmen-golovnij-radnik-melanii-tramp.html",
+      "sha256": "ce4c4baba3e6beeb41b81c856305d4d27288fd6f2cba068c1e6caa9e6ed06be0",
+      "bytes": 50370,
+      "inspection": "Full original direct interview text; planned mechanisms and attributed assurances, not outcomes."
+    }
+  ]
+}

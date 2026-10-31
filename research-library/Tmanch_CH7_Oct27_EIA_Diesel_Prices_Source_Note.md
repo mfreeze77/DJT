@@ -1,0 +1,13 @@
+# EIA diesel observations: retail benchmark, not causal attribution
+
+Reviewed October 29, 2026. EIA-DIESEL-S001–002 / CH7-DIESEL-PRICE-001; contextual supplement to014/040, no new action or financial flow.
+
+**EIA-DIESEL-S001:** [October 27 EIA release](https://www.eia.gov/petroleum/gasdiesel/) reports national on-highway diesel estimates of $6.179, $6.276 and $6.352 per gallon for October 12, 19 and 26. The latest change is +$0.076. October 26 New England was $6.421 (-$0.049) and Central Atlantic $6.496 (-$0.012). National increase and regional declines coexist; prices did not rise everywhere.
+
+**EIA-DIESEL-S002:** [EIA methodology](https://www.eia.gov/petroleum/gasdiesel/diesel_proc-methods.php) defines tax-inclusive Monday 08:00 local cash/self-service pump observations, volume-weighted on-highway ULSD survey estimates. These are not weekly transaction averages. The contiguous-US sample excludes Alaska and Hawaii; publication is generally Tuesday. October 26 observation and October 27 release are distinct. No sampling-significance conclusion is made. Mutable original pages were retained and hashed in [manifest](Tmanch_CH7_Oct29_Evening_Source_Manifest.json).
+
+## Cumulative assessment and joins
+
+The observed national benchmark had not fallen across these three observations. This tests the promised outcome in [014 price rationale](Tmanch_CH7_Oct13_Intelligence_Diesel_Source_Note.md), not GL135's legal scope in011. It does not establish US cargo arrival, payment or pass-through in [040](Tmanch_CH7_Oct23_Diesel_Shipment_Source_Note.md). The series cannot isolate [041 capacity policy](Tmanch_CH7_Oct22_Domestic_Petroleum_DPA_Source_Note.md), Texas [051](Tmanch_CH7_Oct20_EPA_Diesel_Waivers_Source_Note.md), or [067 tax relief](Tmanch_CH7_Oct5_21_Dyed_Diesel_Source_Note.md). Alaska exclusion prevents direct evaluation of052; [064 heating-oil exchange](Tmanch_CH7_Oct21_NEHHOR_Source_Note.md) differs in use/product and has no acquired award/delivery result.
+
+**Policy-attributable national benefit: uncertain/unmeasured.** Lower regional prices are favorable observations for purchasers, not a quantified policy effect. Higher national prices do not prove no avoided increase, but a possible avoided increase is not affirmative evidence of achieved savings. Missing are matched volumes, timing, pass-through, controls and a credible counterfactual. No new Russian revenue or benefit is measured here; existing market-access mechanisms remain separately documented. EIA is not a substitute verification of distinct WSJ/AAA reporting. A bounded 16-file current-head hash check found no exact figures; no whole-repository clearance claimed.

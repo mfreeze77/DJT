@@ -1,0 +1,84 @@
+{
+  "review_date": "2026-10-28",
+  "base_commit": "96d5a2476bf323cb6ec85f8900f6b5d2427abf48",
+  "event_id": "J20-2026-043",
+  "claim_id": "CH7-OLESHKY-STATUS-001",
+  "sources": [
+    {
+      "source_id": "OLESHKY-S015",
+      "url": "https://t.me/dmytro_lubinetzs/12942",
+      "description": "Lubinets original post12942",
+      "inspection": "Full channel web text inspected; raw SiteUnavailable, no original-byte post archive",
+      "retained_response": {
+        "bytes": 195,
+        "sha256": "5b131ca14aa96311d3432b0062c7443d3b0e6346ec279bd376a75f0a76bcd5d7",
+        "is_original_article_archive": false
+      }
+    },
+    {
+      "source_id": "OLESHKY-S016",
+      "url": "https://armyinform.com.ua/2026/10/28/v-oleshkah-protyagom-30-godyn-ne-fiksuvaly-inczydentiv-pid-chas-rezhymu-tyshi/",
+      "description": "ArmyInform Lubinets republication",
+      "inspection": "Original HTML acquired; same Lubinets family",
+      "retained_response": {
+        "bytes": 30842,
+        "sha256": "ec02fdf32d98539fb1134c22a17e565d50f4e2fc6d82aabe27b52f1f2b4de5f4",
+        "is_original_article_archive": true
+      }
+    },
+    {
+      "source_id": "OLESHKY-S017",
+      "url": "https://www.ukrinform.ua/amp/rubric-regions/4178856-v-oleskah-za-30-godin-rezimu-tisi-ne-zafiksuvali-zodnogo-incidentu-lubinec.html",
+      "description": "Ukrinform Lubinets and Drohal report",
+      "inspection": "Original HTML acquired; same Lubinets family plus dated Drohal attribution",
+      "retained_response": {
+        "bytes": 30210,
+        "sha256": "cc205a1b50c83162c53af9fa6c81fbb5f4b16796b32fa5640890b5d06de99a3f",
+        "is_original_article_archive": true
+      }
+    },
+    {
+      "source_id": "OLESHKY-S018",
+      "url": "https://www.facebook.com/pavlodrogal/posts/pfbid02MtTHeuvdXixHwA7QiLcRTjHTR3ycQ7fv6mZWY6SDCEMNKGVFC8ttqvoSCKp4kRKul",
+      "description": "Drohal original Facebook metadata",
+      "inspection": "Original HTML metadata acquired; excerpt confirms08:00, not date; fullbody truncated",
+      "retained_response": {
+        "bytes": 333667,
+        "sha256": "3e9cf05959ee2170cab19da84ad54fa7cbf287f9baddaa809aa9f7fb50bb9384",
+        "is_original_article_archive": true
+      }
+    },
+    {
+      "source_id": "OLESHKY-S019",
+      "url": "https://sightmagazine.com.au/news/us-brokered-truce-appears-to-hold-in-ukrainian-town-close-to-starvation/",
+      "description": "Reuters civilian interviews via Sight",
+      "inspection": "Full web-rendered text inspected; raw403 stopped, errorbody not article archive"
+    },
+    {
+      "source_id": "OLESHKY-S020",
+      "url": "https://keyt.com/news/national-world/cnn-world/2026/10/27/melania-trump-brokered-ceasefire-takes-effect-around-russian-occupied-city-of-oleshky/",
+      "description": "CNN civilian interview via KEYT",
+      "inspection": "Full indexed text inspected; prior raw403 respected; no recording acquired"
+    },
+    {
+      "source_id": "OLESHKY-S021",
+      "url": "https://amp.dw.com/uk/evakuacia-civilnih-z-okupovanih-olesok-vidbudetsa-30-zovtna-ova/a-79781430",
+      "description": "DW original Tolokonnikov interview",
+      "inspection": "Original HTML acquired; provisional plan, not implemented evacuation",
+      "retained_response": {
+        "bytes": 345748,
+        "sha256": "55419ba62c142cdb3376c5fa00240f26ad9126a08798dc8f8b53ee2c6df8346a",
+        "is_original_article_archive": true
+      }
+    }
+  ],
+  "date_limits": {
+    "S015": "Oct28 report;07:16 edited display timezone unstated;30-hour observation cutoff unstated",
+    "S016": "Oct28 10:13 display timezone unstated",
+    "S017": "publication/modification2026-10-28T09:50:00+02:00",
+    "S018": "08:00 observation timezone unstated;Oct28 date supplied by S017",
+    "S019": "Oct27 observations;Oct28 09:40 display timezone unstated",
+    "S020": "Oct27 observations/publication08:25 timezone unstated;later update time unacquired",
+    "S021": "published2026-10-27T19:18:45.842Z;modified19:26:23.304Z;planned Oct30morning timezone unstated"
+  }
+}

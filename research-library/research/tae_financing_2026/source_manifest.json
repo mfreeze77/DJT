@@ -40,7 +40,8 @@
     "Reported manager/control relationships do not establish ownership of underlying fund capital; note consent is not common-stock voting or board control.",
     "Six million contingent M&A compensation shares have no USD value assigned; explicit payment trigger unmet as of June 30,2026 and later issuance not established. They are not added to PIPE allocations, cash receipts or TAE funding.",
     "The post-closing placement right of first refusal is distinct from both fee-tail branches after engagement termination; no earned fee or completed future financing is recorded.",
-    "Dated FINRA corporate-control disclosure and historical S-4 renaming do not collapse YA II PN, its manager and the broker-dealer or allocate compensation to individuals."
+    "Dated FINRA corporate-control disclosure and historical S-4 renaming do not collapse YA II PN, its manager and the broker-dealer or allocate compensation to individuals.",
+    "TAE-T20 is the reported October 7 USD100m second tranche; TAE-T03 is its earlier capacity, not another payment. All twenty observations remain excluded from historical receipt totals."
   ],
   "sources": [
     {
@@ -879,6 +880,27 @@
         }
       ],
       "source_quality": "Full retained SEC HTML text independently inspected. S-4 references use printed labels in HTML, not PDF images."
+    },
+    {
+      "source_id": "TAE-S39",
+      "title": "TMTG October 29 Form S-4/A Amendment No. 1",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000143774926033844/djt20261026_s4a.htm",
+      "document_date": "2026-10-29",
+      "source_family": "issuer_filing_hosted_by_SEC",
+      "locator": "Printed p.274 Agreements Related to the Merger / TMTG Convertible Promissory Note (#agreements); repeated pp.52,130 (#taes_mgmt),294 (#unaudited_pf); preliminary cover and meeting notice",
+      "inspection_date": "2026-10-29",
+      "inspection_mode": "preserved_SEC_HTML",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "s4a.html",
+          "artifact_type": "preserved_SEC_HTML",
+          "bytes": 9326081,
+          "sha256": "ed258fde219bc9c00cf533bd0773c9386046ccf95e087dff206080feb1424e48",
+          "hash_scope": "Exact retained source, not uploaded with this addition."
+        }
+      ],
+      "source_quality": "Issuer-reported funding, not independently inspected bank payment. Repeated presentations are one source family and one advance."
     }
   ],
   "revision_history": [
@@ -901,6 +923,19 @@
       "date": "2026-10-19",
       "change": "Extended existing PR58 with contingent Yorkville M&A share fee, distinct placement ROFR, dated ownership/rename and attributed conflict/opinion limits. Original 75 May allocation rows and 19 transaction observations unchanged.",
       "base_head": "e1819a6b70c659166b0ddf9d83335e278ca5c0c2"
+    },
+    {
+      "date": "2026-10-29",
+      "change": "Added later issuer report of October 7 second-tranche funding as TAE-T20; original nineteen rows preserved. Earlier capacity/no-draw acquisition status is dated history, not current status. No historical receipt total or source-of-funds attribution.",
+      "base_head": "57539709d7502ef5f49aead3caf74611595b319b",
+      "submissions_retrieval": {
+        "source_id": "TAE-S08",
+        "url": "https://data.sec.gov/submissions/CIK0001849635.json",
+        "inspection_date": "2026-10-29",
+        "sha256": "58ba3dfc6a10a6a148d0c5519824abb125a41bd02d53fb734f2289259acf679d",
+        "accepted_utc": "2026-10-29T10:07:51Z",
+        "accession": "0001437749-26-033844"
+      }
     }
   ],
   "derived_calculations": {

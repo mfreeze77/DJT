@@ -28,3 +28,11 @@ Ukraine's Ministry of Defence subsequently reported restored high-speed Starlink
 ## Later October 24 presidential follow-up
 
 The [dated restoration follow-up](Tmanch_CH7_Oct24_Satellite_Restoration_Source_Note.md#october-24-presidential-testing-and-delivery-status-follow-up), **SAT-RESTORE-S002**, adds Zelenskyy’s overnight/morning restoration account and his statement that already-approved American and European ballistic-interceptor packages still awaited delivery. This supplements **039/045** without rewriting the October 23 observation or treating restored communications as delivered missiles.
+
+### October 27 presidential account: continuing interceptor dependency
+
+**SAT-STATUS-S006 / existing J20-2026-039/045.** In his [October 27 address](https://www.president.gov.ua/en/news/operaciya-veles-posilyuye-nashi-poziciyi-i-demonstruye-rosiy-107049), published at 20:38 without an explicit timezone, Zelenskyy says air-defense packages remain delayed and Ukraine still needs Pentagon authorizations for Patriot supplies. This is an original presidential account of the continuing dependency, not an acquired approval file or proof of a particular official's instruction.
+
+It extends the delivery-status chronology beyond the October 24 restoration account: restored satellite communications did not itself resolve interceptor availability. Continued defensive exposure benefits Russia operationally; the address does not quantify the delay's marginal effect, establish intent, or prove that any particular casualty resulted from it. His separate attack and casualty figures are not adopted as verified totals here. Preserve distinctions among approval, physical delivery, inventory, and operational use. This is neither another restriction event nor independent technical corroboration of every earlier account.
+
+Original presidency HTML acquired October 27 (104,615 bytes; SHA-256 c21dd9a1724cee5be0ddcd799f7fe51bff11dec5c6b54fa9d16e90f6aa978f01). Full relevant text inspected; no video or underlying authorization records acquired.

@@ -583,3 +583,46 @@ The following survive strongly:
 The best current formulation is:
 
 > **The second administration operated through a conflict-rich hub-and-spoke system. Multiple foreign and regulated actors could supply private value, political benefit, access, or information and later receive government attention or favorable outcomes. Some sequences are strong enough to support a serious circumstantial inference of possible reciprocity, but direct quid-pro-quo proof remains in records not yet public.**
+
+
+## October 27–28 allied-originated support commitments
+
+**J20-2026-060 / CH7-UK-BUDGET-001** and **061 / CH7-NORWAY-ENERGY-001** add affirmative allied mitigation: UK instrument-specific financing/defensive commitments and Norway scheduled energy funding plus official cooperation signing. They support prospective Ukrainian/allied resilience, not a claim of personal Trump direction, completed delivery, or resolved Pentagon Patriot permissions. Norway funding is inside the existing envelope; UK guarantees and credit capacity are not cash disbursements. These do not erase earlier impairment or its Russian advantage. See [UK limits](Tmanch_CH7_Oct28_UK_Ukraine_Budget_Source_Note.md) and [Norway limits](Tmanch_CH7_Oct27_Norway_Energy_Source_Note.md).
+
+
+## October 28: concrete civilian outcome, domestic response and allied mitigation
+
+[043 individual arrival](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#october-28-individual-arrival-and-documentation-application) adds a limited realized Ukrainian civilian result beyond reported calm; it is affirmative evidence, not merely a hypothetical innocent explanation. It does not prove completion of the planned organized mission or personal presidential causation. [064 NEHHOR](Tmanch_CH7_Oct21_NEHHOR_Source_Note.md) adds an executable domestic supply-response solicitation alongside 041/051/052, while award, movement and price outcomes remain unverified. [063 Dutch support](Tmanch_CH7_Oct28_Netherlands_Support_Source_Note.md), alongside 035/037/060/061, strengthens evidence of allied mitigation and capability efforts; the same contemporaneous account still reports interceptor shortages and US delivery concerns. Neither response erases prior operational harms or supplies an explanation for the full pattern of separate dependencies and Russian commercial advantages.
+
+[062 Bulgaria licence](Tmanch_CH7_Oct28_Bulgaria_Licence_Source_Note.md) shows a distinct allied-jurisdiction targeted continuation, with prospective Bulgarian continuity and indirect Lukoil-linked asset-value preservation. It prevents a false impending-expiry inference, but is neither evidence that all permissions are equivalent nor that a remittance occurred. Operating continuity and humanitarian mitigation have affirmative support here; a financial quid pro quo, coordinated intent, measured policy necessity and settlement receipts do not. Keep these different mechanisms and outcomes separate rather than offsetting them with a single score or adding commitments to cash totals.
+
+[October 28 NATO delivery reporting](Tmanch_CH7_Oct28_NATO_Delivery_Source_Note.md) strengthens affirmative evidence of realized US-origin equipment support, though its combined USD 10 billion PURL/FMS aggregate is not independently reconciled and cannot be added to prior national commitments. It contradicts a blanket all-support-ceased claim, not the existence of particular delayed packages or continuing dependency. EU loan eligibility is an attributed financing-route account, not another disbursement.
+
+
+## October 29 source-controlled domestic-response and implementation additions
+
+[067 executive/IRS dyed-diesel relief](Tmanch_CH7_Oct5_21_Dyed_Diesel_Source_Note.md) supplies affirmative presidential-direction and agency-implementation evidence, not merely a hypothetical domestic motive. Its narrow compliance effects are documented; net economic results remain unmeasured. It joins064/041/051/052 without establishing interchangeability or erasing011/040 Russian access benefits. [EIA observations](Tmanch_CH7_Oct27_EIA_Diesel_Prices_Source_Note.md) show national increases and some regional decreases, not a policy counterfactual. A possible avoided increase is not affirmative evidence of achieved savings. [043 readiness](Tmanch_CH7_Oct23_Oleshky_Source_Note.md) advances preparation, while organized receipt/departure outcomes remain pending and earlier individual civilian benefit retains its distinct weight. These unlike mechanisms should not be collapsed into a single exonerating or incriminating score.
+
+
+## October 30: reported humanitarian implementation and commercial mechanisms
+
+**043 / CH7-OLESHKY-STATUS-001:** Participant reports now expressly say aid delivered, beyond planning. Give this positive humanitarian evidence real weight; do not keep calling all relief merely planned. Coordinated accounts and absent quantities/onward-arrival records limit independent outcome verification, not the fact of the statements. No speculative Russian publicity benefit is needed to cancel this limited Ukrainian civilian benefit.
+
+**CH7-LIG-009/010:** Q3 issuer disclosure supports concrete operating recovery and obtained Mexican approvals, while the acquisition-specific OFAC condition remains pending. This is mixed operating continuity/value-preservation evidence, not a completed disposal, seller remittance or policy bargain. Balance changes lack a cash/noncash bridge and must not be treated as receipts.
+
+**CH7-UAE-USD1-002:** A documented successive promotion is affirmative commercial-mechanism evidence, not merely a possible innocent explanation. It does not resolve separate governmental-treatment questions. Continued pool terms are not realized income or an additional USD1 allocation; national benefit remains uncertain. Source notes retain all earlier evidence and limits.
+
+
+**069/070 and 071:** Ukraine's original sanctions instruments and NATO's reported DIANA–Ukraine signing add affirmative allied restrictive/capability-development measures. Count the institutional actions and prospective mechanisms without inventing seizures, cargo interruption, deployment or personal Trump authorship. They coexist with US permissions and documented dependencies; no automatic cancellation or equal weighting follows from simple event counts.
+
+
+**October 31 USD1 distribution context:** Coinbase's [EEA-retail restrictions and stated October 30 cutoff](Tmanch_CH7_Oct20_Binance_USD1_Incentives_Source_Note.md#coinbase-eea-retail-october-30-cutoff-inspected-october-31) are affirmative evidence that USD1 distribution is constrained in one platform/customer scope. This qualifies uninterrupted global-expansion narratives, not the documented Binance incentive mechanism. Announced conversion is not realized redemption, reserve-income loss or family loss; national effects remain uncertain.
+
+
+## October 31 implementation stages and mixed continuity mechanisms
+
+**043:** participant-reported departure and Belarus arrival strengthen the bounded humanitarian record beyond planning and aid delivery. The [successive accounts](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#october-31-participant-reported-belarus-arrival-final-ukraine-leg-still-prospective) are not separate evacuations or independent witness families; final Ukraine arrival and durable protection remain unverified. Give actual reported progress weight without equating it with a broad settlement.
+
+**072:** the [final EU–Canada statement](Tmanch_CH7_Oct30_EU_Canada_Source_Note.md) is affirmative allied institutional commitment, not just a possible explanation, while implementation is still prospective. It does not independently replace dismantled US capacities or deliver interceptors.
+
+**073:** [NIS's licence account](Tmanch_CH7_Oct30_NIS_Specific_Licence_Source_Note.md) supports continuity relief and an issuer-stated supply-security rationale. Serbian operating benefit and potential Russian shareholder-value preservation can coexist; neither an innocent rationale nor a possible value effect resolves the other. The September ownership snapshot is dated, and no current ownership, specific payment or improper motive is inferred.
