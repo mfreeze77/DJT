@@ -614,3 +614,15 @@ The best current formulation is:
 
 
 **069/070 and 071:** Ukraine's original sanctions instruments and NATO's reported DIANA–Ukraine signing add affirmative allied restrictive/capability-development measures. Count the institutional actions and prospective mechanisms without inventing seizures, cargo interruption, deployment or personal Trump authorship. They coexist with US permissions and documented dependencies; no automatic cancellation or equal weighting follows from simple event counts.
+
+
+**October 31 USD1 distribution context:** Coinbase's [EEA-retail restrictions and stated October 30 cutoff](Tmanch_CH7_Oct20_Binance_USD1_Incentives_Source_Note.md#coinbase-eea-retail-october-30-cutoff-inspected-october-31) are affirmative evidence that USD1 distribution is constrained in one platform/customer scope. This qualifies uninterrupted global-expansion narratives, not the documented Binance incentive mechanism. Announced conversion is not realized redemption, reserve-income loss or family loss; national effects remain uncertain.
+
+
+## October 31 implementation stages and mixed continuity mechanisms
+
+**043:** participant-reported departure and Belarus arrival strengthen the bounded humanitarian record beyond planning and aid delivery. The [successive accounts](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#october-31-participant-reported-belarus-arrival-final-ukraine-leg-still-prospective) are not separate evacuations or independent witness families; final Ukraine arrival and durable protection remain unverified. Give actual reported progress weight without equating it with a broad settlement.
+
+**072:** the [final EU–Canada statement](Tmanch_CH7_Oct30_EU_Canada_Source_Note.md) is affirmative allied institutional commitment, not just a possible explanation, while implementation is still prospective. It does not independently replace dismantled US capacities or deliver interceptors.
+
+**073:** [NIS's licence account](Tmanch_CH7_Oct30_NIS_Specific_Licence_Source_Note.md) supports continuity relief and an issuer-stated supply-security rationale. Serbian operating benefit and potential Russian shareholder-value preservation can coexist; neither an innocent rationale nor a possible value effect resolves the other. The September ownership snapshot is dated, and no current ownership, specific payment or improper motive is inferred.

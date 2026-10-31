@@ -1168,3 +1168,11 @@ See [Tmanch_CH7_Oct28_UK_Ukraine_Budget_Source_Note.md](Tmanch_CH7_Oct28_UK_Ukra
 
 - **UA1072-S001–003 / 069; UA1073-S001–002 / 070:** [October 29 decrees and original annexes](Tmanch_CH7_Oct29_Ukraine_Sanctions_Source_Note.md) establish 19 individual/10 entity and 39 vessel entries respectively, with October 30 publication context and scope/identity controls. No new conduct allegations adopted.
 - **DIANA-S001 / 071:** [NATO October 29 signing account](Tmanch_CH7_Oct29_DIANA_Ukraine_Source_Note.md) verifies reported institutional cooperation, not an acquired executed instrument or operational result.
+
+
+- **USD1-INC-S003 / CH7-UAE-USD1-002:** [Coinbase EEA-retail restricted-stablecoin policy](Tmanch_CH7_Oct20_Binance_USD1_Incentives_Source_Note.md#coinbase-eea-retail-october-30-cutoff-inspected-october-31), official rendered page inspected; publication date and actual conversion outcomes unacquired, raw HTML 403 stopped. Regional corporate context, not a new governmental action.
+
+
+- **OLESHKY-S036–043 / 043:** [October 30 departure/transit and October 31 Belarus-arrival participant accounts](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#october-31-participant-reported-belarus-arrival-final-ukraine-leg-still-prospective), not independently verified final Ukraine arrival, passenger count or inspected media.
+- **EUCAN-S001–002 / 072:** [October 30 finalized EU–Canada joint statement](Tmanch_CH7_Oct30_EU_Canada_Source_Note.md), parsed original text inspected; raw release/PDF 403 stops, no original-byte retention or PDF visual claim.
+- **NIS-S001–003 / 073:** [NIS specific-licence report and dated shareholder snapshot](Tmanch_CH7_Oct30_NIS_Specific_Licence_Source_Note.md), underlying instrument and current-register status unacquired; reported permission not payment.
