@@ -1176,3 +1176,9 @@ See [Tmanch_CH7_Oct28_UK_Ukraine_Budget_Source_Note.md](Tmanch_CH7_Oct28_UK_Ukra
 - **OLESHKY-S036–043 / 043:** [October 30 departure/transit and October 31 Belarus-arrival participant accounts](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#october-31-participant-reported-belarus-arrival-final-ukraine-leg-still-prospective), not independently verified final Ukraine arrival, passenger count or inspected media.
 - **EUCAN-S001–002 / 072:** [October 30 finalized EU–Canada joint statement](Tmanch_CH7_Oct30_EU_Canada_Source_Note.md), parsed original text inspected; raw release/PDF 403 stops, no original-byte retention or PDF visual claim.
 - **NIS-S001–003 / 073:** [NIS specific-licence report and dated shareholder snapshot](Tmanch_CH7_Oct30_NIS_Specific_Licence_Source_Note.md), underlying instrument and current-register status unacquired; reported permission not payment.
+
+
+- **OLESHKY-S044–046 / 043:** [Completed Chernihiv crossing](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#october-31-completed-arrival-in-ukrainian-controlled-chernihiv): AP retained original/three inspected images, Hromadske indexed original onsite journalism, and Zelenskyy original channel. Count and sustained-access limits preserved; Hromadske raw 403 stopped.
+- **PATRIOT-SALE-S001–002 / 074:** [Reported Patriot possible-sale authorization](Tmanch_CH7_Oct30_Patriot_Sale_Source_Note.md): Reuters full rendered syndication plus Ukrainian original acknowledgment. State notification locator unacquired after 403, not primary US-instrument verification. No duplicate PURL/JUMPSTART flow.
+
+- **OLESHKY-S047:** [Original Cabinet count clarification](https://www.kmu.gov.ua/en/news/uriad-utochniuie-ranishe-ozvuchenu-informatsiiu-shchodo-evakuatsii-liudei-z-oleshok), October 30: planned figure inaccurate and exact count then unavailable; no replacement completed total. Raw original retained.

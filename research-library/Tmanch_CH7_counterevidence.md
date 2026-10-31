@@ -626,3 +626,10 @@ The best current formulation is:
 **072:** the [final EU–Canada statement](Tmanch_CH7_Oct30_EU_Canada_Source_Note.md) is affirmative allied institutional commitment, not just a possible explanation, while implementation is still prospective. It does not independently replace dismantled US capacities or deliver interceptors.
 
 **073:** [NIS's licence account](Tmanch_CH7_Oct30_NIS_Specific_Licence_Source_Note.md) supports continuity relief and an issuer-stated supply-security rationale. Serbian operating benefit and potential Russian shareholder-value preservation can coexist; neither an innocent rationale nor a possible value effect resolves the other. The September ownership snapshot is dated, and no current ownership, specific payment or improper motive is inferred.
+
+
+## October 31 evening: realized humanitarian benefit and prospective defence support
+
+**043:** [Independent border reporting](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#october-31-completed-arrival-in-ukrainian-controlled-chernihiv) now supports arrival in Ukrainian-controlled Chernihiv, stronger than earlier participant transit accounts. Zelenskyy credits US/Melania mediation and Ukrainian security/implementation. Count this realized civilian outcome affirmatively, not as speculative Russian publicity offset; it does not establish every resident evacuated, universal consent, durable peace or an exclusive personal cause.
+
+**074:** [Reported Patriot authorization](Tmanch_CH7_Oct30_Patriot_Sale_Source_Note.md) is affirmative prospective defence support, including Ukrainian acknowledgment and allied-funded financing reporting. Existing winter-stock dependency remains unresolved by later production. Distinct implementation stages prevent both dismissing genuine support and treating it as already delivered. Neither finding erases documented financial, access or policy patterns elsewhere; new outcome evidence changes the cumulative balance at its supported scope.

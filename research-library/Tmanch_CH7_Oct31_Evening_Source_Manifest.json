@@ -1,0 +1,88 @@
+{
+  "reviewed_at": "2026-10-31 evening",
+  "baseline": "b265ff7eccf6a918d85117de2d4d263886749a38",
+  "artifacts": [
+    {
+      "source_ids": "OLESHKY-S044",
+      "url": "https://apnews.com/article/russia-ukraine-war-oleshky-evacuation-5cbc7d2a5b8ac34b15c914338fd5a9f3",
+      "kind": "raw original HTML",
+      "artifact": "ap.html",
+      "bytes": 1045738,
+      "sha256_of_retained_artifact": "d177d9ca09c3bca54c89a5ad719eaeb4cd9d638554e03e21e0c2b547be2ee32d"
+    },
+    {
+      "source_ids": "OLESHKY-S045",
+      "url": "https://hromadske.ua/en/rehiony/273515-residents-of-russian-occupied-oleshky-return-to-ukraine-after-weeklong-humanitarian-mission",
+      "kind": "retained tool-rendered original text, not raw HTML",
+      "artifact": "hromadske_rendered.json",
+      "bytes": 38071,
+      "sha256_of_retained_artifact": "94b6d11fe5541adfecd770e4f67435fcfb64135bd98a8802506cd5417310d963"
+    },
+    {
+      "source_ids": "OLESHKY-S046",
+      "url": "https://t.me/V_Zelenskiy_official/21583",
+      "kind": "retained tool-rendered original channel text, not raw HTML or video",
+      "artifact": "zelensky_rendered.json",
+      "bytes": 20286,
+      "sha256_of_retained_artifact": "44d3728cc7b3f3db729ab8f139a134ab1a6f034d88f8cb8e7247c1eaf929b70d"
+    },
+    {
+      "source_ids": "PATRIOT-SALE-S001\u2013002",
+      "url": "https://www.streetinsider.com/Reuters/US%2Bapproves%2B%242.1%2Bbillion%2BPatriot%2Bmissile%2Bsale%2Bto%2BUkraine/27265858.html; https://t.me/V_Zelenskiy_official/21573",
+      "kind": "researcher report of inspected rendered Reuters and original Ukrainian statement; not exact source archive",
+      "artifact": "REPORT.md",
+      "bytes": 6206,
+      "sha256_of_retained_artifact": "e69a915b4c6fa1eee570e3e054889076d009c1d9c00570463e83c26dcc4c4e49"
+    },
+    {
+      "source_ids": "OLESHKY-S044",
+      "kind": "AP photograph inspected locally; not republished",
+      "artifact": "ap_photo_0.jpg",
+      "bytes": 45027,
+      "sha256_of_retained_artifact": "357205b6bd1395cab8a3e9a4494651d93f3ec836d628143ab2a7990a2e9a3619"
+    },
+    {
+      "source_ids": "OLESHKY-S044",
+      "kind": "AP photograph inspected locally; not republished",
+      "artifact": "ap_photo_2.jpg",
+      "bytes": 87681,
+      "sha256_of_retained_artifact": "750f6877ddbeff6c26d3ec473f114b50c74e78187483926bf30fb41b70ceccc5"
+    },
+    {
+      "source_ids": "OLESHKY-S044",
+      "kind": "AP photograph inspected locally; not republished",
+      "artifact": "ap_photo_3.jpg",
+      "bytes": 30791,
+      "sha256_of_retained_artifact": "872a348c88c136c578b243d4e050ae9c58dd184b1181630efb317ffc29e0cdec"
+    },
+    {
+      "source_ids": "OLESHKY-S047",
+      "url": "https://www.kmu.gov.ua/en/news/uriad-utochniuie-ranishe-ozvuchenu-informatsiiu-shchodo-evakuatsii-liudei-z-oleshok",
+      "kind": "raw original Cabinet HTML",
+      "artifact": "cabinet_count_correction.html",
+      "bytes": 103487,
+      "sha256_of_retained_artifact": "10b08133675b94681c567b387e65cd1dbb4f4be0fd01bdc779bdb184b5cda27a"
+    }
+  ],
+  "limits": [
+    "Hashes establish retained artifact identity, not source assertions as independently true.",
+    "Rendered responses and researcher reports are not raw original sources.",
+    "AP images inspected for described scenes, not independently geolocated or counted.",
+    "No Telegram videos inspected; display times lack acquired absolute date/timezone.",
+    "US State notification not acquired; no statutory review clock, detailed MSE variant or completed delivery inferred."
+  ],
+  "blocked_routes": [
+    {
+      "url": "https://hromadske.ua/en/rehiony/273515-residents-of-russian-occupied-oleshky-return-to-ukraine-after-weeklong-humanitarian-mission",
+      "result": "HTTP 403; stopped, no protected-route retry"
+    },
+    {
+      "url": "https://www.state.gov/releases/bureau-of-political-military-affairs/2026/10/ukraine-patriot-advanced-capability-3-pac-3-missiles/",
+      "result": "HTTP 403; stopped, no protected-route retry"
+    },
+    {
+      "url": "https://www.streetinsider.com/Reuters/US%2Bapproves%2B%242.1%2Bbillion%2BPatriot%2Bmissile%2Bsale%2Bto%2BUkraine/27265858.html",
+      "result": "HTTP 403; stopped, no protected-route retry"
+    }
+  ]
+}
