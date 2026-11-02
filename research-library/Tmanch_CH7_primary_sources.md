@@ -1182,3 +1182,7 @@ See [Tmanch_CH7_Oct28_UK_Ukraine_Budget_Source_Note.md](Tmanch_CH7_Oct28_UK_Ukra
 - **PATRIOT-SALE-S001–002 / 074:** [Reported Patriot possible-sale authorization](Tmanch_CH7_Oct30_Patriot_Sale_Source_Note.md): Reuters full rendered syndication plus Ukrainian original acknowledgment. State notification locator unacquired after 403, not primary US-instrument verification. No duplicate PURL/JUMPSTART flow.
 
 - **OLESHKY-S047:** [Original Cabinet count clarification](https://www.kmu.gov.ua/en/news/uriad-utochniuie-ranishe-ozvuchenu-informatsiiu-shchodo-evakuatsii-liudei-z-oleshok), October 30: planned figure inaccurate and exact count then unavailable; no replacement completed total. Raw original retained.
+
+
+- **OLESHKY-S048–051 / 043:** [November 1 civilian relief and truce outcome](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#november-1-broader-civilian-relief-and-attributed-end-of-truce-results): indexed Kyiv Independent ground report; retained AP original; shared General Staff count through UP/Reuters; original Lubinets end-period testimony. Counts, source dependence, image and timing limits preserved.
+- **KSTOVO-S001–002 / existing 007/040 context only:** [Unnamed industrial damage and attributed gasoline restriction](Tmanch_CH7_Oct23_Diesel_Shipment_Source_Note.md#november-1-bounded-kstovo-context-no-new-us-action-or-output-finding). Original governor text and retained Kommersant reporting; operative regional rule unacquired. No refinery-output, diesel-export or US-price finding.

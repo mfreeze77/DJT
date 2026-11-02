@@ -1,0 +1,80 @@
+{
+  "reviewed_at": "2026-11-01 evening / 2026-11-02 UTC",
+  "baseline": "22278c03a364e69195717c0b4c8ce703bc506302",
+  "artifacts": [
+    {
+      "source_ids": "OLESHKY-S049",
+      "artifact": "kherson_civilian_relief_nov1/ap.html",
+      "kind": "raw original HTML",
+      "bytes": 1037989,
+      "sha256": "2cb5a149700f24c1987774489a1d3c18a1ff818cf538d248c00a8bf956f82627"
+    },
+    {
+      "source_ids": "OLESHKY-S048\u2013049",
+      "artifact": "kherson_civilian_relief_nov1/REPORT.md",
+      "kind": "researcher inspection report, not raw source",
+      "bytes": 5932,
+      "sha256": "7a2cda3ccedb046810e104045008f480c33287df4c9445358b8db9faa2adfee8"
+    },
+    {
+      "source_ids": "OLESHKY-S050",
+      "artifact": "kherson_truce_outcomes_nov1/pravda.html",
+      "kind": "raw original reporting HTML",
+      "bytes": 165700,
+      "sha256": "2c598199a6e3c41f0a338c611ecd4ac843df6eca0dfea93e02e65804eb1a5678"
+    },
+    {
+      "source_ids": "OLESHKY-S050",
+      "artifact": "kherson_truce_outcomes_nov1/reuters.html",
+      "kind": "raw Reuters syndication HTML",
+      "bytes": 925382,
+      "sha256": "4620474c6ad7a3abd8d763034fb9df4d42049d4fd72f41f01f32a2b8a8651f38"
+    },
+    {
+      "source_ids": "OLESHKY-S051",
+      "artifact": "kherson_truce_outcomes_nov1/REPORT.md",
+      "kind": "researcher inspection report, not raw Telegram",
+      "bytes": 6851,
+      "sha256": "bdb7f33ba20906309da7a58c66ba4cbf39c5e1158e73ffe088a57252da349781"
+    },
+    {
+      "source_ids": "KSTOVO-S002",
+      "artifact": "kstovo_fuel_nov1/kommersant.html",
+      "kind": "raw original reporting HTML",
+      "bytes": 310628,
+      "sha256": "f7cd3c217aa8206cb5ec9d7fc739064767ae89175306aaa4485eadf2959f3d68"
+    },
+    {
+      "source_ids": "KSTOVO-S001",
+      "artifact": "kstovo_fuel_nov1/REPORT.md",
+      "kind": "researcher inspection report, not raw Telegram",
+      "bytes": 5491,
+      "sha256": "c0b45f726d5a7bc16183f62c35533a617284d12337e96843649734b6239e613c"
+    }
+  ],
+  "limits": [
+    "Hashes identify retained artifacts, not independently true assertions.",
+    "Researcher inspection reports are not raw original source archives.",
+    "No General Staff original count/manifest acquired; UP and Reuters share one official source family.",
+    "Telegram text inspected; no video inspection or absolute expiry timezone established.",
+    "No regional operative fuel rule acquired; no output/export/US price finding."
+  ],
+  "blocked_routes": [
+    {
+      "url": "https://kyivindependent.com/life-simply-returned-oleshky-ceasefire-gives-kherson-short-respite-amid-years-of-russian-terror/",
+      "result": "raw HTTP403; indexed text inspected; stopped"
+    },
+    {
+      "url": "https://nobl.ru/",
+      "result": "HTTP403; stopped"
+    },
+    {
+      "url": "https://www.rbc.ru/rbcfreenews/6ae754dbb9b5dea64884cd1d?from=newsfeed",
+      "result": "HTTP401; stopped"
+    },
+    {
+      "url": "https://www.facebook.com/GeneralStaff.ua/posts/pfbid024H88GyUvTUUD67XuBFPSdUy3CADJR7v8yHsh4xQL8JnbtTpmjwD2xLGwGbXd6S18l",
+      "result": "original inaccessible; stopped; no count certification"
+    }
+  ]
+}
