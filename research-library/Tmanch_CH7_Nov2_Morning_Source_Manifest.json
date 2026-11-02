@@ -1,0 +1,60 @@
+{
+  "reviewed_at": "2026-11-02 14:00 UTC watch",
+  "baseline": "7da2ba07e5740708d884ae7b8bde94afd6598cb0",
+  "artifacts": [
+    {
+      "source_ids": "OLESHKY-S052",
+      "artifact": "kherson_counts_nov2/ap.html",
+      "kind": "raw original HTML",
+      "bytes": 1006154,
+      "sha256": "6e7b9662d7c0493cfbe1fd711c220ff3e551ed1db8a2ec9c4158a076f2dc5f3a"
+    },
+    {
+      "source_ids": "OLESHKY-S052",
+      "artifact": "kherson_counts_nov2/ap_metadata.json",
+      "kind": "metadata extracted from retained original",
+      "bytes": 3970,
+      "sha256": "31b54e10678d87ca7416e3047b488f668e0c911250bca2aac5d3964fca6c7ac7"
+    },
+    {
+      "source_ids": "OLESHKY-S052",
+      "artifact": "kherson_counts_nov2/ap_primary_image.jpg",
+      "kind": "AP original image inspected by source reviewer; shared S049 family",
+      "bytes": 280982,
+      "sha256": "cb34bd97ec1426b9d1f427ea3707fa74baee1c2424a0dd8b53d2953a7d2e7a83"
+    },
+    {
+      "source_ids": "OLESHKY-S053\u2013054",
+      "artifact": "nov2_policy_updates/REPORT.md",
+      "kind": "researcher rendered-source inspection report; not original archive",
+      "bytes": 7927,
+      "sha256": "8f5ce063cae6caf9d78e9a23b66706d238afe8e5a922b79fdbba1e19982c6fdf"
+    }
+  ],
+  "limits": [
+    "Hashes identify retained artifacts, not independently true assertions.",
+    "AP regional and team counts are attributed and nonadditive with existing 167; no Oleshky total or 13-person increment.",
+    "Briefing original rendered articles inspected by researcher; raw403 stops respected; report hash is not an original archive.",
+    "No full briefing recording, signed terms, audited manifest or implemented monthly mission acquired."
+  ],
+  "blocked_routes": [
+    {
+      "name": "uatv_repatriation",
+      "url": "https://uatv.ua/uk/v-mezhah-gumanitarnoyi-misiyi-v-oleshkah-buly-provedeni-repatriatsijni-zahody-detali-povidomyv-lubinets/",
+      "error": "HTTP Error 403: Forbidden",
+      "status": "stopped; no retry"
+    },
+    {
+      "name": "uatv_monthly",
+      "url": "https://uatv.ua/uk/gumanitarnu-dopomogu-zhytelyam-oleshkiv-planuyut-dostavlyaty-raz-na-misyats-lubinets/",
+      "error": "HTTP Error 403: Forbidden",
+      "status": "stopped; no retry"
+    },
+    {
+      "name": "telegraf_briefing",
+      "url": "https://news.telegraf.com.ua/ukr/obshhestvo/5954227-chomu-z-oleshok-ne-vsi-povernulisya-do-ukraini-lubinets-rozkriv-podrobitsi",
+      "error": "HTTP Error 403: Forbidden",
+      "status": "stopped; no retry"
+    }
+  ]
+}
