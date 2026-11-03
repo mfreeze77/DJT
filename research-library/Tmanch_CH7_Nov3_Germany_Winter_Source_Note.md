@@ -1,0 +1,19 @@
+# November 3: German winter-support intent and attributed existing deliveries
+
+**J20-2026-077 / CH7-GERMANY-WINTER-001.** Unscored allied context, not a new Trump action or financial-flow total.
+
+**GER-WINTER-S001:** The [German government's November 3 Merz–Zelenskyy press-conference transcript](https://www.bundesregierung.de/breg-de/aktuelles/pressekonferenzen/bundeskanzler-pk-selenskyj-berlin-2459660) records an intention to make additional winter and energy support possible in 2026, alongside assistance initiated during Merz's earlier Kyiv visit. Zelenskyy describes discussions of PAC-2, PAC-3 and IRIS-T support and a new F-16 support package. This establishes the statements and discussions, not a signed procurement, quantified package or completed delivery. The German transcript's foreign-language portions are based on simultaneous interpretation.
+
+In the later questions, Merz separately reports learning during the day's conversations of ongoing deliveries helpful to Ukraine, specifically F-16 ammunition, air-defence and other ammunition. This is affirmative attributed implementation evidence, not merely future intent; shipment dates, quantities, named receiving units and delivery receipts were not supplied. It does not establish that the newly discussed package has already arrived or that all current shortages are resolved.
+
+**GER-WINTER-S002:** The [Ukrainian presidency's November 3 meeting release](https://www.president.gov.ua/en/news/nimechchina-nadast-ukrayini-zimovij-paket-pidtrimki-volodimi-107125), displayed 18:36 without an acquired timezone, also describes winter support and further missile/F-16 assistance discussions. It identifies **November 19** as the planned Berlin Coalition of the Willing meeting. The two governments' accounts concern the same meeting; they are not independent verification of shipments or two separate aid commitments. No inspection of embedded photographs or video is claimed.
+
+**GER-WINTER-S003, dated budget context:** The [German Finance Ministry's July 6 government draft-budget release](https://www.bundesfinanzministerium.de/Content/DE/Pressemitteilungen/Finanzpolitik/2026/07/2026-07-06-regierungsentwurf-bundeshaushalt-2027.html) already stated **EUR 11.6 billion for Ukraine support in 2027**. That earlier draft amount is not a new November 3 allocation, a verified enacted appropriation, payment or additional package to sum with these talks. No new aid total is booked here.
+
+## Mechanism, joins and remaining limits
+
+**Affirmative US/allied benefit:** continued German support and prospective winter/air-defence capacity support Ukraine's resilience and European security. Merz's separately attributed existing-delivery account carries greater implementation weight than a plan, while remaining unquantified and unaudited. These allied actions do not establish Trump's direction, a negotiated policy exchange or cancellation of earlier documented harms. No direct Russian benefit or new Russian reception finding is established; possible private supplier revenue is not a proven receipt.
+
+The meeting's existing **FREYJA 035** discussion does not add a second program. The missiles discussed are not identified as the possible 500-PAC-3 sale in **074**, nor are they reconciled to **legacy J20-032 / PURL** quantities. The planned Coalition meeting is separate from **075 / Koalicja** training and conditional force activation. Do not add unquantified German support to UK/Dutch commitments or to the broader NATO support figure cited by Merz. No score, sum, procurement contract, payment or deployment is created from these joins.
+
+The [evening source manifest](Tmanch_CH7_Nov3_Evening_Source_Manifest.json) records retained original HTML and inspection limits. Needed next: package instruments, dates/quantities and receipt records, enacted budget documentation and the actual summit outcome. No outreach or records request was made.

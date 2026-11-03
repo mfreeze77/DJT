@@ -1199,3 +1199,11 @@ See [Tmanch_CH7_Oct28_UK_Ukraine_Budget_Source_Note.md](Tmanch_CH7_Oct28_UK_Ukra
 - **OLESHKY-S055–057 / existing 043:** [Post-arrival assistance and future White House engagement](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#november-2-post-arrival-support-reports-and-november-3-meeting-notice). Original ombudsman text supports attributed assistance coordination; November 3 White House HTML announces November 5 remarks. No audited service completion, new count or renewed truce.
 - **KOALICJA-S001–004 / 075 / CH7-KOALICJA-001:** [Exercise announcement and deployment limits](Tmanch_CH7_Nov3_Koalicja_Source_Note.md). Original UK announcements and Dutch parliamentary documents distinguish planned allied training from conditional future force activation. Prospective readiness benefit, no delivered force, Trump direction or new aid total.
 - **WB-DEL-S001–002 / 076 / CH7-WB-DELEGATION-001:** [October 28 authority delegation, published November 2](Tmanch_CH7_Oct28_Western_Balkans_Delegation_Source_Note.md). Signed Federal Register instrument and official Code scope; no named designation, waiver or relief outcome. National benefit remains uncertain.
+
+
+## November 3 evening observed prices and allied winter-support context
+
+- **EIA-DIESEL-S003 / existing CH7-DIESEL-PRICE-001 / 014/040 context:** [November 2 observations released November 3](Tmanch_CH7_Oct27_EIA_Diesel_Prices_Source_Note.md#november-3-release-november-2-national-and-regional-decreases). Retained original EIA table and reacquired methodology: national USD6.292/gallon, down USD0.060; all displayed regional/subregional estimates down. Favorable observed benchmark, not causal policy savings or a new cargo/financial flow.
+- **GER-WINTER-S001–003 / 077 / CH7-GERMANY-WINTER-001:** [Original German/Ukrainian winter-support statements and prior draft-budget context](Tmanch_CH7_Nov3_Germany_Winter_Source_Note.md). Planned new assistance and November19 summit remain distinct from Merz's attributed ongoing helpful deliveries. No quantities, independently verified receipts, Trump direction or new additive aid total.
+
+Original-source snapshot hashes and acquisition limits appear in the [evening manifest](Tmanch_CH7_Nov3_Evening_Source_Manifest.json).
