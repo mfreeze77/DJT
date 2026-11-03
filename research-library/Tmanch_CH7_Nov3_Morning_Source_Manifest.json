@@ -1,0 +1,142 @@
+{
+  "prepared_date": "2026-11-03",
+  "scope": "Existing043 post-arrival assistance/future meeting supplements, unscored contextual 075 allied exercise plan and unscored 076 presidential administrative delegation; no held allegations, financial flows or score changes",
+  "baseline_commit": "d6478de96f516aadf303aa6b91fc44afaffdc74b",
+  "sources": [
+    {
+      "source_ids": [
+        "OLESHKY-S055",
+        "OLESHKY-S056"
+      ],
+      "urls": [
+        "https://t.me/dmytro_lubinetzs/12981",
+        "https://t.me/dmytro_lubinetzs/12994",
+        "https://armyinform.com.ua/2026/11/02/dmytro-lubinecz-rozpoviv-pro-pidsumky-bezpreczedentnoyi-gumanitarnoyi-misiyi-v-oleshkah/"
+      ],
+      "source_family": "Ukrainian ombudsman participant statements; ArmyInform repeats briefing",
+      "inspection": "Full original-channel rendered text and exact permalink relationships; contemporaneous dated briefing report. No video or absolute post metadata inspection. Raw channel returned unavailable shell.",
+      "artifacts": [
+        {
+          "artifact": "lubinets-channel-full-rendered.txt",
+          "type": "tool_rendered_original_channel_text_not_raw_source_archive",
+          "bytes": 28553,
+          "sha256": "040a375dab9debf9cd16e3dc7e1b3d81026097f6048e3e06cbb73666a5dd9858",
+          "retention": "Private source retention; bytes not uploaded with this manifest"
+        }
+      ],
+      "date_limit": "November 2 briefing context; channel display times lack acquired timezone and absolute date metadata."
+    },
+    {
+      "source_ids": [
+        "OLESHKY-S057"
+      ],
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-to-convene-russian-and-ukrainian-representatives-at-the-white-house/",
+      "inspection": "Full original announcement; November 3 publication and prospective November 5 remarks. No completed meeting.",
+      "artifacts": [
+        {
+          "artifact": "whitehouse-nov5-meeting.html",
+          "type": "original_HTML",
+          "bytes": 265944,
+          "sha256": "cd864d90ae20b39df10626c7c9b52f453e59b2596d8d820de985acb75c0ab312",
+          "retention": "Private source retention; bytes not uploaded with this manifest"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "KOALICJA-S001"
+      ],
+      "url": "https://www.gov.uk/government/news/uk-to-lead-multinational-military-training-exercise-to-prepare-for-peace-in-ukraine--2",
+      "inspection": "Full original UK release; planned exercise and non-additive personnel.",
+      "artifacts": [
+        {
+          "artifact": "uk-koalicja-release.html",
+          "type": "original_HTML",
+          "bytes": 76093,
+          "sha256": "e4f8cdd587b71e45e3818bf34dbcdf2a8c61679f6b38d3077041afa00572c6f6",
+          "retention": "Private source retention; bytes not uploaded with this manifest"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "KOALICJA-S002"
+      ],
+      "url": "https://www.gov.uk/guidance/the-multinational-force-ukraine",
+      "inspection": "Full original guidance; NATO/role distinctions and deployment conditions.",
+      "artifacts": [
+        {
+          "artifact": "uk-mnfu-guidance.html",
+          "type": "original_HTML",
+          "bytes": 70730,
+          "sha256": "a9604c0e5c38c68146abe5baa0e9c696605f5afc0ad15af2fe348702e6ced990",
+          "retention": "Private source retention; bytes not uploaded with this manifest"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "KOALICJA-S003"
+      ],
+      "url": "https://www.tweedekamer.nl/downloads/document?id=2026D54950",
+      "inspection": "Original text and rendered document inspected by source reviewer; November 3 date/reference and political-decision qualification.",
+      "artifacts": [
+        {
+          "artifact": "dutch-koalicja.docx",
+          "type": "original_DOCX",
+          "bytes": 137825,
+          "sha256": "75e1258c81d4a948bfc87e174cb9e1c4fa82a36dc870a3976073235af506ded2",
+          "retention": "Private source retention; bytes not uploaded with this manifest"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "KOALICJA-S004"
+      ],
+      "url": "https://www.tweedekamer.nl/downloads/document?id=2026D54951",
+      "inspection": "Both pages text-inspected and visually reviewed by source reviewer; publisher additionally inspected page1 date/reference, activation and cost qualification.",
+      "artifacts": [
+        {
+          "artifact": "dutch-koalicja-decision.pdf",
+          "type": "original_PDF",
+          "bytes": 164196,
+          "sha256": "4f8b3b78b463c21e69350458026aac056fca58a4a4344f803cd6d240750ae66a",
+          "retention": "Private source retention; bytes not uploaded with this manifest"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "WB-DEL-S001"
+      ],
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-11-02/pdf/2026-22386.pdf",
+      "inspection": "Both pages text-inspected and visually reviewed, including signature, date, pages and filing notation.",
+      "artifacts": [
+        {
+          "artifact": "western-balkans-memo.pdf",
+          "type": "original_Federal_Register_PDF",
+          "bytes": 190224,
+          "sha256": "743c8d6767cbb52ff9afbf63dd96d5334b44659b9484c677817dc01aaa2dc978",
+          "retention": "Private source retention; bytes not uploaded with this manifest"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "WB-DEL-S002"
+      ],
+      "url": "https://uscode.house.gov/us/usc/119-120/t22/s10704/",
+      "inspection": "Original section 10704 inspected for delegated function mapping and conditional waiver/termination scope; no implementation inference.",
+      "artifacts": [
+        {
+          "artifact": "western-balkans-code.html",
+          "type": "original_official_Code_HTML",
+          "bytes": 20313,
+          "sha256": "b0012f5ec8b8c2bd40840b0c32a4fa25e7b41631b6c95be0a113a1ed8f7b0f67",
+          "retention": "Private source retention; bytes not uploaded with this manifest"
+        }
+      ]
+    }
+  ]
+}
