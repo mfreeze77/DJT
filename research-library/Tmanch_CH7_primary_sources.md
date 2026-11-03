@@ -1189,3 +1189,8 @@ See [Tmanch_CH7_Oct28_UK_Ukraine_Budget_Source_Note.md](Tmanch_CH7_Oct28_UK_Ukra
 
 
 - **OLESHKY-S052–054 / existing 043:** [November 2 throughput and briefing accounts](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#november-2-attributed-civilian-throughput-and-continuing-humanitarian-arrangements). Retained AP original ground reporting and attributed regional/team counts; rendered original UATV/FREEDOM and Telegraf briefing reports, one participant statement family. Nondisclosure and monthly-delivery terms unacquired; raw briefing article requests 403 stopped. No recurring implementation or reconciled total.
+
+
+- **TAE-S40 / TAE-REF01 / existing065 context:** [November 2 prospective refinancing disclosure](Tmanch_CH7_Oct19_TAE_Financing_Source_Note.md#november-2-amendment-prospective-refinancing-disclosure-not-a-new-cash-flow). Retained SEC Amendment2 compared with S39; existing S21 contract distinguishes holder exercise and consummation. No new loan or payment.
+- **PATRIOT-SALE-S003 / existing007/074:** [November 1 Ukrainian counterproposal](Tmanch_CH7_Oct30_Patriot_Sale_Source_Note.md#november-1-interview-ukrainian-defensive-counterproposal). Original Fox publisher captions, not independent audiovisual verification; conditional reciprocity/paid-delivery alternatives, no accepted bargain.
+- **KSE-OIL-S001 / existing040 context:** [September export-revenue estimate published November 2](Tmanch_CH7_Oct23_Diesel_Shipment_Source_Note.md#november-2-publication-september-export-revenue-context). Original indexed KSE release; raw403 stopped, underlying tracker unacquired. Price-driven crude/product macro context, not October-policy causation or another cargo flow.

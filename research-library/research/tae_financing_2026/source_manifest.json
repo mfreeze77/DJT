@@ -901,6 +901,28 @@
         }
       ],
       "source_quality": "Issuer-reported funding, not independently inspected bank payment. Repeated presentations are one source family and one advance."
+    },
+    {
+      "source_id": "TAE-S40",
+      "title": "TMTG November 2 S4A Amendment No.2",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000143774926034438/djt20261029_s4a.htm",
+      "document_date": "2026-11-02",
+      "accepted_utc": "2026-11-02T21:06:47Z",
+      "source_family": "issuer_filing_hosted_by_SEC",
+      "locator": "Printed p.38/#risk, compared with TAE-S39 p.38; p.276/#agreements repeats TAE-T20",
+      "inspection_date": "2026-11-03",
+      "inspection_mode": "preserved_SEC_HTML_and_prior_filing_comparison",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "s4_nov2.html",
+          "artifact_type": "preserved_SEC_HTML",
+          "bytes": 9294401,
+          "sha256": "aeb694fd2449b2989c2b855d2e0e08c2cdfe47e8a92f76fda949e7d4e267c0bf",
+          "hash_scope": "Exact retained original, not uploaded"
+        }
+      ],
+      "source_quality": "Issuer prospective risk disclosure, not financing agreement, election, payment or independent bank confirmation."
     }
   ],
   "revision_history": [
@@ -936,6 +958,10 @@
         "accepted_utc": "2026-10-29T10:07:51Z",
         "accession": "0001437749-26-033844"
       }
+    },
+    {
+      "date": "2026-11-03",
+      "description": "Append TAE-S40 and TAE-REF01 for November 2 prospective refinancing disclosure; original transaction rows and prior records unchanged."
     }
   ],
   "derived_calculations": {
