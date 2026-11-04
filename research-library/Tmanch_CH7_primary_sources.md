@@ -1207,3 +1207,12 @@ See [Tmanch_CH7_Oct28_UK_Ukraine_Budget_Source_Note.md](Tmanch_CH7_Oct28_UK_Ukra
 - **GER-WINTER-S001–003 / 077 / CH7-GERMANY-WINTER-001:** [Original German/Ukrainian winter-support statements and prior draft-budget context](Tmanch_CH7_Nov3_Germany_Winter_Source_Note.md). Planned new assistance and November19 summit remain distinct from Merz's attributed ongoing helpful deliveries. No quantities, independently verified receipts, Trump direction or new additive aid total.
 
 Original-source snapshot hashes and acquisition limits appear in the [evening manifest](Tmanch_CH7_Nov3_Evening_Source_Manifest.json).
+
+
+## November 4 acquisition: humanitarian recognition and allied implementation
+
+- **OLESHKY-S058–059 / existing 043:** [November 2 formal Ukrainian award decrees](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#november-2-ukrainian-award-decrees-acquired-november-4). Completed recognition of broader humanitarian contributions, not an independent Oleshky outcome audit or a new mission.
+- **GER-WINTER-S004 / existing 077:** [November 4 existing PAC-2 contract and acceleration discussions](Tmanch_CH7_Nov3_Germany_Winter_Source_Note.md#november-4-ukrainian-account-existing-pac-2-contract-and-acceleration-discussions). Ukrainian originals report an existing contract and agreement to explore earlier supply; no contract document, expedited schedule, delivery or join to 074's PAC-3 possible sale.
+- **LV-RESPONSE-S001 / 078 / CH7-LATVIA-RESPONSE-001:** [November 1/3 Latvian response](Tmanch_CH7_Nov3_Latvia_Response_Source_Note.md). NBS-authored official republication supports reported interceptor use and allied fighter activation, not verified shootdown, origin attribution or Trump causation. Original-host retrieval failed; original republication HTML retained.
+
+Acquisition and source-family limits appear in the [November 4 manifest](Tmanch_CH7_Nov4_Morning_Source_Manifest.json).
