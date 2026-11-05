@@ -1224,3 +1224,12 @@ Acquisition and source-family limits appear in the [November 4 manifest](Tmanch_
 - **IRAN-NOV4-S001–002 / 081 / CH7-IRAN-NOV4-DESIGNATIONS-001:** [November 4 sanctions additions](Tmanch_CH7_Nov4_Iran_Designations_Source_Note.md). Original OFAC five-individual/ten-entity additions are separated from two existing entries' additional program tags and administrative wording edits; Treasury explanation has a narrower fourteen-entry scope. Legal action, not adjudicated underlying conduct or measured disruption.
 
 Original/source-reproduction hashes and acquisition limits are in the [evening manifest](Tmanch_CH7_Nov4_Evening_Source_Manifest.json). No financial total, score or held allegation is added.
+
+
+## November 5 morning: staged restrictions, annual authority and preparatory permission
+
+- **CH-SAN-S001–004 / 082 / CH7-SWISS-NOV4-001:** [Swiss Russia/Belarus measures](Tmanch_CH7_Nov4_Swiss_Sanctions_Source_Note.md). Official adoption and operative sectoral text retain selective alignment, exemptions and staggered commencement; no whole-list independent audit or measured trade effect.
+- **IRAN-12170-S001 and S001-PI / 083 / CH7-IRAN-EMERGENCY-2026-001:** [Annual 1979 Iran-emergency continuation](Tmanch_CH7_Nov3_Iran_Emergency_Source_Note.md). Original signed notice, November 3 decision and November 5 publication; distinct from EO 12957 and new designations. Same-notice versions are one source family.
+- **MOL-NIS-S001 / 084 / CH7-MOL-NIS-PREP-001:** [MOL issuer-reported preparatory permission](Tmanch_CH7_Nov5_MOL_NIS_Preparatory_Source_Note.md). Underlying licence unacquired, closing expressly excluded, securities unidentified and actual transactions unverified. Separate from 073 operating permission and its deadline; necessary matrix companion, no cash-flow row.
+
+See the [November 5 morning manifest](Tmanch_CH7_Nov5_Morning_Source_Manifest.json) for original and derived artifacts, source families and acquisition limits. Existing records, scores and correction history remain intact.
