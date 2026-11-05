@@ -1216,3 +1216,11 @@ Original-source snapshot hashes and acquisition limits appear in the [evening ma
 - **LV-RESPONSE-S001 / 078 / CH7-LATVIA-RESPONSE-001:** [November 1/3 Latvian response](Tmanch_CH7_Nov3_Latvia_Response_Source_Note.md). NBS-authored official republication supports reported interceptor use and allied fighter activation, not verified shootdown, origin attribution or Trump causation. Original-host retrieval failed; original republication HTML retained.
 
 Acquisition and source-family limits appear in the [November 4 manifest](Tmanch_CH7_Nov4_Morning_Source_Manifest.json).
+
+
+## November 4 evening: diplomatic coordination and institutional restrictions
+
+- **NOV4-DIP-S001–003 / 079 / CH7-BRUSSELS-RECOVERY-001; 080 / CH7-NOV4-ENVOY-CALL-001:** [Brussels consultations and the separate envoy call](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md). Original Ukrainian readouts and Commission-authored reproduction establish process, not funding, arms delivery or an agreed settlement. Future Brussels security talks and Abu Dhabi preparations remain distinct; generic Patriot needs are not joined to 074 or 077 procurement.
+- **IRAN-NOV4-S001–002 / 081 / CH7-IRAN-NOV4-DESIGNATIONS-001:** [November 4 sanctions additions](Tmanch_CH7_Nov4_Iran_Designations_Source_Note.md). Original OFAC five-individual/ten-entity additions are separated from two existing entries' additional program tags and administrative wording edits; Treasury explanation has a narrower fourteen-entry scope. Legal action, not adjudicated underlying conduct or measured disruption.
+
+Original/source-reproduction hashes and acquisition limits are in the [evening manifest](Tmanch_CH7_Nov4_Evening_Source_Manifest.json). No financial total, score or held allegation is added.
