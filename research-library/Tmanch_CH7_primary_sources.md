@@ -1256,3 +1256,14 @@ The [evening source manifest](Tmanch_CH7_Nov5_Evening_Source_Manifest.json) sepa
 - **USD1-BUYBACK-S001 / CH7-UAE-USD1-002:** [Prospective WLFI buybacks](Tmanch_CH7_Nov6_WLFI_Buyback_Source_Note.md), original issuer post timestamp November 6 01:30:22 UTC. Possible reserve fees, not principal; distinct from Binance rewards. No amount, executed purchase, burn or personal receipt established.
 
 The [November 6 morning manifest](Tmanch_CH7_Nov6_Morning_Source_Manifest.json) distinguishes retained originals, rendered-document inspection, derived researcher records and unacquired media. Prior source/claim history and scores remain intact; no new event or cash-flow total.
+
+
+## November 6 evening: personnel transition and implemented legal actions
+
+- **089 / CH7-MILLER-CHIEF-001 / CHIEF-NOV6-S001–002:** [Announced chief-of-staff transition](Tmanch_CH7_Nov6_Chief_Transition_Source_Note.md). Miller's November 9 start remains prospective; Wiles's political-operation move does not resolve the separate 047/055 oversight requests or establish obstruction, policy change or financial benefit.
+
+- **090 / CH7-OFAC-NOV6-ACTION-001 / OFAC-NOV6-S001–002:** [November 6 OFAC designations](Tmanch_CH7_Nov6_OFAC_Action_Source_Note.md). Eight new entities under EO 13902; implemented list action, no measured freeze or disruption value, conduct adjudication or personally directed presidential action.
+
+- **079/080 / BRUSSELS-NOV6-S003–005:** [November 6 NB8 follow-up](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-6-nb8-follow-up-completed-coordination-prospective-outcomes). Distinct Ukrainian and Estonian accounts corroborate a held video call; conveyed proposals, future formats and winter-support needs are preparation, not accepted guarantees or delivery. Earlier dates, participants, requested enforcement answers and funding gaps remain preserved.
+
+The [evening source manifest](Tmanch_CH7_Nov6_Evening_Source_Manifest.json) distinguishes primary text, source acquisition and outcome limits. Existing scores, correction history and financial totals are unchanged.
