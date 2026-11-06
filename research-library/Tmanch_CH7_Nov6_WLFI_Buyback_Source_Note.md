@@ -1,0 +1,13 @@
+# November 6 WLFI buyback-program announcement
+
+**USD1-BUYBACK-S001**, contextual to **CH7-UAE-USD1-002**, records a distinct corporate announcement, not an extension of Binance's reward pool or a new presidential action.
+
+The [original World Liberty Financial post](https://x.com/worldlibertyfi/status/2118516306077008305) announces a WLFI-token buyback program. The [official issuer site](https://worldlibertyfinancial.com/) identifies that account in its sameAs structured metadata. The retained post's embedded timestamp, 1793928622000 milliseconds, corresponds to **November 6, 2026 at 01:30:22 UTC**; the visible display says 1:30 a.m., November 6 without an explicit timezone. The full post body, not only truncated metadata, was inspected. Profile and exact-post versions are one issuer source family.
+
+The company says an initial allocation **may include fees earned from USD1 reserves and other sources**. It intends to evaluate pace and scale over time, with stated objectives of encouraging governance participation and consolidating voting power among committed long-term holders. Those are prospective issuer objectives, not measured governance or market outcomes.
+
+No amount, token quantity, start date, executed purchase, source split, wallet or burn commitment is disclosed in the inspected statement. It does not establish use of reserve **principal**, completed distributions, actual family receipts, a new MGX transaction or realized token-value appreciation. Disposal or retention of acquired tokens is not established. Binance's existing 120-million-WLFI campaign and up-to-2.5-million-USD1 pool remain in the [separate incentives note](Tmanch_CH7_Oct20_Binance_USD1_Incentives_Source_Note.md); a repeated promotion is not another pool.
+
+**Conditional mechanism and beneficiaries:** use of reserve-related fees could connect USD1 revenue to WLFI demand and governance economics if the program is funded and executed. Prospective private interests include issuer ecosystem support and participating or continuing token holders; this is an analytical mechanism, not a quantified gain. National benefit, Russian benefit, actual family receipt, official favor or policy exchange remains unestablished. No new cash-flow row, historical personal-receipt total or benefit score is appropriate.
+
+Full original post HTML, issuer profile and official-site account metadata were inspected and retained. No embedded media inspection is claimed. [Source manifest](Tmanch_CH7_Nov6_Morning_Source_Manifest.json). Required next records: actual allocation, funding source split, executed purchases, verified wallets and token disposition, beneficial recipients and measured governance/market effects.

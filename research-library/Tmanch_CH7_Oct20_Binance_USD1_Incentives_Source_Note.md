@@ -43,3 +43,8 @@ No publication/update date or cutoff timezone was acquired. October 30 is the st
 The full official page was inspected through web-rendered text before a subsequent raw-HTML retrieval returned HTTP 403 and was stopped. No raw-source archive or raw hash is claimed; retained research evidence and limits are in the [October 31 manifest](Tmanch_CH7_Oct31_Morning_Source_Manifest.json). This source cannot establish any particular user's exposure.
 
 **Existing joins:** CH7-UAE-USD1-002 / USD1-INC-S001–002, with contextual CH7-UAE-USD1-001 / CH7-PAY-UAE-002 and no change to settlement totals. This supplies concrete distribution constraint alongside the successive Binance commercial promotion, qualifying an account of uninterrupted global USD1 expansion. Prospective private effects include a narrower USD1 channel for this customer class, supported-balance concentration into eligible assets such as USDC, and Coinbase's compliance continuity. **National benefit is uncertain**; no measured reserve-income loss, family loss or Russian benefit follows. No new presidential event, paid flow or scored effect is added.
+
+
+## November 6: separate issuer buyback announcement
+
+**USD1-BUYBACK-S001** is recorded in the [WLFI buyback source note](Tmanch_CH7_Nov6_WLFI_Buyback_Source_Note.md). The issuer's prospective buybacks may use USD1 reserve fees and other sources; no amount or execution is established. This is distinct from Binance incentives, not another reward pool, a completed family distribution, reserve-principal use or a new governmental action. Existing campaign dates, caps and historical qualifications remain unchanged. The contextual **CH7-UAE-USD1-002** supplement carries no new cash-flow total or score.

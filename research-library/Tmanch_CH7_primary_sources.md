@@ -1246,3 +1246,13 @@ See the [November 5 morning manifest](Tmanch_CH7_Nov5_Morning_Source_Manifest.js
 - **065 / CH7-TAE-DRAW-001 / TAE-S41 / TAE-MERGER01:** [Issuer-reported registration effectiveness](Tmanch_CH7_Oct19_TAE_Financing_Source_Note.md) and [typed noncash process companion](research/tae_financing_2026/merger_process_observations.json). Separate EFFECT/proxy unacquired, vote/mail/closing future; TAE-T20 and refinancing observations unchanged.
 
 The [evening source manifest](Tmanch_CH7_Nov5_Evening_Source_Manifest.json) separates original bytes, derived text and access limitations. Existing scores, source history and corrections remain preserved; no new personal-receipt or Russian-linked cash total.
+
+
+## November 6 morning: prospective humanitarian and security work, corporate source upgrades
+
+- **OLESHKY-S063 / 043 / CH7-OLESHKY-STATUS-001:** [Proposed expansion](Tmanch_CH7_Oct23_Oleshky_Source_Note.md), original TSN interview excerpt; counterparts' answers and actual presentation unknown, no new operation or count. Retained as derived inspection record, not raw source archive.
+- **BRUSSELS-NOV6-S001–002 / 079/080:** [Requested written enforcement answers and prospective November 10–11 UAE dates](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md), official-channel text and dated original Ukrinform reporting from one interview family. No new call, accepted guarantee or completed future meeting.
+- **TAE-S42/S43 / 065 / CH7-TAE-DRAW-001:** [Separate definitive prospectus and SEC effectiveness notice](Tmanch_CH7_Oct19_TAE_Financing_Source_Note.md), with [TAE-MERGER01 acquisition history and time conflict](research/tae_financing_2026/merger_process_observations.json). November 5 effectiveness and distinct filing/acceptance dates documented; December 14 10:00 Eastern versus prior 09:15 ET unresolved. No new draw, completed closing or advisory payment.
+- **USD1-BUYBACK-S001 / CH7-UAE-USD1-002:** [Prospective WLFI buybacks](Tmanch_CH7_Nov6_WLFI_Buyback_Source_Note.md), original issuer post timestamp November 6 01:30:22 UTC. Possible reserve fees, not principal; distinct from Binance rewards. No amount, executed purchase, burn or personal receipt established.
+
+The [November 6 morning manifest](Tmanch_CH7_Nov6_Morning_Source_Manifest.json) distinguishes retained originals, rendered-document inspection, derived researcher records and unacquired media. Prior source/claim history and scores remain intact; no new event or cash-flow total.
