@@ -1,0 +1,66 @@
+{
+  "scope": "Separate noncash merger-process observations; issuer-reported procedural milestone and prospective timetable, not monetary transactions or completed merger",
+  "review_date": "2026-11-06",
+  "observations": [
+    {
+      "observation_id": "TAE-MERGER01",
+      "type": "issuer_reported_registration_effectiveness_and_scheduled_merger_process",
+      "disclosure_date": "2026-11-05",
+      "issuer": "Trump Media & Technology Group Corp. and TAE Technologies, Inc.",
+      "sources": [
+        "TAE-S41"
+      ],
+      "locators": [
+        "Form 425 headline and opening four substantive paragraphs"
+      ],
+      "registration_effectiveness": {
+        "status": "reported_completed_by_issuer",
+        "reported_effective_date": "2026-11-05",
+        "separate_SEC_EFFECT_document_acquired": false
+      },
+      "definitive_proxy_prospectus": {
+        "status": "reported_filed_by_issuer",
+        "reported_filing_date": "2026-11-05",
+        "separate_document_acquired": false
+      },
+      "stockholder_meeting": {
+        "status": "scheduled_not_held",
+        "date": "2026-12-14",
+        "time": "09:15",
+        "timezone_as_stated": "ET",
+        "record_date": "2026-11-02",
+        "record_date_qualifier": "close of business"
+      },
+      "mailing": {
+        "status": "expected_not_verified",
+        "date_as_stated": "on or about November 6, 2026"
+      },
+      "TAE_stockholder_approval": {
+        "method_as_stated": "written consent",
+        "status": "prospective_not_verified"
+      },
+      "merger_closing": {
+        "status": "expected_not_completed",
+        "timing_as_stated": "by year-end 2026",
+        "conditions": "Required TMTG shareholder and TAE stockholder approvals and satisfaction or waiver of other applicable closing conditions"
+      },
+      "actual_new_advance_usd": null,
+      "actual_new_loan_usd": null,
+      "actual_asset_sale_usd": null,
+      "merger_closing_established": false,
+      "payment_established": false,
+      "advisory_share_issuance_established": false,
+      "historical_receipt_total_eligible": false,
+      "tae_funding_trace_established": false,
+      "national_benefit": "uncertain",
+      "joins": [
+        "J20-2026-065",
+        "CH7-TAE-DRAW-001",
+        "TAE-T20",
+        "TAE-REF01"
+      ],
+      "limits": "SEC-hosted issuer announcement, not independent EFFECT/definitive prospectus verification. Expected ownership is prospective. No shareholder approval, completed mailing, merger closing, financing, collateral release, digital-asset sale, family receipt or policy bargain established."
+    }
+  ],
+  "no_cash_flow_total": true
+}

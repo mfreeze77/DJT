@@ -923,6 +923,35 @@
         }
       ],
       "source_quality": "Issuer prospective risk disclosure, not financing agreement, election, payment or independent bank confirmation."
+    },
+    {
+      "source_id": "TAE-S41",
+      "title": "TMTG and TAE November 5 merger-registration effectiveness announcement, Form 425",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000143774926035284/djt20261105_425.htm",
+      "document_date": "2026-11-05",
+      "accepted_utc": "2026-11-05T21:16:51.000Z",
+      "source_family": "issuer_filing_hosted_by_SEC",
+      "locator": "Headline and opening four substantive paragraphs; Additional Information and Forward-Looking Statements",
+      "inspection_date": "2026-11-06",
+      "inspection_mode": "preserved_SEC_HTML_and_current_issuer_submission_feed",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "tmtg425_nov5.html",
+          "artifact_type": "preserved_SEC_HTML",
+          "bytes": 15451,
+          "sha256": "469615c9cb0b254e4541cd1e1591909b16b371b622f8d1201ba8a1c1df91ec0e",
+          "hash_scope": "Exact retained original, not uploaded"
+        },
+        {
+          "artifact_name": "tmtg_submissions_nov6.json",
+          "artifact_type": "preserved_SEC_issuer_submission_feed",
+          "bytes": 116077,
+          "sha256": "c50f8e3259704d5d795596ebf74feb51536d360805fa3865147304ca520dd8a3",
+          "hash_scope": "Exact retained original, not uploaded"
+        }
+      ],
+      "source_quality": "Issuer announcement reports SEC effectiveness and definitive filing. Separate EFFECT/proxy documents not acquired. Scheduled vote, mailing and closing remain prospective; no financing, sale, closing or payment established."
     }
   ],
   "revision_history": [
@@ -962,6 +991,10 @@
     {
       "date": "2026-11-03",
       "description": "Append TAE-S40 and TAE-REF01 for November 2 prospective refinancing disclosure; original transaction rows and prior records unchanged."
+    },
+    {
+      "date": "2026-11-06",
+      "description": "Append TAE-S41 and TAE-MERGER01 for November 5 issuer-reported registration effectiveness and scheduled merger process. Existing transaction rows, refinancing observations and prior history unchanged."
     }
   ],
   "derived_calculations": {

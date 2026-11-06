@@ -1233,3 +1233,16 @@ Original/source-reproduction hashes and acquisition limits are in the [evening m
 - **MOL-NIS-S001 / 084 / CH7-MOL-NIS-PREP-001:** [MOL issuer-reported preparatory permission](Tmanch_CH7_Nov5_MOL_NIS_Preparatory_Source_Note.md). Underlying licence unacquired, closing expressly excluded, securities unidentified and actual transactions unverified. Separate from 073 operating permission and its deadline; necessary matrix companion, no cash-flow row.
 
 See the [November 5 morning manifest](Tmanch_CH7_Nov5_Morning_Source_Manifest.json) for original and derived artifacts, source families and acquisition limits. Existing records, scores and correction history remain intact.
+
+
+## November 5 evening: financing implementation, diplomacy and legal continuity
+
+- **085 / CH7-EU-NOV5-DISBURSEMENT-001 / EU-NOV5-S001:** [EU loan payment](Tmanch_CH7_Nov5_EU_Disbursement_Source_Note.md), original Commission reported €3.7bn MFA plus €658m defence, €4.36bn rounded. Separate from October 14 event 017; no cumulative-envelope addition or claimed equipment delivery.
+- **086 / CH7-SPAIN-NOV5-SUPPORT-001 / SPAIN-NOV5-S001–003:** [Spanish package announcement](Tmanch_CH7_Nov5_Spain_Support_Source_Note.md), original Ukrainian participant report of €437m; Spanish locator is only a placeholder, annual/PURL/SAFE overlap and implementation unresolved.
+- **087 / CH7-OFAC-NOV5-ACTION-001 / OFAC-NOV5-S001–002:** [OFAC additions and Cuban-sector basis](Tmanch_CH7_Nov5_OFAC_Action_Source_Note.md), seven individuals, 47 entities and two vessels new; five existing-entry updates separated. No new conduct allegation or measured enforcement result.
+- **088 / CH7-CHINA-SECURITIES-EMERGENCY-001 / CHINA-13959-S001:** [Annual securities-investment emergency](Tmanch_CH7_Nov3_China_Emergency_Source_Note.md), signed November 3 and published November 5; authority continuity, no new target or flow.
+- **043 / CH7-OLESHKY-STATUS-001 / OLESHKY-S060–062:** [Completed recognition and reported presidential access](Tmanch_CH7_Oct23_Oleshky_Source_Note.md). Original AP, original Ukrainian address and separately limited pool inspection record. Nearly 800 attributed, not destination manifest; no new evacuation, bargain or motive; primary-date/reporting discrepancy preserved.
+- **079/080 / BRUSSELS-NOV5-S001–003 / ENVOY-NOV5-S001:** [November 5 diplomacy follow-up](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md), held security talks without disclosed terms; Costa readout refers to same November 4 call. Attendance and funding stages remain separate.
+- **065 / CH7-TAE-DRAW-001 / TAE-S41 / TAE-MERGER01:** [Issuer-reported registration effectiveness](Tmanch_CH7_Oct19_TAE_Financing_Source_Note.md) and [typed noncash process companion](research/tae_financing_2026/merger_process_observations.json). Separate EFFECT/proxy unacquired, vote/mail/closing future; TAE-T20 and refinancing observations unchanged.
+
+The [evening source manifest](Tmanch_CH7_Nov5_Evening_Source_Manifest.json) separates original bytes, derived text and access limitations. Existing scores, source history and corrections remain preserved; no new personal-receipt or Russian-linked cash total.

@@ -1,0 +1,304 @@
+{
+  "prepared_at_utc": "2026-11-06T00:16:46.385429+00:00",
+  "baseline_commit": "5772ecd3865519c3278e71cc7db6a480a8e0f23e",
+  "scope": "Four unscored additions 085–088; bounded supplements 043/065/079/080; separate noncash merger-process observation. No new personal receipt, conduct allegation, score or historical aggregate. Source dates and later verification acquisition dates distinguished.",
+  "sources": [
+    {
+      "source_ids": [
+        "EU-NOV5-S001"
+      ],
+      "urls": [
+        "https://enlargement.ec.europa.eu/news/commission-disburses-eur436-billion-ukraine-under-eur90-billion-ukraine-support-loan-2026-11-05_en?prefLang=lv"
+      ],
+      "inspection": "Full original text inspected. Metadata publication 2026-11-05T12:04:53+01:00, modification 12:17:24+01:00; components reconcile headline rounding. Initial opening unavailable, indexed text and direct HTTP 200 succeeded, not a denied-action bypass.",
+      "retention_checkpoint": "2026-11-06",
+      "artifacts": [
+        {
+          "artifact": "eu_nov5.html",
+          "type": "original HTTP 200 HTML",
+          "bytes": 112308,
+          "sha256": "8c0057bd4cc5c8e7a6315cca3546b13568d1c3d45df4e4b919969646cd14c955",
+          "retention": "Source bytes retained separately; not uploaded"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "SPAIN-NOV5-S001"
+      ],
+      "urls": [
+        "https://www.president.gov.ua/en/news/ispaniya-nadaye-ukrayini-novij-paket-vijskovoyi-dopomogi-na-107181"
+      ],
+      "inspection": "Original participant-government announcement; display November 5 22:50 timezone unstated; not amount corroboration by Spain, paid flow or delivery. Embedded media not inspected.",
+      "retention_checkpoint": "2026-11-06",
+      "artifacts": [
+        {
+          "artifact": "spain_presidency.html",
+          "type": "original HTTP 200 HTML",
+          "bytes": 292235,
+          "sha256": "3797d1828889846090d47201c536dd58b7ecfa9ff192615b8450f434c58bee13",
+          "retention": "Source bytes retained separately; not uploaded"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "SPAIN-NOV5-S002"
+      ],
+      "urls": [
+        "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/051126-sanchez-encuentro-zelenski.aspx"
+      ],
+      "inspection": "Original meeting locator is broadcast-ended placeholder, not substantive full account or corroboration of EUR 437m.",
+      "retention_checkpoint": "2026-11-06",
+      "artifacts": [
+        {
+          "artifact": "spain_moncloa.html",
+          "type": "original HTTP 200 placeholder HTML",
+          "bytes": 51461,
+          "sha256": "c977c9bed2e0071d5d4da03a048d9e157dc28cb29f41e560b377bc939df0a8f4",
+          "retention": "Source bytes retained separately; not uploaded"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "SPAIN-NOV5-S003"
+      ],
+      "urls": [
+        "https://www.lamoncloa.gob.es/lang/en/presidente/news/paginas/2026/20260318-sanchez-zelenski-meeting.aspx"
+      ],
+      "inspection": "Original March 18 annual EUR 1bn commitment context; overlap with November 5 allocation unresolved.",
+      "retention_checkpoint": "2026-11-06",
+      "artifacts": [
+        {
+          "artifact": "spain_march18.html",
+          "type": "original HTTP 200 HTML",
+          "bytes": 68319,
+          "sha256": "92ec39b34a92dca02acb23ecf6b0e3ac40bdb787b3f4a92f306b74a29753ba93",
+          "retention": "Source bytes retained separately; not uploaded"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "OLESHKY-S060"
+      ],
+      "urls": [
+        "https://apnews.com/article/ukraine-melania-trump-oleshky-ceasefire-putin-envoy-3ae35835dbc87ab348478c62c6c25ee3"
+      ],
+      "inspection": "Original article text inspected; published 16:25:12Z, modified 22:04:12Z November 5. Later presidential disclosure separate from earlier ceremony. Photos/video not independently inspected; source count is attributed, not audited.",
+      "retention_checkpoint": "2026-11-05 late source package prepared 23:27:34UTC",
+      "artifacts": [
+        {
+          "artifact": "ap_whitehouse_late.html",
+          "type": "original HTTP 200 AP HTML",
+          "bytes": 966784,
+          "sha256": "7f4873408c393223af3e169fe1da2dd450b31b518066164ed92d239633ac91e8",
+          "retention": "Source bytes retained separately; not uploaded"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "OLESHKY-S061"
+      ],
+      "urls": [
+        "https://pool.pp.tools/reports/10189",
+        "https://pool.pp.tools/reports/10190",
+        "https://pool.pp.tools/reports/10184"
+      ],
+      "inspection": "One reporter family. Derived record of prior successful inspection only, not original bytes or complete successful tool output. Subsequent raw 403 and inaccessible web opens stopped. Public attendance and archive timestamps do not establish private-meeting time. No audiovisual matching.",
+      "retention_checkpoint": "2026-11-05 late source package prepared 23:27:34UTC",
+      "artifacts": [
+        {
+          "artifact": "pool_inspection_record.md",
+          "type": "derived researcher inspection record",
+          "bytes": 2799,
+          "sha256": "07cf0c5732a22e495d4538bf32a2872cf77163f7c84b199e5eef2e232af8a52d",
+          "retention": "Source bytes retained separately; not uploaded"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "OLESHKY-S062"
+      ],
+      "urls": [
+        "https://www.president.gov.ua/en/news/zvernennya-prezidenta-do-uchasnikiv-specialnoyi-paneli-30-go-107169"
+      ],
+      "inspection": "Full original address text inspected for bounded humanitarian acknowledgement. Display November 5 20:30, timezone unstated; conflicts with AP Friday wording. Other allegations excluded; no media inspection.",
+      "retention_checkpoint": "2026-11-05 late source package prepared 23:27:34UTC",
+      "artifacts": [
+        {
+          "artifact": "zelensky_spain_address.html",
+          "type": "original HTTP 200 presidency HTML",
+          "bytes": 298246,
+          "sha256": "e495633cc560b7906f54e796de59e3864c4fe39dda6b577812dbd94809398043",
+          "retention": "Source bytes retained separately; not uploaded"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "BRUSSELS-NOV5-S001"
+      ],
+      "urls": [
+        "https://t.me/s/umerov_rustem"
+      ],
+      "inspection": "Original-channel text extraction lines 185–188 inspected. Display 15:47 lacks independent date/timezone; exact post 601 link not independently resolved from retained record and not asserted. Raw HTML was Site Unavailable, not original-post archive.",
+      "retention_checkpoint": "2026-11-05 source package prepared 23:25:26UTC",
+      "artifacts": [
+        {
+          "artifact": "original_channel_tool_extract.json",
+          "type": "tool-extracted original-channel text",
+          "bytes": 37339,
+          "sha256": "5978067bb9e1b42825b2fa892ba0fe7ba123b735ecb1bdab0a3cc3eb27ae1a16",
+          "retention": "Source bytes retained separately; not uploaded"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "BRUSSELS-NOV5-S002"
+      ],
+      "urls": [
+        "https://en.interfax.com.ua/news/general/1231986-amp.html"
+      ],
+      "inspection": "Original HTML and articleBody inspected; datePublished 2026-11-05T18:52:50.215974+02:00. Repeats same Umerov account, not independent proceeding audit.",
+      "retention_checkpoint": "2026-11-05 source package prepared 23:25:26UTC",
+      "artifacts": [
+        {
+          "artifact": "interfax.html",
+          "type": "original HTTP 200 reporting HTML",
+          "bytes": 31120,
+          "sha256": "3dbb1011626a94ed8b5242951a45a98f8565d53765069c86d57aceb13a0a1f93",
+          "retention": "Source bytes retained separately; not uploaded"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "BRUSSELS-NOV5-S003"
+      ],
+      "urls": [
+        "https://apnews.com/article/russia-ukraine-war-airstrikes-negotiations-kushner-0b975a30f862731346e7e1d098a8d538"
+      ],
+      "inspection": "Original two-day reporting inspected; dateModified 2026-11-05T23:04:38Z, eligible for November 6 00 UTC watch but not earlier cutoffs. Underlying November 5 Kushner statement unacquired; November 4 X 403 stopped. Combined attendance not transferred across days.",
+      "retention_checkpoint": "2026-11-05 source package prepared 23:25:26UTC",
+      "artifacts": [
+        {
+          "artifact": "ap.html",
+          "type": "original HTTP 200 AP HTML",
+          "bytes": 946259,
+          "sha256": "8370158838d5ee3b68df790ffe6d08bdf3381d6544c73af429488f554b4aef1e",
+          "retention": "Source bytes retained separately; not uploaded"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "ENVOY-NOV5-S001"
+      ],
+      "urls": [
+        "https://www.president.gov.ua/en/news/volodimir-zelenskij-ta-antoniu-koshta-obgovorili-yevrointegr-107161"
+      ],
+      "inspection": "Original readout inspected; display November 5 17:23 timezone unstated, yesterday refers to same November 4 call. No new call, accepted format or completed Abu Dhabi meeting inferred.",
+      "retention_checkpoint": "2026-11-05 late source package prepared 23:27:34UTC",
+      "artifacts": [
+        {
+          "artifact": "zelensky_costa.html",
+          "type": "original HTTP 200 presidency HTML",
+          "bytes": 292670,
+          "sha256": "8e6ea6b8041f87dbbbe4410da4dd4922fd2b2838c78a7a68995bb53b155f5f89",
+          "retention": "Source bytes retained separately; not uploaded"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "OFAC-NOV5-S001"
+      ],
+      "urls": [
+        "https://ofac.treasury.gov/recent-actions/20261105"
+      ],
+      "inspection": "Original list sections independently counted: 7 individuals, 47 entities, 2 vessels new; 5 existing entries separately updated. Legal changes only; no underlying conduct allegation promoted, no government identifiers republished. Linked State 403 stopped and unacquired.",
+      "retention_checkpoint": "2026-11-06",
+      "artifacts": [
+        {
+          "artifact": "ofac_nov5.html",
+          "type": "original HTTP 200 OFAC HTML",
+          "bytes": 61917,
+          "sha256": "5504cc7d7e417f711ccdbd04c36a65d0130216270224ec6884734972c368acba",
+          "retention": "Source bytes retained separately; not uploaded"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "OFAC-NOV5-S002"
+      ],
+      "urls": [
+        "https://ofac.treasury.gov/media/937326/download?inline="
+      ],
+      "inspection": "Original one-page signed determination text and complete rendered page inspected; effective November 5. Four named sectors establish designation basis, not automatic designation of every participant.",
+      "retention_checkpoint": "2026-11-06",
+      "artifacts": [
+        {
+          "artifact": "cuba_determination.pdf",
+          "type": "original signed one-page PDF",
+          "bytes": 219501,
+          "sha256": "149f06758c8e3a16d6b421a6598e631f96df10b00db485d63ac9faa78c3f27fb",
+          "retention": "Source bytes retained separately; not uploaded"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "CHINA-13959-S001"
+      ],
+      "urls": [
+        "https://www.govinfo.gov/content/pkg/FR-2026-11-05/pdf/2026-22688.pdf"
+      ],
+      "inspection": "Full original two-page text and both rendered pages inspected, including signature, dates and operative clause. Initial web open unavailable, ordinary direct HTTP 200 original acquired. Continued emergency, no new named target; ordered congressional transmission not received confirmation.",
+      "retention_checkpoint": "2026-11-06",
+      "artifacts": [
+        {
+          "artifact": "china_emergency.pdf",
+          "type": "original final two-page GovInfo PDF",
+          "bytes": 191491,
+          "sha256": "c83197da44fe3f73a40c54eec747dd135fcfd8cf7b7b3023e7b541a1547ef688",
+          "retention": "Source bytes retained separately; not uploaded"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "TAE-S41"
+      ],
+      "urls": [
+        "https://www.sec.gov/Archives/edgar/data/1849635/000143774926035284/djt20261105_425.htm",
+        "https://data.sec.gov/submissions/CIK0001849635.json"
+      ],
+      "inspection": "Full issuer announcement HTML inspected; feed records November 5 21:16:51UTC acceptance. Separate EFFECT/definitive proxy not acquired; issuer-reported effectiveness/filing and prospective timetable remain distinct. No PDF inspection or completed merger/payment claim.",
+      "retention_checkpoint": "2026-11-06",
+      "artifacts": [
+        {
+          "artifact": "tmtg425_nov5.html",
+          "type": "original SEC-hosted issuer Form 425 HTML",
+          "bytes": 15451,
+          "sha256": "469615c9cb0b254e4541cd1e1591909b16b371b622f8d1201ba8a1c1df91ec0e",
+          "retention": "Source bytes retained separately; not uploaded"
+        },
+        {
+          "artifact": "tmtg_submissions.json",
+          "type": "original SEC issuer submissions JSON",
+          "bytes": 116077,
+          "sha256": "c50f8e3259704d5d795596ebf74feb51536d360805fa3865147304ca520dd8a3",
+          "retention": "Source bytes retained separately; not uploaded"
+        }
+      ]
+    }
+  ],
+  "media_limit": "No embedded article photos or videos inspected; visual PDF inspection limited to the Cuba determination and both China notice pages.",
+  "coverage_limit": "Targeted watch, not an exhaustive audit of all sanctions, emergency notices or financial disclosures."
+}
