@@ -1,0 +1,44 @@
+{
+  "acquired_date": "2026-10-27",
+  "event": "J20-2026-043",
+  "claim": "CH7-OLESHKY-STATUS-001",
+  "sources": [
+    {
+      "id": "OLESHKY-S009",
+      "url": "https://www.facebook.com/pavlodrogal/posts/pfbid0343MnXa1TB4rPLjZWioRitEboi7R9duSdY74kdpbD2Gus6iVx4wSLF4b8rTF4YkgNl",
+      "artifact": "Original public Facebook HTML",
+      "sha256": "b6eb3aa377e72446b5a2b2fee0bddf0879f842eec01569266f5b387b70d6ce50",
+      "bytes": 330348,
+      "inspected": "og:description complete key 09:00 compliance sentence; title and original-post locator",
+      "limits": "Metadata truncated after beginning of next sentence; full body, video, original post timestamp and observation timezone unacquired."
+    },
+    {
+      "id": "OLESHKY-S010",
+      "url": "https://www.radiosvoboda.org/amp/news-oleshky-humanitarna-misia/33885065.html",
+      "artifact": "Original AMP HTML",
+      "sha256": "813dfae8b3283d11a304b41c3a58c1e389e9e195e7549473aecbc4bca798aff4",
+      "bytes": 85691,
+      "published_metadata": "2026-10-27 08:09:20Z",
+      "inspected": "Full article text and original social-source links",
+      "limits": "Reporting repeats Drohal statement, not independent battlefield corroboration."
+    },
+    {
+      "id": "OLESHKY-S011",
+      "url": "https://khoda.gov.ua/news/kyrylo-budanov-rozpochalasia-vazhlyva-humanitarna-misiia-v-oleshkakh",
+      "artifact": "Full indexed official notice text",
+      "sha256": null,
+      "published_display": "2026-10-27 08:36; timezone unspecified",
+      "limits": "Direct GET503; no original-byte archive. Budanov statement republication."
+    }
+  ],
+  "unacquired_original_posts": [
+    {
+      "url": "https://t.me/Kyrylo_Budanov_Official/933",
+      "result": "Site Unavailable response body; not post content."
+    },
+    {
+      "url": "https://t.me/dmytro_lubinetzs/12931",
+      "result": "Site Unavailable response body; not post content."
+    }
+  ]
+}

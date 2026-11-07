@@ -1,0 +1,40 @@
+{
+  "scope": "Separate prospective noncash refinancing observations; not monetary transactions or realized debt flows",
+  "review_date": "2026-11-03",
+  "observations": [
+    {
+      "observation_id": "TAE-REF01",
+      "type": "prospective_refinancing_risk_disclosure",
+      "disclosure_date": "2026-11-02",
+      "issuer": "Trump Media & Technology Group Corp.",
+      "sources": [
+        "TAE-S40",
+        "TAE-S39",
+        "TAE-S21"
+      ],
+      "locators": [
+        "S40 printed p.38/#risk",
+        "S39 printed p.38/#risk",
+        "S21 section4.3(a), printed pp.42\u201343"
+      ],
+      "existing_optional_repurchase_principal_usd_approx": 1000000000,
+      "holder_exercise_date": "2026-11-30",
+      "consummation_limit": "Company notice specifies no more than ten business days after November 30; no actual notice/election/settlement acquired",
+      "increment": "Possible credit facility; covenants, collateral and higher rates; explicit digital-asset sale fallback; issuer equity-efficiency judgment",
+      "actual_new_loan_usd": null,
+      "actual_asset_sale_usd": null,
+      "new_lender_identity": null,
+      "payment_established": false,
+      "national_benefit": "uncertain",
+      "historical_receipt_total_eligible": false,
+      "tae_funding_trace_established": false,
+      "joins": [
+        "J20-2026-065",
+        "CH7-TAE-DRAW-001",
+        "TAE-T20"
+      ],
+      "limits": "Existing optional debt repurchase, not a new obligation or unconditional November 30 payment. No new advance, board appointment, source-country attribution or personal receipt."
+    }
+  ],
+  "no_cash_flow_total": true
+}

@@ -1,0 +1,191 @@
+{
+  "research_window": "November 6 evening, 2026; November 7 UTC scheduled review",
+  "sources": [
+    {
+      "source_ids": [
+        "CHIEF-NOV6-S001"
+      ],
+      "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-names-stephen-miller-as-33rd-white-house-chief-of-staff/",
+      "document_date": "2026-11-06",
+      "acquired_utc": "2026-11-06T23:29:53.605311+00:00",
+      "http_status": 200,
+      "artifacts": [
+        {
+          "artifact": "chief_whitehouse.html",
+          "artifact_type": "retained original HTML response; not uploaded",
+          "bytes": 293364,
+          "sha256": "e21899e962756d17b43323eecd4c3e41ea439b3986f2de26cb9e6b1c0eba7a16"
+        }
+      ],
+      "inspection": "Original White House article text and publication metadata.",
+      "scope": "One announced appointment; November 9 prospective start is from the presidential post. No completed handover, policy outcome or causal link to oversight requests established.",
+      "joins": [
+        "J20-2026-089",
+        "CH7-MILLER-CHIEF-001"
+      ],
+      "media_inspected": false
+    },
+    {
+      "source_ids": [
+        "CHIEF-NOV6-S002"
+      ],
+      "url": "https://truthsocial.com/@realDonaldTrump/117571000109141399",
+      "document_date": "2026-11-06",
+      "acquired_utc": "2026-11-06T23:29:57.845492+00:00",
+      "http_status": 200,
+      "artifacts": [
+        {
+          "artifact": "chief_truth.html",
+          "artifact_type": "retained original HTML response; not uploaded",
+          "bytes": 5598,
+          "sha256": "26ad09f440d2bec53750adecf6d4c40e37ab69c9757140ab7345d5e59b27b0bf"
+        }
+      ],
+      "inspection": "Native original HTML title/Open Graph announcement text; complete JavaScript application and native posting timestamp not verified.",
+      "scope": "One announced appointment; November 9 prospective start is from the presidential post. No completed handover, policy outcome or causal link to oversight requests established.",
+      "joins": [
+        "J20-2026-089",
+        "CH7-MILLER-CHIEF-001"
+      ],
+      "media_inspected": false
+    },
+    {
+      "source_ids": [
+        "OFAC-NOV6-S001"
+      ],
+      "url": "https://ofac.treasury.gov/recent-actions/20261106",
+      "document_date": "2026-11-06",
+      "acquired_utc": "2026-11-06T23:50:02.161357+00:00",
+      "http_status": 200,
+      "artifacts": [
+        {
+          "artifact": "ofac_nov6.html",
+          "artifact_type": "retained original HTML response; not uploaded",
+          "bytes": 43660,
+          "sha256": "a2429cc12817d6be483cb5343af23ba579d0d9b8f7a33ac0c002d4cc490b52af"
+        }
+      ],
+      "inspection": "original HTML text and list-section parsing; no image/video or financial-record audit",
+      "scope": "Entity addition section, listed program, administrative-change status",
+      "joins": [
+        "J20-2026-090",
+        "CH7-OFAC-NOV6-ACTION-001"
+      ],
+      "media_inspected": false
+    },
+    {
+      "source_ids": [
+        "OFAC-NOV6-S002"
+      ],
+      "url": "https://home.treasury.gov/news/press-releases/sb0686/",
+      "document_date": "2026-11-06",
+      "acquired_utc": "2026-11-06T23:50:06.629319+00:00",
+      "http_status": 200,
+      "artifacts": [
+        {
+          "artifact": "treasury_nov6.html",
+          "artifact_type": "retained original HTML response; not uploaded",
+          "bytes": 79719,
+          "sha256": "b22e02f6b77f6a85a32d9b7c3039525035f09e9b43abd55a405f9c680086d731"
+        }
+      ],
+      "inspection": "original HTML text and list-section parsing; no image/video or financial-record audit",
+      "scope": "Date, count, authority, coordination statement and Sanctions Implications section only; underlying conduct allegations excluded",
+      "joins": [
+        "J20-2026-090",
+        "CH7-OFAC-NOV6-ACTION-001"
+      ],
+      "media_inspected": false
+    },
+    {
+      "source_ids": [
+        "BRUSSELS-NOV6-S003"
+      ],
+      "url": "https://www.president.gov.ua/en/news/prezident-obgovoriv-iz-liderami-krayin-nb8-pidgotovku-do-tri-107189",
+      "document_date": "2026-11-06",
+      "displayed_publication": "2026-11-06 18:39; visible timezone unstated",
+      "acquired_utc": "2026-11-06T23:50:05.509556+00:00",
+      "http_status": 200,
+      "artifacts": [
+        {
+          "artifact": "presidency_nb8.html",
+          "artifact_type": "retained original HTML response; not uploaded",
+          "bytes": 100146,
+          "sha256": "590b058099edb7af88a23319dc113d81e5de12e666c2bd2bdd5aa0502795c528"
+        }
+      ],
+      "inspection": "Full article text extracted from original HTML and read locally. Metadata/displayed-date context inspected.",
+      "scope": "Original Ukrainian presidency article; Ukrainian participant account of a completed NB8 online meeting, conveyed proposals and continuing preparation. No published guarantee terms or completed Abu Dhabi meeting.",
+      "joins": [
+        "J20-2026-079",
+        "CH7-BRUSSELS-RECOVERY-001",
+        "J20-2026-080",
+        "CH7-NOV4-ENVOY-CALL-001"
+      ],
+      "media_inspected": false
+    },
+    {
+      "source_ids": [
+        "BRUSSELS-NOV6-S004"
+      ],
+      "url": "https://valitsus.ee/en/news/michal-diplomatic-efforts-must-deliver-tangible-results-ukraine",
+      "document_date": "2026-11-06",
+      "displayed_publication": "2026-11-06 19:45; visible timezone unstated",
+      "acquired_utc": "2026-11-06T23:50:14.948472+00:00",
+      "http_status": 200,
+      "artifacts": [
+        {
+          "artifact": "estonia_nb8.html",
+          "artifact_type": "retained original HTML response; not uploaded",
+          "bytes": 100022,
+          "sha256": "b0439b34a9a73992bdf4ef0df4a0d9c5d1a830f4f7a2e31e843923a27f217a35"
+        }
+      ],
+      "inspection": "Full article text extracted from original HTML and read locally. Metadata/displayed-date context inspected.",
+      "scope": "Original Estonian government article, a distinct participant-government account corroborating the same video call. Specific principles remain attributed to Michal rather than every participant or an implemented agreement.",
+      "joins": [
+        "J20-2026-079",
+        "CH7-BRUSSELS-RECOVERY-001",
+        "J20-2026-080",
+        "CH7-NOV4-ENVOY-CALL-001"
+      ],
+      "media_inspected": false
+    },
+    {
+      "source_ids": [
+        "BRUSSELS-NOV6-S005"
+      ],
+      "url": "https://www.president.gov.ua/en/news/zaraz-mayemo-informaciyu-vid-rozvidki-sho-gotuyetsya-novij-u-107197",
+      "document_date": "2026-11-06",
+      "displayed_publication": "2026-11-06 21:16 article display; related video listing 21:20, neither visible timezone acquired",
+      "acquired_utc": "2026-11-06T23:50:08.745386+00:00",
+      "http_status": 200,
+      "artifacts": [
+        {
+          "artifact": "presidency_evening.html",
+          "artifact_type": "retained original HTML response; not uploaded",
+          "bytes": 103291,
+          "sha256": "10775bf04366e7a067d574bbdfc962b58aedf749fda117199384cb20feec64e6"
+        }
+      ],
+      "inspection": "Full article text extracted from original HTML and read locally. Metadata/displayed-date context inspected.",
+      "scope": "Original presidency text transcript. Only same-day NB8 / prospective diplomatic-format and generic support-delivery qualifications are used; not audiovisual validation or independent verification of intelligence, strikes, combat counts or allegations.",
+      "joins": [
+        "J20-2026-079",
+        "CH7-BRUSSELS-RECOVERY-001",
+        "J20-2026-080",
+        "CH7-NOV4-ENVOY-CALL-001"
+      ],
+      "media_inspected": false
+    }
+  ],
+  "boundaries": [
+    "Source hashes identify retained original responses, not public raw archives. Derived text extraction was kept separate from original HTML.",
+    "Native Truth Social metadata supports the announcement text, not a fully rendered application or verified native posting time.",
+    "OFAC and Treasury are one designation action. Only listing, authority, attributed coordination and legal implications are used; underlying conduct allegations and asserted transaction values are not established by this record.",
+    "The November 6 NB8 meeting is separate from the November 4 envoy call and November 4/5 Brussels sessions. No accepted security guarantee or specific delivered aid follows.",
+    "Publication and displayed times do not replace event or effective dates; unstated timezones are not assigned.",
+    "No image, audio, video, bank-record or underlying enforcement-outcome audit is claimed.",
+    "Existing scores, correction history, unresolved records and financial totals are preserved."
+  ]
+}

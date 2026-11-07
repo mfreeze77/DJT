@@ -1027,3 +1027,243 @@ Source-byte hashes and acquisition limits: [October 26 manifest](Tmanch_CH7_Oct2
 ## October 26 evening: EPF adoption step
 
 - **EPF-S001–002 / J20-2026-054 / CH7-EPF-ADOPTION-001:** [Council adoption announcement, preparatory agenda and acquisition limits](Tmanch_CH7_Oct26_EPF_Adoption_Source_Note.md). Advances the existing agreement linked to **024**; distinct from **017** loan financing. Reimbursement for already delivered aid and EUMAM financing are not new equipment delivery or verified payments. Conflicting prior-agreement years and historical inspection status remain preserved.
+
+
+## October 27: initial Oleshky compliance assessment
+
+- **OLESHKY-S009:** [Drohal original Facebook post](https://www.facebook.com/pavlodrogal/posts/pfbid0343MnXa1TB4rPLjZWioRitEboi7R9duSdY74kdpbD2Gus6iVx4wSLF4b8rTF4YkgNl), original public HTML metadata acquired October 27; complete key 09:00 compliance sentence, not full post/video or timestamp. Observation timezone unstated.
+- **OLESHKY-S010:** [Radio Svoboda October 27 original report](https://www.radiosvoboda.org/a/news-oleshky-humanitarna-misia/33885065.html), original AMP HTML acquired; publication/modification metadata 08:09:20Z. Dated context and exact original-post locator, not independent corroboration of the statement it repeats.
+- **OLESHKY-S011:** [Kherson regional government Budanov notice](https://khoda.gov.ua/news/kyrylo-budanov-rozpochalasia-vazhlyva-humanitarna-misiia-v-oleshkakh), October 27 08:36, timezone unstated; full indexed text inspected, raw GET503. Official mission-commencement and coordination announcement, not delivered relief. These sources supplement **043 / CH7-OLESHKY-STATUS-001**, not a new event.
+
+[Source boundaries and cumulative assessment](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#october-27-initial-implementation-report--bounded-observation). [Acquisition manifest](Tmanch_CH7_Oct27_Oleshky_Source_Manifest.json).
+
+
+
+## October 27 acquisition: October 22 meme-coin oversight request
+
+- **TRUMP-DIN-OV-S001–004 / J20-2026-055 / CH7-TRUMP-DIN-OVERSIGHT-001:** [Signed letter, announcement and current commercial safeguards](Tmanch_CH7_Oct22_Meme_Coin_Oversight_Source_Note.md). Nine signatories; request and announcement dates distinct. Current no-private-meeting wording and eligibility restrictions are not proof of enforcement. No new misconduct finding, payment or completed dinner.
+
+
+## October 27 acquisition: diesel preservation and Oleshky documentation plan
+
+- **DIESEL-PRESERVE-S001–002 / J20-2026-056 / CH7-DIESEL-PRESERVE-001:** [Original letter and recipient scope](Tmanch_CH7_Oct24_Diesel_Preservation_Source_Note.md). October 24 request, October 26 announcement; not evidence of transactions or legal liability.
+- **OLESHKY-S012:** [October 26 direct Ukrinform interview](https://www.ukrinform.ua/rubric-world/4178305-mark-bekmen-golovnij-radnik-melanii-tramp.html); specified private media-documentation plan, not deployed governmental monitoring. Supplements existing **043 / CH7-OLESHKY-STATUS-001**; [limits](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#october-27-acquisition-specified-media-documentation-plan).
+
+[Acquisition manifest](Tmanch_CH7_Oct27_Policy_Source_Manifest.json).
+
+
+## October 27 acquisition: distinct industry-facing diesel warning
+
+- **DIESEL-INDUSTRY-S001–002 / J20-2026-057 / CH7-DIESEL-INDUSTRY-001:** [Signed October 26 Raskin letter and same-day announcement](Tmanch_CH7_Oct26_Diesel_Industry_Warning_Source_Note.md). Original four-page PDF and release HTML acquired; date, three addressees and signature visually checked. Industry-facing warning distinct from **056** preservation request; no deadline, implemented restraint or adjudicated liability. Legal assertions attributed; derivative satellite reporting not independent corroboration. Original-byte hashes and inspection scope are in the source note.
+
+## October 27 diesel output and sailing-status supplement
+
+- **DIESEL-SHIP-S006:** [Reuters October 26 original report carried by MarketScreener](https://uk.marketscreener.com/news/russian-refiners-ramp-up-diesel-output-after-us-deal-sources-say-ce785cdcda8ef225); two unnamed industry sources, production/export-capacity estimates, one source family. Full web-rendered text inspected; raw GET 403 stopped.
+- **DIESEL-SHIP-S007:** [Russian government official post 33459](https://t.me/government_rus/33459), inspected through its [public context](https://t.me/s/government_rus/33458); October 10 effective relaxation and initial 500,000-tonne authorization, not operative signed instrument or deliveries.
+- **DIESEL-SHIP-S008:** [PRIME October 27 direct report of Novak remarks](https://1prime.ru/20261027/novak-874650546.html), 14:51 Moscow; attributed three ships in transit and expected October 28 fourth sailing to world market, not confirmed departure or US destination. Original HTML acquired.
+
+These supplement existing **040 / CH7-DIESEL-SHIP-001**, cross-reference **011**, and add no event or financial flow. [Cumulative assessment, chronology discrepancy, acquisition limits and original-byte hash](Tmanch_CH7_Oct23_Diesel_Shipment_Source_Note.md#october-2627-production-and-sailing-status-follow-up).
+
+## October 27 evening: vessel identity and later Oleshky observation
+
+- **DIESEL-SHIP-S009:** [UNITED24 October 27](https://united24media.com/world/three-russian-diesel-tankers-head-to-us-including-one-sanctioned-in-europe-23847), full indexed text inspected; FT-derived reported names, dates and aggregate only, original FT and tracking records unacquired.
+- **DIESEL-SHIP-S010:** Original VesselFinder pages for [Talisman IMO9292060](https://www.vesselfinder.com/vessels/details/9292060), [Leruo IMO9385831](https://www.vesselfinder.com/vessels/details/9385831) and [Agioi Fanendes IMO9798375](https://www.vesselfinder.com/vessels/details/9798375), original web text inspected; for-orders fields and differing ETAs, not raw AIS or confirmed US arrivals.
+- **DIESEL-SHIP-S011:** [OFAC record51581](https://sanctionssearch.ofac.treas.gov/Details.aspx?id=51581), original HTML acquired; Talisman exact IMO, Russia-program designations and Sovcomflot link.
+- **DIESEL-SHIP-S012:** [Treasury January 10, 2025 notice](https://home.treasury.gov/news/press-releases/jy2777), original HTML acquired; historical vessel designation linkage, not new current ownership evidence.
+- **DIESEL-SHIP-S013:** [UK original list XML](https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.xml), acquired earlier October 27; exact Talisman RUS2886 and Leruo RUS3144 records, jurisdiction-specific shipping restrictions.
+- **DIESEL-SHIP-S014:** [Original GL135](https://ofac.treasury.gov/media/937216/download?inline), re-inspected including image; existing legal instrument, not another authorization event.
+- **OLESHKY-S013:** [Original Lubinets post12938](https://t.me/dmytro_lubinetzs/12938), full public-channel web text inspected; later 17:30 attributed compliance, defined territories, planned end not achieved outcome. No original-byte archive.
+
+[Diesel assessment and limits](Tmanch_CH7_Oct23_Diesel_Shipment_Source_Note.md#october-27-vessel-identity-and-license-scope-qualification); [Oleshky supplement](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#october-27-later-localized-compliance-account). Source hashes and access limits are in the [acquisition manifest](Tmanch_CH7_Oct27_Evening_Source_Manifest.json). The [separately dated allied-diplomacy context](research/presidential_rhetoric_2026/comparisons/2026-10-16/docs/OCTOBER_MATCHED_WAR_CONTEXT.md#later-contextual-follow-through-october-27) does not change the frozen comparison window or add a Trump action.
+
+
+## October 27 late chronology qualifications
+
+- **DIESEL-SHIP-S015–016 / CH7-DIESEL-SHIP-001 / existing 040:** [Later attributed production estimates, original repair remarks and source-family limits](Tmanch_CH7_Oct23_Diesel_Shipment_Source_Note.md#october-27-later-production-estimate-and-repair-account).
+- **OLESHKY-S014 / CH7-OLESHKY-STATUS-001 / existing 043:** [Later US-side explanation and original-post acquisition gap](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#october-27-later-us-side-timing-and-geography-explanation).
+
+[Original-byte hashes and provenance](Tmanch_CH7_Oct27_Late_Chronology_Source_Manifest.json). No new event or monetary flow.
+
+
+## October 27 case-level enforcement and interceptor-status follow-up
+
+- **EXTREME-S001–006 / CH7-EXTREME-ENFORCEMENT-001 / J20-2026-058:** [Executed OFAC and DOJ instruments, announcements and exact blocked-entity identity records](Tmanch_CH7_Oct27_Extreme_Enforcement_Source_Note.md). Distinguishes execution from announcement, OFAC non-admission from NPA admissions, credited net obligations from verified payment, and continuing institutional enforcement from personal presidential direction. [Original-byte hashes](Tmanch_CH7_Oct27_Extreme_Source_Manifest.json).
+- **SAT-STATUS-S006 / existing 039/045:** [October 27 original presidency address and continuing interceptor dependency](Tmanch_CH7_Oct22_23_Satellite_Status_Source_Note.md#october-27-presidential-account-continuing-interceptor-dependency). Full relevant original HTML inspected; hash and acquisition boundary in the source note. No new restriction/restoration event or named-decisionmaker claim.
+
+## October 28 Oleshky compliance, civilian observations and provisional evacuation
+
+- **OLESHKY-S015**: [Lubinets original post12942](https://t.me/dmytro_lubinetzs/12942). Full channel web text inspected; raw SiteUnavailable, no original-byte post archive.
+- **OLESHKY-S016**: [ArmyInform Lubinets republication](https://armyinform.com.ua/2026/10/28/v-oleshkah-protyagom-30-godyn-ne-fiksuvaly-inczydentiv-pid-chas-rezhymu-tyshi/). Original HTML acquired; same Lubinets family.
+- **OLESHKY-S017**: [Ukrinform Lubinets and Drohal report](https://www.ukrinform.ua/amp/rubric-regions/4178856-v-oleskah-za-30-godin-rezimu-tisi-ne-zafiksuvali-zodnogo-incidentu-lubinec.html). Original HTML acquired; same Lubinets family plus dated Drohal attribution.
+- **OLESHKY-S018**: [Drohal original Facebook metadata](https://www.facebook.com/pavlodrogal/posts/pfbid02MtTHeuvdXixHwA7QiLcRTjHTR3ycQ7fv6mZWY6SDCEMNKGVFC8ttqvoSCKp4kRKul). Original HTML metadata acquired; excerpt confirms08:00, not date; fullbody truncated.
+- **OLESHKY-S019**: [Reuters civilian interviews via Sight](https://sightmagazine.com.au/news/us-brokered-truce-appears-to-hold-in-ukrainian-town-close-to-starvation/). Full web-rendered text inspected; raw403 stopped, errorbody not article archive.
+- **OLESHKY-S020**: [CNN civilian interview via KEYT](https://keyt.com/news/national-world/cnn-world/2026/10/27/melania-trump-brokered-ceasefire-takes-effect-around-russian-occupied-city-of-oleshky/). Full indexed text inspected; prior raw403 respected; no recording acquired.
+- **OLESHKY-S021**: [DW original Tolokonnikov interview](https://amp.dw.com/uk/evakuacia-civilnih-z-okupovanih-olesok-vidbudetsa-30-zovtna-ova/a-79781430). Original HTML acquired; provisional plan, not implemented evacuation.
+
+Supplements existing **043 / CH7-OLESHKY-STATUS-001**, without new event, score, beneficiary total or financial flow. [Cumulative benefit and chronology](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#october-28-compliance-updates); [hashes, dates and acquisition limits](Tmanch_CH7_Oct28_Oleshky_Source_Manifest.json).
+
+
+## October 28 North Korea sanctions designations
+
+- **DPRK-OCT28-S001**: [Official record](https://ofac.treasury.gov/recent-actions/20261028). October 28 SDN additions.
+- **DPRK-OCT28-S002**: [Official record](https://ofac.treasury.gov/specially-designated-nationals-list-sdn-list/program-tag-definitions-for-ofac-sanctions-lists). Authority/scope reference; not independent confirmation of designation.
+- **DPRK-OCT28-S003**: [Official record](https://ofac.treasury.gov/faqs/9). Authority/scope reference; not independent confirmation of designation.
+- **DPRK-OCT28-S004**: [Official record](https://ofac.treasury.gov/media/7671/download?inline=). Authority/scope reference; not independent confirmation of designation.
+- **DPRK-OCT28-S005**: [Official record](https://ofac.treasury.gov/media/7686/download?inline=). Authority/scope reference; not independent confirmation of designation.
+
+**J20-2026-059 / CH7-DPRK-DESIGNATIONS-001**: [Identity, scope and benefit assessment](Tmanch_CH7_Oct28_DPRK_Designations_Source_Note.md); [source manifest](Tmanch_CH7_Oct28_DPRK_Source_Manifest.json). No seized-value or disrupted-flow estimate.
+
+
+## October 27–28 allied support instruments
+
+- **UK-BUDGET-S001**: [UK original Budget](https://www.gov.uk/government/publications/budget-2026-document/budget-2026-html). Original full HTML inspected October 28. Instrument-specific commitments; no disbursement proof.
+- **UK-BUDGET-S002**: [Downing Street Oct28 call](https://www.gov.uk/government/news/prime-minister-and-chancellors-call-with-the-president-of-ukraine-28-october-2026). Original full HTML inspected October 28. Same package and government source family, not another flow.
+- **NOR-ENERGY-S001**: [Norway Oct27 funding release](https://www.regjeringen.no/en/whats-new/500-million-nok-in-energy-support-for-ukraine/id3183922/). Original full HTML inspected October 28. Existing-envelope funding scheduled November–December through UESF.
+- **NOR-ENERGY-S002**: [Norway Oct27 cooperation signing](https://www.regjeringen.no/en/whats-new/norway-and-ukraine-strengthen-energy-cooperation/id3184399/). Original full HTML inspected October 28. Official signing account; executed memorandum unacquired.
+- **NOR-ENERGY-S003**: [Ukrainian Energy Ministry Oct28 publication](https://www.kmu.gov.ua/en/news/norvehiia-vydiliaie-500-mln-norvezkykh-kron-na-pidtrymku-enerhetyky-ukrainy-denys-shmyhal). Original full HTML inspected October 28. Recipient account of same meeting/signing, not a second allocation.
+
+See [Tmanch_CH7_Oct28_UK_Ukraine_Budget_Source_Note.md](Tmanch_CH7_Oct28_UK_Ukraine_Budget_Source_Note.md) and [Tmanch_CH7_Oct27_Norway_Energy_Source_Note.md](Tmanch_CH7_Oct27_Norway_Energy_Source_Note.md); [acquisition manifest](Tmanch_CH7_Oct28_Allied_Support_Source_Manifest.json).
+
+
+## October 28 evening: verified contextual and implementation records
+
+- **J20-2026-062 / CH7-BULGARIA-LICENCE-001**: [Bulgaria-specific operating licence extension](Tmanch_CH7_Oct28_Bulgaria_Licence_Source_Note.md). BULGARIA-S001–003. Original instrument and notice verified; transactions unverified.
+- **J20-2026-063 / CH7-NETHERLANDS-SUPPORT-001**: [Dutch support allocations and defence cooperation](Tmanch_CH7_Oct28_Netherlands_Support_Source_Note.md). NL-S001–005. Original civilian allocation and military announcement verified; implementation unverified.
+- **J20-2026-064 / CH7-NEHHOR-EXCHANGE-001**: [NEHHOR competitive exchange solicitation](Tmanch_CH7_Oct21_NEHHOR_Source_Note.md). NEHHOR-S001–003. Original release RFP and Q&A verified; award and delivery unverified.
+- **OLESHKY-S022–023 / 043**: [Original DMS and Suspilne individual-arrival evidence](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#october-28-individual-arrival-and-documentation-application). One resident/institutional family, not organized mission completion.
+- [Acquired source hashes](Tmanch_CH7_Oct28_Evening_Source_Manifest.json); no new financial-flow rows.
+
+- **DPRK-OCT28-S006 / 059**: [Treasury explanatory release acquisition](Tmanch_CH7_Oct28_DPRK_Designations_Source_Note.md#october-28-evening-original-explanatory-release-acquired), source-locator closure only; underlying administrative evidence and outcomes remain missing.
+
+- **NATO-OCT28-S001–002 / PRES-OCT28-S001 / J20-032 / CH7-RUS-PURL-001**: [Reported cumulative deliveries, EU financing-route acknowledgment and continuing shortages](Tmanch_CH7_Oct28_NATO_Delivery_Source_Note.md). No new financial-flow total.
+
+
+## October 29 Oleshky implementation follow-up
+
+- **OLESHKY-S024–025 / J20-2026-043 / CH7-OLESHKY-STATUS-001:** [Original participant reports and chronology limits](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#october-29-official-delegation-movement-organized-relief-still-prospective). Original channel text reports 54 hours of calm and delegation departure toward Oleshky, with organized aid and civilian-departure work still ahead. Same official source family; no independent observation or inferred second trip.
+
+## October 29 financing disclosure and procedural oversight additions
+
+- **TAE-S39 / TAE-T20 / 065:** [Later issuer funding report](Tmanch_CH7_Oct19_TAE_Financing_Source_Note.md#october-29-disclosure-second-tranche-reported-funded-october-7), one USD 100 million corporate advance, not bank-source or personal-receipt proof.
+- **EASTMED-S001 / 066:** [Official reproduced conditional recall request](Tmanch_CH7_Oct27_EASTMED_Request_Source_Note.md); signed PDF unacquired, response and implementation unverified, PVT AZURA excluded.
+
+
+## October 29 evening source consolidation
+
+- **DD-S001–004 / 067 / CH7-DYED-DIESEL-001:** [Executive direction and IRS relief](Tmanch_CH7_Oct5_21_Dyed_Diesel_Source_Note.md); specific tax scope, not general records waiver or measured savings.
+- **EIA-DIESEL-S001–002 / CH7-DIESEL-PRICE-001 / 014/040:** [Dated retail observations](Tmanch_CH7_Oct27_EIA_Diesel_Prices_Source_Note.md); no causal savings estimate.
+- **OLESHKY-S026–030 / 043:** [Participant readiness updates](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#october-29-later-status-designated-route-clearance-and-convoy-readiness-reported); organized outcomes pending, separate returns excluded.
+
+- **FF-S001–003 / 068 / CH7-IRAN-FF1-001:** [Bank wind-down duration extension](Tmanch_CH7_Oct29_Iran_FF1_Source_Note.md), original predecessor/successor and retained blocked-account controls.
+
+
+## October 30 morning primary-source follow-ups
+
+- **OLESHKY-S031–035 / 043:** Original Lubinets 12957/12958 and Arakhamia 433/434 channel text, with dated relay context, inspected as described in [source note](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#october-30-staging-and-participant-reported-relief-implementation). Coordinated participant implementation reports, not independent field verification; source timestamps and rendered-acquisition limits retained.
+- **LIG-S013–014 / CH7-LIG-009/010:** October 26 Carso Q3 regulatory PDF pp. 38, 127–129 and companion release p. 12. [Precise sources/joins](Tmanch_CH7_Oct18_Lukoil_Divestment_Source_Note.md#october-26-q3-disclosure-inspected-october-30-operating-recovery-and-separate-sale-gates) distinguish issuer-reported approvals/operations, date conflict and nonadditive balance movements from closing or seller payment.
+- **USD1-INC-S002 / CH7-UAE-USD1-002:** October 29 Binance original/reproduction inspected; [terms and overlap](Tmanch_CH7_Oct20_Binance_USD1_Incentives_Source_Note.md#october-29-announcement-successive-wlfi-round-and-extended-existing-usd1-pool) preserve same USD1 cap and distinct WLFI period. No verified payout/funding allocation.
+
+[October 30 source manifest](Tmanch_CH7_Oct30_Morning_Source_Manifest.json) records acquired artifacts and their limits; hashes identify retained bytes, not independent truth of issuer/participant assertions.
+
+
+- **UA1072-S001–003 / 069; UA1073-S001–002 / 070:** [October 29 decrees and original annexes](Tmanch_CH7_Oct29_Ukraine_Sanctions_Source_Note.md) establish 19 individual/10 entity and 39 vessel entries respectively, with October 30 publication context and scope/identity controls. No new conduct allegations adopted.
+- **DIANA-S001 / 071:** [NATO October 29 signing account](Tmanch_CH7_Oct29_DIANA_Ukraine_Source_Note.md) verifies reported institutional cooperation, not an acquired executed instrument or operational result.
+
+
+- **USD1-INC-S003 / CH7-UAE-USD1-002:** [Coinbase EEA-retail restricted-stablecoin policy](Tmanch_CH7_Oct20_Binance_USD1_Incentives_Source_Note.md#coinbase-eea-retail-october-30-cutoff-inspected-october-31), official rendered page inspected; publication date and actual conversion outcomes unacquired, raw HTML 403 stopped. Regional corporate context, not a new governmental action.
+
+
+- **OLESHKY-S036–043 / 043:** [October 30 departure/transit and October 31 Belarus-arrival participant accounts](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#october-31-participant-reported-belarus-arrival-final-ukraine-leg-still-prospective), not independently verified final Ukraine arrival, passenger count or inspected media.
+- **EUCAN-S001–002 / 072:** [October 30 finalized EU–Canada joint statement](Tmanch_CH7_Oct30_EU_Canada_Source_Note.md), parsed original text inspected; raw release/PDF 403 stops, no original-byte retention or PDF visual claim.
+- **NIS-S001–003 / 073:** [NIS specific-licence report and dated shareholder snapshot](Tmanch_CH7_Oct30_NIS_Specific_Licence_Source_Note.md), underlying instrument and current-register status unacquired; reported permission not payment.
+
+
+- **OLESHKY-S044–046 / 043:** [Completed Chernihiv crossing](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#october-31-completed-arrival-in-ukrainian-controlled-chernihiv): AP retained original/three inspected images, Hromadske indexed original onsite journalism, and Zelenskyy original channel. Count and sustained-access limits preserved; Hromadske raw 403 stopped.
+- **PATRIOT-SALE-S001–002 / 074:** [Reported Patriot possible-sale authorization](Tmanch_CH7_Oct30_Patriot_Sale_Source_Note.md): Reuters full rendered syndication plus Ukrainian original acknowledgment. State notification locator unacquired after 403, not primary US-instrument verification. No duplicate PURL/JUMPSTART flow.
+
+- **OLESHKY-S047:** [Original Cabinet count clarification](https://www.kmu.gov.ua/en/news/uriad-utochniuie-ranishe-ozvuchenu-informatsiiu-shchodo-evakuatsii-liudei-z-oleshok), October 30: planned figure inaccurate and exact count then unavailable; no replacement completed total. Raw original retained.
+
+
+- **OLESHKY-S048–051 / 043:** [November 1 civilian relief and truce outcome](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#november-1-broader-civilian-relief-and-attributed-end-of-truce-results): indexed Kyiv Independent ground report; retained AP original; shared General Staff count through UP/Reuters; original Lubinets end-period testimony. Counts, source dependence, image and timing limits preserved.
+- **KSTOVO-S001–002 / existing 007/040 context only:** [Unnamed industrial damage and attributed gasoline restriction](Tmanch_CH7_Oct23_Diesel_Shipment_Source_Note.md#november-1-bounded-kstovo-context-no-new-us-action-or-output-finding). Original governor text and retained Kommersant reporting; operative regional rule unacquired. No refinery-output, diesel-export or US-price finding.
+
+
+- **OLESHKY-S052–054 / existing 043:** [November 2 throughput and briefing accounts](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#november-2-attributed-civilian-throughput-and-continuing-humanitarian-arrangements). Retained AP original ground reporting and attributed regional/team counts; rendered original UATV/FREEDOM and Telegraf briefing reports, one participant statement family. Nondisclosure and monthly-delivery terms unacquired; raw briefing article requests 403 stopped. No recurring implementation or reconciled total.
+
+
+- **TAE-S40 / TAE-REF01 / existing065 context:** [November 2 prospective refinancing disclosure](Tmanch_CH7_Oct19_TAE_Financing_Source_Note.md#november-2-amendment-prospective-refinancing-disclosure-not-a-new-cash-flow). Retained SEC Amendment2 compared with S39; existing S21 contract distinguishes holder exercise and consummation. No new loan or payment.
+- **PATRIOT-SALE-S003 / existing007/074:** [November 1 Ukrainian counterproposal](Tmanch_CH7_Oct30_Patriot_Sale_Source_Note.md#november-1-interview-ukrainian-defensive-counterproposal). Original Fox publisher captions, not independent audiovisual verification; conditional reciprocity/paid-delivery alternatives, no accepted bargain.
+- **KSE-OIL-S001 / existing040 context:** [September export-revenue estimate published November 2](Tmanch_CH7_Oct23_Diesel_Shipment_Source_Note.md#november-2-publication-september-export-revenue-context). Original indexed KSE release; raw403 stopped, underlying tracker unacquired. Price-driven crude/product macro context, not October-policy causation or another cargo flow.
+
+
+- **OLESHKY-S055–057 / existing 043:** [Post-arrival assistance and future White House engagement](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#november-2-post-arrival-support-reports-and-november-3-meeting-notice). Original ombudsman text supports attributed assistance coordination; November 3 White House HTML announces November 5 remarks. No audited service completion, new count or renewed truce.
+- **KOALICJA-S001–004 / 075 / CH7-KOALICJA-001:** [Exercise announcement and deployment limits](Tmanch_CH7_Nov3_Koalicja_Source_Note.md). Original UK announcements and Dutch parliamentary documents distinguish planned allied training from conditional future force activation. Prospective readiness benefit, no delivered force, Trump direction or new aid total.
+- **WB-DEL-S001–002 / 076 / CH7-WB-DELEGATION-001:** [October 28 authority delegation, published November 2](Tmanch_CH7_Oct28_Western_Balkans_Delegation_Source_Note.md). Signed Federal Register instrument and official Code scope; no named designation, waiver or relief outcome. National benefit remains uncertain.
+
+
+## November 3 evening observed prices and allied winter-support context
+
+- **EIA-DIESEL-S003 / existing CH7-DIESEL-PRICE-001 / 014/040 context:** [November 2 observations released November 3](Tmanch_CH7_Oct27_EIA_Diesel_Prices_Source_Note.md#november-3-release-november-2-national-and-regional-decreases). Retained original EIA table and reacquired methodology: national USD6.292/gallon, down USD0.060; all displayed regional/subregional estimates down. Favorable observed benchmark, not causal policy savings or a new cargo/financial flow.
+- **GER-WINTER-S001–003 / 077 / CH7-GERMANY-WINTER-001:** [Original German/Ukrainian winter-support statements and prior draft-budget context](Tmanch_CH7_Nov3_Germany_Winter_Source_Note.md). Planned new assistance and November19 summit remain distinct from Merz's attributed ongoing helpful deliveries. No quantities, independently verified receipts, Trump direction or new additive aid total.
+
+Original-source snapshot hashes and acquisition limits appear in the [evening manifest](Tmanch_CH7_Nov3_Evening_Source_Manifest.json).
+
+
+## November 4 acquisition: humanitarian recognition and allied implementation
+
+- **OLESHKY-S058–059 / existing 043:** [November 2 formal Ukrainian award decrees](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#november-2-ukrainian-award-decrees-acquired-november-4). Completed recognition of broader humanitarian contributions, not an independent Oleshky outcome audit or a new mission.
+- **GER-WINTER-S004 / existing 077:** [November 4 existing PAC-2 contract and acceleration discussions](Tmanch_CH7_Nov3_Germany_Winter_Source_Note.md#november-4-ukrainian-account-existing-pac-2-contract-and-acceleration-discussions). Ukrainian originals report an existing contract and agreement to explore earlier supply; no contract document, expedited schedule, delivery or join to 074's PAC-3 possible sale.
+- **LV-RESPONSE-S001 / 078 / CH7-LATVIA-RESPONSE-001:** [November 1/3 Latvian response](Tmanch_CH7_Nov3_Latvia_Response_Source_Note.md). NBS-authored official republication supports reported interceptor use and allied fighter activation, not verified shootdown, origin attribution or Trump causation. Original-host retrieval failed; original republication HTML retained.
+
+Acquisition and source-family limits appear in the [November 4 manifest](Tmanch_CH7_Nov4_Morning_Source_Manifest.json).
+
+
+## November 4 evening: diplomatic coordination and institutional restrictions
+
+- **NOV4-DIP-S001–003 / 079 / CH7-BRUSSELS-RECOVERY-001; 080 / CH7-NOV4-ENVOY-CALL-001:** [Brussels consultations and the separate envoy call](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md). Original Ukrainian readouts and Commission-authored reproduction establish process, not funding, arms delivery or an agreed settlement. Future Brussels security talks and Abu Dhabi preparations remain distinct; generic Patriot needs are not joined to 074 or 077 procurement.
+- **IRAN-NOV4-S001–002 / 081 / CH7-IRAN-NOV4-DESIGNATIONS-001:** [November 4 sanctions additions](Tmanch_CH7_Nov4_Iran_Designations_Source_Note.md). Original OFAC five-individual/ten-entity additions are separated from two existing entries' additional program tags and administrative wording edits; Treasury explanation has a narrower fourteen-entry scope. Legal action, not adjudicated underlying conduct or measured disruption.
+
+Original/source-reproduction hashes and acquisition limits are in the [evening manifest](Tmanch_CH7_Nov4_Evening_Source_Manifest.json). No financial total, score or held allegation is added.
+
+
+## November 5 morning: staged restrictions, annual authority and preparatory permission
+
+- **CH-SAN-S001–004 / 082 / CH7-SWISS-NOV4-001:** [Swiss Russia/Belarus measures](Tmanch_CH7_Nov4_Swiss_Sanctions_Source_Note.md). Official adoption and operative sectoral text retain selective alignment, exemptions and staggered commencement; no whole-list independent audit or measured trade effect.
+- **IRAN-12170-S001 and S001-PI / 083 / CH7-IRAN-EMERGENCY-2026-001:** [Annual 1979 Iran-emergency continuation](Tmanch_CH7_Nov3_Iran_Emergency_Source_Note.md). Original signed notice, November 3 decision and November 5 publication; distinct from EO 12957 and new designations. Same-notice versions are one source family.
+- **MOL-NIS-S001 / 084 / CH7-MOL-NIS-PREP-001:** [MOL issuer-reported preparatory permission](Tmanch_CH7_Nov5_MOL_NIS_Preparatory_Source_Note.md). Underlying licence unacquired, closing expressly excluded, securities unidentified and actual transactions unverified. Separate from 073 operating permission and its deadline; necessary matrix companion, no cash-flow row.
+
+See the [November 5 morning manifest](Tmanch_CH7_Nov5_Morning_Source_Manifest.json) for original and derived artifacts, source families and acquisition limits. Existing records, scores and correction history remain intact.
+
+
+## November 5 evening: financing implementation, diplomacy and legal continuity
+
+- **085 / CH7-EU-NOV5-DISBURSEMENT-001 / EU-NOV5-S001:** [EU loan payment](Tmanch_CH7_Nov5_EU_Disbursement_Source_Note.md), original Commission reported €3.7bn MFA plus €658m defence, €4.36bn rounded. Separate from October 14 event 017; no cumulative-envelope addition or claimed equipment delivery.
+- **086 / CH7-SPAIN-NOV5-SUPPORT-001 / SPAIN-NOV5-S001–003:** [Spanish package announcement](Tmanch_CH7_Nov5_Spain_Support_Source_Note.md), original Ukrainian participant report of €437m; Spanish locator is only a placeholder, annual/PURL/SAFE overlap and implementation unresolved.
+- **087 / CH7-OFAC-NOV5-ACTION-001 / OFAC-NOV5-S001–002:** [OFAC additions and Cuban-sector basis](Tmanch_CH7_Nov5_OFAC_Action_Source_Note.md), seven individuals, 47 entities and two vessels new; five existing-entry updates separated. No new conduct allegation or measured enforcement result.
+- **088 / CH7-CHINA-SECURITIES-EMERGENCY-001 / CHINA-13959-S001:** [Annual securities-investment emergency](Tmanch_CH7_Nov3_China_Emergency_Source_Note.md), signed November 3 and published November 5; authority continuity, no new target or flow.
+- **043 / CH7-OLESHKY-STATUS-001 / OLESHKY-S060–062:** [Completed recognition and reported presidential access](Tmanch_CH7_Oct23_Oleshky_Source_Note.md). Original AP, original Ukrainian address and separately limited pool inspection record. Nearly 800 attributed, not destination manifest; no new evacuation, bargain or motive; primary-date/reporting discrepancy preserved.
+- **079/080 / BRUSSELS-NOV5-S001–003 / ENVOY-NOV5-S001:** [November 5 diplomacy follow-up](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md), held security talks without disclosed terms; Costa readout refers to same November 4 call. Attendance and funding stages remain separate.
+- **065 / CH7-TAE-DRAW-001 / TAE-S41 / TAE-MERGER01:** [Issuer-reported registration effectiveness](Tmanch_CH7_Oct19_TAE_Financing_Source_Note.md) and [typed noncash process companion](research/tae_financing_2026/merger_process_observations.json). Separate EFFECT/proxy unacquired, vote/mail/closing future; TAE-T20 and refinancing observations unchanged.
+
+The [evening source manifest](Tmanch_CH7_Nov5_Evening_Source_Manifest.json) separates original bytes, derived text and access limitations. Existing scores, source history and corrections remain preserved; no new personal-receipt or Russian-linked cash total.
+
+
+## November 6 morning: prospective humanitarian and security work, corporate source upgrades
+
+- **OLESHKY-S063 / 043 / CH7-OLESHKY-STATUS-001:** [Proposed expansion](Tmanch_CH7_Oct23_Oleshky_Source_Note.md), original TSN interview excerpt; counterparts' answers and actual presentation unknown, no new operation or count. Retained as derived inspection record, not raw source archive.
+- **BRUSSELS-NOV6-S001–002 / 079/080:** [Requested written enforcement answers and prospective November 10–11 UAE dates](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md), official-channel text and dated original Ukrinform reporting from one interview family. No new call, accepted guarantee or completed future meeting.
+- **TAE-S42/S43 / 065 / CH7-TAE-DRAW-001:** [Separate definitive prospectus and SEC effectiveness notice](Tmanch_CH7_Oct19_TAE_Financing_Source_Note.md), with [TAE-MERGER01 acquisition history and time conflict](research/tae_financing_2026/merger_process_observations.json). November 5 effectiveness and distinct filing/acceptance dates documented; December 14 10:00 Eastern versus prior 09:15 ET unresolved. No new draw, completed closing or advisory payment.
+- **USD1-BUYBACK-S001 / CH7-UAE-USD1-002:** [Prospective WLFI buybacks](Tmanch_CH7_Nov6_WLFI_Buyback_Source_Note.md), original issuer post timestamp November 6 01:30:22 UTC. Possible reserve fees, not principal; distinct from Binance rewards. No amount, executed purchase, burn or personal receipt established.
+
+The [November 6 morning manifest](Tmanch_CH7_Nov6_Morning_Source_Manifest.json) distinguishes retained originals, rendered-document inspection, derived researcher records and unacquired media. Prior source/claim history and scores remain intact; no new event or cash-flow total.
+
+
+## November 6 evening: personnel transition and implemented legal actions
+
+- **089 / CH7-MILLER-CHIEF-001 / CHIEF-NOV6-S001–002:** [Announced chief-of-staff transition](Tmanch_CH7_Nov6_Chief_Transition_Source_Note.md). Miller's November 9 start remains prospective; Wiles's political-operation move does not resolve the separate 047/055 oversight requests or establish obstruction, policy change or financial benefit.
+
+- **090 / CH7-OFAC-NOV6-ACTION-001 / OFAC-NOV6-S001–002:** [November 6 OFAC designations](Tmanch_CH7_Nov6_OFAC_Action_Source_Note.md). Eight new entities under EO 13902; implemented list action, no measured freeze or disruption value, conduct adjudication or personally directed presidential action.
+
+- **079/080 / BRUSSELS-NOV6-S003–005:** [November 6 NB8 follow-up](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-6-nb8-follow-up-completed-coordination-prospective-outcomes). Distinct Ukrainian and Estonian accounts corroborate a held video call; conveyed proposals, future formats and winter-support needs are preparation, not accepted guarantees or delivery. Earlier dates, participants, requested enforcement answers and funding gaps remain preserved.
+
+The [evening source manifest](Tmanch_CH7_Nov6_Evening_Source_Manifest.json) distinguishes primary text, source acquisition and outcome limits. Existing scores, correction history and financial totals are unchanged.

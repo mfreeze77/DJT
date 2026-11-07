@@ -21,3 +21,7 @@ The same address says already-politically-approved ballistic-interceptor package
 The direct near-term benefit of restored communications is Ukrainian/allied frontline logistics and defensive interception. The outstanding interceptor gap leaves a different defensive vulnerability unresolved. Attributed thanks is affirmative acknowledgment of assistance, but does not establish which official ordered either the initial restriction or the technical reversal. The cumulative record therefore supports a real remediation, not a conclusion that all support was restored or the underlying dependency/control problem was solved. The address also anticipates an Oleshky humanitarian operation; it reports no delivered aid or completed evacuation and supplies no date reconciliation for **J20-2026-043**.
 
 Original-byte hash: [source manifest](Tmanch_CH7_Oct24_Evening_Policy_Source_Manifest.json).
+
+## October 27 continuing interceptor dependency
+
+The [later original presidency account](Tmanch_CH7_Oct22_23_Satellite_Status_Source_Note.md#october-27-presidential-account-continuing-interceptor-dependency), **SAT-STATUS-S006**, supplements **039/045**: Zelenskyy reports delayed air-defense packages and a continuing need for Pentagon authorizations for Patriot supplies. It does not reverse the monitored satellite restoration or establish a particular official's instruction. Approval, delivery and operational use remain distinct.

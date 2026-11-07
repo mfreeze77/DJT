@@ -1,0 +1,38 @@
+{
+  "prepared_utc": "2026-11-03",
+  "scope": "November 2 evening supplements only; no new action, score, transaction total or held allegation",
+  "sources": [
+    {
+      "source_id": "PATRIOT-SALE-S003",
+      "url": "https://www.foxnews.com/video/6407755033112",
+      "artifacts": [
+        {
+          "artifact": "fox-nov1-briefing.html",
+          "bytes": 117078,
+          "sha256": "89ef410b4945a655052c1fa64cc9c4d98a2ad2f63c37f47471639efcc9ee0894",
+          "type": "original_publisher_HTML_or_WebVTT"
+        },
+        {
+          "artifact": "fox-briefing.vtt",
+          "bytes": 3192,
+          "sha256": "d40c2cea607ea4b4cc5b30779b735be46e9b034994e09fd9004f5d3950e8e4c4",
+          "type": "original_publisher_HTML_or_WebVTT"
+        }
+      ],
+      "inspection": "Publisher HTML/caption text only, no audiovisual validation"
+    },
+    {
+      "source_id": "KSE-OIL-S001",
+      "url": "https://kse.ua/en/news/russian-oil-tracker-october-2026-despite-multi-year-low-export-volumes-higher-global-prices-lifted-russias-oil-export-revenues/",
+      "artifacts": [
+        {
+          "artifact": "REPORT.md",
+          "bytes": 11086,
+          "sha256": "81b576b10f4bdcc4e37a05503680303997f7ca1efd529859ea4505d3b1871015",
+          "type": "derived_research_record_not_source_archive"
+        }
+      ],
+      "inspection": "Full indexed original text; raw403 stopped; underlying tracker not acquired"
+    }
+  ]
+}

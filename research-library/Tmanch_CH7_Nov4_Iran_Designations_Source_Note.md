@@ -1,0 +1,19 @@
+# November 4 OFAC designations: administrative action and outcome limits
+
+**J20-2026-081 / CH7-IRAN-NOV4-DESIGNATIONS-001.** Unscored US institutional restrictive action. This entry records public legal-list changes; it does not adopt new conduct allegations or infer personal presidential direction.
+
+**IRAN-NOV4-S001:** The [original November 4 OFAC update](https://ofac.treasury.gov/recent-actions/20261104) separately labels **five individuals and ten entities as new SDN additions**. Four new individuals and all ten new entities carry **IRAN-EO13902**; Alisher Domullodzhanov carries **IRAN-CON-ARMS-EO**. Two already-listed entries separately receive an additional IRAN-CON-ARMS-EO tag. They are not two additional newly listed persons. Further administrative sanctions-risk wording changes on the long page likewise are not counted as new designations.
+
+The five new individual entries are **Ashwani Kumar Dhiman, Alisher Domullodzhanov, Jaspreet Preeti Shahid, Suniel Kumar Sharma and Ishwinder Singh**. The ten new entity entries are **Alexarya Finserv Private Limited; Alexarya Media and Entertainment Private Limited; Aryavart Maritime and Educational Trust; Aryavart Ship Management Private Limited; Eswatini Maritime Affairs and International Ship Registry PTE. Ltd.; Fugo Ground Services Inc.; Oceaniek Technologies India; Polynesia Maritime Private Limited; Precept Trends Private Limited; and Viharaboating Private Limited**. These names identify legal-list additions only. Identity-document numbers and personal identifiers are not reproduced.
+
+**IRAN-NOV4-S002:** The [original Treasury announcement](https://home.treasury.gov/news/press-releases/sb0681/) describes the agency's rationale for the **four EO13902 individuals and ten entities**, principally maritime services and aviation. Its explanatory scope must not be used as independent verification of the separate arms-program addition. Treasury states that covered property and interests in the United States or in the possession or control of US persons are blocked and that transactions are generally prohibited subject to authorization or exemption; its 50-percent ownership rule is separately stated. The announcement is authoritative for the agency's action and stated position, not an adjudication or independent audit of underlying conduct. This entry does not reproduce or promote its new allegations as established facts.
+
+## Benefit, existing joins and non-additivity
+
+Actual designation is an implemented **US institutional sanctions measure**, with prospective US/allied security and enforcement benefit if restrictions constrain the targeted activity. No seized asset, frozen dollar amount, disrupted shipment, collected penalty, paid flow or measured loss to Iran or Russia is established here. Legal restriction and practical effectiveness remain distinct. No Trump-originated instruction or motive is established by the agency publication.
+
+Existing **J20-2026-033** records an earlier October 21 Iran-sanctions action; **J20-2026-068 / CH7-IRAN-FF1-001** records the separate October 29 bank-specific wind-down permission. Neither is this November 4 designation event. Broader Russia–Iran targeting/casualty entries are different conduct and are not disproved or numerically offset by the new list additions. New restrictive activity is retained as affirmative institutional evidence without erasing those distinct records.
+
+State explanatory text remained unacquired after HTTP 403, and no claims depend on it. The [evening manifest](Tmanch_CH7_Nov4_Evening_Source_Manifest.json) distinguishes acquired OFAC/Treasury originals from that access limit.
+
+Next evidence: applicable enforcement or licensing records, actual blocked-property reports and independently verified operational effects. No contact, records request or transaction was undertaken.

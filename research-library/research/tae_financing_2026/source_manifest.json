@@ -40,7 +40,8 @@
     "Reported manager/control relationships do not establish ownership of underlying fund capital; note consent is not common-stock voting or board control.",
     "Six million contingent M&A compensation shares have no USD value assigned; explicit payment trigger unmet as of June 30,2026 and later issuance not established. They are not added to PIPE allocations, cash receipts or TAE funding.",
     "The post-closing placement right of first refusal is distinct from both fee-tail branches after engagement termination; no earned fee or completed future financing is recorded.",
-    "Dated FINRA corporate-control disclosure and historical S-4 renaming do not collapse YA II PN, its manager and the broker-dealer or allocate compensation to individuals."
+    "Dated FINRA corporate-control disclosure and historical S-4 renaming do not collapse YA II PN, its manager and the broker-dealer or allocate compensation to individuals.",
+    "TAE-T20 is the reported October 7 USD100m second tranche; TAE-T03 is its earlier capacity, not another payment. All twenty observations remain excluded from historical receipt totals."
   ],
   "sources": [
     {
@@ -879,6 +880,167 @@
         }
       ],
       "source_quality": "Full retained SEC HTML text independently inspected. S-4 references use printed labels in HTML, not PDF images."
+    },
+    {
+      "source_id": "TAE-S39",
+      "title": "TMTG October 29 Form S-4/A Amendment No. 1",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000143774926033844/djt20261026_s4a.htm",
+      "document_date": "2026-10-29",
+      "source_family": "issuer_filing_hosted_by_SEC",
+      "locator": "Printed p.274 Agreements Related to the Merger / TMTG Convertible Promissory Note (#agreements); repeated pp.52,130 (#taes_mgmt),294 (#unaudited_pf); preliminary cover and meeting notice",
+      "inspection_date": "2026-10-29",
+      "inspection_mode": "preserved_SEC_HTML",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "s4a.html",
+          "artifact_type": "preserved_SEC_HTML",
+          "bytes": 9326081,
+          "sha256": "ed258fde219bc9c00cf533bd0773c9386046ccf95e087dff206080feb1424e48",
+          "hash_scope": "Exact retained source, not uploaded with this addition."
+        }
+      ],
+      "source_quality": "Issuer-reported funding, not independently inspected bank payment. Repeated presentations are one source family and one advance."
+    },
+    {
+      "source_id": "TAE-S40",
+      "title": "TMTG November 2 S4A Amendment No.2",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000143774926034438/djt20261029_s4a.htm",
+      "document_date": "2026-11-02",
+      "accepted_utc": "2026-11-02T21:06:47Z",
+      "source_family": "issuer_filing_hosted_by_SEC",
+      "locator": "Printed p.38/#risk, compared with TAE-S39 p.38; p.276/#agreements repeats TAE-T20",
+      "inspection_date": "2026-11-03",
+      "inspection_mode": "preserved_SEC_HTML_and_prior_filing_comparison",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "s4_nov2.html",
+          "artifact_type": "preserved_SEC_HTML",
+          "bytes": 9294401,
+          "sha256": "aeb694fd2449b2989c2b855d2e0e08c2cdfe47e8a92f76fda949e7d4e267c0bf",
+          "hash_scope": "Exact retained original, not uploaded"
+        }
+      ],
+      "source_quality": "Issuer prospective risk disclosure, not financing agreement, election, payment or independent bank confirmation."
+    },
+    {
+      "source_id": "TAE-S41",
+      "title": "TMTG and TAE November 5 merger-registration effectiveness announcement, Form 425",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000143774926035284/djt20261105_425.htm",
+      "document_date": "2026-11-05",
+      "accepted_utc": "2026-11-05T21:16:51.000Z",
+      "source_family": "issuer_filing_hosted_by_SEC",
+      "locator": "Headline and opening four substantive paragraphs; Additional Information and Forward-Looking Statements",
+      "inspection_date": "2026-11-06",
+      "inspection_mode": "preserved_SEC_HTML_and_current_issuer_submission_feed",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "tmtg425_nov5.html",
+          "artifact_type": "preserved_SEC_HTML",
+          "bytes": 15451,
+          "sha256": "469615c9cb0b254e4541cd1e1591909b16b371b622f8d1201ba8a1c1df91ec0e",
+          "hash_scope": "Exact retained original, not uploaded"
+        },
+        {
+          "artifact_name": "tmtg_submissions_nov6.json",
+          "artifact_type": "preserved_SEC_issuer_submission_feed",
+          "bytes": 116077,
+          "sha256": "c50f8e3259704d5d795596ebf74feb51536d360805fa3865147304ca520dd8a3",
+          "hash_scope": "Exact retained original, not uploaded"
+        }
+      ],
+      "source_quality": "Issuer announcement reports SEC effectiveness and definitive filing. Separate EFFECT/proxy documents not acquired. Scheduled vote, mailing and closing remain prospective; no financing, sale, closing or payment established."
+    },
+    {
+      "source_id": "TAE-S42",
+      "title": "Definitive Rule 424(b)(3) prospectus and official filing metadata",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000143774926035350/djt20261104_424b3.htm",
+      "source_family": "issuer_prospectus_hosted_by_SEC",
+      "inspection_date": "2026-11-06",
+      "locator": "Cover, special-meeting notice, Q&A printed p.5 and Date, Time and Place actual printed p.84; targeted repeated funding/refinancing text",
+      "inspection_mode": "targeted_original_HTML_XML_and_SEC_metadata",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "424b3.html",
+          "artifact_type": "original source response",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000143774926035350/djt20261104_424b3.htm",
+          "bytes": 9360086,
+          "sha256": "26fc03e386ba4ef45984dbc86038b0c3649f9ffc1805dfe5f8c6dbe687e64f34",
+          "acquired_utc": "2026-11-06T14:01:09.013603+00:00",
+          "hash_scope": "Exact retained original, not uploaded"
+        },
+        {
+          "artifact_name": "424b3_index.html",
+          "artifact_type": "original source response",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000143774926035350/0001437749-26-035350-index.htm",
+          "bytes": 13087,
+          "sha256": "dea9925d5ea5ea71bdef5611d6817e660387b6492a758e4d309aea59079755d0",
+          "acquired_utc": "2026-11-06T14:02:46.792130+00:00",
+          "hash_scope": "Exact retained original, not uploaded"
+        },
+        {
+          "artifact_name": "sec_submissions.json",
+          "artifact_type": "original source response",
+          "source_url": "https://data.sec.gov/submissions/CIK0001849635.json",
+          "bytes": 116408,
+          "sha256": "9a546336da514f7c656a7c732f901a2c2ceaba84f002c3a4c7ba8f95e8db229b",
+          "acquired_utc": "2026-11-06T14:00:20.071716+00:00",
+          "hash_scope": "Exact retained original, not uploaded"
+        }
+      ],
+      "source_quality": "Original definitive document acquired. December 14 10:00 Eastern conflicts with TAE-S41 9:15 ET; filing date November 6 and accepted November 5 distinguished. No completed mailing/vote/closing or new flow."
+    },
+    {
+      "source_id": "TAE-S43",
+      "title": "Separate SEC Notice of Effectiveness and metadata",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/999999999526003450/xslEFFECTX01/primary_doc.xml",
+      "source_family": "SEC_record",
+      "inspection_date": "2026-11-06",
+      "locator": "Complete rendered notice and raw XML; original filing index and SEC submission entry",
+      "inspection_mode": "targeted_original_HTML_XML_and_SEC_metadata",
+      "page_images_visually_verified": false,
+      "preserved_artifacts": [
+        {
+          "artifact_name": "effect.xml",
+          "artifact_type": "original source response (rendered HTML)",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/999999999526003450/xslEFFECTX01/primary_doc.xml",
+          "bytes": 2567,
+          "sha256": "64408d4236656efa3bed8a0f1bbeb47ce8baf918df908bb6472c491be862711c",
+          "acquired_utc": "2026-11-06T14:01:11.552259+00:00",
+          "hash_scope": "Exact retained original, not uploaded"
+        },
+        {
+          "artifact_name": "effect_raw.xml",
+          "artifact_type": "original source response",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/999999999526003450/primary_doc.xml",
+          "bytes": 610,
+          "sha256": "e3b324110be1f6293c4189d19c2278b880e776a809ad982ef101a370d42f86d3",
+          "acquired_utc": "2026-11-06T14:02:53.541794+00:00",
+          "hash_scope": "Exact retained original, not uploaded"
+        },
+        {
+          "artifact_name": "effect_index.html",
+          "artifact_type": "original source response",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/999999999526003450/9999999995-26-003450-index.htm",
+          "bytes": 7265,
+          "sha256": "6766d932e746f863929d5af8b28efe9a5e468665c2ec1ed569b78820c7ad87af",
+          "acquired_utc": "2026-11-06T14:02:50.891752+00:00",
+          "hash_scope": "Exact retained original, not uploaded"
+        },
+        {
+          "artifact_name": "sec_submissions.json",
+          "artifact_type": "original source response",
+          "source_url": "https://data.sec.gov/submissions/CIK0001849635.json",
+          "bytes": 116408,
+          "sha256": "9a546336da514f7c656a7c732f901a2c2ceaba84f002c3a4c7ba8f95e8db229b",
+          "acquired_utc": "2026-11-06T14:00:20.071716+00:00",
+          "hash_scope": "Exact retained original, not uploaded"
+        }
+      ],
+      "source_quality": "Separate SEC record confirms November 5 16:00 effectiveness, timezone unstated. Filing date November 5, acceptance November 6 distinct. Not investment-merits endorsement or another event."
     }
   ],
   "revision_history": [
@@ -901,6 +1063,31 @@
       "date": "2026-10-19",
       "change": "Extended existing PR58 with contingent Yorkville M&A share fee, distinct placement ROFR, dated ownership/rename and attributed conflict/opinion limits. Original 75 May allocation rows and 19 transaction observations unchanged.",
       "base_head": "e1819a6b70c659166b0ddf9d83335e278ca5c0c2"
+    },
+    {
+      "date": "2026-10-29",
+      "change": "Added later issuer report of October 7 second-tranche funding as TAE-T20; original nineteen rows preserved. Earlier capacity/no-draw acquisition status is dated history, not current status. No historical receipt total or source-of-funds attribution.",
+      "base_head": "57539709d7502ef5f49aead3caf74611595b319b",
+      "submissions_retrieval": {
+        "source_id": "TAE-S08",
+        "url": "https://data.sec.gov/submissions/CIK0001849635.json",
+        "inspection_date": "2026-10-29",
+        "sha256": "58ba3dfc6a10a6a148d0c5519824abb125a41bd02d53fb734f2289259acf679d",
+        "accepted_utc": "2026-10-29T10:07:51Z",
+        "accession": "0001437749-26-033844"
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "description": "Append TAE-S40 and TAE-REF01 for November 2 prospective refinancing disclosure; original transaction rows and prior records unchanged."
+    },
+    {
+      "date": "2026-11-06",
+      "description": "Append TAE-S41 and TAE-MERGER01 for November 5 issuer-reported registration effectiveness and scheduled merger process. Existing transaction rows, refinancing observations and prior history unchanged."
+    },
+    {
+      "date": "2026-11-06",
+      "description": "Append TAE-S42/S43 for separately acquired definitive prospectus and SEC effectiveness notice. Preserve prior acquisition state and unresolved meeting-time conflict; no transaction or refinancing-observation changes."
     }
   ],
   "derived_calculations": {

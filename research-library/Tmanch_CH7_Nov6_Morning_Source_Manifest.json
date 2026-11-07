@@ -1,0 +1,177 @@
+{
+  "prepared_at_utc": "2026-11-06T14:09:57.500216+00:00",
+  "baseline_commit": "d9ab1db645bf3121a64f7f956210693a90823412",
+  "scope": "Four existing event supplements and five existing claim supplements; separate direct SEC records, prospective humanitarian/security planning and a distinct issuer buyback announcement. No new event, cash-flow total or score.",
+  "sources": [
+    {
+      "source_ids": [
+        "OLESHKY-S063"
+      ],
+      "urls": [
+        "https://tsn.ua/ukrayina/pislia-vyvezennia-liudey-z-oleshkiv-zelenskyy-rozpoviv-pro-novi-plany-evakuatsiyi-3209319.html"
+      ],
+      "inspection": "Rendered original publisher excerpt independently inspected; display November 5 20:34, timezone unstated. Proposal/preparation only. No full video, captions or transcript inspection; no raw HTML or complete tool response retained. Sanitized derived topic record only.",
+      "artifacts": [
+        {
+          "artifact": "oleshky_inspection.md",
+          "type": "derived researcher inspection record; sanitized topic excerpt",
+          "bytes": 1586,
+          "sha256": "b12faa5e745b50d57d69c32372cacf7e5e3a6870c1a09f1fa656252cfbbc5da8",
+          "retention": "Original/derived bytes retained separately, not uploaded",
+          "inspection_record_date": "2026-11-06"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "BRUSSELS-NOV6-S001",
+        "BRUSSELS-NOV6-S002"
+      ],
+      "urls": [
+        "https://t.me/V_Zelenskiy_official/21683",
+        "https://t.me/s/V_Zelenskiy_official/21683",
+        "https://www.ukrinform.ua/rubric-polytics/4181939-zelenskij-nazvav-osnovni-temi-peregovoriv-komand-u-brusseli.html"
+      ],
+      "inspection": "Researcher inspected full original-channel context and resolved timestamp permalink. Display 19:47 lacks independent date/timezone; direct page embed shell. Independent reviewer could inspect dated Ukrinform original (November 5 23:19, timezone unstated), while channel open was unavailable. One interview family, not separate negotiated-term confirmation. Only derived inspection record retained, not original HTML/full tool response.",
+      "artifacts": [
+        {
+          "artifact": "brussels_inspection.md",
+          "type": "derived researcher inspection record; sanitized topic excerpt",
+          "bytes": 1546,
+          "sha256": "cc8bc28438220effb806e529255ad10b5b6b566e9709dbdb91182086c8025522",
+          "retention": "Original/derived bytes retained separately, not uploaded",
+          "inspection_record_date": "2026-11-06"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "TAE-S42"
+      ],
+      "urls": [
+        "https://www.sec.gov/Archives/edgar/data/1849635/000143774926035350/djt20261104_424b3.htm",
+        "https://www.sec.gov/Archives/edgar/data/1849635/000143774926035350/0001437749-26-035350-index.htm",
+        "https://data.sec.gov/submissions/CIK0001849635.json"
+      ],
+      "inspection": "Original definitive prospectus retained and targeted cover, meeting notice, Q&A printed p.5 and actual Date/Time printed p.84 inspected in HTML; no PDF-image or full comparative audit. Document date November 2, SEC filing date November 6, acceptance November 5 23:02:34 UTC distinct. December 14 10:00 Eastern conflicts with earlier issuer 09:15 ET; no reconciliation inferred.",
+      "artifacts": [
+        {
+          "artifact": "424b3.html",
+          "type": "original source response",
+          "bytes": 9360086,
+          "sha256": "26fc03e386ba4ef45984dbc86038b0c3649f9ffc1805dfe5f8c6dbe687e64f34",
+          "retention": "Original/derived bytes retained separately, not uploaded",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000143774926035350/djt20261104_424b3.htm",
+          "acquired_utc": "2026-11-06T14:01:09.013603+00:00"
+        },
+        {
+          "artifact": "424b3_index.html",
+          "type": "original source response",
+          "bytes": 13087,
+          "sha256": "dea9925d5ea5ea71bdef5611d6817e660387b6492a758e4d309aea59079755d0",
+          "retention": "Original/derived bytes retained separately, not uploaded",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/000143774926035350/0001437749-26-035350-index.htm",
+          "acquired_utc": "2026-11-06T14:02:46.792130+00:00"
+        },
+        {
+          "artifact": "sec_submissions.json",
+          "type": "original source response",
+          "bytes": 116408,
+          "sha256": "9a546336da514f7c656a7c732f901a2c2ceaba84f002c3a4c7ba8f95e8db229b",
+          "retention": "Original/derived bytes retained separately, not uploaded",
+          "source_url": "https://data.sec.gov/submissions/CIK0001849635.json",
+          "acquired_utc": "2026-11-06T14:00:20.071716+00:00"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "TAE-S43"
+      ],
+      "urls": [
+        "https://www.sec.gov/Archives/edgar/data/1849635/999999999526003450/xslEFFECTX01/primary_doc.xml",
+        "https://www.sec.gov/Archives/edgar/data/1849635/999999999526003450/primary_doc.xml",
+        "https://www.sec.gov/Archives/edgar/data/1849635/999999999526003450/9999999995-26-003450-index.htm"
+      ],
+      "inspection": "Complete original rendered effectiveness notice and raw XML inspected. Same S-4 file 333-299201. Effective November 5 16:00:00 with no explicit timezone; filing date November 5 versus acceptance November 6 05:15:07 UTC distinct. One milestone, not an additional outcome or merits approval.",
+      "artifacts": [
+        {
+          "artifact": "effect.xml",
+          "type": "original source response (rendered HTML)",
+          "bytes": 2567,
+          "sha256": "64408d4236656efa3bed8a0f1bbeb47ce8baf918df908bb6472c491be862711c",
+          "retention": "Original/derived bytes retained separately, not uploaded",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/999999999526003450/xslEFFECTX01/primary_doc.xml",
+          "acquired_utc": "2026-11-06T14:01:11.552259+00:00"
+        },
+        {
+          "artifact": "effect_raw.xml",
+          "type": "original source response",
+          "bytes": 610,
+          "sha256": "e3b324110be1f6293c4189d19c2278b880e776a809ad982ef101a370d42f86d3",
+          "retention": "Original/derived bytes retained separately, not uploaded",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/999999999526003450/primary_doc.xml",
+          "acquired_utc": "2026-11-06T14:02:53.541794+00:00"
+        },
+        {
+          "artifact": "effect_index.html",
+          "type": "original source response",
+          "bytes": 7265,
+          "sha256": "6766d932e746f863929d5af8b28efe9a5e468665c2ec1ed569b78820c7ad87af",
+          "retention": "Original/derived bytes retained separately, not uploaded",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1849635/999999999526003450/9999999995-26-003450-index.htm",
+          "acquired_utc": "2026-11-06T14:02:50.891752+00:00"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "USD1-BUYBACK-S001"
+      ],
+      "urls": [
+        "https://x.com/worldlibertyfi/status/2118516306077008305",
+        "https://worldlibertyfinancial.com/",
+        "https://x.com/worldlibertyfi"
+      ],
+      "inspection": "Full original post text and embedded note inspected, not truncated metadata alone. article:published_time and created_at_ms give November 6 01:30:22 UTC. Official-site sameAs metadata identifies account; profile/exact post one family. Possible reserve fees and other sources, no amount, execution, burn commitment or family receipt in acquired statement. No embedded media inspection.",
+      "artifacts": [
+        {
+          "artifact": "wlfi_buyback_post.html",
+          "type": "original source response",
+          "bytes": 127397,
+          "sha256": "8a2b544a418fc6e5b1cbd14bf8f2534aef56d04f76a34424eebc6001420e7bb5",
+          "retention": "Original/derived bytes retained separately, not uploaded",
+          "source_url": "https://x.com/worldlibertyfi/status/2118516306077008305",
+          "acquired_utc": "2026-11-06T14:01:46.235753+00:00"
+        },
+        {
+          "artifact": "wlfi_site.html",
+          "type": "original source response",
+          "bytes": 122228,
+          "sha256": "22d55b467d4157c6efd5e0e1abc39d4919ca8d917337d5661a76b804146d03c2",
+          "retention": "Original/derived bytes retained separately, not uploaded",
+          "source_url": "https://worldlibertyfinancial.com/",
+          "acquired_utc": "2026-11-06T14:00:24.091627+00:00"
+        },
+        {
+          "artifact": "wlfi_x.html",
+          "type": "original source response",
+          "bytes": 172045,
+          "sha256": "aa425bd3e04a7e8808e67315d9db99587a3f543804f5afec2545f4ceb8cb9f87",
+          "retention": "Original/derived bytes retained separately, not uploaded",
+          "source_url": "https://x.com/worldlibertyfi",
+          "acquired_utc": "2026-11-06T14:00:32.972172+00:00"
+        }
+      ]
+    }
+  ],
+  "coverage_limit": "Targeted original-source and process review, not a full audit of funding balances, prospectus changes or all corporate activity.",
+  "access_limits": [
+    {
+      "urls": [],
+      "inspection": "Secondary Reuters/CoinDesk/Stocktitan web discovery opens unavailable. Raw Stocktitan returned HTTP403 and stopped; not a substantive source. No denied route retried. Original SEC and issuer sources independently acquired.",
+      "artifacts": []
+    }
+  ],
+  "media_limit": "No PDF/page-image or embedded audiovisual inspection in this supplement; SEC printed page numbers are HTML locators."
+}

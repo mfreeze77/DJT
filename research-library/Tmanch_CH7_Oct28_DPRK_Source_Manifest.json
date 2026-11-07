@@ -1,0 +1,64 @@
+{
+  "review_date": "2026-10-28",
+  "base_commit": "341f3cec193846de7c198553441a80d4581de599",
+  "event_id": "J20-2026-059",
+  "claim_id": "CH7-DPRK-DESIGNATIONS-001",
+  "sources": [
+    {
+      "file": "ofac.html",
+      "url": "https://ofac.treasury.gov/recent-actions/20261028",
+      "bytes": 45806,
+      "sha256": "c12db842cbe11c209496c4e46467342c66e28c7d0f539095ff84799907790fa5",
+      "retrieved_utc": "2026-10-28T14:35:47.103035+00:00",
+      "source_id": "DPRK-OCT28-S001",
+      "inspection": "Original official record acquired; ancillary authority records are not independent corroboration of designation.",
+      "retention_note": "SHA256 identifies locally retained original response bytes; the listed URL is the public source."
+    },
+    {
+      "file": "tags.html",
+      "url": "https://ofac.treasury.gov/specially-designated-nationals-list-sdn-list/program-tag-definitions-for-ofac-sanctions-lists",
+      "bytes": 114005,
+      "sha256": "bdec6335b3c95c91e2b8ad19dad3b35a43e40ab53dee2844a30354e32579be05",
+      "retrieved_utc": "2026-10-28T14:35:49.802183+00:00",
+      "source_id": "DPRK-OCT28-S002",
+      "inspection": "Original official record acquired; ancillary authority records are not independent corroboration of designation.",
+      "retention_note": "SHA256 identifies locally retained original response bytes; the listed URL is the public source."
+    },
+    {
+      "file": "faq9.html",
+      "url": "https://ofac.treasury.gov/faqs/9",
+      "bytes": 40292,
+      "sha256": "df1a281c081e85d256dc9b728bff9f56428894280c7d1c7facc167c7ee4d0074",
+      "retrieved_utc": "2026-10-28T14:35:52.317760+00:00",
+      "source_id": "DPRK-OCT28-S003",
+      "inspection": "Original official record acquired; ancillary authority records are not independent corroboration of designation.",
+      "retention_note": "SHA256 identifies locally retained original response bytes; the listed URL is the public source."
+    },
+    {
+      "file": "eo13687.pdf",
+      "url": "https://ofac.treasury.gov/media/7671/download?inline=",
+      "bytes": 319903,
+      "sha256": "6044c7c1eeaad1d2e6d8dc67c769695cda9259187adc74f08ec77a19eb0efa0f",
+      "retrieved_utc": "2026-10-28T14:35:54.601409+00:00",
+      "source_id": "DPRK-OCT28-S004",
+      "inspection": "Original official record acquired; ancillary authority records are not independent corroboration of designation.",
+      "retention_note": "SHA256 identifies locally retained original response bytes; the listed URL is the public source."
+    },
+    {
+      "file": "eo13722.pdf",
+      "url": "https://ofac.treasury.gov/media/7686/download?inline=",
+      "bytes": 321040,
+      "sha256": "39bf75ac0cd7bbdc1a1da82da675e6f823fccc546e6d6168ecb314bb4f9f934d",
+      "retrieved_utc": "2026-10-28T14:35:56.797863+00:00",
+      "source_id": "DPRK-OCT28-S005",
+      "inspection": "Original official record acquired; ancillary authority records are not independent corroboration of designation.",
+      "retention_note": "SHA256 identifies locally retained original response bytes; the listed URL is the public source."
+    }
+  ],
+  "limits": "No separate rationale release acquired; exact subsection determinations, blocked assets, disrupted flows and personal presidential decision chain unverified.",
+  "identity_overlap_check": {
+    "head": "341f3cec193846de7c198553441a80d4581de599",
+    "files": 54,
+    "result": "No exact or punctuation-normalized identifier matches in inspected nonarchive/nonrhetoric structured CSVs and source network relationships; bounded check, not proof of no indirect connection."
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "verified_at": "2026-10-28",
+  "base_commit": "5753d76bc3e54be67336e0a7faf56b4bb1ad4ff0",
+  "source_families": {
+    "Netherlands": [
+      {
+        "file": "donor-nonmilitary.html",
+        "url": "https://www.government.nl/latest/news/2026/10/28/minister-sjoerdsma-announces-new-support-package-during-visit-to-kyiv",
+        "status": 200,
+        "acquired_utc": "2026-10-28T19:24–19:26Z",
+        "bytes": 230704,
+        "sha256": "66dceee534bd718e31556f3b7cd4f9e0a49e1e7c8c164de13c451ad84b1fef90"
+      },
+      {
+        "file": "budget-day.html",
+        "url": "https://www.government.nl/latest/news/2026/09/15/budget-day-2026-extra-money-to-support-ukraine-and-for-development-cooperation",
+        "status": 200,
+        "acquired_utc": "2026-10-28T19:24–19:26Z",
+        "bytes": 239031,
+        "sha256": "dd31ec0540c243f27cc9a13713dc6a7e18818257d77e2442fcfcb9834784ed37"
+      },
+      {
+        "file": "presidency-package.html",
+        "url": "https://www.president.gov.ua/news/niderlandi-vidilyayut-500-miljoniv-yevro-vijskovoyi-dopomogi-107065",
+        "status": 200,
+        "acquired_utc": "2026-10-28T19:24–19:26Z",
+        "bytes": 239226,
+        "sha256": "b191d59ed6cc6ece7e10d1f300488c555ed349b9f70ebdef30c40ee014ae9683"
+      },
+      {
+        "file": "presidency-business.html",
+        "url": "https://www.president.gov.ua/news/volodimir-zelenskij-i-rob-yetten-zustrilisya-z-predstavnikam-107069",
+        "status": 200,
+        "acquired_utc": "2026-10-28T19:24–19:26Z",
+        "bytes": 257741,
+        "sha256": "35aacdf6992a6cd1cae15cbe8516a86e3d4e1254d6a9fc1aebcf8e7d72504ad0"
+      },
+      {
+        "file": "defence-budget.html",
+        "url": "https://www.rijksfinancien.nl/memorie-van-toelichting/2027/OWB/X",
+        "status": 200,
+        "acquired_utc": "2026-10-28T19:24–19:26Z",
+        "bytes": 657998,
+        "sha256": "e715892536ba2f16f9719dc31a9118da17fae67e2256fec0d417e62fd09ff2a0"
+      }
+    ],
+    "NEHHOR": [
+      {
+        "name": "release.html",
+        "url": "https://www.energy.gov/articles/energy-department-authorizes-exchange-northeast-home-heating-oil-reserve",
+        "status": 200,
+        "sha256": "b1a98b8c4fb358e1c6c6a4f0aac99aef77a16059403e529226cde6ad29ef4095"
+      },
+      {
+        "name": "rfp.pdf",
+        "url": "https://www.spr.doe.gov/nehhor/docs/Northeast%20Home%20Heating%20Oil%20Reserve%20Exchange%20Request%20for%20Proposal.pdf",
+        "status": 200,
+        "sha256": "a48adadeb895b01cf895a93eb6ff329915ef57c000e1859af22ada8c7e554bcb"
+      },
+      {
+        "name": "qa.pdf",
+        "url": "https://www.spr.doe.gov/nehhor/docs/Northeast%20Home%20Heating%20Oil%20Reserve%20Exchange%20Questions%20and%20Answers.pdf",
+        "status": 200,
+        "sha256": "0aab7a36d20e2a427876d86b7e5646206e5114b20574d090e79196fe4ed5a355"
+      }
+    ],
+    "Oleshky": {
+      "source.html": "f1086667bdcec105570516a0dba1675395251a280e1be9f9621daab39037d426",
+      "dms.html": "33622f38a64654a6cc972c0227a0b5253b08ab6816bba2248fa05e7a29ebe52a",
+      "dms.txt": "fa90ac64e9e77b77d5843c6f41f177832a7ae218719c86ca0d53dce5487b657c",
+      "source.txt": "466108907f9060dab9eaaf6b81692795789dba7b4eb671c889c40fee3bb713bc"
+    },
+    "Bulgaria": [
+      {
+        "source_id": "BULGARIA-S002",
+        "url": "https://assets.publishing.service.gov.uk/media/6ae1dcbd7fe45a08a4036e6a/General_Licence_Lukoil_Bulgaria_INT.2025.7895596_October__2026.pdf",
+        "sha256": "dfffe1513c0f57bea264e43ee82cec2616728257903a998da1c5f888c5793b88"
+      },
+      {
+        "source_id": "BULGARIA-S003",
+        "url": "https://assets.publishing.service.gov.uk/media/6ae1dcd2bdb574cf1c9b3efe/Publication_Notice_Lukoil_Bulgaria_INT.2025.7895596_October_2026.pdf",
+        "sha256": "978dbe05955be4297805bd0a77a863c0c82dc388901b5aa1335cb534445f04ce"
+      }
+    ],
+    "DPRK rationale": [
+      {
+        "source_id": "DPRK-OCT28-S006",
+        "url": "https://home.treasury.gov/news/press-releases/sb0669",
+        "status": 200,
+        "bytes": 77010,
+        "sha256": "d9e9f33661a21dc22d65c50795cac286d6215a732970e778439f77f5c3fdd02d"
+      }
+    ],
+    "NATO": [
+      {
+        "file": "nato-delivered.html",
+        "url": "https://www.nato.int/en/news-and-events/articles/news/2026/10/28/nato-deputy-secretary-general-at-the-kyiv-security-forum-stresses-ukraines-urgent-need-for-more-air-defence",
+        "status": 200,
+        "acquired_utc": "2026-10-28T22:35Z",
+        "bytes": 315940,
+        "sha256": "f37c0ae52f7f03a417c28d27853f3e8bcb60d2223cb347edcec07bd9e4f486d9"
+      },
+      {
+        "file": "nato-loan.html",
+        "url": "https://www.nato.int/en/news-and-events/articles/news/2026/10/28/secretary-general-highlights-strong-nato-eu-cooperation-during-visit-of-commissioner-kubilius",
+        "status": 200,
+        "acquired_utc": "2026-10-28T22:35Z",
+        "bytes": 375626,
+        "sha256": "314b22a48c0217e7d2fab067acd961b53c7885dec694003e76fd32b4f1a6de2a"
+      },
+      {
+        "file": "president.html",
+        "url": "https://www.president.gov.ua/en/news/zayava-prezidenta-ukrayini-pid-chas-spilnogo-z-premyer-minis-107057",
+        "status": 200,
+        "acquired_utc": "2026-10-28T22:35Z",
+        "bytes": 216569,
+        "sha256": "bb252e036009bf26bd9a7108a9866f0d6d4bc1e7b4491a6de65d6793d1288825"
+      }
+    ]
+  },
+  "limits": "Permissions, commitments and solicitation are not realized financial flows. Oleshky sources concern one resident/institutional family."
+}

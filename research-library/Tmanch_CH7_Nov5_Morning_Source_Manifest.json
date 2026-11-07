@@ -1,0 +1,179 @@
+{
+  "prepared_at_utc": "2026-11-05T14:16:59.990205+00:00",
+  "baseline_commit": "fa6e4fb92f1edd74a1408310622a47c4c1d4f2c9",
+  "scope": "Three unscored additions: 082 Swiss sanctions and exceptions with staged commencement; 083 annual EO 12170 emergency continuity; 084 issuer-reported MOL preparatory licence and its separate matrix companion. No new conduct allegation, cash flow, score or existing-row rewrite.",
+  "sources": [
+    {
+      "source_ids": [
+        "CH-SAN-S001"
+      ],
+      "urls": [
+        "https://www.admin.ch/en/newnsb/KsmEWk4E-bHM"
+      ],
+      "inspection": "Original full article text inspected; aggregate list figures not independently reconciled.",
+      "artifacts": [
+        {
+          "artifact": "swiss/admin_release.html",
+          "type": "original HTTP200 HTML",
+          "bytes": 110163,
+          "sha256": "2c8e9f51bb1b3f5afa5833e817ec5915b862975bb4d90590ae13bd35979c22a5",
+          "retention": "Private source retention; bytes not uploaded with this manifest"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "CH-SAN-S002"
+      ],
+      "urls": [
+        "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/oc/2026/601/fr/xml/fedlex-data-admin-ch-eli-oc-2026-601-fr-xml-1.xml"
+      ],
+      "inspection": "Parsed source, operative provisions and dates inspected; XML metadata agrees with legal body, unlike browser sidebar.",
+      "artifacts": [
+        {
+          "artifact": "swiss/601.xml",
+          "type": "original HTTP200 XML",
+          "bytes": 190251,
+          "sha256": "ed713a8595ab8254166daaf0b782d1280b42190dd97ab2fe0753602334004df0",
+          "retention": "Private source retention; bytes not uploaded with this manifest"
+        },
+        {
+          "artifact": "swiss/fedlex601_browser_extraction.txt",
+          "type": "derived_browser_extraction_including_inconsistent_sidebar_dates",
+          "bytes": 82597,
+          "sha256": "4fe54be3aedd33d717e44a419cb8e39164ed2d05626bb8589e6caab61054bd95",
+          "retention": "Private source retention; bytes not uploaded with this manifest"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "CH-SAN-S003"
+      ],
+      "urls": [
+        "https://www.fedlex.admin.ch/eli/cc/2022/151/fr"
+      ],
+      "inspection": "Article 20 paragraphs 2bis/3 inspected; raw consolidated XML not acquired; extraction includes timeout message from separate locator operation.",
+      "artifacts": [
+        {
+          "artifact": "swiss/consolidated_crypto_browser_extraction.txt",
+          "type": "derived original-browser text extraction",
+          "bytes": 6778,
+          "sha256": "8a18c9db161ab0ab491b6f66d5ba1cb5f80e3ae3c66701d46e5806193c668e06",
+          "retention": "Private source retention; bytes not uploaded with this manifest"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "CH-SAN-S004"
+      ],
+      "urls": [
+        "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/oc/2026/600/fr/xml/fedlex-data-admin-ch-eli-oc-2026-600-fr-xml-1.xml"
+      ],
+      "inspection": "Separate Belarus amendment body dates Nov 4/Nov 5; no full list census.",
+      "artifacts": [
+        {
+          "artifact": "swiss/600.xml",
+          "type": "original HTTP200 XML",
+          "bytes": 134476,
+          "sha256": "98ce0f805c68d85ae0fcc627e8a52e17c57ac618af4169b12923795795256b76",
+          "retention": "Private source retention; bytes not uploaded with this manifest"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "IRAN-12170-S001"
+      ],
+      "urls": [
+        "https://www.govinfo.gov/content/pkg/FR-2026-11-05/pdf/2026-22685.pdf"
+      ],
+      "inspection": "Full text and complete page visually inspected, including date and signature image. Web tool returned unavailable; ordinary direct HTTP source retrieval succeeded. No access denial bypass. Final and public-inspection PDFs are one notice/source family; congressional receipt not verified.",
+      "artifacts": [
+        {
+          "artifact": "iran/iran_published.pdf",
+          "type": "original_final_GovInfo_PDF",
+          "bytes": 189623,
+          "sha256": "f6ab26539e10be21f2f8c02363008e4420b557f4bf264e9d5dfca2657d9211a9",
+          "retention": "Private source retention; bytes not uploaded with this manifest"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "IRAN-12170-S001-PI"
+      ],
+      "urls": [
+        "https://public-inspection.federalregister.gov/2026-22685.pdf"
+      ],
+      "inspection": "Full text and both pages visually inspected. Same notice/source family as S001, not additive. Final and public-inspection PDFs are one notice/source family; congressional receipt not verified.",
+      "artifacts": [
+        {
+          "artifact": "iran/iran_notice.pdf",
+          "type": "original_public_inspection_PDF",
+          "bytes": 175936,
+          "sha256": "b08cb24bffa8fb2b93bb935affac5addaeab5831cb1b1e6ca566ea63939e3fc7",
+          "retention": "Private source retention; bytes not uploaded with this manifest"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "MOL-NIS-S001"
+      ],
+      "urls": [
+        "https://pap-mediaroom.pl/biznes-i-finanse/mol-rt-1022026-mol-received-ofac-license-execute-preparatory-transactions-relation",
+        "https://pap-mediaroom.pl/sites/default/files/attachments/202611/DOC.20261105.55447353.zal01_102_MOL_ofac_execution_20261105_eng.pdf"
+      ],
+      "inspection": "Full one-page issuer PDF text and entire page image visually inspected; PAP HTML attachment linkage/date/source inspected. November 5 is disclosure date, not verified grant/effective date. Underlying licence unacquired. Exact expiry time/timezone and inclusivity unacquired; no transaction execution claimed.",
+      "artifacts": [
+        {
+          "artifact": "mol/mol_licence.pdf",
+          "type": "issuer_PDF_reproduced_by_ESPI_PAP",
+          "bytes": 244450,
+          "sha256": "0c77883baab182755f2d9b3fd39bcc77c386eb97142f2e0057c4cbda53c1e43c",
+          "retention": "Private source retention; bytes not uploaded with this manifest"
+        },
+        {
+          "artifact": "mol/mol_pap.html",
+          "type": "PAP_ESPI_disclosure_page_HTML",
+          "bytes": 105155,
+          "sha256": "fa01c7fc2fd4718182947cce43db7b4e3a41c32171348a14bbc79b22ef8b4a3f",
+          "retention": "Private source retention; bytes not uploaded with this manifest"
+        }
+      ]
+    }
+  ],
+  "access_limits": [
+    {
+      "urls": [
+        "https://www.fedlex.admin.ch/fr/oc/index/2026/11/176"
+      ],
+      "status": "Raw Fedlex index is an application shell, not operative law. Observed sidebar dates conflict with the acquired 601 XML metadata and operative body.",
+      "artifacts": [
+        {
+          "artifact": "swiss/fedlex_index_shell.html",
+          "type": "original_application_shell_not_law",
+          "bytes": 77151,
+          "sha256": "39d0c4d52bf6c1140a7d5b1848e1a625375891aecc22869089e1361f1fd8b3be",
+          "retention": "Private source retention; bytes not uploaded with this manifest"
+        }
+      ]
+    },
+    {
+      "urls": [
+        "https://www.seco.admin.ch/dam/fr/sd-web/8pz3BBlqqQ3Q/Ukraine_Delta_2026-11-03.pdf"
+      ],
+      "status": "Raw SECO PDF/XML/index requests returned HTTP 503. Web-extracted 112-page PDF header was inspected; no complete name-level annex reconciliation or visual PDF audit. No entity conduct allegations adopted.",
+      "artifacts": []
+    },
+    {
+      "urls": [
+        "https://www.fedlex.admin.ch/eli/cc/2022/151/fr"
+      ],
+      "status": "Consolidated Article 20 original text inspected in browser extraction; raw consolidated XML not acquired. Separate browser XML download timed out; direct 601 source XML acquisition succeeded. Unparseable 597/599 responses excluded.",
+      "artifacts": []
+    }
+  ]
+}

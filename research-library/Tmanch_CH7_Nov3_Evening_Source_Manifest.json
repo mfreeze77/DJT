@@ -1,0 +1,98 @@
+{
+  "prepared_date": "2026-11-03",
+  "scope": "Existing diesel-price claim update and unscored allied winter-support context077; no financial-flow or score changes",
+  "baseline_commit": "a473816125aa40845515c846368d0adb79d1223e",
+  "sources": [
+    {
+      "source_ids": [
+        "EIA-DIESEL-S003"
+      ],
+      "url": "https://www.eia.gov/petroleum/gasdiesel/",
+      "acquired_at_utc": "2026-11-03T23:45:48.218979+00:00",
+      "inspection": "Original November3 release table and date; November2 observations. No price-effect attribution or statistical-significance analysis.",
+      "artifacts": [
+        {
+          "artifact": "eia_nov3.raw",
+          "type": "original_HTML_bytes",
+          "bytes": 114861,
+          "sha256": "36ed57ad1dcbc953b3015d60f81e7c9eb2230674a601e7e3782db0a16cd6ecd2",
+          "retention": "Private source retention; bytes not uploaded with this manifest"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "EIA-DIESEL-S002"
+      ],
+      "url": "https://www.eia.gov/petroleum/gasdiesel/diesel_proc-methods.php",
+      "acquired_at_utc": "2026-11-03T23:45:52.433314+00:00",
+      "inspection": "November3 reacquisition of existing methodology source, not a newly issued methodology or a new source family.",
+      "artifacts": [
+        {
+          "artifact": "eia_method.raw",
+          "type": "original_HTML_bytes",
+          "bytes": 66765,
+          "sha256": "1c30fa1d0d74c1a8ec4266739bff5b439535d5148e3e367e105bf624b9137d11",
+          "retention": "Private source retention; bytes not uploaded with this manifest"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "GER-WINTER-S001"
+      ],
+      "url": "https://www.bundesregierung.de/breg-de/aktuelles/pressekonferenzen/bundeskanzler-pk-selenskyj-berlin-2459660",
+      "acquired_date_utc": "2026-11-03",
+      "acquired_utc_window": "2026-11-03T23:43:29Z/2026-11-03T23:44:00Z",
+      "timestamp_limit": "Tool-bounded acquisition window; exact per-response seconds not retained.",
+      "inspection": "Full original transcript text including later questions; no audiovisual inspection. Foreign-language portion is simultaneous interpretation.",
+      "artifacts": [
+        {
+          "artifact": "german-press-conference.html",
+          "type": "original_HTML",
+          "bytes": 153105,
+          "sha256": "8d7e9df9a9550e87779bade21e94611e64e0e7ef7f8ccafe35ab980908d633ec",
+          "retention": "Private source retention; bytes not uploaded with this manifest"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "GER-WINTER-S002"
+      ],
+      "url": "https://www.president.gov.ua/en/news/nimechchina-nadast-ukrayini-zimovij-paket-pidtrimki-volodimi-107125",
+      "acquired_date_utc": "2026-11-03",
+      "acquired_utc_window": "2026-11-03T23:43:29Z/2026-11-03T23:44:00Z",
+      "timestamp_limit": "Tool-bounded acquisition window; exact per-response seconds not retained.",
+      "inspection": "Original meeting release text; no audiovisual inspection. Displayed18:36 timezone not acquired.",
+      "artifacts": [
+        {
+          "artifact": "ua-winter-package.html",
+          "type": "original_HTML",
+          "bytes": 266608,
+          "sha256": "3a658d48a1554289827128f7711292eeb14372683f6a1a68b4ff63167bce4783",
+          "retention": "Private source retention; bytes not uploaded with this manifest"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "GER-WINTER-S003"
+      ],
+      "url": "https://www.bundesfinanzministerium.de/Content/DE/Pressemitteilungen/Finanzpolitik/2026/07/2026-07-06-regierungsentwurf-bundeshaushalt-2027.html",
+      "acquired_date_utc": "2026-11-03",
+      "acquired_utc_window": "2026-11-03T23:45:17Z/2026-11-03T23:45:35Z",
+      "timestamp_limit": "Tool-bounded acquisition window; exact per-response seconds not retained.",
+      "inspection": "Original July6 draft-budget release; no enacted-budget or payment verification.",
+      "artifacts": [
+        {
+          "artifact": "bmf-july6-budget.html",
+          "type": "original_HTML",
+          "bytes": 240471,
+          "sha256": "c276ac2199f88dfbd46b3662d2e7605dbe1bba0f3abfc96918768043237ee3d9",
+          "retention": "Private source retention; bytes not uploaded with this manifest"
+        }
+      ]
+    }
+  ]
+}

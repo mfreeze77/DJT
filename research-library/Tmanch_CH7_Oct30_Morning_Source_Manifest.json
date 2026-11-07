@@ -1,0 +1,111 @@
+{
+  "reviewed": "2026-10-30",
+  "baseline": "76fc7da496aa1f336a7bcd9db60de1430fc5872c",
+  "limits": "No full-source republication. Original-source assertions remain attributed. No aid quantities, onward arrivals, closing/payment or reward distribution established.",
+  "artifacts": [
+    {
+      "source": "LIG-S013",
+      "url": "https://www.carso.com.mx/wp-content/uploads/2026/10/Reporte-3T26-GCarso-1.pdf",
+      "artifact": "carso_q3.pdf",
+      "kind": "original PDF",
+      "bytes": 2181494,
+      "sha256": "41842b61f722b915dfad3e3e49e7bd24db3ed9567bf6148fb427b9909911dcab"
+    },
+    {
+      "source": "LIG-S014",
+      "url": "https://www.carso.com.mx/wp-content/uploads/2026/10/GCarso-3T26-ESP.pdf",
+      "artifact": "carso_q3_release.pdf",
+      "kind": "original PDF",
+      "bytes": 479316,
+      "sha256": "51ef54e2f5bc2a3c5a677994afd0785291e5256fdf4bb8bc796839e085373990"
+    },
+    {
+      "source": "USD1-INC-S002",
+      "url": "https://www.binance.com/en-TR/support/announcement/detail/59f28e09ce8e4f01804aac4699bedaff",
+      "artifact": "announcement.html",
+      "kind": "original response and decoded HTML",
+      "bytes": 120153,
+      "sha256": "eaf8feced8861009d81a59a0fb6a8c382b2edac64d5c02d1f702b13f64346078"
+    },
+    {
+      "source": "USD1-INC-S002",
+      "url": "https://www.binance.com/en-TR/support/announcement/detail/59f28e09ce8e4f01804aac4699bedaff",
+      "artifact": "announcement_decoded.html",
+      "kind": "original response and decoded HTML",
+      "bytes": 431853,
+      "sha256": "bdb39ffda22257fbc1859f36987d278293e2a29765a23da2b38a8f8fef1bc783"
+    },
+    {
+      "source": "OLESHKY-S032\u2013035",
+      "url": "https://t.me/s/David_Arakhamia ; https://t.me/s/dmytro_lubinetzs",
+      "artifact": "sources_web_result.json",
+      "kind": "tool-rendered original channel text or indexed contextual relay; not raw HTML or inspected media",
+      "bytes": 37202,
+      "sha256": "061640096b074723e99781b79da946bb5a3c9965fb4c1198be1fab3c65bfc4e0"
+    },
+    {
+      "source": "OLESHKY-S032\u2013035",
+      "url": "https://t.me/s/David_Arakhamia ; https://t.me/s/dmytro_lubinetzs",
+      "artifact": "detail_web_result.json",
+      "kind": "tool-rendered original channel text or indexed contextual relay; not raw HTML or inspected media",
+      "bytes": 37419,
+      "sha256": "8dc315f21cd5fdac4e2efee094a1f3a585ca8fe327e229ac0d1802e06cfd6b69"
+    },
+    {
+      "source": "OLESHKY-S032\u2013035",
+      "url": "https://t.me/s/David_Arakhamia ; https://t.me/s/dmytro_lubinetzs",
+      "artifact": "context_web_result.json",
+      "kind": "tool-rendered original channel text or indexed contextual relay; not raw HTML or inspected media",
+      "bytes": 37698,
+      "sha256": "579c4a7281f63ccaeaafadaf838243c59008a6b04568f33fbd3d64a6030884c8"
+    },
+    {
+      "source": "UA1072-S001",
+      "url": "https://www.president.gov.ua/documents/10722026-62257",
+      "artifact": "decree1072.html",
+      "kind": "original acquired bytes",
+      "bytes": 140281,
+      "sha256": "54b20424a72859639327308d1396db544f682b40a0a1896d6099c406f98b886c"
+    },
+    {
+      "source": "UA1073-S001",
+      "url": "https://www.president.gov.ua/documents/10732026-62261",
+      "artifact": "decree1073.html",
+      "kind": "original acquired bytes",
+      "bytes": 138695,
+      "sha256": "ca17e08ae6882123aeb7641455fc617c165accdffa7867113454ce98affafc1e"
+    },
+    {
+      "source": "UA1072-S002",
+      "url": "https://www.president.gov.ua/storage/j-files-storage/01/52/29/ca2b3165a96d5e313ae54b40d7717fee_1793294002.docx",
+      "artifact": "1072_people.docx",
+      "kind": "original acquired bytes",
+      "bytes": 35013,
+      "sha256": "c5cbee06005670b724a25093a67efac0981653ef1192454393a4c1ca20ed5b6a"
+    },
+    {
+      "source": "UA1072-S003",
+      "url": "https://www.president.gov.ua/storage/j-files-storage/01/52/33/7882e2ec0ab2b1e28b2dee63faa919e5_1793294051.docx",
+      "artifact": "1072_entities.docx",
+      "kind": "original acquired bytes",
+      "bytes": 36221,
+      "sha256": "37bd1c0c433073732b9dadaf28f465b7abb317adb05855035d4d16023cbd29c6"
+    },
+    {
+      "source": "UA1073-S002",
+      "url": "https://www.president.gov.ua/storage/j-files-storage/01/52/37/193b704fc12b266cfc755a37e2239b4d_1793294521.docx",
+      "artifact": "1073_vessels.docx",
+      "kind": "original acquired bytes",
+      "bytes": 34967,
+      "sha256": "bfd1499614315344cf92aaf69d47e1d80c5778b6bb04f28eab92fb887859236c"
+    },
+    {
+      "source": "DIANA-S001",
+      "url": "https://nato.int/en/news-and-events/articles/news/2026/10/29/natos-diana-and-ukraine-strengthen-cooperation-on-defence-innovation",
+      "artifact": "nato_diana.html",
+      "kind": "original acquired bytes",
+      "bytes": 317286,
+      "sha256": "3169da095f77ef40768bd76490588309d5afd801df45ff88a36101110a421622"
+    }
+  ]
+}

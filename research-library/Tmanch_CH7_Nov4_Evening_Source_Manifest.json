@@ -1,0 +1,149 @@
+{
+  "prepared_at_utc": "2026-11-05T00:13:02.293710+00:00",
+  "watch_date": "2026-11-04 evening America/Chicago",
+  "baseline_commit": "59190824aaf376e17334c9b8ca8af3420fcf742e",
+  "scope": "Three new unscored events: Brussels consultations 079, separate envoy call 080, and November 4 OFAC administrative designations 081. No new money flow, score, conduct allegation or existing-event rewrite.",
+  "sources": [
+    {
+      "source_ids": [
+        "NOV4-DIP-S001"
+      ],
+      "urls": [
+        "https://www.president.gov.ua/news/volodimir-zelenskij-obgovoriv-zi-stivenom-vitkoffom-i-dzhare-107153",
+        "https://www.president.gov.ua/en/news/volodimir-zelenskij-obgovoriv-zi-stivenom-vitkoffom-i-dzhare-107153"
+      ],
+      "inspection": "Original Ukrainian and official English HTML text inspected, one source family. November 4 display 22:06 has no acquired timezone; no US-side readout or audiovisual verification.",
+      "artifacts": [
+        {
+          "artifact": "sources/presidency.html",
+          "type": "original_HTML",
+          "bytes": 141480,
+          "sha256": "153e2f7b1f582818d8a5476130a99243c0aae8bc3c7c61d9d90d16206165c23b",
+          "retention": "Private source retention; bytes not uploaded with this manifest"
+        },
+        {
+          "artifact": "sources/presidency_en.html",
+          "type": "original_HTML",
+          "bytes": 98839,
+          "sha256": "352b36127adec83e4e8f113e35567d92957c2d992b74b45b06df881f7a2247ec",
+          "retention": "Private source retention; bytes not uploaded with this manifest"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "NOV4-DIP-S002"
+      ],
+      "urls": [
+        "https://www.miragenews.com/prosperity-talks-held-today-commission-says-1771946/",
+        "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2348"
+      ],
+      "inspection": "Full Commission-attributed reproduction inspected with publisher editorial disclaimer. Mirage November 5 03:54 AEDT equals November 4 16:54 UTC. Original Commission statement body unacquired; raw page is application shell only. EUR 231.5bn is cumulative support account, not newly committed funds.",
+      "artifacts": [
+        {
+          "artifact": "sources/mirage.html",
+          "type": "Commission_attributed_reproduction_HTML",
+          "bytes": 52157,
+          "sha256": "4d0eb354ce01cfdb932777ddcc5cf2c2b17d6c7a77fb1fc25eb7095e509831a5",
+          "retention": "Private source retention; bytes not uploaded with this manifest"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "NOV4-DIP-S003"
+      ],
+      "urls": [
+        "https://t.me/s/umerov_rustem",
+        "https://t.me/umerov_rustem/600",
+        "https://newsukraine.rbc.ua/news/ukraine-holds-talks-with-us-europe-and-blackrock-1793822278.html"
+      ],
+      "inspection": "Full original Umerov post extracted through public verified channel timeline lines 183–195; timestamp link resolves exact post 600. 18:35 display has no acquired date/timezone; contemporaneous November 4 reporting supplies date context. Raw Telegram HTML unavailable; extracted official text is not raw original archive. Reporting is not independent firsthand corroboration.",
+      "artifacts": [
+        {
+          "artifact": "sources/umerov_timeline_tool.json",
+          "type": "tool_extracted_original_channel_text",
+          "bytes": 22408,
+          "sha256": "46e03c8b41f29e8c93ca19e8c6f61da945e8344fd4d254780ae9d9ed4f6c12d8",
+          "retention": "Private source retention; bytes not uploaded with this manifest"
+        },
+        {
+          "artifact": "sources/umerov_rbc.html",
+          "type": "original_reporting_HTML",
+          "bytes": 101299,
+          "sha256": "44cf592e56830224381b472f7796567ceab2f17720ad32f56414cb41418ebc0f",
+          "retention": "Private source retention; bytes not uploaded with this manifest"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "IRAN-NOV4-S001"
+      ],
+      "urls": [
+        "https://ofac.treasury.gov/recent-actions/20261104"
+      ],
+      "inspection": "Original list/action HTML inspected. Five new individuals and ten new entities separately counted; four individuals and all ten entities IRAN-EO13902, one individual IRAN-CON-ARMS-EO. Two preexisting entries receive added program tag; later administrative wording edits not newly listed names.",
+      "artifacts": [
+        {
+          "artifact": "ofac_nov4.raw",
+          "type": "original_HTML",
+          "bytes": 820323,
+          "sha256": "7df2c9dcfbb81699b597b9f5fa3c377d54aa8171961fca902d03e9fa4d7c19b3",
+          "retention": "Private source retention; bytes not uploaded with this manifest"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "IRAN-NOV4-S002"
+      ],
+      "urls": [
+        "https://home.treasury.gov/news/press-releases/sb0681/"
+      ],
+      "inspection": "Original Treasury HTML inspected. Explanation covers 14 EO13902 additions, not all 15. Legal blocking/reporting and transaction scope retained with authorization/exemption and ownership rules. New conduct allegations not promoted; no measured enforcement outcome.",
+      "artifacts": [
+        {
+          "artifact": "treasury_nov4.raw",
+          "type": "original_HTML",
+          "bytes": 83770,
+          "sha256": "d350b9e66f019f1b3882646781e3b7521c153357785a91e99032dc9bae53b467",
+          "retention": "Private source retention; bytes not uploaded with this manifest"
+        }
+      ]
+    }
+  ],
+  "access_limits": [
+    {
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2348",
+      "status": "HTTP 200 application shell, not original statement body",
+      "artifacts": [
+        {
+          "artifact": "sources/commission.html",
+          "type": "application_shell_not_statement_body",
+          "bytes": 22045,
+          "sha256": "95b7fc71f6ddc153c27ce3fd4d8fa547ff3183d75c3ab99964daea0a222d5a42",
+          "retention": "Private source retention; bytes not uploaded with this manifest"
+        }
+      ]
+    },
+    {
+      "url": "https://t.me/s/umerov_rustem/600",
+      "status": "Raw request returned Site Unavailable; usable full original text separately retrieved from public timeline through web tool",
+      "artifacts": [
+        {
+          "artifact": "sources/umerov.html",
+          "type": "failed_response_not_original_post",
+          "bytes": 195,
+          "sha256": "5b131ca14aa96311d3432b0062c7443d3b0e6346ec279bd376a75f0a76bcd5d7",
+          "retention": "Private source retention; bytes not uploaded with this manifest"
+        }
+      ]
+    },
+    {
+      "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/u-s-sanctions-fraudulent-ship-registries-and-aviation-support-for-iranian-regime/",
+      "status": "HTTP 403; stopped, no original body acquired or claim dependent on it",
+      "artifacts": []
+    }
+  ]
+}

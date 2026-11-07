@@ -1,0 +1,109 @@
+{
+  "prepared_date": "2026-11-04",
+  "baseline_commit": "55875c609265683429ececeb302588ec1c37bad0",
+  "scope": "Existing043 formal humanitarian recognition; existing077 reported PAC-2 procurement and exploratory acceleration; new unscored078 allied airspace response. No new financial flow, origin allegation or score.",
+  "sources": [
+    {
+      "source_ids": [
+        "OLESHKY-S058"
+      ],
+      "urls": [
+        "https://www.president.gov.ua/documents/10792026-62297"
+      ],
+      "inspection": "Original Ukrainian award decree text and November 2 date inspected; broader humanitarian recognition, no express Oleshky reference.",
+      "artifacts": [
+        {
+          "artifact": "ua-award-melania.html",
+          "type": "original_HTML",
+          "bytes": 132033,
+          "sha256": "082a5db408a96e6e6e17cdca5dfc731e69cd7a261ea52d53ed253cdcb3c33b19",
+          "retention": "Private source retention; bytes not uploaded with this manifest"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "OLESHKY-S059"
+      ],
+      "urls": [
+        "https://www.president.gov.ua/documents/10842026-62301"
+      ],
+      "inspection": "Original Ukrainian award decree text and November 2 date inspected; adviser role and award provision, no express Oleshky reference.",
+      "artifacts": [
+        {
+          "artifact": "ua-award-beckman.html",
+          "type": "original_HTML",
+          "bytes": 132150,
+          "sha256": "afba632fe24ef2d899e0a4dc13b73467b3549b050e83adfda41f7af4964afd4c",
+          "retention": "Private source retention; bytes not uploaded with this manifest"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "GER-WINTER-S004"
+      ],
+      "urls": [
+        "https://www.president.gov.ua/news/pracyuyemo-nad-tim-shob-priskoriti-postachannya-raket-do-pet-107145",
+        "https://www.president.gov.ua/en/news/pracyuyemo-nad-tim-shob-priskoriti-postachannya-raket-do-pet-107145"
+      ],
+      "inspection": "Original Ukrainian and official English text, one source family; November 4 display15:15 without acquired timezone. Participant-reported existing contract and exploratory acceleration; no contract or delivery records, embedded media not inspected.",
+      "artifacts": [
+        {
+          "artifact": "ua-patriot-nov4.html",
+          "type": "original_HTML",
+          "bytes": 375598,
+          "sha256": "eb0c014a6408c140e42d3f6171c73e5541a84a319e777904695e8bfb3ccf7c95",
+          "retention": "Private source retention; bytes not uploaded with this manifest"
+        },
+        {
+          "artifact": "ua-patriot-nov4-en.html",
+          "type": "original_HTML",
+          "bytes": 333716,
+          "sha256": "5af0f48653467948be8649256b2fd3b3490b0bc98d1423b7eecac8a1cd144f8e",
+          "retention": "Private source retention; bytes not uploaded with this manifest"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "LV-RESPONSE-S001"
+      ],
+      "urls": [
+        "https://lvportals.lv/dienaskartiba/396629-nacionalie-brunotie-speki-sniedza-papildu-informaciju-par-1-un-3-novembra-incidentiem-latvijas-gaisa-telpa-2026"
+      ],
+      "inspection": "Original NBS-authored republication text and author/disclaimer/share-citation date inspected. One military source family; no sensor data, recovered object or imagery inspected. No country/operator attribution promoted.",
+      "artifacts": [
+        {
+          "artifact": "latvia_sources/lvportals.html",
+          "type": "primary_authored_official_republication_HTML",
+          "bytes": 105968,
+          "sha256": "20c084f3fd7da5c525de8d1c2961152b158f66d1ec84b10af4aeeb190c69fecd",
+          "retention": "Private source retention; bytes not uploaded with this manifest"
+        }
+      ]
+    }
+  ],
+  "access_limits": [
+    {
+      "url": "https://mil.lv/lv/zinas/nacionalie-brunotie-speki-sniedza-papildu-informaciju-par-1-un-3-novembra-incidentiem",
+      "status": "HTTP 503 upstream connection failure; no original article bytes or original-host timestamp acquired",
+      "artifacts": [
+        {
+          "artifact": "latvia_sources/mil.html",
+          "type": "failed_response_body_not_original_article",
+          "bytes": 98,
+          "sha256": "33fbc61ad080ef68dd7a6479f8c53f1bf864dba2930567dbbc4ceb47490a1909",
+          "retention": "Private source retention; bytes not uploaded with this manifest"
+        },
+        {
+          "artifact": "latvia_sources/mil.headers",
+          "type": "failed_response_headers",
+          "bytes": 169,
+          "sha256": "e9b82d3ccba7ce110c9eb482cbf56001892c5ec7838c49d9e46df0901aa10b63",
+          "retention": "Private source retention; bytes not uploaded with this manifest"
+        }
+      ]
+    }
+  ]
+}

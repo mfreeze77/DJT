@@ -1,0 +1,41 @@
+{
+  "inspected_utc_window": "2026-10-28T16:23:00Z/2026-10-28T16:26:00Z",
+  "repository_read_ref": "5855f048e773c558d89dab27711230e196663fc9",
+  "sources": [
+    {
+      "file": "budget.html",
+      "url": "https://www.gov.uk/government/publications/budget-2026-document/budget-2026-html",
+      "bytes": 1315092,
+      "sha256": "4126e56c765f2b51695d545ab08494d58a8825ec336bc56839e8a13721f895bc",
+      "captured_utc": "2026-10-28T16:24:11.643505+00:00"
+    },
+    {
+      "file": "uk_readout.html",
+      "url": "https://www.gov.uk/government/news/prime-minister-and-chancellors-call-with-the-president-of-ukraine-28-october-2026",
+      "bytes": 69352,
+      "sha256": "2744c3946c2dcb8732d85d7db71975a64a6bd91d768d67d55d57269269e4da6c",
+      "captured_utc": "2026-10-28T16:23:26.059159+00:00"
+    },
+    {
+      "file": "ukraine.html",
+      "url": "https://www.kmu.gov.ua/en/news/norvehiia-vydiliaie-500-mln-norvezkykh-kron-na-pidtrymku-enerhetyky-ukrainy-denys-shmyhal",
+      "bytes": 104656,
+      "sha256": "cfe0765648f7bee59858917a2521853aed8916ba36805edb98e9249d3a846756",
+      "captured_utc": "2026-10-28T16:24:17.291457+00:00"
+    },
+    {
+      "file": "norway_funding.html",
+      "url": "https://www.regjeringen.no/en/whats-new/500-million-nok-in-energy-support-for-ukraine/id3183922/",
+      "bytes": 54471,
+      "sha256": "8cd12b22814ecc1c41b9aff11ac13fd2f32b6d4c36e227a4ec1186bb2c8b636b",
+      "captured_utc": "2026-10-28T16:25:28.990800+00:00"
+    },
+    {
+      "file": "norway_agreement.html",
+      "url": "https://www.regjeringen.no/en/whats-new/norway-and-ukraine-strengthen-energy-cooperation/id3184399/",
+      "bytes": 58033,
+      "sha256": "2c9b77599f34feda87aa89ed856ea7e72f8308185c45e158da3d4c3da69c0bcf",
+      "captured_utc": "2026-10-28T16:25:32.466771+00:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "review_date": "2026-10-27",
+  "source_note": "Tmanch_CH7_Oct27_Extreme_Enforcement_Source_Note.md",
+  "original_artifacts": {
+    "doj.html": {
+      "bytes": 94927,
+      "sha256": "b8eda6fdcd8698402cb0d67978064647235e476437520e020e48e560f53aae6a"
+    },
+    "npa.pdf": {
+      "bytes": 697687,
+      "sha256": "bb734dffd62d37dec770b6c6ee72ddd8ddca7038e2e640b4a9ab2266fde65ed4"
+    },
+    "ofac.html": {
+      "bytes": 39996,
+      "sha256": "60910166ef7ea696f37f9b2241bcc3cfd32f41b7d832419eefe473937bae282a"
+    },
+    "ofac-agreement.pdf": {
+      "bytes": 227223,
+      "sha256": "4c5c41c3d76b9818ba42123d14b91bc8c03e3c20bb2e25428f808eb72250471d"
+    },
+    "ofac-release.pdf": {
+      "bytes": 301001,
+      "sha256": "5db243e9bd450f5a0adc36886b808fdb789a8a0d8f627267300c714cd36e1fbe"
+    },
+    "ofac37699.html": {
+      "bytes": 21770,
+      "sha256": "1d0d950ea09e2ac54a78b487b0f46e5860bae7d6ba4f4062a113896e24b47a1d"
+    },
+    "ofac16865.html": {
+      "bytes": 24188,
+      "sha256": "ce19a73ace7c5f8f46a4718155f4fa8a4423b1b6fafa2df2bd65bd976fb77499"
+    }
+  },
+  "limits": "Hashes identify acquired originals; payment and subsequent compliance remain unverified."
+}

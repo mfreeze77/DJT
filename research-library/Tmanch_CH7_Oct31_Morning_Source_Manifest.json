@@ -1,0 +1,69 @@
+{
+  "reviewed_at": "2026-10-31",
+  "baseline": "3c6ffcc69d3191b739eea12e09a09b1030eaf9b7",
+  "artifacts": [
+    {
+      "source": "OLESHKY-S036\u2013037",
+      "url": "https://t.me/s/David_Arakhamia",
+      "artifact": "original_and_context_web.json",
+      "kind": "retained tool-rendered acquisition; not original HTML or media",
+      "bytes": 31713,
+      "sha256": "30f17eb11fc16cc21f08fa517b2dfc3180af4b1e3d9d2ffe8d84b92a0b2507fa",
+      "acquired": "2026-10-30"
+    },
+    {
+      "source": "OLESHKY-S038\u2013040",
+      "url": "https://t.me/s/dmytro_lubinetzs",
+      "artifact": "channel_rendered.json",
+      "kind": "retained tool-rendered acquisition; not original HTML or media",
+      "bytes": 37577,
+      "sha256": "15f224daa9f5255b55d40870b35629f7cc3cd2a0280c1a5265f854b701a1f49e",
+      "acquired": "2026-10-30"
+    },
+    {
+      "source": "EUCAN-S001\u2013002; NIS-S001\u2013003; OLESHKY-S041\u2013043",
+      "url": "https://www.consilium.europa.eu/media/5pbhxfyj/30102026can-eu_joint_statement-en.pdf; https://www.nis.rs/rs/news/ministarstvo-finansija-sad-izdalo-novu-posebnu-licencu-za-nis/; https://ir.nis.rs/akcije-i-dividenda/akcije-i-vlasnicka-struktura/; https://t.me/David_Arakhamia/439; https://t.me/dmytro_lubinetzs/12963",
+      "artifact": "selected-evidence.md",
+      "kind": "researcher inspection notes/paraphrases of successfully inspected rendered original; not exact tool-response dump or original archive",
+      "bytes": 1933,
+      "sha256_of_notes_only": "4126ef9a19c322eeb55fdfa0e1114cbefd015784bf9900d154dd1493951d5cfe",
+      "acquired": "2026-10-31"
+    },
+    {
+      "source": "USD1-INC-S003",
+      "url": "https://help.coinbase.com/en/coinbase/other-topics/other/mica-restricted-stablecoins",
+      "artifact": "coinbase_rendered_acquisition_note.md",
+      "kind": "researcher inspection notes/paraphrases of successfully inspected rendered original; not exact tool-response dump or original archive",
+      "bytes": 2223,
+      "sha256_of_notes_only": "a97b22ab10040faeb0910d8be7738d033cd050e70df5720ec06d68d3a21495e8",
+      "acquired": "2026-10-31"
+    }
+  ],
+  "limits": [
+    "Hashes identify retained acquisition artifacts, not independent truth of participant assertions.",
+    "Rendered tool responses are not raw source HTML, inspected videos or source-native archives.",
+    "EU/Canada statement parsed text was inspected; no PDF page-image verification.",
+    "NIS underlying specific licence and current ownership registry unacquired.",
+    "Coinbase page publication timestamp and conversion outcomes unacquired.",
+    "Official Telegram post displays lack acquired absolute timestamps; no videos inspected.",
+    "Historical original-channel acquisition artifacts from October 30 are tool-rendered results; October 31 retained note hashes cover researcher notes only."
+  ],
+  "blocked_raw_acquisitions": [
+    {
+      "url": "https://www.consilium.europa.eu/media/5pbhxfyj/30102026can-eu_joint_statement-en.pdf",
+      "result": "HTTP 403; stopped after prior successful rendered-text inspection"
+    },
+    {
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/30/joint-statement-eu-canada-summit-30-october-2026/",
+      "result": "HTTP 403; stopped after prior successful rendered-text inspection"
+    },
+    {
+      "url": "https://www.nis.rs/rs/news/ministarstvo-finansija-sad-izdalo-novu-posebnu-licencu-za-nis/",
+      "result": "HTTP 403; stopped after prior successful rendered-text inspection"
+    },
+    {
+      "url": "https://help.coinbase.com/en/coinbase/other-topics/other/mica-restricted-stablecoins",
+      "result": "HTTP 403; stopped after prior successful rendered-text inspection"
+    }
+  ]
+}
