@@ -1267,3 +1267,11 @@ The [November 6 morning manifest](Tmanch_CH7_Nov6_Morning_Source_Manifest.json) 
 - **079/080 / BRUSSELS-NOV6-S003–005:** [November 6 NB8 follow-up](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-6-nb8-follow-up-completed-coordination-prospective-outcomes). Distinct Ukrainian and Estonian accounts corroborate a held video call; conveyed proposals, future formats and winter-support needs are preparation, not accepted guarantees or delivery. Earlier dates, participants, requested enforcement answers and funding gaps remain preserved.
 
 The [evening source manifest](Tmanch_CH7_Nov6_Evening_Source_Manifest.json) distinguishes primary text, source acquisition and outcome limits. Existing scores, correction history and financial totals are unchanged.
+
+
+## November 7 review: issued financial restrictions and allied ministerial positions
+
+- **091 / CH7-MEXC-9714-001 / MEXC-9714-S001–004:** [FinCEN MEXC order](Tmanch_CH7_Nov7_MEXC_Order_Source_Note.md). Issuance and prospective transmittal restrictions, with a 30-day Federal Register publication trigger; exact effective date and actual implementation unverified. Separate from OFAC action 090; no asset freeze or financial flow counted.
+- **092 / CH7-CBSS-NOV6-001 / CBSS-NOV6-S001–002:** [Warsaw CBSS ministerial statement](Tmanch_CH7_Nov6_CBSS_Source_Note.md). Distinct held allied consultation and published consent/support priorities; resource, sanctions and legal-financing work remain prospective. Existing Oleshky recognition is non-additive; no Trump policy action or money total assigned.
+
+The [November 7 source manifest](Tmanch_CH7_Nov7_Source_Manifest.json) records source provenance and inspection limits. Existing scores, correction history and financial totals are preserved.

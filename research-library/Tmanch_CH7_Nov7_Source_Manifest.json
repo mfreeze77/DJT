@@ -1,0 +1,151 @@
+{
+  "research_window": "November 7, 2026, 14 UTC review",
+  "sources": [
+    {
+      "source_ids": [
+        "MEXC-9714-S001"
+      ],
+      "url": "https://www.fincen.gov/system/files/2026-11/MEXC-Section-9714.pdf",
+      "acquired_utc": "2026-11-07T14:14:01.201014+00:00",
+      "http_status": 200,
+      "artifacts": [
+        {
+          "artifact": "mexc_order.pdf",
+          "artifact_type": "retained original PDF response; not uploaded",
+          "bytes": 408011,
+          "sha256": "b2fabc71fbc805309dbe1592fe5421217c0531b4019ce49e74d8c53bba84062c"
+        }
+      ],
+      "inspection": "Original pre-publication PDF text; cover and printed pages 23–24 visually inspected. Definitions on page 22 inspected in text.",
+      "scope": "Issued FinCEN order; exact publication/effective date and actual operation unverified. No adopted underlying conduct allegation, transaction volume, asset freeze or financial flow.",
+      "source_family": "Treasury/FinCEN institutional record; search endpoint is a publication-status check, not independent conduct evidence.",
+      "joins": [
+        "J20-2026-091",
+        "CH7-MEXC-9714-001"
+      ]
+    },
+    {
+      "source_ids": [
+        "MEXC-9714-S002"
+      ],
+      "url": "https://home.treasury.gov/news/press-releases/sb0685/",
+      "acquired_utc": "2026-11-07T14:14:05.213086+00:00",
+      "http_status": 200,
+      "artifacts": [
+        {
+          "artifact": "treasury_mexc.html",
+          "artifact_type": "retained original HTML response; not uploaded",
+          "bytes": 72505,
+          "sha256": "a5cde7a841cc8ba36b27e752a7b3668526630b81223118ede5a73c1c52bec77b"
+        }
+      ],
+      "inspection": "Original Treasury article body; issuance/date and legal-action scope only.",
+      "scope": "Issued FinCEN order; exact publication/effective date and actual operation unverified. No adopted underlying conduct allegation, transaction volume, asset freeze or financial flow.",
+      "source_family": "Treasury/FinCEN institutional record; search endpoint is a publication-status check, not independent conduct evidence.",
+      "joins": [
+        "J20-2026-091",
+        "CH7-MEXC-9714-001"
+      ]
+    },
+    {
+      "source_ids": [
+        "MEXC-9714-S003"
+      ],
+      "url": "https://www.fincen.gov/resources/statutes-and-regulations/special-measures",
+      "acquired_utc": "2026-11-07T14:14:08.616805+00:00",
+      "http_status": 200,
+      "artifacts": [
+        {
+          "artifact": "fincen_special_measures.html",
+          "artifact_type": "retained original HTML response; not uploaded",
+          "bytes": 48769,
+          "sha256": "9d3f020f472fcab059ab7107a3502023b20aa9529a6e40dfec3f590493a2e4e1"
+        }
+      ],
+      "inspection": "Original FinCEN index row and link; the November 6 index date is not proof of Federal Register publication.",
+      "scope": "Issued FinCEN order; exact publication/effective date and actual operation unverified. No adopted underlying conduct allegation, transaction volume, asset freeze or financial flow.",
+      "source_family": "Treasury/FinCEN institutional record; search endpoint is a publication-status check, not independent conduct evidence.",
+      "joins": [
+        "J20-2026-091",
+        "CH7-MEXC-9714-001"
+      ]
+    },
+    {
+      "source_ids": [
+        "MEXC-9714-S004"
+      ],
+      "url": "https://www.federalregister.gov/api/v1/documents.json?conditions%5Bterm%5D=MEXC&per_page=20",
+      "acquired_utc": "2026-11-07T14:15:14.885025+00:00",
+      "http_status": 200,
+      "artifacts": [
+        {
+          "artifact": "federalregister_mexc_search.json",
+          "artifact_type": "retained original JSON response; not uploaded",
+          "bytes": 4948,
+          "sha256": "043b437d1057047404595b03ec12bbe01c3c84460f98e7b7acef7da9a242b88c"
+        }
+      ],
+      "inspection": "Exact MEXC-term API query; all three results are older SEC notices. Bounded negative search, not proof of universal absence.",
+      "scope": "Issued FinCEN order; exact publication/effective date and actual operation unverified. No adopted underlying conduct allegation, transaction volume, asset freeze or financial flow.",
+      "source_family": "Treasury/FinCEN institutional record; search endpoint is a publication-status check, not independent conduct evidence.",
+      "joins": [
+        "J20-2026-091",
+        "CH7-MEXC-9714-001"
+      ]
+    },
+    {
+      "source_ids": [
+        "CBSS-NOV6-S001"
+      ],
+      "url": "https://www.gov.pl/web/diplomacy/statement-of-ministers---informal-ministerial-meeting-of-council-of-baltic-sea-states-and-ukraine",
+      "document_date": "2026-11-06; displayed date without time",
+      "review_date": "2026-11-07",
+      "http_status": 200,
+      "artifacts": [
+        {
+          "artifact": "poland_cbss.html",
+          "artifact_type": "retained original HTML response; not uploaded",
+          "bytes": 27581,
+          "sha256": "a960fc2bd876a36a42efb2a07b05f84c9cb27650f6d329f97ed691b64b0031dc"
+        }
+      ],
+      "inspection": "Full original HTML retained; article body text inspected; attached media uninspected",
+      "scope": "Held Warsaw meeting and political security/support priorities; not enacted restrictions, final legal financing, allocation or delivery. Repeated Oleshky recognition is non-additive.",
+      "joins": [
+        "J20-2026-092",
+        "CH7-CBSS-NOV6-001"
+      ]
+    },
+    {
+      "source_ids": [
+        "CBSS-NOV6-S002"
+      ],
+      "url": "https://www.vm.ee/en/news/tsahkna-warsaw-peace-ukraine-must-ensure-europes-long-term-security",
+      "document_date": "2026-11-06 19:50; timezone unacquired",
+      "review_date": "2026-11-07",
+      "artifacts": [
+        {
+          "artifact": "estonia_inspection_record.txt",
+          "artifact_type": "derived researcher inspection record; not original HTML or complete tool response",
+          "bytes": 2011,
+          "sha256": "bbf7430516dff1cc4721e945862cf47389844ba2741fb14c62fb569be776b2cd"
+        }
+      ],
+      "inspection": "Full web-rendered article text inspected. Raw HTTP retrieval returned 403; stopped. No original-byte hash claimed.",
+      "scope": "Distinct participant-government account of the same Warsaw meeting; attributed sovereign-alliance, pressure and winter-support positions, not separately verified resource delivery or NATO action.",
+      "joins": [
+        "J20-2026-092",
+        "CH7-CBSS-NOV6-001"
+      ]
+    }
+  ],
+  "boundaries": [
+    "Hashes identify retained responses or explicitly labeled derived inspection records, not public raw archives.",
+    "The FinCEN PDF is pre-publication; its operative terms control over immediate-cutoff headlines. No exact effective date is inferred from a November 6 release/index date.",
+    "No raw Estonian source bytes were obtained; the failed HTTP retrieval was stopped. Rendered text inspection is distinguished from original-byte acquisition.",
+    "Polish joint statement and Estonian participant account describe the same meeting, separate from NB8 and Brussels. Political priorities are not enacted sanctions, completed loans or delivered support.",
+    "Underlying allegations, asserted transaction values and unrelated source leads are outside this action/status record.",
+    "No complete audiovisual inspection, enforcement-outcome audit or contract/delivery reconciliation is claimed.",
+    "Existing event/claim history, unresolved records, scores and financial totals are preserved."
+  ]
+}
