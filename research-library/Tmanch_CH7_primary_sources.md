@@ -1275,3 +1275,14 @@ The [evening source manifest](Tmanch_CH7_Nov6_Evening_Source_Manifest.json) dist
 - **092 / CH7-CBSS-NOV6-001 / CBSS-NOV6-S001–002:** [Warsaw CBSS ministerial statement](Tmanch_CH7_Nov6_CBSS_Source_Note.md). Distinct held allied consultation and published consent/support priorities; resource, sanctions and legal-financing work remain prospective. Existing Oleshky recognition is non-additive; no Trump policy action or money total assigned.
 
 The [November 7 source manifest](Tmanch_CH7_Nov7_Source_Manifest.json) records source provenance and inspection limits. Existing scores, correction history and financial totals are preserved.
+
+
+## November 8 review: diplomatic preparation and corporate source context
+
+- **079/080 / ABUDHABI-NOV8-S001–002 / G7-NOV8-S001–002:** [Russia and allied-support preparation](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-67-preparation-for-abu-dhabi-and-allied-support-formats). Attributed Russian delegation, held preparation meeting, Paris G7 agenda and separate Chernobyl fundraiser remain distinct from completed negotiations, agreed terms or delivered assistance.
+
+- **040 / CH7-DIESEL-SHIP-001 / DIESEL-SHIP-S017–020:** [Dated diversion reporting and separate provider displays](Tmanch_CH7_Oct23_Diesel_Shipment_Source_Note.md#november-5-reporting-and-november-8-provider-display-review). AP does not pair the named destinations; provider ages/estimates remain qualified. No delivery, routing cause, extra cargo or financial total established.
+
+- **CH7-ABTC-Q3-001 / ABTC-Q3-S001–003:** [American Bitcoin Q3 disclosure and dated ownership context](Tmanch_CH7_Nov4_ABTC_Q3_Source_Note.md). Company results, BTC holdings/sales and historic pre-split class/voting interests remain distinct from personal receipts or current equity valuation. No presidential event, financial-flow total or policy-exchange inference.
+
+The [November 8 source manifest](Tmanch_CH7_Nov8_Source_Manifest.json) distinguishes original bytes from retained tool extractions and derived inspection records. Existing scores, source history and unresolved records are preserved.

@@ -1,0 +1,313 @@
+{
+  "review_window": "November 8, 2026 UTC research watch",
+  "sources": [
+    {
+      "source_ids": [
+        "G7-NOV8-S001"
+      ],
+      "url": "https://www.diplomatie.gouv.fr/fr/presse-et-ressources/decouvrir-et-informer/actualites/quelles-priorites-pour-la-reunion-des-ministres-des-affaires-etrangeres-du-g7-a-paris",
+      "source_class": "official French government original HTML",
+      "document_display": "2026-11-06",
+      "review_date_utc": "2026-11-08",
+      "inspection": "full textual body inspected; embedded media not inspected",
+      "artifacts": [
+        {
+          "artifact": "dip_france_g7.html",
+          "artifact_type": "retained original HTML response; not uploaded",
+          "bytes": 61865,
+          "sha256": "2b790afd47c459cb1947accfcbddb867761e75fdfa24a842fe0384d6c57263b0"
+        }
+      ],
+      "joins": [
+        "J20-2026-079",
+        "CH7-BRUSSELS-RECOVERY-001",
+        "J20-2026-080",
+        "CH7-NOV4-ENVOY-CALL-001"
+      ],
+      "retrieved_at_utc": "2026-11-08T00:28:15.857882+00:00",
+      "status": 200,
+      "scope": "Attributed preparation, plans and support priorities only; no completed Abu Dhabi meeting, accepted terms, newly funded package or delivered support. Unrelated source allegations are not adopted."
+    },
+    {
+      "source_ids": [
+        "G7-NOV8-S002"
+      ],
+      "url": "https://www.president.gov.ua/en/news/vsi-paketi-yaki-mozhut-pidtrimati-nash-zahist-i-stijkist-nas-107201",
+      "source_class": "official Ukrainian presidency original HTML",
+      "document_display": "2026-11-07 16:57 displayed; timezone unstated",
+      "review_date_utc": "2026-11-08",
+      "inspection": "full textual body inspected; embedded media not inspected",
+      "artifacts": [
+        {
+          "artifact": "dip_presidency_nov7.html",
+          "artifact_type": "retained original HTML response; not uploaded",
+          "bytes": 105007,
+          "sha256": "e2526e575f037a7bebaef1b7c0ead31b3c6b961ab108d6af3118a0f713e60fff"
+        }
+      ],
+      "joins": [
+        "J20-2026-079",
+        "CH7-BRUSSELS-RECOVERY-001",
+        "J20-2026-080",
+        "CH7-NOV4-ENVOY-CALL-001"
+      ],
+      "retrieved_at_utc": "2026-11-08T00:27:36.218167+00:00",
+      "status": 200,
+      "scope": "Attributed preparation, plans and support priorities only; no completed Abu Dhabi meeting, accepted terms, newly funded package or delivered support. Unrelated source allegations are not adopted."
+    },
+    {
+      "source_ids": [
+        "ABUDHABI-NOV8-S001"
+      ],
+      "url": "https://www.interfax.ru/russia/1127551",
+      "source_class": "original agency reporting of a spokesperson reply to the agency; not official transcript",
+      "document_display": "2026-11-07 10:34 displayed; original metadata confirms +03:00",
+      "review_date_utc": "2026-11-08",
+      "inspection": "full textual body inspected; embedded media not inspected",
+      "artifacts": [
+        {
+          "artifact": "dip_interfax_delegation.html",
+          "artifact_type": "retained original HTML response; not uploaded",
+          "bytes": 68311,
+          "sha256": "b66a211bba2b759911d1827450c6388de010b27dee3fb81c60390dd508b7533b"
+        }
+      ],
+      "joins": [
+        "J20-2026-079",
+        "CH7-BRUSSELS-RECOVERY-001",
+        "J20-2026-080",
+        "CH7-NOV4-ENVOY-CALL-001"
+      ],
+      "retrieved_at_utc": "2026-11-08T00:29:20.691003+00:00",
+      "published_at_utc": "2026-11-07T07:34:00Z",
+      "modified_at_utc": "2026-11-07T07:34:00Z",
+      "status": 200,
+      "scope": "Attributed preparation, plans and support priorities only; no completed Abu Dhabi meeting, accepted terms, newly funded package or delivered support. Unrelated source allegations are not adopted."
+    },
+    {
+      "source_ids": [
+        "ABUDHABI-NOV8-S002"
+      ],
+      "url": "https://t.me/news_kremlin/8306",
+      "source_class": "official channel text in complete retained web-tool response; not raw source HTML",
+      "document_display": "18:14, independent date/timezone metadata unacquired; Nov6 contextual date from Interfax",
+      "review_date_utc": "2026-11-08",
+      "inspection": "exact post link resolved to 8306; embed shell; video not inspected; Kremlin original page unacquired (web timeout, raw HTTP503)",
+      "artifacts": [
+        {
+          "artifact": "dip_russia_primary_web.json",
+          "artifact_type": "complete retained web-tool extraction; not original source HTML",
+          "bytes": 21279,
+          "sha256": "97303fa26be30a0880273ad27334cd3b8bed141f204ae17262aaafc9ee57f5bd"
+        },
+        {
+          "artifact": "dip_kremlin_links_web.json",
+          "artifact_type": "complete retained web-tool link-resolution response; original post embed shell and failed web-page retrieval",
+          "bytes": 827,
+          "sha256": "556af7b9792633e8bc0560f50b2e6ee88423a53778ba3f265c141d5175042796"
+        }
+      ],
+      "joins": [
+        "J20-2026-079",
+        "CH7-BRUSSELS-RECOVERY-001",
+        "J20-2026-080",
+        "CH7-NOV4-ENVOY-CALL-001"
+      ],
+      "acquisition_url": "https://t.me/s/news_kremlin",
+      "scope": "Attributed preparation, plans and support priorities only; no completed Abu Dhabi meeting, accepted terms, newly funded package or delivered support. Unrelated source allegations are not adopted."
+    },
+    {
+      "source_ids": [
+        "DIESEL-SHIP-S017"
+      ],
+      "url": "https://www.inquirer.com/business/russian-diesel-fuel-shipments-change-course-trump-legal-consequences-sherrill-20261105.html",
+      "source_class": "AP agency reporting in identified Inquirer republication",
+      "review_completed_utc": "2026-11-08T00:33:44Z",
+      "observation_limit": "Dated Nov5 reporting; not current live verification; no named destination pairing; third vessel unnamed",
+      "artifacts": [
+        {
+          "artifact": "diesel_ap_continuation_response.json",
+          "artifact_type": "Complete retained web-tool response; derived inspection evidence, not original HTML",
+          "bytes": 20213,
+          "sha256": "e646917237e9f25530aaed7fe3c0a01e85da064633ec41dde308ca65fe9cd63c"
+        },
+        {
+          "artifact": "diesel_permitted_rendered_response.json",
+          "artifact_type": "Complete retained web-tool response; derived inspection evidence, not original HTML",
+          "bytes": 24414,
+          "sha256": "f20c17e3e1ec45df606c2609e8f7f5c02e31684ed4b7b4ac85b6589b724ab521"
+        }
+      ],
+      "joins": [
+        "J20-2026-040",
+        "CH7-DIESEL-SHIP-001"
+      ],
+      "published_display": "2026-11-05 15:06 ET",
+      "scope": "Dated AP report or provider display only, not raw AIS, independent current-position confirmation, discharge, payment, routing cause or zero-global-revenue finding."
+    },
+    {
+      "source_ids": [
+        "DIESEL-SHIP-S018"
+      ],
+      "url": "https://www.vesselfinder.com/vessels/details/9292060",
+      "source_class": "Public provider-displayed AIS-derived page; not acquired raw AIS",
+      "review_completed_utc": "2026-11-08T00:33:44Z",
+      "observation_limit": "Relative provider age, not independently verified observation timestamp/current position; destination declaration/ETA not port nomination or delivery",
+      "artifacts": [
+        {
+          "artifact": "diesel_permitted_rendered_response.json",
+          "artifact_type": "Complete retained web-tool response; derived inspection evidence, not original HTML",
+          "bytes": 24414,
+          "sha256": "f20c17e3e1ec45df606c2609e8f7f5c02e31684ed4b7b4ac85b6589b724ab521"
+        }
+      ],
+      "joins": [
+        "J20-2026-040",
+        "CH7-DIESEL-SHIP-001"
+      ],
+      "vessel": "Talisman",
+      "imo": "9292060",
+      "displayed_position_age": "1 minute",
+      "displayed_region": "East Mediterranean",
+      "displayed_destination": "FOR ORDER",
+      "displayed_eta": "Nov9 10:00",
+      "eta_timezone": "not acquired",
+      "scope": "Dated AP report or provider display only, not raw AIS, independent current-position confirmation, discharge, payment, routing cause or zero-global-revenue finding."
+    },
+    {
+      "source_ids": [
+        "DIESEL-SHIP-S019"
+      ],
+      "url": "https://www.vesselfinder.com/vessels/details/9385831",
+      "source_class": "Public provider-displayed AIS-derived page; not acquired raw AIS",
+      "review_completed_utc": "2026-11-08T00:33:44Z",
+      "observation_limit": "Relative provider age, not independently verified observation timestamp/current position; destination declaration/ETA not port nomination or delivery",
+      "artifacts": [
+        {
+          "artifact": "diesel_permitted_rendered_response.json",
+          "artifact_type": "Complete retained web-tool response; derived inspection evidence, not original HTML",
+          "bytes": 24414,
+          "sha256": "f20c17e3e1ec45df606c2609e8f7f5c02e31684ed4b7b4ac85b6589b724ab521"
+        }
+      ],
+      "joins": [
+        "J20-2026-040",
+        "CH7-DIESEL-SHIP-001"
+      ],
+      "vessel": "Leruo",
+      "imo": "9385831",
+      "displayed_position_age": "4 days",
+      "displayed_region": "Northeast Atlantic",
+      "displayed_destination": "BRAZIL FOR ORDER",
+      "displayed_eta": "Nov13 03:00",
+      "eta_timezone": "not acquired",
+      "scope": "Dated AP report or provider display only, not raw AIS, independent current-position confirmation, discharge, payment, routing cause or zero-global-revenue finding."
+    },
+    {
+      "source_ids": [
+        "DIESEL-SHIP-S020"
+      ],
+      "url": "https://www.vesselfinder.com/vessels/details/9798375",
+      "source_class": "Public provider-displayed AIS-derived page; not acquired raw AIS",
+      "review_completed_utc": "2026-11-08T00:33:44Z",
+      "observation_limit": "Relative provider age, not independently verified observation timestamp/current position; destination declaration/ETA not port nomination or delivery",
+      "artifacts": [
+        {
+          "artifact": "diesel_permitted_rendered_response.json",
+          "artifact_type": "Complete retained web-tool response; derived inspection evidence, not original HTML",
+          "bytes": 24414,
+          "sha256": "f20c17e3e1ec45df606c2609e8f7f5c02e31684ed4b7b4ac85b6589b724ab521"
+        }
+      ],
+      "joins": [
+        "J20-2026-040",
+        "CH7-DIESEL-SHIP-001"
+      ],
+      "vessel": "Agioi Fanendes",
+      "imo": "9798375",
+      "displayed_position_age": "10 days",
+      "displayed_region": "Northeast Atlantic",
+      "displayed_destination": "FOR ORDERS",
+      "displayed_eta": "Nov11 22:00",
+      "eta_timezone": "not acquired",
+      "scope": "Dated AP report or provider display only, not raw AIS, independent current-position confirmation, discharge, payment, routing cause or zero-global-revenue finding."
+    },
+    {
+      "source_ids": [
+        "ABTC-Q3-S001"
+      ],
+      "url": "https://abtc.com/news-and-insights/american-bitcoin-reports-third-quarter-2026-results",
+      "acquired_utc": "2026-11-08T00:42:10.025Z",
+      "document_date_or_period": "2026-11-04 issuer release",
+      "source_family": "American Bitcoin issuer disclosures; SEC hosting is not independent validation",
+      "inspection": "Release text and footnotes, tool lines 7–10 and 27–28.",
+      "scope": "Corporate disclosure only; no family receipt, policy exchange, Russian benefit, current ownership value or new flow total established.",
+      "joins": [
+        "CH7-ABTC-Q3-001"
+      ],
+      "limitations": "No original raw-byte archive in this package. Embedded media and financial images were not inspected.",
+      "artifacts": [
+        {
+          "artifact": "abtc_issuer_response.json",
+          "artifact_type": "Complete returned web-tool response JSON; tool-rendered excerpts, not original HTML or complete archived source",
+          "bytes": 14111,
+          "sha256": "37fca5a2956ff27d6ee530ec5c722a80195fd6f8bc33c6a611f61ffe97b040c6"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "ABTC-Q3-S002"
+      ],
+      "url": "https://www.sec.gov/Archives/edgar/data/1755953/000119312526447413/abtc-20260930.htm",
+      "acquired_utc": "2026-11-08T00:42:11.579Z",
+      "document_date_or_period": "Quarter ended 2026-09-30",
+      "source_family": "American Bitcoin issuer disclosures; SEC hosting is not independent validation",
+      "inspection": "Unaudited operations p.4; Note 6 pp.17–18; MD&A Liquidity and Capital Resources p.39.",
+      "scope": "Corporate disclosure only; no family receipt, policy exchange, Russian benefit, current ownership value or new flow total established.",
+      "joins": [
+        "CH7-ABTC-Q3-001"
+      ],
+      "limitations": "No original raw-byte archive in this package. Embedded media and financial images were not inspected.",
+      "artifacts": [
+        {
+          "artifact": "abtc_10q_response.json",
+          "artifact_type": "Complete returned web-tool response JSON; tool-rendered excerpts, not original HTML or complete archived source",
+          "bytes": 25148,
+          "sha256": "75cd4854b99b0f9a3ee70b42f2931d5f493c76c90253e99741d94f6b6176da73"
+        }
+      ]
+    },
+    {
+      "source_ids": [
+        "ABTC-Q3-S003"
+      ],
+      "url": "https://www.sec.gov/Archives/edgar/data/1755953/000119312526178754/abtc-20260424.htm",
+      "acquired_utc": "2026-11-08T00:42:13.140Z",
+      "document_date_or_period": "Definitive proxy; ownership as of 2026-04-10",
+      "source_family": "American Bitcoin issuer disclosures; SEC hosting is not independent validation",
+      "inspection": "Ownership pp.21–22, including footnote 9; Advisory Agreement p.27.",
+      "scope": "Corporate disclosure only; no family receipt, policy exchange, Russian benefit, current ownership value or new flow total established.",
+      "joins": [
+        "CH7-ABTC-Q3-001"
+      ],
+      "limitations": "No original raw-byte archive in this package. Embedded media and financial images were not inspected.",
+      "artifacts": [
+        {
+          "artifact": "abtc_proxy_response.json",
+          "artifact_type": "Complete returned web-tool response JSON; tool-rendered excerpts, not original HTML or complete archived source",
+          "bytes": 33110,
+          "sha256": "9ff3bcc7a0561dba63d3aba016016f4e31b6508050cf714eb2e6edb0084024a9"
+        }
+      ]
+    }
+  ],
+  "boundaries": [
+    "Retained response hashes do not imply public raw-archive delivery or independent verification of all source assertions. Original HTML and tool-extracted text are distinguished.",
+    "No embedded audiovisual, raw AIS, paid satellite, private negotiating, procurement, settlement or shareholder-transaction records were inspected.",
+    "Upcoming meetings, announced delegations, fundraising plans and reported support needs remain distinct from attendance, agreement, pledges, money transfer and delivery.",
+    "AP and its identified republication are one reporting family. Named provider displays are not an individual destination pairing attributed retroactively to AP. Relative position ages and ETA timezones remain qualified.",
+    "Corporate company-level results, balance-sheet assets, sale proceeds and dated ownership are non-additive observations, not personal receipts or a policy exchange.",
+    "Historical claims, correction history, unresolved records, scores and financial-flow totals are preserved."
+  ]
+}
