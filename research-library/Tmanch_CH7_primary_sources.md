@@ -1286,3 +1286,12 @@ The [November 7 source manifest](Tmanch_CH7_Nov7_Source_Manifest.json) records s
 - **CH7-ABTC-Q3-001 / ABTC-Q3-S001–003:** [American Bitcoin Q3 disclosure and dated ownership context](Tmanch_CH7_Nov4_ABTC_Q3_Source_Note.md). Company results, BTC holdings/sales and historic pre-split class/voting interests remain distinct from personal receipts or current equity valuation. No presidential event, financial-flow total or policy-exchange inference.
 
 The [November 8 source manifest](Tmanch_CH7_Nov8_Source_Manifest.json) distinguishes original bytes from retained tool extractions and derived inspection records. Existing scores, source history and unresolved records are preserved.
+
+
+## November 8 afternoon review: humanitarian primary source and regulatory action
+
+- **043 / CH7-OLESHKY-STATUS-001 / OLESHKY-S064:** [Original White House post-event account](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#november-5-white-house-account-acquired-november-8) upgrades the sourcing for the recorded recognition event. Prepared remarks remain participant testimony, not acquired agreements or an independently reconciled count.
+
+- **093 / CH7-TRAVEL-NPRM-WITHDRAWAL-001 / TRAVEL-WITHDRAW-S001–003:** [FinCEN/Federal Reserve proposal-withdrawal announcement](Tmanch_CH7_Nov6_Travel_Rule_Withdrawal_Source_Note.md). A distinct BSA rulemaking development, not current-rule repeal, crypto exemption, MEXC/OFAC action or measured benefit. November 9 publication remains scheduled at this review.
+
+The [November 8 afternoon source manifest](Tmanch_CH7_Nov8_Afternoon_Source_Manifest.json) preserves source provenance and inspection limits. Existing corrections, scores and financial-flow totals remain unchanged.

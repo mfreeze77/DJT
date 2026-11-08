@@ -1,0 +1,111 @@
+{
+  "review_window": "November 8, 2026 afternoon UTC research watch",
+  "sources": [
+    {
+      "source_ids": [
+        "OLESHKY-S064"
+      ],
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-unites-russia-and-ukraine-at-the-white-house-following-historic-ceasefire/",
+      "source_class": "Official White House original HTML, including prepared remarks; participant account rather than agreement instrument",
+      "document_display": "November 5, 2026",
+      "published_at_utc": "2026-11-05T16:31:07Z",
+      "modified_at_utc": "2026-11-05T16:31:08Z",
+      "retrieved_at_utc": "2026-11-08T13:51:57.534819+00:00",
+      "status": 200,
+      "review_date_utc": "2026-11-08",
+      "inspection": "Full textual body inspected in raw HTML and derived text; embedded audiovisual content not inspected",
+      "artifacts": [
+        {
+          "artifact": "policy_wh_oleshky_nov5.html",
+          "artifact_type": "retained original HTML response; not uploaded",
+          "bytes": 276065,
+          "sha256": "6cc15decd2945f2af4ab2888f3e16d419f6f34fc178667059406f486bcc7d8b3"
+        }
+      ],
+      "joins": [
+        "J20-2026-043",
+        "CH7-OLESHKY-STATUS-001"
+      ],
+      "scope": "Source upgrade and participant-document testimony for already recorded event; no acquired agreement or independent count audit. Nearly 800 and 800 remain unreconciled within one source family."
+    },
+    {
+      "source_ids": [
+        "TRAVEL-WITHDRAW-S002"
+      ],
+      "url": "https://public-inspection.federalregister.gov/2026-22809.pdf",
+      "source_class": "original_pdf",
+      "status": 200,
+      "review_date_utc": "2026-11-08",
+      "artifacts": [
+        {
+          "artifact": "travel_travel_withdrawal_2026-22809.pdf",
+          "artifact_type": "retained original response; not uploaded",
+          "bytes": 254407,
+          "sha256": "c7b494d92c28d53c57a72951887d9589df406ea43e11c6269cfdf73687c6241b"
+        }
+      ],
+      "joins": [
+        "J20-2026-093",
+        "CH7-TRAVEL-NPRM-WITHDRAWAL-001"
+      ],
+      "scope": "Announcement/public-inspection evidence for withdrawal of a proposal, not current-rule repeal or verified operative publication. Effects unmeasured.",
+      "retained_file_mtime_utc": "2026-11-08T13:52:36.071322+00:00",
+      "acquisition_note": "Downloaded successfully during November 8 research. File mtime is retained-file timestamp, not server publication date.",
+      "inspection": "All six PDF pages text-inspected; pages 1, 2, 5 and 6 visually inspected. DATES publication placeholder and scheduled cover date remain distinct."
+    },
+    {
+      "source_ids": [
+        "TRAVEL-WITHDRAW-S001"
+      ],
+      "url": "https://www.fincen.gov/news/news-releases/fincen-announces-withdrawal-proposed-rule-related-recordkeeping-and-travel-rule",
+      "source_class": "original_html",
+      "status": 200,
+      "review_date_utc": "2026-11-08",
+      "artifacts": [
+        {
+          "artifact": "travel_fincen_release.html",
+          "artifact_type": "retained original response; not uploaded",
+          "bytes": 30995,
+          "sha256": "8766ff0a21512bf1630d8ea93f8f21610c4cc752ca612b842b03be7eceb0f63b"
+        }
+      ],
+      "joins": [
+        "J20-2026-093",
+        "CH7-TRAVEL-NPRM-WITHDRAWAL-001"
+      ],
+      "scope": "Announcement/public-inspection evidence for withdrawal of a proposal, not current-rule repeal or verified operative publication. Effects unmeasured.",
+      "acquired_utc": "2026-11-08T13:52:56.149692+00:00",
+      "inspection": "Original HTML release inspected; November 6 display and joint withdrawal announcement."
+    },
+    {
+      "source_ids": [
+        "TRAVEL-WITHDRAW-S003"
+      ],
+      "url": "https://www.federalregister.gov/public-inspection/2026-22809/threshold-for-the-requirement-to-collect-retain-and-transmit-information-on-funds-transfers-and",
+      "source_class": "original_html",
+      "status": 200,
+      "review_date_utc": "2026-11-08",
+      "artifacts": [
+        {
+          "artifact": "travel_travel_public_inspection.html",
+          "artifact_type": "retained original response; not uploaded",
+          "bytes": 38872,
+          "sha256": "57d2f3684f9c711645e8d737faafaa1764731e8836577ca1e38001bdcb4a8277"
+        }
+      ],
+      "joins": [
+        "J20-2026-093",
+        "CH7-TRAVEL-NPRM-WITHDRAWAL-001"
+      ],
+      "scope": "Announcement/public-inspection evidence for withdrawal of a proposal, not current-rule repeal or verified operative publication. Effects unmeasured.",
+      "acquired_utc": "2026-11-08T13:53:03.019531+00:00",
+      "inspection": "Original HTML textual body inspected; public-inspection page marks document unpublished and scheduled, not final publication."
+    }
+  ],
+  "boundaries": [
+    "White House prepared remarks are participant testimony, not audiovisual confirmation of every delivered word, acquired signed agreements or independent count audit.",
+    "FinCEN/Federal Reserve withdrawal concerns a proposal, not repeal of existing Recordkeeping or Travel Rule obligations. Scheduled publication is not verified operative publication.",
+    "Retained original HTML/PDF responses are distinguished from derived text and page images. No raw archive is included in this repository update.",
+    "No new financial-flow total, measured national or family benefit, misconduct finding or personal presidential direction is established."
+  ]
+}
