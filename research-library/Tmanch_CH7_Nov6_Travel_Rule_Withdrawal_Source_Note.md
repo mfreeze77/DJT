@@ -21,3 +21,14 @@ The notice summarizes commenter concerns about burdens, remittances, privacy, ex
 Original HTML for the agency release and public-inspection page, and the original PDF, are retained locally, separate from extracted text and rendered images. PDF pages 1, 2, 5 and 6 were visually inspected; all six pages were text-inspected. Original-source hashes are recorded in the [November 8 afternoon source manifest](Tmanch_CH7_Nov8_Afternoon_Source_Manifest.json); retained originals are separate from this published note.
 
 Next records: the final official Federal Register publication and operative date; any replacement NPRM; implementation/enforcement data capable of testing real costs or benefits. This notice establishes none of those subsequent outcomes.
+
+
+## November 9 official edition: publication-stage update
+
+**TRAVEL-WITHDRAW-S004:** The [official November 9 Federal Register edition](https://www.govinfo.gov/content/pkg/FR-2026-11-09/pdf/2026-22809.pdf) publishes this same withdrawal at **91 FR 70824–70825, FR Doc. 2026-22809**. Its DATES clause specifies withdrawal of the October 27, 2020 NPRM **as of November 9, 2026**. The instrument begins in the right column of printed page 70824; the preceding columns finish a separate FAA notice. Both PDF pages were visually and text inspected.
+
+**TRAVEL-WITHDRAW-S005–006:** The corresponding [FederalRegister.gov page](https://www.federalregister.gov/documents/2026/11/09/2026-22809/threshold-for-the-requirement-to-collect-retain-and-transmit-information-on-funds-transfers-and) and [API metadata](https://www.federalregister.gov/api/v1/documents/2026-22809.json) corroborate the dated edition and citation. The page is an informational rendition, not the official legal edition. These are linked versions of one publication, not independent actions.
+
+For existing **093 / CH7-TRAVEL-NPRM-WITHDRAWAL-001**, this fulfills the earlier request for final publication and the stated withdrawal date. The November 6 announcement/filing and November 8 public-inspection observation remain dated historical stages. Existing Recordkeeping and Travel Rule duties are not repealed; a replacement proposal and implementation/enforcement evidence remain outstanding. No new event, score, financial flow, measured benefit or personal presidential direction is established.
+
+Acquisition was approximately **00:20–00:21 UTC on November 9**, still November 8 in US Eastern time. The record identifies the official edition and its stated date, not a precise operative instant or measured operational implementation. The notice specifies no operative hour or timezone. Original PDF, HTML and API bytes were retained separately from text and rendered images; see the [November 9 source manifest](Tmanch_CH7_Nov9_Source_Manifest.json).

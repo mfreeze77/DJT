@@ -1,0 +1,372 @@
+{
+  "review_window": "November 9, 2026 early UTC research watch",
+  "sources": [
+    {
+      "source_ids": [
+        "TRAVEL-WITHDRAW-S004"
+      ],
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-11-09/pdf/2026-22809.pdf",
+      "acquired_utc": "2026-11-09T00:20:57.300173+00:00",
+      "source_class": "Original official Federal Register PDF; printed pages 70824-70825; both pages visually and text inspected.",
+      "artifacts": [
+        {
+          "artifact": "travel_2026-22809.pdf",
+          "artifact_type": "retained original response; not uploaded",
+          "bytes": 268060,
+          "sha256": "bd26cbf15895ff74e74156ec02cbca07444c914c1c4f5bb8b1e3103dea9e73df"
+        }
+      ],
+      "joins": [
+        "J20-2026-093",
+        "CH7-TRAVEL-NPRM-WITHDRAWAL-001"
+      ],
+      "scope": "Same withdrawal publication. Official dated edition and stated date, not a precise operative instant or measured effect; other versions are not independent actions."
+    },
+    {
+      "source_ids": [
+        "TRAVEL-WITHDRAW-S005"
+      ],
+      "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22809/threshold-for-the-requirement-to-collect-retain-and-transmit-information-on-funds-transfers-and",
+      "acquired_utc": "2026-11-09T00:21:15.848079+00:00",
+      "source_class": "Original FederalRegister.gov published-document HTML, informational XML rendition, not official legal edition.",
+      "artifacts": [
+        {
+          "artifact": "travel_2026-22809-published.html",
+          "artifact_type": "retained original response; not uploaded",
+          "bytes": 75707,
+          "sha256": "43dde90ce142200a52c3490558193d36821b1fc96a453d1f39f9531a2193dc64"
+        }
+      ],
+      "joins": [
+        "J20-2026-093",
+        "CH7-TRAVEL-NPRM-WITHDRAWAL-001"
+      ],
+      "scope": "Same withdrawal publication. Official dated edition and stated date, not a precise operative instant or measured effect; other versions are not independent actions."
+    },
+    {
+      "source_ids": [
+        "TRAVEL-WITHDRAW-S006"
+      ],
+      "url": "https://www.federalregister.gov/api/v1/documents/2026-22809.json",
+      "acquired_utc": "2026-11-09T00:21:18.291307+00:00",
+      "source_class": "Original API metadata; corroborates citation, page range, publication date and official PDF URL. Same source family as S005.",
+      "artifacts": [
+        {
+          "artifact": "travel_2026-22809.json",
+          "artifact_type": "retained original response; not uploaded",
+          "bytes": 4774,
+          "sha256": "21ac18c664695d09d0c7ab197f9679fda8e0a266146f81f70dd3ebd19ba8a5fe"
+        }
+      ],
+      "joins": [
+        "J20-2026-093",
+        "CH7-TRAVEL-NPRM-WITHDRAWAL-001"
+      ],
+      "scope": "Same withdrawal publication. Official dated edition and stated date, not a precise operative instant or measured effect; other versions are not independent actions."
+    },
+    {
+      "source_ids": [
+        "NATO-CUAS-S001"
+      ],
+      "url": "https://www.nato.int/en/news-and-events/articles/news/2026/11/05/nato-accelerates-procurement-for-counter-drone-technologies",
+      "source_class": "original_html",
+      "document_display_date": "2026-11-05",
+      "retrieved_at_utc": "2026-11-09T00:21:10.032508+00:00",
+      "status": 200,
+      "review_date_utc": "2026-11-09",
+      "inspection": "Full textual body inspected in retained raw HTML and derived text; embedded audiovisual content not inspected",
+      "joins": [
+        "J20-2026-094",
+        "CH7-NATO-CUAS-MARKET-001"
+      ],
+      "date_limit": "Nov5 launch explicit; no specific allocation decision date.",
+      "artifacts": [
+        {
+          "artifact": "policy_nato_cuas.html",
+          "artifact_type": "retained original HTML response; not uploaded",
+          "bytes": 337254,
+          "sha256": "b48d859f1d3416eefb460f5e27917ba00a61a39d2a1b8e617df7c6d5dff44ce1"
+        }
+      ],
+      "scope": "Institutional launch/allocation account, not orders, deliveries or demonstrated outcomes."
+    },
+    {
+      "source_ids": [
+        "ABUDHABI-NOV9-S001"
+      ],
+      "url": "https://www.rtl.fr/actu/international/la-france-participera-a-ces-discussions-jean-noel-barrot-annonce-que-paris-et-l-europe-seront-representees-lors-des-negociations-sur-l-ukraine-7900693803",
+      "source_class": "original_html",
+      "document_display_date": "2026-11-08",
+      "retrieved_at_utc": "2026-11-09T00:21:14.829068+00:00",
+      "status": 200,
+      "review_date_utc": "2026-11-09",
+      "inspection": "Full textual body inspected in retained raw HTML and derived text; embedded audiovisual content not inspected",
+      "joins": [
+        "J20-2026-079",
+        "CH7-BRUSSELS-RECOVERY-001",
+        "J20-2026-080",
+        "CH7-NOV4-ENVOY-CALL-001"
+      ],
+      "published_at": "2026-11-08T12:47:21.249+0100",
+      "modified_at": "2026-11-08T13:49:00.000+0100",
+      "artifacts": [
+        {
+          "artifact": "policy_rtl_barrot.html",
+          "artifact_type": "retained original HTML response; not uploaded",
+          "bytes": 1192068,
+          "sha256": "a639d1c5856d3e085aebd26644424a0e1971147714d75088072f80a170896be9"
+        }
+      ],
+      "scope": "Attributed prospective participation, not attendance or agreed terms."
+    },
+    {
+      "source_ids": [
+        "ERDOGAN-NOV7-S001"
+      ],
+      "url": "https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdoganin-abd-baskani-trump-ile-gorusmesine-iliskin-aciklama-07-11-26",
+      "source_class": "original_html",
+      "document_display_date": "2026-11-07",
+      "retrieved_at_utc": "2026-11-09T00:22:16.856654+00:00",
+      "status": 200,
+      "review_date_utc": "2026-11-09",
+      "inspection": "Full textual body inspected in retained raw HTML and derived text; embedded audiovisual content not inspected",
+      "joins": [
+        "J20-2026-095",
+        "CH7-ERDOGAN-TRUMP-NOV7-001"
+      ],
+      "date_limit": "Only date displayed. Exact call time and timezone unacquired.",
+      "artifacts": [
+        {
+          "artifact": "policy_turkey_trump_call_tr.html",
+          "artifact_type": "retained original HTML response; not uploaded",
+          "bytes": 47729,
+          "sha256": "c906ddbe7513e50280e06794bf04b682c3351547d57bf1d20ec56c43a6e4e090"
+        }
+      ],
+      "scope": "Official participant account; language versions are one source family, without an acquired US-side record."
+    },
+    {
+      "source_ids": [
+        "ERDOGAN-NOV7-S002"
+      ],
+      "url": "https://www.iletisim.gov.tr/english/haberler/detay/president-erdogan-u.s-president-trump-talk-over-phone",
+      "source_class": "original_html",
+      "document_display_date": "2026-11-07",
+      "retrieved_at_utc": "2026-11-09T00:22:05.926695+00:00",
+      "status": 200,
+      "review_date_utc": "2026-11-09",
+      "inspection": "Full textual body inspected in retained raw HTML and derived text; embedded audiovisual content not inspected",
+      "joins": [
+        "J20-2026-095",
+        "CH7-ERDOGAN-TRUMP-NOV7-001"
+      ],
+      "date_limit": "Only date displayed. Exact call time and timezone unacquired.",
+      "artifacts": [
+        {
+          "artifact": "policy_turkey_trump_call.html",
+          "artifact_type": "retained original HTML response; not uploaded",
+          "bytes": 30461,
+          "sha256": "5fc53f8c11afa287442cb7295098f9b8c1578de199cc48c82cb5d0d707aa97dc"
+        }
+      ],
+      "scope": "Official participant account; language versions are one source family, without an acquired US-side record."
+    },
+    {
+      "source_ids": [
+        "AFF-ARXIS-S001"
+      ],
+      "url": "https://www.sec.gov/Archives/edgar/data/2059583/000090514826004664/primary_doc.xml",
+      "acquired_utc": "2026-11-09T00:23:52.860430+00:00",
+      "source_class": "Original SEC XML or HTML issuer/manager disclosure",
+      "artifacts": [
+        {
+          "artifact": "finance_affinity-amend-cover.xml",
+          "artifact_type": "retained original SEC response; not uploaded",
+          "bytes": 2585,
+          "sha256": "d86848fced47ff1e8aca31e45a154c64a68e8f4a30e06d3acdad59a3ff7282e3"
+        }
+      ],
+      "joins": [
+        "CH7-AFF-ARXIS-001"
+      ],
+      "scope": "Historical disclosure and dated entity context, not personal receipt, trade timing, capital trace or policy-linked gain.",
+      "inspection": "Amendment cover XML; NEW HOLDINGS type, June 30 period, manager 1 identity."
+    },
+    {
+      "source_ids": [
+        "AFF-ARXIS-S002"
+      ],
+      "url": "https://www.sec.gov/Archives/edgar/data/2059583/000090514826004664/form13fInfoTable.xml",
+      "acquired_utc": "2026-11-09T00:23:55.455688+00:00",
+      "source_class": "Original SEC XML or HTML issuer/manager disclosure",
+      "artifacts": [
+        {
+          "artifact": "finance_affinity-amend-table.xml",
+          "artifact_type": "retained original SEC response; not uploaded",
+          "bytes": 755,
+          "sha256": "ff2254476c6089709124d2052af932eeb4b3e3cbe456471410c2c86a693bc63d"
+        }
+      ],
+      "joins": [
+        "CH7-AFF-ARXIS-001"
+      ],
+      "scope": "Historical disclosure and dated entity context, not personal receipt, trade timing, capital trace or policy-linked gain.",
+      "inspection": "Information table XML; one Arxis position."
+    },
+    {
+      "source_ids": [
+        "AFF-ARXIS-S003"
+      ],
+      "url": "https://www.sec.gov/Archives/edgar/data/2059583/000090514826004664/0000905148-26-004664-index.html",
+      "acquired_utc": "2026-11-09T00:23:58.181082+00:00",
+      "source_class": "Original SEC XML or HTML issuer/manager disclosure",
+      "artifacts": [
+        {
+          "artifact": "finance_affinity-amend-index.html",
+          "artifact_type": "retained original SEC response; not uploaded",
+          "bytes": 7826,
+          "sha256": "27b406a6903ff921f293a3e7f6db4398df0a12bad01700d67d0578bcb4628d9e"
+        }
+      ],
+      "joins": [
+        "CH7-AFF-ARXIS-001"
+      ],
+      "scope": "Historical disclosure and dated entity context, not personal receipt, trade timing, capital trace or policy-linked gain.",
+      "inspection": "Filing index; November 5 filing date and June 30 reporting period."
+    },
+    {
+      "source_ids": [
+        "AFF-ARXIS-S004"
+      ],
+      "url": "https://www.sec.gov/Archives/edgar/data/2059583/000090514826003725/primary_doc.xml",
+      "acquired_utc": "2026-11-09T00:24:00.236283+00:00",
+      "source_class": "Original SEC XML or HTML issuer/manager disclosure",
+      "artifacts": [
+        {
+          "artifact": "finance_affinity-base-cover.xml",
+          "artifact_type": "retained original SEC response; not uploaded",
+          "bytes": 2363,
+          "sha256": "031af49f6bb755d3939478872b4e1c4b27a0b3d50f471e98360d3b698c389705"
+        }
+      ],
+      "joins": [
+        "CH7-AFF-ARXIS-001"
+      ],
+      "scope": "Historical disclosure and dated entity context, not personal receipt, trade timing, capital trace or policy-linked gain.",
+      "inspection": "Original report cover, dated August 14; same June 30 period."
+    },
+    {
+      "source_ids": [
+        "AFF-ARXIS-S005"
+      ],
+      "url": "https://www.sec.gov/Archives/edgar/data/2059583/000090514826003725/form13fInfoTable.xml",
+      "acquired_utc": "2026-11-09T00:24:05.319245+00:00",
+      "source_class": "Original SEC XML or HTML issuer/manager disclosure",
+      "artifacts": [
+        {
+          "artifact": "finance_affinity-base-table.xml",
+          "artifact_type": "retained original SEC response; not uploaded",
+          "bytes": 1216,
+          "sha256": "696d0ddb94475e8267bc1cd5651248dacc726820834748ad549142ce7cd88996"
+        }
+      ],
+      "joins": [
+        "CH7-AFF-ARXIS-001"
+      ],
+      "scope": "Historical disclosure and dated entity context, not personal receipt, trade timing, capital trace or policy-linked gain.",
+      "inspection": "Original table; two QXO entries, one issuer, no Arxis."
+    },
+    {
+      "source_ids": [
+        "AFF-ARXIS-S006"
+      ],
+      "url": "https://www.sec.gov/Archives/edgar/data/2093536/000119312526159369/d81728d424b4.htm",
+      "acquired_utc": "2026-11-09T00:24:07.519657+00:00",
+      "source_class": "Original SEC XML or HTML issuer/manager disclosure",
+      "artifacts": [
+        {
+          "artifact": "finance_arxis-prospectus.html",
+          "artifact_type": "retained original SEC response; not uploaded",
+          "bytes": 2781535,
+          "sha256": "7b2c0fe07179e4a0641e82462a9a4f95da5a38793bcfa77e5e490f58250dd2a3"
+        }
+      ],
+      "joins": [
+        "CH7-AFF-ARXIS-001"
+      ],
+      "scope": "Historical disclosure and dated entity context, not personal receipt, trade timing, capital trace or policy-linked gain.",
+      "inspection": "Prospectus relevant text sections pp. 6–7/119–120, not images; dated April 15."
+    },
+    {
+      "source_ids": [
+        "AFF-ARXIS-S007"
+      ],
+      "url": "https://www.sec.gov/Archives/edgar/data/1236275/000114036125017533/primary_doc.xml",
+      "acquired_utc": "2026-11-09T00:24:49.088210+00:00",
+      "source_class": "Original raw XML",
+      "artifacts": [
+        {
+          "artifact": "finance_affinity-qxo-2025-13d.xml",
+          "artifact_type": "retained original SEC response; not uploaded",
+          "bytes": 17919,
+          "sha256": "118402afe862d9121a9057480ca146c709b287d9e883018a619acdd46517fd3b"
+        }
+      ],
+      "joins": [
+        "CH7-AFF-ARXIS-001"
+      ],
+      "scope": "Historical disclosure and dated entity context, not personal receipt, trade timing, capital trace or policy-linked gain.",
+      "inspection": "Historical QXO 13D Item 2(c) and May 6, 2025 signatures; not Arxis ownership."
+    },
+    {
+      "source_ids": [
+        "AFF-ARXIS-S008"
+      ],
+      "url": "https://www.sec.gov/Archives/edgar/data/2059583/000090514826004664/xslForm13F_X02/form13fInfoTable.xml",
+      "acquired_utc": "2026-11-09T00:24:52.064163+00:00",
+      "source_class": "SEC server-rendered HTML",
+      "artifacts": [
+        {
+          "artifact": "finance_affinity-amend-table-rendered.html",
+          "artifact_type": "retained original SEC response; not uploaded",
+          "bytes": 6648,
+          "sha256": "7777c694431e499165baebdd08ea3681c80fa5aca04ba745de6c03be36c69c6c"
+        }
+      ],
+      "joins": [
+        "CH7-AFF-ARXIS-001"
+      ],
+      "scope": "Historical disclosure and dated entity context, not personal receipt, trade timing, capital trace or policy-linked gain.",
+      "inspection": "SEC server-rendered table text explicitly labels value nearest dollar."
+    },
+    {
+      "source_ids": [
+        "AFF-ARXIS-S009"
+      ],
+      "url": "https://www.sec.gov/Archives/edgar/data/2059583/000090514826004664/xslForm13F_X02/primary_doc.xml",
+      "acquired_utc": "2026-11-09T00:24:54.284211+00:00",
+      "source_class": "SEC server-rendered HTML",
+      "artifacts": [
+        {
+          "artifact": "finance_affinity-amend-cover-rendered.html",
+          "artifact_type": "retained original SEC response; not uploaded",
+          "bytes": 11024,
+          "sha256": "b30ffec20d74ad44004f1f8a62b75ecc1d61362fe7ad28761241091bcd71fdf0"
+        }
+      ],
+      "joins": [
+        "CH7-AFF-ARXIS-001"
+      ],
+      "scope": "Historical disclosure and dated entity context, not personal receipt, trade timing, capital trace or policy-linked gain.",
+      "inspection": "SEC server-rendered cover text; same amendment as source 001."
+    }
+  ],
+  "boundaries": [
+    "The official Federal Register dated edition and stated withdrawal date are distinct from a precise operative hour; acquisition occurred before midnight US Eastern time.",
+    "Procurement marketplace launch and reported allocation are distinct from purchase orders, expenditure, delivery, testing or measured protection.",
+    "Future participation announcements and participant call accounts establish neither negotiated terms nor implemented outcomes.",
+    "Government language versions and SEC raw/server-rendered versions are not independent corroboration. Filing is disclosure, not SEC validation of truth.",
+    "A dated manager portfolio position is not purchase cost, realized gain, personal income, a sovereign-capital trace or a policy-linked benefit.",
+    "No raw source archives, financial-flow totals, new consequential misconduct allegations or changes to existing beneficiary scores are included."
+  ]
+}

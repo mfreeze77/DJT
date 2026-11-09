@@ -1295,3 +1295,18 @@ The [November 8 source manifest](Tmanch_CH7_Nov8_Source_Manifest.json) distingui
 - **093 / CH7-TRAVEL-NPRM-WITHDRAWAL-001 / TRAVEL-WITHDRAW-S001–003:** [FinCEN/Federal Reserve proposal-withdrawal announcement](Tmanch_CH7_Nov6_Travel_Rule_Withdrawal_Source_Note.md). A distinct BSA rulemaking development, not current-rule repeal, crypto exemption, MEXC/OFAC action or measured benefit. November 9 publication remains scheduled at this review.
 
 The [November 8 afternoon source manifest](Tmanch_CH7_Nov8_Afternoon_Source_Manifest.json) preserves source provenance and inspection limits. Existing corrections, scores and financial-flow totals remain unchanged.
+
+
+## November 9 review: publication and diplomatic/readiness context
+
+- **093 / CH7-TRAVEL-NPRM-WITHDRAWAL-001 / TRAVEL-WITHDRAW-S004–006:** [Official dated publication](Tmanch_CH7_Nov6_Travel_Rule_Withdrawal_Source_Note.md#november-9-official-edition-publication-stage-update) supplies the stated withdrawal date, closing the earlier publication/date gap without erasing the prospective-stage record or inferring precise operative time.
+
+- **079/080 / ABUDHABI-NOV9-S001:** [French participation announcement](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-8-french-announcement-of-prospective-abu-dhabi-participation) adds attributed preparation context, without attendance or negotiated outcomes.
+
+- **094 / CH7-NATO-CUAS-MARKET-001:** [NATO counter-drone marketplace](Tmanch_CH7_Nov5_NATO_CUAS_Source_Note.md) adds distinct allied procurement context; allocated testing funds are not orders, deliveries or measured benefits.
+
+- **095 / CH7-ERDOGAN-TRUMP-NOV7-001:** [Erdoğan–Trump call](Tmanch_CH7_Nov7_Erdogan_Trump_Call_Source_Note.md) records the official participant account without assigning Erdoğan’s positions to Trump or inferring agreed outcomes.
+
+- **CH7-AFF-ARXIS-001 / AFF-ARXIS-S001–009:** [Affinity’s amended June 30 portfolio snapshot](Tmanch_CH7_Nov5_Affinity_Arxis_Source_Note.md) is corporate disclosure context, not a November purchase, personal receipt or policy-linked gain.
+
+The [November 9 source manifest](Tmanch_CH7_Nov9_Source_Manifest.json) records acquisition and interpretation limits. Existing corrections, scores and financial-flow totals remain unchanged.

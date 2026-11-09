@@ -76,3 +76,12 @@ Full French, Ukrainian and Interfax HTML bodies were acquired; the Kremlin chann
 
 
 Source provenance and acquisition limits are recorded in the [November 8 source manifest](Tmanch_CH7_Nov8_Source_Manifest.json).
+
+
+## November 8 French announcement of prospective Abu Dhabi participation
+
+**ABUDHABI-NOV9-S001:** [RTL’s original interview report](https://www.rtl.fr/actu/international/la-france-participera-a-ces-discussions-jean-noel-barrot-annonce-que-paris-et-l-europe-seront-representees-lors-des-negociations-sur-l-ukraine-7900693803), published **November 8 at 12:47:21 +01:00** and updated **13:49 +01:00**, attributes to Jean-Noël Barrot future French/European representation at the prospective **November 10–11 Abu Dhabi talks**. France’s delegate was unnamed.
+
+For existing **079 / CH7-BRUSSELS-RECOVERY-001** and **080 / CH7-NOV4-ENVOY-CALL-001**, this advances participation advocacy to an attributed announcement. It establishes neither actual attendance, US/Russian acceptance, agreed guarantees nor a settlement, and does not change the identity or participants of earlier meetings. Practical benefits remain conditional on negotiations and implementation.
+
+Full original RTL HTML/text was inspected; metadata supplies the times and timezone. Audio, video and embedded posts were not inspected. Named delegates, attendance, accepted format and written terms remain outstanding. No new event, score or financial-flow total. [Source provenance](Tmanch_CH7_Nov9_Source_Manifest.json).
