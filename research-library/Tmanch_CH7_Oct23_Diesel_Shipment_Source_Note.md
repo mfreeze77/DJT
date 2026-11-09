@@ -90,3 +90,22 @@ Joins remain **J20-2026-007/040 / CH7-DIESEL-SHIP-001 / CH7-DIESEL-PRICE-001**. 
 **KSE-OIL-S001**, source-note-only context for existing **040 / CH7-DIESEL-SHIP-001** and the separate **CH7-DIESEL-PRICE-001** retail-price inquiry. [KSE's November 2 release](https://kse.ua/en/news/russian-oil-tracker-october-2026-despite-multi-year-low-export-volumes-higher-global-prices-lifted-russias-oil-export-revenues/) labels its tracker the October edition but measures **September 2026**. It estimates Russian crude/product export revenue rose 25%, or USD 3.6 billion, to USD 17.7 billion, attributing the increase to higher global prices despite broadly stable total export volumes. Crude accounts for USD 3.2 billion of the increase and products USD 0.4 billion. These are KSE estimates, not independently reproduced underlying data, treasury receipts or traced US-cargo payments.
 
 This indicates an estimated **Russian export-revenue benefit** through a price mechanism. The observation predates October licensing/waiver changes and cannot measure their results. The crude-dominated price account is affirmative evidence against attributing the entire increase to diesel concessions; it does not erase separate market-access evidence. No aggregate revenue or increase is added to transaction totals, and no newly identified US shipment is inferred. Underlying tracker/data and causal decomposition were not acquired. The full indexed original release was inspected; raw archival request returned 403 and stopped. The [manifest](Tmanch_CH7_Nov2_Evening_Source_Manifest.json) hashes the derived research record, not an original KSE archive. No broker-specific or evasion allegation is adopted.
+
+
+## November 5 reporting and November 8 provider-display review
+
+**DIESEL-SHIP-S017:** [AP's November 5 report in its identified Inquirer republication](https://www.inquirer.com/business/russian-diesel-fuel-shipments-change-course-trump-legal-consequences-sherrill-20261105.html), published **15:06 ET**, reports two diversions using Kpler/MarineTraffic: one toward Brazil, another into the Mediterranean. It names Talisman and Leruo but does not pair their destinations. A third vessel is unnamed. AP reported no confirmed US delivery then and carried Dmitriev's disagreement. This is dated, attributed reporting, not acquired raw tracking or a verified outcome.
+
+**DIESEL-SHIP-S018–020:** Separately, public VesselFinder pages inspected **November 8** displayed:
+- [Talisman, IMO 9292060](https://www.vesselfinder.com/vessels/details/9292060): East Mediterranean; destination **FOR ORDER**; position age **1 minute**; ETA November 9 at 10:00.
+- [Leruo, IMO 9385831](https://www.vesselfinder.com/vessels/details/9385831): Northeast Atlantic; destination **BRAZIL FOR ORDER**; position age **4 days**; ETA November 13 at 03:00.
+- [Agioi Fanendes, IMO 9798375](https://www.vesselfinder.com/vessels/details/9798375): Northeast Atlantic; destination **FOR ORDERS**; position age **10 days**; ETA November 11 at 22:00.
+
+These are the provider's displayed regions, declared destinations, ages and estimates, not independently verified current positions, raw AIS transmissions or confirmed unloading locations. Exact underlying observation timestamps and ETA timezones were not acquired. In particular, Agioi's stale position cannot establish its current whereabouts or convert the earlier November 7 arrival estimate into a completed arrival. The named provider observations are separate evidence; they are not a retroactive named pairing supplied by AP.
+
+For existing **040 / CH7-DIESEL-SHIP-001**, this narrows the evidence for a specifically US-bound implementation path while preserving the earlier authorization/export-access history. No US arrival, discharge, buyer, settled payment, measured consumer-price benefit or causal explanation for the routing is established. Absence of verified US delivery is not evidence of zero global sales or Russian revenue. No new event, vessel/cargo total, financial flow or score is added.
+
+Complete permitted web-tool responses were retained as derived inspection evidence, not original source HTML or raw tracking archives. AP's original article, underlying Kpler/MarineTraffic data, paywalled satellite observations and embedded media were not acquired in this review.
+
+
+Source provenance and acquisition limits are recorded in the [November 8 source manifest](Tmanch_CH7_Nov8_Source_Manifest.json).

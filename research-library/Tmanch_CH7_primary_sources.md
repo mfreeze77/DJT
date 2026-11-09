@@ -1267,3 +1267,46 @@ The [November 6 morning manifest](Tmanch_CH7_Nov6_Morning_Source_Manifest.json) 
 - **079/080 / BRUSSELS-NOV6-S003–005:** [November 6 NB8 follow-up](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-6-nb8-follow-up-completed-coordination-prospective-outcomes). Distinct Ukrainian and Estonian accounts corroborate a held video call; conveyed proposals, future formats and winter-support needs are preparation, not accepted guarantees or delivery. Earlier dates, participants, requested enforcement answers and funding gaps remain preserved.
 
 The [evening source manifest](Tmanch_CH7_Nov6_Evening_Source_Manifest.json) distinguishes primary text, source acquisition and outcome limits. Existing scores, correction history and financial totals are unchanged.
+
+
+## November 7 review: issued financial restrictions and allied ministerial positions
+
+- **091 / CH7-MEXC-9714-001 / MEXC-9714-S001–004:** [FinCEN MEXC order](Tmanch_CH7_Nov7_MEXC_Order_Source_Note.md). Issuance and prospective transmittal restrictions, with a 30-day Federal Register publication trigger; exact effective date and actual implementation unverified. Separate from OFAC action 090; no asset freeze or financial flow counted.
+- **092 / CH7-CBSS-NOV6-001 / CBSS-NOV6-S001–002:** [Warsaw CBSS ministerial statement](Tmanch_CH7_Nov6_CBSS_Source_Note.md). Distinct held allied consultation and published consent/support priorities; resource, sanctions and legal-financing work remain prospective. Existing Oleshky recognition is non-additive; no Trump policy action or money total assigned.
+
+The [November 7 source manifest](Tmanch_CH7_Nov7_Source_Manifest.json) records source provenance and inspection limits. Existing scores, correction history and financial totals are preserved.
+
+
+## November 8 review: diplomatic preparation and corporate source context
+
+- **079/080 / ABUDHABI-NOV8-S001–002 / G7-NOV8-S001–002:** [Russia and allied-support preparation](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-67-preparation-for-abu-dhabi-and-allied-support-formats). Attributed Russian delegation, held preparation meeting, Paris G7 agenda and separate Chernobyl fundraiser remain distinct from completed negotiations, agreed terms or delivered assistance.
+
+- **040 / CH7-DIESEL-SHIP-001 / DIESEL-SHIP-S017–020:** [Dated diversion reporting and separate provider displays](Tmanch_CH7_Oct23_Diesel_Shipment_Source_Note.md#november-5-reporting-and-november-8-provider-display-review). AP does not pair the named destinations; provider ages/estimates remain qualified. No delivery, routing cause, extra cargo or financial total established.
+
+- **CH7-ABTC-Q3-001 / ABTC-Q3-S001–003:** [American Bitcoin Q3 disclosure and dated ownership context](Tmanch_CH7_Nov4_ABTC_Q3_Source_Note.md). Company results, BTC holdings/sales and historic pre-split class/voting interests remain distinct from personal receipts or current equity valuation. No presidential event, financial-flow total or policy-exchange inference.
+
+The [November 8 source manifest](Tmanch_CH7_Nov8_Source_Manifest.json) distinguishes original bytes from retained tool extractions and derived inspection records. Existing scores, source history and unresolved records are preserved.
+
+
+## November 8 afternoon review: humanitarian primary source and regulatory action
+
+- **043 / CH7-OLESHKY-STATUS-001 / OLESHKY-S064:** [Original White House post-event account](Tmanch_CH7_Oct23_Oleshky_Source_Note.md#november-5-white-house-account-acquired-november-8) upgrades the sourcing for the recorded recognition event. Prepared remarks remain participant testimony, not acquired agreements or an independently reconciled count.
+
+- **093 / CH7-TRAVEL-NPRM-WITHDRAWAL-001 / TRAVEL-WITHDRAW-S001–003:** [FinCEN/Federal Reserve proposal-withdrawal announcement](Tmanch_CH7_Nov6_Travel_Rule_Withdrawal_Source_Note.md). A distinct BSA rulemaking development, not current-rule repeal, crypto exemption, MEXC/OFAC action or measured benefit. November 9 publication remains scheduled at this review.
+
+The [November 8 afternoon source manifest](Tmanch_CH7_Nov8_Afternoon_Source_Manifest.json) preserves source provenance and inspection limits. Existing corrections, scores and financial-flow totals remain unchanged.
+
+
+## November 9 review: publication and diplomatic/readiness context
+
+- **093 / CH7-TRAVEL-NPRM-WITHDRAWAL-001 / TRAVEL-WITHDRAW-S004–006:** [Official dated publication](Tmanch_CH7_Nov6_Travel_Rule_Withdrawal_Source_Note.md#november-9-official-edition-publication-stage-update) supplies the stated withdrawal date, closing the earlier publication/date gap without erasing the prospective-stage record or inferring precise operative time.
+
+- **079/080 / ABUDHABI-NOV9-S001:** [French participation announcement](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-8-french-announcement-of-prospective-abu-dhabi-participation) adds attributed preparation context, without attendance or negotiated outcomes.
+
+- **094 / CH7-NATO-CUAS-MARKET-001:** [NATO counter-drone marketplace](Tmanch_CH7_Nov5_NATO_CUAS_Source_Note.md) adds distinct allied procurement context; allocated testing funds are not orders, deliveries or measured benefits.
+
+- **095 / CH7-ERDOGAN-TRUMP-NOV7-001:** [Erdoğan–Trump call](Tmanch_CH7_Nov7_Erdogan_Trump_Call_Source_Note.md) records the official participant account without assigning Erdoğan’s positions to Trump or inferring agreed outcomes.
+
+- **CH7-AFF-ARXIS-001 / AFF-ARXIS-S001–009:** [Affinity’s amended June 30 portfolio snapshot](Tmanch_CH7_Nov5_Affinity_Arxis_Source_Note.md) is corporate disclosure context, not a November purchase, personal receipt or policy-linked gain.
+
+The [November 9 source manifest](Tmanch_CH7_Nov9_Source_Manifest.json) records acquisition and interpretation limits. Existing corrections, scores and financial-flow totals remain unchanged.
