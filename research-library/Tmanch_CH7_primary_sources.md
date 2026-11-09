@@ -1310,3 +1310,12 @@ The [November 8 afternoon source manifest](Tmanch_CH7_Nov8_Afternoon_Source_Mani
 - **CH7-AFF-ARXIS-001 / AFF-ARXIS-S001–009:** [Affinity’s amended June 30 portfolio snapshot](Tmanch_CH7_Nov5_Affinity_Arxis_Source_Note.md) is corporate disclosure context, not a November purchase, personal receipt or policy-linked gain.
 
 The [November 9 source manifest](Tmanch_CH7_Nov9_Source_Manifest.json) records acquisition and interpretation limits. Existing corrections, scores and financial-flow totals remain unchanged.
+
+
+## November 9 morning review: preparation, inspection and records requests
+
+- **079/080 / ABUDHABI-NOV9-S002–003 / EU-EMERGENCY-NOV9-S001–002:** [Later diplomacy context](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-9-preparation-separate-european-coordination-and-proposed-eu-emergency-support) distinguishes prospective separate European coordination from a trilateral seat and records intended EU emergency support without an amount, activation or delivery finding.
+- **091 / MEXC-9714-S005–007:** [November 9 public inspection](Tmanch_CH7_Nov7_MEXC_Order_Source_Note.md#november-9-public-inspection-scheduled-publication-remains-prospective) schedules the same order for November 10 publication; exact effectiveness and implementation remain unresolved.
+- **096 / CH7-PSI-CRYPTO-NOV5-001 / PSI-CRYPTO-NOV5-S001–005:** [Four signed November 5 records-request renewals](Tmanch_CH7_Nov5_PSI_Crypto_Requests_Source_Note.md) establish congressional action and deadlines, not underlying conduct, compulsory process or record production.
+
+The [November 9 morning manifest](Tmanch_CH7_Nov9_Morning_Source_Manifest.json) separates retained originals from tool-extracted source evidence. Existing history, scores and financial-flow totals remain unchanged; no raw source archive is added.
