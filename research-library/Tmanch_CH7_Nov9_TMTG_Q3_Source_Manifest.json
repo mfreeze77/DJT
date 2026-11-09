@@ -178,5 +178,22 @@
     "TAE-T20 is the same October 7 draw; TAE-REF01 remains prospective; no new financing/repayment/closing established.",
     "ABTC is a different issuer and is not combined with TMTG.",
     "Public Q3 call audio/transcript was not acquired; no current-call guidance inferred from earlier calls."
+  ],
+  "reinspection_records": [
+    {
+      "review_date_utc": "2026-11-09",
+      "baseline_commit": "d46423a6ff3f2430d7fa0e536ce4d2c947ff77ee",
+      "source_ids": [
+        "TMTG-Q3-S002"
+      ],
+      "retained_artifact": "10q.html",
+      "artifact_identity": "Same original response bytes and SHA256 listed above; reinspection, not a new source or retrieval.",
+      "joins": [
+        "CH7-TMTG-Q3-001"
+      ],
+      "locators": "MD&A printed p.23 Digital Token Initiative; Part II Item 2(c), printed p.31; balance sheet p.3 and nine-month cash-flow statement p.6.",
+      "verified_scope": "Issuer-disclosed discontinuation of planned shareholder token distribution; no reported Q3 issuer share repurchases. Treasury shares/cost unchanged; nine-month common-stock repurchase cash-flow row nil.",
+      "limits": "No precise internal decision date, delivered replacement benefit, post-quarter repurchase, noteholder election total, completed credit facility, repayment or personal receipt established. Prior source discrepancies, TAE-T20 and TAE-REF01 remain unchanged. No reliance on an unacquired original call/transcript."
+    }
   ]
 }
