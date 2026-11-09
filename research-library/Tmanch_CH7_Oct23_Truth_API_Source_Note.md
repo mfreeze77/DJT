@@ -18,3 +18,12 @@ Direct beneficiary: TMTG. Trump retains indirect economic exposure; company rece
 Ordinary service provision and a public-office/private-economic-interest conflict can coexist. The record warrants testing that conflict, not assuming illegal trading, intentional public delay, customer influence or a quid pro quo. Required records are customer contracts, delivery logs, official-post timing, product receipts, distributions and relevant governmental instructions. Historical TMTG financing is separate; no new Russian-linked flow or numerical total is booked. Separate litigation allegations are not included here.
 
 The same October interview describes the TAE transaction as pending, with closing expectations extending into early 2027. That is a dated management expectation, not a completed merger or new traced advance. Acquisition hashes appear in the [evening manifest](Tmanch_CH7_Oct23_Evening_Source_Manifest.json).
+
+
+## November 9 Q3 combined subscription disclosure
+
+**TMTG-Q3-S001–005 / CH7-TMTG-Q3-001:** The [new Q3 accounts note](Tmanch_CH7_Nov9_TMTG_Q3_Source_Note.md) records **$1.3784 million combined Media subscription revenue** in the unaudited 10-Q, without separately quantifying Truth API and Truth+. It therefore adds corporate category context to **044 / CH7-TMTG-API-001**, while API-only receipts, customer identities, contracts, service delivery and personal distributions remain unresolved. Revenue is not a cash-receipts ledger.
+
+The release's approximately $1.8 million subscription-growth description differs from the filing's $1.8302 million total Media growth and $1.3033 million subscription-growth component. Note 16's subscription totals imply $1.3069 million growth, an additional $3,600 discrepancy. Preserve the differing descriptions rather than attributing the whole amount to the API or silently reconciling it. The linked note retains detailed periods, amounts and limits. The living ledger's earlier “amounts unreported” status describes the prior disclosure stage; its current status now distinguishes the quantified combined category from the still-undisclosed API-only amount.
+
+Reinspection of existing TAE-S42 adds an October 30 trust-ownership snapshot, separate from TAPI-S004's older snapshot. Neither ownership nor corporate profit establishes personal cash receipts, foreign-funded customer payments or a policy exchange. No event, score or financial-flow total is added. Prior source chronology remains unchanged.

@@ -1327,3 +1327,12 @@ The [November 9 morning manifest](Tmanch_CH7_Nov9_Morning_Source_Manifest.json) 
 - **079/080 / ABUDHABI-NOV9-S004:** [Attributed US pre-talk assessment](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-9-us-officials-pre-talk-assessment) remains Reuters reporting of an unnamed official, not an acquired government transcript, accepted territorial terms, NATO coverage or an implemented guarantee.
 
 The [November 9 evening manifest](Tmanch_CH7_Nov9_Evening_Source_Manifest.json) records retained originals and the Reuters syndication distinctly. Existing scores, correction history and financial-flow totals remain unchanged.
+
+
+## November 9 TMTG Q3 accounts and linked process context
+
+- **CH7-TMTG-Q3-001 / TMTG-Q3-S001–005 / reused TAE-S42:** [Corporate results reconciliation](Tmanch_CH7_Nov9_TMTG_Q3_Source_Note.md) distinguishes Q3 profit from year-to-date loss, accounting gains from cash, combined subscriptions from API-only receipts, and dated ownership from personal distributions. Revenue, operating-cash and amendment-date discrepancies remain explicit; American Bitcoin remains a separate issuer.
+- **044 / CH7-TMTG-API-001:** [Combined subscription context](Tmanch_CH7_Oct23_Truth_API_Source_Note.md#november-9-q3-combined-subscription-disclosure) preserves unresolved product/customer/cash evidence.
+- **065 / CH7-TAE-DRAW-001 / TAE-MERGER01:** [Q3 balances and issuer-reported TMTG mailing](Tmanch_CH7_Oct19_TAE_Financing_Source_Note.md#november-9-q3-balances-and-issuer-reported-tmtg-proxy-mailing) preserve earlier snapshots, the meeting-time conflict, the same TAE-T20 advance and prospective TAE-REF01 risk. No vote, closing, repayment or new financing is inferred.
+
+The [Q3 source manifest](Tmanch_CH7_Nov9_TMTG_Q3_Source_Manifest.json) identifies original issuer/SEC artifacts and the reused ownership source. No new event, score or financial-flow total; no raw archive added.
