@@ -1,0 +1,160 @@
+{
+  "review_date_utc": "2026-11-09",
+  "baseline_commit": "735b8f53a21cc5d77daef0f7b6ff78c4d12e8c85",
+  "scope": "Existing 079/080 preparation context plus distinct unscored Canadian legal action097;072 remains unchanged. No financial totals, scores, raw archive or new conduct allegations.",
+  "sources": [
+    {
+      "source_ids": [
+        "CAN-RUS-NOV9-S001"
+      ],
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/11/minister-anand-announces-additional-sanctions-to-reduce-russias-missile-capabilities-and-raise-economic-costs.html",
+      "retrieved_at_utc": "2026-11-09T20:27:38.836280+00:00",
+      "source_class": "original Canadian official HTML",
+      "artifacts": [
+        {
+          "artifact": "canada-release.html",
+          "artifact_type": "retained original response bytes; not uploaded",
+          "bytes": 32470,
+          "sha256": "25e3140374b44121a92ea3110f10995f277083bde891c8f55ea27e9765a39b89"
+        }
+      ],
+      "joins": [
+        "J20-2026-097",
+        "CH7-CAN-RUSSIA-NOV5-001"
+      ],
+      "source_family": "Canadian government legal/announcement materials; not independent enforcement audits",
+      "inspection": "Full relevant text inspected; no audiovisual inspection",
+      "scope": "Official legal action and source chronology, not independent proof of designee conduct or measured enforcement"
+    },
+    {
+      "source_ids": [
+        "ABUDHABI-NOV9-S004"
+      ],
+      "url": "https://www.investing.com/news/world-news/russia-and-ukraine-showing-flexibility-on-territory-us-official-says-5013009",
+      "retrieved_at_utc": "2026-11-09T20:27:48.702690+00:00",
+      "source_class": "Reuters wire reproduction in full syndication HTML",
+      "artifacts": [
+        {
+          "artifact": "reuters-investing.html",
+          "artifact_type": "retained original response bytes; not uploaded",
+          "bytes": 924098,
+          "sha256": "9f9d78159c3a5b8e2cb8000265a425b1aeb62ba89a438b827e30272e3bfc8fc1"
+        }
+      ],
+      "joins": [
+        "J20-2026-079",
+        "J20-2026-080",
+        "CH7-BRUSSELS-RECOVERY-001",
+        "CH7-NOV4-ENVOY-CALL-001"
+      ],
+      "source_family": "One Reuters wire family; unnamed US official, no acquired government transcript",
+      "inspection": "Full relevant text inspected; no audiovisual inspection",
+      "scope": "Attributed preparation assessment only; no accepted terms, NATO coverage or implemented protection",
+      "published_at_utc": "2026-11-09T18:43:10Z",
+      "modified_at_utc": "2026-11-09T18:49:13Z",
+      "source_limits": "Original Reuters locator returned HTTP 401 and was not retried. This is retained syndication, not original government evidence. Official positions and agreed terms remain unacquired."
+    },
+    {
+      "source_ids": [
+        "CAN-RUS-NOV9-S002"
+      ],
+      "url": "https://www.international.gc.ca/world-monde/international_relations-relations_internationales/sanctions/russia-russie.aspx?lang=eng",
+      "retrieved_at_utc": "2026-11-09T20:28:28.315915+00:00",
+      "source_class": "original Canadian official HTML",
+      "artifacts": [
+        {
+          "artifact": "canada-russia-sanctions.html",
+          "artifact_type": "retained original response bytes; not uploaded",
+          "bytes": 89508,
+          "sha256": "a5fb104e5e643bac961d1538c7b9fe5d356b69288620188e8481fd19903a2343"
+        }
+      ],
+      "joins": [
+        "J20-2026-097",
+        "CH7-CAN-RUSSIA-NOV5-001"
+      ],
+      "source_family": "Canadian government legal/announcement materials; not independent enforcement audits",
+      "inspection": "Full relevant text inspected; no audiovisual inspection",
+      "scope": "Official legal action and source chronology, not independent proof of designee conduct or measured enforcement",
+      "date_limit": "Explicit November 5 entry into force and separate November 9 announcement; no independently acquired registration record."
+    },
+    {
+      "source_ids": [
+        "CAN-RUS-NOV9-S003"
+      ],
+      "url": "https://www.international.gc.ca/world-monde/international_relations-relations_internationales/sanctions/russia_regulations-reglement_russie5.aspx?lang=eng",
+      "retrieved_at_utc": "2026-11-09T20:29:04.945218+00:00",
+      "source_class": "original Canadian official HTML",
+      "artifacts": [
+        {
+          "artifact": "canada-amendment233.html",
+          "artifact_type": "retained original response bytes; not uploaded",
+          "bytes": 40745,
+          "sha256": "a566db9824c55c0f74e940874bc6b66f1efb7b8f2430e2d69c28c1d326097470"
+        }
+      ],
+      "joins": [
+        "J20-2026-097",
+        "CH7-CAN-RUSSIA-NOV5-001"
+      ],
+      "source_family": "Canadian government legal/announcement materials; not independent enforcement audits",
+      "inspection": "Full relevant text inspected; no audiovisual inspection",
+      "scope": "Official legal action and source chronology, not independent proof of designee conduct or measured enforcement; sections 3–4 contain 24 persons/38 entities; section 1 legal-services financial exception and sections 2/5–20 technical corrections retained; section 21 registration-day effectiveness",
+      "display_discrepancy": "English duplicates item 1624 after 1625; French displays 1626. English item 1633 has stray birth-year punctuation, absent in French. Original bytes unchanged."
+    },
+    {
+      "source_ids": [
+        "CAN-RUS-NOV9-S005"
+      ],
+      "url": "https://laws.justice.gc.ca/eng/regulations/SOR-2014-58/FullText.html",
+      "retrieved_at_utc": "2026-11-09T20:29:10.774092+00:00",
+      "source_class": "original Canadian official HTML",
+      "artifacts": [
+        {
+          "artifact": "canada-consolidated-law.html",
+          "artifact_type": "retained original response bytes; not uploaded",
+          "bytes": 1448590,
+          "sha256": "b958f9e4864cbc08b3798ff92e55a8f61643a75f22cdef5b27dbdb7380974435"
+        }
+      ],
+      "joins": [
+        "J20-2026-097",
+        "CH7-CAN-RUSSIA-NOV5-001"
+      ],
+      "source_family": "Canadian government legal/announcement materials; not independent enforcement audits",
+      "inspection": "Full relevant text inspected; no audiovisual inspection",
+      "scope": "Official legal action and source chronology, not independent proof of designee conduct or measured enforcement",
+      "date_limit": "Acquired consolidation current to October 19 and last amended September 4, 2026; baseline context only, not the latest November amendment."
+    },
+    {
+      "source_ids": [
+        "CAN-RUS-NOV9-S004"
+      ],
+      "url": "https://www.international.gc.ca/world-monde/international_relations-relations_internationales/sanctions/russia_regulations-reglement_russie5.aspx?lang=fra",
+      "retrieved_at_utc": "2026-11-09T20:30:10.300677+00:00",
+      "source_class": "original Canadian official HTML",
+      "artifacts": [
+        {
+          "artifact": "canada-amendment233-fr.html",
+          "artifact_type": "retained original response bytes; not uploaded",
+          "bytes": 42853,
+          "sha256": "39716fca37d0931a9b3e9a0129985738e5a654254bde76f55f13eb4b8a402c38"
+        }
+      ],
+      "joins": [
+        "J20-2026-097",
+        "CH7-CAN-RUSSIA-NOV5-001"
+      ],
+      "source_family": "Canadian government legal/announcement materials; not independent enforcement audits",
+      "inspection": "Full relevant text inspected; no audiovisual inspection",
+      "scope": "Official legal action and source chronology, not independent proof of designee conduct or measured enforcement; sections 3–4 contain 24 persons/38 entities; section 1 legal-services financial exception and sections 2/5–20 technical corrections retained; section 21 registration-day effectiveness",
+      "display_discrepancy": "English duplicates item 1624 after 1625; French displays 1626. English item 1633 has stray birth-year punctuation, absent in French. Original bytes unchanged."
+    }
+  ],
+  "boundaries": [
+    "Canadian official sources establish the instrument, named designations, legal framework and attributed date; no particular frozen assets or measured effects are established.",
+    "Bilingual source-display discrepancies and lagging consolidation are disclosed without silent correction.",
+    "Reuters wire syndication establishes reported anonymous-official statements only; an original US readout and accepted terms remain missing.",
+    "No causal join to October30 EU–Canada commitments, US presidential direction or Trump-family financial flow."
+  ]
+}

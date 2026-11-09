@@ -1319,3 +1319,11 @@ The [November 9 source manifest](Tmanch_CH7_Nov9_Source_Manifest.json) records a
 - **096 / CH7-PSI-CRYPTO-NOV5-001 / PSI-CRYPTO-NOV5-S001–005:** [Four signed November 5 records-request renewals](Tmanch_CH7_Nov5_PSI_Crypto_Requests_Source_Note.md) establish congressional action and deadlines, not underlying conduct, compulsory process or record production.
 
 The [November 9 morning manifest](Tmanch_CH7_Nov9_Morning_Source_Manifest.json) separates retained originals from tool-extracted source evidence. Existing history, scores and financial-flow totals remain unchanged; no raw source archive is added.
+
+
+## November 9 evening review: enacted Canadian measures and attributed US preparation
+
+- **097 / CH7-CAN-RUSSIA-NOV5-001 / CAN-RUS-NOV9-S001–005:** [Canada SOR/2026-233](Tmanch_CH7_Nov5_Canada_Sanctions_Source_Note.md) adds 24 individuals and 38 entities, with November 5 entry into force per the official chronology and a November 9 announcement. The narrow legal-services exception, technical corrections, bilingual display discrepancies and lagging consolidation remain explicit. No measured asset blocking, private receipt or causal join to 072.
+- **079/080 / ABUDHABI-NOV9-S004:** [Attributed US pre-talk assessment](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-9-us-officials-pre-talk-assessment) remains Reuters reporting of an unnamed official, not an acquired government transcript, accepted territorial terms, NATO coverage or an implemented guarantee.
+
+The [November 9 evening manifest](Tmanch_CH7_Nov9_Evening_Source_Manifest.json) records retained originals and the Reuters syndication distinctly. Existing scores, correction history and financial-flow totals remain unchanged.
