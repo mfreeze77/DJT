@@ -1,0 +1,86 @@
+{
+  "review_date_utc": "2026-11-10",
+  "baseline_commit": "417fc1cdce8bf752bd0d2a1d93c6520509be32f5",
+  "scope": "Same MEXC order publication and exact future effectiveness; existing diplomacy chronology advances to opening. No new event/claim, score, monetary companion or financial-flow total.",
+  "sources": [
+    {
+      "source_ids": [
+        "MEXC-9714-S008"
+      ],
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-11-10/pdf/2026-22962.pdf",
+      "retrieved_at_utc": "2026-11-10T12:26:05.466776+00:00",
+      "displayed_publication": "2026-11-10; 91 FR 72420–72427; FR Doc. 2026-22962",
+      "source_class": "Original published Federal Register PDF",
+      "artifacts": [
+        {
+          "artifact": "mexc-final.pdf",
+          "artifact_type": "original response bytes; retained locally, not uploaded",
+          "bytes": 277610,
+          "sha256": "f749cc1e613d908db3a7e36816273dbbeb65b93bf9a79a45840aadf6325ed9d2"
+        }
+      ],
+      "joins": [
+        "J20-2026-091",
+        "CH7-MEXC-9714-001"
+      ],
+      "inspection": "PDF pages 1–8 retained; DATES and VI.A–E inspected in text; pages 1 and 7 visually reviewed. Adjacent NLRB/EPA matter excluded.",
+      "limits": "Same order as earlier issuance/public inspection, not independent evidence of underlying conduct. December 10 effectiveness is prospective on review date. No operational compliance, asset blocking, measured effects or private receipt established."
+    },
+    {
+      "source_ids": [
+        "ABUDHABI-NOV10-S001"
+      ],
+      "url": "https://www.mofa.gov.ae/en/MediaHub/News/2026/11/10/10-11-2026-UAE-Russia-Ukraine-USA",
+      "retrieved_at_utc": "2026-11-10T12:26:11.888747+00:00",
+      "displayed_publication": "Tue 10/11/2026; no time stated",
+      "source_class": "Original government HTML response",
+      "artifacts": [
+        {
+          "artifact": "uae-opening.html",
+          "artifact_type": "original response bytes; retained locally, not uploaded",
+          "bytes": 217939,
+          "sha256": "3e5a7b870445e5ff9a8bfa18764b47602816426cb7107c15db3176a4e60296fd"
+        }
+      ],
+      "joins": [
+        "J20-2026-079",
+        "CH7-BRUSSELS-RECOVERY-001",
+        "J20-2026-080",
+        "CH7-NOV4-ENVOY-CALL-001"
+      ],
+      "inspection": "Full original host-government article text inspected; no media inspection.",
+      "limits": "Confirms third-round launch; hopes for practical steps are not agreed terms or outcomes. No European trilateral-party finding."
+    },
+    {
+      "source_ids": [
+        "ABUDHABI-NOV10-S002"
+      ],
+      "url": "https://www.president.gov.ua/en/news/prezident-ukrayini-proviv-telefonnu-rozmovu-z-prezidentom-fi-107229",
+      "retrieved_at_utc": "2026-11-10T12:26:14.068604+00:00",
+      "displayed_publication": "2026-11-10 12:28; timezone unstated",
+      "source_class": "Original government HTML response",
+      "artifacts": [
+        {
+          "artifact": "ukraine-stubb.html",
+          "artifact_type": "original response bytes; retained locally, not uploaded",
+          "bytes": 94858,
+          "sha256": "f349bdbe9b51b11f1f91c6ba9c887989049922af8db2261b0b8ed6771024386c"
+        }
+      ],
+      "joins": [
+        "J20-2026-079",
+        "CH7-BRUSSELS-RECOVERY-001",
+        "J20-2026-080",
+        "CH7-NOV4-ENVOY-CALL-001"
+      ],
+      "inspection": "Full original participant-government readout text and article timestamp inspected; no media inspection.",
+      "limits": "Separately confirms opening and reports held European-representative meeting; detailed team briefing still expected. No complete roster, accepted guarantees, completed negotiations, aid activation or delivery established."
+    }
+  ],
+  "boundaries": [
+    "Prior source notes and correction history are preserved. Current status fields are updated with prior wording retained in source notes.",
+    "Published legal dates, current effectiveness and operational implementation remain distinct.",
+    "Confirmed opening and participant-reported separate coordination do not establish accepted settlement terms or outcomes.",
+    "No raw source archive, new underlying-conduct accusation, private receipt or causal policy join."
+  ]
+}

@@ -1344,3 +1344,11 @@ The [Q3 source manifest](Tmanch_CH7_Nov9_TMTG_Q3_Source_Manifest.json) identifie
 - **CH7-UAE-USD1-002 / USD1-BUYBACK-S002:** [WLFI intended venue, designated wallet and retained-revenue terms](Tmanch_CH7_Nov6_WLFI_Buyback_Source_Note.md#november-9-venue-designated-wallet-and-retained-revenue-terms) refine the earlier issuer announcement without proving execution, allocation or receipt.
 
 The [November 10 manifest](Tmanch_CH7_Nov10_Source_Manifest.json) distinguishes retained original HTML from copied tool-rendered evidence and public register metadata. No source archive, score or financial-flow total is added.
+
+
+## November 10 published MEXC dates and Abu Dhabi opening
+
+- **091 / CH7-MEXC-9714-001 / MEXC-9714-S008:** [Final Federal Register publication](Tmanch_CH7_Nov7_MEXC_Order_Source_Note.md#november-10-final-publication-december-10-effectiveness-established) closes the publication/effective-date gaps. The same order takes effect December 10, not on November 10. Implementation and measured effects remain unverified.
+- **079/080 / ABUDHABI-NOV10-S001–002:** [Host-confirmed opening and participant-reported separate European meeting](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-10-abu-dhabi-opening-and-separate-european-meeting) advance the preparation chronology without implying completed negotiations, accepted terms, guarantees or delivered assistance.
+
+The [publication/talks source manifest](Tmanch_CH7_Nov10_Publication_Talks_Source_Manifest.json) records three retained original artifacts. Earlier history and unresolved implementation requirements remain; no new event/claim ID, source archive, score or financial-flow total.
