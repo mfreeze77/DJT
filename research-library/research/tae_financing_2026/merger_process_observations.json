@@ -1,6 +1,6 @@
 {
   "scope": "Separate noncash merger-process observations; issuer-reported procedural milestone and prospective timetable, not monetary transactions or completed merger",
-  "review_date": "2026-11-06",
+  "review_date": "2026-11-09",
   "observations": [
     {
       "observation_id": "TAE-MERGER01",
@@ -10,12 +10,16 @@
       "sources": [
         "TAE-S41",
         "TAE-S42",
-        "TAE-S43"
+        "TAE-S43",
+        "TMTG-Q3-S001",
+        "TMTG-Q3-S002",
+        "TMTG-Q3-S004"
       ],
       "locators": [
         "Form 425 headline and opening four substantive paragraphs",
         "424B3 cover/meeting notice, printed p.5 and actual p.84",
-        "Separate SEC EFFECT rendered notice and raw XML; official indices/submissions"
+        "Separate SEC EFFECT rendered notice and raw XML; official indices/submissions",
+        "November 9 issuer release solicitation paragraph; 10-Q Note 17 and September 30 statements; Q3 source note"
       ],
       "registration_effectiveness": {
         "status": "separately_confirmed_by_SEC_notice",
@@ -58,8 +62,12 @@
         "conflict_resolution": "Unresolved; no acquired explanation or rescheduling notice."
       },
       "mailing": {
-        "status": "expected_not_verified",
-        "date_as_stated": "on or about November 6, 2026"
+        "status": "issuer_reported_TMTG_mailed_receipt_unverified",
+        "report_date": "2026-11-09",
+        "actual_mailing_date": null,
+        "independently_verified_receipt": false,
+        "TMTG_proxy": "has been mailed per issuer release",
+        "TAE_prospectus_consent_solicitation": "will be sent per same release; prospective"
       },
       "TAE_stockholder_approval": {
         "method_as_stated": "written consent",
@@ -85,7 +93,7 @@
         "TAE-T20",
         "TAE-REF01"
       ],
-      "limits": "Separate SEC EFFECT and definitive prospectus acquired. Filing, acceptance, document and effectiveness dates remain distinct. Meeting-time conflict preserved. No completed mailing, vote, merger, new financing, asset sale, family receipt or policy bargain established.",
+      "limits": "Separate SEC EFFECT and definitive prospectus acquired. Filing, acceptance, document and effectiveness dates remain distinct. Meeting-time conflict preserved. TMTG mailing now issuer-reported; no independently verified receipt, vote, merger, new financing, asset sale, family receipt or policy bargain established. The earlier expected-mailing stage remains in prior_source_snapshots. New release supplies no meeting time; prior conflict remains unresolved. Disclosure amendment dates differ from SEC metadata as described in the Q3 source note.",
       "prior_source_snapshots": [
         {
           "as_recorded": "2026-11-06 earlier watch",
@@ -148,7 +156,162 @@
             ],
             "limits": "SEC-hosted issuer announcement, not independent EFFECT/definitive prospectus verification. Expected ownership is prospective. No shareholder approval, completed mailing, merger closing, financing, collateral release, digital-asset sale, family receipt or policy bargain established."
           }
+        },
+        {
+          "as_recorded": "2026-11-09 before Q3 follow-up",
+          "observation": {
+            "observation_id": "TAE-MERGER01",
+            "type": "issuer_reported_registration_effectiveness_and_scheduled_merger_process",
+            "disclosure_date": "2026-11-05",
+            "issuer": "Trump Media & Technology Group Corp. and TAE Technologies, Inc.",
+            "sources": [
+              "TAE-S41",
+              "TAE-S42",
+              "TAE-S43"
+            ],
+            "locators": [
+              "Form 425 headline and opening four substantive paragraphs",
+              "424B3 cover/meeting notice, printed p.5 and actual p.84",
+              "Separate SEC EFFECT rendered notice and raw XML; official indices/submissions"
+            ],
+            "registration_effectiveness": {
+              "status": "separately_confirmed_by_SEC_notice",
+              "reported_effective_date": "2026-11-05",
+              "separate_SEC_EFFECT_document_acquired": true,
+              "notice_effective_date": "2026-11-05",
+              "notice_effective_time": "16:00:00",
+              "notice_effective_time_timezone": null,
+              "SEC_filing_date": "2026-11-05",
+              "SEC_acceptance_utc": "2026-11-06T05:15:07.000Z"
+            },
+            "definitive_proxy_prospectus": {
+              "status": "separate_definitive_document_acquired",
+              "reported_filing_date": "2026-11-05",
+              "separate_document_acquired": true,
+              "document_date": "2026-11-02",
+              "SEC_filing_date": "2026-11-06",
+              "SEC_acceptance_utc": "2026-11-05T23:02:34.000Z",
+              "date_qualification": "Earlier issuer reported filing November 5; SEC filingDate and acceptance are distinct metadata, not silently reconciled."
+            },
+            "stockholder_meeting": {
+              "status": "scheduled_not_held_time_conflict_unresolved",
+              "date": "2026-12-14",
+              "time": null,
+              "timezone_as_stated": null,
+              "record_date": "2026-11-02",
+              "record_date_qualifier": "close of business",
+              "source_specific_times": [
+                {
+                  "source": "TAE-S41",
+                  "time": "09:15",
+                  "timezone_as_stated": "ET"
+                },
+                {
+                  "source": "TAE-S42",
+                  "time": "10:00",
+                  "timezone_as_stated": "Eastern Time"
+                }
+              ],
+              "conflict_resolution": "Unresolved; no acquired explanation or rescheduling notice."
+            },
+            "mailing": {
+              "status": "expected_not_verified",
+              "date_as_stated": "on or about November 6, 2026"
+            },
+            "TAE_stockholder_approval": {
+              "method_as_stated": "written consent",
+              "status": "prospective_not_verified"
+            },
+            "merger_closing": {
+              "status": "expected_not_completed",
+              "timing_as_stated": "by year-end 2026",
+              "conditions": "Required TMTG shareholder and TAE stockholder approvals and satisfaction or waiver of other applicable closing conditions"
+            },
+            "actual_new_advance_usd": null,
+            "actual_new_loan_usd": null,
+            "actual_asset_sale_usd": null,
+            "merger_closing_established": false,
+            "payment_established": false,
+            "advisory_share_issuance_established": false,
+            "historical_receipt_total_eligible": false,
+            "tae_funding_trace_established": false,
+            "national_benefit": "uncertain",
+            "joins": [
+              "J20-2026-065",
+              "CH7-TAE-DRAW-001",
+              "TAE-T20",
+              "TAE-REF01"
+            ],
+            "limits": "Separate SEC EFFECT and definitive prospectus acquired. Filing, acceptance, document and effectiveness dates remain distinct. Meeting-time conflict preserved. No completed mailing, vote, merger, new financing, asset sale, family receipt or policy bargain established.",
+            "prior_source_snapshots": [
+              {
+                "as_recorded": "2026-11-06 earlier watch",
+                "observation": {
+                  "observation_id": "TAE-MERGER01",
+                  "type": "issuer_reported_registration_effectiveness_and_scheduled_merger_process",
+                  "disclosure_date": "2026-11-05",
+                  "issuer": "Trump Media & Technology Group Corp. and TAE Technologies, Inc.",
+                  "sources": [
+                    "TAE-S41"
+                  ],
+                  "locators": [
+                    "Form 425 headline and opening four substantive paragraphs"
+                  ],
+                  "registration_effectiveness": {
+                    "status": "reported_completed_by_issuer",
+                    "reported_effective_date": "2026-11-05",
+                    "separate_SEC_EFFECT_document_acquired": false
+                  },
+                  "definitive_proxy_prospectus": {
+                    "status": "reported_filed_by_issuer",
+                    "reported_filing_date": "2026-11-05",
+                    "separate_document_acquired": false
+                  },
+                  "stockholder_meeting": {
+                    "status": "scheduled_not_held",
+                    "date": "2026-12-14",
+                    "time": "09:15",
+                    "timezone_as_stated": "ET",
+                    "record_date": "2026-11-02",
+                    "record_date_qualifier": "close of business"
+                  },
+                  "mailing": {
+                    "status": "expected_not_verified",
+                    "date_as_stated": "on or about November 6, 2026"
+                  },
+                  "TAE_stockholder_approval": {
+                    "method_as_stated": "written consent",
+                    "status": "prospective_not_verified"
+                  },
+                  "merger_closing": {
+                    "status": "expected_not_completed",
+                    "timing_as_stated": "by year-end 2026",
+                    "conditions": "Required TMTG shareholder and TAE stockholder approvals and satisfaction or waiver of other applicable closing conditions"
+                  },
+                  "actual_new_advance_usd": null,
+                  "actual_new_loan_usd": null,
+                  "actual_asset_sale_usd": null,
+                  "merger_closing_established": false,
+                  "payment_established": false,
+                  "advisory_share_issuance_established": false,
+                  "historical_receipt_total_eligible": false,
+                  "tae_funding_trace_established": false,
+                  "national_benefit": "uncertain",
+                  "joins": [
+                    "J20-2026-065",
+                    "CH7-TAE-DRAW-001",
+                    "TAE-T20",
+                    "TAE-REF01"
+                  ],
+                  "limits": "SEC-hosted issuer announcement, not independent EFFECT/definitive prospectus verification. Expected ownership is prospective. No shareholder approval, completed mailing, merger closing, financing, collateral release, digital-asset sale, family receipt or policy bargain established."
+                }
+              }
+            ]
+          }
         }
+      ],
+      "source_manifests": [
+        "../../Tmanch_CH7_Nov9_TMTG_Q3_Source_Manifest.json"
       ]
     }
   ],
@@ -157,6 +320,10 @@
     {
       "date": "2026-11-06",
       "description": "Same TAE-MERGER01 upgraded with direct records; complete earlier observation retained in prior_source_snapshots. No duplicate outcome or monetary row."
+    },
+    {
+      "date": "2026-11-09",
+      "description": "Same TAE-MERGER01: TMTG mailing advances to issuer-reported status; full preceding observation retained. TAE solicitation, receipt, vote, meeting-time conflict and closing remain unresolved. No monetary row or duplicate outcome."
     }
   ]
 }

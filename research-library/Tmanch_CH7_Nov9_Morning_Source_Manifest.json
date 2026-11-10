@@ -1,0 +1,316 @@
+{
+  "review_date_utc": "2026-11-09",
+  "baseline_commit": "ed191c5efe4f59e466490fb476224a7f5e649f7c",
+  "scope": "Append-only existing 079/080/091 context plus one new unscored congressional action 096. No raw archives, money totals or new conduct allegations.",
+  "sources": [
+    {
+      "source_ids": [
+        "MEXC-9714-S007"
+      ],
+      "url": "https://www.federalregister.gov/api/v1/public-inspection-documents/current.json",
+      "retrieved_at_utc": "2026-11-09T14:21:45.983232+00:00",
+      "source_class": "original official JSON",
+      "artifacts": [
+        {
+          "artifact": "fr-public-inspection.json",
+          "artifact_type": "retained original response bytes; not uploaded",
+          "bytes": 172814,
+          "sha256": "53dccfea9e33258727e0b3102b277c75b8d2a655a01c248b8bae09f37ee231d3"
+        }
+      ],
+      "joins": [
+        "J20-2026-091",
+        "CH7-MEXC-9714-001"
+      ],
+      "source_family": "Federal Register/FinCEN same-order publication process",
+      "inspection": "Full original body inspected for the cited document/links/metadata",
+      "scope": "Public inspection and scheduled publication, not final legal publication or implementation",
+      "metadata_limit": "Changing feed retained; document 2026-22962 entry inspected. Its reported PDF size is not substituted for measured response bytes."
+    },
+    {
+      "source_ids": [
+        "MEXC-9714-S005"
+      ],
+      "url": "https://public-inspection.federalregister.gov/2026-22962.pdf",
+      "retrieved_at_utc": "2026-11-09T14:22:41.236624+00:00",
+      "source_class": "original official PDF",
+      "artifacts": [
+        {
+          "artifact": "mexc-pi.pdf",
+          "artifact_type": "retained original response bytes; not uploaded",
+          "bytes": 310248,
+          "sha256": "93063dfc695276e7b52863a7d9ce01fbe49c191a3ba8eef3a75eef35aca64376"
+        }
+      ],
+      "joins": [
+        "J20-2026-091",
+        "CH7-MEXC-9714-001"
+      ],
+      "source_family": "Federal Register/FinCEN same-order publication process",
+      "inspection": "Text inspected; PDF pages 1, 21 and 22 visually inspected",
+      "scope": "Public inspection and scheduled publication, not final legal publication or implementation",
+      "date_limit": "Filed November 9 08:45 Eastern; scheduled publication November 10; 30-day effective-date placeholder unresolved"
+    },
+    {
+      "source_ids": [
+        "MEXC-9714-S006"
+      ],
+      "url": "https://www.federalregister.gov/public-inspection/2026-22962/imposition-of-special-measure-prohibiting-the-transmittal-of-funds-involving-mexc-global",
+      "retrieved_at_utc": "2026-11-09T14:22:53.492701+00:00",
+      "source_class": "original official HTML",
+      "artifacts": [
+        {
+          "artifact": "mexc-pi.html",
+          "artifact_type": "retained original response bytes; not uploaded",
+          "bytes": 38133,
+          "sha256": "9c5354c9495d146e5e845fa6c502263bb6c312c4fa97288eeccbbec60e875925"
+        }
+      ],
+      "joins": [
+        "J20-2026-091",
+        "CH7-MEXC-9714-001"
+      ],
+      "source_family": "Federal Register/FinCEN same-order publication process",
+      "inspection": "Full original body inspected for the cited document/links/metadata",
+      "scope": "Public inspection and scheduled publication, not final legal publication or implementation"
+    },
+    {
+      "source_ids": [
+        "PSI-CRYPTO-NOV5-S001"
+      ],
+      "url": "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-sends-warning-to-targets-of-investigations-into-crypto-corruption-immigration-abuses-big-tech-and-more",
+      "retrieved_at_utc": "2026-11-09T14:22:55.991947+00:00",
+      "source_class": "original official HTML",
+      "artifacts": [
+        {
+          "artifact": "blumenthal-release.html",
+          "artifact_type": "retained original response bytes; not uploaded",
+          "bytes": 80684,
+          "sha256": "3881bb663b8d038549ce668f0892dd651596572ad05685889774249717bf3cc8"
+        }
+      ],
+      "joins": [
+        "J20-2026-096",
+        "CH7-PSI-CRYPTO-NOV5-001"
+      ],
+      "source_family": "Senator Blumenthal congressional release and linked request packets",
+      "inspection": "Full original body inspected for the cited document/links/metadata",
+      "scope": "Action, recipients, deadlines and signed capacity only; underlying allegations and nonresponse assertions not adopted"
+    },
+    {
+      "source_ids": [
+        "PSI-CRYPTO-NOV5-S004"
+      ],
+      "url": "https://www.blumenthal.senate.gov/imo/media/doc/2026-11-05_letter_from_sen_richard_blumenthal_to_binance.pdf",
+      "retrieved_at_utc": "2026-11-09T14:23:01.408770+00:00",
+      "source_class": "original official PDF",
+      "artifacts": [
+        {
+          "artifact": "blumenthal-binance.pdf",
+          "artifact_type": "retained original response bytes; not uploaded",
+          "bytes": 1093113,
+          "sha256": "896ca9f45aead4393021bfe352bafab667eec4363a93b131dec897deb334a2e7"
+        }
+      ],
+      "joins": [
+        "J20-2026-096",
+        "CH7-PSI-CRYPTO-NOV5-001"
+      ],
+      "source_family": "Senator Blumenthal congressional release and linked request packets",
+      "inspection": "Current cover pages 1–2 text-inspected and visually reviewed including signatures; attached earlier requests checked for dates and record context",
+      "scope": "Action, recipients, deadlines and signed capacity only; underlying allegations and nonresponse assertions not adopted"
+    },
+    {
+      "source_ids": [
+        "PSI-CRYPTO-NOV5-S002"
+      ],
+      "url": "https://www.blumenthal.senate.gov/imo/media/doc/2026-11-05_letter_from_sen_richard_blumenthal_to_world_liberty_financial.pdf",
+      "retrieved_at_utc": "2026-11-09T14:23:07.938404+00:00",
+      "source_class": "original official PDF",
+      "artifacts": [
+        {
+          "artifact": "blumenthal-wlf.pdf",
+          "artifact_type": "retained original response bytes; not uploaded",
+          "bytes": 1053061,
+          "sha256": "8ce5d152763b64935a5ac9338c6e7e43a3480c1e51c4e1873c740155efd24349"
+        }
+      ],
+      "joins": [
+        "J20-2026-096",
+        "CH7-PSI-CRYPTO-NOV5-001"
+      ],
+      "source_family": "Senator Blumenthal congressional release and linked request packets",
+      "inspection": "Current cover pages 1–2 text-inspected and visually reviewed including signatures; attached earlier requests checked for dates and record context",
+      "scope": "Action, recipients, deadlines and signed capacity only; underlying allegations and nonresponse assertions not adopted"
+    },
+    {
+      "source_ids": [
+        "PSI-CRYPTO-NOV5-S003"
+      ],
+      "url": "https://www.blumenthal.senate.gov/imo/media/doc/2026-11-05_letter_from_sen_richard_blumenthal_to_fight_fight_fight.pdf",
+      "retrieved_at_utc": "2026-11-09T14:23:12.564231+00:00",
+      "source_class": "original official PDF",
+      "artifacts": [
+        {
+          "artifact": "blumenthal-fff.pdf",
+          "artifact_type": "retained original response bytes; not uploaded",
+          "bytes": 1035241,
+          "sha256": "083d520f5639ce258870c2650a8f6f4a6387a1f20ca1c6101b3121dc360c5bea"
+        }
+      ],
+      "joins": [
+        "J20-2026-096",
+        "CH7-PSI-CRYPTO-NOV5-001"
+      ],
+      "source_family": "Senator Blumenthal congressional release and linked request packets",
+      "inspection": "Current cover pages 1–2 text-inspected and visually reviewed including signatures; attached earlier requests checked for dates and record context",
+      "scope": "Action, recipients, deadlines and signed capacity only; underlying allegations and nonresponse assertions not adopted"
+    },
+    {
+      "source_ids": [
+        "PSI-CRYPTO-NOV5-S005"
+      ],
+      "url": "https://www.blumenthal.senate.gov/imo/media/doc/2026-11-05_letter_from_sen_richard_blumenthal_to_tether.pdf",
+      "retrieved_at_utc": "2026-11-09T14:23:17.939438+00:00",
+      "source_class": "original official PDF",
+      "artifacts": [
+        {
+          "artifact": "blumenthal-tether.pdf",
+          "artifact_type": "retained original response bytes; not uploaded",
+          "bytes": 1871070,
+          "sha256": "6c3474df3e5ce58801af3968c61e4a5385764af9ed5b4cb3c163e5177fc9915c"
+        }
+      ],
+      "joins": [
+        "J20-2026-096",
+        "CH7-PSI-CRYPTO-NOV5-001"
+      ],
+      "source_family": "Senator Blumenthal congressional release and linked request packets",
+      "inspection": "Current cover pages 1–2 text-inspected and visually reviewed including signatures; attached earlier requests checked for dates and record context",
+      "scope": "Action, recipients, deadlines and signed capacity only; underlying allegations and nonresponse assertions not adopted"
+    },
+    {
+      "source_ids": [
+        "ABUDHABI-NOV9-S002"
+      ],
+      "url": "https://t.me/umerov_rustem/603",
+      "retrieved_date_utc": "2026-11-09",
+      "acquisition_time_limit": "Exact original acquisition time not logged; date retained without inventing timestamp.",
+      "reviewed_at_utc": "2026-11-09T14:33:01Z",
+      "source_class": "complete web-tool response containing rendered original-channel text",
+      "artifacts": [
+        {
+          "artifact": "policy_umerov603_timeline_tool.json",
+          "artifact_type": "complete web-tool response containing rendered original-channel text; retained locally, not uploaded",
+          "bytes": 22304,
+          "sha256": "4944e327279c043f304be1b02a324120b3c5799af8682385c9dc46fca7461c3e"
+        }
+      ],
+      "joins": [
+        "J20-2026-079",
+        "J20-2026-080",
+        "CH7-BRUSSELS-RECOVERY-001",
+        "CH7-NOV4-ENVOY-CALL-001"
+      ],
+      "source_family": "Umerov firsthand official-channel participant account",
+      "inspection": "Full relevant original post text inspected in https://t.me/s/umerov_rustem; timestamp link independently clicked to identify post 603.",
+      "scope": "Participant-reported delegation travel and planned trilateral format with separate Ukrainian coordination meetings involving E4, NATO and Commission representatives.",
+      "date_limit": "Timeline 12:24 display has no independently acquired date/timezone. November 9 date context from separately identified reporting.",
+      "source_limits": "Not original Telegram HTML. Direct post 603 page was an embed shell. Context 603 URL failed; full timeline succeeded. No media, travel receipts, attendance records or nonpublic negotiating documents inspected. Not proof of a European seat at trilateral table."
+    },
+    {
+      "source_ids": [
+        "ABUDHABI-NOV9-S003"
+      ],
+      "url": "https://ukranews.com/ua/news/1186376-ukrayinska-delegatsiya-vyrshulyla-na-peregovory-do-abu-dabi",
+      "retrieved_date_utc": "2026-11-09",
+      "acquisition_time_limit": "Exact original acquisition time not logged; date retained without inventing timestamp.",
+      "reviewed_at_utc": "2026-11-09T14:33:01Z",
+      "source_class": "complete web-search response containing indexed original reporting excerpts",
+      "artifacts": [
+        {
+          "artifact": "policy_umerov_date_context_tool.json",
+          "artifact_type": "complete web-search response containing indexed original reporting excerpts; retained locally, not uploaded",
+          "bytes": 41033,
+          "sha256": "f6d31b053e555761f63f2a582e1e360cb6169a82cdf5590e42be447a35af45ce"
+        }
+      ],
+      "joins": [
+        "J20-2026-079",
+        "J20-2026-080",
+        "CH7-BRUSSELS-RECOVERY-001",
+        "CH7-NOV4-ENVOY-CALL-001"
+      ],
+      "source_family": "Reporting of the same Umerov statement, not independent outcome evidence",
+      "inspection": "Ukrainian News indexed article excerpt explicitly says Umerov posted on Monday November 9. Used only for date context; full article body not fetched.",
+      "scope": "November 9 date context for Umerov 603; reporting repeats his participant account, not independent verification of planned meetings.",
+      "date_limit": "Indexed source body expressly identifies Monday November 9; exact Telegram posting date/timezone still not acquired.",
+      "source_limits": "Full original news HTML not acquired. Broader returned search material is retained as complete tool response, not adopted. Earlier Interfax/Hromadske raw routes returned 403 and stopped; new Ukrinform 4182940 open was inaccessible and not retried."
+    },
+    {
+      "source_ids": [
+        "EU-EMERGENCY-NOV9-S001"
+      ],
+      "url": "https://www.president.gov.ua/en/news/yevrosoyuz-zastosuye-specialnij-mehanizm-iz-dopomogi-u-nadzv-107205",
+      "retrieved_date_utc": "2026-11-09",
+      "acquisition_time_limit": "Exact original acquisition time not logged; date retained without inventing timestamp.",
+      "reviewed_at_utc": "2026-11-09T14:33:01Z",
+      "source_class": "original official HTML response bytes",
+      "artifacts": [
+        {
+          "artifact": "policy_president_en.html",
+          "artifact_type": "original official HTML response bytes; retained locally, not uploaded",
+          "bytes": 96129,
+          "sha256": "abe07a8aacfa985329d1315db5a3aa96d857bea044b588ee484977379e6fb9d4"
+        }
+      ],
+      "joins": [
+        "J20-2026-079",
+        "J20-2026-080",
+        "CH7-BRUSSELS-RECOVERY-001",
+        "CH7-NOV4-ENVOY-CALL-001"
+      ],
+      "source_family": "Ukrainian presidency bilingual participant readout",
+      "inspection": "Full article textual body inspected; Ukrainian and official English versions compared.",
+      "scope": "Held Zelenskyy–von der Leyen call, Abu Dhabi coordination and agreement that EU would activate unnamed emergency mechanism, with teams working.",
+      "date_limit": "Displayed November 9, 2026 at 10:18; timezone unstated.",
+      "source_limits": "Same Ukrainian participant-government source family; not independent European confirmation. No named instrument, amount, completed activation, disbursement, delivery or agreed security terms supplied. Embedded media and nonpublic documents not inspected."
+    },
+    {
+      "source_ids": [
+        "EU-EMERGENCY-NOV9-S002"
+      ],
+      "url": "https://www.president.gov.ua/news/yevrosoyuz-zastosuye-specialnij-mehanizm-iz-dopomogi-u-nadzv-107205",
+      "retrieved_date_utc": "2026-11-09",
+      "acquisition_time_limit": "Exact original acquisition time not logged; date retained without inventing timestamp.",
+      "reviewed_at_utc": "2026-11-09T14:33:01Z",
+      "source_class": "original official HTML response bytes",
+      "artifacts": [
+        {
+          "artifact": "policy_president.html",
+          "artifact_type": "original official HTML response bytes; retained locally, not uploaded",
+          "bytes": 138382,
+          "sha256": "76e824c59c238580afd500eb9ef3716aee2920c6cd0f05068331629c610956a9"
+        }
+      ],
+      "joins": [
+        "J20-2026-079",
+        "J20-2026-080",
+        "CH7-BRUSSELS-RECOVERY-001",
+        "CH7-NOV4-ENVOY-CALL-001"
+      ],
+      "source_family": "Ukrainian presidency bilingual participant readout",
+      "inspection": "Full article textual body inspected; Ukrainian and official English versions compared.",
+      "scope": "Held Zelenskyy–von der Leyen call, Abu Dhabi coordination and agreement that EU would activate unnamed emergency mechanism, with teams working.",
+      "date_limit": "Displayed November 9, 2026 at 10:18; timezone unstated.",
+      "source_limits": "Same Ukrainian participant-government source family; not independent European confirmation. No named instrument, amount, completed activation, disbursement, delivery or agreed security terms supplied. Embedded media and nonpublic documents not inspected."
+    }
+  ],
+  "boundaries": [
+    "Official participant accounts establish attributed process/announcements, not negotiated terms or delivered support.",
+    "Public inspection is distinct from official dated publication and effective implementation.",
+    "Signed congressional requests establish action/deadlines, not receipt, compelled production or adjudicated allegations.",
+    "Original source bytes and tool-rendered extracts are identified separately. No audiovisual inspection is claimed.",
+    "All prior source history, correction text, scores and unanswered record requirements are preserved."
+  ]
+}

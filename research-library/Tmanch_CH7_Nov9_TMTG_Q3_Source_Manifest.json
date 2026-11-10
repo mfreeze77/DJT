@@ -1,0 +1,199 @@
+{
+  "review_date_utc": "2026-11-09",
+  "baseline_commit": "0f5b58b3d54cf226a5b058374aa61303f7ec20c3",
+  "scope": "One corporate-context claim, extensions 044/065 and same TAE-MERGER01; no new event, score, financial-flow total or raw archive.",
+  "sources": [
+    {
+      "source_ids": [
+        "TMTG-Q3-S001"
+      ],
+      "url": "https://www.globenewswire.com/fr/news-release/2026/11/09/3398959/0/en/trump-media-technology-group-reports-third-quarter-2026-results.html",
+      "retrieved_at_utc": "2026-11-09T22:29:45.460415+00:00",
+      "source_class": "original issuer/SEC HTML response",
+      "artifacts": [
+        {
+          "artifact": "release.html",
+          "artifact_type": "retained original response bytes; not uploaded",
+          "bytes": 79416,
+          "sha256": "8dda1448d9207d5043e5b16bd140813414ee57182605279c12197d7d140b868e"
+        }
+      ],
+      "joins": [
+        "CH7-TMTG-Q3-001",
+        "J20-2026-044",
+        "CH7-TMTG-API-001",
+        "J20-2026-065",
+        "CH7-TAE-DRAW-001",
+        "TAE-MERGER01"
+      ],
+      "source_family": "One TMTG issuer disclosure family; SEC hosting/acceptance is not independent audit or bank confirmation",
+      "inspection": "Relevant statement tables, notes, MD&A, solicitation wording and metadata inspected with printed HTML page labels; no PDF-image inspection",
+      "scope": "Unaudited corporate accounts and issuer process report. No personal receipt, foreign-funding trace, new TAE advance or completed merger established.",
+      "limits": "Issuer release; same release family. Adjusted EBITDA and Financial Assets are non-GAAP. Proxy mailing is issuer-reported; receipt/vote/closing unverified."
+    },
+    {
+      "source_ids": [
+        "TMTG-Q3-S005"
+      ],
+      "url": "https://data.sec.gov/submissions/CIK0001849635.json",
+      "retrieved_at_utc": "2026-11-09T22:29:47.770722+00:00",
+      "source_class": "original SEC JSON feed",
+      "artifacts": [
+        {
+          "artifact": "submissions.json",
+          "artifact_type": "retained original response bytes; not uploaded",
+          "bytes": 116908,
+          "sha256": "c03d3868449205a5f1e641fd3d1f6994b32bcf2e1c23dda3dd14686852a6e2c3"
+        }
+      ],
+      "joins": [
+        "CH7-TMTG-Q3-001",
+        "J20-2026-044",
+        "CH7-TMTG-API-001",
+        "J20-2026-065",
+        "CH7-TAE-DRAW-001",
+        "TAE-MERGER01"
+      ],
+      "source_family": "One TMTG issuer disclosure family; SEC hosting/acceptance is not independent audit or bank confirmation",
+      "inspection": "Relevant statement tables, notes, MD&A, solicitation wording and metadata inspected with printed HTML page labels; no PDF-image inspection",
+      "scope": "Unaudited corporate accounts and issuer process report. No personal receipt, foreign-funding trace, new TAE advance or completed merger established."
+    },
+    {
+      "source_ids": [
+        "TMTG-Q3-S002"
+      ],
+      "url": "https://www.sec.gov/Archives/edgar/data/1849635/000143774926035884/djt20260930_10q.htm",
+      "retrieved_at_utc": "2026-11-09T22:30:18.454775+00:00",
+      "source_class": "original issuer/SEC HTML response",
+      "artifacts": [
+        {
+          "artifact": "10q.html",
+          "artifact_type": "retained original response bytes; not uploaded",
+          "bytes": 1981652,
+          "sha256": "d3f4534ecf3945f71905bf5b3e41c1af3ebf433bcd898a969275f27e3c46df24"
+        }
+      ],
+      "joins": [
+        "CH7-TMTG-Q3-001",
+        "J20-2026-044",
+        "CH7-TMTG-API-001",
+        "J20-2026-065",
+        "CH7-TAE-DRAW-001",
+        "TAE-MERGER01"
+      ],
+      "source_family": "One TMTG issuer disclosure family; SEC hosting/acceptance is not independent audit or bank confirmation",
+      "inspection": "Relevant statement tables, notes, MD&A, solicitation wording and metadata inspected with printed HTML page labels; no PDF-image inspection",
+      "scope": "Unaudited corporate accounts and issuer process report. No personal receipt, foreign-funding trace, new TAE advance or completed merger established.",
+      "locators": "Printed pp.3–6 statements; Notes 2,9,14,16,17; MD&A pp.24–29; no separate quarterly asset-sale cash-proceeds reconciliation",
+      "source_discrepancies": "Revenue-growth descriptions differ across release/MD&A/Note 16; MD&A components sum $3,600 below its stated Media growth. Nine-month operating cash use differs by $100 between statement and prose. Preserve source-specific amendment dates."
+    },
+    {
+      "source_ids": [
+        "TMTG-Q3-S003"
+      ],
+      "url": "https://www.sec.gov/Archives/edgar/data/1849635/000143774926035886/djt20260819_8k.htm",
+      "retrieved_at_utc": "2026-11-09T22:30:21.113398+00:00",
+      "source_class": "original issuer/SEC HTML response",
+      "artifacts": [
+        {
+          "artifact": "8k.html",
+          "artifact_type": "retained original response bytes; not uploaded",
+          "bytes": 41093,
+          "sha256": "e6abfcd57a11e502d62003ff5dba8308f41df89f5dd8e2c35d167fb3b0e99292"
+        }
+      ],
+      "joins": [
+        "CH7-TMTG-Q3-001",
+        "J20-2026-044",
+        "CH7-TMTG-API-001",
+        "J20-2026-065",
+        "CH7-TAE-DRAW-001",
+        "TAE-MERGER01"
+      ],
+      "source_family": "One TMTG issuer disclosure family; SEC hosting/acceptance is not independent audit or bank confirmation",
+      "inspection": "Relevant statement tables, notes, MD&A, solicitation wording and metadata inspected with printed HTML page labels; no PDF-image inspection",
+      "scope": "Unaudited corporate accounts and issuer process report. No personal receipt, foreign-funding trace, new TAE advance or completed merger established.",
+      "limits": "Actual report date November 9 despite filename; Item 2.02 identifies release as furnished, not deemed filed for Exchange Act Section 18."
+    },
+    {
+      "source_ids": [
+        "TMTG-Q3-S004"
+      ],
+      "url": "https://www.sec.gov/Archives/edgar/data/1849635/000143774926035886/ex_1007154.htm",
+      "retrieved_at_utc": "2026-11-09T22:31:16.157163+00:00",
+      "source_class": "original issuer/SEC HTML response",
+      "artifacts": [
+        {
+          "artifact": "8k-release.html",
+          "artifact_type": "retained original response bytes; not uploaded",
+          "bytes": 41906,
+          "sha256": "0527ee971e4db98037125637e414f4bc2aa12a62c8dfb24ca0d47df11c8c2d11"
+        }
+      ],
+      "joins": [
+        "CH7-TMTG-Q3-001",
+        "J20-2026-044",
+        "CH7-TMTG-API-001",
+        "J20-2026-065",
+        "CH7-TAE-DRAW-001",
+        "TAE-MERGER01"
+      ],
+      "source_family": "One TMTG issuer disclosure family; SEC hosting/acceptance is not independent audit or bank confirmation",
+      "inspection": "Relevant statement tables, notes, MD&A, solicitation wording and metadata inspected with printed HTML page labels; no PDF-image inspection",
+      "scope": "Unaudited corporate accounts and issuer process report. No personal receipt, foreign-funding trace, new TAE advance or completed merger established.",
+      "limits": "Issuer release; same release family. Adjusted EBITDA and Financial Assets are non-GAAP. Proxy mailing is issuer-reported; receipt/vote/closing unverified."
+    },
+    {
+      "source_ids": [
+        "TAE-S42"
+      ],
+      "url": "https://www.sec.gov/Archives/edgar/data/1849635/000143774926035350/djt20261104_424b3.htm",
+      "source_class": "reused original SEC definitive prospectus, not a newly acquired filing",
+      "review_date_utc": "2026-11-09",
+      "artifacts": [
+        {
+          "artifact": "TAE-S42-reused-424b3.html",
+          "artifact_type": "retained original response bytes reused from prior acquisition; not uploaded",
+          "bytes": 9360086,
+          "sha256": "26fc03e386ba4ef45984dbc86038b0c3649f9ffc1805dfe5f8c6dbe687e64f34"
+        }
+      ],
+      "joins": [
+        "CH7-TMTG-Q3-001",
+        "J20-2026-044",
+        "CH7-TMTG-API-001",
+        "J20-2026-065",
+        "CH7-TAE-DRAW-001",
+        "TAE-MERGER01"
+      ],
+      "source_family": "Existing TMTG issuer prospectus",
+      "inspection": "Printed HTML pp.150–151 ownership table and trust/trustee footnote reexamined; not PDF-image inspection",
+      "scope": "October 30 ownership snapshot only; trust and trustee holdings overlap and are non-additive. No current market value or income distribution inferred.",
+      "acquisition_limit": "Existing TAE-S42 source identity and original acquisition record retained in prior TAE source manifest; this is a reinspection, not invented new retrieval time."
+    }
+  ],
+  "boundaries": [
+    "Quarter and nine-month measures are kept separate; revenues, net income, gains, proceeds, noncash adjustments and distributions are not interchangeable.",
+    "Source discrepancies are disclosed without silent correction or motive attribution.",
+    "TAE-T20 is the same October 7 draw; TAE-REF01 remains prospective; no new financing/repayment/closing established.",
+    "ABTC is a different issuer and is not combined with TMTG.",
+    "Public Q3 call audio/transcript was not acquired; no current-call guidance inferred from earlier calls."
+  ],
+  "reinspection_records": [
+    {
+      "review_date_utc": "2026-11-09",
+      "baseline_commit": "d46423a6ff3f2430d7fa0e536ce4d2c947ff77ee",
+      "source_ids": [
+        "TMTG-Q3-S002"
+      ],
+      "retained_artifact": "10q.html",
+      "artifact_identity": "Same original response bytes and SHA256 listed above; reinspection, not a new source or retrieval.",
+      "joins": [
+        "CH7-TMTG-Q3-001"
+      ],
+      "locators": "MD&A printed p.23 Digital Token Initiative; Part II Item 2(c), printed p.31; balance sheet p.3 and nine-month cash-flow statement p.6.",
+      "verified_scope": "Issuer-disclosed discontinuation of planned shareholder token distribution; no reported Q3 issuer share repurchases. Treasury shares/cost unchanged; nine-month common-stock repurchase cash-flow row nil.",
+      "limits": "No precise internal decision date, delivered replacement benefit, post-quarter repurchase, noteholder election total, completed credit facility, repayment or personal receipt established. Prior source discrepancies, TAE-T20 and TAE-REF01 remain unchanged. No reliance on an unacquired original call/transcript."
+    }
+  ]
+}

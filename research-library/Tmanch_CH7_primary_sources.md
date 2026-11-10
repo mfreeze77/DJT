@@ -1310,3 +1310,37 @@ The [November 8 afternoon source manifest](Tmanch_CH7_Nov8_Afternoon_Source_Mani
 - **CH7-AFF-ARXIS-001 / AFF-ARXIS-S001–009:** [Affinity’s amended June 30 portfolio snapshot](Tmanch_CH7_Nov5_Affinity_Arxis_Source_Note.md) is corporate disclosure context, not a November purchase, personal receipt or policy-linked gain.
 
 The [November 9 source manifest](Tmanch_CH7_Nov9_Source_Manifest.json) records acquisition and interpretation limits. Existing corrections, scores and financial-flow totals remain unchanged.
+
+
+## November 9 morning review: preparation, inspection and records requests
+
+- **079/080 / ABUDHABI-NOV9-S002–003 / EU-EMERGENCY-NOV9-S001–002:** [Later diplomacy context](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-9-preparation-separate-european-coordination-and-proposed-eu-emergency-support) distinguishes prospective separate European coordination from a trilateral seat and records intended EU emergency support without an amount, activation or delivery finding.
+- **091 / MEXC-9714-S005–007:** [November 9 public inspection](Tmanch_CH7_Nov7_MEXC_Order_Source_Note.md#november-9-public-inspection-scheduled-publication-remains-prospective) schedules the same order for November 10 publication; exact effectiveness and implementation remain unresolved.
+- **096 / CH7-PSI-CRYPTO-NOV5-001 / PSI-CRYPTO-NOV5-S001–005:** [Four signed November 5 records-request renewals](Tmanch_CH7_Nov5_PSI_Crypto_Requests_Source_Note.md) establish congressional action and deadlines, not underlying conduct, compulsory process or record production.
+
+The [November 9 morning manifest](Tmanch_CH7_Nov9_Morning_Source_Manifest.json) separates retained originals from tool-extracted source evidence. Existing history, scores and financial-flow totals remain unchanged; no raw source archive is added.
+
+
+## November 9 evening review: enacted Canadian measures and attributed US preparation
+
+- **097 / CH7-CAN-RUSSIA-NOV5-001 / CAN-RUS-NOV9-S001–005:** [Canada SOR/2026-233](Tmanch_CH7_Nov5_Canada_Sanctions_Source_Note.md) adds 24 individuals and 38 entities, with November 5 entry into force per the official chronology and a November 9 announcement. The narrow legal-services exception, technical corrections, bilingual display discrepancies and lagging consolidation remain explicit. No measured asset blocking, private receipt or causal join to 072.
+- **079/080 / ABUDHABI-NOV9-S004:** [Attributed US pre-talk assessment](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-9-us-officials-pre-talk-assessment) remains Reuters reporting of an unnamed official, not an acquired government transcript, accepted territorial terms, NATO coverage or an implemented guarantee.
+
+The [November 9 evening manifest](Tmanch_CH7_Nov9_Evening_Source_Manifest.json) records retained originals and the Reuters syndication distinctly. Existing scores, correction history and financial-flow totals remain unchanged.
+
+
+## November 9 TMTG Q3 accounts and linked process context
+
+- **CH7-TMTG-Q3-001 / TMTG-Q3-S001–005 / reused TAE-S42:** [Corporate results reconciliation](Tmanch_CH7_Nov9_TMTG_Q3_Source_Note.md) distinguishes Q3 profit from year-to-date loss, accounting gains from cash, combined subscriptions from API-only receipts, and dated ownership from personal distributions. Revenue, operating-cash and amendment-date discrepancies remain explicit; American Bitcoin remains a separate issuer.
+- **044 / CH7-TMTG-API-001:** [Combined subscription context](Tmanch_CH7_Oct23_Truth_API_Source_Note.md#november-9-q3-combined-subscription-disclosure) preserves unresolved product/customer/cash evidence.
+- **065 / CH7-TAE-DRAW-001 / TAE-MERGER01:** [Q3 balances and issuer-reported TMTG mailing](Tmanch_CH7_Oct19_TAE_Financing_Source_Note.md#november-9-q3-balances-and-issuer-reported-tmtg-proxy-mailing) preserve earlier snapshots, the meeting-time conflict, the same TAE-T20 advance and prospective TAE-REF01 risk. No vote, closing, repayment or new financing is inferred.
+
+The [Q3 source manifest](Tmanch_CH7_Nov9_TMTG_Q3_Source_Manifest.json) identifies original issuer/SEC artifacts and the reused ownership source. No new event, score or financial-flow total; no raw archive added.
+
+## November 10 review of November 9 institutional and issuer updates
+
+- **098 / CH7-EUMAM-NOV9-001 / EUMAM-NOV9-S001–002:** [EUMAM extension and coordination-presence decision](Tmanch_CH7_Nov9_EUMAM_Source_Note.md) is an official adoption report with final operative text and implementation outstanding. The nearly EUR 300 million allocation is not added to 054's EUR 230 million.
+- **079/080 / ABUDHABI-NOV9-S005:** [Ukrainian participant-reported UAE arrival](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-9-evening-ukrainian-arrival-and-unresolved-assistance-parameters) advances preparation chronology. Trilateral talks, European separate formats and additional EU assistance remain prospective.
+- **CH7-UAE-USD1-002 / USD1-BUYBACK-S002:** [WLFI intended venue, designated wallet and retained-revenue terms](Tmanch_CH7_Nov6_WLFI_Buyback_Source_Note.md#november-9-venue-designated-wallet-and-retained-revenue-terms) refine the earlier issuer announcement without proving execution, allocation or receipt.
+
+The [November 10 manifest](Tmanch_CH7_Nov10_Source_Manifest.json) distinguishes retained original HTML from copied tool-rendered evidence and public register metadata. No source archive, score or financial-flow total is added.
