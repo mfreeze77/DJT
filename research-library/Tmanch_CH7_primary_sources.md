@@ -1352,3 +1352,11 @@ The [November 10 manifest](Tmanch_CH7_Nov10_Source_Manifest.json) distinguishes 
 - **079/080 / ABUDHABI-NOV10-S001–002:** [Host-confirmed opening and participant-reported separate European meeting](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-10-abu-dhabi-opening-and-separate-european-meeting) advance the preparation chronology without implying completed negotiations, accepted terms, guarantees or delivered assistance.
 
 The [publication/talks source manifest](Tmanch_CH7_Nov10_Publication_Talks_Source_Manifest.json) records three retained original artifacts. Earlier history and unresolved implementation requirements remain; no new event/claim ID, source archive, score or financial-flow total.
+
+
+## November 10 afternoon: joint coordination statement and Canadian Iran relisting
+
+- **079/080 / ABUDHABI-NOV10-S003:** [Joint statement on separate pre-trilateral coordination](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-10-joint-statement-separate-coordination-and-public-principles) adds official documentation and public principles without establishing accepted settlement terms, enforceable guarantees or delivered protection.
+- **099 / CH7-CAN-IRAN-NOV5-001 / CAN-IRAN-NOV10-S001–004:** [Canada SOR/2026-234](Tmanch_CH7_Nov10_Canada_Iran_Source_Note.md) adds eleven entities, with November 5 entry into force per GAC and a separate November 10 announcement. Listed status is not independent proof of underlying conduct or measured effects.
+
+The [afternoon source manifest](Tmanch_CH7_Nov10_Afternoon_Source_Manifest.json) labels retained derivative source excerpts precisely. Earlier notes, correction history and scores remain; no raw archive, private receipt or financial-flow total.
