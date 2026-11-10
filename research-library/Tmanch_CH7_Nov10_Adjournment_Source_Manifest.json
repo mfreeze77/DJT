@@ -1,0 +1,38 @@
+{
+  "review_date_utc": "2026-11-10",
+  "baseline_commit": "da7229e54204381d0ab7cc6a6bfc446af59178e0",
+  "scope": "Attributed chronology follow-up to existing 079/080. No new event/claim, status change, score or financial-flow total.",
+  "sources": [
+    {
+      "source_ids": [
+        "ABUDHABI-NOV10-S004"
+      ],
+      "url": "https://www.ukrinform.net/amp/rubric-polytics/4183380-ukraineusrussia-talks-in-abu-dhabi-adjourn-until-tomorrow.html",
+      "retrieved_at_utc": "2026-11-10T16:28:05.385407+00:00",
+      "publication_timestamp": "2026-11-10T15:38:00+02:00",
+      "modified_timestamp": "2026-11-10T15:38:00+02:00",
+      "source_class": "Original Ukrinform report directly attributing remarks to Ukrainian Foreign Intelligence Service press office; no government-issued text acquired",
+      "artifacts": [
+        {
+          "artifact": "ukrinform-adjournment.html",
+          "artifact_type": "original HTML response bytes; retained locally, not uploaded",
+          "bytes": 24249,
+          "sha256": "d2b6c5a8902877a0f5cbeaebf1fbd41015a5842c6c08f9d4eb703838fe597188"
+        }
+      ],
+      "joins": [
+        "J20-2026-079",
+        "CH7-BRUSSELS-RECOVERY-001",
+        "J20-2026-080",
+        "CH7-NOV4-ENVOY-CALL-001"
+      ],
+      "inspection": "Full article text and HTML publication/modification/time metadata inspected. No visual/media inspection.",
+      "limits": "Reported day-one adjournment and prospective resumption only. No government-issued original, released substantive outcome, exact resumption time/timezone, actual resumption, agreement or implementation established."
+    }
+  ],
+  "boundaries": [
+    "Keep reporting attribution explicit; do not relabel article as a government press release.",
+    "No duplicate event, changed earlier-call identity, accepted terms, ceasefire, guarantee, delivered aid or private-benefit finding.",
+    "Preserve existing source/correction history, status fields, scores and totals."
+  ]
+}

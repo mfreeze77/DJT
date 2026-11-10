@@ -1360,3 +1360,10 @@ The [publication/talks source manifest](Tmanch_CH7_Nov10_Publication_Talks_Sourc
 - **099 / CH7-CAN-IRAN-NOV5-001 / CAN-IRAN-NOV10-S001–004:** [Canada SOR/2026-234](Tmanch_CH7_Nov10_Canada_Iran_Source_Note.md) adds eleven entities, with November 5 entry into force per GAC and a separate November 10 announcement. Listed status is not independent proof of underlying conduct or measured effects.
 
 The [afternoon source manifest](Tmanch_CH7_Nov10_Afternoon_Source_Manifest.json) labels retained derivative source excerpts precisely. Earlier notes, correction history and scores remain; no raw archive, private receipt or financial-flow total.
+
+
+## November 10 attributed adjournment follow-up
+
+- **079/080 / ABUDHABI-NOV10-S004:** [Ukrinform’s directly attributed adjournment report](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-10-attributed-day-one-adjournment) updates chronology only. No government-issued text, negotiating outcome or actual next-day resumption is established.
+
+[Source provenance](Tmanch_CH7_Nov10_Adjournment_Source_Manifest.json) records the retained original article, not a government document. Existing history, statuses, scores and totals remain unchanged.

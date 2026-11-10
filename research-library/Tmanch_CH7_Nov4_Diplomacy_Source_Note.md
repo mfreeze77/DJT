@@ -147,3 +147,14 @@ For **079 / CH7-BRUSSELS-RECOVERY-001** and **080 / CH7-NOV4-ENVOY-CALL-001**, t
 The title identifies institutional/country participation, not a complete named attendee list or each attendee’s negotiating authority. Specific enforcement answers, accepted written terms, actual broader negotiating formats and implementation remain outstanding. Earlier missing US-side records and separate EU emergency-assistance instrument, amount, activation and delivery gaps are unaffected. Affirmative US/allied diplomatic coordination is established; practical Ukrainian protection remains conditional, with no measured Russian benefit, private gain, new envoy call, event ID, score or financial-flow total.
 
 The official page was inspected through web-rendered text. Retained evidence consists of explicitly labeled derivative response excerpts, not original HTML bytes or an untouched full tool-response capture; hashes identify those retained excerpts only. No media or nonpublic negotiating records were inspected. [Source provenance](Tmanch_CH7_Nov10_Afternoon_Source_Manifest.json).
+
+
+## November 10 attributed day-one adjournment
+
+**ABUDHABI-NOV10-S004:** [Ukrinform’s original report](https://www.ukrinform.net/amp/rubric-polytics/4183380-ukraineusrussia-talks-in-abu-dhabi-adjourn-until-tomorrow.html), published **November 10 at 15:38 +02:00**, directly attributes day-one adjournment and planned **November 11 morning** resumption to **Ukraine’s Foreign Intelligence Service press office**. It says outcomes had not been released. Publication and modification metadata carry the same timestamp, equivalent to 13:38 UTC; no exact resumption time or resumption timezone is supplied.
+
+This is an original news-agency report with explicit government-office attribution, **not an acquired government-issued statement**. It adds attributed chronology to **079/080** without treating adjournment as agreement, completion of the wider negotiations, a new envoy call or implemented protection. The source’s other personnel and earlier-call descriptions are not promoted or used to redefine existing events.
+
+Earlier opening and separate-coordination evidence, current status fields, unresolved written terms and EU-assistance gaps remain intact. Actual resumption, government-issued confirmation and substantive outcome/implementation records remain outstanding. No new event, claim, score, financial flow or private-benefit inference.
+
+Full original HTML was retained and the article text and timestamp metadata inspected; no image or video content was reviewed. [Source provenance](Tmanch_CH7_Nov10_Adjournment_Source_Manifest.json).
