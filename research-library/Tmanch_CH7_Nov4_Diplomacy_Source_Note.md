@@ -107,3 +107,15 @@ Preserve earlier announcements, unresolved counterpart acceptance and written en
 The retained syndication metadata gives **November 9, 18:43:10 UTC**, modified **18:49:13 UTC**. Its full article text was inspected. The [Reuters original locator](https://www.reuters.com/world/europe/russia-ukraine-showing-flexibility-territory-us-official-says-2026-11-09/) returned HTTP 401 and was not retried. The retained source is a wire reproduction, not an original US briefing transcript; repeated syndications are one Reuters source family. No original US government briefing record was acquired.
 
 For **079 / CH7-BRUSSELS-RECOVERY-001** and **080 / CH7-NOV4-ENVOY-CALL-001**, this adds later preparation context without changing prior event identities or adding another envoy call. It does not supply the written enforcement answers previously requested by Ukraine, close the missing US-side original readout, establish European trilateral seats or supersede the separately reported prospective European coordination. Continuing mediation and possible Ukrainian protection are affirmative process evidence; territorial costs, Russian benefits and guarantee effectiveness remain unresolved without accepted terms and implementation. No new event, financial flow or score. [Source provenance](Tmanch_CH7_Nov9_Evening_Source_Manifest.json).
+
+## November 9 evening: Ukrainian arrival and unresolved assistance parameters
+
+**ABUDHABI-NOV9-S005, context 079/080.** The [original Ukrainian evening address](https://www.president.gov.ua/en/news/nasha-peregovorna-grupa-vzhe-v-emiratah-zavtra-persha-zustri-107217), dated November 9 at 22:17 without an explicit timezone, states that Ukraine's negotiating team is already in the UAE. The first trilateral meeting remains tomorrow, and European partners are expected in separate formats. This advances the earlier en-route stage to participant-reported arrival. It establishes neither completed trilateral talks nor actual European attendance or seats at the trilateral table.
+
+The same address says the Ukrainian prime minister is working with the Commission to determine parameters of additional EU assistance, with logistics and energy among the needs. It supplies no instrument name, amount, completed activation, payment or delivery. The earlier call and proposed emergency mechanism remain the same process; do not join them to 085's distinct disbursement.
+
+Ukraine also intends to propose de-escalatory steps and pursue a leaders-level trilateral meeting. These are stated objectives, not accepted negotiating terms or a scheduled leaders' meeting. The address supplies no written answers to the previously recorded guarantee-enforcement questions.
+
+Original full HTML acquired; derived text inspected. The nearby video listing carries 22:18, while the article body and latest-news entry carry 22:17. Preserve the article's 22:17 timestamp without conflating it with video metadata. No audio/video inspection is claimed. No new envoy-call event, score or financial-flow total follows.
+
+[November 10 source provenance](Tmanch_CH7_Nov10_Source_Manifest.json).

@@ -1336,3 +1336,11 @@ The [November 9 evening manifest](Tmanch_CH7_Nov9_Evening_Source_Manifest.json) 
 - **065 / CH7-TAE-DRAW-001 / TAE-MERGER01:** [Q3 balances and issuer-reported TMTG mailing](Tmanch_CH7_Oct19_TAE_Financing_Source_Note.md#november-9-q3-balances-and-issuer-reported-tmtg-proxy-mailing) preserve earlier snapshots, the meeting-time conflict, the same TAE-T20 advance and prospective TAE-REF01 risk. No vote, closing, repayment or new financing is inferred.
 
 The [Q3 source manifest](Tmanch_CH7_Nov9_TMTG_Q3_Source_Manifest.json) identifies original issuer/SEC artifacts and the reused ownership source. No new event, score or financial-flow total; no raw archive added.
+
+## November 10 review of November 9 institutional and issuer updates
+
+- **098 / CH7-EUMAM-NOV9-001 / EUMAM-NOV9-S001–002:** [EUMAM extension and coordination-presence decision](Tmanch_CH7_Nov9_EUMAM_Source_Note.md) is an official adoption report with final operative text and implementation outstanding. The nearly EUR 300 million allocation is not added to 054's EUR 230 million.
+- **079/080 / ABUDHABI-NOV9-S005:** [Ukrainian participant-reported UAE arrival](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-9-evening-ukrainian-arrival-and-unresolved-assistance-parameters) advances preparation chronology. Trilateral talks, European separate formats and additional EU assistance remain prospective.
+- **CH7-UAE-USD1-002 / USD1-BUYBACK-S002:** [WLFI intended venue, designated wallet and retained-revenue terms](Tmanch_CH7_Nov6_WLFI_Buyback_Source_Note.md#november-9-venue-designated-wallet-and-retained-revenue-terms) refine the earlier issuer announcement without proving execution, allocation or receipt.
+
+The [November 10 manifest](Tmanch_CH7_Nov10_Source_Manifest.json) distinguishes retained original HTML from copied tool-rendered evidence and public register metadata. No source archive, score or financial-flow total is added.
