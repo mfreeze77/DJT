@@ -1,0 +1,150 @@
+{
+  "review_date": "2026-11-11",
+  "baseline_commit": "2ed622dd9752eb0951b6776d2db8a5a28d06d6f7",
+  "scope": "Narrow source/jurisdiction/date correction; not a new accusation, broad re-audit or financial total change",
+  "prior_text_is_superseded_not_readopted": true,
+  "corrections": [
+    {
+      "path": "research-library/Tmanch_CH2_claim_ledger.csv",
+      "row_id": "CH2-BOGATIN-024",
+      "prior_row": {
+        "Claim_ID": "CH2-BOGATIN-024",
+        "Current_Section": "Section 7",
+        "Exact_Claim": "Authorities seized the Trump Tower units as assets used to launder or conceal proceeds.",
+        "Relevant_Dates": "late 1980s-1992",
+        "People_Entities": "David Bogatin; New York authorities",
+        "Source_IDs": "CH2-P16",
+        "Evidence_Status": "Well-supported law-enforcement reporting",
+        "Confidence_0_to_100": "88",
+        "Supporting_Evidence": "Multiple reports quote or describe the forfeiture rationale.",
+        "Counterevidence_or_Limit": "Complete forfeiture order and asset schedule not yet located.",
+        "Recommended_Wording": "The units were seized, with authorities describing them as vehicles for concealing criminal proceeds.",
+        "Open_Record_Need": "Forfeiture complaint; judgment; asset schedule"
+      },
+      "replacement_row": {
+        "Claim_ID": "CH2-BOGATIN-024",
+        "Current_Section": "Section 7",
+        "Exact_Claim": "Barrett contemporaneously reported state seizure of Bogatin's Tower apartments and attributed a laundering/concealment rationale to state prosecutors.",
+        "Relevant_Dates": "Reported by 1991-12-17; exact seizure date unresolved",
+        "People_Entities": "David Bogatin; New York authorities",
+        "Source_IDs": "CH2-P44; CH2-P16 (contrasting tax-security account); CH2-P26 (separate foreclosure context)",
+        "Evidence_Status": "Attributed contemporary reporting; underlying seizure instrument unacquired",
+        "Confidence_0_to_100": "88",
+        "Supporting_Evidence": "CH2-P44 supplies the state-seizure report. Prior citation to CH2-P16 alone did not substantiate the full claim; correction note distinguishes the sources.",
+        "Counterevidence_or_Limit": "No original seizure/forfeiture order or asset schedule acquired; jurisdiction, property scope and disposition not independently reconciled. Separate lender foreclosure does not prove government forfeiture.",
+        "Recommended_Wording": "Barrett reported a state seizure by December 17, 1991; the attributed rationale is not an acquired judicial finding, and federal forfeiture or a 1992 seizure date is not established.",
+        "Open_Record_Need": "Original state seizure or forfeiture instrument; asset schedule; tax-security instruments; lender judgment and disposition/payoff accounting"
+      },
+      "prior_raw": "\"CH2-BOGATIN-024\",\"Section 7\",\"Authorities seized the Trump Tower units as assets used to launder or conceal proceeds.\",\"late 1980s-1992\",\"David Bogatin; New York authorities\",\"CH2-P16\",\"Well-supported law-enforcement reporting\",\"88\",\"Multiple reports quote or describe the forfeiture rationale.\",\"Complete forfeiture order and asset schedule not yet located.\",\"The units were seized, with authorities describing them as vehicles for concealing criminal proceeds.\",\"Forfeiture complaint; judgment; asset schedule\"\n"
+    },
+    {
+      "path": "research-library/Tmanch_Russian_Linked_Financial_Flows.csv",
+      "row_id": "RF-003",
+      "prior_row": {
+        "Flow_ID": "RF-003",
+        "Date_or_Range": "1984",
+        "Counterparty_or_Source": "David Bogatin",
+        "Connection_Type": "Russian-emigre organized-crime-linked buyer",
+        "Trump_Asset_or_Entity": "Trump Tower five condominiums",
+        "Amount_USD": "6000000",
+        "Amount_Type": "gross property-sale value",
+        "Direction": "to Trump Tower project",
+        "Directness": "direct to part-owned project",
+        "Evidence_Status": "established",
+        "Included_in_Direct_Receipt_Floor": "yes",
+        "Included_in_Branded_Ecosystem_Total": "yes",
+        "Overlap_Group": "bogatin-1984",
+        "Best_Source": "https://www.washingtonpost.com/archive/politics/1992/01/27/new-polish-bank-scandal-involves-us-tax-felon/d673ff42-7981-4df5-9ebf-e19c7612adb2/",
+        "Analytical_Note": "Federal forfeiture later treated the units as assets bought to launder money and hide assets. Trump attended the closing. Trump knowledge of criminal source at closing is not established, and the $6M was not Trump net income."
+      },
+      "replacement_row": {
+        "Flow_ID": "RF-003",
+        "Date_or_Range": "1984",
+        "Counterparty_or_Source": "David Bogatin",
+        "Connection_Type": "Russian-emigre organized-crime-linked buyer",
+        "Trump_Asset_or_Entity": "Trump Tower five condominiums",
+        "Amount_USD": "6000000",
+        "Amount_Type": "gross property-sale value",
+        "Direction": "to Trump Tower project",
+        "Directness": "direct to part-owned project",
+        "Evidence_Status": "established",
+        "Included_in_Direct_Receipt_Floor": "yes",
+        "Included_in_Branded_Ecosystem_Total": "yes",
+        "Overlap_Group": "bogatin-1984",
+        "Best_Source": "https://www.washingtonpost.com/archive/politics/1992/01/27/new-polish-bank-scandal-involves-us-tax-felon/d673ff42-7981-4df5-9ebf-e19c7612adb2/; https://www.villagevoice.com/donald-trumps-tower-of-trouble/; Tmanch_CH2_Bogatin_Seizure_Correction.md",
+        "Analytical_Note": "Approximately $6M is retained as reported gross project purchase value, not bank-traced all-cash payment or Trump personal/net proceeds. Prior federal-forfeiture wording is withdrawn; see the correction note for separately attributed state action and distinct one-parcel lender foreclosure. Closing attendance remains a reported claim, not proof of knowledge, and is not established by P16 alone."
+      },
+      "prior_raw": "RF-003,1984,David Bogatin,Russian-emigre organized-crime-linked buyer,Trump Tower five condominiums,6000000,gross property-sale value,to Trump Tower project,direct to part-owned project,established,yes,yes,bogatin-1984,https://www.washingtonpost.com/archive/politics/1992/01/27/new-polish-bank-scandal-involves-us-tax-felon/d673ff42-7981-4df5-9ebf-e19c7612adb2/,\"Federal forfeiture later treated the units as assets bought to launder money and hide assets. Trump attended the closing. Trump knowledge of criminal source at closing is not established, and the $6M was not Trump net income.\"\n"
+    },
+    {
+      "path": "research-library/Tmanch_Russian_Capital_AML_Influence_Matrix.md",
+      "prior_text": "~$6M cash; five units",
+      "replacement_text": "~$6M reported gross purchase; five units"
+    },
+    {
+      "path": "research-library/Tmanch_Russian_Capital_AML_Influence_Matrix.md",
+      "prior_text": "Russian-emigre organized-crime-linked buyer purchased multiple Trump Tower units; federal forfeiture later treated the properties as laundering and asset-concealment vehicles",
+      "replacement_text": "Russian-emigre organized-crime-linked buyer purchased multiple Trump Tower units; the former federal-forfeiture description is unsupported. See [November 11 source correction](Tmanch_CH2_Bogatin_Seizure_Correction.md) for the attributed state account and unresolved legal record"
+    },
+    {
+      "path": "research-library/Tmanch_Russian_Capital_AML_Influence_Matrix.md",
+      "prior_text": "Trump reportedly attended the closing; multiple-unit cash purchase was personally significant enough to draw his presence",
+      "replacement_text": "Trump reportedly attended the closing; neither his knowledge nor an all-cash funding method is established by that reported attendance"
+    },
+    {
+      "path": "research-library/Tmanch_Russian_Capital_AML_Influence_Matrix.md",
+      "prior_text": "Bogatin’s forfeited units",
+      "replacement_text": "Bogatin’s reported purchases and separately attributed state-seizure account"
+    },
+    {
+      "path": "research-library/Tmanch_Russian_Capital_AML_Influence_Matrix.md",
+      "prior_text": "a federally forfeited 1984 bulk Trump Tower purchase associated with laundering and asset concealment",
+      "replacement_text": "a reported 1984 bulk Trump Tower purchase with a separately attributed state-seizure account; no acquired federal forfeiture order (see [November 11 source correction](Tmanch_CH2_Bogatin_Seizure_Correction.md))"
+    },
+    {
+      "path": "research-library/Tmanch_Russian_Capital_AML_Influence_Matrix.md",
+      "prior_text": "Combined with the Bogatin forfeiture,",
+      "replacement_text": "Combined with the attributed Bogatin state-seizure account (subject to the [November 11 source correction](Tmanch_CH2_Bogatin_Seizure_Correction.md)),"
+    },
+    {
+      "path": "research-library/Tmanch_Russian_Capital_AML_Influence_Matrix.md",
+      "prior_text": "The channels included forfeited bulk property purchases,",
+      "replacement_text": "The channels included reported bulk property purchases (not an established federal forfeiture; see [November 11 source correction](Tmanch_CH2_Bogatin_Seizure_Correction.md)),"
+    },
+    {
+      "path": "research-library/Tmanch_CH2.md",
+      "prior_text": "The units were later seized, and reporting on the forfeiture describes authorities as treating them as assets used to launder or conceal proceeds. The precise forfeiture order and complete property schedules remain priority records.",
+      "replacement_text": "The earlier seizure account requires [November 11 source correction](Tmanch_CH2_Bogatin_Seizure_Correction.md): it is attributed contemporary reporting of state action, not an acquired forfeiture order or a verified federal/1992 disposition. The cited P16 alone did not establish that assertion. The original legal instrument, property schedule and reconciliation with separate tax-security and lender records remain missing."
+    },
+    {
+      "path": "research-library/Tmanch_Fin_86-89.md",
+      "prior_text": "The U.S. government **seized his five Trump Tower condos**, calling them laundered assets – prosecutors said Bogatin bought those apartments **“to launder money, to shelter and hide assets.”** ([Trump’s Russian Laundromat | The New Republic](https://newrepublic.com/article/143586/trumps-russian-laundromat-trump-tower-luxury-high-rises-dirty-money-international-crime-syndicate#:~:text=In%201987%2C%20just%20three%20years,Semion%20Mogilevich%2C%20whom%20the%20FBI)).",
+      "replacement_text": "The seizure characterization is corrected in the [November 11 source correction](Tmanch_CH2_Bogatin_Seizure_Correction.md): the identified contemporary account concerns state action, not an acquired federal forfeiture finding. Its property scope remains unreconciled with the separate lender foreclosure. The reported purchase amount is preserved without deciding original financing."
+    },
+    {
+      "path": "research-library/Tmanch_Fin_90-93.md",
+      "prior_text": "Bogatin had little apparent legitimate wealth, and this multi-unit purchase was later identified by law enforcement as a money-laundering operation; he pleaded guilty to financial crimes in 1987, and authorities seized his Trump Tower condos ([Trump’s Russian Laundromat | The New Republic](https://newrepublic.com/article/143586/trumps-russian-laundromat-trump-tower-luxury-high-rises-dirty-money-international-crime-syndicate#:~:text=building%20was%20a%20hit%E2%80%94all%20but,the%20closing%2C%20along%20with%20Bogatin)).",
+      "replacement_text": "The [November 11 source correction](Tmanch_CH2_Bogatin_Seizure_Correction.md) preserves the reported purchase while distinguishing the attributed state-seizure account from tax security and private-lender foreclosure; neither a federal forfeiture nor bank-traced all-cash funding is established by the acquired records."
+    },
+    {
+      "path": "research-library/Tmanch_Fin_90-93.md",
+      "prior_text": "Although that sale predates 1990, its aftermath played out in the early 90s: Bogatin fled the country to avoid prosecution, and in 1992 U.S. authorities seized his Trump condos, determining they were purchased with illicit funds from a gasoline bootlegging scheme ([Trump’s Russian Laundromat | The New Republic](https://newrepublic.com/article/143586/trumps-russian-laundromat-trump-tower-luxury-high-rises-dirty-money-international-crime-syndicate#:~:text=building%20was%20a%20hit%E2%80%94all%20but,the%20closing%2C%20along%20with%20Bogatin)). This incident showed that **Trump Tower had been used as a money laundering vehicle**, and it wasn’t isolated.",
+      "replacement_text": "The [November 11 source correction](Tmanch_CH2_Bogatin_Seizure_Correction.md) withdraws the former 1992 seizure date and unqualified laundering finding. Contemporary reporting had already described state action by December 17, 1991, but the underlying order and asset schedule remain unacquired. The separately documented one-parcel lender foreclosure cannot be substituted for them."
+    },
+    {
+      "path": "research-library/Tmanch_Fin_86-89.md",
+      "prior_text": "had purchased five luxury condos in Trump Tower in 1984 for $6 million in cash",
+      "replacement_text": "had reportedly purchased five luxury condos in Trump Tower in 1984 for approximately $6 million in gross purchase value"
+    },
+    {
+      "path": "research-library/Tmanch_Fin_90-93.md",
+      "prior_text": "purchased five condos in Trump Tower for $6 million cash",
+      "replacement_text": "reportedly purchased five condos in Trump Tower for approximately $6 million in gross purchase value"
+    },
+    {
+      "path": "research-library/Tmanch_Fin_90-93.md",
+      "prior_text": "bought five Trump Tower condos in 1984 for $6 million cash",
+      "replacement_text": "reportedly bought five Trump Tower condos in 1984 for approximately $6 million in gross purchase value"
+    }
+  ]
+}

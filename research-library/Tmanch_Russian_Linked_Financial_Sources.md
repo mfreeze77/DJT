@@ -164,3 +164,8 @@ The `Visual_Timeline` yearly JSON files organize the research but do not indepen
 - **Location:** [Tmanch_Russian_Linked_Financial_Methodology.md](Tmanch_Russian_Linked_Financial_Methodology.md)
 - **Supports:** accounting definitions, formulas, overlap rules, and evidentiary limits.
 - **Does not support:** replacing source-level verification.
+
+## November 11, 2026: FIN-SRC-003/004 qualification
+
+The [November 11 source correction](Tmanch_CH2_Bogatin_Seizure_Correction.md) supersedes any reading of FIN-SRC-003/004 as primary proof of federal forfeiture or a 1992 seizure date. Chapter 2 is a repository synthesis, not an independent second source. CH2-P44 adds the actual contemporary state-action reporting; the underlying order and asset scope remain unverified. RF-003's $6 million remains reported gross purchase value, not bank-traced all-cash payment or personal proceeds; RF-027/RF-028 arithmetic is unchanged.
+

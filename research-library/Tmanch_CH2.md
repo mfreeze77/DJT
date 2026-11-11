@@ -230,7 +230,7 @@ In 1984, Soviet émigré David Bogatin acquired five Trump Tower condominiums fo
 
 A 1992 *Washington Post* report, relying on New York law-enforcement records, noted that Bogatin had pleaded guilty in 1987 to filing false tax returns in a multimillion-dollar gasoline scheme and had purchased the Trump Tower units after only several years in the United States. See [“New Polish Bank Scandal Involves U.S. Tax Felon”](https://www.washingtonpost.com/archive/politics/1992/01/27/new-polish-bank-scandal-involves-us-tax-felon/d673ff42-7981-4df5-9ebf-e19c7612adb2/).
 
-The units were later seized, and reporting on the forfeiture describes authorities as treating them as assets used to launder or conceal proceeds. The precise forfeiture order and complete property schedules remain priority records.
+The earlier seizure account requires [November 11 source correction](Tmanch_CH2_Bogatin_Seizure_Correction.md): it is attributed contemporary reporting of state action, not an acquired forfeiture order or a verified federal/1992 disposition. The cited P16 alone did not establish that assertion. The original legal instrument, property schedule and reconciliation with separate tax-security and lender records remain missing.
 
 ### What the Bogatin transaction establishes
 
@@ -378,3 +378,7 @@ The public record does not presently establish:
 - [Chapter 2 open questions and records plan](Tmanch_CH2_open_questions.md)
 - [Chapter 1: Ivana and the original Eastern Bloc bridge](Tmanch_CH1.md)
 - [Chapter 1 supporting research](Tmanch_CH1_support.md)
+
+## November 11, 2026: source qualification for the Bogatin discussion
+
+The [November 11 source correction](Tmanch_CH2_Bogatin_Seizure_Correction.md) preserves the nearly $6 million reported purchase and the attributed criminal-proceeds rationale while correcting source, jurisdiction and chronology. References in the existing synthesis to proceeds being placed in property must retain that reported evidentiary level; this review supplies no bank trace, judicial asset finding, proof of Trump's knowledge, or proof that all five acquisitions were cash-funded. No broader chapter re-audit or score change is made.

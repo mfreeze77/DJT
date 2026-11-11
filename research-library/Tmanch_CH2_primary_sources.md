@@ -762,3 +762,14 @@ The [dated source-note clarification](Tmanch_CH2_Early_1980s_Funding_Source_Note
 **Source:** NY Tax Appeals Tribunal, September 22, 1988, DTA 805249; https://www.dta.ny.gov/pdf/archive/decisions/805249.DEC.pdf
 
 **Limits:** Time-separated address/counsel evidence only; stricken ALJ finding 53 excluded. Full pinpoints and evidence rules are in the [package source inventory](research/early_petroleum_financing_2026/sources.md).
+
+## November 11, 2026: CH2-P16 qualification and CH2-P44 attribution
+
+CH2-P16's earlier metadata and use are preserved above. The [November 11 source correction](Tmanch_CH2_Bogatin_Seizure_Correction.md) records its narrower evidentiary scope and displayed-date/URL discrepancy; it does not substantiate CH2-BOGATIN-024's prior full seizure claim.
+
+## CH2-P44 — Contemporary Barrett account of state seizure
+
+**Source:** Wayne Barrett, “Donald Trump's Tower of Trouble,” *The Village Voice*. Original publication December 17, 1991; archive posting May 9, 2019. https://www.villagevoice.com/donald-trumps-tower-of-trouble/
+
+**Supports:** An attributed state-seizure account and prosecutor rationale, not the underlying judicial instrument. The 1991 article is not evidence of a 1992 seizure date. See the [November 11 source correction](Tmanch_CH2_Bogatin_Seizure_Correction.md) for source acquisition and legal-record limits.
+

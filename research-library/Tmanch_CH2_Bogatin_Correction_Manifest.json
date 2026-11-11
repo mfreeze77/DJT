@@ -1,0 +1,63 @@
+{
+  "review_date": "2026-11-11",
+  "baseline_commit": "2ed622dd9752eb0951b6776d2db8a5a28d06d6f7",
+  "raw_source_files_published": false,
+  "artifacts": [
+    {
+      "artifact": "repository_excerpts.json",
+      "artifact_type": "retained derivative; not publisher source bytes",
+      "bytes": 39936,
+      "sha256": "22cdaef0e7178a4d2be1ed3d1b8675511a99841ed0badc538d0cdbcbc8603331"
+    },
+    {
+      "artifact": "researcher_provenance.md",
+      "artifact_type": "retained derivative; not publisher source bytes",
+      "bytes": 7550,
+      "sha256": "33a0a69e2346547577273e42d8539e74c6ac23750b7a53a8188e8bdd3de3fd1a"
+    },
+    {
+      "artifact": "wp_rendered_selection.txt",
+      "artifact_type": "retained derivative; not publisher source bytes",
+      "bytes": 712,
+      "sha256": "b380efd27e61ef9ddb37b9ca1bc54c1d3848e7cf006d17aa8acbd8f6319e50ed"
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "CH2-P16",
+      "source_url": "https://www.washingtonpost.com/archive/politics/1992/01/27/new-polish-bank-scandal-involves-us-tax-felon/d673ff42-7981-4df5-9ebf-e19c7612adb2/",
+      "tier": "Publisher text successfully web-rendered; selected derivative retained",
+      "locations": "Header and article tax-security paragraphs (rendered lines 5-9, 38-40)",
+      "displayed_date": "1992-01-26",
+      "url_date": "1992-01-27",
+      "source_byte_hash": null
+    },
+    {
+      "source_id": "CH2-P44",
+      "source_url": "https://www.villagevoice.com/donald-trumps-tower-of-trouble/",
+      "tier": "Publisher text successfully web-rendered in researcher pass; selected excerpts transcribed in provenance memo",
+      "locations": "Original publication header, Bogatin paragraphs and archive footer (rendered lines 91, 125-127, 141)",
+      "original_publication_date": "1991-12-17",
+      "archive_posting_date": "2019-05-09",
+      "source_byte_hash": null,
+      "subsequent_retrieval": "Fresh preparation request returned HTTP403; stopped without retry"
+    },
+    {
+      "source_id": "CH2-P26",
+      "source_url": "https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentImageView?doc_id=FT_1440000335044",
+      "tier": "Existing repository report of prior visual inspection of deed page 1; no fresh image inspection",
+      "repository_note": "Tmanch_CH2_Early_1980s_Funding_Source_Note.md",
+      "repository_note_git_blob_sha": "77df09b579b78ed9f9b1b67dc91a66e5c63a214d",
+      "limits": "One parcel; remaining pages, record discrepancies and payoff accounting unresolved"
+    }
+  ],
+  "financial_changes": {
+    "rf003_amount_unchanged": 6000000,
+    "rf003_amount_type": "reported rounded gross purchase value",
+    "all_other_flow_rows_byte_identical": true,
+    "new_transactions": 0,
+    "new_receipts": 0,
+    "aggregate_amount_changes": 0
+  },
+  "history_file": "Tmanch_CH2_Bogatin_Correction_History.json"
+}
