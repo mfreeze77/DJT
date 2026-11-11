@@ -209,3 +209,34 @@ Existing US-side and FIS adjournment originals, written enforcement requirements
 AP's later snapshot keeps JSON-LD publication **09:39:46 UTC**, with modification **11:56:05 UTC**. Its Open Graph modification field is **2026-11-11T11:56:36.106**, timezone unstated. RFE/RL JSON-LD gives publication **10:52:23 UTC** and modification **11:55:24 UTC**; displayed article times are **11:52 CET** and updated **12:55 CET**. These are publication metadata, not exact times of agreement or release. The earlier AP opening snapshot and its different timestamps/hash remain intact in the [prior manifest](Tmanch_CH7_Nov11_Second_Day_Source_Manifest.json).
 
 Both new original HTML snapshots were retained and article text/metadata inspected; no audio/video inspection or original government outcome record is claimed. [Later-snapshot provenance](Tmanch_CH7_Nov11_Outcome_Source_Manifest.json).
+
+
+## November 11 later acquisition: original Ukrainian written outcome
+
+**ABUDHABI-NOV11-S004:** [Umerov's original post 607](https://t.me/umerov_rustem/607), inspected in the [official channel context](https://t.me/s/umerov_rustem), says the two days ended and an exchange agreement was reached, with details and practical implementation still being worked on. It also acknowledges substantial remaining differences. This is the participant's own written account, rather than only AP/RFE attribution. No finalized exchange count/date or actual release is provided.
+
+The post's displayed **13:06** has no acquired date/timezone metadata. The dated AP/RFE originals already cited establish the November 11 outcome episode, not this post's exact publication timestamp. A linked **0:56 video was not inspected**; the written caption is the reviewed evidence.
+
+This advances the source tier for the same **079/080** outcome, without a new agreement/event count. The prior missing-original-outcome wording remains acquisition history and is superseded only for Umerov's written account. No signed exchange instrument, original press-event transcript/video or government-issued counterpart instrument is newly acquired. Existing counts, releases, enforcement and settlement gaps remain.
+
+The post thanks European partners for shared work in Abu Dhabi. That broad acknowledgment does not establish completion of the specifically planned November 11 follow-on meeting or European seats at the trilateral table. Moscow/Dublin travel and meetings remain prospective in the retained record. Continued substantial differences also preclude treating the exchange announcement as an agreed wider settlement or security guarantee.
+
+The prior current statuses are preserved:
+
+- **J20-2026-079:** Original Brussels talks retained; Abu Dhabi exchange in principle reported; release and settlement unresolved
+- **J20-2026-080:** Original call retained; Abu Dhabi exchange in principle reported; release and settlement unresolved
+
+No score, financial-flow total, actual release, completed future meeting or private-benefit finding changes. Original source/correction history and both earlier AP snapshots remain intact. The source was acquired as serialized web-tool text and permalink mapping, not raw Telegram HTML. A separate direct-request placeholder is excluded because it contains no post text. [Acquisition provenance](Tmanch_CH7_Nov11_Umerov_Outcome_Source_Manifest.json).
+
+
+## November 11 G7 declaration: held Paris meeting and political commitments
+
+**G7-NOV11-S001–002:** The [UK FCDO original](https://www.gov.uk/government/news/joint-declaration-following-the-g7-foreign-ministers-meeting-in-paris) and [Canadian original](https://www.canada.ca/en/global-affairs/news/2026/11/joint-statement-following-the-g7-foreign-ministers-meeting-in-paris.html) publish the same joint declaration. It records that the G7 foreign ministers, including the United States, and EU High Representative met in Paris on **November 9–10**. This closes the held-meeting/declaration gap beyond the earlier **G7-NOV8-S001–002** planning context already attached to **079/080**. These are two official hosts of one joint statement, not two independently negotiated statements or additional meeting counts.
+
+The Ukraine section supports a full reciprocal ceasefire and European involvement in negotiations on Europe's future security. It describes continuing defence-capability/production support, coordination on financing needs for **2027 and beyond**, sanctions coordination and increased financial/material winter support. These are public positions and commitments, not newly acquired legal sanctions, a quantified funding instrument, disbursement, delivered equipment or implemented ceasefire. Its references to prior supply progress are not independently verified deliveries in this update.
+
+The statement includes the US in this collective diplomatic process. That is affirmative US/allied coordination; practical protection and financial effects still depend on implementation. European inclusion is a stated position, not evidence of European-government/EU seats at the Abu Dhabi trilateral table or completion of the separately planned November 11 follow-on. No wider settlement, measured Russian/private gain or policy bargain is inferred. Unrelated accusations in the declaration are outside this action-only update.
+
+The Chornobyl paragraph mentions the November 9 donors' conference but supplies no figure that resolves the existing **EUR 303 million versus EUR 278 million** discrepancy. No pledge, receipt or aid total is added. No new event, claim, score or financial-flow row is created; the original Brussels and November 4 call identities and all prior stages remain intact.
+
+UK publication/modification metadata both give **2026-11-11T12:42:15+00:00**. Canada's metadata give **2026-11-11T07:59:29** without an acquired timezone. These are publication fields, not meeting times. Both original HTML bodies were retained, with relevant text and metadata inspected; no audio/video inspection. [Source provenance](Tmanch_CH7_Nov11_PM_Source_Manifest.json).

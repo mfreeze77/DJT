@@ -1,0 +1,36 @@
+{
+  "observation_id": "EUMAM-2026-11-09-REF01",
+  "type": "noncash_legal_common_cost_financial_reference",
+  "joins": [
+    "J20-2026-098",
+    "CH7-EUMAM-NOV9-001"
+  ],
+  "legal_act": "Council Decision (CFSP) 2026/2508",
+  "source_id": "EUMAM-NOV9-S003",
+  "adopted_and_entered_into_force": "2026-11-09",
+  "publication_date": "2026-11-11",
+  "application_start": "2026-11-16",
+  "reference_amount": 292600000,
+  "currency": "EUR",
+  "reference_scope": "Common costs of EUMAM Ukraine",
+  "reference_period_start": "2026-11-16",
+  "reference_period_end": "2028-11-15",
+  "earlier_rounded_report": "Nearly EUR 300 million, now refined by exact legal reference",
+  "overlap_context": {
+    "joins": [
+      "J20-2026-054",
+      "CH7-EPF-ADOPTION-001"
+    ],
+    "earlier_reported_amount": 230000000,
+    "currency": "EUR",
+    "reconciliation": null
+  },
+  "net_increment": null,
+  "combined_total": null,
+  "actual_expenditure": null,
+  "actual_cash_received": null,
+  "actual_deployment_verified": false,
+  "historical_financial_flow_total_eligible": false,
+  "source_note": "Tmanch_CH7_Nov9_EUMAM_Source_Note.md",
+  "source_manifest": "Tmanch_CH7_Nov11_PM_Source_Manifest.json"
+}

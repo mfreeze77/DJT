@@ -1402,3 +1402,25 @@ The [afternoon source manifest](Tmanch_CH7_Nov10_Afternoon_Source_Manifest.json)
 - **079/080 / ABUDHABI-NOV11-S002 later snapshot and S003:** [Original AP/RFE reporting of an exchange in principle](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-11-later-reporting-exchange-in-principle-and-prospective-consultations) advances the prior opening-only stage. No finalized count, release or broader settlement established; Moscow/Dublin and the European follow-on remain prospective.
 
 [Later source snapshots and preserved prior statuses](Tmanch_CH7_Nov11_Outcome_Source_Manifest.json). The earlier AP snapshot remains unchanged, and no event, score or financial total is added.
+
+
+## November 11 original written outcome source upgrade
+
+- **079/080 / ABUDHABI-NOV11-S004:** [Original Umerov written outcome](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-11-later-acquisition-original-ukrainian-written-outcome) closes that participant-text acquisition gap only. Exchange details and performance remain pending; no completed European follow-on or Moscow/Dublin meeting is inferred.
+
+[Source provenance and prior statuses](Tmanch_CH7_Nov11_Umerov_Outcome_Source_Manifest.json). Earlier reporting snapshots and all amounts/scores remain unchanged.
+
+
+## November 11 afternoon: G7 declaration and separate exchange response
+
+- **079/080 / G7-NOV11-S001–002:** [Held Paris G7 meeting and joint declaration](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-11-g7-declaration-held-paris-meeting-and-political-commitments), the same statement on two official hosts. Political commitments are not a new legal measure, quantified aid, delivery or implemented ceasefire; the existing Chornobyl discrepancy remains unresolved.
+- **091 / MEXC-9714-S010:** [KuCoin's separate announced response](Tmanch_CH7_Nov7_MEXC_Order_Source_Note.md#november-10-separate-exchange-response-kucoin), beyond Binance. No independently observed transaction execution, changed legal effectiveness, new flow or measured benefit.
+
+[Source provenance](Tmanch_CH7_Nov11_PM_Source_Manifest.json). All previous source stages, corrections, scores and financial totals remain unchanged.
+
+
+### Final EUMAM act acquired November 11
+
+- **098 / EUMAM-NOV9-S003:** [Final Decision (CFSP) 2026/2508](Tmanch_CH7_Nov9_EUMAM_Source_Note.md#november-11-final-act-legal-dates-exact-reference-and-limited-remit) closes the legal-text/date and exact-reference gaps. Adopted/entered into force November 9, published November 11, applies November 16. The EUR 292.6 million common-cost reference is not spending or a verified increment; overlap with 054's EUR 230 million remains unresolved.
+
+[Noncash reference observation](Tmanch_CH7_Nov9_EUMAM_Financial_Reference_Observation.json) and [source provenance](Tmanch_CH7_Nov11_PM_Source_Manifest.json). No actual deployment, personnel-status agreement, expenditure or measured result is inferred.

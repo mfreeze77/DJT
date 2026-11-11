@@ -53,3 +53,14 @@ Potential benefit is limiting a named transfer route, subject to actual executio
 **MEXC-9714-S009:** Original gzip HTTP body and decoded HTML retained; decoded only with gzip.decompress. [Source provenance](Tmanch_CH7_Nov11_Source_Manifest.json) records both artifacts.
 
 Prior structured status, retained as acquisition history: **“Final publication and December 10 effectiveness verified; not yet effective on November 10; implementation unresolved.”** The updated status adds the exchange’s announcement while preserving unverified operational execution and legal timing.
+
+
+## November 10 separate exchange response: KuCoin
+
+**MEXC-9714-S010:** [KuCoin's original notice](https://www.kucoin.com/announcement/en-important-notice-regarding-transfers-from-to-mexc-global-limited-and-affiliated-entities) announces outgoing MEXC transfer requests will be declined and incoming deposits temporarily withheld for compliance review, with possible further account restrictions. Its displayed **2026/11/10 19:45:00** has no acquired timezone. The thirteen list lines include aliases and an affiliate category, not thirteen independently verified legal entities or new designations.
+
+This adds a separate exchange-authored response to existing **091 / CH7-MEXC-9714-001**, preserving the earlier Binance notice and legal chronology. It verifies announced controls, not transaction-level execution, actual account action or affected amounts. FinCEN's **December 10, 2026** effectiveness is unchanged. No underlying conduct finding, new government restriction, asset-freeze amount, family receipt, financial flow or score is adopted.
+
+Potential transfer-route restrictions and customer delays remain prospective or unmeasured. The earlier current status is retained here: **“Final publication and December 10 effectiveness verified; Binance response announced November 10; operational implementation/effects unverified.”** Current status adds KuCoin's announcement only; actual effects remain unresolved.
+
+The successful original-page web rendering was retained as an unmodified serialized tool response, a derivative rather than raw HTML. A direct-request unavailable placeholder contains no announcement text and is excluded. No transaction or account test occurred. [Source provenance](Tmanch_CH7_Nov11_PM_Source_Manifest.json).
