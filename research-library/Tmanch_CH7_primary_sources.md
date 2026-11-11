@@ -1438,3 +1438,13 @@ The [afternoon source manifest](Tmanch_CH7_Nov10_Afternoon_Source_Manifest.json)
 - **040 / DIESEL-SHIP-S021–023 and S020 later snapshot:** [Reported halt, manager's awaiting-orders account and stale provider display](Tmanch_CH7_Oct23_Diesel_Shipment_Source_Note.md#november-10-reports-and-november-11-stale-display-halted-and-awaiting-orders). Preserve the conflicting loading dates and absence of confirmed delivery/payment. A prospective alternative-port/world-market account does not establish a sale; missing US delivery does not erase qualifying transaction access or prove zero global revenue.
 
 [Source provenance](Tmanch_CH7_Nov11_Diesel_Followup_Source_Manifest.json). Existing cargo totals, scores, legal limits and source/correction history are unchanged.
+
+
+## November 11 acquired security-process context
+
+- **079/080 / ABUDHABI-NOV11-S006; EU-SECURITY-NOV9-S001:** [Attributed Axios process reporting and the earlier official EC sequencing position](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-11-acquired-security-process-reporting-and-november-9-ec-position). Source-note context only: anonymous assurances are not guarantees, and differing negotiation/implementation sequences are not treated as reconciled. No event finding, status, meeting count, score or financial total changes.
+
+[Source provenance](Tmanch_CH7_Nov11_Security_Context_Source_Manifest.json). The November 9 EC statement is not represented as a later response to the November 11 article.
+
+
+- **079/080 / ABUDHABI-NOV11-S002 later snapshot:** [Named Kushner account reported by AP](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-11-later-ap-snapshot-named-public-account-and-excerpt-limits) supports the narrower de-escalation request and European-inclusion goal, not Axios' separate anonymous consent/no-veto assurances. The acquired caption excerpt does not contain the security segment; no guarantee or completed meeting follows.
