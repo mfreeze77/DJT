@@ -1,0 +1,54 @@
+{
+  "observation_id": "DEN-2026-11-10-ALLOC01",
+  "type": "recipient_government_reported_non_cash_allocations",
+  "report_date": "2026-11-10",
+  "source_family": "Ukrainian presidency, Ukrainian and English versions of the same meeting readout",
+  "joins": [
+    "J20-2026-102",
+    "CH7-DENMARK-NOV10-001"
+  ],
+  "reported_current_allocations": [
+    {
+      "purpose": "defense procurement",
+      "amount": 645000000,
+      "currency": "EUR",
+      "implementation_stage": "recipient-government says allocated; contracts, payment and delivery unverified",
+      "stated_uses": [
+        "attack drones including Ukrainian-made",
+        "F-16 ammunition",
+        "Ukrainian interceptor drones",
+        "PURL"
+      ],
+      "suballocations": null
+    },
+    {
+      "purpose": "Kherson region energy support",
+      "amount": 20000000,
+      "currency": "EUR",
+      "implementation_stage": "recipient-government says allocated; payment/delivery unverified"
+    }
+  ],
+  "historical_context": [
+    {
+      "purpose": "Drone Deal procurement of Ukrainian drones and other weapons",
+      "amount": 100000000,
+      "currency": "USD",
+      "period_as_stated": "this year",
+      "specific_allocation_date": null,
+      "new_november_10_increment_established": false
+    }
+  ],
+  "overlap_reconciliation": "Unresolved between this-year Drone Deal/PURL context and current package; no transaction joins",
+  "danish_decision_acquired": false,
+  "current_combined_total": null,
+  "currency_conversion": null,
+  "actual_cash_received": null,
+  "actual_delivery_verified": false,
+  "historical_financial_flow_total_eligible": false,
+  "source_ids": [
+    "DENMARK-NOV10-S001",
+    "DENMARK-NOV10-S002"
+  ],
+  "source_note": "Tmanch_CH7_Nov10_Denmark_Source_Note.md",
+  "source_manifest": "Tmanch_CH7_Nov11_Source_Manifest.json"
+}

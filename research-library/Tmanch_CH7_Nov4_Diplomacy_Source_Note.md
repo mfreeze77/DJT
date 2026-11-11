@@ -158,3 +158,14 @@ This is an original news-agency report with explicit government-office attributi
 Earlier opening and separate-coordination evidence, current status fields, unresolved written terms and EU-assistance gaps remain intact. Actual resumption, government-issued confirmation and substantive outcome/implementation records remain outstanding. No new event, claim, score, financial flow or private-benefit inference.
 
 Full original HTML was retained and the article text and timestamp metadata inspected; no image or video content was reviewed. [Source provenance](Tmanch_CH7_Nov10_Adjournment_Source_Manifest.json).
+
+
+## November 10 original participant account and Chornobyl conference follow-up
+
+**ABUDHABI-NOV10-S005:** [Zelenskyy’s original account post](https://x.com/ZelenskyyUa/status/2120172358426042607), timestamped **November 10 at 15:10:55 UTC**, says he received the team’s first-day report. It distinguishes prior European/American coordination from the subsequent trilateral session and reports discussion of humanitarian and prisoner-release steps, long-term security guarantees and de-escalation. Further trilateral dialogue on November 11 and broader consultations over coming days remain prospective. The favorable assessment is attributed to the Ukrainian participant side, not independent proof of successful negotiations.
+
+This supplies a direct government-leader discussion summary beyond the earlier report that no outcomes had yet been released. It is not the still-unacquired FIS press-office adjournment statement, an exact resumption time, actual November 11 resumption, counterpart acceptance, an agreement, a prisoner release, ceasefire or implemented guarantee. Existing November 4 call and Brussels identities, missing original US records, written enforcement requirements and separate EU emergency-assistance gaps remain unchanged.
+
+**CHORNOBYL-NOV9-S001–002:** [The separate source note](Tmanch_CH7_Nov9_Chornobyl_Source_Note.md) records the now-confirmed November 9 Paris conference, EBRD’s EUR 303 million pledge report and France’s EUR 278 million mobilisation report. These figures remain source-specific and unreconciled. The [noncash pledge observation](Tmanch_CH7_Nov9_Chornobyl_Pledge_Observation.json) prevents either figure from being booked as received or added to prior funding. This extends the fundraiser context already recorded under 079/080, not another call or duplicate aid event.
+
+Affirmative diplomatic engagement and intended nuclear-safety support are documented; practical protection and restoration remain conditional on agreement, funding and implementation. No new event ID, score, financial-flow total, private receipt or policy bargain. Full original source bodies and their text/metadata were inspected; no audio/video inspection. [Source provenance](Tmanch_CH7_Nov11_Source_Manifest.json).

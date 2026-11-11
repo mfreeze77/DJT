@@ -1,0 +1,336 @@
+{
+  "watch_label": "November 11 00 UTC watch; sources acquired November 10",
+  "review_date_utc": "2026-11-11",
+  "baseline_commit": "62ee90d86c4b732c9957e6c36506bba60e194ec0",
+  "scope": "Existing diplomacy, MEXC and TMTG context plus three unscored institutional/allied-support records. Noncash commitments and financing intentions stay separate from actual receipts, execution and effects.",
+  "sources": [
+    {
+      "source_ids": [
+        "ABUDHABI-NOV10-S005"
+      ],
+      "url": "https://x.com/ZelenskyyUa/status/2120172358426042607",
+      "retrieved_at_utc": "2026-11-10T23:48:29.097494+00:00",
+      "displayed_publication_or_date": "2026-11-10T15:10:55Z",
+      "source_class": "Original account-post HTML",
+      "artifacts": [
+        {
+          "artifact": "zelensky-x-nov10.html",
+          "artifact_type": "original response bytes; retained locally, not uploaded",
+          "bytes": 140201,
+          "sha256": "afaaf75bfb7450ff4b524b1ec2361c477077a229acab04b21ec412bf9d9716b5"
+        }
+      ],
+      "joins": [
+        "J20-2026-079",
+        "CH7-BRUSSELS-RECOVERY-001",
+        "J20-2026-080",
+        "CH7-NOV4-ENVOY-CALL-001"
+      ],
+      "inspection": "Complete substantive text and relevant metadata inspected; no audio/video inspection.",
+      "limits": "Original Ukrainian leader account of discussion, not counterpart acceptance or implemented outcome; no media inspection."
+    },
+    {
+      "source_ids": [
+        "CHORNOBYL-NOV9-S001"
+      ],
+      "url": "https://www.ebrd.com/home/news-and-events/news/2026/international-community-backs-ebrd-managed-fund-to-restore-chorn.html",
+      "retrieved_at_utc": "2026-11-10T23:49:15.866281+00:00",
+      "displayed_publication_or_date": "No main-story publication date displayed; acquired Nov10; modification2026-11-10T10:59:57Z is not publication",
+      "source_class": "Original institutional HTML",
+      "artifacts": [
+        {
+          "artifact": "ebrd-chornobyl-nov10.html",
+          "artifact_type": "original response bytes; retained locally, not uploaded",
+          "bytes": 132291,
+          "sha256": "e07e8b6a9347088c57f09d2b64f97f3ff06f8a19929873563d5c7591d32f8eb6"
+        }
+      ],
+      "joins": [
+        "J20-2026-079",
+        "CH7-BRUSSELS-RECOVERY-001",
+        "J20-2026-080",
+        "CH7-NOV4-ENVOY-CALL-001"
+      ],
+      "inspection": "Complete substantive text and relevant metadata inspected; no audio/video inspection.",
+      "limits": "Reported pledge amount, not received money; discrepancy with France unresolved; past preparatory work not attributed to new commitments."
+    },
+    {
+      "source_ids": [
+        "CHORNOBYL-NOV9-S002"
+      ],
+      "url": "https://www.diplomatie.gouv.fr/fr/presse-et-ressources/decouvrir-et-informer/actualites/ministerielle-g7-affaires-etrangeres-entretien-du-ministre-avec-m-andrii-sybiha-ministre-des",
+      "retrieved_at_utc": "2026-11-10T23:48:36.411109+00:00",
+      "displayed_publication_or_date": "2026-11-10 article body",
+      "source_class": "Original institutional HTML",
+      "artifacts": [
+        {
+          "artifact": "france-sybiha-nov10.html",
+          "artifact_type": "original response bytes; retained locally, not uploaded",
+          "bytes": 54978,
+          "sha256": "75307a4477ae365f5c64aab8470f0260f48f005ee8d762f2a607bd9d96f5ad78"
+        }
+      ],
+      "joins": [
+        "J20-2026-079",
+        "CH7-BRUSSELS-RECOVERY-001",
+        "J20-2026-080",
+        "CH7-NOV4-ENVOY-CALL-001"
+      ],
+      "inspection": "Complete substantive text and relevant metadata inspected; no audio/video inspection.",
+      "limits": "Official mobilisation figure differs from EBRD pledge report; no reconciliation or cash receipt acquired."
+    },
+    {
+      "source_ids": [
+        "JEF-NOV10-S001"
+      ],
+      "url": "https://www.gov.uk/government/news/new-royal-navy-led-northern-navies-initiative",
+      "retrieved_at_utc": "2026-11-10T23:50:00.977599+00:00",
+      "displayed_publication_or_date": "2026-11-10",
+      "source_class": "Original institutional HTML",
+      "artifacts": [
+        {
+          "artifact": "uk-northern-navies-nov10.html",
+          "artifact_type": "original response bytes; retained locally, not uploaded",
+          "bytes": 74290,
+          "sha256": "8c1ad038be151f59a7690ff7fb40db62e414adb361081ba15e2055ebe6ffd693"
+        }
+      ],
+      "joins": [
+        "J20-2026-101",
+        "CH7-JEF-NORTHERN-NAVIES-001"
+      ],
+      "inspection": "Complete substantive text and relevant metadata inspected; no audio/video inspection.",
+      "limits": "Official initiative-signing report; original signed text, detailed individual roster and implemented capability unacquired."
+    },
+    {
+      "source_ids": [
+        "JEF-NOV10-S002"
+      ],
+      "url": "https://www.gov.uk/government/news/90-million-investment-for-new-drones-and-sensors-to-protect-undersea-cables-and-hunt-russian-submarines",
+      "retrieved_at_utc": "2026-11-10T23:50:04.185069+00:00",
+      "displayed_publication_or_date": "2026-11-10",
+      "source_class": "Original institutional HTML",
+      "artifacts": [
+        {
+          "artifact": "uk-atlantic-net-nov10.html",
+          "artifact_type": "original response bytes; retained locally, not uploaded",
+          "bytes": 71709,
+          "sha256": "9bed60a9f907fb0200fbf7b3e11c2eee989d88efa4791a03fee565dc71b38efe"
+        }
+      ],
+      "joins": [
+        "J20-2026-101",
+        "CH7-JEF-NORTHERN-NAVIES-001"
+      ],
+      "inspection": "Complete substantive text and relevant metadata inspected; no audio/video inspection.",
+      "limits": "Separate framework due for signature; no completed signature, payment, equipment delivery or operational acceptance established."
+    },
+    {
+      "source_ids": [
+        "DENMARK-NOV10-S001"
+      ],
+      "url": "https://www.president.gov.ua/news/daniya-vidilila-novij-oboronnij-paket-dlya-ukrayini-na-645-m-107233",
+      "retrieved_at_utc": "2026-11-10T19:28:15.955264+00:00",
+      "displayed_publication_or_date": "2026-11-10 17:17; timezone unstated",
+      "source_class": "Original recipient-government HTML; one bilingual Ukrainian presidency source family",
+      "artifacts": [
+        {
+          "artifact": "presidency_nov10.html",
+          "artifact_type": "original response bytes; retained locally, not uploaded",
+          "bytes": 197755,
+          "sha256": "78a70b95591342a2f5c66844c15308fc03ae0b1c06ab2ee1c1744840a5faafdd"
+        }
+      ],
+      "joins": [
+        "J20-2026-102",
+        "CH7-DENMARK-NOV10-001"
+      ],
+      "inspection": "Full original article text and displayed timestamp inspected; no media inspection.",
+      "limits": "Recipient-government allocation reporting, not original Danish decision or verified disbursement/delivery. Current EUR allocations and this-year USD context are separate and non-additive; overlap and suballocations unresolved."
+    },
+    {
+      "source_ids": [
+        "DENMARK-NOV10-S002"
+      ],
+      "url": "https://www.president.gov.ua/en/news/daniya-vidilila-novij-oboronnij-paket-dlya-ukrayini-na-645-m-107233",
+      "retrieved_at_utc": "2026-11-10T19:30:13.426880+00:00",
+      "displayed_publication_or_date": "2026-11-10 17:17; timezone unstated",
+      "source_class": "Original recipient-government HTML; one bilingual Ukrainian presidency source family",
+      "artifacts": [
+        {
+          "artifact": "presidency_nov10_en.html",
+          "artifact_type": "original response bytes; retained locally, not uploaded",
+          "bytes": 155507,
+          "sha256": "52749b9fde35f8250b87daed23cc489b900211685a8107a8a387e560b2dcb37b"
+        }
+      ],
+      "joins": [
+        "J20-2026-102",
+        "CH7-DENMARK-NOV10-001"
+      ],
+      "inspection": "Full original article text and displayed timestamp inspected; no media inspection.",
+      "limits": "Recipient-government allocation reporting, not original Danish decision or verified disbursement/delivery. Current EUR allocations and this-year USD context are separate and non-additive; overlap and suballocations unresolved."
+    },
+    {
+      "url": "https://data.sec.gov/submissions/CIK0001849635.json",
+      "status": 200,
+      "source_ids": [
+        "TMTG-Q3-S005"
+      ],
+      "joins": [
+        "CH7-TMTG-Q3-001"
+      ],
+      "artifact_retention": "Original response bytes retained; not uploaded",
+      "source_family": "Issuer/SEC disclosure family",
+      "snapshot_role": "Later snapshot under existing identity; prior acquisition/hash preserved",
+      "artifacts": [
+        {
+          "artifact": "tmtg-submissions.json",
+          "artifact_type": "Original response bytes retained; not uploaded",
+          "bytes": 117064,
+          "sha256": "bcd4c84037390136bf2492bbf0f627722994ae99d580e6b23fa67f16f3a7cdd6"
+        }
+      ],
+      "retrieved_at_utc": "2026-11-10T23:46:54.620314+00:00",
+      "source_class": "Issuer/SEC disclosure family"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1849635/000143774926036171/djt20261109c_425.htm",
+      "status": 200,
+      "source_ids": [
+        "TMTG-Q3-S006"
+      ],
+      "joins": [
+        "CH7-TMTG-Q3-001"
+      ],
+      "artifact_retention": "Original response bytes retained; not uploaded",
+      "source_family": "Issuer/SEC disclosure family",
+      "call_date": "2026-11-09",
+      "filing_date": "2026-11-10",
+      "acceptance_utc": "2026-11-10T21:15:01Z",
+      "accession": "0001437749-26-036171",
+      "inspection": "Complete derived transcript text inspected; no independently acquired audio",
+      "artifacts": [
+        {
+          "artifact": "tmtg-nov10-425.html",
+          "artifact_type": "Original response bytes retained; not uploaded",
+          "bytes": 30516,
+          "sha256": "83d1293e61c1282d53f73dd1b419fd65ef857e459d0030979c10733c7cebee60"
+        }
+      ],
+      "retrieved_at_utc": "2026-11-10T23:47:30.387971+00:00",
+      "source_class": "Issuer/SEC disclosure family"
+    },
+    {
+      "url": "https://www.warren.senate.gov/newsroom/press-releases/warren-merkley-press-white-house-for-answers-on-insider-trading-scandal-involving-trump-teleprompter-aide/",
+      "status": 200,
+      "source_ids": [
+        "PRED-OVERSIGHT-NOV9-S001"
+      ],
+      "joins": [
+        "CH7-PREDICTION-OVERSIGHT-NOV9-001",
+        "J20-2026-100"
+      ],
+      "artifact_retention": "Original response bytes retained; not uploaded",
+      "source_family": "One congressional source family",
+      "artifacts": [
+        {
+          "artifact": "warren-release.html",
+          "artifact_type": "Original response bytes retained; not uploaded",
+          "bytes": 201026,
+          "sha256": "e3475a384d7d2f71ab5f61b6e0a701659fd0dffabda8fa39ff31210cac695a19"
+        }
+      ],
+      "retrieved_at_utc": "2026-11-10T23:48:10.994743+00:00",
+      "source_class": "One congressional source family"
+    },
+    {
+      "url": "https://www.warren.senate.gov/wp-content/uploads/2026/11/2026.11.6-Teleprompter-Insider-Trading-Letter.pdf",
+      "status": 200,
+      "source_ids": [
+        "PRED-OVERSIGHT-NOV9-S002"
+      ],
+      "joins": [
+        "CH7-PREDICTION-OVERSIGHT-NOV9-001",
+        "J20-2026-100"
+      ],
+      "artifact_retention": "Original response bytes retained; not uploaded",
+      "source_family": "One congressional source family",
+      "inspection": "All extracted text inspected; pages 1, 4 and 6 visually inspected by acquisition researcher; dated November 9 despite filename",
+      "artifacts": [
+        {
+          "artifact": "warren-merkley-letter.pdf",
+          "artifact_type": "Original response bytes retained; not uploaded",
+          "bytes": 584675,
+          "sha256": "80084c882bc0544814e0784469fbda43335986da626697ea09fdf3d6ce99ed65"
+        }
+      ],
+      "retrieved_at_utc": "2026-11-10T23:48:42.918877+00:00",
+      "source_class": "One congressional source family"
+    },
+    {
+      "url": "https://www.binance.com/ar/support/announcement/detail/9ef6e347da924cdc90f53577ab483b1f",
+      "status": 200,
+      "format": "gzip-compressed original HTTP response body",
+      "transformation": "gzip.decompress only",
+      "source_ids": [
+        "MEXC-9714-S009"
+      ],
+      "joins": [
+        "CH7-MEXC-9714-001",
+        "J20-2026-091"
+      ],
+      "artifact_retention": "Original response bytes retained; not uploaded",
+      "source_family": "Exchange-authored response, not independent corroboration of underlying conduct",
+      "inspection": "Original English announcement under Arabic navigation; thirteen name/category lines are not thirteen verified legal entities",
+      "publication_utc": "2026-11-10T08:30:07.492Z",
+      "artifacts": [
+        {
+          "artifact": "binance-mexc-response.gz",
+          "artifact_type": "Original response bytes retained; not uploaded",
+          "bytes": 116126,
+          "sha256": "7d222b4d937d0df28253e80187a10990c45941a4af9e2161d15d443012eb828c"
+        },
+        {
+          "artifact": "binance-mexc-announcement.html",
+          "artifact_type": "gzip-decoded original response body; derived by gzip.decompress only; retained locally, not uploaded",
+          "bytes": 398502,
+          "sha256": "c48b5a5c0f127da00dd27f445b7d65b8eb9ce5abdf67cb80cd54524bed7ff39f"
+        }
+      ],
+      "retrieved_at_utc": "2026-11-10T23:50:47.996635+00:00",
+      "source_class": "Exchange-authored response, not independent corroboration of underlying conduct"
+    }
+  ],
+  "status_history": [
+    {
+      "record_id": "J20-2026-091",
+      "field_index": 4,
+      "prior_value": "Final publication and December 10 effectiveness verified; not yet effective on November 10; implementation unresolved",
+      "updated_value": "Final publication and December 10 effectiveness verified; Binance response announced November 10; operational implementation/effects unverified",
+      "review_date_utc": "2026-11-10"
+    },
+    {
+      "record_id": "CH7-MEXC-9714-001",
+      "field_index": 5,
+      "prior_value": "Final publication and December 10 effectiveness verified; not yet effective on November 10; implementation unresolved",
+      "updated_value": "Final publication and December 10 effectiveness verified; Binance response announced November 10; operational implementation/effects unverified",
+      "review_date_utc": "2026-11-10"
+    },
+    {
+      "record_id": "CH7-TMTG-Q3-001",
+      "field_index": 5,
+      "prior_value": "Attributed corporate results and source discrepancies verified in original tables; quarter-specific cash reconciliation and personal distribution unestablished",
+      "updated_value": "Attributed accounts and issuer-filed call transcript verified; transcript acquisition gap closed November 10; financial execution and other listed gaps unresolved",
+      "review_date_utc": "2026-11-10"
+    }
+  ],
+  "boundaries": [
+    "Preserve original event identities, prior acquisition stages, correction history, existing scores and unrelated rows.",
+    "No new underlying-conduct accusation, private receipt, motive or policy bargain is adopted.",
+    "Chornobyl source amounts are unreconciled and non-additive. Danish current EUR allocations and this-year USD context are separate and overlap unresolved.",
+    "JEF initiative signing does not establish separate commercial-framework signature or operational capability.",
+    "Issuer financing preferences and exchange policy announcements are not transaction-level execution evidence.",
+    "Raw originals are retained for verification only and are not published as an archive."
+  ]
+}

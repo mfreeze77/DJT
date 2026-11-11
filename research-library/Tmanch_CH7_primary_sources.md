@@ -1367,3 +1367,24 @@ The [afternoon source manifest](Tmanch_CH7_Nov10_Afternoon_Source_Manifest.json)
 - **079/080 / ABUDHABI-NOV10-S004:** [Ukrinform’s directly attributed adjournment report](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-10-attributed-day-one-adjournment) updates chronology only. No government-issued text, negotiating outcome or actual next-day resumption is established.
 
 [Source provenance](Tmanch_CH7_Nov10_Adjournment_Source_Manifest.json) records the retained original article, not a government document. Existing history, statuses, scores and totals remain unchanged.
+
+
+## November 11 watch: late-November-10 diplomacy and allied commitments
+
+- **079/080 / ABUDHABI-NOV10-S005:** [Original Ukrainian day-one discussion account](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-10-original-participant-account-and-chornobyl-conference-follow-up) adds participant-reported substance, not accepted terms or implementation.
+- **079/080 / CHORNOBYL-NOV9-S001–002:** [Held Paris conference and source-specific pledges](Tmanch_CH7_Nov9_Chornobyl_Source_Note.md) retain EBRD’s EUR 303 million and France’s EUR 278 million without reconciliation or additive totals. The [noncash observation](Tmanch_CH7_Nov9_Chornobyl_Pledge_Observation.json) keeps cash receipts unverified.
+- **101 / CH7-JEF-NORTHERN-NAVIES-001 / JEF-NOV10-S001–002:** [Northern Navies signing](Tmanch_CH7_Nov10_JEF_Source_Note.md) is distinct from the separate prospective GBP 90 million Atlantic Net framework and unverified capability implementation.
+
+[Source provenance](Tmanch_CH7_Nov11_Source_Manifest.json) records original bodies and acquisition limits. No raw archive, measured benefit, new receipt or score change.
+
+
+- **102 / CH7-DENMARK-NOV10-001 / DENMARK-NOV10-S001–002:** [Recipient-government Danish allocation report](Tmanch_CH7_Nov10_Denmark_Source_Note.md) keeps EUR 645 million defense, EUR 20 million energy and USD 100 million this-year context separate. [Structured observation](Tmanch_CH7_Nov10_Denmark_Allocation_Observation.json) leaves overlap, receipts and delivery unverified; no additive total.
+
+
+## November 10 finance and institutional process follow-up
+
+- **CH7-TMTG-Q3-001 / TMTG-Q3-S006:** [Acquired SEC-filed November 9 transcript](Tmanch_CH7_Nov9_TMTG_Q3_Source_Note.md#november-10-acquisition-issuer-filed-november-9-earnings-call-transcript) closes the prior transcript gap and adds issuer-reported holder-election status and cash/credit intentions. Same TAE-REF01 noncash context; no executed financing or new flow.
+- **091 / CH7-MEXC-9714-001 / MEXC-9714-S009:** [Binance response](Tmanch_CH7_Nov7_MEXC_Order_Source_Note.md#november-10-exchange-response-binance-announces-restrictions) adds announced operational restrictions, not observed execution. The government order remains effective December 10.
+- **100 / CH7-PREDICTION-OVERSIGHT-NOV9-001:** [Signed November 9 safeguards request](Tmanch_CH7_Nov9_Prediction_Oversight_Source_Note.md), published November 10, seeks White House answers by November 23. Process-only and unscored; underlying allegations and background amounts are not adopted.
+
+[Provenance](Tmanch_CH7_Nov11_Source_Manifest.json) preserves original acquisition hashes. Earlier snapshots and unresolved records remain; no new financial-flow totals or changes to existing scores.

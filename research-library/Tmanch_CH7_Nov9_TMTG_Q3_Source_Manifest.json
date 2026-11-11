@@ -84,7 +84,7 @@
       "source_family": "One TMTG issuer disclosure family; SEC hosting/acceptance is not independent audit or bank confirmation",
       "inspection": "Relevant statement tables, notes, MD&A, solicitation wording and metadata inspected with printed HTML page labels; no PDF-image inspection",
       "scope": "Unaudited corporate accounts and issuer process report. No personal receipt, foreign-funding trace, new TAE advance or completed merger established.",
-      "locators": "Printed pp.3–6 statements; Notes 2,9,14,16,17; MD&A pp.24–29; no separate quarterly asset-sale cash-proceeds reconciliation",
+      "locators": "Printed pp.3\u20136 statements; Notes 2,9,14,16,17; MD&A pp.24\u201329; no separate quarterly asset-sale cash-proceeds reconciliation",
       "source_discrepancies": "Revenue-growth descriptions differ across release/MD&A/Note 16; MD&A components sum $3,600 below its stated Media growth. Nine-month operating cash use differs by $100 between statement and prose. Preserve source-specific amendment dates."
     },
     {
@@ -167,7 +167,7 @@
         "TAE-MERGER01"
       ],
       "source_family": "Existing TMTG issuer prospectus",
-      "inspection": "Printed HTML pp.150–151 ownership table and trust/trustee footnote reexamined; not PDF-image inspection",
+      "inspection": "Printed HTML pp.150\u2013151 ownership table and trust/trustee footnote reexamined; not PDF-image inspection",
       "scope": "October 30 ownership snapshot only; trust and trustee holdings overlap and are non-additive. No current market value or income distribution inferred.",
       "acquisition_limit": "Existing TAE-S42 source identity and original acquisition record retained in prior TAE source manifest; this is a reinspection, not invented new retrieval time."
     }
@@ -194,6 +194,18 @@
       "locators": "MD&A printed p.23 Digital Token Initiative; Part II Item 2(c), printed p.31; balance sheet p.3 and nine-month cash-flow statement p.6.",
       "verified_scope": "Issuer-disclosed discontinuation of planned shareholder token distribution; no reported Q3 issuer share repurchases. Treasury shares/cost unchanged; nine-month common-stock repurchase cash-flow row nil.",
       "limits": "No precise internal decision date, delivered replacement benefit, post-quarter repurchase, noteholder election total, completed credit facility, repayment or personal receipt established. Prior source discrepancies, TAE-T20 and TAE-REF01 remain unchanged. No reliance on an unacquired original call/transcript."
+    }
+  ],
+  "acquisition_updates": [
+    {
+      "review_date_utc": "2026-11-10",
+      "source_ids": [
+        "TMTG-Q3-S005",
+        "TMTG-Q3-S006"
+      ],
+      "closed_gap": "Public Q3 transcript acquired; earlier no-transcript statements preserved as November 9 acquisition history.",
+      "remaining": "Independent audio, notice document, final elections, financing/settlement and prior account/merger gaps remain.",
+      "provenance_manifest": "Tmanch_CH7_Nov11_Source_Manifest.json"
     }
   ]
 }
