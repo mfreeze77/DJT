@@ -109,3 +109,23 @@ Complete permitted web-tool responses were retained as derived inspection eviden
 
 
 Source provenance and acquisition limits are recorded in the [November 8 source manifest](Tmanch_CH7_Nov8_Source_Manifest.json).
+
+
+## November 10 reports and November 11 stale display: halted and awaiting orders
+
+**DIESEL-SHIP-S021–022:** Two [Reuters](https://gcaptain.com/tanker-carrying-russian-diesel-halts-off-u-s-coast-shipping-data-shows/) [republications on gCaptain](https://gcaptain.com/russian-diesel-tanker-awaits-orders-off-u-s-coast-amid-import-ban-dispute/), dated **November 10**, report **Agioi Fanendes, IMO 9798375**, halted off the US east coast. They attribute to its **manager Eastmed** that it remained awaiting orders without a nominated or finalized discharge port. Eastmed's manager role does not establish legal ownership, cargo title or the buyer/seller. The reports belong to the same Reuters family and repeat the manager account; they are not independent confirmations.
+
+The later Reuters account attributes to Energy Secretary Wright an expectation of an alternative port and sale into world markets. That is a prospective rationale, not an accomplished sale, destination, buyer or receipt. No analyst speculation about a missing buyer or routing cause is adopted. The Reuters/LSEG report identifies **October 22** loading at Primorsk; the previously reported cargo quantity is not another cargo or flow.
+
+**DIESEL-SHIP-S023:** [Maritime Executive's November 10 report](https://news.maritime-executive.com/article/tanker-linked-to-trump-s-russian-diesel-waiver-pauses-off-u-s-east-coast), displayed **22:54:00** without an acquired timezone, attributes holding since **November 9** and **FOR ORDERS** signaling to **Pole Star**, and an **October 23** loading date to **Kpler**. The October 22/23 conflict remains unresolved. These are attributed provider observations, not acquired raw datasets. Its Wright quotation depends on Reuters. The embedded Pole Star image was not inspected; broader fleet and ownership assertions are not used.
+
+**DIESEL-SHIP-S020, later snapshot:** The [public VesselFinder page](https://www.vesselfinder.com/vessels/details/9798375), inspected **November 11**, displays Northeast Atlantic, **FOR ORDERS**, an estimated November 11 arrival at **22:00** without an acquired timezone, and a position age of **14 days**. It cannot establish the vessel's present position or unloading. The displayed last Primorsk departure is **October 22 at 16:08 UTC**, a different field from cargo loading, so it does not resolve the reported loading-date conflict. The displayed speed is similarly stale, not a fresh counter-observation. Paid satellite positions were not acquired.
+
+For the same **040 / CH7-DIESEL-SHIP-001**, this further narrows evidence for near-term direct US supply. No completed US arrival/discharge, final alternative port, title/counterparty, payment, consumer-price effect or cause for holding is established. Preserve the separately documented **S014 / GL135** qualifying transaction authorization and its legal limits: lack of confirmed US delivery neither removes potential world-market access nor demonstrates zero global sales or Russian revenue. The existing statutory dispute remains unresolved; authorization is not universal legal clearance or proof of any sale.
+
+Potential exporter access and realized financial benefit remain separate. No new event, vessel/cargo quantity, financial flow or score is added. Earlier production, authorization, diversion and provider-display stages remain intact. Prior structured statuses are retained:
+
+- **J20-2026-040:** Official departure claim; shipping-data report not independently audited
+- **CH7-DIESEL-SHIP-001:** Attributed departure and tracking reports
+
+The articles were inspected in successful researcher web-rendered responses; retained selected passages are manually transcribed derivatives, not raw HTML. A later preparer reopening failed and supplied no article evidence. The later successful VesselFinder response is retained as complete serialized tool output, also not raw HTML or AIS. No fresh original GL135 archive is claimed by this update; the prior original legal evidence remains the basis for that distinction. [Source provenance](Tmanch_CH7_Nov11_Diesel_Followup_Source_Manifest.json).

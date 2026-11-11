@@ -1424,3 +1424,17 @@ The [afternoon source manifest](Tmanch_CH7_Nov10_Afternoon_Source_Manifest.json)
 - **098 / EUMAM-NOV9-S003:** [Final Decision (CFSP) 2026/2508](Tmanch_CH7_Nov9_EUMAM_Source_Note.md#november-11-final-act-legal-dates-exact-reference-and-limited-remit) closes the legal-text/date and exact-reference gaps. Adopted/entered into force November 9, published November 11, applies November 16. The EUR 292.6 million common-cost reference is not spending or a verified increment; overlap with 054's EUR 230 million remains unresolved.
 
 [Noncash reference observation](Tmanch_CH7_Nov9_EUMAM_Financial_Reference_Observation.json) and [source provenance](Tmanch_CH7_Nov11_PM_Source_Manifest.json). No actual deployment, personnel-status agreement, expenditure or measured result is inferred.
+
+
+## November 11 later exchange forecast and written debrief
+
+- **079/080 / ABUDHABI-NOV11-S002 later snapshot, S005:** [AP's attributed Zorin forecast and Zelenskyy's original written debrief](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-11-later-sources-exchange-forecast-and-ukrainian-written-debrief). A possible two-to-three-week exchange window is not a fixed date and is distinct from the next-day target for numbers. Coordination and broader-format discussions are not a guaranteed European role or specifically completed follow-on; Dublin remains planned.
+
+[Source provenance](Tmanch_CH7_Nov11_Late_Diplomacy_Source_Manifest.json). Earlier snapshots, statuses, scores and financial totals remain intact.
+
+
+## November 11 diesel implementation follow-up
+
+- **040 / DIESEL-SHIP-S021–023 and S020 later snapshot:** [Reported halt, manager's awaiting-orders account and stale provider display](Tmanch_CH7_Oct23_Diesel_Shipment_Source_Note.md#november-10-reports-and-november-11-stale-display-halted-and-awaiting-orders). Preserve the conflicting loading dates and absence of confirmed delivery/payment. A prospective alternative-port/world-market account does not establish a sale; missing US delivery does not erase qualifying transaction access or prove zero global revenue.
+
+[Source provenance](Tmanch_CH7_Nov11_Diesel_Followup_Source_Manifest.json). Existing cargo totals, scores, legal limits and source/correction history are unchanged.
