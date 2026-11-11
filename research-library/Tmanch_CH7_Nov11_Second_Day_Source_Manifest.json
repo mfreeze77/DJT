@@ -1,0 +1,77 @@
+{
+  "review_date_utc": "2026-11-11",
+  "baseline_commit": "0cb60da63389cd5b32585c745286c455f1bc04d8",
+  "scope": "Existing 079/080 chronology and statuses only; no new event, claim, score or financial flow.",
+  "prior_current_statuses": {
+    "J20-2026-079": "Original Brussels talks and later Abu Dhabi opening verified; agreed guarantees and outcomes unverified",
+    "J20-2026-080": "Original call, later Abu Dhabi opening and separate coordination officially documented; terms unresolved",
+    "CH7-BRUSSELS-RECOVERY-001": "Original Brussels talks and later Abu Dhabi opening verified; agreed guarantees and outcomes unverified",
+    "CH7-NOV4-ENVOY-CALL-001": "Original call, later Abu Dhabi opening and separate coordination officially documented; terms unresolved"
+  },
+  "sources": [
+    {
+      "source_ids": [
+        "ABUDHABI-NOV11-S001"
+      ],
+      "url": "https://t.me/umerov_rustem/606",
+      "inspection_url": "https://t.me/s/umerov_rustem",
+      "source_class": "Original participant post in channel rendering; dated same-speaker secondary context",
+      "inspection": "Channel text and post-link mapping inspected in retained serialized tool responses; not raw publisher HTML.",
+      "displayed_time": "08:38",
+      "post_date_metadata": null,
+      "post_timezone": null,
+      "calendar_context": {
+        "url": "https://en.interfax.com.ua/news/general/1234562.html",
+        "displayed": "10:52, 11.11.2026",
+        "timezone": null,
+        "tier": "Web-rendered/indexed article text in serialized tool response; raw request returned403 and was not retried"
+      },
+      "artifacts": [
+        {
+          "artifact": "umerov_channel_tool_response.json",
+          "artifact_type": "Unmodified serialized web-tool response; derivative, not raw Telegram bytes",
+          "bytes": 31896,
+          "sha256": "7d156ad1b75975f5d4627f9be906a1fa4acf8fcc8a6e7fc683bf250bbc421d0a"
+        },
+        {
+          "artifact": "umerov_post_locator_date_context_tool_response.json",
+          "artifact_type": "Unmodified serialized web-tool response, including post606 link mapping and dated Interfax text; derivative",
+          "bytes": 4805,
+          "sha256": "f6d112dd3071ff45c03ae22bdb8d659dec68a7341e06a79f39fe853ae382a7f2"
+        }
+      ],
+      "limits": "Participant account; exact start time and post date/timezone metadata unacquired. Direct post open was inaccessible; channel text supplies content. Follow-on meeting and outcomes unverified."
+    },
+    {
+      "source_ids": [
+        "ABUDHABI-NOV11-S002"
+      ],
+      "url": "https://apnews.com/article/russia-ukraine-war-talks-kushner-witkoff-7c8d1024302e0c6ad8be064eec852a64",
+      "source_class": "Original AP article; same Umerov quotation is not an independent participant source",
+      "retrieved_at_utc": "2026-11-11T10:32:13.758787+00:00",
+      "publication_timestamp": "2026-11-11T09:39:46Z",
+      "modified_timestamp": "2026-11-11T09:39:46Z",
+      "timestamp_schema": "JSON-LD",
+      "open_graph_modified_time": "2026-11-11T09:41:35.067",
+      "open_graph_modified_timezone": null,
+      "artifacts": [
+        {
+          "artifact": "ap_second_day_original.html",
+          "artifact_type": "Original HTML response bytes; retained locally, not uploaded",
+          "bytes": 859460,
+          "sha256": "df5a91edeb3b47fd0696dd75a15d1f3820d6aa932d75686f50470ac7899ccb55"
+        }
+      ],
+      "inspection": "Relevant article text and publication/modification metadata inspected; no media inspection.",
+      "limits": "Article timestamp is not a negotiating start time. No agreement or implementation inference."
+    }
+  ],
+  "joins": [
+    "J20-2026-079",
+    "J20-2026-080",
+    "CH7-BRUSSELS-RECOVERY-001",
+    "CH7-NOV4-ENVOY-CALL-001"
+  ],
+  "no_raw_archive_published": true,
+  "no_financial_or_score_changes": true
+}

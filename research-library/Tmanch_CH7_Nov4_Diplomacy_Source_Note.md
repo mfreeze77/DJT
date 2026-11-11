@@ -169,3 +169,21 @@ This supplies a direct government-leader discussion summary beyond the earlier r
 **CHORNOBYL-NOV9-S001–002:** [The separate source note](Tmanch_CH7_Nov9_Chornobyl_Source_Note.md) records the now-confirmed November 9 Paris conference, EBRD’s EUR 303 million pledge report and France’s EUR 278 million mobilisation report. These figures remain source-specific and unreconciled. The [noncash pledge observation](Tmanch_CH7_Nov9_Chornobyl_Pledge_Observation.json) prevents either figure from being booked as received or added to prior funding. This extends the fundraiser context already recorded under 079/080, not another call or duplicate aid event.
 
 Affirmative diplomatic engagement and intended nuclear-safety support are documented; practical protection and restoration remain conditional on agreement, funding and implementation. No new event ID, score, financial-flow total, private receipt or policy bargain. Full original source bodies and their text/metadata were inspected; no audio/video inspection. [Source provenance](Tmanch_CH7_Nov11_Source_Manifest.json).
+
+
+## November 11: participant-reported second-day opening
+
+**ABUDHABI-NOV11-S001:** [Umerov's original post 606](https://t.me/umerov_rustem/606), inspected in the [original channel context](https://t.me/s/umerov_rustem), reports the second negotiating day beginning, with US–Russia–Ukraine talks first and a separate European-partner meeting to follow. Displayed time **08:38** has no acquired date or timezone metadata. A [dated Interfax account](https://en.interfax.com.ua/news/general/1234562.html), displayed November 11 at 10:52 without an established timezone, supplies calendar context and repeats the same speaker; it is not independent confirmation of his statement.
+
+**ABUDHABI-NOV11-S002:** [AP's original November 11 report](https://apnews.com/article/russia-ukraine-war-talks-kushner-witkoff-7c8d1024302e0c6ad8be064eec852a64) describes a held second consecutive day and also quotes Umerov. Its JSON-LD publication/modification timestamps are **09:39:46 UTC**. A separate Open Graph modification field reads **2026-11-11T09:41:35.067** without a timezone; the difference is retained rather than resolved. These are article metadata, not an exact negotiating start time. The shared quotation is one participant-source family, not two independent confirmations.
+
+For **079 / CH7-BRUSSELS-RECOVERY-001** and **080 / CH7-NOV4-ENVOY-CALL-001**, this advances the earlier prospective resumption stage. It does not redefine the original Brussels sessions or November 4 envoy call, add another event, or establish completion of negotiations or the later European meeting. Earlier prospective-only resumption language remains dated acquisition history. The prior current statuses are preserved here:
+
+- **J20-2026-079:** Original Brussels talks and later Abu Dhabi opening verified; agreed guarantees and outcomes unverified
+- **J20-2026-080:** Original call, later Abu Dhabi opening and separate coordination officially documented; terms unresolved
+
+The separate European meeting remains a plan; the already documented November 10 coordination is not evidence that the November 11 follow-on meeting happened. No European-government/EU seats at the trilateral table, agreed territorial or security terms, prisoner-exchange agreement/count, actual releases, ceasefire, enforceable guarantee or delivered aid is established by this update. No prisoner-agreement background sentence from secondary reporting is promoted over the acquired prospective participant wording.
+
+Continued negotiation is affirmative diplomatic process, not measured protection or a Russian/private benefit. Existing written-enforcement requirements, missing original US and FIS adjournment records, EU-assistance gaps and Chornobyl reconciliation remain unresolved. No score, financial flow or total changes.
+
+The original Umerov channel text and post-link mapping are retained as serialized web-tool responses, not raw Telegram HTML; date context has the same derivative provenance. AP's original HTML is retained. No audio/video or private negotiation record was inspected. [Source provenance](Tmanch_CH7_Nov11_Second_Day_Source_Manifest.json).

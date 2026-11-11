@@ -1388,3 +1388,10 @@ The [afternoon source manifest](Tmanch_CH7_Nov10_Afternoon_Source_Manifest.json)
 - **100 / CH7-PREDICTION-OVERSIGHT-NOV9-001:** [Signed November 9 safeguards request](Tmanch_CH7_Nov9_Prediction_Oversight_Source_Note.md), published November 10, seeks White House answers by November 23. Process-only and unscored; underlying allegations and background amounts are not adopted.
 
 [Provenance](Tmanch_CH7_Nov11_Source_Manifest.json) preserves original acquisition hashes. Earlier snapshots and unresolved records remain; no new financial-flow totals or changes to existing scores.
+
+
+## November 11 second-day opening follow-up
+
+- **079/080 / ABUDHABI-NOV11-S001–002:** [Participant-reported resumption and dated AP reporting](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-11-participant-reported-second-day-opening) advance the opening chronology. The separate European follow-on remains prospective; no accepted terms, prisoner release or implementation finding.
+
+[Provenance and prior statuses](Tmanch_CH7_Nov11_Second_Day_Source_Manifest.json). Existing identities, scores, financial totals and earlier acquisition/correction history are preserved.
