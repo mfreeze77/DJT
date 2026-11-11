@@ -1395,3 +1395,10 @@ The [afternoon source manifest](Tmanch_CH7_Nov10_Afternoon_Source_Manifest.json)
 - **079/080 / ABUDHABI-NOV11-S001–002:** [Participant-reported resumption and dated AP reporting](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-11-participant-reported-second-day-opening) advance the opening chronology. The separate European follow-on remains prospective; no accepted terms, prisoner release or implementation finding.
 
 [Provenance and prior statuses](Tmanch_CH7_Nov11_Second_Day_Source_Manifest.json). Existing identities, scores, financial totals and earlier acquisition/correction history are preserved.
+
+
+## November 11 attributed humanitarian outcome follow-up
+
+- **079/080 / ABUDHABI-NOV11-S002 later snapshot and S003:** [Original AP/RFE reporting of an exchange in principle](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-11-later-reporting-exchange-in-principle-and-prospective-consultations) advances the prior opening-only stage. No finalized count, release or broader settlement established; Moscow/Dublin and the European follow-on remain prospective.
+
+[Later source snapshots and preserved prior statuses](Tmanch_CH7_Nov11_Outcome_Source_Manifest.json). The earlier AP snapshot remains unchanged, and no event, score or financial total is added.

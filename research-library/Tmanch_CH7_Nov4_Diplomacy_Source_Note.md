@@ -187,3 +187,25 @@ The separate European meeting remains a plan; the already documented November 10
 Continued negotiation is affirmative diplomatic process, not measured protection or a Russian/private benefit. Existing written-enforcement requirements, missing original US and FIS adjournment records, EU-assistance gaps and Chornobyl reconciliation remain unresolved. No score, financial flow or total changes.
 
 The original Umerov channel text and post-link mapping are retained as serialized web-tool responses, not raw Telegram HTML; date context has the same derivative provenance. AP's original HTML is retained. No audio/video or private negotiation record was inspected. [Source provenance](Tmanch_CH7_Nov11_Second_Day_Source_Manifest.json).
+
+
+## November 11 later reporting: exchange in principle and prospective consultations
+
+**ABUDHABI-NOV11-S002, later snapshot:** The updated [original AP article](https://apnews.com/article/russia-ukraine-war-talks-kushner-witkoff-7c8d1024302e0c6ad8be064eec852a64) reports that the two-day talks ended and that **Umerov and Medinsky confirmed a planned prisoner exchange**. It attributes to Kushner a statement that numbers remained for finalization the following day. This is attributed reporting of negotiating progress, not confirmation of a finalized count or actual release; the article's quoted superlative is not adopted as a verified comparison.
+
+**ABUDHABI-NOV11-S003:** [RFE/RL's original report](https://www.rferl.org/a/ukraine-russia-talks-resume-in-abu-dhabi-amid-drone-attacks/33895197.html) directly attributes to Medinsky an **agreement in principle**, with details to follow. The reports concern the same negotiations and overlapping remarks, not separate agreements or independent proof that performance occurred. No government-issued outcome statement, signed exchange instrument or complete original press transcript/video was acquired. Umerov's already acquired post 606 remains an opening statement, not the source of an outcome announcement.
+
+The same reporting attributes to Kushner an intended **November 12 Moscow meeting with Putin**, followed by travel to **Dublin to meet/brief Zelenskyy**. Moscow is future and Dublin is sequenced after it, without a separately established Dublin date. Neither meeting, travel completion nor the planned November 11 European follow-on is confirmed held by these acquired versions. Broader contacts are process, not accepted territorial terms or a peace settlement.
+
+For existing **079 / CH7-BRUSSELS-RECOVERY-001** and **080 / CH7-NOV4-ENVOY-CALL-001**, this is a later attributed outcome stage, not another event or envoy call. A reported in-principle humanitarian arrangement is affirmative progress beyond simply opening negotiations; benefit to prisoners remains prospective until terms and releases are established. No prisoner count, actual release, ceasefire, agreed security guarantee, completed wider settlement, measured Russian/private gain or policy bargain is inferred. All financial totals and scores remain unchanged.
+
+Earlier no-outcome and opening-only descriptions remain dated acquisition history, not a denial of this later report. The prior current statuses are preserved:
+
+- **J20-2026-079:** Original Brussels talks retained; Abu Dhabi day-two opening participant-reported; outcomes unresolved
+- **J20-2026-080:** Original call retained; Abu Dhabi day-two opening participant-reported; outcomes unresolved
+
+Existing US-side and FIS adjournment originals, written enforcement requirements, EU-assistance gaps and Chornobyl donor/receipt reconciliation remain outstanding. The ending of these sessions does not establish completion of the broader diplomatic process.
+
+AP's later snapshot keeps JSON-LD publication **09:39:46 UTC**, with modification **11:56:05 UTC**. Its Open Graph modification field is **2026-11-11T11:56:36.106**, timezone unstated. RFE/RL JSON-LD gives publication **10:52:23 UTC** and modification **11:55:24 UTC**; displayed article times are **11:52 CET** and updated **12:55 CET**. These are publication metadata, not exact times of agreement or release. The earlier AP opening snapshot and its different timestamps/hash remain intact in the [prior manifest](Tmanch_CH7_Nov11_Second_Day_Source_Manifest.json).
+
+Both new original HTML snapshots were retained and article text/metadata inspected; no audio/video inspection or original government outcome record is claimed. [Later-snapshot provenance](Tmanch_CH7_Nov11_Outcome_Source_Manifest.json).
