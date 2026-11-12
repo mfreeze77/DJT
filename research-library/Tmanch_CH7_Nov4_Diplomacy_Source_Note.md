@@ -314,3 +314,17 @@ This is original publisher reporting of a named speaker's remarks, **not an acqu
 The article's JSON-LD publication is **2026-11-11T10:44:02+00:00**, with modification **10:44:04+00:00**. These are article times, not an exact speech time or proof of a causal sequence with the separately reported US request. The existence of reported Russian possibilities does not resolve the earlier EU/US sequencing differences or establish a completed Moscow meeting. No new diplomatic event, concession, agreement, beneficiary score or financial total follows.
 
 Both additions preserve the original Brussels and November 4 call identities and all prior source/correction stages. All ledger findings, narrative rows, statuses, scores and financial files remain unchanged. Original Reuters-syndication HTML, agenda PDF and Agency HTML are retained; agenda pages 1 and 7 were visually inspected. Register evidence is a copied serialized web-tool response, not original website bytes or document bodies. Only its relevant official-register sections are used. No raw archive is published. [Source provenance](Tmanch_CH7_Nov12_Policy_Context_Source_Manifest.json).
+
+
+## November 12: reported Kremlin arrival, not a verified meeting outcome
+
+**MOSCOW-NOV12-S001:** [AP's original November 12 report](https://apnews.com/article/russia-ukraine-war-putin-kushner-witkoff-683810203340077f33611fd1d1757b23) says Steve Witkoff and Jared Kushner arrived at the Kremlin for talks with Vladimir Putin. This advances the earlier planned Moscow visit to **reported arrival**. The acquired snapshot does not establish when the meeting began, that it ended, or a new substantive outcome. Its later sentence beginning “After meeting with Putin” is syntactically ambiguous in an arrival-led report and is not used as completion evidence. The US envoys' subsequent Dublin consultation remains a plan.
+
+AP JSON-LD records publication at **2026-11-12T07:08:26Z** and modification at **11:05:13Z**. Open Graph separately records **11:06:06.107** without an acquired timezone. These are article metadata, not an exact arrival or meeting time. The original HTML was acquired at **11:21:18.914124 UTC**. Photographs and headlines are not used to upgrade the meeting stage; no original official meeting record was acquired for this append.
+
+For existing **079 / CH7-BRUSSELS-RECOVERY-001** and **080 / CH7-NOV4-ENVOY-CALL-001**, the same follow-up itinerary remains joined to the original Brussels and November 4 call records. Earlier planned-stage wording is retained as dated acquisition history, not silently rewritten. Exact previous current statuses are preserved:
+
+- **J20-2026-079:** Original Brussels talks retained; Umerov outcome and held G7 meeting documented; release and settlement unresolved
+- **J20-2026-080:** Original call retained; Umerov outcome and held G7 meeting documented; release and settlement unresolved
+
+Reported arrival is affirmative evidence of diplomatic travel, not a concession, accepted European negotiating role, settled security or territorial terms, final prisoner count/date, actual release, ceasefire or enforceable guarantee. The earlier Umerov exchange agreement and held G7 meeting remain documented; this update neither withdraws them nor adds implementation. Moscow/Dublin meeting completion, original US/FIS records, aid delivery, Chornobyl accounting and other substantive gaps remain open. No new event, claim, score, financial flow or measured benefit is assigned. [Source provenance](Tmanch_CH7_Nov12_Moscow_Arrival_Source_Manifest.json).

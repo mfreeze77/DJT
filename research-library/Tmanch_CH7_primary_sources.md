@@ -1461,3 +1461,10 @@ The [afternoon source manifest](Tmanch_CH7_Nov10_Afternoon_Source_Manifest.json)
 ## November 12 diesel-source follow-up
 
 - **040 / CH7-DIESEL-SHIP-001 / DIESEL-SHIP-S024:** [Attributed movement detail and acquisition limits](Tmanch_CH7_Oct23_Diesel_Shipment_Source_Note.md#november-12-acquisition-november-11-attributed-movement-report). Same cargo; no ledger/status or financial change. [Provenance](Tmanch_CH7_Nov12_Diesel_Movement_Source_Manifest.json).
+
+
+## November 12 Moscow-arrival follow-up
+
+- **079/080 / MOSCOW-NOV12-S001:** [AP-reported Kremlin arrival](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-12-reported-kremlin-arrival-not-a-verified-meeting-outcome), advancing travel chronology only. Meeting commencement/completion, subsequent Dublin consultation and new outcomes remain unverified.
+
+[Provenance and preserved prior statuses](Tmanch_CH7_Nov12_Moscow_Arrival_Source_Manifest.json). Original identities, earlier acquisition stages, scores and financial totals remain intact.
