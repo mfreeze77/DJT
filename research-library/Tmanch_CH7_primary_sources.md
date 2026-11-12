@@ -1448,3 +1448,11 @@ The [afternoon source manifest](Tmanch_CH7_Nov10_Afternoon_Source_Manifest.json)
 
 
 - **079/080 / ABUDHABI-NOV11-S002 later snapshot:** [Named Kushner account reported by AP](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-11-later-ap-snapshot-named-public-account-and-excerpt-limits) supports the narrower de-escalation request and European-inclusion goal, not Axios' separate anonymous consent/no-veto assurances. The acquired caption excerpt does not contain the security segment; no guarantee or completed meeting follows.
+
+
+## November 12 acquired preparatory policy context
+
+- **079/080 / EU-LISTINGS-NOV11-S001–003:** [Reported proposed listings and official preparation metadata](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#eu-listing-preparation-reported-agreement-and-scheduled-instruments), not final adoption, operative targets or measured effects.
+- **079/080 / DROBININ-NOV11-S001:** [Reported possible security instruments](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#drobinin-remarks-possible-instruments-not-an-acquired-proposal), not an exhaustive package, acquired formal proposal, US-request response or agreed guarantee.
+
+[Source provenance](Tmanch_CH7_Nov12_Policy_Context_Source_Manifest.json). Context only; no ledger, narrative, status, score or financial-total changes.
