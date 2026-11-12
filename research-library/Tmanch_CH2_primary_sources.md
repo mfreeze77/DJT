@@ -789,3 +789,27 @@ CH2-P16's earlier metadata and use are preserved above. The [November 11 source 
 **Source:** NY DOS All Filings, DOS 884703, film A978447-6; acquired November 12, 2026. https://data.ny.gov/resource/63wc-4exh.json?%24where=corpid_num%3D884703&%24limit=1000
 
 **Limits:** Official names and date fields only; foreign jurisdiction absent. No certificate image, ownership/transfer instrument or established Panama/Austrian-account match. [Details and provenance](research/early_petroleum_financing_2026/sources.md#ch2-p46--blue-bell-official-all-filings-metadata).
+
+## CH2-P47 — DOE Conlo: Consent-order notice
+
+**Source:** DOE, 46 FR 29304-29305. https://www.govinfo.gov/content/pkg/FR-1981-06-01/pdf/FR-1981-06-01.pdf
+
+**Limits:** [Bounded HEF-0053/RF236-1 note](research/early_petroleum_financing_2026/doe_refund_note_2026-11-12.md). Preserve no-admission/no-finding provision and printed discrepancies; distinguish commitment, agency remittance report, conditional allocation and award. No identity match, additive cash flow or bank-cleared receipt inferred.
+
+## CH2-P48 — DOE Conlo: Proposed refund procedures
+
+**Source:** DOE, 50 FR 24301-24303. https://www.govinfo.gov/content/pkg/FR-1985-06-10/pdf/FR-1985-06-10.pdf
+
+**Limits:** [Bounded HEF-0053/RF236-1 note](research/early_petroleum_financing_2026/doe_refund_note_2026-11-12.md). Preserve no-admission/no-finding provision and printed discrepancies; distinguish commitment, agency remittance report, conditional allocation and award. No identity match, additive cash flow or bank-cleared receipt inferred.
+
+## CH2-P49 — DOE Conlo: Final refund procedures
+
+**Source:** DOE, 50 FR 51916-51919. https://www.govinfo.gov/content/pkg/FR-1985-12-20/pdf/FR-1985-12-20.pdf
+
+**Limits:** [Bounded HEF-0053/RF236-1 note](research/early_petroleum_financing_2026/doe_refund_note_2026-11-12.md). Preserve no-admission/no-finding provision and printed discrepancies; distinguish commitment, agency remittance report, conditional allocation and award. No identity match, additive cash flow or bank-cleared receipt inferred.
+
+## CH2-P50 — DOE Conlo: Jimmy’s refund-award summary
+
+**Source:** DOE, 51 FR 24436. https://www.govinfo.gov/content/pkg/FR-1986-07-03/pdf/FR-1986-07-03.pdf
+
+**Limits:** [Bounded HEF-0053/RF236-1 note](research/early_petroleum_financing_2026/doe_refund_note_2026-11-12.md). Preserve no-admission/no-finding provision and printed discrepancies; distinguish commitment, agency remittance report, conditional allocation and award. No identity match, additive cash flow or bank-cleared receipt inferred.
