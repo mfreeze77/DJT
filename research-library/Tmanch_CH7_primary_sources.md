@@ -1475,3 +1475,10 @@ The [afternoon source manifest](Tmanch_CH7_Nov10_Afternoon_Source_Manifest.json)
 - **079/080 / MOSCOW-NOV12-S002; EPC-NOV12-S001:** [Official meeting-start report and Costa's stated principles](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-12-acquisition-official-meeting-start-and-costas-epc-principles). Start is distinct from completion; political positions are distinct from accepted terms or declaration adoption.
 
 [Provenance and preserved prior statuses](Tmanch_CH7_Nov12_Meeting_Opening_Source_Manifest.json). Earlier stages, original identities, scores and financial totals remain intact.
+
+
+## November 12 held Moscow and Dublin meetings, acquired through the November 13 readout
+
+- **079/080 / MOSCOW-NOV12-S001 later snapshot; MOSCOW-NOV12-S003; DUBLIN-NOV12-S001; DUBLIN-NOV12-S002:** [Held-meeting chronology and attributed future European role](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-12-meetings-moscow-completion-and-held-dublin-consultation). AP's dated account, the Kremlin's written post-meeting caption and Ukraine's original Dublin readout close the earlier completion/consultation gaps. Prospective participation, exchange and further meetings remain distinct from implementation or settlement.
+
+[Provenance and preserved prior statuses](Tmanch_CH7_Nov13_Held_Meetings_Source_Manifest.json). The Ukrainian page's displayed November 13 publication date is distinct from AP's November 12 meeting context. Original row identities, earlier stages, scores and financial totals remain intact.
