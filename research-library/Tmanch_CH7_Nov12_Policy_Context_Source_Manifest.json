@@ -1,0 +1,91 @@
+{
+  "review_date_utc": "2026-11-12",
+  "baseline_commit": "11c63abc735fbb4b9e376fc71380ee11035a7c1d",
+  "scope": "Source-note/index context under existing 079/080 only; no ledger or status promotion. Separate EU preparation and reported Russian possibilities are not one linked action.",
+  "sources": [
+    {
+      "source_id": "EU-LISTINGS-NOV11-S001",
+      "url": "https://www.aol.com/articles/eu-envoys-agree-russia-sanctions-142850000.html",
+      "http_status": 200,
+      "acquired_utc": "2026-11-12T00:23:45.684694+00:00",
+      "artifact": "eu-reuters-aol.html",
+      "artifact_type": "Original AOL-served Reuters syndication HTML, not Reuters-domain HTML",
+      "bytes": 616888,
+      "sha256": "d3bdf48051d5ef74b248583eb60eb472dcd490de8484ccfda9364a9c2f633027",
+      "source_class": "Reuters reporting attributed to EU diplomats",
+      "displayed_publication": "2026-11-11 14:28 UTC",
+      "reported_proposed_counts": {
+        "territorial_integrity": 113,
+        "hybrid_activities": 31,
+        "cyber": 1,
+        "total": 145
+      },
+      "expected_ministerial_date": "2026-11-16",
+      "date_resolution": "The following Monday in the November 11 report",
+      "enacted_count": null,
+      "limits": "No final act acquired; proposed names/grounds not independently verified; no operative effect or measured blocking/revenue change established."
+    },
+    {
+      "source_id": "EU-LISTINGS-NOV11-S002",
+      "url": "https://data.consilium.europa.eu/doc/document/ST-15277-2026-REV-1/en/pdf",
+      "http_status": 200,
+      "acquired_utc": "2026-11-12T00:23:36.580772+00:00",
+      "artifact": "eu-coreper-agenda.pdf",
+      "artifact_type": "Original official PDF",
+      "bytes": 325992,
+      "sha256": "a212ed14adf18605dd58015180bc0c9eddafd22bfce7ee334e624562ce0051e7",
+      "source_class": "Official provisional agenda, not meeting outcome",
+      "agenda_date": "2026-11-10",
+      "meeting_date": "2026-11-11",
+      "document_identifier": "ST 15277/1/26 REV 1",
+      "relevant_items": [
+        53,
+        54,
+        58
+      ],
+      "inspection": "Text inspected; pages 1 and 7 visually checked",
+      "limits": "Scheduled adoption items support preparation, not completed adoption or reported count/targets."
+    },
+    {
+      "source_id": "EU-LISTINGS-NOV11-S003",
+      "urls": [
+        "https://www.consilium.europa.eu/en/documents/public-register/public-register-search/?AllLanguagesSearch=false&DocumentLanguage=EN&DocumentNumber=14459%2F26&OnlyPublicDocuments=false",
+        "https://www.consilium.europa.eu/en/documents/public-register/public-register-search/?AllLanguagesSearch=false&DocumentLanguage=EN&DocumentNumber=14462%2F26&OnlyPublicDocuments=false",
+        "https://www.consilium.europa.eu/en/documents/public-register/public-register-search/?AllLanguagesSearch=false&DocumentLanguage=EN&DocumentNumber=14463%2F26&OnlyPublicDocuments=false"
+      ],
+      "source_class": "Official public register metadata only",
+      "inspection_date": "2026-11-12",
+      "exact_acquisition_time": null,
+      "artifact": "eu-register-web-response.json",
+      "artifact_type": "Copied serialized web-tool response; derivative, not original site bytes. Only official-register metadata sections used; failed unrelated fetches excluded.",
+      "bytes": 20033,
+      "sha256": "45ed6ccb04deb747e4d60c657c74daae211f365b94eadf403013d96033fc74ee",
+      "limits": "Document bodies explicitly inaccessible and unacquired; no access request; metadata not final legal evidence."
+    },
+    {
+      "source_id": "DROBININ-NOV11-S001",
+      "url": "https://www.agents.media/moskva-predlozhila-stranam-nato-zaklyuchat-pakty-o-nenapadenii/",
+      "source_class": "Original Agency journalism attributing remarks to a named Russian official, not an official speech record",
+      "http_status": 200,
+      "acquired_utc": "2026-11-12T00:22:51.717506+00:00",
+      "json_ld_publication": "2026-11-11T10:44:02+00:00",
+      "json_ld_modification": "2026-11-11T10:44:04+00:00",
+      "artifact": "agents_drobinin_nov11.html",
+      "artifact_type": "Original publisher HTML",
+      "bytes": 99167,
+      "sha256": "761bb12a7cf279c7ddb9602d7d2cd399a7abdabe2f9f48714497720b48ec1675",
+      "inspection": "Relevant written article inspected; embedded audiovisual record not inspected",
+      "limits": "Possibilities with additional examples, not exhaustive package, formal submitted proposal, US-request response, acceptance or guarantee implementation."
+    }
+  ],
+  "joins": [
+    "J20-2026-079",
+    "J20-2026-080",
+    "CH7-BRUSSELS-RECOVERY-001",
+    "CH7-NOV4-ENVOY-CALL-001"
+  ],
+  "no_raw_archive_published": true,
+  "no_ledger_or_status_change": true,
+  "no_new_event_or_claim": true,
+  "no_score_or_financial_flow_change": true
+}

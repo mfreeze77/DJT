@@ -64,3 +64,27 @@ CH2-P27 supplies the distinct 1982–83 SMI chronology and attributed testimony.
 - Entity labels containing “DTA810457” deliberately remain distinct from DOS-numbered candidates.
 - Reported orders and calculated credits remain typed separately from payment documents.
 - No aggregate amount or network-ownership conclusion is calculated.
+
+## CH2-P45 — Conlo corporate petitioners
+
+NY Tax Appeals Tribunal, May 11, 1995, DTA 801597. [Original PDF](https://www.dta.ny.gov/pdf/archive/decisions/801597.dec.pdf). Printed p.3 names two corporate petitioners and the officers collectively; pp.1–2,8–9 bound the tax period and default-vacatur posture. Original PDF retained; page 3 visually inspected. No allocation of precise officer titles/ownership or verified corporate join to Macchia's Conlo, Inc. See the [identity note](identity_note_2026-11-12.md) and [sanitized provenance](identity_source_manifest_2026-11-12.json).
+
+## CH2-P46 — Blue Bell official All Filings metadata
+
+NY Department of State, [All Filings query for DOS 884703](https://data.ny.gov/resource/63wc-4exh.json?%24where=corpid_num%3D884703&%24limit=1000), acquired November 12, 2026. One original response row records Blue Bell, Major Energy fictitious name, May 10, 1983 authority filing, film A978447-6 and foreign-incorporation date August 26, 1980. Foreign jurisdiction absent. No certificate image, ownership/transfer instrument or match to a Panama candidate or Austrian account acquired. See the [identity note](identity_note_2026-11-12.md) and [sanitized provenance](identity_source_manifest_2026-11-12.json). This source upgrades filing metadata only; it is not a new financial event.
+
+## CH2-P47 — Consent-order notice
+
+DOE, 46 FR 29304-29305. [Official issue PDF](https://www.govinfo.gov/content/pkg/FR-1981-06-01/pdf/FR-1981-06-01.pdf). Original SHA-256: `47d8f813a11c1751b53c302ef06ab59d0279885893b3f613086cf1bd45fc4a9d`. See the [bounded proceeding note](doe_refund_note_2026-11-12.md) and [manifest](doe_source_manifest_2026-11-12.json) for dates, page locators and limits. Stages overlap; no cross-source corporate identity or bank-cleared payment is established.
+
+## CH2-P48 — Proposed refund procedures
+
+DOE, 50 FR 24301-24303. [Official issue PDF](https://www.govinfo.gov/content/pkg/FR-1985-06-10/pdf/FR-1985-06-10.pdf). Original SHA-256: `60d3ea073f859930a42aa0e8ee766a6c2d06618b2732d22083c1dae32b0a73cc`. See the [bounded proceeding note](doe_refund_note_2026-11-12.md) and [manifest](doe_source_manifest_2026-11-12.json) for dates, page locators and limits. Stages overlap; no cross-source corporate identity or bank-cleared payment is established.
+
+## CH2-P49 — Final refund procedures
+
+DOE, 50 FR 51916-51919. [Official issue PDF](https://www.govinfo.gov/content/pkg/FR-1985-12-20/pdf/FR-1985-12-20.pdf). Original SHA-256: `cfaa710c5bcfd1505472a41754d6512d8ccc47ea2be7aa27dcce913ab395184f`. See the [bounded proceeding note](doe_refund_note_2026-11-12.md) and [manifest](doe_source_manifest_2026-11-12.json) for dates, page locators and limits. Stages overlap; no cross-source corporate identity or bank-cleared payment is established.
+
+## CH2-P50 — Jimmy’s refund-award summary
+
+DOE, 51 FR 24436. [Official issue PDF](https://www.govinfo.gov/content/pkg/FR-1986-07-03/pdf/FR-1986-07-03.pdf). Original SHA-256: `6d4f74e92341a05088622e9dd8a2a3737a724f6c025ad37ea2a0bd0790ca2164`. See the [bounded proceeding note](doe_refund_note_2026-11-12.md) and [manifest](doe_source_manifest_2026-11-12.json) for dates, page locators and limits. Stages overlap; no cross-source corporate identity or bank-cleared payment is established.

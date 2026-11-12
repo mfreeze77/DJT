@@ -1,0 +1,78 @@
+{
+  "review_date_utc": "2026-11-11",
+  "baseline_commit": "5e085c52d5d6b7997f01df8409f7588c1b0c04cc",
+  "scope": "Later attributed outcome stage of existing 079/080 only; no new event, call, claim, score or financial flow.",
+  "prior_current_statuses": {
+    "J20-2026-079": "Original Brussels talks retained; Abu Dhabi day-two opening participant-reported; outcomes unresolved",
+    "J20-2026-080": "Original call retained; Abu Dhabi day-two opening participant-reported; outcomes unresolved",
+    "CH7-BRUSSELS-RECOVERY-001": "Original Brussels talks retained; Abu Dhabi day-two opening participant-reported; outcomes unresolved",
+    "CH7-NOV4-ENVOY-CALL-001": "Original call retained; Abu Dhabi day-two opening participant-reported; outcomes unresolved"
+  },
+  "sources": [
+    {
+      "source_ids": [
+        "ABUDHABI-NOV11-S002"
+      ],
+      "url": "https://apnews.com/article/russia-ukraine-war-talks-kushner-witkoff-7c8d1024302e0c6ad8be064eec852a64",
+      "retrieved_at_utc": "2026-11-11T12:23:12.261597+00:00",
+      "source_class": "Original news reporting with explicit negotiator attribution; no government-issued outcome record acquired",
+      "artifacts": [
+        {
+          "artifact": "ap_nov11_outcome_original.html",
+          "artifact_type": "Original HTML response bytes; retained locally, not uploaded",
+          "bytes": 863963,
+          "sha256": "e93c1f261ade52ae91639049c54b95811a10670a82ea9090c27fbdc43a692bca"
+        }
+      ],
+      "inspection": "Article text and publication/modification metadata inspected. No media or private negotiating instrument reviewed.",
+      "publication_timestamp": "2026-11-11T09:39:46Z",
+      "modified_timestamp": "2026-11-11T11:56:05Z",
+      "timestamp_schema": "JSON-LD",
+      "open_graph_modified_time": "2026-11-11T11:56:36.106",
+      "open_graph_modified_timezone": null,
+      "prior_snapshot": {
+        "manifest": "Tmanch_CH7_Nov11_Second_Day_Source_Manifest.json",
+        "sha256": "df5a91edeb3b47fd0696dd75a15d1f3820d6aa932d75686f50470ac7899ccb55",
+        "json_ld_modified_timestamp": "2026-11-11T09:39:46Z",
+        "retained_unchanged": true
+      },
+      "limits": "Reported exchange confirmation; numbers prospective. Same article, later acquisition stage, not a new independent source family."
+    },
+    {
+      "source_ids": [
+        "ABUDHABI-NOV11-S003"
+      ],
+      "url": "https://www.rferl.org/a/ukraine-russia-talks-resume-in-abu-dhabi-amid-drone-attacks/33895197.html",
+      "retrieved_at_utc": "2026-11-11T12:23:13.603555+00:00",
+      "source_class": "Original news reporting with explicit negotiator attribution; no government-issued outcome record acquired",
+      "artifacts": [
+        {
+          "artifact": "rfe_nov11_outcome_original.html",
+          "artifact_type": "Original HTML response bytes; retained locally, not uploaded",
+          "bytes": 96158,
+          "sha256": "3cb0ae9758894a3f38f3d7dcde09aed8b0940f596469da5e3e390a90db100581"
+        }
+      ],
+      "inspection": "Article text and publication/modification metadata inspected. No media or private negotiating instrument reviewed.",
+      "publication_timestamp": "2026-11-11T10:52:23Z",
+      "modified_timestamp": "2026-11-11T11:55:24Z",
+      "timestamp_schema": "JSON-LD",
+      "displayed_publication_time": "2026-11-11 11:52 CET",
+      "displayed_updated_time": "2026-11-11 12:55 CET",
+      "limits": "Attributed agreement in principle; details forthcoming. Overlapping negotiator remarks are not separate agreements or verified performance."
+    }
+  ],
+  "joins": [
+    "J20-2026-079",
+    "J20-2026-080",
+    "CH7-BRUSSELS-RECOVERY-001",
+    "CH7-NOV4-ENVOY-CALL-001"
+  ],
+  "no_raw_archive_published": true,
+  "no_financial_or_score_changes": true,
+  "limits": [
+    "No acquired government-issued outcome original, finalized count, exchange instrument or actual release.",
+    "No completed Moscow/Dublin or follow-on European meeting, wider settlement, guarantee or ceasefire inferred.",
+    "Earlier AP opening snapshot and all preceding correction/history files preserved."
+  ]
+}

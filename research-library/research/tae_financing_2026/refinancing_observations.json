@@ -1,6 +1,6 @@
 {
   "scope": "Separate prospective noncash refinancing observations; not monetary transactions or realized debt flows",
-  "review_date": "2026-11-03",
+  "review_date": "2026-11-10",
   "observations": [
     {
       "observation_id": "TAE-REF01",
@@ -10,12 +10,14 @@
       "sources": [
         "TAE-S40",
         "TAE-S39",
-        "TAE-S21"
+        "TAE-S21",
+        "TMTG-Q3-S006",
+        "TMTG-Q3-S005"
       ],
       "locators": [
         "S40 printed p.38/#risk",
         "S39 printed p.38/#risk",
-        "S21 section4.3(a), printed pp.42\u201343"
+        "S21 section4.3(a), printed pp.42–43"
       ],
       "existing_optional_repurchase_principal_usd_approx": 1000000000,
       "holder_exercise_date": "2026-11-30",
@@ -33,7 +35,64 @@
         "CH7-TAE-DRAW-001",
         "TAE-T20"
       ],
-      "limits": "Existing optional debt repurchase, not a new obligation or unconditional November 30 payment. No new advance, board appointment, source-country attribution or personal receipt."
+      "limits": "Existing optional debt repurchase, not a new obligation or unconditional November 30 payment. No new advance, board appointment, source-country attribution or personal receipt.",
+      "prior_snapshots": [
+        {
+          "snapshot_as_of": "2026-11-03",
+          "baseline_commit": "62ee90d86c4b732c9957e6c36506bba60e194ec0",
+          "observation": {
+            "observation_id": "TAE-REF01",
+            "type": "prospective_refinancing_risk_disclosure",
+            "disclosure_date": "2026-11-02",
+            "issuer": "Trump Media & Technology Group Corp.",
+            "sources": [
+              "TAE-S40",
+              "TAE-S39",
+              "TAE-S21"
+            ],
+            "locators": [
+              "S40 printed p.38/#risk",
+              "S39 printed p.38/#risk",
+              "S21 section4.3(a), printed pp.42–43"
+            ],
+            "existing_optional_repurchase_principal_usd_approx": 1000000000,
+            "holder_exercise_date": "2026-11-30",
+            "consummation_limit": "Company notice specifies no more than ten business days after November 30; no actual notice/election/settlement acquired",
+            "increment": "Possible credit facility; covenants, collateral and higher rates; explicit digital-asset sale fallback; issuer equity-efficiency judgment",
+            "actual_new_loan_usd": null,
+            "actual_asset_sale_usd": null,
+            "new_lender_identity": null,
+            "payment_established": false,
+            "national_benefit": "uncertain",
+            "historical_receipt_total_eligible": false,
+            "tae_funding_trace_established": false,
+            "joins": [
+              "J20-2026-065",
+              "CH7-TAE-DRAW-001",
+              "TAE-T20"
+            ],
+            "limits": "Existing optional debt repurchase, not a new obligation or unconditional November 30 payment. No new advance, board appointment, source-country attribution or personal receipt."
+          }
+        }
+      ],
+      "follow_up_observations": [
+        {
+          "review_date": "2026-11-10",
+          "call_date": "2026-11-09",
+          "source_ids": [
+            "TMTG-Q3-S006",
+            "TMTG-Q3-S005"
+          ],
+          "observation": "Issuer reports holder notice sent and election process ongoing. Management currently favors cash plus credit, is not inclined to issue additional equity and wants to preserve as much Bitcoin as possible. Final amount and execution remain unresolved.",
+          "notice_status": "Issuer-reported sent; actual notice document not acquired",
+          "holder_elections": "Ongoing as of call; final tally unacquired",
+          "limits": "No executed facility, new lender, repayment, asset sale, collateral release or personal receipt established. November 30 shorthand does not supersede executed indenture election/consummation mechanics. All null/false cash-flow fields remain unchanged.",
+          "joins": [
+            "CH7-TMTG-Q3-001",
+            "TAE-REF01"
+          ]
+        }
+      ]
     }
   ],
   "no_cash_flow_total": true

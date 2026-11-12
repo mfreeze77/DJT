@@ -70,3 +70,11 @@ The street address does not identify a historical legal parcel. Later facility i
 5. Individual restitution judgments and collection/distribution records, with offsets against other orders.
 
 These targeted records could close substantive gaps; more name-only litigation matches cannot substitute for them.
+
+## November 12, 2026 identity-only supplement
+
+[Conlo and Blue Bell identity controls](identity_note_2026-11-12.md) and [typed observations](identity_observations.csv) preserve two unresolved cross-source matches. No amount or transaction is counted; the existing transaction and relationship rows remain unchanged.
+
+## Bounded DOE proceeding companion (November 12, 2026)
+
+[DOE refund note](doe_refund_note_2026-11-12.md), [non-additive stage observations](doe_refund_observations.csv) and [sanitized original-source provenance](doe_source_manifest_2026-11-12.json) distinguish stages of HEF-0053/RF236-1. They do not identify the DOE firm with DTA/Macchia corporations or add financial-flow totals. Printed discrepancies are retained.

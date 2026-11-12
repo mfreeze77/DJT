@@ -1,0 +1,140 @@
+{
+  "review_date_utc": "2026-11-10",
+  "baseline_commit": "5998dc6d652c0661e276914b27a4ba7d654f1662",
+  "scope": "Extend existing diplomacy chronology and add one unscored distinct Canadian allied Iran sanctions action. No new financial companion, score, monetary total or underlying-conduct allegation.",
+  "sources": [
+    {
+      "source_ids": [
+        "ABUDHABI-NOV10-S003"
+      ],
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/10/statement-on-today-s-meeting-in-abu-dhabi-between-the-eu-france-germany-italy-united-kingdom-ukraine-united-states-and-nato/",
+      "inspection_date_utc": "2026-11-10",
+      "original_fetch_time": "not retained",
+      "excerpt_retention_interval_utc": "2026-11-10 14:12–14:16 UTC",
+      "displayed_publication_or_date": "2026-11-10 10:22; timezone unstated",
+      "source_class": "Original government page inspected through web-rendered text; retained derivative excerpt, not original HTML",
+      "artifacts": [
+        {
+          "artifact": "eu_joint_statement_rendered_excerpt.txt",
+          "artifact_type": "manually transcribed selected excerpt of successful web-tool rendered response; not original HTML; retained locally, not uploaded; hash identifies excerpt only",
+          "bytes": 2578,
+          "sha256": "54e9d9d0dfc6063cc1e813309aff174cfebca4a5d6b82c34c79f72d575bfcecf"
+        }
+      ],
+      "joins": [
+        "J20-2026-079",
+        "CH7-BRUSSELS-RECOVERY-001",
+        "J20-2026-080",
+        "CH7-NOV4-ENVOY-CALL-001"
+      ],
+      "inspection": "Official joint statement inspected through web-rendered text; selected lines 31–32 and 35–36 retained with title/date and transcription limits.",
+      "limits": "Held coordination and public principles; no complete individual roster, Russian acceptance, enforceable guarantee or completed broader format."
+    },
+    {
+      "source_ids": [
+        "CAN-IRAN-NOV10-S001"
+      ],
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/11/minister-anand-announces-reimposition-of-sanctions-against-iranian-entities.html",
+      "inspection_date_utc": "2026-11-10",
+      "original_fetch_time": "not retained",
+      "excerpt_retention_interval_utc": "2026-11-10 14:12–14:16 UTC",
+      "displayed_publication_or_date": "2026-11-10 announcement",
+      "source_class": "Original government page inspected through web-rendered text; retained derivative excerpt, not original HTML",
+      "artifacts": [
+        {
+          "artifact": "canada_iran_announcement_rendered_excerpt.txt",
+          "artifact_type": "manually transcribed selected excerpt of successful web-tool rendered response; not original HTML; retained locally, not uploaded; hash identifies excerpt only",
+          "bytes": 1910,
+          "sha256": "5bf67c4a34675d9987c9eab6c6dd9007b5ecc4f61aa747eb5e750da38f9773b9"
+        }
+      ],
+      "joins": [
+        "J20-2026-099",
+        "CH7-CAN-IRAN-NOV5-001"
+      ],
+      "inspection": "Original official announcement inspected through web-rendered text; date and selected substantive excerpts retained. Supplemental backgrounder summary is labeled as such.",
+      "limits": "Announcement date is not legal start; government conduct allegations not independently verified or adopted."
+    },
+    {
+      "source_ids": [
+        "CAN-IRAN-NOV10-S002"
+      ],
+      "url": "https://www.international.gc.ca/world-monde/international_relations-relations_internationales/sanctions/iran_regulations-reglements12.aspx?lang=eng",
+      "inspection_date_utc": "2026-11-10",
+      "original_fetch_time": "not retained",
+      "excerpt_retention_interval_utc": "2026-11-10 14:12–14:16 UTC",
+      "displayed_publication_or_date": "Page modified 2026-11-06; not assigned as registration/effectiveness",
+      "source_class": "Original government page inspected through web-rendered text; retained derivative excerpt, not original HTML",
+      "artifacts": [
+        {
+          "artifact": "canada_iran_amendment_rendered_excerpt.txt",
+          "artifact_type": "manually transcribed selected excerpt of successful web-tool rendered response; not original HTML; retained locally, not uploaded; hash identifies excerpt only",
+          "bytes": 1952,
+          "sha256": "fdb08f5a0a0e01f3560514927423e2cba1184fb753f73e675a4a399379893b21"
+        }
+      ],
+      "joins": [
+        "J20-2026-099",
+        "CH7-CAN-IRAN-NOV5-001"
+      ],
+      "inspection": "Original amendment inspected through web-rendered text; full eleven-entry addition and operative application/commencement clauses retained in selected transcript. Whitespace and footnote formatting normalization disclosed.",
+      "limits": "SOR number and November 5 legal start supplied by separate official chronology; registration/Gazette artifact not acquired. Not full consolidation or proof of practical effects."
+    },
+    {
+      "source_ids": [
+        "CAN-IRAN-NOV10-S003"
+      ],
+      "url": "https://www.international.gc.ca/world-monde/international_relations-relations_internationales/sanctions/iran-regulations-reglementations.aspx?lang=eng",
+      "inspection_date_utc": "2026-11-10",
+      "original_fetch_time": "not retained",
+      "excerpt_retention_interval_utc": "2026-11-10 14:12–14:16 UTC",
+      "displayed_publication_or_date": "November 5 entry into force; page modified November 10",
+      "source_class": "Original government page inspected through web-rendered text; retained derivative excerpt, not original HTML",
+      "artifacts": [
+        {
+          "artifact": "canada_iran_chronology_rendered_excerpt.txt",
+          "artifact_type": "manually transcribed selected excerpt of successful web-tool rendered response; not original HTML; retained locally, not uploaded; hash identifies excerpt only",
+          "bytes": 1354,
+          "sha256": "34e845e9997a54530167b12ec798dfa9084cd057c6ab2ebbfef6a26a94963911"
+        }
+      ],
+      "joins": [
+        "J20-2026-099",
+        "CH7-CAN-IRAN-NOV5-001"
+      ],
+      "inspection": "Original GAC chronology inspected through web-rendered text; relevant date/SOR entry and amendment link retained. Original punctuation defect disclosed.",
+      "limits": "Official chronology establishes stated entry-in-force date; no separately acquired registered or gazetted copy."
+    },
+    {
+      "source_ids": [
+        "CAN-IRAN-NOV10-S004"
+      ],
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/11/canada-reimposes-sanctions-against-11-iranian-entities.html",
+      "inspection_date_utc": "2026-11-10",
+      "original_fetch_time": "not retained",
+      "excerpt_retention_interval_utc": "2026-11-10 14:12–14:16 UTC",
+      "displayed_publication_or_date": "2026-11-10 page date",
+      "source_class": "Original government page inspected through web-rendered text; retained derivative excerpt, not original HTML",
+      "artifacts": [
+        {
+          "artifact": "canada_iran_backgrounder_rendered_excerpt.txt",
+          "artifact_type": "manually transcribed selected excerpt of successful web-tool rendered response; not original HTML; retained locally, not uploaded; hash identifies excerpt only",
+          "bytes": 1957,
+          "sha256": "9be7202842097e7f5b6228fdca7a6bde87e1f62601b44496a2f6f78d04086041"
+        }
+      ],
+      "joins": [
+        "J20-2026-099",
+        "CH7-CAN-IRAN-NOV5-001"
+      ],
+      "inspection": "Original backgrounder inspected through web-rendered text; selected relisting statement, eleven names and specified-transactions scope retained.",
+      "limits": "Government description of intended effect and scope; no complete base-regulation/exemption inspection or independently measured interruption. Same Canadian source family."
+    }
+  ],
+  "boundaries": [
+    "Canadian announcement, entry-into-force date, legal-list status and actual implementation are separate evidence stages.",
+    "EU coordination statement does not establish accepted settlement terms, expanded trilateral-party status or outcomes.",
+    "Earlier source notes, corrections, unresolved requirements and unrelated rows preserved.",
+    "Retained artifacts are manually transcribed selected web-rendered excerpts, not raw HTML or complete tool responses; hashes identify those excerpts only. No raw archive is published."
+  ]
+}

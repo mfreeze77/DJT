@@ -1,0 +1,45 @@
+{
+  "review_date_utc": "2026-11-12",
+  "baseline_commit": "f859b553d7363d253db6bf28bd49628264cbe87b",
+  "scope": "Existing 079/080 chronology and status update from planned Moscow travel to AP-reported Kremlin arrival only; no new event, claim, score or financial flow.",
+  "prior_current_statuses": {
+    "J20-2026-079": "Original Brussels talks retained; Umerov outcome and held G7 meeting documented; release and settlement unresolved",
+    "J20-2026-080": "Original call retained; Umerov outcome and held G7 meeting documented; release and settlement unresolved",
+    "CH7-BRUSSELS-RECOVERY-001": "Original Brussels talks retained; Umerov outcome and held G7 meeting documented; release and settlement unresolved",
+    "CH7-NOV4-ENVOY-CALL-001": "Original call retained; Umerov outcome and held G7 meeting documented; release and settlement unresolved"
+  },
+  "sources": [
+    {
+      "source_ids": [
+        "MOSCOW-NOV12-S001"
+      ],
+      "url": "https://apnews.com/article/russia-ukraine-war-putin-kushner-witkoff-683810203340077f33611fd1d1757b23",
+      "source_class": "Original AP journalism, not a government meeting record",
+      "http_status": 200,
+      "retrieved_at_utc": "2026-11-12T11:21:18.914124+00:00",
+      "publication_timestamp": "2026-11-12T07:08:26Z",
+      "modified_timestamp": "2026-11-12T11:05:13Z",
+      "timestamp_schema": "JSON-LD",
+      "open_graph_modified_time": "2026-11-12T11:06:06.107",
+      "open_graph_modified_timezone": null,
+      "artifacts": [
+        {
+          "artifact": "ap_moscow_arrival_original.html",
+          "artifact_type": "Original publisher HTML response bytes; retained locally, not published",
+          "bytes": 936473,
+          "sha256": "9d1bf178f87f8bdb7c8106703530c421db1802999f6b584bb367def36317cba3"
+        }
+      ],
+      "inspection": "Article text and metadata inspected. Images/headlines are not used as proof of meeting commencement/completion.",
+      "limits": "Arrival-only finding. Ambiguous later sentence is not completion proof. No original official meeting record or new outcome acquired; article timestamps are not event times."
+    }
+  ],
+  "joins": [
+    "J20-2026-079",
+    "J20-2026-080",
+    "CH7-BRUSSELS-RECOVERY-001",
+    "CH7-NOV4-ENVOY-CALL-001"
+  ],
+  "no_raw_archive_published": true,
+  "no_financial_or_score_changes": true
+}

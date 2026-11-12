@@ -1,0 +1,54 @@
+{
+  "observation_id": "CHORN-2026-11-09-PLEDGE01",
+  "type": "reported_non_cash_pledge_observation",
+  "event_date": "2026-11-09",
+  "review_date_utc": "2026-11-10",
+  "fund": "International Chornobyl Cooperation Account (ICCA)",
+  "fund_manager": "European Bank for Reconstruction and Development",
+  "event": "Paris donor pledging conference",
+  "joins": [
+    "J20-2026-079",
+    "CH7-BRUSSELS-RECOVERY-001",
+    "J20-2026-080",
+    "CH7-NOV4-ENVOY-CALL-001"
+  ],
+  "source_reports": [
+    {
+      "source_id": "CHORNOBYL-NOV9-S001",
+      "amount": 303000000,
+      "currency": "EUR",
+      "measure": "pledged contributions reported by EBRD",
+      "pledging_countries_organisations": 14,
+      "participating_countries_organisations": 34,
+      "publication_date": null,
+      "acquired_date_utc": "2026-11-10",
+      "modified_timestamp": "2026-11-10T10:59:57Z"
+    },
+    {
+      "source_id": "CHORNOBYL-NOV9-S002",
+      "amount": 278000000,
+      "currency": "EUR",
+      "measure": "mobilisation reported by French ministry",
+      "publication_date": "2026-11-10"
+    }
+  ],
+  "reconciliation": {
+    "status": "unresolved_source_amount_difference",
+    "reconciled_amount": null,
+    "net_new_amount": null,
+    "donor_level_schedule_acquired": false
+  },
+  "actual_cash_received_eur": null,
+  "actual_disbursement_eur": null,
+  "historical_financial_flow_total_eligible": false,
+  "add_to_prior_aid_or_commitments": false,
+  "restoration": {
+    "main_work_start": "early 2028 planned",
+    "completion": "end-2030 target",
+    "final_cost": null,
+    "completed": false
+  },
+  "limits": "Reported commitments, not verified receipts or demonstrated results. Existing preparatory work is not a measured effect of these pledges. No personal presidential direction, recovered Russian assets, private receipt or policy bargain established.",
+  "sources_note": "Tmanch_CH7_Nov9_Chornobyl_Source_Note.md",
+  "source_manifest": "Tmanch_CH7_Nov11_Source_Manifest.json"
+}

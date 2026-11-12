@@ -1,0 +1,61 @@
+{
+  "review_date_utc": "2026-11-11",
+  "baseline_commit": "4abc1b68a5ae9c22770c41c02b94f48753ebce48",
+  "scope": "Later source chronology for existing 079/080 only; source identities, statuses, prior snapshots and all monetary fields preserved.",
+  "sources": [
+    {
+      "source_id": "ABUDHABI-NOV11-S002",
+      "source_family": "Same AP article, later snapshot; not a new independent source",
+      "url": "https://apnews.com/article/russia-ukraine-war-talks-kushner-witkoff-7c8d1024302e0c6ad8be064eec852a64",
+      "acquired_utc": "2026-11-11T15:28:57.726155+00:00",
+      "http_status": 200,
+      "json_ld_publication": "2026-11-11T09:39:46Z",
+      "json_ld_modification": "2026-11-11T14:16:16Z",
+      "open_graph_modification": "2026-11-11T14:20:26.249",
+      "open_graph_timezone": null,
+      "artifacts": [
+        {
+          "artifact": "ap_nov11_zorin_followup.html",
+          "artifact_type": "Original AP HTML",
+          "bytes": 932582,
+          "sha256": "4b8decb0d71d5148637e972267b6d2b89a8719b8f3c6f2f9b50e1ce1759d66e5"
+        }
+      ],
+      "limits": "Zorin forecast attributed by AP; original television statement unacquired. No finalized exchange count/date or release."
+    },
+    {
+      "source_id": "ABUDHABI-NOV11-S005",
+      "source_family": "Original Ukrainian president written participant debrief",
+      "url": "https://t.me/V_Zelenskiy_official/21776",
+      "inspection_url": "https://t.me/s/V_Zelenskiy_official",
+      "displayed_time": "13:12",
+      "post_date_metadata": null,
+      "post_timezone": null,
+      "artifacts": [
+        {
+          "artifact": "zelensky_nov11_outcome_channel_web_response.json",
+          "artifact_type": "Complete serialized web-tool response; derivative, not raw Telegram HTML",
+          "bytes": 18479,
+          "sha256": "d4e996acc69c99b8b99c511d187292bb7a99d5fa774ab7e8ed84962b73c86b22"
+        },
+        {
+          "artifact": "zelensky_nov11_outcome_permalink_web_response.json",
+          "artifact_type": "Complete serialized web-tool response; derivative, not raw Telegram HTML",
+          "bytes": 45703,
+          "sha256": "c38db7dc53a60f68e1d85a63c1f26a1eae79055c45e6f1938c81f455be2da696"
+        }
+      ],
+      "inspection": "Written caption and link mapping inspected; attached 10-second video uninspected. Unrelated channel/search content excluded.",
+      "limits": "Humanitarian preparation, partner coordination, security views and broader formats discussed; Dublin tomorrow prospective without independently dated post metadata; no completed specific European follow-on, accepted guarantees or actual release."
+    }
+  ],
+  "joins": [
+    "J20-2026-079",
+    "J20-2026-080",
+    "CH7-BRUSSELS-RECOVERY-001",
+    "CH7-NOV4-ENVOY-CALL-001"
+  ],
+  "no_raw_archive_published": true,
+  "no_new_event_or_claim": true,
+  "no_status_score_or_financial_flow_change": true
+}

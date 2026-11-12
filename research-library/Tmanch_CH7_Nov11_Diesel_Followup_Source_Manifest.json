@@ -1,0 +1,99 @@
+{
+  "review_date_utc": "2026-11-11",
+  "baseline_commit": "4abc1b68a5ae9c22770c41c02b94f48753ebce48",
+  "scope": "Existing 040 / CH7-DIESEL-SHIP-001 implementation follow-up; no new cargo, event, score or financial flow. Bundled with previously staged 079/080 source chronology.",
+  "sources": [
+    {
+      "source_id": "DIESEL-SHIP-S021",
+      "url": "https://gcaptain.com/tanker-carrying-russian-diesel-halts-off-u-s-coast-shipping-data-shows/",
+      "title": "Tanker Carrying Russian Diesel Halts off U.S. Coast, Shipping Data Shows",
+      "displayed_publication": "2026-11-10",
+      "publication_timezone": null,
+      "source_family": "Reuters reporting, overlapping manager account",
+      "inspection": "Successful researcher web rendering inspected; later preparer reopening inaccessible, no article evidence acquired in that reopening",
+      "artifacts": [
+        {
+          "artifact": "diesel-ship-s021_researcher_excerpt.json",
+          "artifact_type": "Manually transcribed selected rendered-source excerpts plus explicitly labeled researcher paraphrases; derivative, not raw HTML or complete tool response",
+          "bytes": 1691,
+          "sha256": "bcaa51dd5f498ffda6dc83d811b4f6f1ab4e9c97afa7a6c4e93063830e24f751"
+        }
+      ],
+      "limits": "Selected transcribed excerpts and researcher paraphrases from a successfully inspected web rendering; not complete response or source HTML. Underlying LSEG data not acquired."
+    },
+    {
+      "source_id": "DIESEL-SHIP-S022",
+      "url": "https://gcaptain.com/russian-diesel-tanker-awaits-orders-off-u-s-coast-amid-import-ban-dispute/",
+      "title": "Russian Diesel Tanker Awaits Orders Off U.S. Coast Amid Import Ban Dispute",
+      "displayed_publication": "2026-11-10",
+      "publication_timezone": null,
+      "source_family": "Reuters reporting, overlapping manager account",
+      "inspection": "Successful researcher web rendering inspected; later preparer reopening inaccessible, no article evidence acquired in that reopening",
+      "artifacts": [
+        {
+          "artifact": "diesel-ship-s022_researcher_excerpt.json",
+          "artifact_type": "Manually transcribed selected rendered-source excerpts plus explicitly labeled researcher paraphrases; derivative, not raw HTML or complete tool response",
+          "bytes": 1894,
+          "sha256": "076fdef3a295bc9b089c66e54f6e814c3c0919513070a773b4a06e903e7cd061"
+        }
+      ],
+      "limits": "Same Reuters family as S021, not independent corroboration. Selected transcribed excerpts and researcher paraphrases, not full tool response or HTML; original underlying data not acquired."
+    },
+    {
+      "source_id": "DIESEL-SHIP-S023",
+      "url": "https://news.maritime-executive.com/article/tanker-linked-to-trump-s-russian-diesel-waiver-pauses-off-u-s-east-coast",
+      "title": "Tanker Linked to Trump's Russian Diesel Waiver Pauses off U.S. East Coast",
+      "displayed_publication": "2026-11-10 22:54:00",
+      "publication_timezone": null,
+      "source_family": "Maritime Executive with attributed provider data; Wright statement depends on Reuters",
+      "inspection": "Successful researcher web rendering inspected; later preparer reopening inaccessible, no article evidence acquired in that reopening",
+      "artifacts": [
+        {
+          "artifact": "diesel-ship-s023_researcher_excerpt.json",
+          "artifact_type": "Manually transcribed selected rendered-source excerpts plus explicitly labeled researcher paraphrases; derivative, not raw HTML or complete tool response",
+          "bytes": 1695,
+          "sha256": "59c6a2efc7b89e5204c71f9ff2c582f0daba928ad8dafb044613f9447db10626"
+        }
+      ],
+      "limits": "Selected transcribed excerpts and researcher paraphrases, not full response or HTML. Underlying Kpler/Pole Star datasets and embedded image not acquired; image fetch failed. Loading date conflicts with Reuters/LSEG."
+    },
+    {
+      "source_id": "DIESEL-SHIP-S020",
+      "source_family": "Same VesselFinder vessel page, later snapshot; not a new vessel or source identity",
+      "url": "https://www.vesselfinder.com/vessels/details/9798375",
+      "inspection_date": "2026-11-11",
+      "artifacts": [
+        {
+          "artifact": "diesel_sources_web_response.json",
+          "artifact_type": "Complete serialized web-tool response; derivative, not original HTML or raw AIS. Contains three failed article reopens, excluded as article evidence, and one successful provider rendering.",
+          "bytes": 6004,
+          "sha256": "1c1a4e6a638aea831474d306cc15ff1fd80ca7db0af5eb49c9e80ccd3a33c2d3"
+        }
+      ],
+      "displayed_position_age": "14 days",
+      "displayed_destination": "FOR ORDERS",
+      "displayed_eta": "November 11 22:00",
+      "eta_timezone": null,
+      "displayed_last_departure": "October 22 16:08 UTC, Primorsk",
+      "limits": "Stale display does not prove present position, arrival or loading date. Advertised paid satellite data unacquired."
+    }
+  ],
+  "joins": [
+    "J20-2026-040",
+    "CH7-DIESEL-SHIP-001"
+  ],
+  "prior_current_statuses": {
+    "J20-2026-040": "Official departure claim; shipping-data report not independently audited",
+    "CH7-DIESEL-SHIP-001": "Attributed departure and tracking reports"
+  },
+  "retained_loading_date_conflict": {
+    "Reuters_LSEG": "2026-10-22",
+    "Maritime_Executive_Kpler": "2026-10-23",
+    "resolution": null,
+    "provider_departure_does_not_resolve_loading_date": true
+  },
+  "legal_context": "Previously acquired S014 / GL135 remains the legal source; no fresh legal-source byte archive claimed. Qualifying authorization, actual sale/delivery and receipts remain separate.",
+  "no_raw_archive_published": true,
+  "no_financial_flow_or_score_change": true,
+  "source_datasets_unacquired": true
+}

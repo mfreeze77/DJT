@@ -1,0 +1,92 @@
+{
+  "review_date_utc": "2026-11-11",
+  "baseline_commit": "fe10df71e287efbfcaa41dd578f5f607f43afa7d",
+  "scope": "Source-note/index context for existing 079/080: named AP request/inclusion account, separate anonymous Axios assurances and earlier official EC sequencing. No ledger or event-status promotion.",
+  "sources": [
+    {
+      "source_id": "ABUDHABI-NOV11-S006",
+      "url": "https://www.axios.com/2026/11/11/russia-ukraine-europe-war-security-agreement",
+      "http_status": 200,
+      "acquired_utc": "2026-11-11T19:29:07.965447+00:00",
+      "artifact": "axios_nov11_europe_security_original.html",
+      "artifact_type": "Original publisher HTML",
+      "bytes": 204379,
+      "sha256": "a3046af13454ef038d4bd658e683a17839f243cfe092526001aa3f956f48ed41",
+      "source_class": "Original journalism; reported process and assurances attributed to unnamed sources",
+      "publication_and_modification": "2026-11-11T19:12:03.349404Z",
+      "limits": "No acquired proposal text or original US instrument; no accepted NATO restrictions, veto protection or guaranteed European role inferred."
+    },
+    {
+      "source_id": "EU-SECURITY-NOV9-S001",
+      "url": "https://audiovisual.ec.europa.eu/en/media/video/I-297404",
+      "http_status": 200,
+      "acquired_utc": "2026-11-11T19:30:53.416091+00:00",
+      "artifact": "eu_nov9_security_briefing_original.html",
+      "artifact_type": "Original official EC HTML containing written transcript",
+      "bytes": 349011,
+      "sha256": "b1c7da249f70514078e39d6dbcd8ff4ab42f870b6dd4c0dcaa1c0fae38c7e050",
+      "source_class": "Official written briefing transcript",
+      "briefing_date": "2026-11-09",
+      "exact_briefing_time": null,
+      "inspection": "Relevant written transcript inspected; audio and video not inspected",
+      "limits": "Earlier EU position and prospective meeting participation; not a November 11 response or proof of a held meeting/common agreed sequence."
+    },
+    {
+      "url": "https://apnews.com/article/russia-ukraine-war-talks-kushner-witkoff-7c8d1024302e0c6ad8be064eec852a64",
+      "http_status": 200,
+      "acquired_utc": "2026-11-11T22:22:06.645616+00:00",
+      "artifact": "ap_nov11_named_kushner_original.html",
+      "artifact_type": "Original AP HTML, later snapshot",
+      "bytes": 896507,
+      "sha256": "4188f4cf71b526959ee2a5d92d45c40f3ff341602d89e397a1842ea75528cfeb",
+      "source_id": "ABUDHABI-NOV11-S002",
+      "source_family": "Same AP article, later snapshot, not a new independent source",
+      "source_class": "Named public remarks reported by AP; security recording not independently inspected",
+      "json_ld_publication": "2026-11-11T09:39:46Z",
+      "json_ld_modification": "2026-11-11T19:43:31Z",
+      "open_graph_modification": "2026-11-11T20:47:00.661",
+      "open_graph_timezone": null,
+      "limits": "Narrow de-escalation request and inclusion goal only; no acceptance, binding guarantee, completed meeting or corroboration of separate anonymous consent/no-veto assurances.",
+      "bounded_media_artifacts": [
+        {
+          "url": "https://cdn.jwplayer.com/v2/media/Ffdj2YK4",
+          "http_status": 200,
+          "acquired_utc": "2026-11-11T22:22:57.304660+00:00",
+          "artifact": "ap_nov11_briefing_media_manifest.json",
+          "artifact_type": "Original public AP-associated player manifest",
+          "bytes": 4452,
+          "sha256": "1e34842fddc679d55b2cb46e351745f19e93df489169d1cb6997b64c90511a1c"
+        },
+        {
+          "url": "https://cdn.jwplayer.com/tracks/HddjrADz.srt",
+          "http_status": 200,
+          "acquired_utc": "2026-11-11T22:23:13.012440+00:00",
+          "artifact": "ap_nov11_briefing_excerpt_captions.srt",
+          "artifact_type": "Original publisher-associated English caption file, not an independently heard transcript",
+          "bytes": 1141,
+          "sha256": "432b5d8efd3359fcf733363fcbd9337c8e72e929828533a669a6b648e4a01225"
+        }
+      ],
+      "media_limits": {
+        "video_url": "https://apnews.com/video/russia-and-ukraine-agree-to-a-large-exchange-of-prisoners-of-war-officials-at-abu-dhabi-talks-say-0a1d2eaf9cca46ffa30b860969def973",
+        "manifest_duration_seconds": 92,
+        "english_content_window": "00:04–00:40, existing numbers target and itinerary only",
+        "later_caption_window": "00:42–01:23 labeled [FOREIGN]",
+        "security_segment_acquired": false,
+        "audio_video_inspected": false,
+        "security_claim_supported_by_captions": false
+      }
+    }
+  ],
+  "joins": [
+    "J20-2026-079",
+    "J20-2026-080",
+    "CH7-BRUSSELS-RECOVERY-001",
+    "CH7-NOV4-ENVOY-CALL-001"
+  ],
+  "no_raw_archive_published": true,
+  "no_ledger_or_status_change": true,
+  "no_new_event_or_claim": true,
+  "no_score_or_financial_flow_change": true,
+  "temporal_limit": "November 9 EC statement and November 11 Axios reporting retain distinct dates, attribution and discussion-versus-implementation scope. Later AP paraphrase of EU officials as after-ceasefire remains separate from the November 9 official after-conflict formulation."
+}

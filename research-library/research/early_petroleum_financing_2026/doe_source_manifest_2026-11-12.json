@@ -1,0 +1,72 @@
+{
+  "review_date": "2026-11-12",
+  "source_type": "Original official Federal Register issue PDFs; selected renders/text are derivatives",
+  "publication_proposal": "Sanitized provenance/source note only, not raw source archives",
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/content/pkg/FR-1981-06-01/pdf/FR-1981-06-01.pdf",
+      "retrieved_utc": "2026-11-12T17:27:34.143646+00:00",
+      "status": 200,
+      "bytes": 34081998,
+      "sha256": "47d8f813a11c1751b53c302ef06ab59d0279885893b3f613086cf1bd45fc4a9d",
+      "valid_pdf": true,
+      "acquisition_time_semantics": "recorded acquisition timestamp; not document publication time",
+      "printed_locator": "46 FR 29304-29305",
+      "visually_inspected_physical_pdf_pages": [
+        74,
+        75
+      ],
+      "source_id": "CH2-P47",
+      "title": "Consent-order notice"
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/FR-1985-06-10/pdf/FR-1985-06-10.pdf",
+      "retrieved_utc": "2026-11-12T17:27:20.789417+00:00",
+      "status": 200,
+      "bytes": 52705138,
+      "sha256": "60d3ea073f859930a42aa0e8ee766a6c2d06618b2732d22083c1dae32b0a73cc",
+      "valid_pdf": true,
+      "acquisition_time_semantics": "recorded acquisition timestamp; not document publication time",
+      "printed_locator": "50 FR 24301-24303",
+      "visually_inspected_physical_pdf_pages": [
+        140,
+        141
+      ],
+      "source_id": "CH2-P48",
+      "title": "Proposed refund procedures"
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/FR-1985-12-20/pdf/FR-1985-12-20.pdf",
+      "retrieved_utc": "2026-11-12T17:27:20.790117+00:00",
+      "status": 200,
+      "bytes": 58652662,
+      "sha256": "cfaa710c5bcfd1505472a41754d6512d8ccc47ea2be7aa27dcce913ab395184f",
+      "valid_pdf": true,
+      "acquisition_time_semantics": "recorded acquisition timestamp; not document publication time",
+      "printed_locator": "50 FR 51916-51919",
+      "visually_inspected_physical_pdf_pages": [
+        91,
+        92,
+        93
+      ],
+      "source_id": "CH2-P49",
+      "title": "Final refund procedures"
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/FR-1986-07-03/pdf/FR-1986-07-03.pdf",
+      "retrieved_utc": "2026-11-12T17:28:10.750764+00:00",
+      "status": 200,
+      "bytes": 54229285,
+      "sha256": "6d4f74e92341a05088622e9dd8a2a3737a724f6c025ad37ea2a0bd0790ca2164",
+      "valid_pdf": true,
+      "acquisition_time_semantics": "recorded acquisition timestamp; not document publication time",
+      "printed_locator": "51 FR 24436",
+      "visually_inspected_physical_pdf_pages": [
+        150
+      ],
+      "source_id": "CH2-P50",
+      "title": "Jimmy\u2019s refund-award summary"
+    }
+  ],
+  "limits": "Original official issue PDFs. Selected text and renders are derivatives. No signed consent instrument, underlying audit, full RF236-1 decision/application or bank-cleared payment proof acquired. Source-stage amounts overlap and are not aggregable."
+}

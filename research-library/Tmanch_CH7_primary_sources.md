@@ -1344,3 +1344,134 @@ The [Q3 source manifest](Tmanch_CH7_Nov9_TMTG_Q3_Source_Manifest.json) identifie
 - **CH7-UAE-USD1-002 / USD1-BUYBACK-S002:** [WLFI intended venue, designated wallet and retained-revenue terms](Tmanch_CH7_Nov6_WLFI_Buyback_Source_Note.md#november-9-venue-designated-wallet-and-retained-revenue-terms) refine the earlier issuer announcement without proving execution, allocation or receipt.
 
 The [November 10 manifest](Tmanch_CH7_Nov10_Source_Manifest.json) distinguishes retained original HTML from copied tool-rendered evidence and public register metadata. No source archive, score or financial-flow total is added.
+
+
+## November 10 published MEXC dates and Abu Dhabi opening
+
+- **091 / CH7-MEXC-9714-001 / MEXC-9714-S008:** [Final Federal Register publication](Tmanch_CH7_Nov7_MEXC_Order_Source_Note.md#november-10-final-publication-december-10-effectiveness-established) closes the publication/effective-date gaps. The same order takes effect December 10, not on November 10. Implementation and measured effects remain unverified.
+- **079/080 / ABUDHABI-NOV10-S001–002:** [Host-confirmed opening and participant-reported separate European meeting](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-10-abu-dhabi-opening-and-separate-european-meeting) advance the preparation chronology without implying completed negotiations, accepted terms, guarantees or delivered assistance.
+
+The [publication/talks source manifest](Tmanch_CH7_Nov10_Publication_Talks_Source_Manifest.json) records three retained original artifacts. Earlier history and unresolved implementation requirements remain; no new event/claim ID, source archive, score or financial-flow total.
+
+
+## November 10 afternoon: joint coordination statement and Canadian Iran relisting
+
+- **079/080 / ABUDHABI-NOV10-S003:** [Joint statement on separate pre-trilateral coordination](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-10-joint-statement-separate-coordination-and-public-principles) adds official documentation and public principles without establishing accepted settlement terms, enforceable guarantees or delivered protection.
+- **099 / CH7-CAN-IRAN-NOV5-001 / CAN-IRAN-NOV10-S001–004:** [Canada SOR/2026-234](Tmanch_CH7_Nov10_Canada_Iran_Source_Note.md) adds eleven entities, with November 5 entry into force per GAC and a separate November 10 announcement. Listed status is not independent proof of underlying conduct or measured effects.
+
+The [afternoon source manifest](Tmanch_CH7_Nov10_Afternoon_Source_Manifest.json) labels retained derivative source excerpts precisely. Earlier notes, correction history and scores remain; no raw archive, private receipt or financial-flow total.
+
+
+## November 10 attributed adjournment follow-up
+
+- **079/080 / ABUDHABI-NOV10-S004:** [Ukrinform’s directly attributed adjournment report](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-10-attributed-day-one-adjournment) updates chronology only. No government-issued text, negotiating outcome or actual next-day resumption is established.
+
+[Source provenance](Tmanch_CH7_Nov10_Adjournment_Source_Manifest.json) records the retained original article, not a government document. Existing history, statuses, scores and totals remain unchanged.
+
+
+## November 11 watch: late-November-10 diplomacy and allied commitments
+
+- **079/080 / ABUDHABI-NOV10-S005:** [Original Ukrainian day-one discussion account](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-10-original-participant-account-and-chornobyl-conference-follow-up) adds participant-reported substance, not accepted terms or implementation.
+- **079/080 / CHORNOBYL-NOV9-S001–002:** [Held Paris conference and source-specific pledges](Tmanch_CH7_Nov9_Chornobyl_Source_Note.md) retain EBRD’s EUR 303 million and France’s EUR 278 million without reconciliation or additive totals. The [noncash observation](Tmanch_CH7_Nov9_Chornobyl_Pledge_Observation.json) keeps cash receipts unverified.
+- **101 / CH7-JEF-NORTHERN-NAVIES-001 / JEF-NOV10-S001–002:** [Northern Navies signing](Tmanch_CH7_Nov10_JEF_Source_Note.md) is distinct from the separate prospective GBP 90 million Atlantic Net framework and unverified capability implementation.
+
+[Source provenance](Tmanch_CH7_Nov11_Source_Manifest.json) records original bodies and acquisition limits. No raw archive, measured benefit, new receipt or score change.
+
+
+- **102 / CH7-DENMARK-NOV10-001 / DENMARK-NOV10-S001–002:** [Recipient-government Danish allocation report](Tmanch_CH7_Nov10_Denmark_Source_Note.md) keeps EUR 645 million defense, EUR 20 million energy and USD 100 million this-year context separate. [Structured observation](Tmanch_CH7_Nov10_Denmark_Allocation_Observation.json) leaves overlap, receipts and delivery unverified; no additive total.
+
+
+## November 10 finance and institutional process follow-up
+
+- **CH7-TMTG-Q3-001 / TMTG-Q3-S006:** [Acquired SEC-filed November 9 transcript](Tmanch_CH7_Nov9_TMTG_Q3_Source_Note.md#november-10-acquisition-issuer-filed-november-9-earnings-call-transcript) closes the prior transcript gap and adds issuer-reported holder-election status and cash/credit intentions. Same TAE-REF01 noncash context; no executed financing or new flow.
+- **091 / CH7-MEXC-9714-001 / MEXC-9714-S009:** [Binance response](Tmanch_CH7_Nov7_MEXC_Order_Source_Note.md#november-10-exchange-response-binance-announces-restrictions) adds announced operational restrictions, not observed execution. The government order remains effective December 10.
+- **100 / CH7-PREDICTION-OVERSIGHT-NOV9-001:** [Signed November 9 safeguards request](Tmanch_CH7_Nov9_Prediction_Oversight_Source_Note.md), published November 10, seeks White House answers by November 23. Process-only and unscored; underlying allegations and background amounts are not adopted.
+
+[Provenance](Tmanch_CH7_Nov11_Source_Manifest.json) preserves original acquisition hashes. Earlier snapshots and unresolved records remain; no new financial-flow totals or changes to existing scores.
+
+
+## November 11 second-day opening follow-up
+
+- **079/080 / ABUDHABI-NOV11-S001–002:** [Participant-reported resumption and dated AP reporting](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-11-participant-reported-second-day-opening) advance the opening chronology. The separate European follow-on remains prospective; no accepted terms, prisoner release or implementation finding.
+
+[Provenance and prior statuses](Tmanch_CH7_Nov11_Second_Day_Source_Manifest.json). Existing identities, scores, financial totals and earlier acquisition/correction history are preserved.
+
+
+## November 11 attributed humanitarian outcome follow-up
+
+- **079/080 / ABUDHABI-NOV11-S002 later snapshot and S003:** [Original AP/RFE reporting of an exchange in principle](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-11-later-reporting-exchange-in-principle-and-prospective-consultations) advances the prior opening-only stage. No finalized count, release or broader settlement established; Moscow/Dublin and the European follow-on remain prospective.
+
+[Later source snapshots and preserved prior statuses](Tmanch_CH7_Nov11_Outcome_Source_Manifest.json). The earlier AP snapshot remains unchanged, and no event, score or financial total is added.
+
+
+## November 11 original written outcome source upgrade
+
+- **079/080 / ABUDHABI-NOV11-S004:** [Original Umerov written outcome](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-11-later-acquisition-original-ukrainian-written-outcome) closes that participant-text acquisition gap only. Exchange details and performance remain pending; no completed European follow-on or Moscow/Dublin meeting is inferred.
+
+[Source provenance and prior statuses](Tmanch_CH7_Nov11_Umerov_Outcome_Source_Manifest.json). Earlier reporting snapshots and all amounts/scores remain unchanged.
+
+
+## November 11 afternoon: G7 declaration and separate exchange response
+
+- **079/080 / G7-NOV11-S001–002:** [Held Paris G7 meeting and joint declaration](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-11-g7-declaration-held-paris-meeting-and-political-commitments), the same statement on two official hosts. Political commitments are not a new legal measure, quantified aid, delivery or implemented ceasefire; the existing Chornobyl discrepancy remains unresolved.
+- **091 / MEXC-9714-S010:** [KuCoin's separate announced response](Tmanch_CH7_Nov7_MEXC_Order_Source_Note.md#november-10-separate-exchange-response-kucoin), beyond Binance. No independently observed transaction execution, changed legal effectiveness, new flow or measured benefit.
+
+[Source provenance](Tmanch_CH7_Nov11_PM_Source_Manifest.json). All previous source stages, corrections, scores and financial totals remain unchanged.
+
+
+### Final EUMAM act acquired November 11
+
+- **098 / EUMAM-NOV9-S003:** [Final Decision (CFSP) 2026/2508](Tmanch_CH7_Nov9_EUMAM_Source_Note.md#november-11-final-act-legal-dates-exact-reference-and-limited-remit) closes the legal-text/date and exact-reference gaps. Adopted/entered into force November 9, published November 11, applies November 16. The EUR 292.6 million common-cost reference is not spending or a verified increment; overlap with 054's EUR 230 million remains unresolved.
+
+[Noncash reference observation](Tmanch_CH7_Nov9_EUMAM_Financial_Reference_Observation.json) and [source provenance](Tmanch_CH7_Nov11_PM_Source_Manifest.json). No actual deployment, personnel-status agreement, expenditure or measured result is inferred.
+
+
+## November 11 later exchange forecast and written debrief
+
+- **079/080 / ABUDHABI-NOV11-S002 later snapshot, S005:** [AP's attributed Zorin forecast and Zelenskyy's original written debrief](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-11-later-sources-exchange-forecast-and-ukrainian-written-debrief). A possible two-to-three-week exchange window is not a fixed date and is distinct from the next-day target for numbers. Coordination and broader-format discussions are not a guaranteed European role or specifically completed follow-on; Dublin remains planned.
+
+[Source provenance](Tmanch_CH7_Nov11_Late_Diplomacy_Source_Manifest.json). Earlier snapshots, statuses, scores and financial totals remain intact.
+
+
+## November 11 diesel implementation follow-up
+
+- **040 / DIESEL-SHIP-S021–023 and S020 later snapshot:** [Reported halt, manager's awaiting-orders account and stale provider display](Tmanch_CH7_Oct23_Diesel_Shipment_Source_Note.md#november-10-reports-and-november-11-stale-display-halted-and-awaiting-orders). Preserve the conflicting loading dates and absence of confirmed delivery/payment. A prospective alternative-port/world-market account does not establish a sale; missing US delivery does not erase qualifying transaction access or prove zero global revenue.
+
+[Source provenance](Tmanch_CH7_Nov11_Diesel_Followup_Source_Manifest.json). Existing cargo totals, scores, legal limits and source/correction history are unchanged.
+
+
+## November 11 acquired security-process context
+
+- **079/080 / ABUDHABI-NOV11-S006; EU-SECURITY-NOV9-S001:** [Attributed Axios process reporting and the earlier official EC sequencing position](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-11-acquired-security-process-reporting-and-november-9-ec-position). Source-note context only: anonymous assurances are not guarantees, and differing negotiation/implementation sequences are not treated as reconciled. No event finding, status, meeting count, score or financial total changes.
+
+[Source provenance](Tmanch_CH7_Nov11_Security_Context_Source_Manifest.json). The November 9 EC statement is not represented as a later response to the November 11 article.
+
+
+- **079/080 / ABUDHABI-NOV11-S002 later snapshot:** [Named Kushner account reported by AP](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-11-later-ap-snapshot-named-public-account-and-excerpt-limits) supports the narrower de-escalation request and European-inclusion goal, not Axios' separate anonymous consent/no-veto assurances. The acquired caption excerpt does not contain the security segment; no guarantee or completed meeting follows.
+
+
+## November 12 acquired preparatory policy context
+
+- **079/080 / EU-LISTINGS-NOV11-S001–003:** [Reported proposed listings and official preparation metadata](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#eu-listing-preparation-reported-agreement-and-scheduled-instruments), not final adoption, operative targets or measured effects.
+- **079/080 / DROBININ-NOV11-S001:** [Reported possible security instruments](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#drobinin-remarks-possible-instruments-not-an-acquired-proposal), not an exhaustive package, acquired formal proposal, US-request response or agreed guarantee.
+
+[Source provenance](Tmanch_CH7_Nov12_Policy_Context_Source_Manifest.json). Context only; no ledger, narrative, status, score or financial-total changes.
+
+
+## November 12 diesel-source follow-up
+
+- **040 / CH7-DIESEL-SHIP-001 / DIESEL-SHIP-S024:** [Attributed movement detail and acquisition limits](Tmanch_CH7_Oct23_Diesel_Shipment_Source_Note.md#november-12-acquisition-november-11-attributed-movement-report). Same cargo; no ledger/status or financial change. [Provenance](Tmanch_CH7_Nov12_Diesel_Movement_Source_Manifest.json).
+
+
+## November 12 Moscow-arrival follow-up
+
+- **079/080 / MOSCOW-NOV12-S001:** [AP-reported Kremlin arrival](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-12-reported-kremlin-arrival-not-a-verified-meeting-outcome), advancing travel chronology only. Meeting commencement/completion, subsequent Dublin consultation and new outcomes remain unverified.
+
+[Provenance and preserved prior statuses](Tmanch_CH7_Nov12_Moscow_Arrival_Source_Manifest.json). Original identities, earlier acquisition stages, scores and financial totals remain intact.
+
+
+## November 12 official meeting-start and EPC follow-up
+
+- **079/080 / MOSCOW-NOV12-S002; EPC-NOV12-S001:** [Official meeting-start report and Costa's stated principles](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-12-acquisition-official-meeting-start-and-costas-epc-principles). Start is distinct from completion; political positions are distinct from accepted terms or declaration adoption.
+
+[Provenance and preserved prior statuses](Tmanch_CH7_Nov12_Meeting_Opening_Source_Manifest.json). Earlier stages, original identities, scores and financial totals remain intact.

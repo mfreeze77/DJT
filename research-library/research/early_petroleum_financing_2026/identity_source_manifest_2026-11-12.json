@@ -1,0 +1,39 @@
+{
+  "baseline_commit": "92f33b11058bcbb3355a7381fc1d4909c578fd38",
+  "scope": "Two identity observations only; no amounts or transactions counted",
+  "sources": [
+    {
+      "source_id": "CH2-P45",
+      "url": "https://www.dta.ny.gov/pdf/archive/decisions/801597.dec.pdf",
+      "acquisition_time_utc": "2026-11-12T14:12:02.228824+00:00",
+      "acquisition_time_semantics": "retrieval timestamp",
+      "http_status": 200,
+      "original_artifact_type": "official PDF bytes",
+      "bytes": 47982,
+      "sha256": "45dbb47c01c5dd8bc465ec81241ac2ec76561ec0a9c9d104159eb8fccb97b16f",
+      "derived_review_artifacts": [
+        "text extraction",
+        "page 3 raster render"
+      ],
+      "publication_includes_original_artifact": false
+    },
+    {
+      "source_id": "CH2-P46",
+      "url": "https://data.ny.gov/resource/63wc-4exh.json?%24where=corpid_num%3D884703&%24limit=1000",
+      "acquisition_time_utc": "2026-11-12T14:08:57.476608+00:00",
+      "acquisition_time_semantics": "request start timestamp",
+      "http_status": 200,
+      "original_artifact_type": "official JSON response bytes",
+      "bytes": 479,
+      "sha256": "095ddf1f4affcb68a6f9fb77617c6be342cb79539296eae325e1e33534ef368c",
+      "derived_review_artifacts": [],
+      "publication_includes_original_artifact": false
+    }
+  ],
+  "analyst_created_artifacts": [
+    "identity_observations.csv",
+    "identity_note_2026-11-12.md",
+    "this sanitized manifest"
+  ],
+  "limits": "DTA: default-vacatur decision, not ownership or later-transaction proof. DOS: filing metadata, jurisdiction absent, no certificate image or bank match. Full HTTP headers and private synthesis excluded."
+}

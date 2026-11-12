@@ -762,3 +762,54 @@ The [dated source-note clarification](Tmanch_CH2_Early_1980s_Funding_Source_Note
 **Source:** NY Tax Appeals Tribunal, September 22, 1988, DTA 805249; https://www.dta.ny.gov/pdf/archive/decisions/805249.DEC.pdf
 
 **Limits:** Time-separated address/counsel evidence only; stricken ALJ finding 53 excluded. Full pinpoints and evidence rules are in the [package source inventory](research/early_petroleum_financing_2026/sources.md).
+
+## November 11, 2026: CH2-P16 qualification and CH2-P44 attribution
+
+CH2-P16's earlier metadata and use are preserved above. The [November 11 source correction](Tmanch_CH2_Bogatin_Seizure_Correction.md) records its narrower evidentiary scope and displayed-date/URL discrepancy; it does not substantiate CH2-BOGATIN-024's prior full seizure claim.
+
+## CH2-P44 — Contemporary Barrett account of state seizure
+
+**Source:** Wayne Barrett, “Donald Trump's Tower of Trouble,” *The Village Voice*. Original publication December 17, 1991; archive posting May 9, 2019. https://www.villagevoice.com/donald-trumps-tower-of-trouble/
+
+**Supports:** An attributed state-seizure account and prosecutor rationale, not the underlying judicial instrument. The 1991 article is not evidence of a 1992 seizure date. See the [November 11 source correction](Tmanch_CH2_Bogatin_Seizure_Correction.md) for source acquisition and legal-record limits.
+
+
+## November 12, 2026: identity-only source refinements
+
+[Conlo and Blue Bell identity controls](research/early_petroleum_financing_2026/identity_note_2026-11-12.md) add a standalone noncash observation companion. Existing claims, flows and correction history are unchanged.
+
+## CH2-P45 — Conlo corporate petitioners
+
+**Source:** NY Tax Appeals Tribunal, May 11, 1995, DTA 801597, printed p.3. https://www.dta.ny.gov/pdf/archive/decisions/801597.dec.pdf
+
+**Limits:** Two named corporations; officer wording does not allocate precise titles or ownership. January–February 1984 tax period and default-vacatur posture are not later transaction findings. Cross-source identity remains unresolved. [Details and provenance](research/early_petroleum_financing_2026/sources.md#ch2-p45--conlo-corporate-petitioners).
+
+## CH2-P46 — Blue Bell official filing metadata
+
+**Source:** NY DOS All Filings, DOS 884703, film A978447-6; acquired November 12, 2026. https://data.ny.gov/resource/63wc-4exh.json?%24where=corpid_num%3D884703&%24limit=1000
+
+**Limits:** Official names and date fields only; foreign jurisdiction absent. No certificate image, ownership/transfer instrument or established Panama/Austrian-account match. [Details and provenance](research/early_petroleum_financing_2026/sources.md#ch2-p46--blue-bell-official-all-filings-metadata).
+
+## CH2-P47 — DOE Conlo: Consent-order notice
+
+**Source:** DOE, 46 FR 29304-29305. https://www.govinfo.gov/content/pkg/FR-1981-06-01/pdf/FR-1981-06-01.pdf
+
+**Limits:** [Bounded HEF-0053/RF236-1 note](research/early_petroleum_financing_2026/doe_refund_note_2026-11-12.md). Preserve no-admission/no-finding provision and printed discrepancies; distinguish commitment, agency remittance report, conditional allocation and award. No identity match, additive cash flow or bank-cleared receipt inferred.
+
+## CH2-P48 — DOE Conlo: Proposed refund procedures
+
+**Source:** DOE, 50 FR 24301-24303. https://www.govinfo.gov/content/pkg/FR-1985-06-10/pdf/FR-1985-06-10.pdf
+
+**Limits:** [Bounded HEF-0053/RF236-1 note](research/early_petroleum_financing_2026/doe_refund_note_2026-11-12.md). Preserve no-admission/no-finding provision and printed discrepancies; distinguish commitment, agency remittance report, conditional allocation and award. No identity match, additive cash flow or bank-cleared receipt inferred.
+
+## CH2-P49 — DOE Conlo: Final refund procedures
+
+**Source:** DOE, 50 FR 51916-51919. https://www.govinfo.gov/content/pkg/FR-1985-12-20/pdf/FR-1985-12-20.pdf
+
+**Limits:** [Bounded HEF-0053/RF236-1 note](research/early_petroleum_financing_2026/doe_refund_note_2026-11-12.md). Preserve no-admission/no-finding provision and printed discrepancies; distinguish commitment, agency remittance report, conditional allocation and award. No identity match, additive cash flow or bank-cleared receipt inferred.
+
+## CH2-P50 — DOE Conlo: Jimmy’s refund-award summary
+
+**Source:** DOE, 51 FR 24436. https://www.govinfo.gov/content/pkg/FR-1986-07-03/pdf/FR-1986-07-03.pdf
+
+**Limits:** [Bounded HEF-0053/RF236-1 note](research/early_petroleum_financing_2026/doe_refund_note_2026-11-12.md). Preserve no-admission/no-finding provision and printed discrepancies; distinguish commitment, agency remittance report, conditional allocation and award. No identity match, additive cash flow or bank-cleared receipt inferred.

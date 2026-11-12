@@ -1,0 +1,73 @@
+{
+  "review_date_utc": "2026-11-12",
+  "baseline_commit": "4af2d62acef98d00676b5de2aae234afb3d77c1e",
+  "scope": "Existing 079/080 start-account advancement and separate Costa political-position context; no new event, claim, score or financial flow.",
+  "prior_current_statuses": {
+    "J20-2026-079": "Original Brussels talks retained; Kremlin arrival AP-reported; Moscow meeting start/outcome and release unresolved",
+    "J20-2026-080": "Original call retained; Kremlin arrival AP-reported; Moscow meeting start/outcome and release unresolved",
+    "CH7-BRUSSELS-RECOVERY-001": "Original Brussels talks retained; Kremlin arrival AP-reported; Moscow meeting start/outcome and release unresolved",
+    "CH7-NOV4-ENVOY-CALL-001": "Original call retained; Kremlin arrival AP-reported; Moscow meeting start/outcome and release unresolved"
+  },
+  "sources": [
+    {
+      "source_ids": [
+        "MOSCOW-NOV12-S002"
+      ],
+      "url": "https://t.me/news_kremlin/8330",
+      "inspection_url": "https://t.me/s/news_kremlin",
+      "source_class": "Official written Kremlin channel post in successful web rendering",
+      "displayed_time": "edited 12:47",
+      "post_calendar_date_metadata": null,
+      "post_timezone": null,
+      "acquisition_date": "2026-11-12",
+      "exact_acquisition_time": null,
+      "calendar_context": "Separately dated AP November 12 arrival report, MOSCOW-NOV12-S001; no exact post or meeting-start timestamp inferred",
+      "artifacts": [
+        {
+          "artifact": "kremlin-channel-web-response.json",
+          "artifact_type": "Serialized successful channel rendering; derivative, not original HTML. Unrelated failed Costa section excluded.",
+          "bytes": 13071,
+          "sha256": "a6813a28cbf4a0a94c7711d7d5c1a24e49d3ba9bb24a4c5b80d552902d314725"
+        },
+        {
+          "artifact": "costa-and-post-mapping-web-response.json",
+          "artifact_type": "Serialized tool response containing post8330 permalink embed and Costa rendering; derivative. Researcher verified channel-link resolution; Costa content uses separately retained original HTML.",
+          "bytes": 7897,
+          "sha256": "08656023778eb9c3e234d5ba33eecd4d64953276594c8f9fd363bd576d03090f"
+        }
+      ],
+      "inspection": "Written statement inspected. Attached 34-second video uninspected; linked Kremlin webpage unacquired.",
+      "limits": "Official start report only, not meeting completion or outcome. A direct 195-byte unavailable response is excluded; no raw Telegram archive claimed."
+    },
+    {
+      "source_ids": [
+        "EPC-NOV12-S001"
+      ],
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/opening-remarks-by-president-antonio-costa-at-the-meeting-of-the-european-political-community-in-dublin/",
+      "source_class": "Original European Council publication of Costa opening remarks, not an adopted settlement or declaration",
+      "http_status": 200,
+      "request_started_at_utc": "2026-11-12T14:11:34.998962+00:00",
+      "exact_completed_acquisition_time": null,
+      "displayed_publication": "2026-11-12 13:25",
+      "displayed_timezone": null,
+      "artifacts": [
+        {
+          "artifact": "costa_epc_opening_response.html",
+          "artifact_type": "Original official HTML response bytes, retained locally, not published",
+          "bytes": 106572,
+          "sha256": "f71172b492c253e951550fa88d5690b154f700bb59d1cc5f90a768f4a6c9780e"
+        }
+      ],
+      "inspection": "Relevant visible body text and date inspected; audiovisual material not inspected.",
+      "limits": "Public positions and stated priorities; no adopted declaration, accepted negotiating role, binding guarantee or completed US-envoy Dublin meeting established."
+    }
+  ],
+  "joins": [
+    "J20-2026-079",
+    "J20-2026-080",
+    "CH7-BRUSSELS-RECOVERY-001",
+    "CH7-NOV4-ENVOY-CALL-001"
+  ],
+  "no_raw_archive_published": true,
+  "no_financial_or_score_changes": true
+}

@@ -119,3 +119,230 @@ Ukraine also intends to propose de-escalatory steps and pursue a leaders-level t
 Original full HTML acquired; derived text inspected. The nearby video listing carries 22:18, while the article body and latest-news entry carry 22:17. Preserve the article's 22:17 timestamp without conflating it with video metadata. No audio/video inspection is claimed. No new envoy-call event, score or financial-flow total follows.
 
 [November 10 source provenance](Tmanch_CH7_Nov10_Source_Manifest.json).
+
+
+## November 10 Abu Dhabi opening and separate European meeting
+
+**ABUDHABI-NOV10-S001:** The [original UAE foreign-ministry release](https://www.mofa.gov.ae/en/MediaHub/News/2026/11/10/10-11-2026-UAE-Russia-Ukraine-USA), dated **Tuesday, November 10, 2026**, confirms that the **third round of US–Russia–Ukraine trilateral talks launched that day in Abu Dhabi**, in Sheikh Abdullah bin Zayed’s presence. The host’s stated hope for practical steps is an objective, not a negotiated outcome.
+
+**ABUDHABI-NOV10-S002:** The [original Ukrainian presidency Zelenskyy–Stubb call readout](https://www.president.gov.ua/en/news/prezident-ukrayini-proviv-telefonnu-rozmovu-z-prezidentom-fi-107229), displayed **November 10 at 12:28**, timezone unstated, separately says the trilateral negotiations **have already begun** and a **meeting with European representatives has also taken place**. The detailed briefing from Ukraine’s negotiating team and partners was still expected. De-escalation and effective guarantees remain stated objectives. The readout does not supply a complete attendee roster or establish European governments or EU institutions as parties to the trilateral negotiations. It is not a basis for asserting that no NATO-affiliated person attended any session.
+
+For existing **079 / CH7-BRUSSELS-RECOVERY-001** and **080 / CH7-NOV4-ENVOY-CALL-001**, this closes the prospective-only opening stage and advances separate European coordination to participant-reported held status. It does not change the identity or participants of the original November 4/5 Brussels events or November 4 envoy call. The distinct November 10 Stubb call supplies later chronology, not another Witkoff/Kushner call or a duplicate Abu Dhabi event count.
+
+The prior 079 status, **“Talks reported held; specific written enforcement answers requested, agreement unverified,”** and 080 status, **“Original call and later planning testimony; future meeting and terms unresolved,”** are preserved here as history. Current structured statuses reflect the now-confirmed Abu Dhabi opening. Earlier prospective descriptions and still-needed-meeting wording remain dated history, not current claims that talks have yet to begin.
+
+Host and participant accounts corroborate opening, while the separate European meeting remains a Ukrainian participant report. Neither establishes completed negotiations, an accepted territorial bargain, signed or enforceable security guarantees, a ceasefire, delivered aid or practical implementation. The original US-side November 4 call record and November 9 briefing transcript remain unacquired. Detailed attendance/format evidence, written enforcement answers, accepted terms and outcomes remain outstanding. No change to the separate EU emergency mechanism’s unresolved instrument, amount, activation or delivery; no join to 085 or procurement records.
+
+Opening negotiations is affirmative diplomatic process; potential Ukrainian protection and recovery remain conditional on agreement and implementation. No measured Russian benefit, private gain, motive or policy exchange is inferred. No new event/claim ID, score or financial-flow total. Both full original HTML bodies and derived text were retained and inspected; no audio, video or undisclosed negotiating documents were reviewed. [Source provenance](Tmanch_CH7_Nov10_Publication_Talks_Source_Manifest.json).
+
+
+## November 10 joint statement: separate coordination and public principles
+
+**ABUDHABI-NOV10-S003:** The [European Council-published joint statement](https://www.consilium.europa.eu/en/press/press-releases/2026/11/10/statement-on-today-s-meeting-in-abu-dhabi-between-the-eu-france-germany-italy-united-kingdom-ukraine-united-states-and-nato/), displayed **November 10 at 10:22**, timezone unstated, documents coordination among European partners, Ukraine and the US **before trilateral discussions with Russia**. Its meeting title names the **EU, France, Germany, Italy, United Kingdom, Ukraine, United States and NATO**. This is additional official participant documentation of the separate coordination already reported by Ukraine, not a second European meeting established by this source.
+
+The statement sets out sovereignty, territorial integrity, independent decision-making and credible Ukrainian security guarantees as principles; NATO remains central to collective defence. Continued partnership and broader multilateral discussions including European partners are stated objectives. These positions do not establish Russian acceptance, European-government or EU seats at the trilateral table, a signed or enforceable guarantee, a territorial agreement, ceasefire, completed negotiations or delivered assistance.
+
+For **079 / CH7-BRUSSELS-RECOVERY-001** and **080 / CH7-NOV4-ENVOY-CALL-001**, this extends the same later coordination chronology without changing the original Brussels sessions or November 4 envoy call. The prior 080 status, **“Original call and later Abu Dhabi opening verified; separate European meeting participant-reported; terms unresolved,”** remains history. Its current status now reflects the additional official joint statement. Earlier source notes and their acquisition limits remain intact.
+
+The title identifies institutional/country participation, not a complete named attendee list or each attendee’s negotiating authority. Specific enforcement answers, accepted written terms, actual broader negotiating formats and implementation remain outstanding. Earlier missing US-side records and separate EU emergency-assistance instrument, amount, activation and delivery gaps are unaffected. Affirmative US/allied diplomatic coordination is established; practical Ukrainian protection remains conditional, with no measured Russian benefit, private gain, new envoy call, event ID, score or financial-flow total.
+
+The official page was inspected through web-rendered text. Retained evidence consists of explicitly labeled derivative response excerpts, not original HTML bytes or an untouched full tool-response capture; hashes identify those retained excerpts only. No media or nonpublic negotiating records were inspected. [Source provenance](Tmanch_CH7_Nov10_Afternoon_Source_Manifest.json).
+
+
+## November 10 attributed day-one adjournment
+
+**ABUDHABI-NOV10-S004:** [Ukrinform’s original report](https://www.ukrinform.net/amp/rubric-polytics/4183380-ukraineusrussia-talks-in-abu-dhabi-adjourn-until-tomorrow.html), published **November 10 at 15:38 +02:00**, directly attributes day-one adjournment and planned **November 11 morning** resumption to **Ukraine’s Foreign Intelligence Service press office**. It says outcomes had not been released. Publication and modification metadata carry the same timestamp, equivalent to 13:38 UTC; no exact resumption time or resumption timezone is supplied.
+
+This is an original news-agency report with explicit government-office attribution, **not an acquired government-issued statement**. It adds attributed chronology to **079/080** without treating adjournment as agreement, completion of the wider negotiations, a new envoy call or implemented protection. The source’s other personnel and earlier-call descriptions are not promoted or used to redefine existing events.
+
+Earlier opening and separate-coordination evidence, current status fields, unresolved written terms and EU-assistance gaps remain intact. Actual resumption, government-issued confirmation and substantive outcome/implementation records remain outstanding. No new event, claim, score, financial flow or private-benefit inference.
+
+Full original HTML was retained and the article text and timestamp metadata inspected; no image or video content was reviewed. [Source provenance](Tmanch_CH7_Nov10_Adjournment_Source_Manifest.json).
+
+
+## November 10 original participant account and Chornobyl conference follow-up
+
+**ABUDHABI-NOV10-S005:** [Zelenskyy’s original account post](https://x.com/ZelenskyyUa/status/2120172358426042607), timestamped **November 10 at 15:10:55 UTC**, says he received the team’s first-day report. It distinguishes prior European/American coordination from the subsequent trilateral session and reports discussion of humanitarian and prisoner-release steps, long-term security guarantees and de-escalation. Further trilateral dialogue on November 11 and broader consultations over coming days remain prospective. The favorable assessment is attributed to the Ukrainian participant side, not independent proof of successful negotiations.
+
+This supplies a direct government-leader discussion summary beyond the earlier report that no outcomes had yet been released. It is not the still-unacquired FIS press-office adjournment statement, an exact resumption time, actual November 11 resumption, counterpart acceptance, an agreement, a prisoner release, ceasefire or implemented guarantee. Existing November 4 call and Brussels identities, missing original US records, written enforcement requirements and separate EU emergency-assistance gaps remain unchanged.
+
+**CHORNOBYL-NOV9-S001–002:** [The separate source note](Tmanch_CH7_Nov9_Chornobyl_Source_Note.md) records the now-confirmed November 9 Paris conference, EBRD’s EUR 303 million pledge report and France’s EUR 278 million mobilisation report. These figures remain source-specific and unreconciled. The [noncash pledge observation](Tmanch_CH7_Nov9_Chornobyl_Pledge_Observation.json) prevents either figure from being booked as received or added to prior funding. This extends the fundraiser context already recorded under 079/080, not another call or duplicate aid event.
+
+Affirmative diplomatic engagement and intended nuclear-safety support are documented; practical protection and restoration remain conditional on agreement, funding and implementation. No new event ID, score, financial-flow total, private receipt or policy bargain. Full original source bodies and their text/metadata were inspected; no audio/video inspection. [Source provenance](Tmanch_CH7_Nov11_Source_Manifest.json).
+
+
+## November 11: participant-reported second-day opening
+
+**ABUDHABI-NOV11-S001:** [Umerov's original post 606](https://t.me/umerov_rustem/606), inspected in the [original channel context](https://t.me/s/umerov_rustem), reports the second negotiating day beginning, with US–Russia–Ukraine talks first and a separate European-partner meeting to follow. Displayed time **08:38** has no acquired date or timezone metadata. A [dated Interfax account](https://en.interfax.com.ua/news/general/1234562.html), displayed November 11 at 10:52 without an established timezone, supplies calendar context and repeats the same speaker; it is not independent confirmation of his statement.
+
+**ABUDHABI-NOV11-S002:** [AP's original November 11 report](https://apnews.com/article/russia-ukraine-war-talks-kushner-witkoff-7c8d1024302e0c6ad8be064eec852a64) describes a held second consecutive day and also quotes Umerov. Its JSON-LD publication/modification timestamps are **09:39:46 UTC**. A separate Open Graph modification field reads **2026-11-11T09:41:35.067** without a timezone; the difference is retained rather than resolved. These are article metadata, not an exact negotiating start time. The shared quotation is one participant-source family, not two independent confirmations.
+
+For **079 / CH7-BRUSSELS-RECOVERY-001** and **080 / CH7-NOV4-ENVOY-CALL-001**, this advances the earlier prospective resumption stage. It does not redefine the original Brussels sessions or November 4 envoy call, add another event, or establish completion of negotiations or the later European meeting. Earlier prospective-only resumption language remains dated acquisition history. The prior current statuses are preserved here:
+
+- **J20-2026-079:** Original Brussels talks and later Abu Dhabi opening verified; agreed guarantees and outcomes unverified
+- **J20-2026-080:** Original call, later Abu Dhabi opening and separate coordination officially documented; terms unresolved
+
+The separate European meeting remains a plan; the already documented November 10 coordination is not evidence that the November 11 follow-on meeting happened. No European-government/EU seats at the trilateral table, agreed territorial or security terms, prisoner-exchange agreement/count, actual releases, ceasefire, enforceable guarantee or delivered aid is established by this update. No prisoner-agreement background sentence from secondary reporting is promoted over the acquired prospective participant wording.
+
+Continued negotiation is affirmative diplomatic process, not measured protection or a Russian/private benefit. Existing written-enforcement requirements, missing original US and FIS adjournment records, EU-assistance gaps and Chornobyl reconciliation remain unresolved. No score, financial flow or total changes.
+
+The original Umerov channel text and post-link mapping are retained as serialized web-tool responses, not raw Telegram HTML; date context has the same derivative provenance. AP's original HTML is retained. No audio/video or private negotiation record was inspected. [Source provenance](Tmanch_CH7_Nov11_Second_Day_Source_Manifest.json).
+
+
+## November 11 later reporting: exchange in principle and prospective consultations
+
+**ABUDHABI-NOV11-S002, later snapshot:** The updated [original AP article](https://apnews.com/article/russia-ukraine-war-talks-kushner-witkoff-7c8d1024302e0c6ad8be064eec852a64) reports that the two-day talks ended and that **Umerov and Medinsky confirmed a planned prisoner exchange**. It attributes to Kushner a statement that numbers remained for finalization the following day. This is attributed reporting of negotiating progress, not confirmation of a finalized count or actual release; the article's quoted superlative is not adopted as a verified comparison.
+
+**ABUDHABI-NOV11-S003:** [RFE/RL's original report](https://www.rferl.org/a/ukraine-russia-talks-resume-in-abu-dhabi-amid-drone-attacks/33895197.html) directly attributes to Medinsky an **agreement in principle**, with details to follow. The reports concern the same negotiations and overlapping remarks, not separate agreements or independent proof that performance occurred. No government-issued outcome statement, signed exchange instrument or complete original press transcript/video was acquired. Umerov's already acquired post 606 remains an opening statement, not the source of an outcome announcement.
+
+The same reporting attributes to Kushner an intended **November 12 Moscow meeting with Putin**, followed by travel to **Dublin to meet/brief Zelenskyy**. Moscow is future and Dublin is sequenced after it, without a separately established Dublin date. Neither meeting, travel completion nor the planned November 11 European follow-on is confirmed held by these acquired versions. Broader contacts are process, not accepted territorial terms or a peace settlement.
+
+For existing **079 / CH7-BRUSSELS-RECOVERY-001** and **080 / CH7-NOV4-ENVOY-CALL-001**, this is a later attributed outcome stage, not another event or envoy call. A reported in-principle humanitarian arrangement is affirmative progress beyond simply opening negotiations; benefit to prisoners remains prospective until terms and releases are established. No prisoner count, actual release, ceasefire, agreed security guarantee, completed wider settlement, measured Russian/private gain or policy bargain is inferred. All financial totals and scores remain unchanged.
+
+Earlier no-outcome and opening-only descriptions remain dated acquisition history, not a denial of this later report. The prior current statuses are preserved:
+
+- **J20-2026-079:** Original Brussels talks retained; Abu Dhabi day-two opening participant-reported; outcomes unresolved
+- **J20-2026-080:** Original call retained; Abu Dhabi day-two opening participant-reported; outcomes unresolved
+
+Existing US-side and FIS adjournment originals, written enforcement requirements, EU-assistance gaps and Chornobyl donor/receipt reconciliation remain outstanding. The ending of these sessions does not establish completion of the broader diplomatic process.
+
+AP's later snapshot keeps JSON-LD publication **09:39:46 UTC**, with modification **11:56:05 UTC**. Its Open Graph modification field is **2026-11-11T11:56:36.106**, timezone unstated. RFE/RL JSON-LD gives publication **10:52:23 UTC** and modification **11:55:24 UTC**; displayed article times are **11:52 CET** and updated **12:55 CET**. These are publication metadata, not exact times of agreement or release. The earlier AP opening snapshot and its different timestamps/hash remain intact in the [prior manifest](Tmanch_CH7_Nov11_Second_Day_Source_Manifest.json).
+
+Both new original HTML snapshots were retained and article text/metadata inspected; no audio/video inspection or original government outcome record is claimed. [Later-snapshot provenance](Tmanch_CH7_Nov11_Outcome_Source_Manifest.json).
+
+
+## November 11 later acquisition: original Ukrainian written outcome
+
+**ABUDHABI-NOV11-S004:** [Umerov's original post 607](https://t.me/umerov_rustem/607), inspected in the [official channel context](https://t.me/s/umerov_rustem), says the two days ended and an exchange agreement was reached, with details and practical implementation still being worked on. It also acknowledges substantial remaining differences. This is the participant's own written account, rather than only AP/RFE attribution. No finalized exchange count/date or actual release is provided.
+
+The post's displayed **13:06** has no acquired date/timezone metadata. The dated AP/RFE originals already cited establish the November 11 outcome episode, not this post's exact publication timestamp. A linked **0:56 video was not inspected**; the written caption is the reviewed evidence.
+
+This advances the source tier for the same **079/080** outcome, without a new agreement/event count. The prior missing-original-outcome wording remains acquisition history and is superseded only for Umerov's written account. No signed exchange instrument, original press-event transcript/video or government-issued counterpart instrument is newly acquired. Existing counts, releases, enforcement and settlement gaps remain.
+
+The post thanks European partners for shared work in Abu Dhabi. That broad acknowledgment does not establish completion of the specifically planned November 11 follow-on meeting or European seats at the trilateral table. Moscow/Dublin travel and meetings remain prospective in the retained record. Continued substantial differences also preclude treating the exchange announcement as an agreed wider settlement or security guarantee.
+
+The prior current statuses are preserved:
+
+- **J20-2026-079:** Original Brussels talks retained; Abu Dhabi exchange in principle reported; release and settlement unresolved
+- **J20-2026-080:** Original call retained; Abu Dhabi exchange in principle reported; release and settlement unresolved
+
+No score, financial-flow total, actual release, completed future meeting or private-benefit finding changes. Original source/correction history and both earlier AP snapshots remain intact. The source was acquired as serialized web-tool text and permalink mapping, not raw Telegram HTML. A separate direct-request placeholder is excluded because it contains no post text. [Acquisition provenance](Tmanch_CH7_Nov11_Umerov_Outcome_Source_Manifest.json).
+
+
+## November 11 G7 declaration: held Paris meeting and political commitments
+
+**G7-NOV11-S001–002:** The [UK FCDO original](https://www.gov.uk/government/news/joint-declaration-following-the-g7-foreign-ministers-meeting-in-paris) and [Canadian original](https://www.canada.ca/en/global-affairs/news/2026/11/joint-statement-following-the-g7-foreign-ministers-meeting-in-paris.html) publish the same joint declaration. It records that the G7 foreign ministers, including the United States, and EU High Representative met in Paris on **November 9–10**. This closes the held-meeting/declaration gap beyond the earlier **G7-NOV8-S001–002** planning context already attached to **079/080**. These are two official hosts of one joint statement, not two independently negotiated statements or additional meeting counts.
+
+The Ukraine section supports a full reciprocal ceasefire and European involvement in negotiations on Europe's future security. It describes continuing defence-capability/production support, coordination on financing needs for **2027 and beyond**, sanctions coordination and increased financial/material winter support. These are public positions and commitments, not newly acquired legal sanctions, a quantified funding instrument, disbursement, delivered equipment or implemented ceasefire. Its references to prior supply progress are not independently verified deliveries in this update.
+
+The statement includes the US in this collective diplomatic process. That is affirmative US/allied coordination; practical protection and financial effects still depend on implementation. European inclusion is a stated position, not evidence of European-government/EU seats at the Abu Dhabi trilateral table or completion of the separately planned November 11 follow-on. No wider settlement, measured Russian/private gain or policy bargain is inferred. Unrelated accusations in the declaration are outside this action-only update.
+
+The Chornobyl paragraph mentions the November 9 donors' conference but supplies no figure that resolves the existing **EUR 303 million versus EUR 278 million** discrepancy. No pledge, receipt or aid total is added. No new event, claim, score or financial-flow row is created; the original Brussels and November 4 call identities and all prior stages remain intact.
+
+UK publication/modification metadata both give **2026-11-11T12:42:15+00:00**. Canada's metadata give **2026-11-11T07:59:29** without an acquired timezone. These are publication fields, not meeting times. Both original HTML bodies were retained, with relevant text and metadata inspected; no audio/video inspection. [Source provenance](Tmanch_CH7_Nov11_PM_Source_Manifest.json).
+
+
+## November 11 later sources: exchange forecast and Ukrainian written debrief
+
+**ABUDHABI-NOV11-S002, later snapshot:** The [same AP article](https://apnews.com/article/russia-ukraine-war-talks-kushner-witkoff-7c8d1024302e0c6ad8be064eec852a64), in its later acquired version, attributes to **Alexander Zorin**, a Russian General Staff official who attended, a statement to Russian state television that the exchange **could take place in two or three weeks**. This is an attributed forecast, not a finalized date or implementation. Zorin's original television recording/transcript was not acquired. No source superlative or historical exchange count is adopted.
+
+The forecast concerns possible performance. Kushner's separately reported **November 12 target for finalizing numbers** concerns preparation; neither establishes a count or release date, and they are not contradictory deadlines. AP still describes the European follow-on as expected, rather than confirmed completed. Statements about seeking or eventually allowing European participation are positions, not an accepted format or guaranteed role.
+
+**ABUDHABI-NOV11-S005:** [Zelenskyy's original post 21776](https://t.me/V_Zelenskiy_official/21776), inspected in the [official channel](https://t.me/s/V_Zelenskiy_official), reports his team's debrief on meetings with the US/Russian sides and results of coordination with European partners present in the UAE. The written caption describes a humanitarian agreement **to prepare an exchange**, discussion of security views and discussion of wider formats involving Europeans. It does not announce final exchange terms, a release, agreed guarantees or an accepted broader negotiating format.
+
+The caption says the US representatives next travel to Russia and plans a Dublin meeting **“tomorrow”** afterwards. Its displayed **13:12** lacks acquired date/timezone metadata; do not convert that relative wording into an independently verified calendar date or completed travel/meeting. AP's dated November 11 story supplies episode context, not this post's exact timestamp. The attached **0:10 video was not inspected**; only the written caption and permalink mapping are evidence.
+
+Zelenskyy's report of coordination is an affirmative participant account of European-partner contact. It does not separately identify completion of the specifically planned November 11 follow-on meeting, its exact timing or European seats in the trilateral negotiations. This extends **079/080** and their existing claim joins without replacing the already acquired Umerov written outcome or creating a new agreement/event count. No finalized prisoner count/date, actual release, enforceable guarantee, ceasefire, completed wider settlement, measured benefit or financial flow is established. Current statuses, scores and all earlier source/correction stages remain unchanged.
+
+The new AP snapshot has JSON-LD publication **2026-11-11T09:39:46Z** and modification **2026-11-11T14:16:16Z**; its separate Open Graph modification field is **2026-11-11T14:20:26.249**, with no timezone. These are article metadata, not negotiating or exchange times. Original AP HTML is retained. Zelenskyy's caption and permalink mapping are retained as complete serialized web-tool responses, not raw Telegram HTML; unrelated content in those responses is outside this update. [Source provenance](Tmanch_CH7_Nov11_Late_Diplomacy_Source_Manifest.json).
+
+
+## November 11 acquired security-process reporting and November 9 EC position
+
+**Context only for 079/080 and their existing claims.** This source-note append does not upgrade event findings or statuses, establish a new meeting, or verify an agreement. The newly acquired sources have different dates and evidentiary roles.
+
+**ABUDHABI-NOV11-S006:** [Axios' November 11 report](https://www.axios.com/2026/11/11/russia-ukraine-europe-war-security-agreement), by Barak Ravid, attributes to two unnamed sources a US request for a new Russian security proposal including reciprocal de-escalation. It also reports US/Ukrainian briefings of European representatives before and after the talks, without supplying an acquired official record that resolves the specifically planned November 11 follow-on.
+
+A source described as familiar with White House thinking gives a parallel-negotiation approach, with implementation of a security arrangement only after a deal ending the war. The same source describes assurances that Europe and Ukraine would need to be on board and Russia would not receive a veto over European security. These remain anonymously sourced process accounts and assurances, not an official US instrument, accepted negotiating terms, enforceable protections or guaranteed participation.
+
+No accepted NATO restrictions or new US concession is established by this context. No underlying proposal text or independent original US account of the reported assurances was acquired. Reported contact and contemplated architecture do not establish a completed wider settlement, verified protective benefit or financial effect.
+
+**EU-SECURITY-NOV9-S001:** The [European Commission's official November 9 midday briefing page](https://audiovisual.ec.europa.eu/en/media/video/I-297404) contains a written transcript of spokesperson Paula Pinho's answers. It places discussions on the European security framework **after the conflict ends** and says the EU must decide matters within its competence affecting its security and be present in such discussions. This is a dated official EU position, not a November 11 response to Axios or proof that an agreed framework exists.
+
+The November 9 briefing also described planned EU participation in Abu Dhabi meetings, with the precise format not yet specified. Those prospective remarks do not establish a later held session, trilateral seats or a completed November 11 European follow-on. No audio or video was inspected; the official written transcript is the acquired evidence.
+
+Keep **discussion/negotiation timing** separate from **implementation timing**. Axios' later anonymous parallel-negotiation account and the earlier EC after-conflict discussion position are different attributed statements. Neither source establishes that their sequencing was reconciled, that EU policy changed, or that the parties accepted a common framework. Remaining US-side source, final prisoner-count/date/release, written-enforcement and meeting-verification gaps are unaffected.
+
+Axios publication/modification metadata both read **2026-11-11T19:12:03.349404Z**. The EC page labels the briefing **09/11/2026**; no exact briefing time is assigned. Both original HTML bodies were retained and the relevant article/transcript text inspected. Prior source/correction history, all ledger rows, scores and financial totals remain unchanged. [Source provenance](Tmanch_CH7_Nov11_Security_Context_Source_Manifest.json).
+
+
+## November 11 later AP snapshot: named public account and excerpt limits
+
+**ABUDHABI-NOV11-S002, later snapshot:** The [same AP article](https://apnews.com/article/russia-ukraine-war-talks-kushner-witkoff-7c8d1024302e0c6ad8be064eec852a64) now explicitly attributes to **Kushner** discussion of Russian security concerns and a request that Moscow provide different de-escalation proposals acceptable to Europe. It attributes to him a stated need for European countries, the EU and NATO in those discussions and an aim to seek European inclusion at the planned Moscow meeting.
+
+This is named public-remarks reporting for that narrower request and participation goal, stronger attribution than an anonymous process account. It is not an independently inspected recording of the security remarks, a Russian acceptance, invitation, binding guarantee or implementation. It does not corroborate Axios' separate anonymous Europe/Ukraine-consent and no-Russian-veto assurances or turn those into commitments. The reported request, parties' acceptance and practical outcome remain separate.
+
+AP also paraphrases EU officials as placing security discussions after a ceasefire. Keep that generic reporting separate from the earlier **November 9 official EC transcript's after-conflict formulation**. No acquired common text reconciles those formulations or establishes a policy change. AP locates Zelenskyy's remarks in Dublin; that location is not evidence of an actual meeting with the US envoys. Planned Moscow and subsequent US-envoy Dublin meetings remain unverified as completed in these records.
+
+A bounded check of the [AP-hosted briefing excerpt](https://apnews.com/video/russia-and-ukraine-agree-to-a-large-exchange-of-prisoners-of-war-officials-at-abu-dhabi-talks-say-0a1d2eaf9cca46ffa30b860969def973) acquired the public player manifest and associated English captions. The manifest lists **92 seconds**. Captions around **00:04–00:40** cover the already recorded next-day numbers target and planned Moscow/Dublin itinerary; **00:42–01:23** is labeled as foreign-language speech without a substantive English transcription. **The security/de-escalation segment is not covered by the acquired English captions.** Audio and video were not inspected. This limited caption check does not close the original security-remarks recording/transcript gap or establish new completed meetings, counts or releases.
+
+AP's retained snapshot has JSON-LD publication **2026-11-11T09:39:46Z** and modification **2026-11-11T19:43:31Z**. The separate Open Graph modification field reads **2026-11-11T20:47:00.661**, with no timezone. These metadata identify this later article version, not a precise negotiating time. All earlier AP snapshots remain intact.
+
+This is additional source context under the same **079/080**, with no new event, ledger finding/status change, score or financial flow. It does not establish a wider agreement, accepted NATO restriction, guaranteed European role, final exchange count/date, actual release or completed Moscow meeting. [Combined source provenance](Tmanch_CH7_Nov11_Security_Context_Source_Manifest.json).
+
+
+## November 12 acquisition: proposed EU listings and reported Russian security possibilities
+
+**Source context for the existing 079/080 diplomacy/sanctions discussion, not a new event or finding/status upgrade.** The two subjects below are separate developments. Neither supplies an accepted security arrangement, implemented sanction or measured effect.
+
+### EU listing preparation: reported agreement and scheduled instruments
+
+**EU-LISTINGS-NOV11-S001:** [Reuters' November 11 report, carried by AOL](https://www.aol.com/articles/eu-envoys-agree-russia-sanctions-142850000.html), by Julia Payne and displayed **14:28 UTC**, attributes to EU diplomats agreement among envoys on **145 proposed listings**: **113** under the territorial-integrity regime, **31** under the hybrid-activities regime and **one** under cyber sanctions. It expects ministerial adoption on the following Monday, **November 16**, before Official Journal publication. This is attributed reporting of a preparatory agreement, not an acquired final act, operative listing count or implementation finding. The same Reuters republication family does not supply independent corroboration.
+
+**EU-LISTINGS-NOV11-S002:** The [official provisional Coreper II agenda, ST 15277/1/26 REV 1](https://data.consilium.europa.eu/doc/document/ST-15277-2026-REV-1/en/pdf), is dated **November 10** for the **November 11** meeting. Page 7 lists related instruments among non-discussion items: **53** on cyber measures, **54** on destabilising activities and **58** on Ukraine's territorial integrity. The scheduled label **Adoption** is not an outcome record. This agenda independently supports preparation of related instruments, not Reuters' agreement account, proposed total or target identities.
+
+**EU-LISTINGS-NOV11-S003:** The public register identifies the November 10 metadata for [ST 14459/26](https://www.consilium.europa.eu/en/documents/public-register/public-register-search/?AllLanguagesSearch=false&DocumentLanguage=EN&DocumentNumber=14459%2F26&OnlyPublicDocuments=false), [ST 14462/26](https://www.consilium.europa.eu/en/documents/public-register/public-register-search/?AllLanguagesSearch=false&DocumentLanguage=EN&DocumentNumber=14462%2F26&OnlyPublicDocuments=false) and [ST 14463/26](https://www.consilium.europa.eu/en/documents/public-register/public-register-search/?AllLanguagesSearch=false&DocumentLanguage=EN&DocumentNumber=14463%2F26&OnlyPublicDocuments=false). They concern a territorial-integrity Council decision, implementing regulation and I/A item note, respectively. Their bodies are marked inaccessible. Metadata cannot verify names, grounds, counts, exact operative terms, adoption or effectiveness; no restricted body was acquired or access request sent.
+
+This documents an allied preparatory process. Any eventual financial, shipping or influence-channel constraint remains conditional on final instruments and implementation. No new enacted-sanction count, asset-freeze amount, revenue effect, US presidential direction, private receipt, financial flow or score is assigned. Article-specific allegations and target names are outside this context. Next records are final Council instruments, Official Journal publication, exact entry-into-force terms and independently verified target counts/effects. No prior enacted measure is replaced or recounted.
+
+### Drobinin remarks: possible instruments, not an acquired proposal
+
+**DROBININ-NOV11-S001:** [Agency's original November 11 article](https://www.agents.media/moskva-predlozhila-stranam-nato-zaklyuchat-pakty-o-nenapadenii/) attributes to Russian Foreign Ministry policy-planning director **Alexey Drobinin** remarks at a Moscow security forum about possible instruments. Its examples include mutual-defence obligations, political non-support commitments in an aggression scenario, and bilateral non-aggression arrangements with individual NATO members. It also reports other possible restraint and confidence-building arrangements. The three prominent examples are therefore not established as an exhaustive three-option package.
+
+This is original publisher reporting of a named speaker's remarks, **not an acquired complete official speech, formal negotiating text, submitted response to the US request, accepted terms or implementation**. A located embedded video was not inspected; neither a complete speech recording nor an official transcript was acquired. No assurance is treated as an enforceable guarantee or evidence of performance.
+
+The article's JSON-LD publication is **2026-11-11T10:44:02+00:00**, with modification **10:44:04+00:00**. These are article times, not an exact speech time or proof of a causal sequence with the separately reported US request. The existence of reported Russian possibilities does not resolve the earlier EU/US sequencing differences or establish a completed Moscow meeting. No new diplomatic event, concession, agreement, beneficiary score or financial total follows.
+
+Both additions preserve the original Brussels and November 4 call identities and all prior source/correction stages. All ledger findings, narrative rows, statuses, scores and financial files remain unchanged. Original Reuters-syndication HTML, agenda PDF and Agency HTML are retained; agenda pages 1 and 7 were visually inspected. Register evidence is a copied serialized web-tool response, not original website bytes or document bodies. Only its relevant official-register sections are used. No raw archive is published. [Source provenance](Tmanch_CH7_Nov12_Policy_Context_Source_Manifest.json).
+
+
+## November 12: reported Kremlin arrival, not a verified meeting outcome
+
+**MOSCOW-NOV12-S001:** [AP's original November 12 report](https://apnews.com/article/russia-ukraine-war-putin-kushner-witkoff-683810203340077f33611fd1d1757b23) says Steve Witkoff and Jared Kushner arrived at the Kremlin for talks with Vladimir Putin. This advances the earlier planned Moscow visit to **reported arrival**. The acquired snapshot does not establish when the meeting began, that it ended, or a new substantive outcome. Its later sentence beginning “After meeting with Putin” is syntactically ambiguous in an arrival-led report and is not used as completion evidence. The US envoys' subsequent Dublin consultation remains a plan.
+
+AP JSON-LD records publication at **2026-11-12T07:08:26Z** and modification at **11:05:13Z**. Open Graph separately records **11:06:06.107** without an acquired timezone. These are article metadata, not an exact arrival or meeting time. The original HTML was acquired at **11:21:18.914124 UTC**. Photographs and headlines are not used to upgrade the meeting stage; no original official meeting record was acquired for this append.
+
+For existing **079 / CH7-BRUSSELS-RECOVERY-001** and **080 / CH7-NOV4-ENVOY-CALL-001**, the same follow-up itinerary remains joined to the original Brussels and November 4 call records. Earlier planned-stage wording is retained as dated acquisition history, not silently rewritten. Exact previous current statuses are preserved:
+
+- **J20-2026-079:** Original Brussels talks retained; Umerov outcome and held G7 meeting documented; release and settlement unresolved
+- **J20-2026-080:** Original call retained; Umerov outcome and held G7 meeting documented; release and settlement unresolved
+
+Reported arrival is affirmative evidence of diplomatic travel, not a concession, accepted European negotiating role, settled security or territorial terms, final prisoner count/date, actual release, ceasefire or enforceable guarantee. The earlier Umerov exchange agreement and held G7 meeting remain documented; this update neither withdraws them nor adds implementation. Moscow/Dublin meeting completion, original US/FIS records, aid delivery, Chornobyl accounting and other substantive gaps remain open. No new event, claim, score, financial flow or measured benefit is assigned. [Source provenance](Tmanch_CH7_Nov12_Moscow_Arrival_Source_Manifest.json).
+
+
+## November 12 acquisition: official meeting start and Costa's EPC principles
+
+**MOSCOW-NOV12-S002:** The [Kremlin's official written post 8330](https://t.me/news_kremlin/8330), inspected in its [channel](https://t.me/s/news_kremlin), reports that Vladimir Putin's meeting with Steve Witkoff and Jared Kushner **began in the Kremlin**. This advances the earlier AP-reported arrival to an official meeting-start account. It is not evidence of completion, accepted terms or implementation. The post's displayed **edited 12:47** label lacks acquired calendar-date and timezone metadata; it is not converted into an exact start time. November 12 is the acquisition date, with the separately dated AP arrival report supplying context for the same visit. The attached 34-second video was not inspected, and the linked Kremlin webpage was not acquired.
+
+The written channel response is retained as a serialized derivative. A separate retained permalink rendering identifies post 8330; the researcher verified its link from the channel item. This is not a raw Telegram HTML archive. A direct HTTP attempt returned only a Site Unavailable placeholder, which is excluded from content evidence.
+
+**EPC-NOV12-S001:** In [official November 12 EPC opening remarks in Dublin](https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/opening-remarks-by-president-antonio-costa-at-the-meeting-of-the-european-political-community-in-dublin/), António Costa affirms Ukraine's freedom to choose its partners and allies and a European voice in security discussions, coordinated among European nations, the EU and NATO. He invokes sovereign equality, non-use of force, inviolable frontiers, territorial integrity and peaceful settlement. Ceasefire, tangible Black Sea progress and conditions for a peace agreement are stated priorities. His thanks for France's declaration initiative do not establish adoption of a declaration or acceptance of its terms.
+
+These are Costa's public political positions, not an adopted settlement, guaranteed negotiating seat, Russian acceptance or enforceable security guarantee. They affirm Ukrainian and European agency; the separate Kremlin-start account does not prove those safeguards were accepted. The earlier European Commission sequencing statement and all prior source distinctions remain intact. The official page displays **November 12 at 13:25**, without an acquired timezone. Its actual HTML body was retained and inspected; no audiovisual inspection is claimed. The EPC remarks do not establish a held US-envoy Dublin consultation.
+
+Both additions extend existing **079 / CH7-BRUSSELS-RECOVERY-001** and **080 / CH7-NOV4-ENVOY-CALL-001**, without redefining their original Brussels/call identities. Earlier travel-planning and arrival-only wording remains dated acquisition history. Exact previous current statuses are preserved:
+
+- **J20-2026-079:** Original Brussels talks retained; Kremlin arrival AP-reported; Moscow meeting start/outcome and release unresolved
+- **J20-2026-080:** Original call retained; Kremlin arrival AP-reported; Moscow meeting start/outcome and release unresolved
+
+The new official start report closes the start-account gap only. Meeting completion, substantive outcomes, accepted European participation, final prisoner count/date, actual release, ceasefire and enforceable guarantees remain unverified. Earlier Umerov humanitarian-agreement and G7 records remain documented, while aid-delivery and Chornobyl accounting gaps are unchanged. No new event, claim, financial flow, score or measured benefit is assigned. [Source provenance](Tmanch_CH7_Nov12_Meeting_Opening_Source_Manifest.json).

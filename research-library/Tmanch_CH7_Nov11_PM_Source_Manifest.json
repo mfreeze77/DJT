@@ -1,0 +1,106 @@
+{
+  "review_date_utc": "2026-11-11",
+  "baseline_commit": "b59e84ec9e19096247dac88ea6bc3e66a227383a",
+  "scope": "Append existing 079/080 G7 context and existing 091 exchange response; publish staged original Umerov written-outcome source upgrade with its separate manifest. Extend existing 098 with final EUMAM legal act and noncash reference companion, without adding a financial flow.",
+  "sources": [
+    {
+      "source_id": "G7-NOV11-S001",
+      "source_family": "G7 Paris November 9–10 joint declaration; same statement on two official hosts",
+      "url": "https://www.gov.uk/government/news/joint-declaration-following-the-g7-foreign-ministers-meeting-in-paris",
+      "source_class": "Original government HTML",
+      "acquired_utc": "2026-11-11T13:57:00.686930+00:00",
+      "http_status": 200,
+      "publication_and_modification": "2026-11-11T12:42:15+00:00",
+      "publication_timezone": "UTC",
+      "artifact": "g7-uk-nov11.html",
+      "bytes": 131583,
+      "sha256": "7a9ffd3a819dd4c2153971cbfe373b7525c37215f3e4590985fd1e803a21f92e",
+      "inspection": "Relevant original text and metadata; no audio/video inspection",
+      "limits": "Held meeting and collective public commitments only; no new legal instrument, amount, receipt, delivery or ceasefire implementation."
+    },
+    {
+      "source_id": "G7-NOV11-S002",
+      "source_family": "G7 Paris November 9–10 joint declaration; same statement on two official hosts",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/11/joint-statement-following-the-g7-foreign-ministers-meeting-in-paris.html",
+      "source_class": "Original government HTML",
+      "acquired_utc": "2026-11-11T13:59:12.591263+00:00",
+      "http_status": 200,
+      "publication_and_modification": "2026-11-11T07:59:29",
+      "publication_timezone": null,
+      "artifact": "g7-canada-nov11.html",
+      "bytes": 62343,
+      "sha256": "d0a954d3101796cdee89e783c78c8978690879f4b4f08db9464596d39d784e3e",
+      "inspection": "Relevant original text and metadata; no audio/video inspection",
+      "limits": "Held meeting and collective public commitments only; no new legal instrument, amount, receipt, delivery or ceasefire implementation."
+    },
+    {
+      "source_id": "MEXC-9714-S010",
+      "source_family": "KuCoin exchange-authored response, distinct from Binance and FinCEN legal instrument",
+      "url": "https://www.kucoin.com/announcement/en-important-notice-regarding-transfers-from-to-mexc-global-limited-and-affiliated-entities",
+      "source_class": "Original page text in unmodified serialized web-tool response; derivative, not raw HTML",
+      "displayed_time": "2026/11/10 19:45:00",
+      "publication_timezone": null,
+      "retention_checked_at": "2026-11-11T14:00:02.266630+00:00",
+      "artifact": "kucoin-web-response.json",
+      "bytes": 6103,
+      "sha256": "7cbe53f22b34fda7a0c1bffc7f810b642c9141f1bb2b31be3aea6caec124a331",
+      "excluded_artifact": "Direct-request 195-byte Site Unavailable placeholder, not source text",
+      "limits": "Exchange announcement only; transaction-level execution, affected amount and net effects unverified. December 10 legal effectiveness unchanged."
+    },
+    {
+      "source_id": "EUMAM-NOV9-S003",
+      "source_family": "One final legal act, two official format artifacts",
+      "legal_identifier": "Council Decision (CFSP) 2026/2508; CELEX 32026D2508",
+      "adopted_and_entered_into_force": "2026-11-09",
+      "oj_publication_date": "2026-11-11",
+      "application_start": "2026-11-16",
+      "application_end": "2028-11-15",
+      "artifacts": [
+        {
+          "artifact": "eumam-cellar-1.pdf",
+          "artifact_type": "Original official final PDF",
+          "url": "https://publications.europa.eu/resource/cellar/57b98e4d-dd70-11f1-8501-01aa75ed71a1.0006.01/DOC_1",
+          "http_status": 200,
+          "acquired_utc": "2026-11-11T14:05:00.576822+00:00",
+          "bytes": 877236,
+          "sha256": "ce5222e0faff9c620ae0a6019727f3825dc10091a0b62d6c54e9252a08ddaf48"
+        },
+        {
+          "artifact": "eumam-cellar-2.html",
+          "artifact_type": "Original official final XHTML",
+          "url": "https://publications.europa.eu/resource/cellar/57b98e4d-dd70-11f1-8501-01aa75ed71a1.0006.03/DOC_1",
+          "http_status": 200,
+          "acquired_utc": "2026-11-11T14:05:03.815435+00:00",
+          "bytes": 31205,
+          "sha256": "d43165aae2f8597a572654c4103f57d4fb97ec0f28b7f7be27686e21a4f232a1"
+        }
+      ],
+      "inspection": "All three PDF pages visually inspected; operative text compared with official XHTML.",
+      "limits": "Common-cost reference, not expenditure; no observed in-country start; 054 overlap, personnel-status agreement and implementation remain unresolved."
+    }
+  ],
+  "joins": [
+    "J20-2026-079",
+    "J20-2026-080",
+    "J20-2026-091",
+    "CH7-BRUSSELS-RECOVERY-001",
+    "CH7-NOV4-ENVOY-CALL-001",
+    "CH7-MEXC-9714-001",
+    "J20-2026-098",
+    "CH7-EUMAM-NOV9-001"
+  ],
+  "prior_current_statuses": {
+    "J20-2026-079": "Original Brussels talks retained; Abu Dhabi exchange in principle reported; release and settlement unresolved",
+    "J20-2026-080": "Original call retained; Abu Dhabi exchange in principle reported; release and settlement unresolved",
+    "J20-2026-091": "Final publication and December 10 effectiveness verified; Binance response announced November 10; operational implementation/effects unverified",
+    "CH7-BRUSSELS-RECOVERY-001": "Original Brussels talks retained; Abu Dhabi exchange in principle reported; release and settlement unresolved",
+    "CH7-NOV4-ENVOY-CALL-001": "Original call retained; Abu Dhabi exchange in principle reported; release and settlement unresolved",
+    "CH7-MEXC-9714-001": "Final publication and December 10 effectiveness verified; Binance response announced November 10; operational implementation/effects unverified",
+    "J20-2026-098": "Official adoption report verified; final act and implementation unacquired",
+    "CH7-EUMAM-NOV9-001": "Official adoption report verified; final act and implementation unacquired"
+  },
+  "preserves_earlier_source_history": true,
+  "no_new_event_or_claim": true,
+  "no_raw_archive_published": true,
+  "no_financial_flow_or_score_changes": true
+}
