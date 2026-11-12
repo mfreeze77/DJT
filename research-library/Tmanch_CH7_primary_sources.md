@@ -1468,3 +1468,10 @@ The [afternoon source manifest](Tmanch_CH7_Nov10_Afternoon_Source_Manifest.json)
 - **079/080 / MOSCOW-NOV12-S001:** [AP-reported Kremlin arrival](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-12-reported-kremlin-arrival-not-a-verified-meeting-outcome), advancing travel chronology only. Meeting commencement/completion, subsequent Dublin consultation and new outcomes remain unverified.
 
 [Provenance and preserved prior statuses](Tmanch_CH7_Nov12_Moscow_Arrival_Source_Manifest.json). Original identities, earlier acquisition stages, scores and financial totals remain intact.
+
+
+## November 12 official meeting-start and EPC follow-up
+
+- **079/080 / MOSCOW-NOV12-S002; EPC-NOV12-S001:** [Official meeting-start report and Costa's stated principles](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-12-acquisition-official-meeting-start-and-costas-epc-principles). Start is distinct from completion; political positions are distinct from accepted terms or declaration adoption.
+
+[Provenance and preserved prior statuses](Tmanch_CH7_Nov12_Meeting_Opening_Source_Manifest.json). Earlier stages, original identities, scores and financial totals remain intact.
