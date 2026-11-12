@@ -1456,3 +1456,8 @@ The [afternoon source manifest](Tmanch_CH7_Nov10_Afternoon_Source_Manifest.json)
 - **079/080 / DROBININ-NOV11-S001:** [Reported possible security instruments](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#drobinin-remarks-possible-instruments-not-an-acquired-proposal), not an exhaustive package, acquired formal proposal, US-request response or agreed guarantee.
 
 [Source provenance](Tmanch_CH7_Nov12_Policy_Context_Source_Manifest.json). Context only; no ledger, narrative, status, score or financial-total changes.
+
+
+## November 12 diesel-source follow-up
+
+- **040 / CH7-DIESEL-SHIP-001 / DIESEL-SHIP-S024:** [Attributed movement detail and acquisition limits](Tmanch_CH7_Oct23_Diesel_Shipment_Source_Note.md#november-12-acquisition-november-11-attributed-movement-report). Same cargo; no ledger/status or financial change. [Provenance](Tmanch_CH7_Nov12_Diesel_Movement_Source_Manifest.json).

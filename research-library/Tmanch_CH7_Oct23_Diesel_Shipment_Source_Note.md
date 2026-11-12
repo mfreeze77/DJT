@@ -129,3 +129,14 @@ Potential exporter access and realized financial benefit remain separate. No new
 - **CH7-DIESEL-SHIP-001:** Attributed departure and tracking reports
 
 The articles were inspected in successful researcher web-rendered responses; retained selected passages are manually transcribed derivatives, not raw HTML. A later preparer reopening failed and supplied no article evidence. The later successful VesselFinder response is retained as complete serialized tool output, also not raw HTML or AIS. No fresh original GL135 archive is claimed by this update; the prior original legal evidence remains the basis for that distinction. [Source provenance](Tmanch_CH7_Nov11_Diesel_Followup_Source_Manifest.json).
+
+
+## November 12 acquisition: November 11 attributed movement report
+
+**DIESEL-SHIP-S024 / existing 040 / CH7-DIESEL-SHIP-001:** [Bloomberg's November 11 report on gCaptain](https://gcaptain.com/russian-diesel-tanker-makes-u-turn-after-heading-to-u-s/) describes Agioi Fanendes moving away from the US East Coast and zigzagging since Monday, **November 9**, citing a port report and tracking data compiled by Bloomberg. The publication date does not establish a separately dated November 11 turn. Eastern Mediterranean Maritime's unconfirmed discharge-port account repeats its previous response, not a new port decision. Bloomberg is a distinct reporting attribution from Reuters; independence of their underlying tracking sources is unknown.
+
+This adds movement detail for the **same cargo**, not a verified final diversion, destination, terminal refusal, discharge, sale, payment or routing cause. The underlying port report, continuous track and original manager communication were not acquired. The displayed article date has no time or timezone. Broader fleet, nationwide delivery, refinery and volume claims are not adopted.
+
+Preserve the October 22/23 loading-date discrepancy and all earlier acquisition stages. Near-term direct US-supply evidence remains limited, without erasing the separately documented GL135 qualifying transaction access or proving zero world-market sales/Russian revenue. No new event, cargo quantity, financial flow, score or structured status is added. Mixed-age public provider fields are not combined into an independently verified route. All ledgers and narrative rows remain unchanged.
+
+The complete successful web-rendered article response was retained as a serialized **derivative**, not original HTML or raw telemetry. [Source provenance](Tmanch_CH7_Nov12_Diesel_Movement_Source_Manifest.json).

@@ -1,0 +1,39 @@
+{
+  "review_date_utc": "2026-11-12",
+  "baseline_commit": "d874c97ab31aaf6fa204ace14c25118462b8b2de",
+  "scope": "Append-only source context for existing 040 / CH7-DIESEL-SHIP-001; same cargo, no status promotion or new financial observation.",
+  "sources": [
+    {
+      "source_id": "DIESEL-SHIP-S024",
+      "url": "https://gcaptain.com/russian-diesel-tanker-makes-u-turn-after-heading-to-u-s/",
+      "publisher": "gCaptain",
+      "byline": "Bloomberg",
+      "displayed_publication_date": "2026-11-11",
+      "publication_time_and_timezone": null,
+      "inspection_date": "2026-11-12",
+      "exact_acquisition_time": null,
+      "source_class": "Original syndicator page carrying Bloomberg journalism; tracking and manager statements attributed, not original telemetry or communication",
+      "artifact": "bloomberg-gcaptain-web-response.json",
+      "artifact_type": "Complete serialized successful web-tool response; derivative, not original HTML or underlying source-data bytes",
+      "bytes": 8755,
+      "sha256": "381dde457f784dfe990369feb18a678c9db52db603db644ae4be7a21fa213c96",
+      "inspection": "Written article inspected; stock image not used as vessel evidence",
+      "movement_date_resolution": "Monday in the November 11 article resolves to November 9; publication date is not exact turn date",
+      "independence_limit": "Reporting family differs from Reuters; upstream tracking-source independence not established; manager response explicitly repeated",
+      "unacquired": [
+        "Underlying port report",
+        "Continuous raw vessel track",
+        "Original manager communication",
+        "Confirmed destination, discharge or payment records"
+      ]
+    }
+  ],
+  "joins": [
+    "J20-2026-040",
+    "CH7-DIESEL-SHIP-001"
+  ],
+  "no_raw_archive_published": true,
+  "no_ledger_narrative_or_status_change": true,
+  "no_new_event_claim_or_cargo": true,
+  "no_score_or_financial_flow_change": true
+}
