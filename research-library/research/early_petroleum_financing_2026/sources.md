@@ -64,3 +64,11 @@ CH2-P27 supplies the distinct 1982–83 SMI chronology and attributed testimony.
 - Entity labels containing “DTA810457” deliberately remain distinct from DOS-numbered candidates.
 - Reported orders and calculated credits remain typed separately from payment documents.
 - No aggregate amount or network-ownership conclusion is calculated.
+
+## CH2-P45 — Conlo corporate petitioners
+
+NY Tax Appeals Tribunal, May 11, 1995, DTA 801597. [Original PDF](https://www.dta.ny.gov/pdf/archive/decisions/801597.dec.pdf). Printed p.3 names two corporate petitioners and the officers collectively; pp.1–2,8–9 bound the tax period and default-vacatur posture. Original PDF retained; page 3 visually inspected. No allocation of precise officer titles/ownership or verified corporate join to Macchia's Conlo, Inc. See the [identity note](identity_note_2026-11-12.md) and [sanitized provenance](identity_source_manifest_2026-11-12.json).
+
+## CH2-P46 — Blue Bell official All Filings metadata
+
+NY Department of State, [All Filings query for DOS 884703](https://data.ny.gov/resource/63wc-4exh.json?%24where=corpid_num%3D884703&%24limit=1000), acquired November 12, 2026. One original response row records Blue Bell, Major Energy fictitious name, May 10, 1983 authority filing, film A978447-6 and foreign-incorporation date August 26, 1980. Foreign jurisdiction absent. No certificate image, ownership/transfer instrument or match to a Panama candidate or Austrian account acquired. See the [identity note](identity_note_2026-11-12.md) and [sanitized provenance](identity_source_manifest_2026-11-12.json). This source upgrades filing metadata only; it is not a new financial event.

@@ -70,3 +70,7 @@ The street address does not identify a historical legal parcel. Later facility i
 5. Individual restitution judgments and collection/distribution records, with offsets against other orders.
 
 These targeted records could close substantive gaps; more name-only litigation matches cannot substitute for them.
+
+## November 12, 2026 identity-only supplement
+
+[Conlo and Blue Bell identity controls](identity_note_2026-11-12.md) and [typed observations](identity_observations.csv) preserve two unresolved cross-source matches. No amount or transaction is counted; the existing transaction and relationship rows remain unchanged.

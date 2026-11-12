@@ -773,3 +773,19 @@ CH2-P16's earlier metadata and use are preserved above. The [November 11 source 
 
 **Supports:** An attributed state-seizure account and prosecutor rationale, not the underlying judicial instrument. The 1991 article is not evidence of a 1992 seizure date. See the [November 11 source correction](Tmanch_CH2_Bogatin_Seizure_Correction.md) for source acquisition and legal-record limits.
 
+
+## November 12, 2026: identity-only source refinements
+
+[Conlo and Blue Bell identity controls](research/early_petroleum_financing_2026/identity_note_2026-11-12.md) add a standalone noncash observation companion. Existing claims, flows and correction history are unchanged.
+
+## CH2-P45 — Conlo corporate petitioners
+
+**Source:** NY Tax Appeals Tribunal, May 11, 1995, DTA 801597, printed p.3. https://www.dta.ny.gov/pdf/archive/decisions/801597.dec.pdf
+
+**Limits:** Two named corporations; officer wording does not allocate precise titles or ownership. January–February 1984 tax period and default-vacatur posture are not later transaction findings. Cross-source identity remains unresolved. [Details and provenance](research/early_petroleum_financing_2026/sources.md#ch2-p45--conlo-corporate-petitioners).
+
+## CH2-P46 — Blue Bell official filing metadata
+
+**Source:** NY DOS All Filings, DOS 884703, film A978447-6; acquired November 12, 2026. https://data.ny.gov/resource/63wc-4exh.json?%24where=corpid_num%3D884703&%24limit=1000
+
+**Limits:** Official names and date fields only; foreign jurisdiction absent. No certificate image, ownership/transfer instrument or established Panama/Austrian-account match. [Details and provenance](research/early_petroleum_financing_2026/sources.md#ch2-p46--blue-bell-official-all-filings-metadata).
