@@ -88,3 +88,15 @@ DOE, 50 FR 51916-51919. [Official issue PDF](https://www.govinfo.gov/content/pkg
 ## CH2-P50 — Jimmy’s refund-award summary
 
 DOE, 51 FR 24436. [Official issue PDF](https://www.govinfo.gov/content/pkg/FR-1986-07-03/pdf/FR-1986-07-03.pdf). Original SHA-256: `6d4f74e92341a05088622e9dd8a2a3737a724f6c025ad37ea2a0bd0790ca2164`. See the [bounded proceeding note](doe_refund_note_2026-11-12.md) and [manifest](doe_source_manifest_2026-11-12.json) for dates, page locators and limits. Stages overlap; no cross-source corporate identity or bank-cleared payment is established.
+
+## CH2-P51 — DOE Appendix B completed-payment classification
+
+**Source:** 50 FR 4963,4965. [Original official issue PDF](https://www.govinfo.gov/content/pkg/FR-1985-02-05/pdf/FR-1985-02-05.pdf). SHA-256: `ad2f76b32198cdfed6a421a5b09745789497e46b787be7fae906208b48f5718a`.
+
+**Limits:** No amount, HEF number or corporate identifier; correlated name/locality only. Classification cutoff is not exact payment date or universal release. [Chronology and companion contract](doe_refund_note_2026-11-12.md#november-13-2026-continuation-two-earlier-administrative-stages); [sanitized provenance](doe_continuation_source_manifest_2026-11-13.json).
+
+## CH2-P52 — DOE Jimmy’s application receipt
+
+**Source:** 51 FR 8236. [Original official issue PDF](https://www.govinfo.gov/content/pkg/FR-1986-03-10/pdf/FR-1986-03-10.pdf). SHA-256: `3ab904cc2f8719bb13ac939a7ea21e7615e257c190dbd8e722c645a361a9890d`.
+
+**Limits:** Do. date inheritance gives February 5, 1986 application receipt for RF236-1, not award or payment. No amount or full application acquired. [Chronology and companion contract](doe_refund_note_2026-11-12.md#november-13-2026-continuation-two-earlier-administrative-stages); [sanitized provenance](doe_continuation_source_manifest_2026-11-13.json).
