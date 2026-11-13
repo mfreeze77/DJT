@@ -1482,3 +1482,11 @@ The [afternoon source manifest](Tmanch_CH7_Nov10_Afternoon_Source_Manifest.json)
 - **079/080 / MOSCOW-NOV12-S001 later snapshot; MOSCOW-NOV12-S003; DUBLIN-NOV12-S001; DUBLIN-NOV12-S002:** [Held-meeting chronology and attributed future European role](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-12-meetings-moscow-completion-and-held-dublin-consultation). AP's dated account, the Kremlin's written post-meeting caption and Ukraine's original Dublin readout close the earlier completion/consultation gaps. Prospective participation, exchange and further meetings remain distinct from implementation or settlement.
 
 [Provenance and preserved prior statuses](Tmanch_CH7_Nov13_Held_Meetings_Source_Manifest.json). The Ukrainian page's displayed November 13 publication date is distinct from AP's November 12 meeting context. Original row identities, earlier stages, scores and financial totals remain intact.
+
+
+## November 12 allied legal action and specific EU winter support
+
+- **103 / CH7-UK-NOV12-SANCTIONS-001 / UK-NOV12-S001–002:** [UK additions and variation](Tmanch_CH7_Nov12_UK_Sanctions_Source_Note.md). Twenty new entries, one existing variation, entry-specific measures and unresolved internal IMO wording; no measured blocking/revenue or 040 vessel intersection.
+- **104 / CH7-EU-WINTER-NOV12-001 / EU-WINTER-NOV12-S001:** [EU mobilization and future decisions](Tmanch_CH7_Nov12_EU_Winter_Source_Note.md). Specific quantities and stages, not verified receipt/new procurement/cash or adopted future decisions.
+
+[Sanitized original-source provenance](Tmanch_CH7_Nov13_Policy_Source_Manifest.json). All prior sources, corrections and private holds remain intact; no scores or financial-flow totals changed.

@@ -370,3 +370,10 @@ These records extend existing **079 / CH7-BRUSSELS-RECOVERY-001** and **080 / CH
 - **J20-2026-080:** Original call retained; Moscow meeting start officially reported; completion, terms and release unresolved
 
 The present append closes the Moscow completion-account and held US-envoy Dublin-consultation gaps only. Earlier gaps and planned-stage wording remain dated source history. Future European participation is announced, not implemented; final format, prisoner count/date and release, substantive settlement, ceasefire, enforceable guarantees and earlier aid/accounting gaps remain unresolved. No new event, claim, score, financial flow or measured benefit is assigned. [Sanitized source provenance](Tmanch_CH7_Nov13_Held_Meetings_Source_Manifest.json). Only the relevant diplomacy material is used; raw source archives and unrelated allegations are not published.
+
+
+## November 12 EU support specificity and future-decision context
+
+**EU-WINTER-NOV12-S001 / 104:** The [specific winter-mobilization record](Tmanch_CH7_Nov12_EU_Winter_Source_Note.md) extends the November 9 emergency-mechanism intent with the EU's report of mobilizing 500 rescEU generators and supporting delivery of four Norwegian floating bridges and 200 buses. This is a separate support action, not another meeting count or verified delivery. Earlier 079/080 stages remain intact. No formal activation decision or conclusive instrument-level match to the earlier unnamed mechanism was acquired; those identification and activation gaps remain open.
+
+The same joint statement places Ukraine's 2027 financing discussion at the November 26–27 European Council and the Commission's proposed 22nd sanctions package in prospect. Neither adoption nor disbursement is established. Its EU-presence wording does not resolve trilateral-table membership. No status/score or earlier diplomacy-row rewrite is made by this contextual append.

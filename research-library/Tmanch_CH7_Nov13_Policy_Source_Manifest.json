@@ -1,0 +1,51 @@
+{
+  "review_date_utc": "2026-11-13",
+  "baseline_commit": "1e0e228fe08b1310e3767c2826328f59dacd5059",
+  "sources": [
+    {
+      "file": "uk_notice.pdf",
+      "url": "https://assets.publishing.service.gov.uk/media/6af5ad18cc0dbfec767a509f/Sanctions_Notice__Russia__12_November_2026.pdf",
+      "sha256": "8e297dee576b037003321604be1b76c5d6f48b8f8ef2f52d30f140504a5e9adb",
+      "bytes": 273227,
+      "retrieval": "Direct original HTTP 200; acquired during Nov13 00:00 UTC watch run; exact request timestamp not retained",
+      "source_id": "UK-NOV12-S001",
+      "exact_acquisition_time_utc": null,
+      "publication_date": "2026-11-12",
+      "artifact_type": "Original official PDF bytes"
+    },
+    {
+      "file": "uk_release.html",
+      "url": "https://www.gov.uk/government/news/ukraine-set-to-be-focus-of-epc-summit-as-uk-sanctions-russias-top-ten-oil-producers",
+      "sha256": "0c559d9a24710709a3dc05da2f2b40f4be7411df32ac9bbab12a926d052390f4",
+      "bytes": 74326,
+      "retrieval": "Direct original HTTP 200; acquired during Nov13 00:00 UTC watch run; exact request timestamp not retained",
+      "source_id": "UK-NOV12-S002",
+      "exact_acquisition_time_utc": null,
+      "publication_date": "2026-11-12",
+      "artifact_type": "Original official HTML bytes"
+    },
+    {
+      "file": "eu_joint.html",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/joint-statement-by-president-costa-and-president-von-der-leyen-following-their-meeting-with-president-zelenskyy-in-dublin/",
+      "sha256": "c92ee26d33a6caab4393d16b6799def6f5ffe686a5e39320c70b937e314bb259",
+      "bytes": 107540,
+      "retrieval": "Direct original HTTP 200; acquired during Nov13 00:00 UTC watch run; exact request timestamp not retained",
+      "source_id": "EU-WINTER-NOV12-S001",
+      "exact_acquisition_time_utc": null,
+      "publication_date": "2026-11-12",
+      "artifact_type": "Original official HTML bytes"
+    }
+  ],
+  "eu_displayed_time": "15:40",
+  "eu_displayed_timezone": null,
+  "inspection": "Relevant original visible HTML text and full notice extraction inspected; notice pages1,30,38,39 visually checked. Original hashes verified; derived text/images are not original-source hashes.",
+  "joins": [
+    "J20-2026-103",
+    "J20-2026-104",
+    "CH7-UK-NOV12-SANCTIONS-001",
+    "CH7-EU-WINTER-NOV12-001"
+  ],
+  "limits": "Legal list status is not adoption of misconduct allegations or measured effects. EU quantities are reported mobilization/support, not receipt/new procurement. No exact acquisition times invented; no raw archives published.",
+  "financial_totals_changed": false,
+  "existing_scores_changed": false
+}

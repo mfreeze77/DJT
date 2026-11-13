@@ -1,0 +1,45 @@
+{
+  "observation_id": "EU-WINTER-NOV12-REF01",
+  "type": "noncash_nonadditive_mobilization_quantity_reference",
+  "joins": [
+    "J20-2026-104",
+    "CH7-EU-WINTER-NOV12-001"
+  ],
+  "source_id": "EU-WINTER-NOV12-S001",
+  "statement_date": "2026-11-12",
+  "reported_quantities": [
+    {
+      "item": "rescEU generators",
+      "quantity": 500,
+      "unit": "generators",
+      "stage": "mobilizing from rescEU reserves"
+    },
+    {
+      "item": "floating bridges from Norway",
+      "quantity": 4,
+      "unit": "bridges",
+      "stage": "supporting delivery"
+    },
+    {
+      "item": "buses",
+      "quantity": 200,
+      "unit": "buses",
+      "stage": "supporting delivery"
+    }
+  ],
+  "unquantified_support": [
+    "emergency support centres",
+    "essential equipment"
+  ],
+  "actual_receipt_verified": false,
+  "new_procurement_verified": false,
+  "overlap_with_existing_packages": "unresolved",
+  "combined_quantity_total": null,
+  "cash_amount": null,
+  "actual_cash_received": null,
+  "amount_counted": false,
+  "transaction_counted": false,
+  "financial_flow_total_eligible": false,
+  "aggregation_eligible": false,
+  "limits": "Distinct item types and stages; do not sum into one equipment or aid total. Reported mobilization is not verified delivered equipment or new incremental procurement."
+}
