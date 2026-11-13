@@ -100,3 +100,18 @@ DOE, 51 FR 24436. [Official issue PDF](https://www.govinfo.gov/content/pkg/FR-19
 **Source:** 51 FR 8236. [Original official issue PDF](https://www.govinfo.gov/content/pkg/FR-1986-03-10/pdf/FR-1986-03-10.pdf). SHA-256: `3ab904cc2f8719bb13ac939a7ea21e7615e257c190dbd8e722c645a361a9890d`.
 
 **Limits:** Do. date inheritance gives February 5, 1986 application receipt for RF236-1, not award or payment. No amount or full application acquired. [Chronology and companion contract](doe_refund_note_2026-11-12.md#november-13-2026-continuation-two-earlier-administrative-stages); [sanitized provenance](doe_continuation_source_manifest_2026-11-13.json).
+
+## November 13, 2026: NYFT/Tunyung primary-record supplement
+
+## CH2-P53 — NYFT Tunyung Tribunal decision
+
+NY Division of Tax Appeals, 1998-02-12. [Original PDF](https://www.dta.ny.gov/pdf/archive/decisions/810139.dec.pdf). Printed pp.3-5,9-10,13,19-20. Controlling administrative decision: qualified 1984 supply/book-credit findings, reported 1988 payment and uncollected judgment; partly corrects the ALJ. No bank-clearing proof or corporate identifier match. [Bounded note](tunyung_note_2026-11-13.md); [sanitized provenance](tunyung_source_manifest_2026-11-13.json).
+
+## CH2-P54 — NYFT Tunyung ALJ determination
+
+NY Division of Tax Appeals, 1997-02-20. [Original PDF](https://www.dta.ny.gov/pdf/archive/determinations/810139.DET.pdf). Printed pp.4-5,11,26. Prior procedural version, not independent payment corroboration. Conclusion H blanket cancellation was corrected by the 1998 Tribunal; use P53 for disposition. [Bounded note](tunyung_note_2026-11-13.md); [sanitized provenance](tunyung_source_manifest_2026-11-13.json).
+
+## CH2-P55 — NYFT earlier judgment account
+
+NY Division of Tax Appeals, 1995-10-26. [Original PDF](https://www.dta.ny.gov/pdf/archive/decisions/811653.dec.pdf). Printed pp.4-5. DTA 811653/811678 reports conflicting judgment county/total; no original judgment acquired. Same debt, not additional receipt. Other debtors and later tax-credit/payment matters excluded from this supplement. [Bounded note](tunyung_note_2026-11-13.md); [sanitized provenance](tunyung_source_manifest_2026-11-13.json).
+

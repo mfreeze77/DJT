@@ -78,3 +78,7 @@ These targeted records could close substantive gaps; more name-only litigation m
 ## Bounded DOE proceeding companion (November 12, 2026)
 
 [DOE refund note](doe_refund_note_2026-11-12.md), [non-additive stage observations](doe_refund_observations.csv) and [sanitized original-source provenance](doe_source_manifest_2026-11-12.json) distinguish stages of HEF-0053/RF236-1. They do not identify the DOE firm with DTA/Macchia corporations or add financial-flow totals. Printed discrepancies are retained.
+
+## NYFT/Tunyung source-controlled companion (November 13, 2026)
+
+[Supply, book credits, reported payment and judgment limits](tunyung_note_2026-11-13.md), [typed non-additive observations](tunyung_observations.csv) and [sanitized source manifest](tunyung_source_manifest_2026-11-13.json) add an NYFT customer/account branch without changing existing transactions, relationships, claim scores or totals. The 1988 payment is distinct from the 1983 Lesez/SMI group; corporate and payment-origin joins remain unresolved.

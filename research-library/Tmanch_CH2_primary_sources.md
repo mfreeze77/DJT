@@ -825,3 +825,26 @@ CH2-P16's earlier metadata and use are preserved above. The [November 11 source 
 **Source:** 51 FR 8236. [Original official issue PDF](https://www.govinfo.gov/content/pkg/FR-1986-03-10/pdf/FR-1986-03-10.pdf). SHA-256: `3ab904cc2f8719bb13ac939a7ea21e7615e257c190dbd8e722c645a361a9890d`.
 
 **Limits:** Do. date inheritance gives February 5, 1986 application receipt for RF236-1, not award or payment. No amount or full application acquired. [Chronology and companion contract](research/early_petroleum_financing_2026/doe_refund_note_2026-11-12.md#november-13-2026-continuation-two-earlier-administrative-stages); [sanitized provenance](research/early_petroleum_financing_2026/doe_continuation_source_manifest_2026-11-13.json).
+
+## November 13, 2026: NYFT/Tunyung non-additive companion
+
+[Source note and typed observations](research/early_petroleum_financing_2026/tunyung_note_2026-11-13.md) separate supply, book credit, a reported payment and an uncollected judgment. No existing claim, flow total or correction history is revised.
+
+## CH2-P53 — NYFT Tunyung Tribunal decision
+
+**Source:** NY Division of Tax Appeals, 1998-02-12, printed pp.3-5,9-10,13,19-20. https://www.dta.ny.gov/pdf/archive/decisions/810139.dec.pdf
+
+**Limits:** Controlling administrative decision: qualified 1984 supply/book-credit findings, reported 1988 payment and uncollected judgment; partly corrects the ALJ. No bank-clearing proof or corporate identifier match. [Note and source controls](research/early_petroleum_financing_2026/tunyung_note_2026-11-13.md).
+
+## CH2-P54 — NYFT Tunyung ALJ determination
+
+**Source:** NY Division of Tax Appeals, 1997-02-20, printed pp.4-5,11,26. https://www.dta.ny.gov/pdf/archive/determinations/810139.DET.pdf
+
+**Limits:** Prior procedural version, not independent payment corroboration. Conclusion H blanket cancellation was corrected by the 1998 Tribunal; use P53 for disposition. [Note and source controls](research/early_petroleum_financing_2026/tunyung_note_2026-11-13.md).
+
+## CH2-P55 — NYFT earlier judgment account
+
+**Source:** NY Division of Tax Appeals, 1995-10-26, printed pp.4-5. https://www.dta.ny.gov/pdf/archive/decisions/811653.dec.pdf
+
+**Limits:** DTA 811653/811678 reports conflicting judgment county/total; no original judgment acquired. Same debt, not additional receipt. Other debtors and later tax-credit/payment matters excluded from this supplement. [Note and source controls](research/early_petroleum_financing_2026/tunyung_note_2026-11-13.md).
+
