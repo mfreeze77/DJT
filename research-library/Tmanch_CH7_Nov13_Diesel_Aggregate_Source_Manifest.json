@@ -1,0 +1,36 @@
+{
+  "review_date_utc": "2026-11-13",
+  "sources": [
+    {
+      "source_id": "DIESEL-SHIP-S025",
+      "url": "https://www.iea.org/reports/oil-market-report-november-2026",
+      "source_tier": "Official public IEA report summary and crude supply table",
+      "publication_date": "2026-11-13",
+      "acquisition_date_utc": "2026-11-13",
+      "exact_acquisition_time_utc": null,
+      "retained_artifacts": [
+        {
+          "artifact_type": "Original HTML bytes retained privately, not published",
+          "sha256": "a95cb1f3fa1fe1eadab4071f0916cba752e1c358001202f7b2293f8bdf0425f7",
+          "bytes": 314227
+        }
+      ],
+      "limits": "Public summary only; full subscription report and underlying datasets not acquired. Russian supply table is crude, not diesel exports."
+    }
+  ],
+  "omitted_evidence": "CREA/methodology exact rendered observations were not retained; monthly comparison and no-US-unloading scope could not be freshly verified from retained evidence. Not incorporated. No retrieval retried.",
+  "baseline_commit": "8faf9cd7cc6a4db6be85e810371d16a2b88a0f16",
+  "joins": [
+    "J20-2026-040",
+    "CH7-DIESEL-SHIP-001"
+  ],
+  "context_joins": [
+    "J20-2026-007",
+    "J20-2026-011",
+    "J20-2026-014",
+    "J20-2026-015",
+    "J20-2026-025"
+  ],
+  "no_raw_archive_published": true,
+  "no_event_status_score_or_financial_change": true
+}

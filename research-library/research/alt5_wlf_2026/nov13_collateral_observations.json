@@ -1,0 +1,147 @@
+{
+  "scope": "Non-additive issuer-reported stages, balances and source discrepancies; no new cash transaction or financial-flow total.",
+  "review_date": "2026-11-13",
+  "baseline_commit": "8faf9cd7cc6a4db6be85e810371d16a2b88a0f16",
+  "source_ids": [
+    "ALT5-S020",
+    "ALT5-S021"
+  ],
+  "prior_source_ids": [
+    "ALT5-S011",
+    "ALT5-S019"
+  ],
+  "observations": [
+    {
+      "observation_id": "ALT5-COLLATERAL-NOV5-001",
+      "chain": "concrete_arrangement",
+      "type": "issuer_reported_margin_call_response",
+      "margin_call_receipt_date": null,
+      "margin_call_receipt_range": "Subsequent to 2026-09-26; exact date unstated",
+      "reported_transfer_date": "2026-11-05",
+      "token_quantity": 343400000,
+      "token": "WLFI",
+      "same_tokens_reported_fair_value_usd": 15260696,
+      "destination_description": "Wallets jointly controlled by Concrete and the Company",
+      "source_locator": "S020 Note22 printed p29",
+      "independent_wallet_verification": false,
+      "cash_receipt_established": false,
+      "personal_receipt_established": false,
+      "include_in_totals": false,
+      "joins": [
+        "CH7-ALT5-008",
+        "ALT5-T007",
+        "ALT5-T008"
+      ],
+      "counting_control": "Token quantity and value describe one reported response; not additive to September stocks or January-loan pledged units. No January-loan margin call inferred."
+    },
+    {
+      "observation_id": "ALT5-ENCUMBRANCE-SEP26-001",
+      "chain": "corporate_WLFI_holdings",
+      "type": "period_end_fair_value_and_release_conditions",
+      "as_of": "2026-09-26",
+      "pledged_total_usd_approx": 136200000,
+      "pledged_concrete_usd_approx": 114500000,
+      "pledged_other_loans_usd_approx": 21700000,
+      "unpledged_total_usd_approx": 281200000,
+      "recognized_total_usd_approx": 417400000,
+      "segregated_second_tranche_subset_of_unpledged_usd_approx": 75900000,
+      "source_locator": "S020 Note8 printed p18",
+      "release_status": "Second-tranche wallet remains subject to contractual release requirements including registration effectiveness where applicable; elapsed holding period alone insufficient. Other unpledged holdings retain applicable transfer/withdrawal arrangements.",
+      "prior_assertion_preserved": "S011 says all 7,283,585,650 WLFI became fully transferable August12. October21 correction retained. No reconciliation, waiver or failed release inferred.",
+      "joins": [
+        "CH7-ALT5-011",
+        "CH7-ALT5-008",
+        "ALT5-T007"
+      ],
+      "include_in_totals": false,
+      "counting_control": "Balances and nested subsets overlap; not cash and not quantities. Subsequent November response is not mechanically added."
+    },
+    {
+      "observation_id": "ALT5-CONCRETE-ADVANCE-STAGE-001",
+      "chain": "concrete_arrangement",
+      "type": "same_advance_delivery_and_balance_followup",
+      "same_transaction": "ALT5-T008",
+      "reported_delivery_date": "2026-08-03",
+      "reported_delivery_medium": "USDC",
+      "reported_advance_usd": 3000000,
+      "as_of_balance": "2026-09-26",
+      "reported_noncurrent_advance_balance_usd": 2999539,
+      "debt_table_balance_usd_rounded": 3000000,
+      "source_locator": "S020 Note8 p18; Note13 p19 debt table and opening paragraph",
+      "contract_dates_by_source": {
+        "ALT5-S011": "2026-07-30",
+        "ALT5-S020": "2026-07-13"
+      },
+      "contract_date_resolution": null,
+      "new_disbursement": false,
+      "joins": [
+        "CH7-ALT5-008",
+        "ALT5-T007",
+        "ALT5-T008"
+      ],
+      "include_in_totals": false,
+      "counting_control": "Delivery detail and later balance of same advance; no new transaction row or addition to principal."
+    },
+    {
+      "observation_id": "ALT5-JAN-PLEDGE-PERIOD-001",
+      "chain": "january_loan_collateral",
+      "type": "repeated_quantity_period_discrepancy",
+      "repeated_addition_token_quantity": 157689435,
+      "repeated_total_token_quantity": 378310114,
+      "token": "WLFI",
+      "period_by_source": {
+        "ALT5-S011": "13 weeks ended 2026-06-27",
+        "ALT5-S020": "13 weeks ended 2026-09-26"
+      },
+      "source_locator": "S020 Note13 printed p20; prior S011 Note14",
+      "resolved": false,
+      "additional_pledge_inferred": false,
+      "joins": [
+        "CH7-ALT5-003",
+        "ALT5-T004",
+        "ALT5-T005",
+        "ALT5-T006"
+      ],
+      "include_in_totals": false,
+      "counting_control": "Same units already reported in June; not another increment and not Concrete response."
+    },
+    {
+      "observation_id": "ALT5-CONCRETE-RELATIONSHIP-001",
+      "chain": "concrete_arrangement",
+      "type": "issuer_attributed_ownership_relationship",
+      "source_locator": "S020 Note21 printed p29",
+      "entity_id": "ALT5-E005",
+      "assertion": "Concrete owned by World Liberty Financial CTO; World Liberty Financial CEO chairs issuer board.",
+      "cto_name": null,
+      "ownership_percentage": null,
+      "ownership_effective_date": null,
+      "independent_ownership_verification": false,
+      "legal_entity_continuity_established": false,
+      "joins": [
+        "CH7-ALT5-008",
+        "ALT5-E003",
+        "ALT5-E004"
+      ],
+      "limits": "Source-defined World Liberty Financial reference does not resolve Inc./LLC continuity; no personal receipt or misconduct inference.",
+      "include_in_totals": false
+    },
+    {
+      "observation_id": "ALT5-CONCRETE-EXPOSURE-SEP26-001",
+      "chain": "concrete_arrangement",
+      "type": "portfolio_exposure_not_realized_loss",
+      "portfolio_exposure_usd_approx": 28200000,
+      "as_of": "2026-09-26",
+      "qualified_losses_reported_through": "2026-10-13",
+      "qualified_losses_reported": false,
+      "additional_qualified_loss_liability_recorded": false,
+      "source_locator": "S020 Note8 printed p18",
+      "joins": [
+        "CH7-ALT5-009",
+        "ALT5-T009",
+        "ALT5-T010"
+      ],
+      "include_in_totals": false,
+      "limits": "Not a realized loss, deployment reconciliation or proof of absence after October13. No downstream recipient or completed planned deployment established."
+    }
+  ]
+}

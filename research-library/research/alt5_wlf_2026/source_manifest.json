@@ -344,7 +344,54 @@
       "sha256": "7a8017f0c63ec5ea336f2f4ac3933b569a4608c8558edba7f41e1046ddb25281",
       "preservation": "Original HTML retained locally; metadata only committed.",
       "limitations": "Furnished disclosure; anticipated transferability conditional, not actual release, cash receipt or independent custody verification."
+    },
+    {
+      "source_id": "ALT5-S020",
+      "title": "AI Financial Corporation Form10-Q, period ended September26,2026",
+      "filing_date": "2026-11-12",
+      "accepted_displayed": "2026-11-10 19:18:08",
+      "accepted_displayed_timezone": null,
+      "source_url": "https://www.sec.gov/Archives/edgar/data/862861/000149315226051057/form10-q.htm",
+      "locator": "Note8 pp17–18 (Concrete/restrictions p18); Note13 pp19–20 (debt table p19, pledge timing p20); Notes21–22 p29",
+      "source_family": "issuer_SEC_filing_family",
+      "retrieved_utc": null,
+      "retrieved_date_utc": "2026-11-13",
+      "retrieval_time_basis": "Acquisition pass date; exact timestamp not recorded",
+      "bytes": 2078785,
+      "sha256": "9b7eb9339bccc8a2ec12034c73341530841d69a0689cc98f760fad8f6830512c",
+      "preservation": "Retained original HTML; metadata only committed. No raw source upload.",
+      "limitations": "Unaudited issuer reporting and SEC metadata, not independent settlement, ownership or implementation verification. Distinct filing/acceptance dates preserved.",
+      "extracted_text_sha256": "bcb0334e17da8b59ce28364036a87d663f798030f0005b285f5e42b145d2a0d9",
+      "inspection": "Relevant original HTML text, printed-page footer locators, and Note13 debt table inspected; no PDF-image, bank or blockchain verification."
+    },
+    {
+      "source_id": "ALT5-S021",
+      "title": "SEC filing index, accession0001493152-26-051057",
+      "filing_date": "2026-11-12",
+      "accepted_displayed": "2026-11-10 19:18:08",
+      "accepted_displayed_timezone": null,
+      "source_url": "https://www.sec.gov/Archives/edgar/data/862861/000149315226051057/0001493152-26-051057-index.html",
+      "locator": "Filing Date and Accepted metadata fields",
+      "source_family": "issuer_SEC_filing_family",
+      "retrieved_utc": null,
+      "retrieved_date_utc": "2026-11-13",
+      "retrieval_time_basis": "Acquisition pass date; exact timestamp not recorded",
+      "bytes": 11378,
+      "sha256": "636b50f1cafbec225e34911bd2003c30df4ddce54c368a66fff4c1162d988665",
+      "preservation": "Retained original HTML; metadata only committed. No raw source upload.",
+      "limitations": "Unaudited issuer reporting and SEC metadata, not independent settlement, ownership or implementation verification. Distinct filing/acceptance dates preserved."
     }
   ],
-  "supplemented_utc": "2026-10-20"
+  "supplemented_utc": "2026-10-20",
+  "review_updates": [
+    {
+      "review_date": "2026-11-13",
+      "baseline_commit": "8faf9cd7cc6a4db6be85e810371d16a2b88a0f16",
+      "source_ids": [
+        "ALT5-S020",
+        "ALT5-S021"
+      ],
+      "scope": "Non-additive Concrete response, period-end restrictions, same advance detail and preserved timing discrepancies. October21 correction and prior source records unchanged."
+    }
+  ]
 }

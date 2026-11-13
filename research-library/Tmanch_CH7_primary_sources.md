@@ -1504,3 +1504,15 @@ The [afternoon source manifest](Tmanch_CH7_Nov10_Afternoon_Source_Manifest.json)
 - **079/080 / EUROPE-NOV13-S004–006:** [Peskov's conditional account and official automatic arrival transcripts](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-13-later-qualification-conditional-expanded-format-and-european-positions). AP attributes distinct Peskov/Kushner formulations, potentially addressing different stages. Kallas's sequencing and institutional-role claim and Martin's unresolved-representation/timing comments are individual arrival positions, not final summit decisions.
 
 [Provenance and transcript limitations](Tmanch_CH7_Nov13_Conditional_Format_Source_Manifest.json). Prior held consultations and prospective statuses remain unchanged; no new event, score or financial flow.
+
+
+## November 13 ALT5 collateral and release-condition follow-up
+
+- **ALT5-S020–021 / CH7-ALT5-003/008/009/011:** [Original SEC quarterly filing and source-controlled extension](Tmanch_CH7_Oct19_ALT5_WLF_Source_Note.md#november-13-review-concrete-collateral-response-and-continuing-release-conditions) adds an issuer-reported Concrete margin call after September26 and November5 collateral transfer, continuing release conditions and dated contract/pledge discrepancies. Preserve the October21 correction and August full-transferability assertion; token units and valuations are not cash or family proceeds.
+- [Typed non-additive stages](research/alt5_wlf_2026/nov13_collateral_observations.json) separate Concrete from January-loan collateral, preserve ALT5-T004–010 and avoid duplicate advances or pledged units. [Provenance](research/alt5_wlf_2026/source_manifest.json) retains distinct November12 filing and November10 displayed acceptance metadata. No new presidential event, score, financial total, buyback execution or misconduct inference.
+
+## November 13 diesel aggregate context
+
+- **040 / CH7-DIESEL-SHIP-001 / DIESEL-SHIP-S025:** [Broader supply recovery and diesel constraints](Tmanch_CH7_Oct23_Diesel_Shipment_Source_Note.md#november-13-aggregate-context-broader-supply-recovery-and-diesel-constraints). IEA's Gulf-led supply recovery and Russian crude table do not isolate GL135's effects or establish diesel delivery/payment. All earlier cargo identities, statuses and scores remain unchanged.
+
+[Source provenance](Tmanch_CH7_Nov13_Diesel_Aggregate_Source_Manifest.json). No new event or financial flow; modelled revenue and secondary detailed export figures are not added.
