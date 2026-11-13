@@ -82,3 +82,7 @@ These targeted records could close substantive gaps; more name-only litigation m
 ## NYFT/Tunyung source-controlled companion (November 13, 2026)
 
 [Supply, book credits, reported payment and judgment limits](tunyung_note_2026-11-13.md), [typed non-additive observations](tunyung_observations.csv) and [sanitized source manifest](tunyung_source_manifest_2026-11-13.json) add an NYFT customer/account branch without changing existing transactions, relationships, claim scores or totals. The 1988 payment is distinct from the 1983 Lesez/SMI group; corporate and payment-origin joins remain unresolved.
+
+## Meridian import-tax disposition companion (November 13, 2026)
+
+[Bounded note](meridian_note_2026-11-13.md), [typed non-additive observations](meridian_observations.csv) and [sanitized provenance](meridian_source_manifest_2026-11-13.json) separate assessed tax, net adjustments and limited relief from payments. Existing flow rows and correction history are unchanged.

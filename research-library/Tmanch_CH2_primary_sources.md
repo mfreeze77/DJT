@@ -848,3 +848,20 @@ CH2-P16's earlier metadata and use are preserved above. The [November 11 source 
 
 **Limits:** DTA 811653/811678 reports conflicting judgment county/total; no original judgment acquired. Same debt, not additional receipt. Other debtors and later tax-credit/payment matters excluded from this supplement. [Note and source controls](research/early_petroleum_financing_2026/tunyung_note_2026-11-13.md).
 
+
+## November 13, 2026: bounded Meridian tax-disposition source records
+
+[Assessment and limited-relief note](research/early_petroleum_financing_2026/meridian_note_2026-11-13.md) and typed observations distinguish tax liabilities from payments; existing claims, flows and corrections remain unchanged.
+
+## CH2-P56 — NYFT Meridian Tribunal decision
+
+**Source:** NY Division of Tax Appeals, 1998-08-27, printed pp.5,7-10,14-17,26-28,35-36,40-41. https://www.dta.ny.gov/pdf/archive/decisions/814152.dec.pdf
+
+**Limits:** Motor-fuel notice is DTA 814155 within consolidated decision. Assessments, not payments; preserve net multi-period composition, source discrepancies and limited relief. [Bounded note and data controls](research/early_petroleum_financing_2026/meridian_note_2026-11-13.md).
+
+## CH2-P57 — NYFT Meridian ALJ determination
+
+**Source:** NY Division of Tax Appeals, 1997-05-22, printed pp.18-22,28. https://www.dta.ny.gov/pdf/archive/determinations/814152.det.pdf
+
+**Limits:** Prior procedural version of same matter, not independent transactions. Read with Tribunal corrections to inventory-loss wording and notice numbers; retain A/N/O limits. [Bounded note and data controls](research/early_petroleum_financing_2026/meridian_note_2026-11-13.md).
+

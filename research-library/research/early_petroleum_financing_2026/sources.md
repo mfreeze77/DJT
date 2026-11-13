@@ -115,3 +115,14 @@ NY Division of Tax Appeals, 1997-02-20. [Original PDF](https://www.dta.ny.gov/pd
 
 NY Division of Tax Appeals, 1995-10-26. [Original PDF](https://www.dta.ny.gov/pdf/archive/decisions/811653.dec.pdf). Printed pp.4-5. DTA 811653/811678 reports conflicting judgment county/total; no original judgment acquired. Same debt, not additional receipt. Other debtors and later tax-credit/payment matters excluded from this supplement. [Bounded note](tunyung_note_2026-11-13.md); [sanitized provenance](tunyung_source_manifest_2026-11-13.json).
 
+
+## November 13, 2026: Meridian assessment/disposition companion
+
+## CH2-P56 — NYFT Meridian Tribunal decision
+
+NY Division of Tax Appeals, 1998-08-27. [Original PDF](https://www.dta.ny.gov/pdf/archive/decisions/814152.dec.pdf), printed pp.5,7-10,14-17,26-28,35-36,40-41. Motor-fuel notice is DTA 814155 within consolidated decision. Assessments, not payments; preserve net multi-period composition, source discrepancies and limited relief. [Note](meridian_note_2026-11-13.md); [sanitized provenance](meridian_source_manifest_2026-11-13.json).
+
+## CH2-P57 — NYFT Meridian ALJ determination
+
+NY Division of Tax Appeals, 1997-05-22. [Original PDF](https://www.dta.ny.gov/pdf/archive/determinations/814152.det.pdf), printed pp.18-22,28. Prior procedural version of same matter, not independent transactions. Read with Tribunal corrections to inventory-loss wording and notice numbers; retain A/N/O limits. [Note](meridian_note_2026-11-13.md); [sanitized provenance](meridian_source_manifest_2026-11-13.json).
+

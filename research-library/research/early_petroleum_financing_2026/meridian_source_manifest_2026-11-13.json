@@ -1,0 +1,33 @@
+{
+  "baseline_commit": "3522d5201def280b2b113ab918801bbfbb2a93a1",
+  "scope": "Meridian import-tax assessment and limited-disposition companion; no payment or identity merge",
+  "sources": [
+    {
+      "source_id": "CH2-P56",
+      "url": "https://www.dta.ny.gov/pdf/archive/decisions/814152.dec.pdf",
+      "publication_date": "1998-08-27",
+      "retrieved_utc": "2026-11-13T15:39:45.027098+00:00",
+      "http_status": 200,
+      "bytes": 376415,
+      "sha256": "942b4dfbd7fbc2c6a88fd374f737a42c89e2509f867eca33f56070516d69570f",
+      "original_artifact_type": "official PDF bytes",
+      "printed_pages_reviewed": "5,7-10,14-17,26-28,35-36,40-41",
+      "limits": "Motor-fuel notice is DTA 814155 within consolidated decision. Assessments, not payments; preserve net multi-period composition, source discrepancies and limited relief.",
+      "original_in_publication": false
+    },
+    {
+      "source_id": "CH2-P57",
+      "url": "https://www.dta.ny.gov/pdf/archive/determinations/814152.det.pdf",
+      "publication_date": "1997-05-22",
+      "retrieved_utc": "2026-11-13T15:40:25.943170+00:00",
+      "http_status": 200,
+      "bytes": 240441,
+      "sha256": "dbdf1c427f03a5d1fbbe7db7eec56f3c0d9baf2c5bac98ab6a21f99ed8d73adb",
+      "original_artifact_type": "official PDF bytes",
+      "printed_pages_reviewed": "18-22,28",
+      "limits": "Prior procedural version of same matter, not independent transactions. Read with Tribunal corrections to inventory-loss wording and notice numbers; retain A/N/O limits.",
+      "original_in_publication": false
+    }
+  ],
+  "derived_artifacts": "Extracted text and page renders are review aids, not additional original sources; original archives and raw headers excluded"
+}
