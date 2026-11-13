@@ -1497,3 +1497,10 @@ The [afternoon source manifest](Tmanch_CH7_Nov10_Afternoon_Source_Manifest.json)
 - **079/080 / EUROPE-NOV13-S001–003:** [Representation, remit and confirmation limits](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-13-participation-qualification-representation-unresolved). AP reports unresolved envoy/team, personnel and role; Reuters attributes nonconfirmation, not rejection, to Ushakov; the Council page supplies an agenda, not an appointment. Held meetings and the earlier named prospective-role announcement remain intact.
 
 [Source provenance](Tmanch_CH7_Nov13_Europe_Participation_Source_Manifest.json). No ledger/status/score or financial change.
+
+
+## November 13 conditional expanded format and arrival positions
+
+- **079/080 / EUROPE-NOV13-S004–006:** [Peskov's conditional account and official automatic arrival transcripts](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-13-later-qualification-conditional-expanded-format-and-european-positions). AP attributes distinct Peskov/Kushner formulations, potentially addressing different stages. Kallas's sequencing and institutional-role claim and Martin's unresolved-representation/timing comments are individual arrival positions, not final summit decisions.
+
+[Provenance and transcript limitations](Tmanch_CH7_Nov13_Conditional_Format_Source_Manifest.json). Prior held consultations and prospective statuses remain unchanged; no new event, score or financial flow.
