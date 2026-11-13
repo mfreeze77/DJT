@@ -1490,3 +1490,10 @@ The [afternoon source manifest](Tmanch_CH7_Nov10_Afternoon_Source_Manifest.json)
 - **104 / CH7-EU-WINTER-NOV12-001 / EU-WINTER-NOV12-S001:** [EU mobilization and future decisions](Tmanch_CH7_Nov12_EU_Winter_Source_Note.md). Specific quantities and stages, not verified receipt/new procurement/cash or adopted future decisions.
 
 [Sanitized original-source provenance](Tmanch_CH7_Nov13_Policy_Source_Manifest.json). All prior sources, corrections and private holds remain intact; no scores or financial-flow totals changed.
+
+
+## November 13 European-participation qualification
+
+- **079/080 / EUROPE-NOV13-S001–003:** [Representation, remit and confirmation limits](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-13-participation-qualification-representation-unresolved). AP reports unresolved envoy/team, personnel and role; Reuters attributes nonconfirmation, not rejection, to Ushakov; the Council page supplies an agenda, not an appointment. Held meetings and the earlier named prospective-role announcement remain intact.
+
+[Source provenance](Tmanch_CH7_Nov13_Europe_Participation_Source_Manifest.json). No ledger/status/score or financial change.
