@@ -865,3 +865,32 @@ CH2-P16's earlier metadata and use are preserved above. The [November 11 source 
 
 **Limits:** Prior procedural version of same matter, not independent transactions. Read with Tribunal corrections to inventory-loss wording and notice numbers; retain A/N/O limits. [Bounded note and data controls](research/early_petroleum_financing_2026/meridian_note_2026-11-13.md).
 
+
+## November 13, 2026: Westchester/Shore Line administrative sources
+
+Separate reference appendix, not an earlier financing-chain extension.
+
+## CH2-P58 — Standard Petroleum Tribunal decision
+
+**Source:** NY Division of Tax Appeals, 1999-04-29, printed pp.2-8,13-15. https://www.dta.ny.gov/pdf/archive/decisions/815413.dec.pdf
+
+**Limits:** Administrative-record descriptions, not bank clearance; paired versions are not independent transactions. [Separate appendix](research/early_petroleum_financing_2026/westchester_shoreline_note_2026-11-13.md).
+
+## CH2-P59 — Standard Petroleum ALJ determination
+
+**Source:** NY Division of Tax Appeals, 1998-05-07, printed pp.15. https://www.dta.ny.gov/pdf/archive/determinations/815413.det.pdf
+
+**Limits:** Administrative-record descriptions, not bank clearance; paired versions are not independent transactions. [Separate appendix](research/early_petroleum_financing_2026/westchester_shoreline_note_2026-11-13.md).
+
+## CH2-P60 — Shore Line Tribunal decision
+
+**Source:** NY Division of Tax Appeals, 1996-02-15, printed pp.6-10,19-20. https://www.dta.ny.gov/pdf/archive/decisions/813859.DEC.pdf
+
+**Limits:** Administrative-record descriptions, not bank clearance; paired versions are not independent transactions. [Separate appendix](research/early_petroleum_financing_2026/westchester_shoreline_note_2026-11-13.md).
+
+## CH2-P61 — Shore Line ALJ determination
+
+**Source:** NY Division of Tax Appeals, 1995-11-30, printed pp.34-35. https://www.dta.ny.gov/pdf/archive/determinations/813859.det.pdf
+
+**Limits:** Administrative-record descriptions, not bank clearance; paired versions are not independent transactions. [Separate appendix](research/early_petroleum_financing_2026/westchester_shoreline_note_2026-11-13.md).
+

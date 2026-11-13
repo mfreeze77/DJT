@@ -126,3 +126,22 @@ NY Division of Tax Appeals, 1998-08-27. [Original PDF](https://www.dta.ny.gov/pd
 
 NY Division of Tax Appeals, 1997-05-22. [Original PDF](https://www.dta.ny.gov/pdf/archive/determinations/814152.det.pdf), printed pp.18-22,28. Prior procedural version of same matter, not independent transactions. Read with Tribunal corrections to inventory-loss wording and notice numbers; retain A/N/O limits. [Note](meridian_note_2026-11-13.md); [sanitized provenance](meridian_source_manifest_2026-11-13.json).
 
+
+## November 13, 2026: Westchester/Shore Line later-record appendix
+
+## CH2-P58 — Standard Petroleum Tribunal decision
+
+NY Division of Tax Appeals, 1999-04-29, printed pp.2-8,13-15. [Official PDF](https://www.dta.ny.gov/pdf/archive/decisions/815413.dec.pdf). [Bounded note](westchester_shoreline_note_2026-11-13.md); [sanitized provenance](westchester_shoreline_source_manifest_2026-11-13.json). Recorded collections, liabilities and registration findings are not verified bank flows; paired versions are not independent transactions.
+
+## CH2-P59 — Standard Petroleum ALJ determination
+
+NY Division of Tax Appeals, 1998-05-07, printed pp.15. [Official PDF](https://www.dta.ny.gov/pdf/archive/determinations/815413.det.pdf). [Bounded note](westchester_shoreline_note_2026-11-13.md); [sanitized provenance](westchester_shoreline_source_manifest_2026-11-13.json). Recorded collections, liabilities and registration findings are not verified bank flows; paired versions are not independent transactions.
+
+## CH2-P60 — Shore Line Tribunal decision
+
+NY Division of Tax Appeals, 1996-02-15, printed pp.6-10,19-20. [Official PDF](https://www.dta.ny.gov/pdf/archive/decisions/813859.DEC.pdf). [Bounded note](westchester_shoreline_note_2026-11-13.md); [sanitized provenance](westchester_shoreline_source_manifest_2026-11-13.json). Recorded collections, liabilities and registration findings are not verified bank flows; paired versions are not independent transactions.
+
+## CH2-P61 — Shore Line ALJ determination
+
+NY Division of Tax Appeals, 1995-11-30, printed pp.34-35. [Official PDF](https://www.dta.ny.gov/pdf/archive/determinations/813859.det.pdf). [Bounded note](westchester_shoreline_note_2026-11-13.md); [sanitized provenance](westchester_shoreline_source_manifest_2026-11-13.json). Recorded collections, liabilities and registration findings are not verified bank flows; paired versions are not independent transactions.
+

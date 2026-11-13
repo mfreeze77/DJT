@@ -1,0 +1,61 @@
+{
+  "baseline_commit": "82033c9c1cd9e7b8f4cd3929f1667e2e717d3a50",
+  "scope": "Separate later administrative-record appendix; no aggregate, bank-clearance verification or identity merge",
+  "sources": [
+    {
+      "url": "https://www.dta.ny.gov/pdf/archive/decisions/815413.dec.pdf",
+      "status": 200,
+      "bytes": 190196,
+      "sha256": "f84fb098a9a654a377cd63dc613c2c36a8cd57e34032fe87f549eeec7092a881",
+      "source_id": "CH2-P58",
+      "publication_date": "1999-04-29",
+      "printed_pages_reviewed": "2-8,13-15",
+      "original_artifact_type": "official PDF bytes",
+      "original_in_publication": false,
+      "version_limit": "Paired ALJ/Tribunal versions, not independent money events",
+      "acquisition_date": "2026-11-13",
+      "acquisition_precision": "date_only"
+    },
+    {
+      "url": "https://www.dta.ny.gov/pdf/archive/determinations/815413.det.pdf",
+      "status": 200,
+      "bytes": 193149,
+      "sha256": "3503b220e866710d2058cde4dbe6443a938e02002dcf0226b6d4b6d8d955200c",
+      "source_id": "CH2-P59",
+      "publication_date": "1998-05-07",
+      "printed_pages_reviewed": "15",
+      "original_artifact_type": "official PDF bytes",
+      "original_in_publication": false,
+      "version_limit": "Paired ALJ/Tribunal versions, not independent money events",
+      "acquisition_date": "2026-11-13",
+      "acquisition_precision": "date_only"
+    },
+    {
+      "url": "https://www.dta.ny.gov/pdf/archive/decisions/813859.DEC.pdf",
+      "status": 200,
+      "bytes": 227578,
+      "sha256": "64dc96f3d916fefcf59766083ca6a267194bc999fee58ddce9ba12b71d1b7a04",
+      "source_id": "CH2-P60",
+      "publication_date": "1996-02-15",
+      "printed_pages_reviewed": "6-10,19-20",
+      "original_artifact_type": "official PDF bytes",
+      "original_in_publication": false,
+      "version_limit": "Paired ALJ/Tribunal versions, not independent money events",
+      "retrieved_utc": "2026-11-13T21:30:35.322864+00:00"
+    },
+    {
+      "url": "https://www.dta.ny.gov/pdf/archive/determinations/813859.det.pdf",
+      "status": 200,
+      "bytes": 207697,
+      "sha256": "1f12fe61e825a948cbd55730b5034d32099da808fbfc60bc07f7c0808fcd5ae1",
+      "source_id": "CH2-P61",
+      "publication_date": "1995-11-30",
+      "printed_pages_reviewed": "34-35",
+      "original_artifact_type": "official PDF bytes",
+      "original_in_publication": false,
+      "version_limit": "Paired ALJ/Tribunal versions, not independent money events",
+      "retrieved_utc": "2026-11-13T21:31:06.602244+00:00"
+    }
+  ],
+  "derived_artifacts": "Extracted text and page renders are review aids, not original sources. Raw headers and original archives not published."
+}

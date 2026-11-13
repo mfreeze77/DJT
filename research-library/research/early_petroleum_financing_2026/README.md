@@ -86,3 +86,7 @@ These targeted records could close substantive gaps; more name-only litigation m
 ## Meridian import-tax disposition companion (November 13, 2026)
 
 [Bounded note](meridian_note_2026-11-13.md), [typed non-additive observations](meridian_observations.csv) and [sanitized provenance](meridian_source_manifest_2026-11-13.json) separate assessed tax, net adjustments and limited relief from payments. Existing flow rows and correction history are unchanged.
+
+## Separate Westchester/Shore Line later-record appendix (November 13, 2026)
+
+[Note](westchester_shoreline_note_2026-11-13.md), [typed observations](westchester_shoreline_observations.csv) and [source provenance](westchester_shoreline_source_manifest_2026-11-13.json) distinguish CARTS receipts, liabilities, sale consideration and registration outcomes. No new payment-chain edges or totals; all prior records remain unchanged.
