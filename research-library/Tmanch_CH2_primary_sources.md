@@ -894,3 +894,19 @@ Separate reference appendix, not an earlier financing-chain extension.
 
 **Limits:** Administrative-record descriptions, not bank clearance; paired versions are not independent transactions. [Separate appendix](research/early_petroleum_financing_2026/westchester_shoreline_note_2026-11-13.md).
 
+
+## November 13, 2026: Barrier acquisition/financing sources
+
+## CH2-P62 — Barrier Tribunal decision
+
+**Source:** NY Division of Tax Appeals, 1991-01-04, printed pp.2-3,7,13,21-22. https://www.dta.ny.gov/pdf/archive/decisions/807303.dec.pdf
+
+**Limits:** Mixed consideration is not proved cash; ALJ debt schedule is reported in parties positions, not a bank trace. [Separate comparison](research/early_petroleum_financing_2026/barrier_note_2026-11-13.md).
+
+## CH2-P63 — Barrier ALJ determination
+
+**Source:** NY Division of Tax Appeals, 1990-05-02, printed pp.2,5,8-10,16. https://www.dta.ny.gov/pdf/archive/determinations/807303.DET.pdf
+
+**Limits:** Mixed consideration is not proved cash; ALJ debt schedule is reported in parties positions, not a bank trace. [Separate comparison](research/early_petroleum_financing_2026/barrier_note_2026-11-13.md).
+
+Reuses existing CH2-P60 p.3 and CH2-P61 p.4 for the unresolved January 1989 account, without reassigning their IDs.

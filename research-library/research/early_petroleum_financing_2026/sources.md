@@ -145,3 +145,15 @@ NY Division of Tax Appeals, 1996-02-15, printed pp.6-10,19-20. [Official PDF](ht
 
 NY Division of Tax Appeals, 1995-11-30, printed pp.34-35. [Official PDF](https://www.dta.ny.gov/pdf/archive/determinations/813859.det.pdf). [Bounded note](westchester_shoreline_note_2026-11-13.md); [sanitized provenance](westchester_shoreline_source_manifest_2026-11-13.json). Recorded collections, liabilities and registration findings are not verified bank flows; paired versions are not independent transactions.
 
+
+## November 13, 2026: Barrier acquisition/financing comparison
+
+## CH2-P62 — Barrier Tribunal decision
+
+NY Division of Tax Appeals, 1991-01-04, printed pp.2-3,7,13,21-22. [Official PDF](https://www.dta.ny.gov/pdf/archive/decisions/807303.dec.pdf). [Bounded comparison](barrier_note_2026-11-13.md); [provenance](barrier_source_manifest_2026-11-13.json). Mixed consideration, reported debt balances and tax payments are distinct; paired versions are not independent flows.
+
+## CH2-P63 — Barrier ALJ determination
+
+NY Division of Tax Appeals, 1990-05-02, printed pp.2,5,8-10,16. [Official PDF](https://www.dta.ny.gov/pdf/archive/determinations/807303.DET.pdf). [Bounded comparison](barrier_note_2026-11-13.md); [provenance](barrier_source_manifest_2026-11-13.json). Mixed consideration, reported debt balances and tax payments are distinct; paired versions are not independent flows.
+
+The comparison reuses CH2-P60 p.3 and CH2-P61 p.4 for the January 1989 unpriced account; these are not new sources.

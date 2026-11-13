@@ -90,3 +90,7 @@ These targeted records could close substantive gaps; more name-only litigation m
 ## Separate Westchester/Shore Line later-record appendix (November 13, 2026)
 
 [Note](westchester_shoreline_note_2026-11-13.md), [typed observations](westchester_shoreline_observations.csv) and [source provenance](westchester_shoreline_source_manifest_2026-11-13.json) distinguish CARTS receipts, liabilities, sale consideration and registration outcomes. No new payment-chain edges or totals; all prior records remain unchanged.
+
+## Separate Barrier acquisition/financing comparison (November 13, 2026)
+
+[Note](barrier_note_2026-11-13.md), [typed observations](barrier_observations.csv) and [four-source provenance](barrier_source_manifest_2026-11-13.json) distinguish mixed consideration, an unresolved later sale account, reported debt balances and tax payments. No central counted flows or prior records changed.
