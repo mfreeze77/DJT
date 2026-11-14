@@ -403,6 +403,75 @@
       "artifact_type": "SEC-hosted original HTML bytes",
       "locator": "Note 5 Terminal Acquisitions F-21",
       "limits": "Repeats same 2006 Bridgeport account; do not add neighboring 2007 acquisition table or resolve early 2.3 million discrepancy without evidence."
+    },
+    {
+      "source_id": "CH2-P79",
+      "title": "Global Partners final 2005 prospectus: CPW access",
+      "url": "https://www.sec.gov/Archives/edgar/data/1323468/000104746905023615/a2163408z424b4.htm",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T06:21:31.880372+00:00",
+      "bytes": 2011949,
+      "sha256": "752afe3fbb9c9f50c0480287719dbd4393340fed5e5dc3d9dc219a32b1396fa2",
+      "artifact_type": "SEC-hosted original HTML bytes",
+      "locator": "September 28, 2005 prospectus pp.87,92",
+      "limits": "Pre-purchase access only; throughput/exchange alternatives and As Available do not establish CPW-specific contract terms, title or seller affiliation."
+    },
+    {
+      "source_id": "CH2-P80",
+      "title": "Executed 2005 credit framework and bounded amendments",
+      "url": "https://www.sec.gov/Archives/edgar/data/1323468/000110465905048061/a05-17438_1ex10d8.htm",
+      "artifacts": [
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/1323468/000110465905048061/a05-17438_1ex10d8.htm",
+          "http_status": 200,
+          "retrieved_utc": "2026-11-14T06:22:32.308442+00:00",
+          "bytes": 982142,
+          "sha256": "3d194742203d307f8ab26b081712feb7d220acf2f28f16ff4931bcd290f9eb1e",
+          "artifact_type": "SEC-hosted original HTML bytes"
+        },
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/1323468/000110465905055075/a05-20232_1ex10d1.htm",
+          "http_status": 200,
+          "retrieved_utc": "2026-11-14T06:22:35.944873+00:00",
+          "bytes": 125520,
+          "sha256": "61ada31f40b1d8187c4ce4335688ddfe45b3c82bc3fd161475423ecb49dc7987",
+          "artifact_type": "SEC-hosted original HTML bytes"
+        },
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/1323468/000110465906051092/a06-17158_1ex10d1.htm",
+          "http_status": 200,
+          "retrieved_utc": "2026-11-14T06:22:38.699931+00:00",
+          "bytes": 229490,
+          "sha256": "cb8982a47571ad4c5e44616d51092379a3c5fd0e0add4d012c2418261fd77af6",
+          "artifact_type": "SEC-hosted original HTML bytes"
+        }
+      ],
+      "locators": "Agreement sections 2.1(b),2.2,6.11,7.6; first/second amendments",
+      "limits": "Contract contents, not compliance finding or funded Bridgeport draw. Postclosing amendment schedule not closing funding proof; completed acquisition/loan notices not acquired."
+    },
+    {
+      "source_id": "CH2-P81",
+      "title": "Global Partners first-quarter 2006 subsequent event",
+      "url": "https://www.sec.gov/Archives/edgar/data/1323468/000110465906034912/a06-9928_110q.htm",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T06:21:50.282023+00:00",
+      "bytes": 727713,
+      "sha256": "df25e2e325a5742b5e911595bc71a354dc1060c837c0703bb6aac21a76277150",
+      "artifact_type": "SEC-hosted original HTML bytes",
+      "locator": "Quarter ended March 31, 2006; Note 12 p.14",
+      "limits": "May 8 completion is subsequent event, not March closing or extra transaction."
+    },
+    {
+      "source_id": "CH2-P82",
+      "title": "Global Partners third-quarter 2006 availability and acquisition disclosure",
+      "url": "https://www.sec.gov/Archives/edgar/data/1323468/000110465906074903/a06-22008_110q.htm",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T06:21:52.803085+00:00",
+      "bytes": 887920,
+      "sha256": "d8a9658f0275917a234705b23419e6a015cae534368b384b1786c974d95031f8",
+      "artifact_type": "SEC-hosted original HTML bytes",
+      "locator": "Quarter ended September 30, 2006; Note 6 p.9; MD&A p.26",
+      "limits": "Availability is snapshot, not draw/never-used proof; approximately $2.4m stage does not reconcile earlier $2.3m or create another acquisition."
     }
   ],
   "publication_artifacts": "No source archives, raw headers or screenshots published. Screenshot hashes below identify review derivatives only, never original instrument bytes.",
@@ -435,6 +504,17 @@
         "CH2-P78"
       ],
       "refinement": "2006 signed transfer continuity and non-additive issuer accounting; prior rows unchanged"
+    },
+    {
+      "baseline_commit": "c9033f626587ddd916b0976f964c5b67f6527f56",
+      "source_ids": [
+        "CH2-P79",
+        "CH2-P80",
+        "CH2-P81",
+        "CH2-P82"
+      ],
+      "reused_source": "CH2-P76 Q2 original, cash-flow statement p.3; existing source record unchanged",
+      "refinement": "Pre-purchase access and credit/period-flow distinctions, not funded-deal proof"
     }
   ]
 }

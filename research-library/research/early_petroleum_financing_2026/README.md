@@ -110,3 +110,7 @@ These targeted records could close substantive gaps; more name-only litigation m
 ### Bridgeport 2006 continuity extension (November 14, 2026)
 
 [Signed transfer and issuer-accounting extension](century_bridgeport_note_2026-11-14.md#november-14-continuity-extension-may-2006-transfer-and-issuer-accounting) links the submitted transfer to prior 2446:116 and preserves approximate early/later acquisition amounts without double counting or seller-proceeds inference. Prior rows remain unchanged.
+
+### Global pre-purchase access and credit context (November 14, 2026)
+
+[Access, framework and period-flow extension](century_bridgeport_note_2026-11-14.md#november-14-access-and-credit-extension-framework-is-not-acquisition-funding) separates CPW access, credit availability and issuer period flows from any proved acquisition funding. Earlier rows and unresolved disclosure versions remain unchanged.

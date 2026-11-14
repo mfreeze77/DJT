@@ -134,3 +134,44 @@ The nominal components reconcile **$2.2m + $0.2m = $2.4m**, but all are approxim
 The aggregate includes **buyer-related costs** and must not be called seller proceeds. Even the acquisition component is an approximate issuer disclosure, not inspected cash settlement, land-only allocation, seller receipt or payoff. The group-level reporting scope is not silently equated with all terms of the unacquired deed. No price/profit series for unchanged assets, aggregate with the 1988 assessor price or Barrier consideration, common funding pool, personal receipt or onward Trump payment is calculated.
 
 EP-CEN18–23 extend the existing 16-field companion; related-observation links identify overlapping source accounts/components, not new counted edges. All aggregation/counting/clearance flags remain false. Prior EP-CEN01–17 and their source-scope corrections remain unchanged. New original PDFs/SEC HTML are separately hashed in provenance; issuer-hosted annual PDF pages107/F-7 and119/F-19 are matching review versions, not extra acquisitions. No source archives or private research packets are published.
+
+## November 14 access and credit extension: framework is not acquisition funding
+
+### Documented access before purchase
+
+The final **September 28, 2005 prospectus**, pp.87,92, lists **Connecticut Petroleum Wholesalers (Bridgeport, CT)** among terminals available under **throughput or exchange** arrangements. Storage is **As Available**, with distillates and marine/truck receipt and delivery. This is pre-acquisition commercial access, not prior ownership. The table does not choose a CPW-specific arrangement type or state a guaranteed capacity, fee, term or signatory. Generic descriptions of throughput charges or exchange differentials are not demonstrated CPW terms. [CH2-P79, final prospectus](https://www.sec.gov/Archives/edgar/data/1323468/000104746905023615/a2163408z424b4.htm).
+
+No CPW-specific contract was acquired. Do not merge CPW with Bridgeport Marine Terminals or identify the unnamed acquisition seller affiliate from this access relationship. No terms from a different terminal agreement are imported here.
+
+### Executed framework, not a completed borrowing record
+
+The **October 4, 2005 credit agreement**, Exhibit 10.8, distinguishes:
+
+- **Section 7.6(c)(iii), p.77:** a prior written description for the defined Permitted Acquisition route. Sections 7.6(a) and (b) also provide ordinary-course acquisition and permitted-merger routes; the public Bridgeport records do not establish which contractual classification was used.
+- **Section 2.2, pp.35–36:** borrowing, conversion or continuation notices specify facility, date, type and amount, with written Loan Notice confirmation. An acquisition notice is not automatically a loan request.
+- **Sections 2.1(b) and 6.11, pp.34,72:** acquisition capacity and permitted proceeds uses, distinct from working-capital/general-revolver purposes. Capacity is not a requirement to finance every purchase with a draw.
+
+[CH2-P80, executed agreement](https://www.sec.gov/Archives/edgar/data/1323468/000110465905048061/a05-17438_1ex10d8.htm). These are descriptions of contractual contents, **not a finding of compliance or breach**. No completed Bridgeport acquisition notice, borrowing request, actual disbursement, seller account or closing funds-flow was acquired. Agent/lender roles and general wire mechanics do not identify who funded this acquisition; unproduced private notices are not proved nonexistent.
+
+The **November 10, 2005 first amendment** changes working-capital commitments/fees while preserving other terms; the **August 2, 2006 second amendment** is postclosing. Neither supplies a Bridgeport draw or changes the cited notice distinction. The later commitment schedule is not a closing draw ledger. [P80, first amendment](https://www.sec.gov/Archives/edgar/data/1323468/000110465905055075/a05-20232_1ex10d1.htm); [second amendment](https://www.sec.gov/Archives/edgar/data/1323468/000110465906051092/a06-17158_1ex10d1.htm).
+
+### Reporting-date availability and period flows
+
+At **September 30, 2006**, Q3 Note 6 p.9 includes the entire **$35 million acquisition facility** and **$15 million general revolver** within **$172.8 million remaining availability**. This is reporting-date capacity, not reported acquisition borrowing. It does **not** rule out an interim draw and repayment between reporting dates. Do not add those components to their availability total. [CH2-P82, Q3 10-Q](https://www.sec.gov/Archives/edgar/data/1323468/000110465906074903/a06-22008_110q.htm).
+
+The already indexed **P76 Q2 cash-flow statement, p.3**, reports the following **six-month flows for January 1–June 30, 2006**, in thousands:
+
+| Statement line | Reported amount | Interpretation limit |
+|---|---:|---|
+| Terminal acquisition | $(2,348) thousand | $2.348m issuer-reported acquisition outflow; not inspected seller receipt or extra acquisition |
+| Proceeds from (payments on) revolving line of credit, net | $2,200 thousand | $2.2m net period borrowing inflow, not a gross closing draw or deal-specific funding trace |
+
+[P76, reused Q2 original](https://www.sec.gov/Archives/edgar/data/1323468/000110465906054711/a06-15709_110q.htm). The numeric similarity between net borrowing and the approximate acquisition component does not establish a transaction-specific connection. No cash-flow line is added to the prior $2.2m component, $0.2m buyer costs or $2.4m aggregate. No new seller proceeds, funding allocation, aggregate or price difference is calculated. Later multi-acquisition cash-flow totals must not be assigned wholly to Bridgeport.
+
+### Earlier source stages refine, not replace, existing rows
+
+**Q1 Note 12, p.14** explicitly states completion on **May 8, 2006**. This is a subsequent event in the report for the period ended **March 31**, not a March closing or second transfer. It corroborates the date already supplied by P75's signed filing/agency acknowledgment. [CH2-P81, Q1 10-Q](https://www.sec.gov/Archives/edgar/data/1323468/000110465906034912/a06-9928_110q.htm).
+
+**Q3 MD&A p.26 already reports approximately $2.4 million for Bridgeport**, before the annual filings P77–78. This extends the known disclosure chronology while preserving the earlier approximately $2.3 million stage. It gives no explicit reconciliation, rounding explanation or difference payment. [P82, Q3 10-Q](https://www.sec.gov/Archives/edgar/data/1323468/000110465906074903/a06-22008_110q.htm).
+
+EP-CEN24–29 are non-additive source/context observations. EP-CEN27 uses a positive amount only to encode the stated outflow's magnitude; it is not an inflow. EP-CEN28 is explicitly net over six months. All aggregation/counting/clearance flags remain false; all 23 prior rows and prior disclosure limits remain unchanged. Credit provisions, available facilities, consolidated period flows and seller receipts are different evidence types. No common-fund, personal-benefit or Trump-payment inference is added.

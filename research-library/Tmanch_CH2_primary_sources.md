@@ -1013,3 +1013,30 @@ Existing CH2-P62/P63 reused for January 4, 1988 acquisition; deed, release and f
 
 **Limits:** Repeats same 2006 Bridgeport account; do not add neighboring 2007 acquisition table or resolve early 2.3 million discrepancy without evidence. [Source-tier extension](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md#november-14-continuity-extension-may-2006-transfer-and-issuer-accounting).
 
+
+## November 14, 2026: Global access and credit context
+
+## CH2-P79 — Global Partners final 2005 prospectus: CPW access
+
+**Source:** https://www.sec.gov/Archives/edgar/data/1323468/000104746905023615/a2163408z424b4.htm
+
+**Limits:** Pre-purchase access only; throughput/exchange alternatives and As Available do not establish CPW-specific contract terms, title or seller affiliation. [Access and finance limits](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md#november-14-access-and-credit-extension-framework-is-not-acquisition-funding).
+
+## CH2-P80 — Executed 2005 credit framework and bounded amendments
+
+**Source:** https://www.sec.gov/Archives/edgar/data/1323468/000110465905048061/a05-17438_1ex10d8.htm
+
+**Limits:** Contract contents, not compliance finding or funded Bridgeport draw. Postclosing amendment schedule not closing funding proof; completed acquisition/loan notices not acquired. [Access and finance limits](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md#november-14-access-and-credit-extension-framework-is-not-acquisition-funding).
+
+## CH2-P81 — Global Partners first-quarter 2006 subsequent event
+
+**Source:** https://www.sec.gov/Archives/edgar/data/1323468/000110465906034912/a06-9928_110q.htm
+
+**Limits:** May 8 completion is subsequent event, not March closing or extra transaction. [Access and finance limits](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md#november-14-access-and-credit-extension-framework-is-not-acquisition-funding).
+
+## CH2-P82 — Global Partners third-quarter 2006 availability and acquisition disclosure
+
+**Source:** https://www.sec.gov/Archives/edgar/data/1323468/000110465906074903/a06-22008_110q.htm
+
+**Limits:** Availability is snapshot, not draw/never-used proof; approximately $2.4m stage does not reconcile earlier $2.3m or create another acquisition. [Access and finance limits](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md#november-14-access-and-credit-extension-framework-is-not-acquisition-funding).
+
