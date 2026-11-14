@@ -1516,3 +1516,13 @@ The [afternoon source manifest](Tmanch_CH7_Nov10_Afternoon_Source_Manifest.json)
 - **040 / CH7-DIESEL-SHIP-001 / DIESEL-SHIP-S025:** [Broader supply recovery and diesel constraints](Tmanch_CH7_Oct23_Diesel_Shipment_Source_Note.md#november-13-aggregate-context-broader-supply-recovery-and-diesel-constraints). IEA's Gulf-led supply recovery and Russian crude table do not isolate GL135's effects or establish diesel delivery/payment. All earlier cargo identities, statuses and scores remain unchanged.
 
 [Source provenance](Tmanch_CH7_Nov13_Diesel_Aggregate_Source_Manifest.json). No new event or financial flow; modelled revenue and secondary detailed export figures are not added.
+
+## November 14 acquisition: November 13 European-team outcome
+
+- **079/080 / EUROPE-NOV13-S007–008:** [Internally agreed proposed European team](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-13-late-outcome-acquired-november-14-internally-agreed-european-team). Costa and the Council outcome identify EU institutions plus France, Germany, Italy, Poland and the UK, coordinating with all member states. This narrows the internal lineup gap, not named appointments, complete mandate, Russian acceptance or actual participation. Earlier arrival/no-consensus and conditional-format stages remain intact.
+
+[Source provenance](Tmanch_CH7_Nov14_Europe_Team_Source_Manifest.json). Four existing rows receive concise dated crosslinks; no new event, status, score or financial flow.
+
+## November 14 acquisition: November 12 Skyline corporate disclosures
+
+- **SKYLINE-NOV12-S001/S002:** [Ticker announcement and nonbinding proposed combination](Tmanch_CH7_Nov12_Skyline_Corporate_Action_Source_Note.md). SEC-hosted reports dated November 12 give an issuer-reported KAZR-to-CRMN effective date and a proposed SuperCritical Materials term sheet. No independently verified trading, completed acquisition or personal proceeds; no presidential event, score or central flow is added. [Non-additive observations](Tmanch_CH7_Nov12_Skyline_Corporate_Observations.csv); [provenance](Tmanch_CH7_Nov14_Skyline_Source_Manifest.json).
