@@ -1063,3 +1063,14 @@ These observations do not add counted cash or transactions. See the [DOE note](r
 - **CH2-P95**: [KEF-0049 filing and consent-judgment locator](https://www.govinfo.gov/content/pkg/FR-1986-09-18/pdf/FR-1986-09-18.pdf). 51 FR 33126; PDF p.106, lower table. Explicit agency case-to-judgment-number reference only; original judgment/docket and court identity unacquired; filing not grant or payment.
 
 See the [DOE note](research/early_petroleum_financing_2026/doe_refund_note_2026-11-12.md) and [typed observations](research/early_petroleum_financing_2026/doe_refund_observations.csv). No additive award total or new contribution is recorded.
+
+### November 14 Conlo bank-item and historical registration supplement
+
+- **CH2-P96**: [SOS Oil Corp. v Norstar Bank, Court of Appeals](https://www.law.cornell.edu/nyctap/I90_0183.htm). 76 N.Y.2d 561; October 18 1990; opening facts, conclusion and footnote 1. Cornell labels opinion uncorrected and subject to revision before reporter publication. No original bank instrument or satisfaction record.
+- **CH2-P97**: [SOS Oil Corp. v Norstar Bank, Appellate Division mirror](https://openjurist.org/152/ad2d/223/sos-oil-corp-v-norstar-bank-6052330). 152 A.D.2d 223,225; December 4 1989; paragraphs 4-6,19-23. Public transcription. Raw HTTP preservation returned 403 and was stopped; no raw opinion bytes/hash claimed. Retained tool artifact also includes cross-check material.
+- **CH2-P98**: [TSB-M-85(1)M registration and bonding](https://www.tax.ny.gov/pdf/memos/fuel_%26_gasoline/m85_1m.pdf). July 17 1985; pp.1-3, sections A-B. Historical departmental description, not session-law image or proof of an actual Conlo filing or transaction.
+- **CH2-P99**: [TSB-M-85(5)M 1985 law changes](https://www.tax.ny.gov/pdf/memos/fuel_%26_gasoline/m85_5m.pdf). September 11 1985; pp.1,5. Historical departmental description, not session-law image or proof of an actual Conlo filing or transaction.
+- **CH2-P100**: [TSB-M-86(1)M 1985 amendments summary](https://www.tax.ny.gov/pdf/memos/misc/m86_1m.pdf). January 15 1986; printed p.2 / physical PDF p.3, section 283-5. Historical departmental description, not session-law image or proof of an actual Conlo filing or transaction.
+- **CH2-P101**: [TSB-M-86(9)M registration transfers](https://www.tax.ny.gov/pdf/memos/fuel_%26_gasoline/m86_9m.pdf). December 1 1986; pp.1,6-7, sections 283(9)-(10). Historical departmental description, not session-law image or proof of an actual Conlo filing or transaction.
+
+See the [identity note](research/early_petroleum_financing_2026/identity_note_2026-11-12.md) and [non-additive bank observations](research/early_petroleum_financing_2026/conlo_bank_observations.csv). Plural-name variants remain case-level only; historical memos are locator guidance, not actual filings.

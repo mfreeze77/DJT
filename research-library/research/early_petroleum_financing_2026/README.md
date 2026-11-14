@@ -122,3 +122,7 @@ The [DOE note](doe_refund_note_2026-11-12.md) and [observations](doe_refund_obse
 ## November 14 claimant-outcome refinement
 
 The [DOE note](doe_refund_note_2026-11-12.md) and [typed observations](doe_refund_observations.csv) append five RF155 claimant dispositions and a separate nonmonetary KEF judgment locator. They explicitly refine the earlier acquisition gap without replacing prior rows. Awards, attributed receipt wording, eligibility and denial remain distinct from independently bank-cleared payment; all counting flags stay false.
+
+## November 14 bounded Conlo bank-item comparison
+
+The [identity note](identity_note_2026-11-12.md) adds case-level plural-name controls and dated registration-source guidance. The separate [bank observations](conlo_bank_observations.csv) distinguish one check face amount, its court-described actual posting and an affirmed discrepancy judgment. They are not additive cash, a corporate merger or a central payment-chain extension.
