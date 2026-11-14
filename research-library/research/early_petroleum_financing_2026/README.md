@@ -98,3 +98,7 @@ These targeted records could close substantive gaps; more name-only litigation m
 ## Separate Century / Bridgeport comparison (November 14, 2026)
 
 [Note](century_bridgeport_note_2026-11-14.md), [typed observations](century_bridgeport_observations.csv) and [source provenance](century_bridgeport_source_manifest_2026-11-14.json) separate reported asset consideration, a recorded land conveyance, administrative fee/date discrepancies and a mortgage-release instrument with no established cash amount. Existing flows, Barrier and Westchester rows remain unchanged.
+
+### Century context follow-up (November 14, 2026)
+
+[Installation/index/permit context](century_bridgeport_note_2026-11-14.md#november-14-follow-up-installation-indexed-title-and-scoped-operating-context) adds five amount-blank observations, preserving the distinction between official text, index metadata, consultant narrative and signed permit. No new counted flows or prior-row changes.

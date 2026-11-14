@@ -177,3 +177,22 @@ The comparison reuses CH2-P60 p.3 and CH2-P61 p.4 for the January 1989 unpriced 
 [Official source](https://deep-react.service.ct.gov/s/case/500cs00001Q1xTN/detail); locator: DCN-017205, Date Of Transfer field. [Bounded note](century_bridgeport_note_2026-11-14.md); [acquisition tiers and hashes](century_bridgeport_source_manifest_2026-11-14.json). Current migrated fields only. Date Of Transfer is not independently verified conveyance date; no historic original document bytes represented.
 
 Reuses existing CH2-P62 pp.2–3 and CH2-P63 p.2 for the January 4, 1988 equipment/intangibles acquisition; no new IDs for those originals.
+
+## November 14, 2026: Century installation/index context supplement
+
+## CH2-P68 — EPA 1980 Region1 notification report, official text rendition
+
+[Official source](https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=2000KBNF.TXT). Notifier-submitted/unverified; exact entry notification date garbled. Original PDF403 stopped; no PDF acquired. [Bounded context](century_bridgeport_note_2026-11-14.md#november-14-follow-up-installation-indexed-title-and-scoped-operating-context).
+
+## CH2-P69 — Bridgeport1981 deed index metadata
+
+[Official source](https://i2o.uslandrecords.com/CT/Bridgeport/D/). Zero images; original unavailable. Index field Verified/Certified does not mean certified copy obtained; no price/legal description/parcel equivalence. [Bounded context](century_bridgeport_note_2026-11-14.md#november-14-follow-up-installation-indexed-title-and-scoped-operating-context).
+
+## CH2-P70 — CT DEP-hosted Keck assessment with attached NPDES permit
+
+[Official source](https://filings.deep.ct.gov/DEEPDocumentSearchPortal/Home/DisplayPDF?DocID={D036CB84-0100-CCAF-B710-6042FA331F74}). Report not agency ownership finding or executed lease; permit not actual compliance/payment. Broader environmental findings outside this supplement. [Bounded context](century_bridgeport_note_2026-11-14.md#november-14-follow-up-installation-indexed-title-and-scoped-operating-context).
+
+## CH2-P71 — Recorded Sun Oil boundary/location survey referenced by1988 deed
+
+[Official source](https://i2o.uslandrecords.com/CT/Bridgeport/D/). Specific match to1988 deed survey reference only; not1981 deed original/terms, full title timeline, price or payment. Screenshot hashes are review derivatives, not raw map hashes. [Bounded context](century_bridgeport_note_2026-11-14.md#november-14-follow-up-installation-indexed-title-and-scoped-operating-context).
+

@@ -150,7 +150,133 @@
         "sha256": "de502176a1e5247d4d36ef6b681e911ecf9f90f43e1cab8833e66353539ff226"
       },
       "limits": "Current migrated fields only. Date Of Transfer is not independently verified conveyance date; no historic original document bytes represented."
+    },
+    {
+      "source_id": "CH2-P68",
+      "title": "EPA 1980 Region1 notification report, official text rendition",
+      "url": "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=2000KBNF.TXT",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T03:39:47.371569+00:00",
+      "bytes": 1693835,
+      "sha256": "db59a43aa86ca7aaf2b732d466f0135a92cb6bf0f48ea0e53a060a84cbe3b40c",
+      "artifact_type": "official-hosted OCR/text HTML, raw Latin1 response; not original scan",
+      "locator": "Preface; information-format key; HTML page-segment113",
+      "limits": "Notifier-submitted/unverified; exact entry notification date garbled. Original PDF403 stopped; no PDF acquired."
+    },
+    {
+      "source_id": "CH2-P69",
+      "title": "Bridgeport1981 deed index metadata",
+      "url": "https://i2o.uslandrecords.com/CT/Bridgeport/D/",
+      "observed_date": "2026-11-14",
+      "observation_precision": "date_only",
+      "locator": "Document34267;001/01652/932;CENTURY RESOURCES/Both",
+      "artifact_type": "official index UI, not original deed",
+      "review_derivatives": [
+        {
+          "file": "sun-century-1981-index.jpg",
+          "bytes": 135761,
+          "sha256": "8d715b86f8fe05dbd03a71cca0f04b40f5ccd3654ba984c591a8b4f706284a19",
+          "kind": "browser screenshot"
+        },
+        {
+          "file": "sun-century-1981-index.txt",
+          "bytes": 342,
+          "sha256": "7738b7c81181036c02e87b17fbd69a4d15f7e90ece63b0fe15766394bfb432fc",
+          "kind": "rendered UI text"
+        }
+      ],
+      "original_instrument_acquired": false,
+      "original_instrument_sha256": null,
+      "limits": "Zero images; original unavailable. Index field Verified/Certified does not mean certified copy obtained; no price/legal description/parcel equivalence."
+    },
+    {
+      "source_id": "CH2-P70",
+      "title": "CT DEP-hosted Keck assessment with attached NPDES permit",
+      "url": "https://filings.deep.ct.gov/DEEPDocumentSearchPortal/Home/DisplayPDF?DocID={D036CB84-0100-CCAF-B710-6042FA331F74}",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T03:42:33.732586+00:00",
+      "bytes": 5104502,
+      "sha256": "33022f0c6b71c2c22b7c975ebe2b0ab7914bcc31a6ed632e9879cc6df42785ad",
+      "artifact_type": "official-hosted PDF bundle of separately authored documents",
+      "author_tiers": [
+        {
+          "pages": "PDF1,5",
+          "author": "Keck Consulting Services",
+          "date": "1987-12-03",
+          "scope": "attributed pre-purchase/operating/occupancy account"
+        },
+        {
+          "pages": "PDF64-66",
+          "author": "Connecticut DEP",
+          "date": "1986-12-10",
+          "scope": "signed NPDES permit CT0021776"
+        }
+      ],
+      "limits": "Report not agency ownership finding or executed lease; permit not actual compliance/payment. Broader environmental findings outside this supplement."
+    },
+    {
+      "source_id": "CH2-P71",
+      "title": "Recorded Sun Oil boundary/location survey referenced by1988 deed",
+      "url": "https://i2o.uslandrecords.com/CT/Bridgeport/D/",
+      "session_dependent_viewer_url": "https://i2o.uslandrecords.com/CT/Bridgeport/D/ImageViewerEx.aspx",
+      "observed_date": "2026-11-14",
+      "observation_precision": "date_only",
+      "locator": "MapsVol48p15;document77006671;drawing3257;Maps/SUN OIL/Both",
+      "artifact_type": "official recorded original map viewed as free watermarked image",
+      "raw_original_acquired": false,
+      "raw_original_sha256": null,
+      "review_derivatives": [
+        {
+          "file": "sun-map-48-15-index.txt",
+          "bytes": 317,
+          "sha256": "68d3a55f39feb0e84ffce22655ae02fb94d8165cafcaf606732822ca4a4e7086",
+          "kind": "rendered index text"
+        },
+        {
+          "file": "sun-map-search.txt",
+          "bytes": 339,
+          "sha256": "dbc9463367c33052778099e64386fa92ff92226b347a4aadc21937ea2965bf08",
+          "kind": "rendered index text"
+        },
+        {
+          "file": "sun-map48-15-bottom.jpg",
+          "bytes": 120516,
+          "sha256": "205a23ebf69178bb883333c8e376bc94c96d25a8084c059448a05b6a87913ca8",
+          "kind": "browser screenshot of watermarked original map image"
+        },
+        {
+          "file": "sun-map48-15-date.jpg",
+          "bytes": 72386,
+          "sha256": "b335d0a677722496a2b7ef17075e0d62c8d6a80db62c37ca96b09b47af3ff2ca",
+          "kind": "browser screenshot of watermarked original map image"
+        },
+        {
+          "file": "sun-map48-15-overview.jpg",
+          "bytes": 118206,
+          "sha256": "2f94d1895267cdbbb835f33e2d24c1605488332e0ea0379410a5e8a577ed29e0",
+          "kind": "browser screenshot of watermarked original map image"
+        },
+        {
+          "file": "sun-map48-15-title-area.jpg",
+          "bytes": 99553,
+          "sha256": "34b7325b78b397afc948b3382d3be265fbaf9498c1519afa6ada3ca7e5a7b3d6",
+          "kind": "browser screenshot of watermarked original map image"
+        }
+      ],
+      "limits": "Specific match to1988 deed survey reference only; not1981 deed original/terms, full title timeline, price or payment. Screenshot hashes are review derivatives, not raw map hashes."
     }
   ],
-  "publication_artifacts": "No source archives, raw headers or screenshots published. Screenshot hashes below identify review derivatives only, never original instrument bytes."
+  "publication_artifacts": "No source archives, raw headers or screenshots published. Screenshot hashes below identify review derivatives only, never original instrument bytes.",
+  "append_only_supplements": [
+    {
+      "baseline_commit": "04763a13e0c86722a9a1429a52f2d6c250e240ec",
+      "source_ids": [
+        "CH2-P68",
+        "CH2-P69",
+        "CH2-P70",
+        "CH2-P71"
+      ],
+      "reused_source_page": "CH2-P64 PDF9 installation identifier/contact; original record unchanged"
+    }
+  ]
 }
