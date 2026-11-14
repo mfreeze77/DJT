@@ -141,3 +141,8 @@ The [historical sidecar](consumers_getty_note_2026-11-14.md) separates LUKOIL’
 ### Getty reported operating and settlement follow-through (November 14, 2026)
 
 [Historical sidecar extension](consumers_getty_note_2026-11-14.md#november-14-getty-operating-and-settlement-follow-through) adds an attributed single-station operating adaptation, the distinct 2013 estate and 2015 creditor stages, and a separate 2020 net payment. [Typed observations](consumers_getty_observations.csv) distinguish obligations, realized reported receipts, overlaps and missing payer allocations; none enters central aggregates or scores.
+
+
+### Getty restructuring and retained U.S. operating channels (November 14, 2026)
+
+[Historical extension](consumers_getty_note_2026-11-14.md#november-14-getty-restructuring-equity-exit-and-retained-supply-channels) separates affiliate asset consideration and obligations, parent support and planned uses, Cambridge share-sale and target-support terms, and the retained LNA channel. The [typed observations](consumers_getty_observations.csv) do not enter scored events or financial aggregates.

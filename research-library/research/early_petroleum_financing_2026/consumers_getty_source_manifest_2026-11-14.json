@@ -5,7 +5,7 @@
   "status": "bounded_repository_sidecar",
   "ids": "CH2-P116–122 are new; CH2-P111 and CH2-P114 are reused. EP-CGL01–14 are typed sidecar observations.",
   "repository_context_ref": "4320a9131f05539e5a430a674f2d1456596dbdf8",
-  "source_count": 15,
+  "source_count": 22,
   "sources": [
     {
       "source_id": "CH2-P116",
@@ -234,6 +234,115 @@
       "review_and_limits": "Reported prior ownership transfer and later Chapter 11 filing; not an inspected transfer agreement, consideration, Cambridge ultimate ownership or an independently traced payment.",
       "repo_source_status": "new",
       "retrieved_utc": "2026-11-14T14:35:03.374929+00:00"
+    },
+    {
+      "source_id": "CH2-P129",
+      "title": "April 22, 2013 LUKOIL prospectus, FCA archive and LSE copy",
+      "source_date": "2013-04-22",
+      "date_meaning": "prospectus_date",
+      "source_url": "https://data.fca.org.uk/artefacts/NSM/data-migration/51344688.pdf",
+      "locator": "Cover; printed pp.118,135; physical PDF pp.127,144",
+      "review_and_limits": "Issuer-reported affiliate asset acquisition and U.S. station snapshot; assumed obligations are not cash or a known discharge.",
+      "repo_source_status": "new",
+      "acquired_on": "2026-11-14",
+      "acquisition": "same prospectus original LSE PDF downloaded HTTP 200; FCA archival copy inspected via web reader, direct route HTTP 403; not independent sources",
+      "original_format": "pdf",
+      "original_bytes": 3621010,
+      "original_sha256": "8ab38cc959ac13274ac31191a0a5f66e7d57d6da6f9606922ce43508d72e9163",
+      "original_bytes_url": "https://www.rns-pdf.londonstockexchange.com/rns/9058C_1-2013-4-22.pdf"
+    },
+    {
+      "source_id": "CH2-P130",
+      "title": "SDNY Han declaration and attached contemporary exhibits",
+      "source_date": "2016-02-05",
+      "date_meaning": "filing_date",
+      "source_url": "https://cases.justia.com/federal/district-courts/new-york/nysdce/1%3A2000cv01898/4606/4373/0.pdf",
+      "locator": "Doc. 4373, Ex. 10-b (physical PDF pp.102–106) and Ex. 10-c (p.108)",
+      "review_and_limits": "Filed exhibit copies. Advisor described adjustable preclosing terms; internal restructuring plan includes received-equity account, intended funding uses, modeled arrangements and unverified implementation.",
+      "repo_source_status": "new",
+      "acquired_on": "2026-11-14",
+      "acquisition": "original sections inspected via web reader; direct-download HTTP 403; no source bytes retained",
+      "original_format": "pdf",
+      "original_bytes": null,
+      "original_sha256": null
+    },
+    {
+      "source_id": "CH2-P131",
+      "title": "Getty Realty FY2009 Form 10-K",
+      "source_date": "2009-12-31",
+      "date_meaning": "period_end",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1052752/000117120010000264/i00097_getty-10k.htm",
+      "locator": "Item 1, Item 7 and Note 3; Marketing restructuring and leases",
+      "review_and_limits": "Issuer reporting about its tenant. Affiliate-sale proceeds and parent support retired guaranteed debt; not a parent guarantee of the Realty leases. BP cohort is not the entire business.",
+      "repo_source_status": "new",
+      "acquired_on": "2026-11-14",
+      "acquisition": "original_http_200",
+      "original_format": "html",
+      "original_bytes": 4023027,
+      "original_sha256": "03196af2b97c9a4c1df91cb49e804db0c8ec0fca674efbae8d02f40c60ae925a",
+      "retrieved_utc": "2026-11-14T15:27:13.153062+00:00"
+    },
+    {
+      "source_id": "CH2-P132",
+      "title": "SDNY April 4, 2016 discovery order",
+      "source_date": "2016-04-04",
+      "date_meaning": "order_date",
+      "source_url": "https://law.justia.com/cases/federal/district-courts/new-york/nysdce/1:2000cv01898/4606/4405/",
+      "locator": "Doc. 4405 §§ II.B/C, nn.21–26, 42",
+      "review_and_limits": "Procedural background only; sealed stock agreement not inspected; does not allocate cash, verify contingent payment or adjudicate liability, solvency or intent.",
+      "repo_source_status": "new",
+      "acquired_on": "2026-11-14",
+      "acquisition": "original sections inspected via web reader; direct-download HTTP 403; no source bytes retained",
+      "original_format": "html",
+      "original_bytes": null,
+      "original_sha256": null
+    },
+    {
+      "source_id": "CH2-P133",
+      "title": "SDNY bankruptcy docket exhibit hosted by U.S. DOJ",
+      "source_date": "2014-10-21",
+      "date_meaning": "filing_date",
+      "source_url": "https://www.justice.gov/sites/default/files/usao-sdny/legacy/2015/03/25/InReGetty%20Notice%20of%20Lodging.pdf",
+      "locator": "Case 11-15606-scc, Doc. 1260-1, Exhibit A opening recital",
+      "review_and_limits": "Filed consent-decree exhibit recites December 5 petition date and August 24 confirmation order date. Not the original petition or proof of the unrelated settlement terms.",
+      "repo_source_status": "new",
+      "acquired_on": "2026-11-14",
+      "acquisition": "original_http_200",
+      "original_format": "pdf",
+      "original_bytes": 988908,
+      "original_sha256": "da73fe94da1a9720e4cb5f24434140cb71a001e7c48bb07eccbf95874dd331c1",
+      "retrieved_utc": "2026-11-14T15:28:16.566255+00:00"
+    },
+    {
+      "source_id": "CH2-P134",
+      "title": "Signed Getty Properties litigation funding letter",
+      "source_date": "2012-10-03",
+      "date_meaning": "agreement_date",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1052752/000119312513112263/d448426dex1012.htm",
+      "locator": "Exhibit 10.12 opening terms and signature page",
+      "review_and_limits": "Defines funding and specific adversary cases; ceiling and terms not new receipts. No allocation by case or proof of bank movement.",
+      "repo_source_status": "new",
+      "acquired_on": "2026-11-14",
+      "acquisition": "original_http_200",
+      "original_format": "html",
+      "original_bytes": 81029,
+      "original_sha256": "ca09927729c9e8334c8ab85de992047a97722c11c3ce278c4f032d6ba14070be",
+      "retrieved_utc": "2026-11-14T15:27:26.104374+00:00"
+    },
+    {
+      "source_id": "CH2-P135",
+      "title": "LUKOIL Americas release on completed Cambridge transfer",
+      "source_date": "2011-03-02",
+      "date_meaning": "publication_date",
+      "source_url": "https://www.prnewswire.com/news-releases/lukoil-americas-corporation-announces-sale-of-getty-petroleum-marketing-inc-to-cambridge-petroleum-holding-inc-117270123.html",
+      "locator": "Opening two paragraphs and about LUKOIL Americas",
+      "review_and_limits": "Issuer release carried by PR Newswire; reported equity completion and retained brand channel, not closing terms, ultimate buyer identity or ownership census.",
+      "repo_source_status": "new",
+      "acquired_on": "2026-11-14",
+      "acquisition": "original sections inspected via web reader; direct-download HTTP 403; no source bytes retained",
+      "original_format": "html",
+      "original_bytes": null,
+      "original_sha256": null
     }
   ],
   "data_contract": {
@@ -255,7 +364,7 @@
       "transaction_counted",
       "bank_clearance_verified"
     ],
-    "row_count": 32,
+    "row_count": 48,
     "all_aggregation_counting_and_clearance_flags": false,
     "null_amount": "Blank means nonmonetary/not quantified, never zero",
     "acquisition_overlap": "EP-CGL01 and EP-CGL02 are components of one acquisition; EP-CGL03 summarizes them and must never be added to them.",
@@ -274,6 +383,20 @@
       ],
       "observation_range": "EP-CGL15–32",
       "scope": "Distinct issuer-reported settlement stages, documented overlap, and one attributed station-level adaptation; no scored or aggregated monetary evidence."
+    },
+    {
+      "parent_commit": "1a6ed769d5f17dca0c182adf492e2713c1ebd969",
+      "source_ids": [
+        "CH2-P129",
+        "CH2-P130",
+        "CH2-P131",
+        "CH2-P132",
+        "CH2-P133",
+        "CH2-P134",
+        "CH2-P135"
+      ],
+      "observation_range": "EP-CGL33–48",
+      "scope": "Reported restructuring and ownership-exit stages, lease and supply distinctions, retained U.S. presence, bankruptcy correspondence, signed funding family. No central sums or merits claim."
     }
   ]
 }
