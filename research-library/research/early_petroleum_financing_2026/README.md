@@ -131,3 +131,8 @@ The [identity note](identity_note_2026-11-12.md) adds case-level plural-name con
 ### Bridgeport seller identity (November 14, 2026)
 
 [Seller identity and operating-name refinement](century_bridgeport_note_2026-11-14.md#november-14-seller-identity-extension) distinguishes two same-name CPW corporations, joins officer and operating records to the 2006 property-side seller, and keeps the later same-counterparty retail deal out of terminal amounts and scores. Earlier filing, reporting and funding limits remain unchanged.
+
+
+### Getty equity acquisition and Connecticut distributor context (November 14, 2026)
+
+The [historical sidecar](consumers_getty_note_2026-11-14.md) separates LUKOIL’s completed equity acquisition, Getty Realty’s property/lease boundary, attributed hearing positions, a Connecticut bill not enacted as introduced, and the subsequent tax-distributor listing. [Typed observations](consumers_getty_observations.csv) are excluded from all central financial amounts, contemporary licensing conclusions and beneficiary scores.
