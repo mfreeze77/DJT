@@ -316,3 +316,15 @@ See [seller-identity analysis](century_bridgeport_note_2026-11-14.md#november-14
 - **CH2-P122**: [OLR 2006-R-0321: Zone Pricing](https://prdext2.cga.ct.gov/2006/rpt/2006-R-0321.htm). Description of divorcement law and jobbers. Original official-mirror HTML acquired HTTP 200. OLR expressly disclaims legal-opinion authority. Report about a separate 2006 proposal, not an enacted zone-pricing finding.
 
 See the [historical Getty sidecar](consumers_getty_note_2026-11-14.md) and [non-additive typed observations](consumers_getty_observations.csv). CH2-P114 and CH2-P111 are reused, not independent sources.
+
+
+### November 14 Getty operating and settlement follow-through
+
+- **CH2-P123**: [Getty Realty FY2015 Form 10-K](https://www.sec.gov/Archives/edgar/data/1052752/000119312516500301/d62672d10k.htm). Note 3 pp.54–55, Marketing and the Master Lease; Major Tenants. Reported estate/creditor funding, distributions and separate lease assignments; not bank evidence. Annual totals overlap reported components. Avoid deriving residual-source shares.
+- **CH2-P124**: [March 3, 2015 signed Marketing estate settlement](https://www.sec.gov/Archives/edgar/data/1052752/000119312515083549/d889258dex991.htm). Recitals, paragraphs 1–4 and signature page. An allowed claim and conditional distributions are not receipts. Release scope has limits; not an admission or adjudication.
+- **CH2-P125**: [Getty Realty FY2020 Form 10-K](https://www.sec.gov/Archives/edgar/data/1052752/000156459021008446/gty-10k_20201231.htm). Note 3, printed p.59, Lukoil Americas Case. Reported net payment on separate case. No gross amount, fee size, payer allocation, insurer share or independently verified bank clearance.
+- **CH2-P126**: [Getty Realty July 17, 2013 settlement release](https://www.sec.gov/Archives/edgar/data/1052752/000115752313003422/a50674938ex99-1.htm). Exhibit 99.1, opening settlement and term paragraphs. Collective payment by or on behalf of defendants, then still subject to bankruptcy court approval. Forecast Realty proceeds are not receipt; exclude asserted underlying complaint theories.
+- **CH2-P127**: [Connecticut General Law public hearing, February 15, 2005](https://prdext2.cga.ct.gov/2005/gldata/chr/2005GL-00215-R001000-CHR.htm). Mike Lindquist testimony; after Michael J. Fox and before Richard Ficarilli. Single operator self-report; no executed station contract, regulator decision, audit, exact change date or statewide inference. H.B.6653 is a separate proposal.
+- **CH2-P128**: [Getty Realty FY2011 Form 10-K ownership and bankruptcy chronology](https://www.sec.gov/Archives/edgar/data/1052752/000119312512117565/d285705d10k.htm). The History of Our Company, printed p.7. Reported prior ownership transfer and later Chapter 11 filing; not an inspected transfer agreement, consideration, Cambridge ultimate ownership or an independently traced payment.
+
+[Operating and settlement follow-through](consumers_getty_note_2026-11-14.md#november-14-getty-operating-and-settlement-follow-through) and [non-additive typed observations](consumers_getty_observations.csv).

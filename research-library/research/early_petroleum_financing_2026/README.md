@@ -136,3 +136,8 @@ The [identity note](identity_note_2026-11-12.md) adds case-level plural-name con
 ### Getty equity acquisition and Connecticut distributor context (November 14, 2026)
 
 The [historical sidecar](consumers_getty_note_2026-11-14.md) separates LUKOIL’s completed equity acquisition, Getty Realty’s property/lease boundary, attributed hearing positions, a Connecticut bill not enacted as introduced, and the subsequent tax-distributor listing. [Typed observations](consumers_getty_observations.csv) are excluded from all central financial amounts, contemporary licensing conclusions and beneficiary scores.
+
+
+### Getty reported operating and settlement follow-through (November 14, 2026)
+
+[Historical sidecar extension](consumers_getty_note_2026-11-14.md#november-14-getty-operating-and-settlement-follow-through) adds an attributed single-station operating adaptation, the distinct 2013 estate and 2015 creditor stages, and a separate 2020 net payment. [Typed observations](consumers_getty_observations.csv) distinguish obligations, realized reported receipts, overlaps and missing payer allocations; none enters central aggregates or scores.

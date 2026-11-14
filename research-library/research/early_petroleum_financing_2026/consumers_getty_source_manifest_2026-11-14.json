@@ -5,7 +5,7 @@
   "status": "bounded_repository_sidecar",
   "ids": "CH2-P116–122 are new; CH2-P111 and CH2-P114 are reused. EP-CGL01–14 are typed sidecar observations.",
   "repository_context_ref": "4320a9131f05539e5a430a674f2d1456596dbdf8",
-  "source_count": 9,
+  "source_count": 15,
   "sources": [
     {
       "source_id": "CH2-P116",
@@ -141,6 +141,99 @@
       "review_and_limits": "Original SEC HTML acquired HTTP 200. Context-only comparison; no typed monetary row added. Seller group and acquisition are separate from the 2000-01 Getty and 2006 Bridgeport matters.",
       "repo_source_status": "reused_existing_id",
       "source_url": "https://www.sec.gov/Archives/edgar/data/1323468/000110465922009711/tm224849d1_8k.htm"
+    },
+    {
+      "source_id": "CH2-P123",
+      "title": "Getty Realty FY2015 Form 10-K",
+      "source_date": "2015-12-31",
+      "date_meaning": "report_period_end",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1052752/000119312516500301/d62672d10k.htm",
+      "locator": "Note 3 pp.54–55, Marketing and the Master Lease; Major Tenants",
+      "acquired_on": "2026-11-14",
+      "acquisition": "original_http_200",
+      "original_format": "html",
+      "original_bytes": 1838784,
+      "original_sha256": "88d6a0591bd5e4c4a9895798844f2e81b54dbbbc3d66da845a9860bae2f85893",
+      "review_and_limits": "Reported estate/creditor funding, distributions and separate lease assignments; not bank evidence. Annual totals overlap reported components. Avoid deriving residual-source shares.",
+      "repo_source_status": "new"
+    },
+    {
+      "source_id": "CH2-P124",
+      "title": "March 3, 2015 signed Marketing estate settlement",
+      "source_date": "2015-03-03",
+      "date_meaning": "agreement_date",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1052752/000119312515083549/d889258dex991.htm",
+      "locator": "Recitals, paragraphs 1–4 and signature page",
+      "acquired_on": "2026-11-14",
+      "acquisition": "original_http_200",
+      "original_format": "html",
+      "original_bytes": 19140,
+      "original_sha256": "b8be17c36163c63d0bf49cbe750430e87efe9f668a2251867cd64a6fdb8ef7a1",
+      "review_and_limits": "An allowed claim and conditional distributions are not receipts. Release scope has limits; not an admission or adjudication.",
+      "repo_source_status": "new"
+    },
+    {
+      "source_id": "CH2-P125",
+      "title": "Getty Realty FY2020 Form 10-K",
+      "source_date": "2020-12-31",
+      "date_meaning": "report_period_end",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1052752/000156459021008446/gty-10k_20201231.htm",
+      "locator": "Note 3, printed p.59, Lukoil Americas Case",
+      "acquired_on": "2026-11-14",
+      "acquisition": "original_http_200",
+      "original_format": "html",
+      "original_bytes": 15401865,
+      "original_sha256": "f09ee6b799e69b19fc00aae5a53366f6ece1ff40cc9d8b1b96797ebb3336066b",
+      "review_and_limits": "Reported net payment on separate case. No gross amount, fee size, payer allocation, insurer share or independently verified bank clearance.",
+      "repo_source_status": "new"
+    },
+    {
+      "source_id": "CH2-P126",
+      "title": "Getty Realty July 17, 2013 settlement release",
+      "source_date": "2013-07-17",
+      "date_meaning": "announcement_date",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1052752/000115752313003422/a50674938ex99-1.htm",
+      "locator": "Exhibit 99.1, opening settlement and term paragraphs",
+      "acquired_on": "2026-11-14",
+      "acquisition": "original_http_200",
+      "original_format": "html",
+      "original_bytes": 8861,
+      "original_sha256": "58d54da675eb1c9953630b64e405a9a2a471302e67145821b9f5ed3665da0076",
+      "review_and_limits": "Collective payment by or on behalf of defendants, then still subject to bankruptcy court approval. Forecast Realty proceeds are not receipt; exclude asserted underlying complaint theories.",
+      "repo_source_status": "new",
+      "retrieved_utc": "2026-11-14T14:33:18.770563+00:00"
+    },
+    {
+      "source_id": "CH2-P127",
+      "title": "Connecticut General Law public hearing, February 15, 2005",
+      "source_date": "2005-02-15",
+      "date_meaning": "hearing_date",
+      "source_url": "https://prdext2.cga.ct.gov/2005/gldata/chr/2005GL-00215-R001000-CHR.htm",
+      "locator": "Mike Lindquist testimony; after Michael J. Fox and before Richard Ficarilli",
+      "acquired_on": "2026-11-14",
+      "acquisition": "original_http_200",
+      "original_format": "html",
+      "original_bytes": 493180,
+      "original_sha256": "adaef37046628570b6e3c4650aef1f4a40d1f1e059e4f02164754a07b436d9ef",
+      "review_and_limits": "Single operator self-report; no executed station contract, regulator decision, audit, exact change date or statewide inference. H.B.6653 is a separate proposal.",
+      "repo_source_status": "new",
+      "retrieved_utc": "2026-11-14T14:27:50.246339+00:00"
+    },
+    {
+      "source_id": "CH2-P128",
+      "title": "Getty Realty FY2011 Form 10-K ownership and bankruptcy chronology",
+      "source_date": "2011-12-31",
+      "date_meaning": "report_period_end",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1052752/000119312512117565/d285705d10k.htm",
+      "locator": "The History of Our Company, printed p.7",
+      "acquired_on": "2026-11-14",
+      "acquisition": "original_http_200",
+      "original_format": "html",
+      "original_bytes": 3869765,
+      "original_sha256": "8328fe0c9602b125e1f6628c9eb4736c3b053b62593723c6deadc51a60ba8d5f",
+      "review_and_limits": "Reported prior ownership transfer and later Chapter 11 filing; not an inspected transfer agreement, consideration, Cambridge ultimate ownership or an independently traced payment.",
+      "repo_source_status": "new",
+      "retrieved_utc": "2026-11-14T14:35:03.374929+00:00"
     }
   ],
   "data_contract": {
@@ -162,10 +255,25 @@
       "transaction_counted",
       "bank_clearance_verified"
     ],
-    "row_count": 14,
+    "row_count": 32,
     "all_aggregation_counting_and_clearance_flags": false,
     "null_amount": "Blank means nonmonetary/not quantified, never zero",
     "acquisition_overlap": "EP-CGL01 and EP-CGL02 are components of one acquisition; EP-CGL03 summarizes them and must never be added to them.",
     "publication_scope": "Narrative, typed observations and source provenance; no source archives or private report."
-  }
+  },
+  "append_only_supplements": [
+    {
+      "parent_commit": "c7de7d14ef883c7ac6d61a74398090c6ed318022",
+      "source_ids": [
+        "CH2-P123",
+        "CH2-P124",
+        "CH2-P125",
+        "CH2-P126",
+        "CH2-P127",
+        "CH2-P128"
+      ],
+      "observation_range": "EP-CGL15–32",
+      "scope": "Distinct issuer-reported settlement stages, documented overlap, and one attributed station-level adaptation; no scored or aggregated monetary evidence."
+    }
+  ]
 }
