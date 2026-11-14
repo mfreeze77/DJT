@@ -118,3 +118,7 @@ These targeted records could close substantive gaps; more name-only litigation m
 ## November 14 DOE account and archival supplement
 
 The [DOE note](doe_refund_note_2026-11-12.md) and [observations](doe_refund_observations.csv) now distinguish Tarricone HEF-0177 commitment components, reported remittance and final refund procedure, later exact Tarricone/Conlo account snapshots, and series-specific NARA limits. These are non-additive administrative observations, not new central flows or corporate-identity joins. Prior records remain intact.
+
+## November 14 claimant-outcome refinement
+
+The [DOE note](doe_refund_note_2026-11-12.md) and [typed observations](doe_refund_observations.csv) append five RF155 claimant dispositions and a separate nonmonetary KEF judgment locator. They explicitly refine the earlier acquisition gap without replacing prior rows. Awards, attributed receipt wording, eligibility and denial remain distinct from independently bank-cleared payment; all counting flags stay false.

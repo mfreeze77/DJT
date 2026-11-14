@@ -1053,3 +1053,13 @@ Existing CH2-P62/P63 reused for January 4, 1988 acquisition; deed, release and f
 - **CH2-P90**: [NARA OHA refund-record disposition authority](https://www.archives.gov/files/records-mgmt/rcs/schedules/departments/department-of-energy/rg-0434/n1-434-04-001_sf115.pdf). PDF p.2 item A. Three years after refund-process closure or no longer needed, whichever sooner; authority not case-specific destruction proof.
 
 These observations do not add counted cash or transactions. See the [DOE note](research/early_petroleum_financing_2026/doe_refund_note_2026-11-12.md) and [typed observations](research/early_petroleum_financing_2026/doe_refund_observations.csv).
+
+### November 14 RF155 claimant and separate KEF locator supplement
+
+- **CH2-P91**: [Tarricone/Tenneco and Hays, Bleakley & Tobin refund summaries](https://www.govinfo.gov/content/pkg/FR-1986-12-09/pdf/FR-1986-12-09.pdf). 51 FR 44371; PDF p.119, left column. DOE summaries, not standalone orders or bank instruments. Tenneco printed total and received-interest wording; HBT small-claim election.
+- **CH2-P92**: [Tarricone/Consolidated Edison refund entitlement summary](https://www.govinfo.gov/content/pkg/FR-1986-12-04/pdf/FR-1986-12-04.pdf). 51 FR 43784; PDF p.70, left column. Principal and interest printed separately; combined total derived. Residual-oil gallons excluded. Adjacent decisions not part of this claim.
+- **CH2-P93**: [Tarricone/Wyatt refund denial summary](https://www.govinfo.gov/content/pkg/FR-1987-12-04/pdf/FR-1987-12-04.pdf). 52 FR 46120; PDF p.78, right column. No amount stated; denial under unrebutted no-injury presumption, not absence of purchases or payment history.
+- **CH2-P94**: [Tarricone/Spano refund grant summary](https://www.govinfo.gov/content/pkg/FR-1987-07-20/pdf/FR-1987-07-20.pdf). 52 FR 27253; PDF p.77, right column. Principal and interest printed separately; combined total derived. Eligible gallons not total purchases; no disbursement instrument.
+- **CH2-P95**: [KEF-0049 filing and consent-judgment locator](https://www.govinfo.gov/content/pkg/FR-1986-09-18/pdf/FR-1986-09-18.pdf). 51 FR 33126; PDF p.106, lower table. Explicit agency case-to-judgment-number reference only; original judgment/docket and court identity unacquired; filing not grant or payment.
+
+See the [DOE note](research/early_petroleum_financing_2026/doe_refund_note_2026-11-12.md) and [typed observations](research/early_petroleum_financing_2026/doe_refund_observations.csv). No additive award total or new contribution is recorded.
