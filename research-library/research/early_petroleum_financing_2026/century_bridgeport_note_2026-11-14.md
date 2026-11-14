@@ -101,3 +101,36 @@ This is a **conditional taxable-base consistency check** assuming correctly asse
 The official-hosted **RCSA §12-494-1**, carrying an **August 24, 1987 effective date**, defines full purchase price to include nonmoney consideration, liabilities assumed by the transferee and liabilities to which the realty remains subject, with specified exclusions for customary not-yet-due adjustments. Thus taxable base is not necessarily cash delivered at closing; no mortgage deduction or payoff amount is inferred. This is a current-hosted official reproduction with its historical effective date, not a separately acquired 1987 paper promulgation scan. [CH2-P74, p.1](https://eregulations.ct.gov/eRegsPortal/Browse/getDocument?guid=%7B0E70C7B4-8A62-42DA-9243-6FC81C43545B%7D).
 
 EP-CEN15 and EP-CEN16 describe the **same amount/conveyance under different evidence roles**, not two transfers. EP-CEN17 preserves the separate zero-price row without converting it into a cash finding. All counting/aggregation/clearance flags remain false. Prior deed-price blanks, fee, mortgage-release, Barrier consideration and all earlier rows remain unchanged; no payment aggregate, personal receipt or Trump/property-funding link is added.
+
+## November 14 continuity extension: May 2006 transfer and issuer accounting
+
+### Signed transfer record links back to the 1988 deed
+
+The official 136-page Form III bundle identifies a **May 8, 2006 business and real-estate acquisition from Bridgeport Marine Terminals, Inc. to Chelsea Sandwich LLC**, CPW Terminal, One Eagles Nest Road. Its property-description field specifically cites **Volume 2446 p.116**, lot 04, map block 0661, linking the submitted transfer to the previously inspected 1988 deed rather than just a shared address. The **June 29, 2006 agency acknowledgment** expressly describes the May 8 real-estate transfer and says the documents were received **May 12**. [CH2-P75, PDF pp.5,7–10](https://filings.deep.ct.gov/DEEPDocumentSearchPortal/Home/DisplayPDF?DocID={50EEFB89-0000-C126-A5F2-88535E424B4A}#page=5).
+
+These remain distinct source tiers: signed party submissions and a dated administrative acknowledgment, not a newly acquired land deed or bank settlement. The form disclaims DEP certification of its submitted facts. The separate **April 13 notarization** for Chelsea's certifying signature is not the closing date; counsel's May 12 cover explains the separate notary page. Receipt and acknowledgment dates are not second transfers. [P75, PDF pp.10–11,13](https://filings.deep.ct.gov/DEEPDocumentSearchPortal/Home/DisplayPDF?DocID={50EEFB89-0000-C126-A5F2-88535E424B4A}#page=10).
+
+The previously indexed assessor source separately lists **Chelsea Sandwich LLC, 6957/0324, May 8, 2006, $0**. The **actual 2006 deed 6957/0324 was not acquired**; that is an acquisition limit, not evidence it does not exist. The assessor zero does not prove a free transfer or rebut issuer accounting for a terminal acquisition with potentially different scope. [P72, field card p.1](https://gis.vgsi.com/cards/BridgeportCTCards//4480.pdf). No RCRA-ID normalization or broader environmental finding is needed for this deed-reference crosswalk.
+
+### Buyer group and seller wording stay separate
+
+The fiscal 2006 10-K **Note 1, F-7** identifies **Chelsea Sandwich LLC** and **Global Companies LLC** as separate operating subsidiaries wholly owned by **Global Operating LLC**, itself wholly owned by **Global Partners LP**. This supports the buyer-group crosswalk without treating the entities as interchangeable. [CH2-P77, Note 1](https://www.sec.gov/Archives/edgar/data/1323468/000110465907020106/a07-6021_210k.htm).
+
+The May 9 issuer release names **Connecticut Petroleum Wholesalers and one unnamed affiliate** as sellers of the Bridgeport terminal. It does not name that affiliate or a land-record instrument. The signed Form III independently identifies Bridgeport Marine Terminals as real-estate transferor; **that does not, by itself, identify it as the release's unnamed affiliate**. No corporate merger, exact whole-business asset allocation or seller-identity equivalence is inferred. [CH2-P76, Exhibit 99.3](https://www.sec.gov/Archives/edgar/data/1323468/000110465906033565/a06-11681_1ex99d3.htm).
+
+### Approximate amounts are versions and components, not extra flows
+
+| Disclosure | Amount and role |
+|---|---|
+| May 11, 2006 8-K Item 8.01; June 30 quarter 10-Q p.26 | Approximately $2.3 million acquisition account |
+| FY 2006 10-K Note 6, F-19 | Approximately $2.2 million acquisition component |
+| Same note | Approximately $0.2 million buyer-related costs |
+| Same note; repeated FY 2007 10-K Note 5, F-21 | Approximately $2.4 million aggregate including those costs |
+
+Sources: [P76, 8-K](https://www.sec.gov/Archives/edgar/data/1323468/000110465906033565/a06-11681_18k.htm), [P76, 10-Q](https://www.sec.gov/Archives/edgar/data/1323468/000110465906054711/a06-15709_110q.htm), [P77, 2006 10-K](https://www.sec.gov/Archives/edgar/data/1323468/000110465907020106/a07-6021_210k.htm), [CH2-P78, 2007 10-K](https://www.sec.gov/Archives/edgar/data/1323468/000104746908002790/a2183777z10-k.htm). Note 6 is the acquisition locator in FY 2006; Note 5 is correct in FY 2007. Neighboring acquisition tables are not allocated to Bridgeport.
+
+The nominal components reconcile **$2.2m + $0.2m = $2.4m**, but all are approximate source figures. The early **$2.3m** remains unreconciled; no closing statement or explicit explanation establishes rounding or a post-closing adjustment. Do not calculate the difference as another payment. These are the same acquisition's reporting stages, not independent receipts. The 8-K marks the relevant information/Exhibit 99.3 **furnished rather than filed** for Exchange Act section 18 purposes. Neither its May 11 date nor the May 9 announcement is substituted for the signed form's May 8 transfer date.
+
+The aggregate includes **buyer-related costs** and must not be called seller proceeds. Even the acquisition component is an approximate issuer disclosure, not inspected cash settlement, land-only allocation, seller receipt or payoff. The group-level reporting scope is not silently equated with all terms of the unacquired deed. No price/profit series for unchanged assets, aggregate with the 1988 assessor price or Barrier consideration, common funding pool, personal receipt or onward Trump payment is calculated.
+
+EP-CEN18–23 extend the existing 16-field companion; related-observation links identify overlapping source accounts/components, not new counted edges. All aggregation/counting/clearance flags remain false. Prior EP-CEN01–17 and their source-scope corrections remain unchanged. New original PDFs/SEC HTML are separately hashed in provenance; issuer-hosted annual PDF pages107/F-7 and119/F-19 are matching review versions, not extra acquisitions. No source archives or private research packets are published.

@@ -106,3 +106,7 @@ These targeted records could close substantive gaps; more name-only litigation m
 ### Century price-source refinement (November 14, 2026)
 
 [Dated source refinement](century_bridgeport_note_2026-11-14.md#november-14-price-source-refinement-assessor-record-and-conditional-tax-base-check) adds an assessor-reported $2.78 million and conditional tax-base consistency check for the same deed, not additional cash flows. Earlier deed no-numeric-price observation and all rows are preserved.
+
+### Bridgeport 2006 continuity extension (November 14, 2026)
+
+[Signed transfer and issuer-accounting extension](century_bridgeport_note_2026-11-14.md#november-14-continuity-extension-may-2006-transfer-and-issuer-accounting) links the submitted transfer to prior 2446:116 and preserves approximate early/later acquisition amounts without double counting or seller-proceeds inference. Prior rows remain unchanged.

@@ -211,3 +211,22 @@ Reuses existing CH2-P62 pp.2–3 and CH2-P63 p.2 for the January 4, 1988 equipme
 
 [Source](https://eregulations.ct.gov/eRegsPortal/Browse/getDocument?guid=%7B0E70C7B4-8A62-42DA-9243-6FC81C43545B%7D). Current-hosted historical-effective rule, not original1987 paper scan;nonmoney and liability-inclusive base not necessarily cash. [Dated refinement](century_bridgeport_note_2026-11-14.md#november-14-price-source-refinement-assessor-record-and-conditional-tax-base-check).
 
+
+## November 14, 2026: Bridgeport 2006 continuity and issuer accounting
+
+## CH2-P75 — CT DEP 2006 CPW Terminal signed Form III and agency acknowledgment
+
+[Source](https://filings.deep.ct.gov/DEEPDocumentSearchPortal/Home/DisplayPDF?DocID={50EEFB89-0000-C126-A5F2-88535E424B4A}). Signed submissions and dated administrative acknowledgment; not acquired 2006 deed or bank record. No DEP certification of submitted correctness. [Bounded extension](century_bridgeport_note_2026-11-14.md#november-14-continuity-extension-may-2006-transfer-and-issuer-accounting).
+
+## CH2-P76 — Global Partners 2006 early acquisition disclosure family
+
+[Source](https://www.sec.gov/Archives/edgar/data/1323468/000110465906033565/a06-11681_18k.htm). Early approximate 2.3 million same acquisition; release seller affiliate unnamed; relevant 8-K information furnished not filed; not independent money events. [Bounded extension](century_bridgeport_note_2026-11-14.md#november-14-continuity-extension-may-2006-transfer-and-issuer-accounting).
+
+## CH2-P77 — Global Partners fiscal 2006 annual acquisition and group disclosures
+
+[Source](https://www.sec.gov/Archives/edgar/data/1323468/000110465907020106/a07-6021_210k.htm). Same issuer annual disclosure versions, not independent receipts; separate subsidiaries; 2.4 million includes buyer costs and is not seller proceeds. [Bounded extension](century_bridgeport_note_2026-11-14.md#november-14-continuity-extension-may-2006-transfer-and-issuer-accounting).
+
+## CH2-P78 — Global Partners fiscal 2007 repeated 2006 acquisition account
+
+[Source](https://www.sec.gov/Archives/edgar/data/1323468/000104746908002790/a2183777z10-k.htm). Repeats same 2006 Bridgeport account; do not add neighboring 2007 acquisition table or resolve early 2.3 million discrepancy without evidence. [Bounded extension](century_bridgeport_note_2026-11-14.md#november-14-continuity-extension-may-2006-transfer-and-issuer-accounting).
+

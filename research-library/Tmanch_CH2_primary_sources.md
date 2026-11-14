@@ -986,3 +986,30 @@ Existing CH2-P62/P63 reused for January 4, 1988 acquisition; deed, release and f
 
 **Limits:** Current-hosted historical-effective rule, not original1987 paper scan;nonmoney and liability-inclusive base not necessarily cash. [Price-source refinement](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md#november-14-price-source-refinement-assessor-record-and-conditional-tax-base-check).
 
+
+## November 14, 2026: Bridgeport 2006 continuity and issuer accounting
+
+## CH2-P75 — CT DEP 2006 CPW Terminal signed Form III and agency acknowledgment
+
+**Source:** https://filings.deep.ct.gov/DEEPDocumentSearchPortal/Home/DisplayPDF?DocID={50EEFB89-0000-C126-A5F2-88535E424B4A}
+
+**Limits:** Signed submissions and dated administrative acknowledgment; not acquired 2006 deed or bank record. No DEP certification of submitted correctness. [Source-tier extension](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md#november-14-continuity-extension-may-2006-transfer-and-issuer-accounting).
+
+## CH2-P76 — Global Partners 2006 early acquisition disclosure family
+
+**Source:** https://www.sec.gov/Archives/edgar/data/1323468/000110465906033565/a06-11681_18k.htm
+
+**Limits:** Early approximate 2.3 million same acquisition; release seller affiliate unnamed; relevant 8-K information furnished not filed; not independent money events. [Source-tier extension](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md#november-14-continuity-extension-may-2006-transfer-and-issuer-accounting).
+
+## CH2-P77 — Global Partners fiscal 2006 annual acquisition and group disclosures
+
+**Source:** https://www.sec.gov/Archives/edgar/data/1323468/000110465907020106/a07-6021_210k.htm
+
+**Limits:** Same issuer annual disclosure versions, not independent receipts; separate subsidiaries; 2.4 million includes buyer costs and is not seller proceeds. [Source-tier extension](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md#november-14-continuity-extension-may-2006-transfer-and-issuer-accounting).
+
+## CH2-P78 — Global Partners fiscal 2007 repeated 2006 acquisition account
+
+**Source:** https://www.sec.gov/Archives/edgar/data/1323468/000104746908002790/a2183777z10-k.htm
+
+**Limits:** Repeats same 2006 Bridgeport account; do not add neighboring 2007 acquisition table or resolve early 2.3 million discrepancy without evidence. [Source-tier extension](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md#november-14-continuity-extension-may-2006-transfer-and-issuer-accounting).
+

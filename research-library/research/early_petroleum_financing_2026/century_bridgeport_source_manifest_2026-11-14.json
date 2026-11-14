@@ -321,6 +321,88 @@
       "sha256": "c9bd2e201a4f15cfc4a72c5fbf020c63b9a5b8951ca5931578a0d736a4f1d53f",
       "artifact_type": "official-hosted regulation PDF carrying August24 1987 effective date",
       "limits": "Current-hosted historical-effective rule, not original1987 paper scan;nonmoney and liability-inclusive base not necessarily cash."
+    },
+    {
+      "source_id": "CH2-P75",
+      "title": "CT DEP 2006 CPW Terminal signed Form III and agency acknowledgment",
+      "url": "https://filings.deep.ct.gov/DEEPDocumentSearchPortal/Home/DisplayPDF?DocID={50EEFB89-0000-C126-A5F2-88535E424B4A}",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T05:34:34.503139+00:00",
+      "bytes": 12024770,
+      "sha256": "83f9d5b3721c1e60d641d001431b245f386cfbc14040579597472cb07df61617",
+      "artifact_type": "official PDF bytes",
+      "physical_PDF_pages": "5,7-11,13",
+      "limits": "Signed submissions and dated administrative acknowledgment; not acquired 2006 deed or bank record. No DEP certification of submitted correctness."
+    },
+    {
+      "source_id": "CH2-P76",
+      "title": "Global Partners 2006 early acquisition disclosure family",
+      "url": "https://www.sec.gov/Archives/edgar/data/1323468/000110465906033565/a06-11681_18k.htm",
+      "artifacts": [
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/1323468/000110465906033565/a06-11681_18k.htm",
+          "http_status": 200,
+          "retrieved_utc": "2026-11-14T05:27:13.479204+00:00",
+          "bytes": 39281,
+          "sha256": "7733142e8bce7dc90fea191be3af4cb2f1f58bdca3d773f2b4e909f8c960e999",
+          "artifact_type": "SEC-hosted original HTML bytes"
+        },
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/1323468/000110465906033565/a06-11681_1ex99d3.htm",
+          "http_status": 200,
+          "retrieved_utc": "2026-11-14T05:27:17.739184+00:00",
+          "bytes": 13132,
+          "sha256": "e7487ba0915e78e29f6262f510fe04a00388f1ad14bc85aadc644f2e0c33fb9c",
+          "artifact_type": "SEC-hosted original HTML bytes"
+        },
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/1323468/000110465906054711/a06-15709_110q.htm",
+          "http_status": 200,
+          "retrieved_utc": "2026-11-14T05:29:08.927516+00:00",
+          "bytes": 886108,
+          "sha256": "d275237a79d712d2414c37bc1573be99a206eb1571c741752acdbab52e15c8c6",
+          "artifact_type": "SEC-hosted original HTML bytes"
+        }
+      ],
+      "locators": "May 11 8-K Item 8.01; May 9 Exhibit 99.3; June 30 quarter 10-Q p.26",
+      "limits": "Early approximate 2.3 million same acquisition; release seller affiliate unnamed; relevant 8-K information furnished not filed; not independent money events."
+    },
+    {
+      "source_id": "CH2-P77",
+      "title": "Global Partners fiscal 2006 annual acquisition and group disclosures",
+      "url": "https://www.sec.gov/Archives/edgar/data/1323468/000110465907020106/a07-6021_210k.htm",
+      "artifacts": [
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/1323468/000110465907020106/a07-6021_210k.htm",
+          "http_status": 200,
+          "retrieved_utc": "2026-11-14T05:26:50.394709+00:00",
+          "bytes": 3009411,
+          "sha256": "083727b8df08cdfc8c440c43bda635e5189bd5a4989b2dccae8d1d83029ef448",
+          "artifact_type": "SEC-hosted original HTML bytes"
+        },
+        {
+          "url": "https://media.corporate-ir.net/media_files/irol/19/190320/glp_2006_ar.pdf",
+          "http_status": 200,
+          "retrieved_utc": "2026-11-14T05:27:20.412672+00:00",
+          "bytes": 2607808,
+          "sha256": "13c52ca92c650e313f8345d06a6691007275747daf099b5afb1e46ad04e462a4",
+          "artifact_type": "official PDF bytes"
+        }
+      ],
+      "locators": "Note 1 F-7; Note 6 F-19; issuer annual PDF pp.107/119",
+      "limits": "Same issuer annual disclosure versions, not independent receipts; separate subsidiaries; 2.4 million includes buyer costs and is not seller proceeds."
+    },
+    {
+      "source_id": "CH2-P78",
+      "title": "Global Partners fiscal 2007 repeated 2006 acquisition account",
+      "url": "https://www.sec.gov/Archives/edgar/data/1323468/000104746908002790/a2183777z10-k.htm",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T05:27:11.305407+00:00",
+      "bytes": 1577897,
+      "sha256": "6a3e07d908f3c8f69063844ed24f0451534002921299bb658c55fb436dd3ff67",
+      "artifact_type": "SEC-hosted original HTML bytes",
+      "locator": "Note 5 Terminal Acquisitions F-21",
+      "limits": "Repeats same 2006 Bridgeport account; do not add neighboring 2007 acquisition table or resolve early 2.3 million discrepancy without evidence."
     }
   ],
   "publication_artifacts": "No source archives, raw headers or screenshots published. Screenshot hashes below identify review derivatives only, never original instrument bytes.",
@@ -343,6 +425,16 @@
         "CH2-P74"
       ],
       "refinement": "Assessor price and conditional same-conveyance tax-base check; prior deed no-numeric-price observation preserved"
+    },
+    {
+      "baseline_commit": "0108bc650332e6a7f873aefd3b363dada942ecda",
+      "source_ids": [
+        "CH2-P75",
+        "CH2-P76",
+        "CH2-P77",
+        "CH2-P78"
+      ],
+      "refinement": "2006 signed transfer continuity and non-additive issuer accounting; prior rows unchanged"
     }
   ]
 }
