@@ -965,3 +965,24 @@ Existing CH2-P62/P63 reused for January 4, 1988 acquisition; deed, release and f
 
 **Limits:** Specific match to1988 deed survey reference only; not1981 deed original/terms, full title timeline, price or payment. Screenshot hashes are review derivatives, not raw map hashes. [Source-tier comparison](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md#november-14-follow-up-installation-indexed-title-and-scoped-operating-context).
 
+
+## November 14, 2026: Century price-source refinement
+
+## CH2-P72 — City-linked Bridgeport assessor parcel4480 ownership history
+
+**Source:** https://gis.vgsi.com/cards/BridgeportCTCards//4480.pdf
+
+**Limits:** Reported price not contract or bank receipt; underlying tax/assessor lineage unknown;7.98 vs historical8.8 acres unresolved;zero row not proof no consideration. [Price-source refinement](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md#november-14-price-source-refinement-assessor-record-and-conditional-tax-base-check).
+
+## CH2-P73 — DRS LSN-98 prior-rate description
+
+**Source:** https://portal.ct.gov/DRS/Publications/Legal-Special-Notices/LSN/LSN-98
+
+**Limits:** Use prior0.45percent and1.10per1000/fraction only;1989 replacement rates do not apply1988;historical tax return/rounding absent. [Price-source refinement](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md#november-14-price-source-refinement-assessor-record-and-conditional-tax-base-check).
+
+## CH2-P74 — RCSA12-494-1 full-purchase-price definition
+
+**Source:** https://eregulations.ct.gov/eRegsPortal/Browse/getDocument?guid=%7B0E70C7B4-8A62-42DA-9243-6FC81C43545B%7D
+
+**Limits:** Current-hosted historical-effective rule, not original1987 paper scan;nonmoney and liability-inclusive base not necessarily cash. [Price-source refinement](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md#november-14-price-source-refinement-assessor-record-and-conditional-tax-base-check).
+

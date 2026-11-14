@@ -77,3 +77,27 @@ The original recorded **Boundary and Location Survey / Sun Oil Company / Eagle's
 The map was viewed as a free watermarked original image; no raw map file or certified copy was acquired. Its generic indexed Grantor labels are search fields, not conveyancing parties. It supplies no price, paid consideration or street number 400. It does **not** upgrade the unavailable 1981 deed from index-only evidence, establish that deed's terms or a complete parcel-title timeline, or reconcile operating dates. The map/1988-deed reference remains distinct from Barrier's acquisition and all cash-flow observations.
 
 EP-CEN10–14 are amount-blank, non-additive context observations. Prior observations, consideration, fee, deed/release distinctions and correction history remain unchanged. No cash total, personal receipt, Trump payment or federal-liability inference is added.
+
+## November 14 price-source refinement: assessor record and conditional tax-base check
+
+**This supplements the earlier source-scope statements; it does not erase them.** The deed's consideration clause still supplies no numeric price, and EP-CEN02 remains a faithful no-price observation of that source. A newly inspected, city-linked assessor history now supplies a reported sale price for the exact recorded instrument. Statements above that no actual price had been supplied describe the earlier evidence set; they should now be read with this refinement, not as a claim that no later price source exists.
+
+### Reported sale price, not verified cash
+
+The City of Bridgeport's [Assessment Lookup link](https://www.bridgeportct.gov/government/departments/tax-assessor/assessments-online) leads to the Vision assessor service. **Parcel pid4480**, 400 Eagles Nest Road, records **BRIDGEPORT MARINE TERMINALS, $2,780,000, book/page 2446/0116, February 2, 1988**. The downloadable field card, printed February 6, 2026 at 10:05:12 PM as labeled, repeats that row. The online history and PDF are one assessor-source family, not two independent confirmations. This exact book/page and recording-date match connects the reported price to the already inspected deed, rather than merely to a similar owner or address. [CH2-P72, field card PDF p.1](https://gis.vgsi.com/cards/BridgeportCTCards//4480.pdf).
+
+The same history separately lists **2446/0119, February 2, 1988, $0**. That is a distinct instrument row, not a second $2.78 million flow, and its zero does not prove no consideration or cash. The field-card codes Q/U=U and V/I=I are not decoded here; no arm's-length classification is asserted. Current parcel area **7.98 acres** differs from the deed/survey's approximately **8.8 acres**. The exact instrument join supports the price-source crosswalk, not an invented explanation of later parcel changes or full equivalence of current/historical boundaries. No appraisal value is substituted for sale price.
+
+### Conditional consistency with recorded tax marks
+
+The previously inspected deed p.116 carries **$12,510 state** and **$3,058 city** conveyance-tax annotations. DRS **LSN-98, part II**, describes the prior state rate as **0.45%** and municipal rate as **$1.10 for each $1,000 or fractional part**. Its replacement rates concern 1989 changes, not this February 1988 deed; the later nonresidential 1% rate must not be retrojected. [CH2-P73](https://portal.ct.gov/DRS/Publications/Legal-Special-Notices/LSN/LSN-98).
+
+- $2,780,000 × 0.0045 = $12,510.
+- $1.10 × ceiling($2,780,000 / $1,000) = $3,058.
+- The **municipal amount alone** supports the bracket **($2,779,000, $2,780,000]**, open at the lower bound and closed at the upper bound, not an exact price or a $500 bracket.
+
+This is a **conditional taxable-base consistency check** assuming correctly assessed ordinary taxes for this conveyance. The historical return, actual rounding instructions and remittance instrument were not acquired. Therefore tax inversion alone does not prove a contract price to the dollar or taxes cleared. The assessor amount and tax arithmetic agree, but their underlying data lineage is unknown; they are not asserted as independent primary verification of cash payment.
+
+The official-hosted **RCSA §12-494-1**, carrying an **August 24, 1987 effective date**, defines full purchase price to include nonmoney consideration, liabilities assumed by the transferee and liabilities to which the realty remains subject, with specified exclusions for customary not-yet-due adjustments. Thus taxable base is not necessarily cash delivered at closing; no mortgage deduction or payoff amount is inferred. This is a current-hosted official reproduction with its historical effective date, not a separately acquired 1987 paper promulgation scan. [CH2-P74, p.1](https://eregulations.ct.gov/eRegsPortal/Browse/getDocument?guid=%7B0E70C7B4-8A62-42DA-9243-6FC81C43545B%7D).
+
+EP-CEN15 and EP-CEN16 describe the **same amount/conveyance under different evidence roles**, not two transfers. EP-CEN17 preserves the separate zero-price row without converting it into a cash finding. All counting/aggregation/clearance flags remain false. Prior deed-price blanks, fee, mortgage-release, Barrier consideration and all earlier rows remain unchanged; no payment aggregate, personal receipt or Trump/property-funding link is added.

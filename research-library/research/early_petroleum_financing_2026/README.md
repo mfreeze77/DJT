@@ -102,3 +102,7 @@ These targeted records could close substantive gaps; more name-only litigation m
 ### Century context follow-up (November 14, 2026)
 
 [Installation/index/permit context](century_bridgeport_note_2026-11-14.md#november-14-follow-up-installation-indexed-title-and-scoped-operating-context) adds five amount-blank observations, preserving the distinction between official text, index metadata, consultant narrative and signed permit. No new counted flows or prior-row changes.
+
+### Century price-source refinement (November 14, 2026)
+
+[Dated source refinement](century_bridgeport_note_2026-11-14.md#november-14-price-source-refinement-assessor-record-and-conditional-tax-base-check) adds an assessor-reported $2.78 million and conditional tax-base consistency check for the same deed, not additional cash flows. Earlier deed no-numeric-price observation and all rows are preserved.

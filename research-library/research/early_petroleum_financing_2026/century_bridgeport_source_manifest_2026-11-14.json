@@ -264,6 +264,63 @@
         }
       ],
       "limits": "Specific match to1988 deed survey reference only; not1981 deed original/terms, full title timeline, price or payment. Screenshot hashes are review derivatives, not raw map hashes."
+    },
+    {
+      "source_id": "CH2-P72",
+      "title": "City-linked Bridgeport assessor parcel4480 ownership history",
+      "url": "https://gis.vgsi.com/cards/BridgeportCTCards//4480.pdf",
+      "city_authority_url": "https://www.bridgeportct.gov/government/departments/tax-assessor/assessments-online",
+      "artifact_type": "official-city-linked vendor parcel HTML and downloadable field-card PDF; modern assessment record",
+      "artifacts": [
+        {
+          "artifact": "official_city_assessments.html",
+          "url": "https://www.bridgeportct.gov/government/departments/tax-assessor/assessments-online",
+          "http_status": 200,
+          "acquired_utc": "2026-11-14T04:23:12.472921+00:00",
+          "bytes": 22778,
+          "sha256": "3857bde973e607f2d78664492b4f17b9a4a52bdd9e771852d9090dc953e5d4a5"
+        },
+        {
+          "artifact": "parcel4480.html",
+          "url": "https://gis.vgsi.com/bridgeportct/Parcel.aspx?pid=4480",
+          "http_status": 200,
+          "acquired_utc": "2026-11-14T04:23:19.121142+00:00",
+          "bytes": 106841,
+          "sha256": "0ab39934b1bae4bd31de1bf3428d000cf38c01eafad010a26e2f75c88c9c1010"
+        },
+        {
+          "artifact": "fieldcard4480.pdf",
+          "url": "https://gis.vgsi.com/cards/BridgeportCTCards//4480.pdf",
+          "http_status": 200,
+          "acquired_utc": "2026-11-14T04:23:16.420992+00:00",
+          "bytes": 132641,
+          "sha256": "28b75733901e5cd51f2631442292ddf5a4d7fb54cdbeaccc42c62540c36de242"
+        }
+      ],
+      "locator": "PDF1;ownership history exact2446/0116 and2446/0119;parcel4480",
+      "limits": "Reported price not contract or bank receipt; underlying tax/assessor lineage unknown;7.98 vs historical8.8 acres unresolved;zero row not proof no consideration."
+    },
+    {
+      "source_id": "CH2-P73",
+      "title": "DRS LSN-98 prior-rate description",
+      "url": "https://portal.ct.gov/DRS/Publications/Legal-Special-Notices/LSN/LSN-98",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T04:21:53.085573+00:00",
+      "bytes": 37358,
+      "sha256": "f8e4efd4364f1905cd92a84c7b62f62f5b647e0c8f70516d38f72021294bdf7a",
+      "artifact_type": "official DRS HTML retrospective description of prior rates",
+      "limits": "Use prior0.45percent and1.10per1000/fraction only;1989 replacement rates do not apply1988;historical tax return/rounding absent."
+    },
+    {
+      "source_id": "CH2-P74",
+      "title": "RCSA12-494-1 full-purchase-price definition",
+      "url": "https://eregulations.ct.gov/eRegsPortal/Browse/getDocument?guid=%7B0E70C7B4-8A62-42DA-9243-6FC81C43545B%7D",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T04:22:00.452916+00:00",
+      "bytes": 19745,
+      "sha256": "c9bd2e201a4f15cfc4a72c5fbf020c63b9a5b8951ca5931578a0d736a4f1d53f",
+      "artifact_type": "official-hosted regulation PDF carrying August24 1987 effective date",
+      "limits": "Current-hosted historical-effective rule, not original1987 paper scan;nonmoney and liability-inclusive base not necessarily cash."
     }
   ],
   "publication_artifacts": "No source archives, raw headers or screenshots published. Screenshot hashes below identify review derivatives only, never original instrument bytes.",
@@ -277,6 +334,15 @@
         "CH2-P71"
       ],
       "reused_source_page": "CH2-P64 PDF9 installation identifier/contact; original record unchanged"
+    },
+    {
+      "baseline_commit": "a1208df7ae0d039957100f76c6a59715ce9a1589",
+      "source_ids": [
+        "CH2-P72",
+        "CH2-P73",
+        "CH2-P74"
+      ],
+      "refinement": "Assessor price and conditional same-conveyance tax-base check; prior deed no-numeric-price observation preserved"
     }
   ]
 }
