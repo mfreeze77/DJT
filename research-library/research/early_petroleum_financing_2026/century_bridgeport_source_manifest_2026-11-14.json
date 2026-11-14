@@ -472,6 +472,194 @@
       "artifact_type": "SEC-hosted original HTML bytes",
       "locator": "Quarter ended September 30, 2006; Note 6 p.9; MD&A p.26",
       "limits": "Availability is snapshot, not draw/never-used proof; approximately $2.4m stage does not reconcile earlier $2.3m or create another acquisition."
+    },
+    {
+      "source_id": "CH2-P102",
+      "title": "CT Business Registry business master",
+      "url": "https://data.ct.gov/d/n7gp-d28j",
+      "retrieval_url": "https://data.ct.gov/resource/n7gp-d28j.json?%24select=id%2Cname%2Cstatus%2Caccountnumber%2Cbillingstreet%2Cbillingcity%2Cbillingpostalcode%2Cdate_registration%2Cdissolution_date%2Cmailing_address&%24where=accountnumber+in+%28%270038199%27%2C%270112023%27%2C%270210038%27%2C%270087667%27%29&%24order=accountnumber",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T13:37:39.465290+00:00",
+      "bytes": 1458,
+      "sha256": "3a9fdf70bcf432a13df4943bd57b97b4db6b77d5ece842b2a13f77f34571c692",
+      "original_artifact_type": "official filtered CT registry dataset response",
+      "locator": "CT IDs 0038199, 0112023, 0210038, 0087667",
+      "limits": "Dated registration/dissolution and observed index fields, not certified instruments, contemporaneous ownership or historical office terms. Do not use import date as event date."
+    },
+    {
+      "source_id": "CH2-P103",
+      "title": "CT Business Registry name history",
+      "url": "https://data.ct.gov/d/enwv-52we",
+      "retrieval_url": "https://data.ct.gov/resource/enwv-52we.json?%24where=unique_key+in+%28%27001t000000hjcNuAAI%27%2C%27001t000000XgC2tAAF%27%2C%27001t000000WmVaYAAV%27%2C%27001t000000XfvTTAAZ%27%29&%24limit=1000&%24order=unique_key%2Cname_change_date",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T13:34:51.363859+00:00",
+      "bytes": 572,
+      "sha256": "e9a95a0ebc8dc6d6f62f32558c786d1fde8f773d38ffd9d39c5da6aaf7103f36",
+      "original_artifact_type": "official filtered CT registry dataset response",
+      "locator": "Rows joined to CT IDs 0038199, 0112023, 0087667 via the master key",
+      "limits": "Explicit old/new name and change dates; not amendment body, merger, transfer, or successor determination."
+    },
+    {
+      "source_id": "CH2-P104",
+      "title": "CT Business Registry filing history",
+      "url": "https://data.ct.gov/d/ah3s-bes7",
+      "retrieval_url": "https://data.ct.gov/resource/ah3s-bes7.json?%24where=account+in+%28%27001t000000hjcNuAAI%27%2C%27001t000000XgC2tAAF%27%2C%27001t000000WmVaYAAV%27%2C%27001t000000XfvTTAAZ%27%29&%24limit=2000&%24order=account%2Cfiling_date",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T13:34:41.212313+00:00",
+      "bytes": 25787,
+      "sha256": "c95b8f5d012c16be0d4b3223408cf257aa0220b84714f570dd83b6d5c129ce58",
+      "original_artifact_type": "official filtered CT registry dataset response",
+      "locator": "0001930280; 0001930919; 0000112001; 0003360352; 0003360354",
+      "limits": "Indexed locator and type, not underlying instruments, asset transfers or winding-up distribution."
+    },
+    {
+      "source_id": "CH2-P105",
+      "title": "CT Business Registry principals",
+      "url": "https://data.ct.gov/d/ka36-64k6",
+      "retrieval_url": "https://data.ct.gov/resource/ka36-64k6.json?%24select=business_id%2Cname__c%2Cfirstname%2Cmiddlename%2Clastname%2Cdesignation%2Cbusiness_city%2Cbusiness_state%2Ccreate_dt&%24where=business_id+in+%28%27001t000000hjcNuAAI%27%2C%27001t000000XgC2tAAF%27%2C%27001t000000WmVaYAAV%27%2C%27001t000000XfvTTAAZ%27%29&%24limit=1000",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T13:34:41.075781+00:00",
+      "bytes": 1868,
+      "sha256": "5d4b42c19c9030b8a198db313bb3652605d10d8ac74a1fccfb02b3afcd2b1b5f",
+      "original_artifact_type": "official filtered CT registry dataset response",
+      "locator": "Richard V. Wiehl entries joined to the four distinct business IDs",
+      "limits": "Historical CPW and BMT entries omit designation; identical name does not establish title, ownership percentage or term. Snapshot/import timestamps are not dates of service."
+    },
+    {
+      "source_id": "CH2-P106",
+      "title": "2000 CT DRS quarterly distributor bulletin",
+      "url": "https://portal.ct.gov/drs/publications/announcements/2000/an-2000-2-3",
+      "retrieval_url": "https://portal.ct.gov/drs/publications/announcements/2000/an-2000-2-3",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T13:37:16.820949+00:00",
+      "bytes": 44669,
+      "sha256": "80bdf3f85dc6cb0bdb039e688f189c3291951bf987e59b46e1ecf087c81f81d3",
+      "original_artifact_type": "official downloaded HTML",
+      "locator": "AN 2000(2.3), new and former motor-vehicle-fuel distributor headings and two Bridgeport lines",
+      "limits": "Limited fuel category excluding gasohol, diesel, propane and natural gas. Separate public agency corroboration of operating name/address; no ownership, consideration or proof of licensing process cause."
+    },
+    {
+      "source_id": "CH2-P107",
+      "title": "2006 CT DRS quarterly distributor bulletin",
+      "url": "https://portal.ct.gov/-/media/DRS/Publications/pubsan/2006/AN-200633.pdf?la=en",
+      "retrieval_url": "https://portal.ct.gov/-/media/DRS/Publications/pubsan/2006/AN-200633.pdf?la=en",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T13:37:17.144144+00:00",
+      "bytes": 133188,
+      "sha256": "b490e65f5b2be073075ec9153cac9f56b9fae1b8d88ee1c0308815548f16a34e",
+      "original_artifact_type": "official downloaded PDF",
+      "locator": "AN 2006(3.3), Former Motor Vehicle Fuels Distributors, CPW row",
+      "limits": "License status for named category as reported, not cessation of all business, reason, corporate dissolution or sale."
+    },
+    {
+      "source_id": "CH2-P108",
+      "title": "March 7 2011 CT Environment Committee hearing",
+      "url": "https://prdext2.cga.ct.gov/2011/envdata/chr/2011ENV00307-R001100-CHR.htm",
+      "retrieval_url": "https://prdext2.cga.ct.gov/2011/envdata/chr/2011ENV00307-R001100-CHR.htm",
+      "http_status": 200,
+      "retrieved_utc": null,
+      "bytes": 581205,
+      "sha256": "4660c83f497b5eac4d27dbdc77b1268b4919f91fd4294c4738bab3a9657d7640",
+      "original_artifact_type": "official legislature mirror HTML",
+      "locator": "Rich Wiehl opening statement on S.B. 1113",
+      "limits": "Self-described presidency and family business, not a share register or representation about the 2006 sale."
+    },
+    {
+      "source_id": "CH2-P109",
+      "title": "Global signed December 9 2020 retail asset agreement",
+      "url": "https://www.sec.gov/Archives/edgar/data/1323468/000110465922009711/tm224849d1_ex2-1.htm",
+      "retrieval_url": "https://www.sec.gov/Archives/edgar/data/1323468/000110465922009711/tm224849d1_ex2-1.htm",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T13:32:32.803907+00:00",
+      "bytes": 443604,
+      "sha256": "57b0a11dceac7d787992beced24d5dafd884b7d3a12070789263852b82e0083a",
+      "original_artifact_type": "official SEC exhibit HTML",
+      "locator": "Heading and signature page after printed p.57; schedule list",
+      "limits": "Dated signatory capacities, not the May 2006 terminal contract. Schedules and exhibits omitted in public filing."
+    },
+    {
+      "source_id": "CH2-P110",
+      "title": "FTC final Global and Wiehl order",
+      "url": "https://www.ftc.gov/system/files/documents/cases/final_global_wiehl_order.pdf",
+      "retrieval_url": "https://www.ftc.gov/system/files/documents/cases/final_global_wiehl_order.pdf",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T13:37:18.847439+00:00",
+      "bytes": 244957,
+      "sha256": "31e4f8c4fda64faa2096dce2a8e0a19a295d001772b9ad94bb7e7b41b0d4f028",
+      "original_artifact_type": "official downloaded decision PDF",
+      "locator": "Definitions I.B, PDF p.2",
+      "limits": "Controlled affiliates as defined for the order, not a finding of 2006 BMT ownership or wrongdoing in the terminal acquisition."
+    },
+    {
+      "source_id": "CH2-P111",
+      "title": "Global January 2022 closing 8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1323468/000110465922009711/tm224849d1_8k.htm",
+      "retrieval_url": "https://www.sec.gov/Archives/edgar/data/1323468/000110465922009711/tm224849d1_8k.htm",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T13:37:15.524628+00:00",
+      "bytes": 33263,
+      "sha256": "b42d613f1a427a3da1854351af381874fbc074544bc3f8264666ba99b1744623",
+      "original_artifact_type": "official SEC issuer filing HTML",
+      "locator": "Item 2.01, January 25 closing, seller group, initial price and funding",
+      "limits": "Separate retail acquisition. Early approximate price subject to adjustment; no allocation to any individual seller."
+    },
+    {
+      "source_id": "CH2-P112",
+      "title": "Global FY2023 Note 3 acquisition accounting",
+      "url": "https://www.sec.gov/Archives/edgar/data/1323468/000155837024002047/R10.htm",
+      "retrieval_url": "https://www.sec.gov/Archives/edgar/data/1323468/000155837024002047/R10.htm",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T13:37:15.427524+00:00",
+      "bytes": 61763,
+      "sha256": "f4317eb843568ab4d90c22cea268209801108b6e208dc5b0c82ceb32a062f159",
+      "original_artifact_type": "official SEC structured financial note HTML",
+      "locator": "Consumers Petroleum subsection, Jan. 25 2022 and approximately USD 154.7m including inventory",
+      "limits": "Later version of same separate retail deal; not added to early USD 151m or any terminal amount. No verified personal net receipt."
+    },
+    {
+      "source_id": "CH2-P113",
+      "title": "1998 CT DRS annual distributor list",
+      "url": "https://portal.ct.gov/drs/publications/announcements/1998/an-98-1",
+      "retrieval_url": "https://portal.ct.gov/drs/publications/announcements/1998/an-98-1",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T13:41:25.693868+00:00",
+      "bytes": 247503,
+      "sha256": "c36d09aa22f146009160b25ba71cd5c9b7828e50e2afc6c0bc1350fdbc3ab617",
+      "original_artifact_type": "official downloaded HTML",
+      "locator": "AN 98(1), February 1 1998 entries for R H Holcomb and Consumers Petroleum of Connecticut",
+      "limits": "Both printed at 400 Eagles Nest Road in different categories. Does not identify a corporate ID, payment, ownership or a shared license."
+    },
+    {
+      "source_id": "CH2-P114",
+      "title": "2002 CT DRS annual distributor list",
+      "url": "https://portal.ct.gov/drs/publications/announcements/2002/an-2002-1",
+      "retrieval_url": "https://portal.ct.gov/drs/publications/announcements/2002/an-2002-1",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T13:41:31.457727+00:00",
+      "bytes": 460875,
+      "sha256": "5817aec7bdedc0178e3973e8df1307961f99a27b606405c8a8e9a07440eb155e",
+      "original_artifact_type": "official downloaded HTML",
+      "locator": "AN 2002(1), January 1 2002 entries for CPW and Consumers Petroleum of Connecticut",
+      "limits": "Both printed at 400 Eagles Nest Road in different categories. Not a common account, supply contract, ownership, or payment evidence."
+    },
+    {
+      "source_id": "CH2-P115",
+      "title": "CT Business Records Search displayed Bridgeport Marine Terminals officer and agent fields",
+      "url": "https://service.ct.gov/business/s/onlinebusinesssearch",
+      "observed_date_utc": "2026-11-14",
+      "observation_precision": "date_only",
+      "locator": "Search Business ALEI 0210038, Principal Details and Agent details",
+      "original_artifact_type": "official registry display inspected; retained accessibility-tree derivative, not raw underlying filing",
+      "raw_original_downloaded": false,
+      "raw_original_sha256": null,
+      "review_derivatives": [
+        {
+          "bytes": 19721,
+          "sha256": "dd3a9b7379163dcba7f8a28cca9fb39c609a3008e6db2076763df52a422ca29d",
+          "kind": "official UI capture derivative; contents not published"
+        }
+      ],
+      "limits": "Presentation snapshot with no dates of officer service; agent business-address label starts with Consumers Petroleum wording, not ownership or a current business-location claim. No residential/contact fields reproduced."
     }
   ],
   "publication_artifacts": "No source archives, raw headers or screenshots published. Screenshot hashes below identify review derivatives only, never original instrument bytes.",
@@ -515,6 +703,27 @@
       ],
       "reused_source": "CH2-P76 Q2 original, cash-flow statement p.3; existing source record unchanged",
       "refinement": "Pre-purchase access and credit/period-flow distinctions, not funded-deal proof"
+    },
+    {
+      "baseline_commit": "875062601640a50aefde0a4407a206e4ab1c0c82",
+      "source_ids": [
+        "CH2-P102",
+        "CH2-P103",
+        "CH2-P104",
+        "CH2-P105",
+        "CH2-P106",
+        "CH2-P107",
+        "CH2-P108",
+        "CH2-P109",
+        "CH2-P110",
+        "CH2-P111",
+        "CH2-P112",
+        "CH2-P113",
+        "CH2-P114",
+        "CH2-P115"
+      ],
+      "reused_sources": "CH2-P75 physical pp.7,10,117; CH2-P76 Item 8.01",
+      "refinement": "Separate like-named domestic stock entities, dated roles and independent same-category DRS record. Reported 2022 retail acquisition is expressly excluded from 2006 amounts."
     }
   ]
 }

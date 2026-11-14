@@ -126,3 +126,8 @@ The [DOE note](doe_refund_note_2026-11-12.md) and [typed observations](doe_refun
 ## November 14 bounded Conlo bank-item comparison
 
 The [identity note](identity_note_2026-11-12.md) adds case-level plural-name controls and dated registration-source guidance. The separate [bank observations](conlo_bank_observations.csv) distinguish one check face amount, its court-described actual posting and an affirmed discrepancy judgment. They are not additive cash, a corporate merger or a central payment-chain extension.
+
+
+### Bridgeport seller identity (November 14, 2026)
+
+[Seller identity and operating-name refinement](century_bridgeport_note_2026-11-14.md#november-14-seller-identity-extension) distinguishes two same-name CPW corporations, joins officer and operating records to the 2006 property-side seller, and keeps the later same-counterparty retail deal out of terminal amounts and scores. Earlier filing, reporting and funding limits remain unchanged.
