@@ -146,3 +146,8 @@ The [historical sidecar](consumers_getty_note_2026-11-14.md) separates LUKOIL’
 ### Getty restructuring and retained U.S. operating channels (November 14, 2026)
 
 [Historical extension](consumers_getty_note_2026-11-14.md#november-14-getty-restructuring-equity-exit-and-retained-supply-channels) separates affiliate asset consideration and obligations, parent support and planned uses, Cambridge share-sale and target-support terms, and the retained LNA channel. The [typed observations](consumers_getty_observations.csv) do not enter scored events or financial aggregates.
+
+
+### Getty trustee ledgers and Bionol creditor matches (November 14, 2026)
+
+[Cash reconciliation extension](consumers_getty_note_2026-11-14.md#november-14-trustee-ledger-follow-through-and-cash-reconciliation) verifies a post/reversal pair, received-vs-disbursed amounts, and four matched estate-to-estate transfers. For similar cases, match date sequence, amount, direction, legal party and transaction reference before counting; net reversals within the same ledger; reconcile only like-scoped components and preserve unresolved funding and bank-clearance limits. See [typed observations](consumers_getty_observations.csv).

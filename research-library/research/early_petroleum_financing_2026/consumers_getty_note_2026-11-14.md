@@ -93,3 +93,39 @@ The December 5, 2011 Chapter 11 date already recorded in **EP-CGL32** is confirm
 The [signed October 3, 2012 Getty Properties funding letter](https://www.sec.gov/Archives/edgar/data/1052752/000119312513112263/d448426dex1012.htm) connects the earlier reported wind-down and litigation-funding ceiling (**EP-CGL15–16**) to the named adversary cases **11-ap-02941 and 11-ap-02942**. The same agreement group and its later reported estate recoveries (**EP-CGL17–28**) are different stages, not extra transfers, a case-by-case allocation, or an adjudication. The litigation record can bridge the transaction family without establishing the source of any payer's individual contribution. **EP-CGL48.**
 
 **Cumulative test and beneficiaries.** The demonstrated commercial structure is positive evidence for both capital support/deleveraging and separation of assets from obligations: funding and debt retirement supported GPMI or its creditors; LNA obtained market assets; Realty's leases were not parent-guaranteed; the seller retained a branded U.S. channel while exiting GPMI with distinct target support. Those mechanisms are compatible, not proof of why actors chose them, solvency, deliberate liability avoidance or any decision on the merits. Corporate benefit and risk were distributed across different entities, counterparties and time periods; net U.S./allied or Russian-state benefit is uncertain. This does not link the cash trail to Trump, require a geopolitical motive, establish product origin, or change later sanctions/authorization analysis. No financial aggregate, score or current ledger entry changes.
+
+
+## November 14 trustee ledger follow-through and cash reconciliation
+
+### August 2013: one $93 million estate receipt, not two
+
+The [Getty trust's original Form 2](https://giulianomiller.com/Images/form2/gpi_form2_1.pdf), **CH2-P136** (case **11-15606 SCC**, printed/PDF p.49), records a **USD 93,000,000.00** general-operating receipt on **August 19, 2013** against a single joint counterparty line naming **LUKOIL Americas Corporation / LUKOIL North America LLC** and referencing **11-02941 and 11-02942**. This sharpens the month-level issuer-reported receipt (**EP-CGL17**) and the signed funding-letter case crosswalk (**EP-CGL48**). The litigation ledger posts the same date, amount, settlement/case references and counterparty (p.117), then reverses it as a deposit adjustment (p.118), leaving that posting pair at net zero. Do not count two external receipts or read the accounting reversal as evidence of an external refund. The joint line does not allocate either entity's contribution, exclude a third-party contribution, or show payer accounts or bank clearance. **EP-CGL49–50.**
+
+On August 21–22 the same trustee ledger records three Getty Properties Corp. disbursements on p.49:
+
+| Recorded date | Trustee ledger category | USD |
+|---|---|---:|
+| August 21 | Settlement proceeds after disputed amount | 21,473,689.02 |
+| August 21 | Super-priority claim, wind-down and expert funding | 8,907,200.18 |
+| August 22 | Legal-fees disbursement labeled a wire | 1,300,000.00 |
+
+The middle line comprises **USD 6,585,107.23** super-priority, **USD 1,226,532.79** wind-down and **USD 1,095,560.16** expert funding. These sum exactly to **USD 8,907,200.18**, not three additional disbursements. The proceeds descriptor itself is **USD 22,320,000.00 less USD 846,310.98** disputed, not cash for the gross descriptor or entitlement to another payment. The non-priority parts of all three rows sum to **USD 25,095,781.97**; the priority part is **USD 6,585,107.23**. Those round to the previously reported **USD 25.096 million and USD 6.585 million** in **CH2-P123 / EP-CGL18–19**. Total here is **USD 31,680,889.20** across the three exact postings only, not the page's unrelated line subtotal, incremental to the rounded issuer measures, the **USD 34.251 million** annual total, or a separate LUKOIL payment. Trustee disbursement descriptors are not the same classification scheme as Getty Realty's prior repayment/interest, rent/tax and damages accounting. **EP-CGL51–58.**
+
+### 2015 Getty Properties timing and precision
+
+Printed p.205 records Getty Properties' **USD 550,000** disputed-funding and **USD 6.8 million** unsecured-claim disbursements posted by the sender on April 21, while Getty Realty reports receipt on April 22. Printed p.251 puts the November 3 final unsecured distribution at **USD 10,826,183.76**, consistent with the issuer's approximate **USD 10.8 million**. These exact three named postings total **USD 18,176,183.76**, not the FY2015 reported annual shorthand of **USD 18,177,000**. No unexplained adjustment or additional money is inferred. The earlier contractual amount, receipts, posting stages and annual figure remain separate (**CH2-P123 / EP-CGL24–28; EP-CGL65–67**).
+
+### Bionol: four estate-to-estate matches, not four fresh LUKOIL payments
+
+The [Bionol trustee Form 2](https://giulianomiller.com/Images/form2/bio_form2_1.pdf) **CH2-P137** and the Getty trust Form 2 contain the following distinct dated pairs. Their amount, direction, recipient/payer identification and sequence match across separate estates maintained by the same person in separate legal capacities: Getty liquidating trustee and Bionol Chapter 7 trustee. Sender check identifiers appear in the Getty ledger and Bionol separately records the four amounts on the receiving estate's own books. This is a two-ledger accounting match from a common trustee source family, not independent corroboration or separate bank confirmation.
+
+| Getty posting | Check | Bionol receipt posting | USD | Printed pages: Getty / Bionol |
+|---|---:|---|---:|---|
+| January 13, 2015 | 40560 | January 15, 2015 | 9,392,925.43 | 193 / 4 |
+| November 3, 2015 | 40918 | November 4, 2015 | 14,954,343.64 | 250 / 6 |
+| April 14, 2016 | 40945 | April 21, 2016 | 156,284.52 | 270 / 8 |
+| August 19, 2016 | 40981 | August 23, 2016 | 21,561.01 | 277 / 8 |
+
+The two estates sometimes label the same stage differently; no row is duplicated merely because of two dates or two appearances. The **USD 24,525,114.60** total describes these four matched 2015–16 transfers to the Bionol estate, not four direct payments from LUKOIL, any earmark from the 2013 settlement, or onward payments to Bionol creditors. The [trustee case narrative](https://giulianomiller.com/debtor.php?id=bio) (**CH2-P138**, GPMI Litigation and Judgment paragraph) separately reports a **USD 234,823,135.72 allowed claim** including judgment and interest. The court order was not acquired; that reported face amount is not a received sum or evidence of full satisfaction, and it is not reverse-calculated from the first deposit's 4% label. Do not adopt the narrative's conflicting December 4 petition chronology; see **EP-CGL47** and the docket-derived December 5 date. **EP-CGL59–64.**
+
+**Cumulative effect and beneficiaries.** Public first-party cash records sharpen the earlier contract and issuer evidence: an exact estate receipt in the identified litigation family, specific disclosed disbursements to Getty Properties, and matched distributions credited to the Bionol estate. These are realized ledger-reported domestic estate and creditor benefits, not independently bank-cleared amounts, net profit, or proof that the named 2013 proceeds financed any particular 2015–16 distribution. Settlement finality is a distinct corporate effect. Net geopolitical benefit is uncertain; no Russian-state transfer, personal proceeds or Trump connection follows, and **J20-041 / CH7-LIG-004** remain later background without a licensing inference. Narrow remaining tests: original bank records and payer allocation, signed orders or claims register, case-level allocation, and identifiable estate funding sources. No old row, score, central total or presidential event is changed.

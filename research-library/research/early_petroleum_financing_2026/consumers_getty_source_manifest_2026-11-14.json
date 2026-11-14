@@ -5,7 +5,7 @@
   "status": "bounded_repository_sidecar",
   "ids": "CH2-P116–122 are new; CH2-P111 and CH2-P114 are reused. EP-CGL01–14 are typed sidecar observations.",
   "repository_context_ref": "4320a9131f05539e5a430a674f2d1456596dbdf8",
-  "source_count": 22,
+  "source_count": 25,
   "sources": [
     {
       "source_id": "CH2-P116",
@@ -343,6 +343,53 @@
       "original_format": "html",
       "original_bytes": null,
       "original_sha256": null
+    },
+    {
+      "source_id": "CH2-P136",
+      "title": "Getty Petroleum Liquidating Trust Form 2; case 11-15606 SCC",
+      "source_date": "2017-06-30",
+      "date_meaning": "report_period_end",
+      "source_url": "https://giulianomiller.com/Images/form2/gpi_form2_1.pdf",
+      "acquired_on": "2026-11-14",
+      "acquisition": "original_http_200",
+      "original_format": "pdf",
+      "original_bytes": 910815,
+      "original_sha256": "89f8eaa3dea4537e0024e2c1d3f2c970aef0fa627a908cbd4baa13559ba3c9d0",
+      "locator": "Printed/PDF pp.49,117–118,193,205,250–251,270,277",
+      "review_and_limits": "Contemporaneous-entry trustee cash record. Case tags and net posting match, not a bank instrument, payer-by-payer allocation or funding provenance; no account identifiers republished.",
+      "repo_source_status": "new",
+      "retrieved_utc": "2026-11-14T15:40:01.493270+00:00"
+    },
+    {
+      "source_id": "CH2-P137",
+      "title": "Bionol Clearfield LLC Form 2; case 11-12301 CSS",
+      "source_date": "2017-06-30",
+      "date_meaning": "report_period_end",
+      "source_url": "https://giulianomiller.com/Images/form2/bio_form2_1.pdf",
+      "acquired_on": "2026-11-14",
+      "acquisition": "original_http_200",
+      "original_format": "pdf",
+      "original_bytes": 439607,
+      "original_sha256": "f7cd12c5dfdf6f5287870b82fd608ed6c9ffcff7c90806daabe9b35d1c2580eb",
+      "locator": "Printed/PDF pp.4,6,8",
+      "review_and_limits": "Same trustee administrator, separate estate and records. Four recipient-side postings, not standalone bank clearance or onward recoveries.",
+      "repo_source_status": "new",
+      "retrieved_utc": "2026-11-14T15:40:01.455245+00:00"
+    },
+    {
+      "source_id": "CH2-P138",
+      "title": "Bionol case website, trustee narrative",
+      "source_date": "2017-06-30",
+      "date_meaning": "status_as_of_section_not_html_publication_date",
+      "source_url": "https://giulianomiller.com/debtor.php?id=bio",
+      "acquired_on": "2026-11-14",
+      "acquisition": "original_http_200",
+      "original_format": "html",
+      "original_bytes": 11704,
+      "original_sha256": "bcfce98a85431cdf613921e055e82b7b3c3accb25da2111d474863174f1aa87e",
+      "locator": "GPMI Litigation and Judgment paragraph",
+      "review_and_limits": "Trustee-reported allowed claim including judgment and interest, not independently inspected court order or full satisfaction. Conflicting chronology elsewhere excluded.",
+      "repo_source_status": "new"
     }
   ],
   "data_contract": {
@@ -364,7 +411,7 @@
       "transaction_counted",
       "bank_clearance_verified"
     ],
-    "row_count": 48,
+    "row_count": 67,
     "all_aggregation_counting_and_clearance_flags": false,
     "null_amount": "Blank means nonmonetary/not quantified, never zero",
     "acquisition_overlap": "EP-CGL01 and EP-CGL02 are components of one acquisition; EP-CGL03 summarizes them and must never be added to them.",
@@ -397,6 +444,16 @@
       ],
       "observation_range": "EP-CGL33–48",
       "scope": "Reported restructuring and ownership-exit stages, lease and supply distinctions, retained U.S. presence, bankruptcy correspondence, signed funding family. No central sums or merits claim."
+    },
+    {
+      "parent_commit": "232d3f4a2aba7f42b3d18b5ed715b4ca5a1f1ddb",
+      "source_ids": [
+        "CH2-P136",
+        "CH2-P137",
+        "CH2-P138"
+      ],
+      "observation_range": "EP-CGL49–67",
+      "scope": "Non-additive first-party trustee cash-chain refinement, exact matched dates and rounded-note reconciliation; no bank clearance or new central totals."
     }
   ]
 }

@@ -1132,3 +1132,12 @@ See the [historical Getty sidecar](research/early_petroleum_financing_2026/consu
 - **CH2-P135**: [LUKOIL Americas release on completed Cambridge transfer](https://www.prnewswire.com/news-releases/lukoil-americas-corporation-announces-sale-of-getty-petroleum-marketing-inc-to-cambridge-petroleum-holding-inc-117270123.html). Opening two paragraphs and about LUKOIL Americas. Issuer release carried by PR Newswire; reported equity completion and retained brand channel, not closing terms, ultimate buyer identity or ownership census.
 
 [Historical Getty extension](research/early_petroleum_financing_2026/consumers_getty_note_2026-11-14.md#november-14-getty-restructuring-equity-exit-and-retained-supply-channels); no new counts or scored actions.
+
+
+### November 14 trustee ledger follow-through and cash reconciliation
+
+- **CH2-P136**: [Getty Petroleum Liquidating Trust Form 2; case 11-15606 SCC](https://giulianomiller.com/Images/form2/gpi_form2_1.pdf). Printed/PDF pp.49,117–118,193,205,250–251,270,277. Contemporaneous-entry trustee cash record. Case tags and net posting match, not a bank instrument, payer-by-payer allocation or funding provenance; no account identifiers republished.
+- **CH2-P137**: [Bionol Clearfield LLC Form 2; case 11-12301 CSS](https://giulianomiller.com/Images/form2/bio_form2_1.pdf). Printed/PDF pp.4,6,8. Same trustee administrator, separate estate and records. Four recipient-side postings, not standalone bank clearance or onward recoveries.
+- **CH2-P138**: [Bionol case website, trustee narrative](https://giulianomiller.com/debtor.php?id=bio). GPMI Litigation and Judgment paragraph. Trustee-reported allowed claim including judgment and interest, not independently inspected court order or full satisfaction. Conflicting chronology elsewhere excluded.
+
+See the [trustee-ledger refinement](research/early_petroleum_financing_2026/consumers_getty_note_2026-11-14.md#november-14-trustee-ledger-follow-through-and-cash-reconciliation). No scored action or new aggregate.
