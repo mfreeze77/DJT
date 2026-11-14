@@ -1,0 +1,33 @@
+{
+  "baseline_commit": "6a6f78bc3781fa16283bb74a0bbd4b0837208722",
+  "sources": [
+    {
+      "source_id": "HOUSE-PRED-NOV13-S001",
+      "url": "https://oversight.house.gov/wp-content/uploads/2026/11/Prediction-Markets-Memo-11132026.pdf",
+      "document_date": "2026-11-13",
+      "retrieved_date_utc": "2026-11-14",
+      "physical_pdf_pages": 6,
+      "reviewed_visually": [
+        1,
+        4,
+        6
+      ],
+      "raw_original_bytes": 264849,
+      "raw_original_sha256": "edc38f71baa436540d3a1bb1310760a472ce657c56375835b470b2291fbe9b7a",
+      "source_kind": "original official staff memo",
+      "limits": "Reported process and recommendations; underlying production and briefings not acquired, no individual claims adopted."
+    },
+    {
+      "url": "https://oversight.house.gov/report/staff-memorandum-on-insider-trading-risks-on-prediction-markets/",
+      "http_status": 200,
+      "raw_original_sha256": "6d28ec653fda3354419b28c177483912ac4e104b88efdd039b2534d5169128e6",
+      "raw_original_bytes": 64910,
+      "retrieved_utc": "2026-11-14T14:30:51.303228+00:00",
+      "source_id": "HOUSE-PRED-NOV13-S002",
+      "publication_date_as_displayed": "2026-11-13",
+      "source_kind": "official report landing page",
+      "limits": "Same institutional source family; publication and linked memo confirmation, not independent evidence of underlying productions."
+    }
+  ],
+  "scope": "Attributed congressional oversight process and recommendation only; no personal allegation, raw archive or financial flow."
+}

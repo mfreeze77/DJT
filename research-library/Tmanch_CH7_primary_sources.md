@@ -1526,3 +1526,13 @@ The [afternoon source manifest](Tmanch_CH7_Nov10_Afternoon_Source_Manifest.json)
 ## November 14 acquisition: November 12 Skyline corporate disclosures
 
 - **SKYLINE-NOV12-S001/S002:** [Ticker announcement and nonbinding proposed combination](Tmanch_CH7_Nov12_Skyline_Corporate_Action_Source_Note.md). SEC-hosted reports dated November 12 give an issuer-reported KAZR-to-CRMN effective date and a proposed SuperCritical Materials term sheet. No independently verified trading, completed acquisition or personal proceeds; no presidential event, score or central flow is added. [Non-additive observations](Tmanch_CH7_Nov12_Skyline_Corporate_Observations.csv); [provenance](Tmanch_CH7_Nov14_Skyline_Source_Manifest.json).
+
+
+## November 10 EPA diesel renewals effective November 14
+
+- **EPA-DIESEL-S004–006 / CH7-EPA-DIESEL-003–004 / J20-2026-105–106:** [Signed originals, controls, qualifying-volume sell-through and benefit limits](Tmanch_CH7_Nov10_EPA_Diesel_Renewals_Source_Note.md). Two limited federal specifications relaxations continue prior 051/052 from November 14 through December 3; neither is a sanctions change or a measured result. [Source provenance](Tmanch_CH7_Nov10_EPA_Diesel_Renewals_Source_Manifest.json).
+
+
+## November 13 House prediction-market oversight process
+
+- **HOUSE-PRED-NOV13-S001–002 / CH7-HOUSE-PREDICTION-NOV13-001 / J20-2026-107:** [Original staff memorandum, official publication and attributed oversight-process limits](Tmanch_CH7_Nov13_House_Prediction_Oversight_Source_Note.md). Distinct from 100/096; no enacted restriction, adjudicated finding, regulatory change or financial flow. [Source provenance](Tmanch_CH7_Nov13_House_Prediction_Oversight_Source_Manifest.json).
