@@ -94,3 +94,7 @@ These targeted records could close substantive gaps; more name-only litigation m
 ## Separate Barrier acquisition/financing comparison (November 13, 2026)
 
 [Note](barrier_note_2026-11-13.md), [typed observations](barrier_observations.csv) and [four-source provenance](barrier_source_manifest_2026-11-13.json) distinguish mixed consideration, an unresolved later sale account, reported debt balances and tax payments. No central counted flows or prior records changed.
+
+## Separate Century / Bridgeport comparison (November 14, 2026)
+
+[Note](century_bridgeport_note_2026-11-14.md), [typed observations](century_bridgeport_observations.csv) and [source provenance](century_bridgeport_source_manifest_2026-11-14.json) separate reported asset consideration, a recorded land conveyance, administrative fee/date discrepancies and a mortgage-release instrument with no established cash amount. Existing flows, Barrier and Westchester rows remain unchanged.

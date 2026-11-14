@@ -157,3 +157,23 @@ NY Division of Tax Appeals, 1991-01-04, printed pp.2-3,7,13,21-22. [Official PDF
 NY Division of Tax Appeals, 1990-05-02, printed pp.2,5,8-10,16. [Official PDF](https://www.dta.ny.gov/pdf/archive/determinations/807303.DET.pdf). [Bounded comparison](barrier_note_2026-11-13.md); [provenance](barrier_source_manifest_2026-11-13.json). Mixed consideration, reported debt balances and tax payments are distinct; paired versions are not independent flows.
 
 The comparison reuses CH2-P60 p.3 and CH2-P61 p.4 for the January 1989 unpriced account; these are not new sources.
+
+## November 14, 2026: Century / Bridgeport comparison
+
+## CH2-P64 — CT DEP Property Transfer Forms bundle
+
+[Official source](https://filings.deep.ct.gov/DEEPDocumentSearchPortal/Home/DisplayPDF?DocID={B036CB84-0100-C42C-80D5-DB0453662158}); locator: 3,6-7,9-11. [Bounded note](century_bridgeport_note_2026-11-14.md); [acquisition tiers and hashes](century_bridgeport_source_manifest_2026-11-14.json). Signed filing declarations, agency chronology and later fee form; not actual land price or bank instrument
+
+## CH2-P65 — Bridgeport recorded warranty deed
+
+[Official source](https://i2o.uslandrecords.com/CT/Bridgeport/D/); locator: Document 1695; Vol2446 pp116-118; 001/02446/116. [Bounded note](century_bridgeport_note_2026-11-14.md); [acquisition tiers and hashes](century_bridgeport_source_manifest_2026-11-14.json). Review captures are not original-instrument bytes or certified copies; no amount inferred from consideration/tax/release language. Earlier referenced mortgage/assignment not inspected.
+
+## CH2-P66 — Bridgeport recorded mortgage release
+
+[Official source](https://i2o.uslandrecords.com/CT/Bridgeport/D/); locator: Document 1693; Vol2446 pp113-114; 001/02446/113. [Bounded note](century_bridgeport_note_2026-11-14.md); [acquisition tiers and hashes](century_bridgeport_source_manifest_2026-11-14.json). Review captures are not original-instrument bytes or certified copies; no amount inferred from consideration/tax/release language. Earlier referenced mortgage/assignment not inspected.
+
+## CH2-P67 — CT REACT DCN-017205 displayed metadata
+
+[Official source](https://deep-react.service.ct.gov/s/case/500cs00001Q1xTN/detail); locator: DCN-017205, Date Of Transfer field. [Bounded note](century_bridgeport_note_2026-11-14.md); [acquisition tiers and hashes](century_bridgeport_source_manifest_2026-11-14.json). Current migrated fields only. Date Of Transfer is not independently verified conveyance date; no historic original document bytes represented.
+
+Reuses existing CH2-P62 pp.2–3 and CH2-P63 p.2 for the January 4, 1988 equipment/intangibles acquisition; no new IDs for those originals.

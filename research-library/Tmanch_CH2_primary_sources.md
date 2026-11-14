@@ -910,3 +910,31 @@ Separate reference appendix, not an earlier financing-chain extension.
 **Limits:** Mixed consideration is not proved cash; ALJ debt schedule is reported in parties positions, not a bank trace. [Separate comparison](research/early_petroleum_financing_2026/barrier_note_2026-11-13.md).
 
 Reuses existing CH2-P60 p.3 and CH2-P61 p.4 for the unresolved January 1989 account, without reassigning their IDs.
+
+## November 14, 2026: Century / Bridgeport source records
+
+## CH2-P64 — CT DEP Property Transfer Forms bundle
+
+**Source:** https://filings.deep.ct.gov/DEEPDocumentSearchPortal/Home/DisplayPDF?DocID={B036CB84-0100-C42C-80D5-DB0453662158} . Locator: 3,6-7,9-11.
+
+**Limits:** Signed filing declarations, agency chronology and later fee form; not actual land price or bank instrument [Comparison and source hierarchy](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md).
+
+## CH2-P65 — Bridgeport recorded warranty deed
+
+**Source:** https://i2o.uslandrecords.com/CT/Bridgeport/D/ . Locator: Document 1695; Vol2446 pp116-118; 001/02446/116.
+
+**Limits:** Review captures are not original-instrument bytes or certified copies; no amount inferred from consideration/tax/release language. Earlier referenced mortgage/assignment not inspected. [Comparison and source hierarchy](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md).
+
+## CH2-P66 — Bridgeport recorded mortgage release
+
+**Source:** https://i2o.uslandrecords.com/CT/Bridgeport/D/ . Locator: Document 1693; Vol2446 pp113-114; 001/02446/113.
+
+**Limits:** Review captures are not original-instrument bytes or certified copies; no amount inferred from consideration/tax/release language. Earlier referenced mortgage/assignment not inspected. [Comparison and source hierarchy](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md).
+
+## CH2-P67 — CT REACT DCN-017205 displayed metadata
+
+**Source:** https://deep-react.service.ct.gov/s/case/500cs00001Q1xTN/detail . Locator: DCN-017205, Date Of Transfer field.
+
+**Limits:** Current migrated fields only. Date Of Transfer is not independently verified conveyance date; no historic original document bytes represented. [Comparison and source hierarchy](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md).
+
+Existing CH2-P62/P63 reused for January 4, 1988 acquisition; deed, release and fee are not aggregated with its consideration.

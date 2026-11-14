@@ -1,0 +1,156 @@
+{
+  "baseline_commit": "acf03f495a96a53e3898f698fa01b511bba9c77d",
+  "scope": "Separate Century asset acquisition, recorded terminal conveyance, administrative date/fee controls and bounded mortgage release",
+  "sources": [
+    {
+      "source_id": "CH2-P64",
+      "title": "CT DEP Property Transfer Forms bundle",
+      "url": "https://filings.deep.ct.gov/DEEPDocumentSearchPortal/Home/DisplayPDF?DocID={B036CB84-0100-C42C-80D5-DB0453662158}",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T03:32:26.899868+00:00",
+      "bytes": 4617534,
+      "sha256": "209b57a4ca4bf31cb39f097ab6154a546e6e489dbca1a01665394498a54fc397",
+      "original_artifact_type": "official downloaded PDF bytes",
+      "physical_PDF_pages": "3,6-7,9-11",
+      "limits": "Signed filing declarations, agency chronology and later fee form; not actual land price or bank instrument"
+    },
+    {
+      "source_id": "CH2-P65",
+      "title": "Bridgeport recorded warranty deed",
+      "url": "https://i2o.uslandrecords.com/CT/Bridgeport/D/",
+      "session_dependent_viewer_url": "https://i2o.uslandrecords.com/CT/Bridgeport/D/ImageViewerEx.aspx",
+      "observed_date_utc": "2026-11-14",
+      "observation_precision": "date_only",
+      "locator": "Document 1695; Vol2446 pp116-118; 001/02446/116",
+      "access_route": "Recorded Land > Name Search > Business/Last Name CENTURY RESOURCES; PartyType Both; open exact locator; ViewImages",
+      "original_artifact_type": "official original recorded instrument viewed as free watermarked page images",
+      "raw_original_downloaded": false,
+      "raw_original_sha256": null,
+      "review_derivatives": [
+        {
+          "review_artifact": "century-deed-116-bottom.jpg",
+          "bytes": 185741,
+          "sha256": "e72f1cd679de938ba0bca3b4637bcdac07111c70ac42e168dae3ec46b1d922fb",
+          "kind": "browser screenshot or rendered UI text derivative; not raw instrument"
+        },
+        {
+          "review_artifact": "century-deed-116-top.jpg",
+          "bytes": 150800,
+          "sha256": "dd5d1f9b192b6acbd13c318fe5ea8717a09de3b7fd434573b3b55a523a32c667",
+          "kind": "browser screenshot or rendered UI text derivative; not raw instrument"
+        },
+        {
+          "review_artifact": "century-deed-117-execution.jpg",
+          "bytes": 127258,
+          "sha256": "28b4a209a34981b14943e70d316d0ba2c461828b3efe1c44779c0fb2394d8e59",
+          "kind": "browser screenshot or rendered UI text derivative; not raw instrument"
+        },
+        {
+          "review_artifact": "century-deed-117-top.jpg",
+          "bytes": 134795,
+          "sha256": "5c97b63167ab6679330adfab91a80a1ccc070cc41e0be9a836452c12a54ca434",
+          "kind": "browser screenshot or rendered UI text derivative; not raw instrument"
+        },
+        {
+          "review_artifact": "century-deed-118-acknowledgment.jpg",
+          "bytes": 96366,
+          "sha256": "82d2858b15bd7d97f9d8f440c838572b33c7c506dee16ad3129e012f2a72475b",
+          "kind": "browser screenshot or rendered UI text derivative; not raw instrument"
+        },
+        {
+          "review_artifact": "century-deed-118-recorded.jpg",
+          "bytes": 56364,
+          "sha256": "fcf36ffcfd35cec916d95c42d66ee9f1c9ff0c56643885fc95309b3580f6a2ab",
+          "kind": "browser screenshot or rendered UI text derivative; not raw instrument"
+        }
+      ],
+      "limits": "Review captures are not original-instrument bytes or certified copies; no amount inferred from consideration/tax/release language. Earlier referenced mortgage/assignment not inspected."
+    },
+    {
+      "source_id": "CH2-P66",
+      "title": "Bridgeport recorded mortgage release",
+      "url": "https://i2o.uslandrecords.com/CT/Bridgeport/D/",
+      "session_dependent_viewer_url": "https://i2o.uslandrecords.com/CT/Bridgeport/D/ImageViewerEx.aspx",
+      "observed_date_utc": "2026-11-14",
+      "observation_precision": "date_only",
+      "locator": "Document 1693; Vol2446 pp113-114; 001/02446/113",
+      "access_route": "Recorded Land > Name Search > Business/Last Name CENTURY RESOURCES; PartyType Both; open exact locator; ViewImages",
+      "original_artifact_type": "official original recorded instrument viewed as free watermarked page images",
+      "raw_original_downloaded": false,
+      "raw_original_sha256": null,
+      "review_derivatives": [
+        {
+          "review_artifact": "century-release-113-bottom.jpg",
+          "bytes": 120326,
+          "sha256": "abe2b66ddf3edb707555e4e5072fbc6100a5a96f9786c304e33a893195fd763f",
+          "kind": "browser screenshot or rendered UI text derivative; not raw instrument"
+        },
+        {
+          "review_artifact": "century-release-113-index.txt",
+          "bytes": 318,
+          "sha256": "65d38048355f26f1714ab24cca428893a8e5c1082cd1d3f2a75d2a96e5cc8a02",
+          "kind": "browser screenshot or rendered UI text derivative; not raw instrument"
+        },
+        {
+          "review_artifact": "century-release-113-top.jpg",
+          "bytes": 119909,
+          "sha256": "444fc143369699de89298ea50468211bae13d77d5e934617963fa508d2256377",
+          "kind": "browser screenshot or rendered UI text derivative; not raw instrument"
+        },
+        {
+          "review_artifact": "century-release-114-acknowledgment.jpg",
+          "bytes": 109391,
+          "sha256": "613023be538e340719a580c5b08bc6ce54354ba41a299ce4cabcd55ad612d4c7",
+          "kind": "browser screenshot or rendered UI text derivative; not raw instrument"
+        },
+        {
+          "review_artifact": "century-release-114-recorded.jpg",
+          "bytes": 57995,
+          "sha256": "aa9b45f5c2267a04744c0449c6a8ce1cd3bf61138fbbd56e72853cd822a5e3c2",
+          "kind": "browser screenshot or rendered UI text derivative; not raw instrument"
+        }
+      ],
+      "limits": "Review captures are not original-instrument bytes or certified copies; no amount inferred from consideration/tax/release language. Earlier referenced mortgage/assignment not inspected."
+    },
+    {
+      "source_id": "CH2-P62",
+      "url": "https://www.dta.ny.gov/pdf/archive/decisions/807303.dec.pdf",
+      "publication_date": "1991-01-04",
+      "retrieved_utc": "2026-11-13T22:28:59.830435+00:00",
+      "http_status": 200,
+      "bytes": 211322,
+      "sha256": "dc67697f63e9f658be97ff727f0859706f96ecff8372c884f5e3bb2c46be79e6",
+      "original_artifact_type": "official PDF bytes",
+      "original_in_publication": false,
+      "printed_pages_reviewed": "2-3",
+      "reused_existing_source": true
+    },
+    {
+      "source_id": "CH2-P63",
+      "url": "https://www.dta.ny.gov/pdf/archive/determinations/807303.DET.pdf",
+      "publication_date": "1990-05-02",
+      "retrieved_utc": "2026-11-13T22:29:51.432065+00:00",
+      "http_status": 200,
+      "bytes": 187804,
+      "sha256": "76e42ed23e04d79ef9789cec347d92a56870198f1af714972824ef8db3acf1d1",
+      "original_artifact_type": "official PDF bytes",
+      "original_in_publication": false,
+      "printed_pages_reviewed": "2",
+      "reused_existing_source": true
+    },
+    {
+      "source_id": "CH2-P67",
+      "title": "CT REACT DCN-017205 displayed metadata",
+      "url": "https://deep-react.service.ct.gov/s/case/500cs00001Q1xTN/detail",
+      "observed_utc": "2026-11-14T03:37:54.501Z",
+      "original_artifact_type": "official browser-rendered case page",
+      "review_derivative": {
+        "kind": "CUA accessibility-text capture, not original historical filing",
+        "bytes": 10422,
+        "sha256": "de502176a1e5247d4d36ef6b681e911ecf9f90f43e1cab8833e66353539ff226"
+      },
+      "limits": "Current migrated fields only. Date Of Transfer is not independently verified conveyance date; no historic original document bytes represented."
+    }
+  ],
+  "publication_artifacts": "No source archives, raw headers or screenshots published. Screenshot hashes below identify review derivatives only, never original instrument bytes."
+}
