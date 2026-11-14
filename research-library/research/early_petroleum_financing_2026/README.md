@@ -114,3 +114,7 @@ These targeted records could close substantive gaps; more name-only litigation m
 ### Global pre-purchase access and credit context (November 14, 2026)
 
 [Access, framework and period-flow extension](century_bridgeport_note_2026-11-14.md#november-14-access-and-credit-extension-framework-is-not-acquisition-funding) separates CPW access, credit availability and issuer period flows from any proved acquisition funding. Earlier rows and unresolved disclosure versions remain unchanged.
+
+## November 14 DOE account and archival supplement
+
+The [DOE note](doe_refund_note_2026-11-12.md) and [observations](doe_refund_observations.csv) now distinguish Tarricone HEF-0177 commitment components, reported remittance and final refund procedure, later exact Tarricone/Conlo account snapshots, and series-specific NARA limits. These are non-additive administrative observations, not new central flows or corporate-identity joins. Prior records remain intact.

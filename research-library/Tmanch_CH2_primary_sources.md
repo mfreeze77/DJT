@@ -1040,3 +1040,16 @@ Existing CH2-P62/P63 reused for January 4, 1988 acquisition; deed, release and f
 
 **Limits:** Availability is snapshot, not draw/never-used proof; approximately $2.4m stage does not reconcile earlier $2.3m or create another acquisition. [Access and finance limits](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md#november-14-access-and-credit-extension-framework-is-not-acquisition-funding).
 
+
+### November 14 DOE stage and archival supplement
+
+- **CH2-P83**: [Tarricone consent notice](https://www.govinfo.gov/content/pkg/FR-1979-08-13/pdf/FR-1979-08-13.pdf). 44 FR 47393-47394; PDF pp.139-140. Summary of consent, not signed instrument; no admission or ERA finding; prescribed checks/credits not acquired instruments.
+- **CH2-P84**: [Seminole et al. proposed refund procedures, Tarricone Exhibit 16](https://www.govinfo.gov/content/pkg/FR-1984-12-26/pdf/FR-1984-12-26.pdf). 49 FR 50094;50101; PDF pp.86,93. Proposal and affirmative remittance report; not executed checks or claimant award.
+- **CH2-P85**: [Seminole et al. final refund procedures, Tarricone Exhibit 16](https://www.govinfo.gov/content/pkg/FR-1985-03-04/pdf/FR-1985-03-04.pdf). 50 FR 8661;8668; PDF pp.95,102. Final application procedure; repeats same remittance, not new payment.
+- **CH2-P86**: [DOE excess-fund determination and Appendix A](https://www.govinfo.gov/content/pkg/FR-1986-12-05/pdf/FR-1986-12-05.pdf). 51 FR 43964-43965; PDF pp.112-113. Principal-plus-interest/reserve/excess snapshots; exact HEF and account locators, no case-specific executed state transfer.
+- **CH2-P87**: [NARA ERA audit-series disposition](https://www.archives.gov/files/records-mgmt/rcs/schedules/departments/department-of-energy/rg-0434/nc1-434-84-01_sf115.pdf). PDF pp.1-3. February 6 2025 report, not destruction date; series-level not company-specific; ten years after FARC retirement.
+- **CH2-P88**: [NARA predecessor audit-series disposition](https://www.archives.gov/files/records-mgmt/rcs/schedules/departments/department-of-energy/rg-0434/nc1-434-81-02_sf115.pdf). PDF p.1 modern cover; item 1a superseded. October 31 2022 report: Denver April 1996 destruction versus presumed destruction elsewhere; no case accession.
+- **CH2-P89**: [NARA OHA case-file disposition authority](https://www.archives.gov/files/records-mgmt/rcs/schedules/departments/department-of-energy/rg-0434/nc1-434-82-01_sf115.pdf). PDF p.1 annotated item 1. Crossed-out permanent proposal; handwritten 25-year disposal authority, not proof of execution or universal current rule.
+- **CH2-P90**: [NARA OHA refund-record disposition authority](https://www.archives.gov/files/records-mgmt/rcs/schedules/departments/department-of-energy/rg-0434/n1-434-04-001_sf115.pdf). PDF p.2 item A. Three years after refund-process closure or no longer needed, whichever sooner; authority not case-specific destruction proof.
+
+These observations do not add counted cash or transactions. See the [DOE note](research/early_petroleum_financing_2026/doe_refund_note_2026-11-12.md) and [typed observations](research/early_petroleum_financing_2026/doe_refund_observations.csv).
