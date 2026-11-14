@@ -1,0 +1,61 @@
+{
+  "sources": [
+    {
+      "source_id": "EUROPE-NOV13-S007",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/13/remarks-by-president-antonio-costa-at-the-press-conference-following-the-informal-meeting-of-heads-of-state-or-government-of-13-november-2026/",
+      "source_tier": "Original official Costa remarks HTML, directly acquired and visible body inspected",
+      "event_date": "2026-11-13",
+      "acquisition_date_utc": "2026-11-14",
+      "exact_acquisition_time_utc": "2026-11-14T00:34:30.818146+00:00",
+      "original_html_acquired": true,
+      "audiovisual_inspected": false,
+      "artifacts": [
+        {
+          "artifact_type": "Selected source-specific rendered-response derivative retained privately, not original HTML",
+          "bytes": 2924,
+          "sha256": "41bd9931f1c0badaea8aa5663a2bff0e196900c7cf24425f6fe698d21dfff7a8"
+        },
+        {
+          "artifact_type": "Original official HTML bytes retained privately, not published",
+          "bytes": 113570,
+          "sha256": "d3eb962a631e622edfd2163bb2aae49631eedada1d1e4baaf22532474ef69cb8"
+        }
+      ],
+      "limits": "Internal proposed institutional/country lineup; not individual appointment, complete mandate, counterpart acceptance or actual attendance.",
+      "displayed_date_time": "13 November 2026 19:08",
+      "displayed_timezone": null,
+      "http_status": 200,
+      "prior_rendering_header_qualifier": "Rewritten summary of official URL; paraphrase only, no verified verbatim transcript claim"
+    },
+    {
+      "source_id": "EUROPE-NOV13-S008",
+      "url": "https://www.consilium.europa.eu/en/meetings/european-council/2026/11/13/",
+      "source_tier": "Official Council page inspected through web-rendered derivative",
+      "event_date": "2026-11-13",
+      "acquisition_date_utc": "2026-11-14",
+      "exact_acquisition_time_utc": null,
+      "original_html_acquired": false,
+      "audiovisual_inspected": false,
+      "artifacts": [
+        {
+          "artifact_type": "Selected source-specific rendered-response derivative retained privately, not original HTML",
+          "bytes": 1891,
+          "sha256": "291696eaea26e5f9c821f74ed175f84d4353e862ca9c35309bf39c31ca8cffb6"
+        }
+      ],
+      "limits": "Internal proposed institutional/country lineup; not individual appointment, complete mandate, counterpart acceptance or actual attendance.",
+      "page_date": "Meeting dated 13 November 2026; no exact update timestamp acquired"
+    }
+  ],
+  "baseline_commit": "ccc7d48f97dac5a846e149c0037ae08edac329a0",
+  "review_date_utc": "2026-11-14",
+  "joins": [
+    "J20-2026-079",
+    "J20-2026-080",
+    "CH7-BRUSSELS-RECOVERY-001",
+    "CH7-NOV4-ENVOY-CALL-001"
+  ],
+  "source_family": "European Council institutional publications; not independent corroboration",
+  "no_new_event_score_or_financial_flow": true,
+  "no_raw_archive_published": true
+}

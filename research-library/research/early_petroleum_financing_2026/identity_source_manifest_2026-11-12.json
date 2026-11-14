@@ -28,6 +28,113 @@
       "sha256": "095ddf1f4affcb68a6f9fb77617c6be342cb79539296eae325e1e33534ef368c",
       "derived_review_artifacts": [],
       "publication_includes_original_artifact": false
+    },
+    {
+      "source_id": "CH2-P96",
+      "title": "SOS Oil Corp. v Norstar Bank, Court of Appeals",
+      "url": "https://www.law.cornell.edu/nyctap/I90_0183.htm",
+      "acquisition_time_utc": "2026-11-14T11:25:32.500272+00:00",
+      "http_status": 200,
+      "bytes": 21241,
+      "sha256": "28f0c98682e8621dd65b27e84c2562a641495a0b404274581212ea984fbaad48",
+      "original_artifact_type": "Acquired Cornell-hosted HTML of court-authored text, not court-certified opinion",
+      "source_locator": "76 N.Y.2d 561; October 18 1990; opening facts, conclusion and footnote 1",
+      "limits": "Cornell labels opinion uncorrected and subject to revision before reporter publication. No original bank instrument or satisfaction record.",
+      "publication_includes_original_artifact": false
+    },
+    {
+      "source_id": "CH2-P97",
+      "title": "SOS Oil Corp. v Norstar Bank, Appellate Division mirror",
+      "url": "https://openjurist.org/152/ad2d/223/sos-oil-corp-v-norstar-bank-6052330",
+      "acquisition_time_utc": null,
+      "acquisition_time_semantics": "Exact tool-capture timestamp not recorded in retained artifact",
+      "original_artifact_type": "Retained web-reader rendered text derivative; not raw HTTP original",
+      "derived_artifact_bytes": 33186,
+      "derived_artifact_sha256": "c05a1a4c79e1702dead74c9ee94d610a74ae13a6c710049ed13039eca56abf2a",
+      "source_locator": "152 A.D.2d 223,225; December 4 1989; paragraphs 4-6,19-23",
+      "limits": "Public transcription. Raw HTTP preservation returned 403 and was stopped; no raw opinion bytes/hash claimed. Retained tool artifact also includes cross-check material.",
+      "publication_includes_original_artifact": false
+    },
+    {
+      "source_id": "CH2-P98",
+      "title": "TSB-M-85(1)M registration and bonding",
+      "url": "https://www.tax.ny.gov/pdf/memos/fuel_%26_gasoline/m85_1m.pdf",
+      "acquisition_time_utc": "2026-11-14T11:25:33.749500+00:00",
+      "http_status": 200,
+      "bytes": 15224,
+      "sha256": "79c2ddd045934fce7b18fbb3a7abe96ee540a244280993261a5516be24b49efd",
+      "original_artifact_type": "Official NY Tax Department PDF bytes",
+      "source_locator": "July 17 1985; pp.1-3, sections A-B",
+      "visually_inspected_physical_pages": [
+        1
+      ],
+      "derived_review_artifacts": [
+        "text extraction",
+        "selected page renders"
+      ],
+      "limits": "Historical departmental description, not session-law image or proof of an actual Conlo filing or transaction.",
+      "publication_includes_original_artifact": false
+    },
+    {
+      "source_id": "CH2-P99",
+      "title": "TSB-M-85(5)M 1985 law changes",
+      "url": "https://www.tax.ny.gov/pdf/memos/fuel_%26_gasoline/m85_5m.pdf",
+      "acquisition_time_utc": "2026-11-14T11:26:26.459309+00:00",
+      "http_status": 200,
+      "bytes": 25019,
+      "sha256": "4fae9d2162af113653f537e1f0fa956d3cb55edba9b558ec2eb9e39e7c75f43d",
+      "original_artifact_type": "Official NY Tax Department PDF bytes",
+      "source_locator": "September 11 1985; pp.1,5",
+      "visually_inspected_physical_pages": [
+        5
+      ],
+      "derived_review_artifacts": [
+        "text extraction",
+        "selected page renders"
+      ],
+      "limits": "Historical departmental description, not session-law image or proof of an actual Conlo filing or transaction.",
+      "publication_includes_original_artifact": false
+    },
+    {
+      "source_id": "CH2-P100",
+      "title": "TSB-M-86(1)M 1985 amendments summary",
+      "url": "https://www.tax.ny.gov/pdf/memos/misc/m86_1m.pdf",
+      "acquisition_time_utc": "2026-11-14T11:25:37.662347+00:00",
+      "http_status": 200,
+      "bytes": 192350,
+      "sha256": "22a388b23e1c7c7d4a0e30ea71a4b0048aa8af1df7127df9ae7b7d3c2cff4bab",
+      "original_artifact_type": "Official NY Tax Department PDF bytes",
+      "source_locator": "January 15 1986; printed p.2 / physical PDF p.3, section 283-5",
+      "visually_inspected_physical_pages": [
+        3
+      ],
+      "derived_review_artifacts": [
+        "text extraction",
+        "selected page renders"
+      ],
+      "limits": "Historical departmental description, not session-law image or proof of an actual Conlo filing or transaction.",
+      "publication_includes_original_artifact": false
+    },
+    {
+      "source_id": "CH2-P101",
+      "title": "TSB-M-86(9)M registration transfers",
+      "url": "https://www.tax.ny.gov/pdf/memos/fuel_%26_gasoline/m86_9m.pdf",
+      "acquisition_time_utc": "2026-11-14T11:25:41.860916+00:00",
+      "http_status": 200,
+      "bytes": 43872,
+      "sha256": "abaa8d7106dfd6926818168deaa57b2ea3bfb27a5d77b44cfaa0c0354adb907e",
+      "original_artifact_type": "Official NY Tax Department PDF bytes",
+      "source_locator": "December 1 1986; pp.1,6-7, sections 283(9)-(10)",
+      "visually_inspected_physical_pages": [
+        6,
+        7
+      ],
+      "derived_review_artifacts": [
+        "text extraction",
+        "selected page renders"
+      ],
+      "limits": "Historical departmental description, not session-law image or proof of an actual Conlo filing or transaction.",
+      "publication_includes_original_artifact": false
     }
   ],
   "analyst_created_artifacts": [
@@ -35,5 +142,22 @@
     "identity_note_2026-11-12.md",
     "this sanitized manifest"
   ],
-  "limits": "DTA: default-vacatur decision, not ownership or later-transaction proof. DOS: filing metadata, jurisdiction absent, no certificate image or bank match. Full HTTP headers and private synthesis excluded."
+  "limits": "DTA: default-vacatur decision, not ownership or later-transaction proof. DOS: filing metadata, jurisdiction absent, no certificate image or bank match. Full HTTP headers and private synthesis excluded.",
+  "append_only_supplements": [
+    {
+      "review_date": "2026-11-14",
+      "baseline_commit": "c23b1fbdee598214fe69cea6d5dcf8a121c32c98",
+      "scope": "Plural-name litigation crosswalk; one bank item in three non-additive stages; historical registration locator guidance",
+      "source_ids": [
+        "CH2-P96",
+        "CH2-P97",
+        "CH2-P98",
+        "CH2-P99",
+        "CH2-P100",
+        "CH2-P101"
+      ],
+      "amount_counted": false,
+      "transaction_counted": false
+    }
+  ]
 }

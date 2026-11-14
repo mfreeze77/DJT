@@ -78,3 +78,51 @@ These targeted records could close substantive gaps; more name-only litigation m
 ## Bounded DOE proceeding companion (November 12, 2026)
 
 [DOE refund note](doe_refund_note_2026-11-12.md), [non-additive stage observations](doe_refund_observations.csv) and [sanitized original-source provenance](doe_source_manifest_2026-11-12.json) distinguish stages of HEF-0053/RF236-1. They do not identify the DOE firm with DTA/Macchia corporations or add financial-flow totals. Printed discrepancies are retained.
+
+## NYFT/Tunyung source-controlled companion (November 13, 2026)
+
+[Supply, book credits, reported payment and judgment limits](tunyung_note_2026-11-13.md), [typed non-additive observations](tunyung_observations.csv) and [sanitized source manifest](tunyung_source_manifest_2026-11-13.json) add an NYFT customer/account branch without changing existing transactions, relationships, claim scores or totals. The 1988 payment is distinct from the 1983 Lesez/SMI group; corporate and payment-origin joins remain unresolved.
+
+## Meridian import-tax disposition companion (November 13, 2026)
+
+[Bounded note](meridian_note_2026-11-13.md), [typed non-additive observations](meridian_observations.csv) and [sanitized provenance](meridian_source_manifest_2026-11-13.json) separate assessed tax, net adjustments and limited relief from payments. Existing flow rows and correction history are unchanged.
+
+## Separate Westchester/Shore Line later-record appendix (November 13, 2026)
+
+[Note](westchester_shoreline_note_2026-11-13.md), [typed observations](westchester_shoreline_observations.csv) and [source provenance](westchester_shoreline_source_manifest_2026-11-13.json) distinguish CARTS receipts, liabilities, sale consideration and registration outcomes. No new payment-chain edges or totals; all prior records remain unchanged.
+
+## Separate Barrier acquisition/financing comparison (November 13, 2026)
+
+[Note](barrier_note_2026-11-13.md), [typed observations](barrier_observations.csv) and [four-source provenance](barrier_source_manifest_2026-11-13.json) distinguish mixed consideration, an unresolved later sale account, reported debt balances and tax payments. No central counted flows or prior records changed.
+
+## Separate Century / Bridgeport comparison (November 14, 2026)
+
+[Note](century_bridgeport_note_2026-11-14.md), [typed observations](century_bridgeport_observations.csv) and [source provenance](century_bridgeport_source_manifest_2026-11-14.json) separate reported asset consideration, a recorded land conveyance, administrative fee/date discrepancies and a mortgage-release instrument with no established cash amount. Existing flows, Barrier and Westchester rows remain unchanged.
+
+### Century context follow-up (November 14, 2026)
+
+[Installation/index/permit context](century_bridgeport_note_2026-11-14.md#november-14-follow-up-installation-indexed-title-and-scoped-operating-context) adds five amount-blank observations, preserving the distinction between official text, index metadata, consultant narrative and signed permit. No new counted flows or prior-row changes.
+
+### Century price-source refinement (November 14, 2026)
+
+[Dated source refinement](century_bridgeport_note_2026-11-14.md#november-14-price-source-refinement-assessor-record-and-conditional-tax-base-check) adds an assessor-reported $2.78 million and conditional tax-base consistency check for the same deed, not additional cash flows. Earlier deed no-numeric-price observation and all rows are preserved.
+
+### Bridgeport 2006 continuity extension (November 14, 2026)
+
+[Signed transfer and issuer-accounting extension](century_bridgeport_note_2026-11-14.md#november-14-continuity-extension-may-2006-transfer-and-issuer-accounting) links the submitted transfer to prior 2446:116 and preserves approximate early/later acquisition amounts without double counting or seller-proceeds inference. Prior rows remain unchanged.
+
+### Global pre-purchase access and credit context (November 14, 2026)
+
+[Access, framework and period-flow extension](century_bridgeport_note_2026-11-14.md#november-14-access-and-credit-extension-framework-is-not-acquisition-funding) separates CPW access, credit availability and issuer period flows from any proved acquisition funding. Earlier rows and unresolved disclosure versions remain unchanged.
+
+## November 14 DOE account and archival supplement
+
+The [DOE note](doe_refund_note_2026-11-12.md) and [observations](doe_refund_observations.csv) now distinguish Tarricone HEF-0177 commitment components, reported remittance and final refund procedure, later exact Tarricone/Conlo account snapshots, and series-specific NARA limits. These are non-additive administrative observations, not new central flows or corporate-identity joins. Prior records remain intact.
+
+## November 14 claimant-outcome refinement
+
+The [DOE note](doe_refund_note_2026-11-12.md) and [typed observations](doe_refund_observations.csv) append five RF155 claimant dispositions and a separate nonmonetary KEF judgment locator. They explicitly refine the earlier acquisition gap without replacing prior rows. Awards, attributed receipt wording, eligibility and denial remain distinct from independently bank-cleared payment; all counting flags stay false.
+
+## November 14 bounded Conlo bank-item comparison
+
+The [identity note](identity_note_2026-11-12.md) adds case-level plural-name controls and dated registration-source guidance. The separate [bank observations](conlo_bank_observations.csv) distinguish one check face amount, its court-described actual posting and an affirmed discrepancy judgment. They are not additive cash, a corporate merger or a central payment-chain extension.

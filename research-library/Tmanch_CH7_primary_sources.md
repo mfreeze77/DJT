@@ -1475,3 +1475,54 @@ The [afternoon source manifest](Tmanch_CH7_Nov10_Afternoon_Source_Manifest.json)
 - **079/080 / MOSCOW-NOV12-S002; EPC-NOV12-S001:** [Official meeting-start report and Costa's stated principles](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-12-acquisition-official-meeting-start-and-costas-epc-principles). Start is distinct from completion; political positions are distinct from accepted terms or declaration adoption.
 
 [Provenance and preserved prior statuses](Tmanch_CH7_Nov12_Meeting_Opening_Source_Manifest.json). Earlier stages, original identities, scores and financial totals remain intact.
+
+
+## November 12 held Moscow and Dublin meetings, acquired through the November 13 readout
+
+- **079/080 / MOSCOW-NOV12-S001 later snapshot; MOSCOW-NOV12-S003; DUBLIN-NOV12-S001; DUBLIN-NOV12-S002:** [Held-meeting chronology and attributed future European role](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-12-meetings-moscow-completion-and-held-dublin-consultation). AP's dated account, the Kremlin's written post-meeting caption and Ukraine's original Dublin readout close the earlier completion/consultation gaps. Prospective participation, exchange and further meetings remain distinct from implementation or settlement.
+
+[Provenance and preserved prior statuses](Tmanch_CH7_Nov13_Held_Meetings_Source_Manifest.json). The Ukrainian page's displayed November 13 publication date is distinct from AP's November 12 meeting context. Original row identities, earlier stages, scores and financial totals remain intact.
+
+
+## November 12 allied legal action and specific EU winter support
+
+- **103 / CH7-UK-NOV12-SANCTIONS-001 / UK-NOV12-S001–002:** [UK additions and variation](Tmanch_CH7_Nov12_UK_Sanctions_Source_Note.md). Twenty new entries, one existing variation, entry-specific measures and unresolved internal IMO wording; no measured blocking/revenue or 040 vessel intersection.
+- **104 / CH7-EU-WINTER-NOV12-001 / EU-WINTER-NOV12-S001:** [EU mobilization and future decisions](Tmanch_CH7_Nov12_EU_Winter_Source_Note.md). Specific quantities and stages, not verified receipt/new procurement/cash or adopted future decisions.
+
+[Sanitized original-source provenance](Tmanch_CH7_Nov13_Policy_Source_Manifest.json). All prior sources, corrections and private holds remain intact; no scores or financial-flow totals changed.
+
+
+## November 13 European-participation qualification
+
+- **079/080 / EUROPE-NOV13-S001–003:** [Representation, remit and confirmation limits](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-13-participation-qualification-representation-unresolved). AP reports unresolved envoy/team, personnel and role; Reuters attributes nonconfirmation, not rejection, to Ushakov; the Council page supplies an agenda, not an appointment. Held meetings and the earlier named prospective-role announcement remain intact.
+
+[Source provenance](Tmanch_CH7_Nov13_Europe_Participation_Source_Manifest.json). No ledger/status/score or financial change.
+
+
+## November 13 conditional expanded format and arrival positions
+
+- **079/080 / EUROPE-NOV13-S004–006:** [Peskov's conditional account and official automatic arrival transcripts](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-13-later-qualification-conditional-expanded-format-and-european-positions). AP attributes distinct Peskov/Kushner formulations, potentially addressing different stages. Kallas's sequencing and institutional-role claim and Martin's unresolved-representation/timing comments are individual arrival positions, not final summit decisions.
+
+[Provenance and transcript limitations](Tmanch_CH7_Nov13_Conditional_Format_Source_Manifest.json). Prior held consultations and prospective statuses remain unchanged; no new event, score or financial flow.
+
+
+## November 13 ALT5 collateral and release-condition follow-up
+
+- **ALT5-S020–021 / CH7-ALT5-003/008/009/011:** [Original SEC quarterly filing and source-controlled extension](Tmanch_CH7_Oct19_ALT5_WLF_Source_Note.md#november-13-review-concrete-collateral-response-and-continuing-release-conditions) adds an issuer-reported Concrete margin call after September26 and November5 collateral transfer, continuing release conditions and dated contract/pledge discrepancies. Preserve the October21 correction and August full-transferability assertion; token units and valuations are not cash or family proceeds.
+- [Typed non-additive stages](research/alt5_wlf_2026/nov13_collateral_observations.json) separate Concrete from January-loan collateral, preserve ALT5-T004–010 and avoid duplicate advances or pledged units. [Provenance](research/alt5_wlf_2026/source_manifest.json) retains distinct November12 filing and November10 displayed acceptance metadata. No new presidential event, score, financial total, buyback execution or misconduct inference.
+
+## November 13 diesel aggregate context
+
+- **040 / CH7-DIESEL-SHIP-001 / DIESEL-SHIP-S025:** [Broader supply recovery and diesel constraints](Tmanch_CH7_Oct23_Diesel_Shipment_Source_Note.md#november-13-aggregate-context-broader-supply-recovery-and-diesel-constraints). IEA's Gulf-led supply recovery and Russian crude table do not isolate GL135's effects or establish diesel delivery/payment. All earlier cargo identities, statuses and scores remain unchanged.
+
+[Source provenance](Tmanch_CH7_Nov13_Diesel_Aggregate_Source_Manifest.json). No new event or financial flow; modelled revenue and secondary detailed export figures are not added.
+
+## November 14 acquisition: November 13 European-team outcome
+
+- **079/080 / EUROPE-NOV13-S007–008:** [Internally agreed proposed European team](Tmanch_CH7_Nov4_Diplomacy_Source_Note.md#november-13-late-outcome-acquired-november-14-internally-agreed-european-team). Costa and the Council outcome identify EU institutions plus France, Germany, Italy, Poland and the UK, coordinating with all member states. This narrows the internal lineup gap, not named appointments, complete mandate, Russian acceptance or actual participation. Earlier arrival/no-consensus and conditional-format stages remain intact.
+
+[Source provenance](Tmanch_CH7_Nov14_Europe_Team_Source_Manifest.json). Four existing rows receive concise dated crosslinks; no new event, status, score or financial flow.
+
+## November 14 acquisition: November 12 Skyline corporate disclosures
+
+- **SKYLINE-NOV12-S001/S002:** [Ticker announcement and nonbinding proposed combination](Tmanch_CH7_Nov12_Skyline_Corporate_Action_Source_Note.md). SEC-hosted reports dated November 12 give an issuer-reported KAZR-to-CRMN effective date and a proposed SuperCritical Materials term sheet. No independently verified trading, completed acquisition or personal proceeds; no presidential event, score or central flow is added. [Non-additive observations](Tmanch_CH7_Nov12_Skyline_Corporate_Observations.csv); [provenance](Tmanch_CH7_Nov14_Skyline_Source_Manifest.json).

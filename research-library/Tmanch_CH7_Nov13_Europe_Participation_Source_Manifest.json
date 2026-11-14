@@ -1,0 +1,62 @@
+{
+  "review_date_utc": "2026-11-13",
+  "baseline_commit": "563ef591005d8ed0fcf8ec305d1e4212b95b1e7a",
+  "scope": "Dated source qualification only; preserve held consultations and prospective European role under existing 079/080; no ledger or status changes",
+  "sources": [
+    {
+      "url": "https://apnews.com/article/dublin-epc-europe-ukraine-russia-war-2a96d57210055edd2e76f71693e0a37c",
+      "acquired_at": "2026-11-13T10:23:57.681608+00:00",
+      "bytes": 945237,
+      "sha256": "ed26a86b348f6d9060db8c9e4e98022c02d979d7cc1f8199fad160be50e1284a",
+      "published_jsonld": "2026-11-13T05:20:30Z",
+      "modified_jsonld": "2026-11-13T09:46:42Z",
+      "source_id": "EUROPE-NOV13-S001",
+      "artifact_type": "Original publisher HTML retained locally; not published",
+      "source_tier": "Original AP reporting",
+      "inspection_scope": "Relevant representation/confirmation passages only; unrelated claims excluded",
+      "modified_og_without_timezone": "2026-11-13T09:50:26.464",
+      "limits": "No-consensus finding concerns envoy/team, personnel and remit as of snapshot, not opposition to involvement. No appointment or implemented future participation."
+    },
+    {
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/13/putin-lets-europe-join-ukraine-peace-talks-zelenskiy-welcomes-prospect-of-european-participation",
+      "acquired_at": "2026-11-13T10:23:58.082876+00:00",
+      "bytes": 99297,
+      "sha256": "00be7e02830ea02c69f9741503110034be9fc699637ba9bfe4010b16e846dd8f",
+      "published_jsonld": "2026-11-13T00:54:28+01:00",
+      "modified_jsonld": "2026-11-13T01:00:24+01:00",
+      "source_id": "EUROPE-NOV13-S002",
+      "artifact_type": "Original publisher HTML retained locally; not published",
+      "source_tier": "Reuters English wire at syndicator; same Reuters family, not independent corroboration",
+      "inspection_scope": "Relevant representation/confirmation passages only; unrelated claims excluded",
+      "wire_dateline": "MOSCOW/DUBLIN, Nov 12",
+      "limits": "Reuters attribution only; nonconfirmation is not rejection. English text used, automatic Italian translation excluded; full official briefing not acquired."
+    },
+    {
+      "source_id": "EUROPE-NOV13-S003",
+      "url": "https://www.consilium.europa.eu/en/meetings/european-council/2026/11/13/",
+      "source_tier": "Official Council agenda inspected in successful web-rendered text",
+      "last_review_display": "2026-11-12",
+      "acquisition_date_utc": "2026-11-13",
+      "exact_acquisition_time_utc": null,
+      "artifact_type": "Sanitized exact selected rendered lines; derivative, not original HTML",
+      "bytes": 1310,
+      "sha256": "64fd8d3c32012f515bb5e8ffd0549d22c992c9430e6204451e4576930b942e27",
+      "artifact": "council_agenda_selected_rendering.json",
+      "limits": "Agenda, not appointment or outcome. No inference that a later decision cannot exist. Raw HTML not acquired."
+    }
+  ],
+  "preserved_current_statuses": {
+    "J20-2026-079": "Original Brussels talks retained; Moscow and Dublin meetings held; future European role announced; terms and release unresolved",
+    "J20-2026-080": "Original call retained; Moscow and Dublin meetings held; future European role announced; terms and release unresolved",
+    "CH7-BRUSSELS-RECOVERY-001": "Original Brussels talks retained; Moscow and Dublin meetings held; future European role announced; terms and release unresolved",
+    "CH7-NOV4-ENVOY-CALL-001": "Original call retained; Moscow and Dublin meetings held; future European role announced; terms and release unresolved"
+  },
+  "joins": [
+    "J20-2026-079",
+    "CH7-BRUSSELS-RECOVERY-001",
+    "J20-2026-080",
+    "CH7-NOV4-ENVOY-CALL-001"
+  ],
+  "no_raw_archive_published": true,
+  "no_new_event_claim_score_or_financial_flow": true
+}
