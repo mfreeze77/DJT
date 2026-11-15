@@ -341,3 +341,9 @@ See [`Tmanch_CH7_open_questions.md`](Tmanch_CH7_open_questions.md) for the filin
 | Event | Date | Finding | Status | Russia benefit | Ukraine/allied cost | Source |
 |---|---|---|---|---:|---:|---|
 | **J20-2026-107** | 2026-11-13 memo and publication | House Oversight staff report receipt of nearly 1,700 pages and five bipartisan staff briefings; four of five platforms provided substantial documents and/or briefings. Staff recommend consideration of federal-personnel trading restrictions and information sharing. This is a distinct House oversight account, not a White House response to 100, a statute, an implemented restriction or an adjudicated finding. | Original memo and publication verified; underlying activity committee-attributed | — | — | [Committee-reported process and its limits](Tmanch_CH7_Nov13_House_Prediction_Oversight_Source_Note.md) |
+
+## November 14 judicial implementation constraint
+
+| ID | Date | Reconciled action or result | Evidence status | Russia benefit | Ukraine/allied cost | Source |
+|---|---|---|---|---:|---:|---|
+| **J20-2026-108** | Nov. 14 order; Nov. 15 planned closure | D.D.C. temporarily restrains the planned November 15 DOI/NPS public-access closure of East Potomac Park south of Buckeye Drive, including the golf course, through November 28 or earlier further order. The order preserves scoped repair and imminent-safety exceptions and does not compel golf play or a concession contract. The earlier preliminary injunction remains in effect. Direct near-term legal access protection for U.S. park users; no established Russian or private financial benefit. | Signed temporary restraint verified; physical compliance and final merits unverified | — | — | [Dkt. 159, NPS notice and earlier case record](Tmanch_CH7_Nov15_East_Potomac_TRO_Source_Note.md) |
