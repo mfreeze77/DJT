@@ -1141,3 +1141,31 @@ See the [historical Getty sidecar](research/early_petroleum_financing_2026/consu
 - **CH2-P138**: [Bionol case website, trustee narrative](https://giulianomiller.com/debtor.php?id=bio). GPMI Litigation and Judgment paragraph. Trustee-reported allowed claim including judgment and interest, not independently inspected court order or full satisfaction. Conflicting chronology elsewhere excluded.
 
 See the [trustee-ledger refinement](research/early_petroleum_financing_2026/consumers_getty_note_2026-11-14.md#november-14-trustee-ledger-follow-through-and-cash-reconciliation). No scored action or new aggregate.
+
+
+### November 14 Bridgeport facility-response and navigation survey crosswalk
+
+- **CH2-P139**: [EPA Region I Inland Area Contingency Plan, vol. II](https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=9101NT1R.txt). Printed pp.66–67 and 70–71; Section VII FRP01A0036 and distinct FRP01A0033. Primary EPA inventory and numbered submitted-FRP locator, not plan body, approval, actual storage, asset title or financing. Coastal inventory classification is not Inland ACP coverage.
+- **CH2-P140**: [U.S. Army Corps Port Series No. 04, 2004 survey](https://usace.contentdm.oclc.org/digital/api/collection/p16021coll2/id/3199/download). Printed p.34 / physical PDF p.35; PWD 140, waterway 01685, dock 300. USACE owner/operator survey labels, not recorded title or corporate identity. No 1983 survey holdings/content asserted. Capacity metadata is not certified same tank set or inventory.
+- **CH2-P141**: [Bridgeport History Center exhibit caption and archived oil-tank photo](https://www.bridgeporthistory.org/exhibit?decade=1900). Exhibit item Oil tanks, Bridgeport, 1978 and linked JPEG. Creator/date/location attribution from modern exhibit caption, not photo evidence of exact address, title, employer, legal entity or financing. No media republished.
+
+[Facility crosswalk](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md#november-14-bridgeport-facility-response-and-navigation-survey-crosswalk). Nonmonetary facility records and separately attributed archival photo context; 1983 edition metadata only.
+
+
+### Later exact installation ID and distinct neighboring terminal
+
+- **CH2-P142**: [EPA RCRARRep Handler List, report run April9 2013 12:16PM](https://downloads.regulations.gov/EPA-HQ-RCRA-2012-0121-0052/content.pdf). printed86 and125 in cached rendition; physical pagination unverified. Direct GET403; no retry, original byte/page-image unavailable. Do not claim visual inspection or PDF hash.
+- **CH2-P143**: [Bridgeport Board of Assessment Appeals2021 minutes/list bundle](https://www.bridgeportct.gov/sites/default/files/2024-04/FINANCE_TA_BAA%2020210500.pdf). physicalPDF8 owner/parcel row; physicalPDF1 May10 minutes. Source spells EAGLES NECK; administrative label not current title or cash.
+- **CH2-P144**: [Global Bridgeport current terminal page](https://www.globalp.com/where-we-are/all-terminals/global-bridgeport). Location, Current Products, Methods of Supply. Operator self-description; no underlying publication date, title record, quantities or origins. No raw HTML hash claimed.
+- **CH2-P145**: [Connecticut DEEP PFAS-Containing Firefighting Foam Ban / historical extensions](https://portal.ct.gov/DEEP/Remediation--Site-Clean-Up/PFAS-Task-Force/Extension-of-Class-B-PFAS-Firefighting-Foam-Use). Approved AFFF Use Extensions: Licensed Marine Terminals; immediately preceding expiration/status explanation. All extensions expired October1 2023; Complete is facility-reported transition, not current permit/compliance judgment.
+- **CH2-P146**: [IRS Terminal Control Numbers Database, acquired November14 2026](https://www.irs.gov/pub/irs-sbse/tcn-db.pdf). physicalPDF2, both exact TCN rows. No cached August30 date/pagination applied. TCN is terminal listing not cash or title.
+
+[Later installation and address crosswalk](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md#later-exact-installation-id-and-distinct-neighboring-terminal). Distinct registration and property systems; no additional monetary observations.
+
+
+### Separate downstream terminal and transaction at 250 Eagles Nest
+
+- **CH2-P147**: [U.S. Army Corps Bridgeport and Black Rock Harbors draft navigation study](https://www.nae.usace.army.mil/Portals/74/Bridgeport%20and%20Black%20Rock%20DRAFT%20DMMP-EA%20FONSI%20MAR%2026_Combined.pdf). Appendix C, Draft Economic Analysis, printed pp.3–4, narrative and Table 1. Draft distinguishes upstream Global barge receipts of heating oil and diesel from Sprague and Harborview at the creek entrance; actual tonnage by operator, cargo provenance, costs, contracts and final dredging decision not established.
+- **CH2-P148**: [Sprague issuer-filed form of credit agreement, exhibit 10.1](https://www.sec.gov/Archives/edgar/data/1525287/000119312513375119/d552047dex101.htm). Definitions: Motiva Bridgeport Acquisition; Schedule 5.1(f) §II. Credit agreement form has blank day in October cover. It describes a distinct completed Motiva acquisition under a July 30 PSA, but is not the underlying PSA, inventory or settlement; it does not establish separate closing date, price, lender funding or payment.
+
+[Separate terminal check](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md#separate-downstream-terminal-and-transaction-at-250-eagles-nest). This does not add funding, amounts or an operating claim about a named cargo.

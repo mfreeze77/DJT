@@ -660,6 +660,162 @@
         }
       ],
       "limits": "Presentation snapshot with no dates of officer service; agent business-address label starts with Consumers Petroleum wording, not ownership or a current business-location claim. No residential/contact fields reproduced."
+    },
+    {
+      "url": "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=9101NT1R.txt",
+      "bytes": 183558,
+      "sha256": "091eec6a5d4ecbaf2e6536b9e94eaedd9123b664678d0bdc203e98b51b86e54a",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T16:32:55.564741+00:00",
+      "source_id": "CH2-P139",
+      "title": "EPA Region I Inland Area Contingency Plan, vol. II",
+      "source_date": "1993-12-17",
+      "locator": "Printed pp.66–67 and 70–71; Section VII FRP01A0036 and distinct FRP01A0033",
+      "original_artifact_type": "official NEPIS searchable HTML/OCR served at .txt URL",
+      "limits": "Primary EPA inventory and numbered submitted-FRP locator, not plan body, approval, actual storage, asset title or financing. Coastal inventory classification is not Inland ACP coverage."
+    },
+    {
+      "url": "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll2/id/3199/download",
+      "bytes": 429910,
+      "sha256": "2cfc15c2e6c63e2e4a52515d375861c8affe8ea4fc707ba9846812d60260d3eb",
+      "http_status": 200,
+      "source_id": "CH2-P140",
+      "title": "U.S. Army Corps Port Series No. 04, 2004 survey",
+      "source_date": "2004",
+      "date_meaning": "last_survey_year_of_relevant_facility_not_publication_date",
+      "locator": "Printed p.34 / physical PDF p.35; PWD 140, waterway 01685, dock 300",
+      "original_artifact_type": "official USACE CONTENTdm original PDF",
+      "acquired_date_utc": "2026-11-14",
+      "limits": "USACE owner/operator survey labels, not recorded title or corporate identity. No 1983 survey holdings/content asserted. Capacity metadata is not certified same tank set or inventory."
+    },
+    {
+      "source_id": "CH2-P141",
+      "title": "Bridgeport History Center exhibit caption and archived oil-tank photo",
+      "url": "https://www.bridgeporthistory.org/exhibit?decade=1900",
+      "source_date": "1978",
+      "date_meaning": "caption_attributed_scene_year_not_exhibit_publication",
+      "locator": "Exhibit item Oil tanks, Bridgeport, 1978 and linked JPEG",
+      "original_artifact_type": "official exhibit HTML and linked archival photograph derivative",
+      "acquired_date_utc": "2026-11-14",
+      "bytes": 799512,
+      "sha256": "ed5a84e034532de49cc6807c401460f8afb0319f5ee9270d7335212587e1b3bc",
+      "linked_image": {
+        "url": "https://www.bridgeporthistory.org/getattachment/75fc6489-fe41-42b0-abeb-8a5f5b857e2c/Hi-Ho.aspx",
+        "bytes": 642858,
+        "sha256": "902dd9488a24f120db03d186d1d364ab00c2e92d85a46ee4b5616674332133d8"
+      },
+      "limits": "Creator/date/location attribution from modern exhibit caption, not photo evidence of exact address, title, employer, legal entity or financing. No media republished."
+    },
+    {
+      "source_id": "CH2-P142",
+      "title": "EPA RCRARRep Handler List, report run April9 2013 12:16PM",
+      "url": "https://downloads.regulations.gov/EPA-HQ-RCRA-2012-0121-0052/content.pdf",
+      "source_date": "2013-04-09",
+      "locator": "printed86 and125 in cached rendition; physical pagination unverified",
+      "original_artifact_type": "cached web-reader text derivative, not original PDF",
+      "original_bytes_acquired": false,
+      "acquired_date_utc": "2026-11-14",
+      "bytes": 18555,
+      "sha256": "b35a332a949eec6129e676d617adc9dfd989c07930572325f07d84ea9c137fec",
+      "limits": "Direct GET403; no retry, original byte/page-image unavailable. Do not claim visual inspection or PDF hash."
+    },
+    {
+      "source_id": "CH2-P143",
+      "title": "Bridgeport Board of Assessment Appeals2021 minutes/list bundle",
+      "url": "https://www.bridgeportct.gov/sites/default/files/2024-04/FINANCE_TA_BAA%2020210500.pdf",
+      "source_date": "2021",
+      "locator": "physicalPDF8 owner/parcel row; physicalPDF1 May10 minutes",
+      "original_artifact_type": "official PDF bytes",
+      "original_bytes_acquired": true,
+      "acquired_date_utc": "2026-11-14",
+      "bytes": 2774468,
+      "sha256": "f6d7913c7e6e54f9a870782e773168a2be7ed7bb8b13825c2d9b90a1d4495026",
+      "limits": "Source spells EAGLES NECK; administrative label not current title or cash.",
+      "provenance": {
+        "requested_url": "https://www.bridgeportct.gov/sites/default/files/2024-04/FINANCE_TA_BAA%2020210500.pdf",
+        "retrieved_utc": "2026-11-14T19:22:17.175481+00:00",
+        "status": 200,
+        "final_url": "https://www.bridgeportct.gov/sites/default/files/2024-04/FINANCE_TA_BAA%2020210500.pdf",
+        "content_type": "application/pdf",
+        "bytes": 2774468,
+        "sha256": "f6d7913c7e6e54f9a870782e773168a2be7ed7bb8b13825c2d9b90a1d4495026"
+      }
+    },
+    {
+      "source_id": "CH2-P144",
+      "title": "Global Bridgeport current terminal page",
+      "url": "https://www.globalp.com/where-we-are/all-terminals/global-bridgeport",
+      "source_date": null,
+      "locator": "Location, Current Products, Methods of Supply",
+      "original_artifact_type": "cached web-reader text derivative; raw HTML403",
+      "original_bytes_acquired": false,
+      "acquired_date_utc": "2026-11-14",
+      "bytes": 22284,
+      "sha256": "dd02c17fc87a12bbb8f8b24cc180a886fd854857a8193ff7be02b5120eeeed1f",
+      "limits": "Operator self-description; no underlying publication date, title record, quantities or origins. No raw HTML hash claimed."
+    },
+    {
+      "source_id": "CH2-P145",
+      "title": "Connecticut DEEP PFAS-Containing Firefighting Foam Ban / historical extensions",
+      "url": "https://portal.ct.gov/DEEP/Remediation--Site-Clean-Up/PFAS-Task-Force/Extension-of-Class-B-PFAS-Firefighting-Foam-Use",
+      "source_date": null,
+      "locator": "Approved AFFF Use Extensions: Licensed Marine Terminals; immediately preceding expiration/status explanation",
+      "original_artifact_type": "official HTML bytes",
+      "original_bytes_acquired": true,
+      "acquired_date_utc": "2026-11-14",
+      "bytes": 73683,
+      "sha256": "d19bb68ed92128935d3308f3253a6764fa2ffa346b331dbddf1f87d014d14c16",
+      "limits": "All extensions expired October1 2023; Complete is facility-reported transition, not current permit/compliance judgment.",
+      "provenance": {
+        "requested_url": "https://portal.ct.gov/DEEP/Remediation--Site-Clean-Up/PFAS-Task-Force/Extension-of-Class-B-PFAS-Firefighting-Foam-Use",
+        "retrieved_utc": "2026-11-14T19:22:54.131912+00:00",
+        "status": 200,
+        "final_url": "https://portal.ct.gov/DEEP/Remediation--Site-Clean-Up/PFAS-Task-Force/Extension-of-Class-B-PFAS-Firefighting-Foam-Use",
+        "bytes": 73683,
+        "sha256": "d19bb68ed92128935d3308f3253a6764fa2ffa346b331dbddf1f87d014d14c16"
+      }
+    },
+    {
+      "source_id": "CH2-P146",
+      "title": "IRS Terminal Control Numbers Database, acquired November14 2026",
+      "url": "https://www.irs.gov/pub/irs-sbse/tcn-db.pdf",
+      "source_date": null,
+      "locator": "physicalPDF2, both exact TCN rows",
+      "original_artifact_type": "official PDF bytes acquired by parent; independently hash/text/image checked",
+      "original_bytes_acquired": true,
+      "acquired_date_utc": "2026-11-14",
+      "bytes": 636302,
+      "sha256": "ed551a417e4c434eb02be9fb12f69be2ff0a21a14e8ce854e48e4bfa0833c7d2",
+      "limits": "No cached August30 date/pagination applied. TCN is terminal listing not cash or title.",
+      "pdf_metadata_dates": "CreationDate2026-11-09; ModDate2026-11-09, not record effective dates"
+    },
+    {
+      "source_id": "CH2-P147",
+      "title": "U.S. Army Corps Bridgeport and Black Rock Harbors draft navigation study",
+      "url": "https://www.nae.usace.army.mil/Portals/74/Bridgeport%20and%20Black%20Rock%20DRAFT%20DMMP-EA%20FONSI%20MAR%2026_Combined.pdf",
+      "source_date": "2026-03",
+      "date_meaning": "draft_cover_month_not_final_authorization",
+      "locator": "Appendix C, Draft Economic Analysis, printed pp.3–4, narrative and Table 1",
+      "original_artifact_type": "retained web-tool text extraction from official USACE PDF; original download HTTP403",
+      "original_bytes_acquired": false,
+      "acquired_date_utc": "2026-11-14",
+      "bytes": 49461,
+      "sha256": "498a97eeef38524fe82217b43ba99734c2b9833acfb1b0c1eab8b6d2e98773a1",
+      "limits": "Draft distinguishes upstream Global barge receipts of heating oil and diesel from Sprague and Harborview at the creek entrance; actual tonnage by operator, cargo provenance, costs, contracts and final dredging decision not established."
+    },
+    {
+      "source_id": "CH2-P148",
+      "title": "Sprague issuer-filed form of credit agreement, exhibit 10.1",
+      "url": "https://www.sec.gov/Archives/edgar/data/1525287/000119312513375119/d552047dex101.htm",
+      "source_date": "2013",
+      "date_meaning": "issuer_filing_year; underlying_PSA_dated_2013-07-30",
+      "locator": "Definitions: Motiva Bridgeport Acquisition; Schedule 5.1(f) §II",
+      "original_artifact_type": "SEC Archives original issuer-filed HTML exhibit",
+      "original_bytes_acquired": true,
+      "acquired_date_utc": "2026-11-14",
+      "bytes": 3115971,
+      "sha256": "e6f04794b0e3a6ebc372cb7864c19851ddf7d66580f87dddfea2da123df09f2a",
+      "limits": "Credit agreement form has blank day in October cover. It describes a distinct completed Motiva acquisition under a July 30 PSA, but is not the underlying PSA, inventory or settlement; it does not establish separate closing date, price, lender funding or payment."
     }
   ],
   "publication_artifacts": "No source archives, raw headers or screenshots published. Screenshot hashes below identify review derivatives only, never original instrument bytes.",
@@ -724,6 +880,37 @@
       ],
       "reused_sources": "CH2-P75 physical pp.7,10,117; CH2-P76 Item 8.01",
       "refinement": "Separate like-named domestic stock entities, dated roles and independent same-category DRS record. Reported 2022 retail acquisition is expressly excluded from 2006 amounts."
+    },
+    {
+      "baseline_commit": "158cdbef5ce1c3de8d6e1d9e5b8c2939ea1d2359",
+      "source_ids": [
+        "CH2-P139",
+        "CH2-P140",
+        "CH2-P141"
+      ],
+      "observation_range": "EP-CEN39–43",
+      "refinement": "Operational/context crosswalk, no legal identity, proved plan approval, or monetary rows."
+    },
+    {
+      "baseline_commit": "158cdbef5ce1c3de8d6e1d9e5b8c2939ea1d2359",
+      "source_ids": [
+        "CH2-P142",
+        "CH2-P143",
+        "CH2-P144",
+        "CH2-P145",
+        "CH2-P146"
+      ],
+      "observation_range": "EP-CEN44–48",
+      "refinement": "Exact site ID continuity, address classes and adjacent-terminal negative control; no money."
+    },
+    {
+      "baseline_commit": "158cdbef5ce1c3de8d6e1d9e5b8c2939ea1d2359",
+      "source_ids": [
+        "CH2-P147",
+        "CH2-P148"
+      ],
+      "observation_range": "EP-CEN49–50",
+      "refinement": "Draft Corps location distinctions and issuer-documented adjacent property; no money."
     }
   ]
 }

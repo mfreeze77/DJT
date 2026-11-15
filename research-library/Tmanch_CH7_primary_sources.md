@@ -1536,3 +1536,8 @@ The [afternoon source manifest](Tmanch_CH7_Nov10_Afternoon_Source_Manifest.json)
 ## November 13 House prediction-market oversight process
 
 - **HOUSE-PRED-NOV13-S001–002 / CH7-HOUSE-PREDICTION-NOV13-001 / J20-2026-107:** [Original staff memorandum, official publication and attributed oversight-process limits](Tmanch_CH7_Nov13_House_Prediction_Oversight_Source_Note.md). Distinct from 100/096; no enacted restriction, adjudicated finding, regulatory change or financial flow. [Source provenance](Tmanch_CH7_Nov13_House_Prediction_Oversight_Source_Manifest.json).
+
+
+### November 14 diesel observation and data-definition controls
+
+- **040 / CH7-DIESEL-SHIP-001 / DIESEL-SHIP-S026–042:** [Dated non-unloading finding and import-data controls](Tmanch_CH7_Oct23_Diesel_Shipment_Source_Note.md#november-14-review-dated-non-unloading-finding-and-import-data-controls). CREA October and publication-cutoff findings remain distinct from refinery-input models; Novak comparison figures remain nonfinal. Census/EIA timing, product/origin definitions and Canada baseline do not establish October US delivery or payment. Earlier statuses and all action/flow/score records unchanged. [Provenance](Tmanch_CH7_Nov14_Diesel_Data_Controls_Source_Manifest.json).

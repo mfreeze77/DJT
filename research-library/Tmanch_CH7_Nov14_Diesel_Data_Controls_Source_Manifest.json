@@ -1,0 +1,354 @@
+{
+  "baseline_commit": "158cdbef5ce1c3de8d6e1d9e5b8c2939ea1d2359",
+  "scope": "Source-note-only context; no new action, claim, score or financial flow",
+  "sources": [
+    {
+      "source_id": "DIESEL-SHIP-S026",
+      "url": "https://energyandcleanair.org/october-2026-monthly-analysis-of-russian-fossil-fuel-exports-and-sanctions/",
+      "publication_or_release_date": "2026-11-12",
+      "acquired_date": "2026-11-14",
+      "acquisition_precision": "date_only",
+      "original_bytes_acquired": false,
+      "complete_source_archive_acquired": null,
+      "original_selected_zip_member_bytes_acquired": null,
+      "source_limits": "Distinct October diesel and publication-cutoff all-product non-unloading statements; Jamnagar reported destination/value and three-month feedstock share not cargo origin or receipts.",
+      "retained_derivatives": [
+        {
+          "kind": "serialized successful web-tool response derivative; may include multiple sources",
+          "retained_name": "diesel1722web.json",
+          "sha256": "577078370321ff7c6889eb5db0e0329d3d7175728fdc76ac570c6b7461eec2a4",
+          "bytes": 33557
+        },
+        {
+          "kind": "serialized successful web-tool response derivative; may include multiple sources",
+          "retained_name": "diesel1722defs.json",
+          "sha256": "0ad869ae133533810b4c476a915a124647a33ca9f41a70bde2678d75af459658",
+          "bytes": 32426
+        },
+        {
+          "kind": "serialized successful web-tool response derivative; may include multiple sources",
+          "retained_name": "diesel1722finalsources.json",
+          "sha256": "db201e664560d40d1a38f3344e67f7f5fbc4594376bf7a00bb93a329bd8e9c40",
+          "bytes": 31093
+        }
+      ]
+    },
+    {
+      "source_id": "DIESEL-SHIP-S027",
+      "url": "https://xn--90aivcdt6dxbc.xn--p1ai/articles/news/aleksandr-novak-nakoplenie-dizelya-na-zimu-idet-v-dostatochnom-obeme/",
+      "publication_or_release_date": "2026-10-30",
+      "acquired_date": "2026-11-14",
+      "acquisition_precision": "date_only",
+      "original_bytes_acquired": false,
+      "complete_source_archive_acquired": null,
+      "original_selected_zip_member_bytes_acquired": null,
+      "source_limits": "Speaker quotation, not complete recording, final exports or acquired decree.",
+      "retained_derivatives": [
+        {
+          "kind": "serialized successful web-tool response derivative; may include multiple sources",
+          "retained_name": "diesel1722scope.json",
+          "sha256": "de5ec33c1a0f2e924ee1588b0ca0e0dc9b0108a34dceb3ca99bc2c5add8a5ad4",
+          "bytes": 27616
+        }
+      ]
+    },
+    {
+      "source_id": "DIESEL-SHIP-S028",
+      "url": "https://www.interfax.ru/business/1126131",
+      "publication_or_release_date": "2026-10-30",
+      "acquired_date": "2026-11-14",
+      "acquisition_precision": "date_only",
+      "original_bytes_acquired": false,
+      "complete_source_archive_acquired": null,
+      "original_selected_zip_member_bytes_acquired": null,
+      "source_limits": "Same speaker as S027; not independent export measurement; 15:55 display has no assigned timezone.",
+      "retained_derivatives": [
+        {
+          "kind": "serialized successful web-tool response derivative; may include multiple sources",
+          "retained_name": "diesel1722finalsources.json",
+          "sha256": "db201e664560d40d1a38f3344e67f7f5fbc4594376bf7a00bb93a329bd8e9c40",
+          "bytes": 31093
+        }
+      ]
+    },
+    {
+      "source_id": "DIESEL-SHIP-S029",
+      "url": "https://www.census.gov/foreign-trade/schedule.html",
+      "publication_or_release_date": null,
+      "acquired_date": "2026-11-14",
+      "acquisition_precision": "date_only",
+      "original_bytes_acquired": false,
+      "complete_source_archive_acquired": null,
+      "original_selected_zip_member_bytes_acquired": null,
+      "source_limits": "Scheduled October/November reference releases, not data acquisition.",
+      "retained_derivatives": [
+        {
+          "kind": "serialized successful web-tool response derivative; may include multiple sources",
+          "retained_name": "diesel1722additional.json",
+          "sha256": "5cc21406ac7b193ba3733a450238933543123e27c569ab43afe5377f42cc8445",
+          "bytes": 29618
+        }
+      ]
+    },
+    {
+      "source_id": "DIESEL-SHIP-S030",
+      "url": "https://www.census.gov/foreign-trade/guide/sec2.html",
+      "publication_or_release_date": null,
+      "acquired_date": "2026-11-14",
+      "acquisition_precision": "date_only",
+      "original_bytes_acquired": false,
+      "complete_source_archive_acquired": null,
+      "original_selected_zip_member_bytes_acquired": null,
+      "source_limits": "General versus consumption; origin classification and statistical month, not cargo feedstock trace.",
+      "retained_derivatives": [
+        {
+          "kind": "serialized successful web-tool response derivative; may include multiple sources",
+          "retained_name": "diesel1722additional.json",
+          "sha256": "5cc21406ac7b193ba3733a450238933543123e27c569ab43afe5377f42cc8445",
+          "bytes": 29618
+        },
+        {
+          "kind": "serialized successful web-tool response derivative; may include multiple sources",
+          "retained_name": "diesel1722scope.json",
+          "sha256": "de5ec33c1a0f2e924ee1588b0ca0e0dc9b0108a34dceb3ca99bc2c5add8a5ad4",
+          "bytes": 27616
+        }
+      ]
+    },
+    {
+      "source_id": "DIESEL-SHIP-S031",
+      "url": "https://www.eia.gov/trilateral/content/documents/sp_energytrade_revised.pdf",
+      "publication_or_release_date": "2015-12-16",
+      "acquired_date": "2026-11-14",
+      "acquisition_precision": "date_only",
+      "original_bytes_acquired": false,
+      "complete_source_archive_acquired": null,
+      "original_selected_zip_member_bytes_acquired": null,
+      "source_limits": "Historical document marked DRAFT; relevant printed pp33-36 text only, no PDF visual inspection.",
+      "retained_derivatives": [
+        {
+          "kind": "serialized successful web-tool response derivative; may include multiple sources",
+          "retained_name": "eia_pdf_scope.json",
+          "sha256": "3fe3ac3e51d56df10fba9780516718f63e6d94a2dae392654a25e982c3de1879",
+          "bytes": 28080
+        }
+      ]
+    },
+    {
+      "source_id": "DIESEL-SHIP-S032",
+      "url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?f=M&n=PET&s=MDIIMUSCA1",
+      "publication_or_release_date": "2026-10-30",
+      "acquired_date": "2026-11-14",
+      "acquisition_precision": "date_only",
+      "original_bytes_acquired": false,
+      "complete_source_archive_acquired": null,
+      "original_selected_zip_member_bytes_acquired": null,
+      "source_limits": "August2026 latest nonempty displayed month; 3903 thousand barrels.",
+      "retained_derivatives": [
+        {
+          "kind": "serialized successful web-tool response derivative; may include multiple sources",
+          "retained_name": "diesel1722scope.json",
+          "sha256": "de5ec33c1a0f2e924ee1588b0ca0e0dc9b0108a34dceb3ca99bc2c5add8a5ad4",
+          "bytes": 27616
+        }
+      ]
+    },
+    {
+      "source_id": "DIESEL-SHIP-S033",
+      "url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?f=M&n=PET&s=MDIIMUSCA2",
+      "publication_or_release_date": "2026-10-30",
+      "acquired_date": "2026-11-14",
+      "acquisition_precision": "date_only",
+      "original_bytes_acquired": false,
+      "complete_source_archive_acquired": null,
+      "original_selected_zip_member_bytes_acquired": null,
+      "source_limits": "126 thousand barrels/day rounded daily equivalent, not independent volume.",
+      "retained_derivatives": [
+        {
+          "kind": "serialized successful web-tool response derivative; may include multiple sources",
+          "retained_name": "diesel1722scope.json",
+          "sha256": "de5ec33c1a0f2e924ee1588b0ca0e0dc9b0108a34dceb3ca99bc2c5add8a5ad4",
+          "bytes": 27616
+        }
+      ]
+    },
+    {
+      "source_id": "DIESEL-SHIP-S034",
+      "url": "https://www.eia.gov/dnav/pet/pet_move_wimpc_s1_w.htm",
+      "publication_or_release_date": null,
+      "acquired_date": "2026-11-14",
+      "acquisition_precision": "date_only",
+      "original_bytes_acquired": false,
+      "complete_source_archive_acquired": null,
+      "original_selected_zip_member_bytes_acquired": null,
+      "source_limits": "Preliminary crude, not diesel test.",
+      "retained_derivatives": [
+        {
+          "kind": "serialized successful web-tool response derivative; may include multiple sources",
+          "retained_name": "diesel1722finalsources.json",
+          "sha256": "db201e664560d40d1a38f3344e67f7f5fbc4594376bf7a00bb93a329bd8e9c40",
+          "bytes": 31093
+        }
+      ]
+    },
+    {
+      "source_id": "DIESEL-SHIP-S035",
+      "url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?f=M&n=PET&s=MDIIM_NUS-NRS_1",
+      "publication_or_release_date": "2026-10-30",
+      "acquired_date": "2026-11-14",
+      "acquisition_precision": "date_only",
+      "original_bytes_acquired": false,
+      "complete_source_archive_acquired": null,
+      "original_selected_zip_member_bytes_acquired": null,
+      "source_limits": "Last displayed year2022; missing later rows not October2026 observed zero.",
+      "retained_derivatives": [
+        {
+          "kind": "serialized successful web-tool response derivative; may include multiple sources",
+          "retained_name": "fallback1722.json",
+          "sha256": "cd9d995902ef79b27b9f834b9bf8bfc058b85c73e2844e48ab5c9306439c8dbb",
+          "bytes": 21525
+        }
+      ]
+    },
+    {
+      "source_id": "DIESEL-SHIP-S036",
+      "url": "https://www.eia.gov/petroleum/imports/companylevel/",
+      "publication_or_release_date": "2026-10-30",
+      "acquired_date": "2026-11-14",
+      "acquisition_precision": "date_only",
+      "original_bytes_acquired": false,
+      "complete_source_archive_acquired": null,
+      "original_selected_zip_member_bytes_acquired": null,
+      "source_limits": "August2026 data landing and public spreadsheet links; no October records acquired.",
+      "retained_derivatives": [
+        {
+          "kind": "serialized successful web-tool response derivative; may include multiple sources",
+          "retained_name": "fallback1722.json",
+          "sha256": "cd9d995902ef79b27b9f834b9bf8bfc058b85c73e2844e48ab5c9306439c8dbb",
+          "bytes": 21525
+        }
+      ]
+    },
+    {
+      "source_id": "DIESEL-SHIP-S037",
+      "url": "https://www.census.gov/data/developers/guidance/api-user-guide.Query_Limits.html",
+      "publication_or_release_date": "2026-05-12",
+      "acquired_date": "2026-11-14",
+      "acquisition_precision": "date_only",
+      "original_bytes_acquired": false,
+      "complete_source_archive_acquired": null,
+      "original_selected_zip_member_bytes_acquired": null,
+      "source_limits": "Displayed last revised May14; key requirement does not prove data absence; no account/key request.",
+      "retained_derivatives": [
+        {
+          "kind": "serialized successful web-tool response derivative; may include multiple sources",
+          "retained_name": "fallback1722.json",
+          "sha256": "cd9d995902ef79b27b9f834b9bf8bfc058b85c73e2844e48ab5c9306439c8dbb",
+          "bytes": 21525
+        }
+      ]
+    },
+    {
+      "source_id": "DIESEL-SHIP-S038",
+      "url": "https://www.census.gov/foreign-trade/data/dataproducts.html",
+      "publication_or_release_date": null,
+      "acquired_date": "2026-11-14",
+      "acquisition_precision": "date_only",
+      "original_bytes_acquired": false,
+      "complete_source_archive_acquired": null,
+      "original_selected_zip_member_bytes_acquired": null,
+      "source_limits": "Public monthly merchandise import archives for both measures. September listed and endpoint headers verified; October and November not linked at inspection.",
+      "retained_derivatives": [
+        {
+          "kind": "serialized successful web-tool response derivative; may include multiple sources",
+          "retained_name": "census_keyless_catalog_layout.json",
+          "sha256": "c6746e1b63f1fa21fcc491237fd7f609631fc7ff42cd23573a18a6176ab1df0e",
+          "bytes": 19045
+        }
+      ]
+    },
+    {
+      "source_id": "DIESEL-SHIP-S039",
+      "url": "https://www.census.gov/foreign-trade/reference/products/layouts/imdb.html",
+      "publication_or_release_date": null,
+      "acquired_date": "2026-11-14",
+      "acquisition_precision": "date_only",
+      "original_bytes_acquired": false,
+      "complete_source_archive_acquired": null,
+      "original_selected_zip_member_bytes_acquired": null,
+      "source_limits": "IMP_DETL.TXT provides fixed-width statistical month, country, HTSUSA, district, and separate general and consumption fields; metadata only, not evidence of any October imports.",
+      "retained_derivatives": [
+        {
+          "kind": "serialized successful web-tool response derivative; may include multiple sources",
+          "retained_name": "census_keyless_catalog_layout.json",
+          "sha256": "c6746e1b63f1fa21fcc491237fd7f609631fc7ff42cd23573a18a6176ab1df0e",
+          "bytes": 19045
+        }
+      ]
+    },
+    {
+      "source_id": "DIESEL-SHIP-S040",
+      "url": "https://www.eia.gov/survey/form/eia_814/instructions.pdf",
+      "publication_or_release_date": null,
+      "acquired_date": "2026-11-14",
+      "acquisition_precision": "date_only",
+      "original_bytes_acquired": false,
+      "complete_source_archive_acquired": null,
+      "original_selected_zip_member_bytes_acquired": null,
+      "source_limits": "Current official EIA respondent instructions, OMB No.1905-0165, expires July 31, 2029; PDF page 5 visually inspected through screenshot. Product origin and bonded timing, not tracing evidence.",
+      "retained_derivatives": [
+        {
+          "kind": "serialized successful web-tool response derivative; may include multiple sources",
+          "retained_name": "eia814_current_instructions_and_notes.json",
+          "sha256": "71fd135366f6d7b89e0bfdb72a3b59bb1c8b14207d756f8caa325f714ee101c4",
+          "bytes": 21043
+        }
+      ]
+    },
+    {
+      "source_id": "DIESEL-SHIP-S041",
+      "url": "https://www.eia.gov/petroleum/imports/companylevel/cli_note.php",
+      "publication_or_release_date": null,
+      "acquired_date": "2026-11-14",
+      "acquisition_precision": "date_only",
+      "original_bytes_acquired": false,
+      "complete_source_archive_acquired": null,
+      "original_selected_zip_member_bytes_acquired": null,
+      "source_limits": "Aggregate estimates may be omitted from company-level files; no shipment inference.",
+      "retained_derivatives": [
+        {
+          "kind": "serialized successful web-tool response derivative; may include multiple sources",
+          "retained_name": "eia814_current_instructions_and_notes.json",
+          "sha256": "71fd135366f6d7b89e0bfdb72a3b59bb1c8b14207d756f8caa325f714ee101c4",
+          "bytes": 21043
+        }
+      ]
+    },
+    {
+      "source_id": "DIESEL-SHIP-S042",
+      "url": "https://www.census.gov/trade/downloads/2026/Merch/im_m/IMDB2609.ZIP",
+      "publication_or_release_date": "2026-11-04",
+      "acquired_date": "2026-11-14",
+      "acquisition_precision": "date_only",
+      "original_bytes_acquired": false,
+      "complete_source_archive_acquired": false,
+      "original_selected_zip_member_bytes_acquired": true,
+      "source_limits": "September baseline only; selected ZIP member bytes acquired via HTTP ranges and decompression/CRC checked; complete ZIP not acquired. INSPECT_CENSUS field positions checked against S039, BBL tariff quantities verified against same-archive CONCORD.TXT.",
+      "retained_derivatives": [
+        {
+          "kind": "local derived extraction from authenticated Census archive member",
+          "retained_name": "september_preflight_summary.txt",
+          "sha256": "f9a4a8597590b20ccf8532c580a0b54e1dd45b9d2c066a3850770c94c8cdeb85",
+          "bytes": 230
+        },
+        {
+          "kind": "local derived extraction from authenticated Census archive member",
+          "retained_name": "september_preflight.csv",
+          "sha256": "82990c2415efa5db8f861cb64fe7ecca5e59072e539a0bce286e53e09f621cfb",
+          "bytes": 1428
+        }
+      ]
+    }
+  ],
+  "source_dependency": "S027/S028 same Novak remarks; CREA underlying dataset not reproduced. Canada monthly and daily series same observation. No raw archives proposed for publication."
+}

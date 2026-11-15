@@ -151,3 +151,12 @@ The [historical sidecar](consumers_getty_note_2026-11-14.md) separates LUKOIL’
 ### Getty trustee ledgers and Bionol creditor matches (November 14, 2026)
 
 [Cash reconciliation extension](consumers_getty_note_2026-11-14.md#november-14-trustee-ledger-follow-through-and-cash-reconciliation) verifies a post/reversal pair, received-vs-disbursed amounts, and four matched estate-to-estate transfers. For similar cases, match date sequence, amount, direction, legal party and transaction reference before counting; net reversals within the same ledger; reconcile only like-scoped components and preserve unresolved funding and bank-clearance limits. See [typed observations](consumers_getty_observations.csv).
+
+
+### Bridgeport EPA/Corps locator crosswalk (November 14, 2026)
+
+[Facility locator and capacity comparison](century_bridgeport_note_2026-11-14.md#november-14-bridgeport-facility-response-and-navigation-survey-crosswalk) connects the 1993 coastal inventory and 2004 Corps survey. Shared location and capacity scale strengthen operating continuity, not identical assets, legal title or a new transaction. See [typed observations](century_bridgeport_observations.csv).
+
+[Later exact installation ID and property/operation address separation](century_bridgeport_note_2026-11-14.md#later-exact-installation-id-and-distinct-neighboring-terminal) extends the nonmonetary facility crosswalk.
+
+[Separate 250 Eagles Nest terminal](century_bridgeport_note_2026-11-14.md#separate-downstream-terminal-and-transaction-at-250-eagles-nest): distinct agency/issuer terminal and navigation evidence; not a second Global purchase.
