@@ -1169,3 +1169,10 @@ See the [trustee-ledger refinement](research/early_petroleum_financing_2026/cons
 - **CH2-P148**: [Sprague issuer-filed form of credit agreement, exhibit 10.1](https://www.sec.gov/Archives/edgar/data/1525287/000119312513375119/d552047dex101.htm). Definitions: Motiva Bridgeport Acquisition; Schedule 5.1(f) §II. Credit agreement form has blank day in October cover. It describes a distinct completed Motiva acquisition under a July 30 PSA, but is not the underlying PSA, inventory or settlement; it does not establish separate closing date, price, lender funding or payment.
 
 [Separate terminal check](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md#separate-downstream-terminal-and-transaction-at-250-eagles-nest). This does not add funding, amounts or an operating claim about a named cargo.
+
+### November 15 judicial follow-through on the 2015 Getty settlement
+
+- **CH2-P149**: [New York Supreme Court 2017 order](https://www.nycourts.gov/reporter/pdfs/2017/2017_31712.pdf), Index 151772/2016, NYSCEF 41, Motion 001, signed August 14, filed August 16. Printed p.3 identifies the 2015 agreement and §4; printed p.18 records partial dismissal. Pleadings background is not a merits finding.
+- **CH2-P150**: [New York Appellate Division 2019 decision](https://www.nycourts.gov/reporter/3dseries/2019/2019_02040.htm), 170 AD3d 539, 2019 NY Slip Op 02040, decided March 19. Disposition, settlement-bar analysis and prior-case line connect and modify the 2017 order. Contract claim against Lukoil reinstated; no damages, liability or settlement payment adjudicated.
+
+[Procedural claim-continuity crosswalk](research/early_petroleum_financing_2026/consumers_getty_note_2026-11-14.md#november-15-judicial-follow-through-on-the-2015-getty-settlement). No added payment, liability or geopolitical inference.

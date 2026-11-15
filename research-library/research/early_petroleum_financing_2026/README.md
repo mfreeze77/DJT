@@ -160,3 +160,5 @@ The [historical sidecar](consumers_getty_note_2026-11-14.md) separates LUKOIL’
 [Later exact installation ID and property/operation address separation](century_bridgeport_note_2026-11-14.md#later-exact-installation-id-and-distinct-neighboring-terminal) extends the nonmonetary facility crosswalk.
 
 [Separate 250 Eagles Nest terminal](century_bridgeport_note_2026-11-14.md#separate-downstream-terminal-and-transaction-at-250-eagles-nest): distinct agency/issuer terminal and navigation evidence; not a second Global purchase.
+
+[Getty claim-preservation court crosswalk](consumers_getty_note_2026-11-14.md#november-15-judicial-follow-through-on-the-2015-getty-settlement): CH2-P149–150 / EP-CGL68–70 connect the already recorded 2015 reserved-claims clause and later litigation. No amounts or counted flows changed.

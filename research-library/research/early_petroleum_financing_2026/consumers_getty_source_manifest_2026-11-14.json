@@ -5,7 +5,7 @@
   "status": "bounded_repository_sidecar",
   "ids": "CH2-P116–122 are new; CH2-P111 and CH2-P114 are reused. EP-CGL01–14 are typed sidecar observations.",
   "repository_context_ref": "4320a9131f05539e5a430a674f2d1456596dbdf8",
-  "source_count": 25,
+  "source_count": 27,
   "sources": [
     {
       "source_id": "CH2-P116",
@@ -390,6 +390,36 @@
       "locator": "GPMI Litigation and Judgment paragraph",
       "review_and_limits": "Trustee-reported allowed claim including judgment and interest, not independently inspected court order or full satisfaction. Conflicting chronology elsewhere excluded.",
       "repo_source_status": "new"
+    },
+    {
+      "source_id": "CH2-P149",
+      "title": "Getty Properties Corp. v Lukoil Americas Corp., trial order",
+      "source_date": "2017-08-14",
+      "date_meaning": "signed_2017-08-14_filed_2017-08-16",
+      "locator": "Index 151772/2016, NYSCEF 41, Motion 001; printed pp.3,18",
+      "acquired_on": "2026-11-15",
+      "acquisition": "original_http_200",
+      "original_format": "pdf",
+      "original_bytes": 960042,
+      "original_sha256": "fd814989bc4db084028eeb3c8cce4b9037a731300d20b5fb7216127afcebe422",
+      "review_and_limits": "Physical pages 4 and 19 visually inspected. Complaint background is not adjudicated and disposition was modified on appeal.",
+      "repo_source_status": "new",
+      "source_url": "https://www.nycourts.gov/reporter/pdfs/2017/2017_31712.pdf"
+    },
+    {
+      "source_id": "CH2-P150",
+      "title": "Getty Properties Corp. v Lukoil Americas Corp., First Department decision",
+      "source_date": "2019-03-19",
+      "date_meaning": "appellate_decision_date",
+      "locator": "170 AD3d 539, 2019 NY Slip Op 02040; disposition, settlement analysis, prior case history",
+      "acquired_on": "2026-11-15",
+      "acquisition": "original_http_200",
+      "original_format": "html",
+      "original_bytes": 5282,
+      "original_sha256": "96e9c03796d55724dba138b6911dd7991a7c0fa61295f1deb2ab2cf5a312f357",
+      "review_and_limits": "Official text and disposition inspected. Claim preservation not merits liability, payer, or recovery.",
+      "repo_source_status": "new",
+      "source_url": "https://www.nycourts.gov/reporter/3dseries/2019/2019_02040.htm"
     }
   ],
   "data_contract": {
@@ -411,7 +441,7 @@
       "transaction_counted",
       "bank_clearance_verified"
     ],
-    "row_count": 67,
+    "row_count": 70,
     "all_aggregation_counting_and_clearance_flags": false,
     "null_amount": "Blank means nonmonetary/not quantified, never zero",
     "acquisition_overlap": "EP-CGL01 and EP-CGL02 are components of one acquisition; EP-CGL03 summarizes them and must never be added to them.",
@@ -454,6 +484,15 @@
       ],
       "observation_range": "EP-CGL49–67",
       "scope": "Non-additive first-party trustee cash-chain refinement, exact matched dates and rounded-note reconciliation; no bank clearance or new central totals."
+    },
+    {
+      "parent_commit": "9bd2b9eb93786695d80f3ea152ee2c350296d64a",
+      "source_ids": [
+        "CH2-P149",
+        "CH2-P150"
+      ],
+      "observation_range": "EP-CGL68–70",
+      "scope": "Nonmonetary judicial follow-through on settlement reservation and litigation identity. No changes to flows, score, allowance or liability."
     }
   ]
 }
