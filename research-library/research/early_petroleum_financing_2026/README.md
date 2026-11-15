@@ -162,3 +162,5 @@ The [historical sidecar](consumers_getty_note_2026-11-14.md) separates LUKOIL’
 [Separate 250 Eagles Nest terminal](century_bridgeport_note_2026-11-14.md#separate-downstream-terminal-and-transaction-at-250-eagles-nest): distinct agency/issuer terminal and navigation evidence; not a second Global purchase.
 
 [Getty claim-preservation court crosswalk](consumers_getty_note_2026-11-14.md#november-15-judicial-follow-through-on-the-2015-getty-settlement): CH2-P149–150 / EP-CGL68–70 connect the already recorded 2015 reserved-claims clause and later litigation. No amounts or counted flows changed.
+
+[Getty credit, realized imports and export capacity](consumers_getty_note_2026-11-14.md#november-16-source-crosswalk-bank-collateral-acquisition-funding-and-realized-imports): CH2-P151–164 / EP-CGL71–81 separate the U.S. lessor's collateral and repayment, LUKOIL's acquisition funding, EIA-reported imports and OPIC-backed export capacity. Mixed commercial benefits; no joined payment/ship chain or new monetary total.
