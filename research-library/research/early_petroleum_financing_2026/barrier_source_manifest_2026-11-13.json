@@ -1,0 +1,61 @@
+{
+  "baseline_commit": "e56e13ddb967a558bb8be553935af7e211f40ee7",
+  "scope": "Acquisition-account comparison and reported debt/payment distinctions; no aggregate or identity merge",
+  "sources": [
+    {
+      "source_id": "CH2-P62",
+      "url": "https://www.dta.ny.gov/pdf/archive/decisions/807303.dec.pdf",
+      "publication_date": "1991-01-04",
+      "retrieved_utc": "2026-11-13T22:28:59.830435+00:00",
+      "http_status": 200,
+      "bytes": 211322,
+      "sha256": "dc67697f63e9f658be97ff727f0859706f96ecff8372c884f5e3bb2c46be79e6",
+      "original_artifact_type": "official PDF bytes",
+      "original_in_publication": false,
+      "printed_pages_reviewed": "2-3,7,13,21-22",
+      "reused_existing_source": false
+    },
+    {
+      "source_id": "CH2-P63",
+      "url": "https://www.dta.ny.gov/pdf/archive/determinations/807303.DET.pdf",
+      "publication_date": "1990-05-02",
+      "retrieved_utc": "2026-11-13T22:29:51.432065+00:00",
+      "http_status": 200,
+      "bytes": 187804,
+      "sha256": "76e42ed23e04d79ef9789cec347d92a56870198f1af714972824ef8db3acf1d1",
+      "original_artifact_type": "official PDF bytes",
+      "original_in_publication": false,
+      "printed_pages_reviewed": "2,5,8-10,16",
+      "reused_existing_source": false
+    },
+    {
+      "url": "https://www.dta.ny.gov/pdf/archive/decisions/813859.DEC.pdf",
+      "status": 200,
+      "bytes": 227578,
+      "sha256": "64dc96f3d916fefcf59766083ca6a267194bc999fee58ddce9ba12b71d1b7a04",
+      "source_id": "CH2-P60",
+      "publication_date": "1996-02-15",
+      "printed_pages_reviewed": "3",
+      "original_artifact_type": "official PDF bytes",
+      "original_in_publication": false,
+      "version_limit": "Paired ALJ/Tribunal versions, not independent money events",
+      "retrieved_utc": "2026-11-13T21:30:35.322864+00:00",
+      "reused_existing_source": true
+    },
+    {
+      "url": "https://www.dta.ny.gov/pdf/archive/determinations/813859.det.pdf",
+      "status": 200,
+      "bytes": 207697,
+      "sha256": "1f12fe61e825a948cbd55730b5034d32099da808fbfc60bc07f7c0808fcd5ae1",
+      "source_id": "CH2-P61",
+      "publication_date": "1995-11-30",
+      "printed_pages_reviewed": "4",
+      "original_artifact_type": "official PDF bytes",
+      "original_in_publication": false,
+      "version_limit": "Paired ALJ/Tribunal versions, not independent money events",
+      "retrieved_utc": "2026-11-13T21:31:06.602244+00:00",
+      "reused_existing_source": true
+    }
+  ],
+  "derived_artifacts": "Extracted text and page renders are review aids; raw headers/original archives not published"
+}

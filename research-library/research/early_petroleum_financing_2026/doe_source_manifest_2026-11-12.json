@@ -66,7 +66,256 @@
       ],
       "source_id": "CH2-P50",
       "title": "Jimmy\u2019s refund-award summary"
+    },
+    {
+      "source_id": "CH2-P83",
+      "title": "Tarricone consent notice",
+      "url": "https://www.govinfo.gov/content/pkg/FR-1979-08-13/pdf/FR-1979-08-13.pdf",
+      "retrieved_utc": "2026-11-14T08:24:37.011626+00:00",
+      "status": 200,
+      "bytes": 72814186,
+      "sha256": "681dcd5790fceb406815d3db0607c9955f0859520111f91dcd961b5030dfd05e",
+      "printed_locator": "44 FR 47393-47394; PDF pp.139-140",
+      "visually_inspected_physical_pages": [
+        139,
+        140
+      ],
+      "artifact_type": "Original official PDF bytes",
+      "review_aids": "Text extraction and selected page renders are derivatives, not additional originals",
+      "limits": "Summary of consent, not signed instrument; no admission or ERA finding; prescribed checks/credits not acquired instruments."
+    },
+    {
+      "source_id": "CH2-P84",
+      "title": "Seminole et al. proposed refund procedures, Tarricone Exhibit 16",
+      "url": "https://www.govinfo.gov/content/pkg/FR-1984-12-26/pdf/FR-1984-12-26.pdf",
+      "retrieved_utc": "2026-11-14T08:24:57.911722+00:00",
+      "status": 200,
+      "bytes": 39404727,
+      "sha256": "57b2da69da8f3cb75ba3184c4d67489fff14e3c99caf6336e1263d9252f869dc",
+      "printed_locator": "49 FR 50094;50101; PDF pp.86,93",
+      "visually_inspected_physical_pages": [
+        86,
+        93
+      ],
+      "artifact_type": "Original official PDF bytes",
+      "review_aids": "Text extraction and selected page renders are derivatives, not additional originals",
+      "limits": "Proposal and affirmative remittance report; not executed checks or claimant award."
+    },
+    {
+      "source_id": "CH2-P85",
+      "title": "Seminole et al. final refund procedures, Tarricone Exhibit 16",
+      "url": "https://www.govinfo.gov/content/pkg/FR-1985-03-04/pdf/FR-1985-03-04.pdf",
+      "retrieved_utc": "2026-11-14T08:25:13.152576+00:00",
+      "status": 200,
+      "bytes": 23329711,
+      "sha256": "5005a4eef61279ae3a1ae03774dc20bb7e9b99a1ba17ba2d8980d2cdcce827e8",
+      "printed_locator": "50 FR 8661;8668; PDF pp.95,102",
+      "visually_inspected_physical_pages": [
+        95,
+        102
+      ],
+      "artifact_type": "Original official PDF bytes",
+      "review_aids": "Text extraction and selected page renders are derivatives, not additional originals",
+      "limits": "Final application procedure; repeats same remittance, not new payment."
+    },
+    {
+      "source_id": "CH2-P86",
+      "title": "DOE excess-fund determination and Appendix A",
+      "url": "https://www.govinfo.gov/content/pkg/FR-1986-12-05/pdf/FR-1986-12-05.pdf",
+      "retrieved_utc": "2026-11-14T08:25:35.274150+00:00",
+      "status": 200,
+      "bytes": 43578233,
+      "sha256": "2b6124312dc964cbd2ebbf363f59c19b430beb315cbbfdf25e0ae4d923842a74",
+      "printed_locator": "51 FR 43964-43965; PDF pp.112-113",
+      "visually_inspected_physical_pages": [
+        112,
+        113
+      ],
+      "artifact_type": "Original official PDF bytes",
+      "review_aids": "Text extraction and selected page renders are derivatives, not additional originals",
+      "limits": "Principal-plus-interest/reserve/excess snapshots; exact HEF and account locators, no case-specific executed state transfer."
+    },
+    {
+      "source_id": "CH2-P87",
+      "title": "NARA ERA audit-series disposition",
+      "url": "https://www.archives.gov/files/records-mgmt/rcs/schedules/departments/department-of-energy/rg-0434/nc1-434-84-01_sf115.pdf",
+      "retrieved_utc": "2026-11-14T08:24:08.692621+00:00",
+      "status": 200,
+      "bytes": 235298,
+      "sha256": "49a1ff94570a3156c50a696c16a56fc955b572310136a7c5d1df3bffe68c7702",
+      "printed_locator": "PDF pp.1-3",
+      "visually_inspected_physical_pages": [
+        1,
+        2,
+        3
+      ],
+      "artifact_type": "Original official PDF bytes",
+      "review_aids": "Text extraction and selected page renders are derivatives, not additional originals",
+      "limits": "February 6 2025 report, not destruction date; series-level not company-specific; ten years after FARC retirement."
+    },
+    {
+      "source_id": "CH2-P88",
+      "title": "NARA predecessor audit-series disposition",
+      "url": "https://www.archives.gov/files/records-mgmt/rcs/schedules/departments/department-of-energy/rg-0434/nc1-434-81-02_sf115.pdf",
+      "retrieved_utc": "2026-11-14T08:24:13.751807+00:00",
+      "status": 200,
+      "bytes": 237039,
+      "sha256": "91a122e33bd91c1cccd37e093dafa74b93acf8fdc11c16d647b2f30daff05bc5",
+      "printed_locator": "PDF p.1 modern cover; item 1a superseded",
+      "visually_inspected_physical_pages": [
+        1
+      ],
+      "artifact_type": "Original official PDF bytes",
+      "review_aids": "Text extraction and selected page renders are derivatives, not additional originals",
+      "limits": "October 31 2022 report: Denver April 1996 destruction versus presumed destruction elsewhere; no case accession."
+    },
+    {
+      "source_id": "CH2-P89",
+      "title": "NARA OHA case-file disposition authority",
+      "url": "https://www.archives.gov/files/records-mgmt/rcs/schedules/departments/department-of-energy/rg-0434/nc1-434-82-01_sf115.pdf",
+      "retrieved_utc": "2026-11-14T08:24:20.300025+00:00",
+      "status": 200,
+      "bytes": 358717,
+      "sha256": "657bb3ce33a5350d1b7af853330269582511264cf7dcda0dc2f9b9c11457256c",
+      "printed_locator": "PDF p.1 annotated item 1",
+      "visually_inspected_physical_pages": [
+        1
+      ],
+      "artifact_type": "Original official PDF bytes",
+      "review_aids": "Text extraction and selected page renders are derivatives, not additional originals",
+      "limits": "Crossed-out permanent proposal; handwritten 25-year disposal authority, not proof of execution or universal current rule."
+    },
+    {
+      "source_id": "CH2-P90",
+      "title": "NARA OHA refund-record disposition authority",
+      "url": "https://www.archives.gov/files/records-mgmt/rcs/schedules/departments/department-of-energy/rg-0434/n1-434-04-001_sf115.pdf",
+      "retrieved_utc": "2026-11-14T08:24:47.597304+00:00",
+      "status": 200,
+      "bytes": 90617,
+      "sha256": "384730de330b7cf3f654ee02e0463c05d6bf83419dc46a9e45853a4ed87c1957",
+      "printed_locator": "PDF p.2 item A",
+      "visually_inspected_physical_pages": [
+        2
+      ],
+      "artifact_type": "Original official PDF bytes",
+      "review_aids": "Text extraction and selected page renders are derivatives, not additional originals",
+      "limits": "Three years after refund-process closure or no longer needed, whichever sooner; authority not case-specific destruction proof."
+    },
+    {
+      "source_id": "CH2-P91",
+      "title": "Tarricone/Tenneco and Hays, Bleakley & Tobin refund summaries",
+      "url": "https://www.govinfo.gov/content/pkg/FR-1986-12-09/pdf/FR-1986-12-09.pdf",
+      "retrieved_utc": "2026-11-14T09:21:27.109395+00:00",
+      "status": 200,
+      "bytes": 48398534,
+      "sha256": "97dc5e6ff3389fb466c631d4fb05df09121244ef3df7dc0bcd2b7a423c5fb450",
+      "printed_locator": "51 FR 44371; PDF p.119, left column",
+      "visually_inspected_physical_pages": [
+        119
+      ],
+      "artifact_type": "Original official Federal Register issue PDF bytes",
+      "review_aids": "Text extraction and selected page renders are derivatives",
+      "limits": "DOE summaries, not standalone orders or bank instruments. Tenneco printed total and received-interest wording; HBT small-claim election."
+    },
+    {
+      "source_id": "CH2-P92",
+      "title": "Tarricone/Consolidated Edison refund entitlement summary",
+      "url": "https://www.govinfo.gov/content/pkg/FR-1986-12-04/pdf/FR-1986-12-04.pdf",
+      "retrieved_utc": "2026-11-14T09:21:04.538697+00:00",
+      "status": 200,
+      "bytes": 38476635,
+      "sha256": "eacd6ca3283d10ebe3fbfe64117302d61c9bac093309db69d0fa8de10b63238f",
+      "printed_locator": "51 FR 43784; PDF p.70, left column",
+      "visually_inspected_physical_pages": [
+        70
+      ],
+      "artifact_type": "Original official Federal Register issue PDF bytes",
+      "review_aids": "Text extraction and selected page renders are derivatives",
+      "limits": "Principal and interest printed separately; combined total derived. Residual-oil gallons excluded. Adjacent decisions not part of this claim."
+    },
+    {
+      "source_id": "CH2-P93",
+      "title": "Tarricone/Wyatt refund denial summary",
+      "url": "https://www.govinfo.gov/content/pkg/FR-1987-12-04/pdf/FR-1987-12-04.pdf",
+      "retrieved_utc": "2026-11-14T09:21:55.581188+00:00",
+      "status": 200,
+      "bytes": 78089112,
+      "sha256": "27d3db78f19e559b9dd41ad501489ab1a81b565d520a9f5372f3e68114815a1b",
+      "printed_locator": "52 FR 46120; PDF p.78, right column",
+      "visually_inspected_physical_pages": [
+        78
+      ],
+      "artifact_type": "Original official Federal Register issue PDF bytes",
+      "review_aids": "Text extraction and selected page renders are derivatives",
+      "limits": "No amount stated; denial under unrebutted no-injury presumption, not absence of purchases or payment history."
+    },
+    {
+      "source_id": "CH2-P94",
+      "title": "Tarricone/Spano refund grant summary",
+      "url": "https://www.govinfo.gov/content/pkg/FR-1987-07-20/pdf/FR-1987-07-20.pdf",
+      "retrieved_utc": "2026-11-14T09:21:05.843488+00:00",
+      "status": 200,
+      "bytes": 39237976,
+      "sha256": "8462b8645cf3d396ac25f97d401c5e660b5445a99afb4b6eb2e73bbdafe11bae",
+      "printed_locator": "52 FR 27253; PDF p.77, right column",
+      "visually_inspected_physical_pages": [
+        77
+      ],
+      "artifact_type": "Original official Federal Register issue PDF bytes",
+      "review_aids": "Text extraction and selected page renders are derivatives",
+      "limits": "Principal and interest printed separately; combined total derived. Eligible gallons not total purchases; no disbursement instrument."
+    },
+    {
+      "source_id": "CH2-P95",
+      "title": "KEF-0049 filing and consent-judgment locator",
+      "url": "https://www.govinfo.gov/content/pkg/FR-1986-09-18/pdf/FR-1986-09-18.pdf",
+      "retrieved_utc": "2026-11-14T09:20:54.719490+00:00",
+      "status": 200,
+      "bytes": 53967890,
+      "sha256": "564a468d7dbe1374d9b4ae106d092e8a645aa9ac2c9d7872d9927ffd95860ebd",
+      "printed_locator": "51 FR 33126; PDF p.106, lower table",
+      "visually_inspected_physical_pages": [
+        106
+      ],
+      "artifact_type": "Original official Federal Register issue PDF bytes",
+      "review_aids": "Text extraction and selected page renders are derivatives",
+      "limits": "Explicit agency case-to-judgment-number reference only; original judgment/docket and court identity unacquired; filing not grant or payment."
     }
   ],
-  "limits": "Original official issue PDFs. Selected text and renders are derivatives. No signed consent instrument, underlying audit, full RF236-1 decision/application or bank-cleared payment proof acquired. Source-stage amounts overlap and are not aggregable."
+  "limits": "Original official issue PDFs. Selected text and renders are derivatives. No signed consent instrument, underlying audit, full RF236-1 decision/application or bank-cleared payment proof acquired. Source-stage amounts overlap and are not aggregable.",
+  "append_only_supplements": [
+    {
+      "review_date": "2026-11-14",
+      "baseline_commit": "ea1fb0614192e3c99dd2d8b4f3adadf5ad6c7725",
+      "scope": "HEF-0177 stages; exact HEF-0053/0177 account snapshots; bounded NARA series limits",
+      "source_ids": [
+        "CH2-P83",
+        "CH2-P84",
+        "CH2-P85",
+        "CH2-P86",
+        "CH2-P87",
+        "CH2-P88",
+        "CH2-P89",
+        "CH2-P90"
+      ],
+      "source_archives_published": false,
+      "amount_counted": false,
+      "transaction_counted": false
+    },
+    {
+      "review_date": "2026-11-14",
+      "baseline_commit": "6adc9351b36c72018b745b809dddf6bb1b4487cb",
+      "scope": "RF155 claimant dispositions with correlated fund crosswalk; separate nonmonetary KEF-0049 judgment locator",
+      "source_ids": [
+        "CH2-P91",
+        "CH2-P92",
+        "CH2-P93",
+        "CH2-P94",
+        "CH2-P95"
+      ],
+      "source_archives_published": false,
+      "amount_counted": false,
+      "transaction_counted": false
+    }
+  ]
 }

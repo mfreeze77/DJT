@@ -1,0 +1,48 @@
+{
+  "baseline_commit": "c9fbaf86b4fd7ed2b90bafc68139037826bca90b",
+  "scope": "Append related evidence to existing J20-2026-040 and CH7-DIESEL-SHIP-001; no new action, claim, score or money flow.",
+  "sources": [
+    {
+      "source_id": "DIESEL-SHIP-S043",
+      "url": "https://www.vesselfinder.com/vessels/details/9292060",
+      "acquired_date": "2026-11-15",
+      "acquisition": "Successful public web-tool rendering of the named AIS data provider; no original bytes, official port record or raw AIS archive acquired.",
+      "source_limits": "Nov 13 15:31 UTC El Dekheila arrival; previous Alexandria anchorage departure at 14:21 UTC; provider-derived port-call labels, not terminal records or discharge."
+    },
+    {
+      "source_id": "DIESEL-SHIP-S044",
+      "url": "https://wingo-marine.com/ship/talisman-273275060",
+      "acquired_date": "2026-11-15",
+      "acquisition": "Successful public web-tool rendering of the named AIS data provider; no original bytes, official port record or raw AIS archive acquired.",
+      "source_limits": "Nov 15 11:39 UTC position west of Alexandria and EGEDK destination; same AIS family, not a separate port record."
+    },
+    {
+      "source_id": "DIESEL-SHIP-S045",
+      "url": "https://www.vesselfinder.com/vessels/details/9385831",
+      "acquired_date": "2026-11-15",
+      "acquisition": "Successful public web-tool rendering of the named AIS data provider; no original bytes, official port record or raw AIS archive acquired.",
+      "source_limits": "Nov 14 14:11 UTC Santana Anch. departure, inland Brazil and ITACOATIARA ANCH destination; no onward arrival shown."
+    },
+    {
+      "source_id": "DIESEL-SHIP-S046",
+      "url": "https://maritimeoptima.com/public/vessels/pages/imo:9385831/mmsi:667002320/LERUO.html",
+      "acquired_date": "2026-11-15",
+      "acquisition": "Successful public web-tool rendering of the named AIS data provider; no original bytes, official port record or raw AIS archive acquired.",
+      "source_limits": "Nov 14 Fazendinha Pilot Station 10:33 UTC arrival and 14:16 UTC departure. Provider event labels/times differ. Do not treat as a matching official port call."
+    },
+    {
+      "source_id": "DIESEL-SHIP-S047",
+      "url": "https://wingo-marine.com/ship/leruo-667002320",
+      "acquired_date": "2026-11-15",
+      "acquisition": "Successful public web-tool rendering of the named AIS data provider; no original bytes, official port record or raw AIS archive acquired.",
+      "source_limits": "Nov 15 08:07 UTC position south of Almeirim and reported ITACOATIARA ANCH destination. Shared AIS input family."
+    },
+    {
+      "source_id": "DIESEL-SHIP-S048",
+      "url": "https://www.vesselfinder.com/vessels/details/9798375",
+      "acquired_date": "2026-11-15",
+      "acquisition": "Successful public web-tool rendering of the named AIS data provider; no original bytes, official port record or raw AIS archive acquired.",
+      "source_limits": "Nov 15 inspection: public position shown as 18 days old, FOR ORDERS and elapsed Nov 11 ETA; no current port or position inferred."
+    }
+  ]
+}

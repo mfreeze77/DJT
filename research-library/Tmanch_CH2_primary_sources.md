@@ -813,3 +813,385 @@ CH2-P16's earlier metadata and use are preserved above. The [November 11 source 
 **Source:** DOE, 51 FR 24436. https://www.govinfo.gov/content/pkg/FR-1986-07-03/pdf/FR-1986-07-03.pdf
 
 **Limits:** [Bounded HEF-0053/RF236-1 note](research/early_petroleum_financing_2026/doe_refund_note_2026-11-12.md). Preserve no-admission/no-finding provision and printed discrepancies; distinguish commitment, agency remittance report, conditional allocation and award. No identity match, additive cash flow or bank-cleared receipt inferred.
+
+## CH2-P51 — DOE Appendix B completed-payment classification
+
+**Source:** 50 FR 4963,4965. [Original official issue PDF](https://www.govinfo.gov/content/pkg/FR-1985-02-05/pdf/FR-1985-02-05.pdf). SHA-256: `ad2f76b32198cdfed6a421a5b09745789497e46b787be7fae906208b48f5718a`.
+
+**Limits:** No amount, HEF number or corporate identifier; correlated name/locality only. Classification cutoff is not exact payment date or universal release. [Chronology and companion contract](research/early_petroleum_financing_2026/doe_refund_note_2026-11-12.md#november-13-2026-continuation-two-earlier-administrative-stages); [sanitized provenance](research/early_petroleum_financing_2026/doe_continuation_source_manifest_2026-11-13.json).
+
+## CH2-P52 — DOE Jimmy’s application receipt
+
+**Source:** 51 FR 8236. [Original official issue PDF](https://www.govinfo.gov/content/pkg/FR-1986-03-10/pdf/FR-1986-03-10.pdf). SHA-256: `3ab904cc2f8719bb13ac939a7ea21e7615e257c190dbd8e722c645a361a9890d`.
+
+**Limits:** Do. date inheritance gives February 5, 1986 application receipt for RF236-1, not award or payment. No amount or full application acquired. [Chronology and companion contract](research/early_petroleum_financing_2026/doe_refund_note_2026-11-12.md#november-13-2026-continuation-two-earlier-administrative-stages); [sanitized provenance](research/early_petroleum_financing_2026/doe_continuation_source_manifest_2026-11-13.json).
+
+## November 13, 2026: NYFT/Tunyung non-additive companion
+
+[Source note and typed observations](research/early_petroleum_financing_2026/tunyung_note_2026-11-13.md) separate supply, book credit, a reported payment and an uncollected judgment. No existing claim, flow total or correction history is revised.
+
+## CH2-P53 — NYFT Tunyung Tribunal decision
+
+**Source:** NY Division of Tax Appeals, 1998-02-12, printed pp.3-5,9-10,13,19-20. https://www.dta.ny.gov/pdf/archive/decisions/810139.dec.pdf
+
+**Limits:** Controlling administrative decision: qualified 1984 supply/book-credit findings, reported 1988 payment and uncollected judgment; partly corrects the ALJ. No bank-clearing proof or corporate identifier match. [Note and source controls](research/early_petroleum_financing_2026/tunyung_note_2026-11-13.md).
+
+## CH2-P54 — NYFT Tunyung ALJ determination
+
+**Source:** NY Division of Tax Appeals, 1997-02-20, printed pp.4-5,11,26. https://www.dta.ny.gov/pdf/archive/determinations/810139.DET.pdf
+
+**Limits:** Prior procedural version, not independent payment corroboration. Conclusion H blanket cancellation was corrected by the 1998 Tribunal; use P53 for disposition. [Note and source controls](research/early_petroleum_financing_2026/tunyung_note_2026-11-13.md).
+
+## CH2-P55 — NYFT earlier judgment account
+
+**Source:** NY Division of Tax Appeals, 1995-10-26, printed pp.4-5. https://www.dta.ny.gov/pdf/archive/decisions/811653.dec.pdf
+
+**Limits:** DTA 811653/811678 reports conflicting judgment county/total; no original judgment acquired. Same debt, not additional receipt. Other debtors and later tax-credit/payment matters excluded from this supplement. [Note and source controls](research/early_petroleum_financing_2026/tunyung_note_2026-11-13.md).
+
+
+## November 13, 2026: bounded Meridian tax-disposition source records
+
+[Assessment and limited-relief note](research/early_petroleum_financing_2026/meridian_note_2026-11-13.md) and typed observations distinguish tax liabilities from payments; existing claims, flows and corrections remain unchanged.
+
+## CH2-P56 — NYFT Meridian Tribunal decision
+
+**Source:** NY Division of Tax Appeals, 1998-08-27, printed pp.5,7-10,14-17,26-28,35-36,40-41. https://www.dta.ny.gov/pdf/archive/decisions/814152.dec.pdf
+
+**Limits:** Motor-fuel notice is DTA 814155 within consolidated decision. Assessments, not payments; preserve net multi-period composition, source discrepancies and limited relief. [Bounded note and data controls](research/early_petroleum_financing_2026/meridian_note_2026-11-13.md).
+
+## CH2-P57 — NYFT Meridian ALJ determination
+
+**Source:** NY Division of Tax Appeals, 1997-05-22, printed pp.18-22,28. https://www.dta.ny.gov/pdf/archive/determinations/814152.det.pdf
+
+**Limits:** Prior procedural version of same matter, not independent transactions. Read with Tribunal corrections to inventory-loss wording and notice numbers; retain A/N/O limits. [Bounded note and data controls](research/early_petroleum_financing_2026/meridian_note_2026-11-13.md).
+
+
+## November 13, 2026: Westchester/Shore Line administrative sources
+
+Separate reference appendix, not an earlier financing-chain extension.
+
+## CH2-P58 — Standard Petroleum Tribunal decision
+
+**Source:** NY Division of Tax Appeals, 1999-04-29, printed pp.2-8,13-15. https://www.dta.ny.gov/pdf/archive/decisions/815413.dec.pdf
+
+**Limits:** Administrative-record descriptions, not bank clearance; paired versions are not independent transactions. [Separate appendix](research/early_petroleum_financing_2026/westchester_shoreline_note_2026-11-13.md).
+
+## CH2-P59 — Standard Petroleum ALJ determination
+
+**Source:** NY Division of Tax Appeals, 1998-05-07, printed pp.15. https://www.dta.ny.gov/pdf/archive/determinations/815413.det.pdf
+
+**Limits:** Administrative-record descriptions, not bank clearance; paired versions are not independent transactions. [Separate appendix](research/early_petroleum_financing_2026/westchester_shoreline_note_2026-11-13.md).
+
+## CH2-P60 — Shore Line Tribunal decision
+
+**Source:** NY Division of Tax Appeals, 1996-02-15, printed pp.6-10,19-20. https://www.dta.ny.gov/pdf/archive/decisions/813859.DEC.pdf
+
+**Limits:** Administrative-record descriptions, not bank clearance; paired versions are not independent transactions. [Separate appendix](research/early_petroleum_financing_2026/westchester_shoreline_note_2026-11-13.md).
+
+## CH2-P61 — Shore Line ALJ determination
+
+**Source:** NY Division of Tax Appeals, 1995-11-30, printed pp.34-35. https://www.dta.ny.gov/pdf/archive/determinations/813859.det.pdf
+
+**Limits:** Administrative-record descriptions, not bank clearance; paired versions are not independent transactions. [Separate appendix](research/early_petroleum_financing_2026/westchester_shoreline_note_2026-11-13.md).
+
+
+## November 13, 2026: Barrier acquisition/financing sources
+
+## CH2-P62 — Barrier Tribunal decision
+
+**Source:** NY Division of Tax Appeals, 1991-01-04, printed pp.2-3,7,13,21-22. https://www.dta.ny.gov/pdf/archive/decisions/807303.dec.pdf
+
+**Limits:** Mixed consideration is not proved cash; ALJ debt schedule is reported in parties positions, not a bank trace. [Separate comparison](research/early_petroleum_financing_2026/barrier_note_2026-11-13.md).
+
+## CH2-P63 — Barrier ALJ determination
+
+**Source:** NY Division of Tax Appeals, 1990-05-02, printed pp.2,5,8-10,16. https://www.dta.ny.gov/pdf/archive/determinations/807303.DET.pdf
+
+**Limits:** Mixed consideration is not proved cash; ALJ debt schedule is reported in parties positions, not a bank trace. [Separate comparison](research/early_petroleum_financing_2026/barrier_note_2026-11-13.md).
+
+Reuses existing CH2-P60 p.3 and CH2-P61 p.4 for the unresolved January 1989 account, without reassigning their IDs.
+
+## November 14, 2026: Century / Bridgeport source records
+
+## CH2-P64 — CT DEP Property Transfer Forms bundle
+
+**Source:** https://filings.deep.ct.gov/DEEPDocumentSearchPortal/Home/DisplayPDF?DocID={B036CB84-0100-C42C-80D5-DB0453662158} . Locator: 3,6-7,9-11.
+
+**Limits:** Signed filing declarations, agency chronology and later fee form; not actual land price or bank instrument [Comparison and source hierarchy](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md).
+
+## CH2-P65 — Bridgeport recorded warranty deed
+
+**Source:** https://i2o.uslandrecords.com/CT/Bridgeport/D/ . Locator: Document 1695; Vol2446 pp116-118; 001/02446/116.
+
+**Limits:** Review captures are not original-instrument bytes or certified copies; no amount inferred from consideration/tax/release language. Earlier referenced mortgage/assignment not inspected. [Comparison and source hierarchy](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md).
+
+## CH2-P66 — Bridgeport recorded mortgage release
+
+**Source:** https://i2o.uslandrecords.com/CT/Bridgeport/D/ . Locator: Document 1693; Vol2446 pp113-114; 001/02446/113.
+
+**Limits:** Review captures are not original-instrument bytes or certified copies; no amount inferred from consideration/tax/release language. Earlier referenced mortgage/assignment not inspected. [Comparison and source hierarchy](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md).
+
+## CH2-P67 — CT REACT DCN-017205 displayed metadata
+
+**Source:** https://deep-react.service.ct.gov/s/case/500cs00001Q1xTN/detail . Locator: DCN-017205, Date Of Transfer field.
+
+**Limits:** Current migrated fields only. Date Of Transfer is not independently verified conveyance date; no historic original document bytes represented. [Comparison and source hierarchy](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md).
+
+Existing CH2-P62/P63 reused for January 4, 1988 acquisition; deed, release and fee are not aggregated with its consideration.
+
+## November 14, 2026: Century installation/index context supplement
+
+## CH2-P68 — EPA 1980 Region1 notification report, official text rendition
+
+**Source:** https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=2000KBNF.TXT
+
+**Limits:** Notifier-submitted/unverified; exact entry notification date garbled. Original PDF403 stopped; no PDF acquired. [Source-tier comparison](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md#november-14-follow-up-installation-indexed-title-and-scoped-operating-context).
+
+## CH2-P69 — Bridgeport1981 deed index metadata
+
+**Source:** https://i2o.uslandrecords.com/CT/Bridgeport/D/
+
+**Limits:** Zero images; original unavailable. Index field Verified/Certified does not mean certified copy obtained; no price/legal description/parcel equivalence. [Source-tier comparison](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md#november-14-follow-up-installation-indexed-title-and-scoped-operating-context).
+
+## CH2-P70 — CT DEP-hosted Keck assessment with attached NPDES permit
+
+**Source:** https://filings.deep.ct.gov/DEEPDocumentSearchPortal/Home/DisplayPDF?DocID={D036CB84-0100-CCAF-B710-6042FA331F74}
+
+**Limits:** Report not agency ownership finding or executed lease; permit not actual compliance/payment. Broader environmental findings outside this supplement. [Source-tier comparison](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md#november-14-follow-up-installation-indexed-title-and-scoped-operating-context).
+
+## CH2-P71 — Recorded Sun Oil boundary/location survey referenced by1988 deed
+
+**Source:** https://i2o.uslandrecords.com/CT/Bridgeport/D/
+
+**Limits:** Specific match to1988 deed survey reference only; not1981 deed original/terms, full title timeline, price or payment. Screenshot hashes are review derivatives, not raw map hashes. [Source-tier comparison](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md#november-14-follow-up-installation-indexed-title-and-scoped-operating-context).
+
+
+## November 14, 2026: Century price-source refinement
+
+## CH2-P72 — City-linked Bridgeport assessor parcel4480 ownership history
+
+**Source:** https://gis.vgsi.com/cards/BridgeportCTCards//4480.pdf
+
+**Limits:** Reported price not contract or bank receipt; underlying tax/assessor lineage unknown;7.98 vs historical8.8 acres unresolved;zero row not proof no consideration. [Price-source refinement](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md#november-14-price-source-refinement-assessor-record-and-conditional-tax-base-check).
+
+## CH2-P73 — DRS LSN-98 prior-rate description
+
+**Source:** https://portal.ct.gov/DRS/Publications/Legal-Special-Notices/LSN/LSN-98
+
+**Limits:** Use prior0.45percent and1.10per1000/fraction only;1989 replacement rates do not apply1988;historical tax return/rounding absent. [Price-source refinement](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md#november-14-price-source-refinement-assessor-record-and-conditional-tax-base-check).
+
+## CH2-P74 — RCSA12-494-1 full-purchase-price definition
+
+**Source:** https://eregulations.ct.gov/eRegsPortal/Browse/getDocument?guid=%7B0E70C7B4-8A62-42DA-9243-6FC81C43545B%7D
+
+**Limits:** Current-hosted historical-effective rule, not original1987 paper scan;nonmoney and liability-inclusive base not necessarily cash. [Price-source refinement](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md#november-14-price-source-refinement-assessor-record-and-conditional-tax-base-check).
+
+
+## November 14, 2026: Bridgeport 2006 continuity and issuer accounting
+
+## CH2-P75 — CT DEP 2006 CPW Terminal signed Form III and agency acknowledgment
+
+**Source:** https://filings.deep.ct.gov/DEEPDocumentSearchPortal/Home/DisplayPDF?DocID={50EEFB89-0000-C126-A5F2-88535E424B4A}
+
+**Limits:** Signed submissions and dated administrative acknowledgment; not acquired 2006 deed or bank record. No DEP certification of submitted correctness. [Source-tier extension](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md#november-14-continuity-extension-may-2006-transfer-and-issuer-accounting).
+
+## CH2-P76 — Global Partners 2006 early acquisition disclosure family
+
+**Source:** https://www.sec.gov/Archives/edgar/data/1323468/000110465906033565/a06-11681_18k.htm
+
+**Limits:** Early approximate 2.3 million same acquisition; release seller affiliate unnamed; relevant 8-K information furnished not filed; not independent money events. [Source-tier extension](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md#november-14-continuity-extension-may-2006-transfer-and-issuer-accounting).
+
+## CH2-P77 — Global Partners fiscal 2006 annual acquisition and group disclosures
+
+**Source:** https://www.sec.gov/Archives/edgar/data/1323468/000110465907020106/a07-6021_210k.htm
+
+**Limits:** Same issuer annual disclosure versions, not independent receipts; separate subsidiaries; 2.4 million includes buyer costs and is not seller proceeds. [Source-tier extension](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md#november-14-continuity-extension-may-2006-transfer-and-issuer-accounting).
+
+## CH2-P78 — Global Partners fiscal 2007 repeated 2006 acquisition account
+
+**Source:** https://www.sec.gov/Archives/edgar/data/1323468/000104746908002790/a2183777z10-k.htm
+
+**Limits:** Repeats same 2006 Bridgeport account; do not add neighboring 2007 acquisition table or resolve early 2.3 million discrepancy without evidence. [Source-tier extension](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md#november-14-continuity-extension-may-2006-transfer-and-issuer-accounting).
+
+
+## November 14, 2026: Global access and credit context
+
+## CH2-P79 — Global Partners final 2005 prospectus: CPW access
+
+**Source:** https://www.sec.gov/Archives/edgar/data/1323468/000104746905023615/a2163408z424b4.htm
+
+**Limits:** Pre-purchase access only; throughput/exchange alternatives and As Available do not establish CPW-specific contract terms, title or seller affiliation. [Access and finance limits](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md#november-14-access-and-credit-extension-framework-is-not-acquisition-funding).
+
+## CH2-P80 — Executed 2005 credit framework and bounded amendments
+
+**Source:** https://www.sec.gov/Archives/edgar/data/1323468/000110465905048061/a05-17438_1ex10d8.htm
+
+**Limits:** Contract contents, not compliance finding or funded Bridgeport draw. Postclosing amendment schedule not closing funding proof; completed acquisition/loan notices not acquired. [Access and finance limits](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md#november-14-access-and-credit-extension-framework-is-not-acquisition-funding).
+
+## CH2-P81 — Global Partners first-quarter 2006 subsequent event
+
+**Source:** https://www.sec.gov/Archives/edgar/data/1323468/000110465906034912/a06-9928_110q.htm
+
+**Limits:** May 8 completion is subsequent event, not March closing or extra transaction. [Access and finance limits](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md#november-14-access-and-credit-extension-framework-is-not-acquisition-funding).
+
+## CH2-P82 — Global Partners third-quarter 2006 availability and acquisition disclosure
+
+**Source:** https://www.sec.gov/Archives/edgar/data/1323468/000110465906074903/a06-22008_110q.htm
+
+**Limits:** Availability is snapshot, not draw/never-used proof; approximately $2.4m stage does not reconcile earlier $2.3m or create another acquisition. [Access and finance limits](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md#november-14-access-and-credit-extension-framework-is-not-acquisition-funding).
+
+
+### November 14 DOE stage and archival supplement
+
+- **CH2-P83**: [Tarricone consent notice](https://www.govinfo.gov/content/pkg/FR-1979-08-13/pdf/FR-1979-08-13.pdf). 44 FR 47393-47394; PDF pp.139-140. Summary of consent, not signed instrument; no admission or ERA finding; prescribed checks/credits not acquired instruments.
+- **CH2-P84**: [Seminole et al. proposed refund procedures, Tarricone Exhibit 16](https://www.govinfo.gov/content/pkg/FR-1984-12-26/pdf/FR-1984-12-26.pdf). 49 FR 50094;50101; PDF pp.86,93. Proposal and affirmative remittance report; not executed checks or claimant award.
+- **CH2-P85**: [Seminole et al. final refund procedures, Tarricone Exhibit 16](https://www.govinfo.gov/content/pkg/FR-1985-03-04/pdf/FR-1985-03-04.pdf). 50 FR 8661;8668; PDF pp.95,102. Final application procedure; repeats same remittance, not new payment.
+- **CH2-P86**: [DOE excess-fund determination and Appendix A](https://www.govinfo.gov/content/pkg/FR-1986-12-05/pdf/FR-1986-12-05.pdf). 51 FR 43964-43965; PDF pp.112-113. Principal-plus-interest/reserve/excess snapshots; exact HEF and account locators, no case-specific executed state transfer.
+- **CH2-P87**: [NARA ERA audit-series disposition](https://www.archives.gov/files/records-mgmt/rcs/schedules/departments/department-of-energy/rg-0434/nc1-434-84-01_sf115.pdf). PDF pp.1-3. February 6 2025 report, not destruction date; series-level not company-specific; ten years after FARC retirement.
+- **CH2-P88**: [NARA predecessor audit-series disposition](https://www.archives.gov/files/records-mgmt/rcs/schedules/departments/department-of-energy/rg-0434/nc1-434-81-02_sf115.pdf). PDF p.1 modern cover; item 1a superseded. October 31 2022 report: Denver April 1996 destruction versus presumed destruction elsewhere; no case accession.
+- **CH2-P89**: [NARA OHA case-file disposition authority](https://www.archives.gov/files/records-mgmt/rcs/schedules/departments/department-of-energy/rg-0434/nc1-434-82-01_sf115.pdf). PDF p.1 annotated item 1. Crossed-out permanent proposal; handwritten 25-year disposal authority, not proof of execution or universal current rule.
+- **CH2-P90**: [NARA OHA refund-record disposition authority](https://www.archives.gov/files/records-mgmt/rcs/schedules/departments/department-of-energy/rg-0434/n1-434-04-001_sf115.pdf). PDF p.2 item A. Three years after refund-process closure or no longer needed, whichever sooner; authority not case-specific destruction proof.
+
+These observations do not add counted cash or transactions. See the [DOE note](research/early_petroleum_financing_2026/doe_refund_note_2026-11-12.md) and [typed observations](research/early_petroleum_financing_2026/doe_refund_observations.csv).
+
+### November 14 RF155 claimant and separate KEF locator supplement
+
+- **CH2-P91**: [Tarricone/Tenneco and Hays, Bleakley & Tobin refund summaries](https://www.govinfo.gov/content/pkg/FR-1986-12-09/pdf/FR-1986-12-09.pdf). 51 FR 44371; PDF p.119, left column. DOE summaries, not standalone orders or bank instruments. Tenneco printed total and received-interest wording; HBT small-claim election.
+- **CH2-P92**: [Tarricone/Consolidated Edison refund entitlement summary](https://www.govinfo.gov/content/pkg/FR-1986-12-04/pdf/FR-1986-12-04.pdf). 51 FR 43784; PDF p.70, left column. Principal and interest printed separately; combined total derived. Residual-oil gallons excluded. Adjacent decisions not part of this claim.
+- **CH2-P93**: [Tarricone/Wyatt refund denial summary](https://www.govinfo.gov/content/pkg/FR-1987-12-04/pdf/FR-1987-12-04.pdf). 52 FR 46120; PDF p.78, right column. No amount stated; denial under unrebutted no-injury presumption, not absence of purchases or payment history.
+- **CH2-P94**: [Tarricone/Spano refund grant summary](https://www.govinfo.gov/content/pkg/FR-1987-07-20/pdf/FR-1987-07-20.pdf). 52 FR 27253; PDF p.77, right column. Principal and interest printed separately; combined total derived. Eligible gallons not total purchases; no disbursement instrument.
+- **CH2-P95**: [KEF-0049 filing and consent-judgment locator](https://www.govinfo.gov/content/pkg/FR-1986-09-18/pdf/FR-1986-09-18.pdf). 51 FR 33126; PDF p.106, lower table. Explicit agency case-to-judgment-number reference only; original judgment/docket and court identity unacquired; filing not grant or payment.
+
+See the [DOE note](research/early_petroleum_financing_2026/doe_refund_note_2026-11-12.md) and [typed observations](research/early_petroleum_financing_2026/doe_refund_observations.csv). No additive award total or new contribution is recorded.
+
+### November 14 Conlo bank-item and historical registration supplement
+
+- **CH2-P96**: [SOS Oil Corp. v Norstar Bank, Court of Appeals](https://www.law.cornell.edu/nyctap/I90_0183.htm). 76 N.Y.2d 561; October 18 1990; opening facts, conclusion and footnote 1. Cornell labels opinion uncorrected and subject to revision before reporter publication. No original bank instrument or satisfaction record.
+- **CH2-P97**: [SOS Oil Corp. v Norstar Bank, Appellate Division mirror](https://openjurist.org/152/ad2d/223/sos-oil-corp-v-norstar-bank-6052330). 152 A.D.2d 223,225; December 4 1989; paragraphs 4-6,19-23. Public transcription. Raw HTTP preservation returned 403 and was stopped; no raw opinion bytes/hash claimed. Retained tool artifact also includes cross-check material.
+- **CH2-P98**: [TSB-M-85(1)M registration and bonding](https://www.tax.ny.gov/pdf/memos/fuel_%26_gasoline/m85_1m.pdf). July 17 1985; pp.1-3, sections A-B. Historical departmental description, not session-law image or proof of an actual Conlo filing or transaction.
+- **CH2-P99**: [TSB-M-85(5)M 1985 law changes](https://www.tax.ny.gov/pdf/memos/fuel_%26_gasoline/m85_5m.pdf). September 11 1985; pp.1,5. Historical departmental description, not session-law image or proof of an actual Conlo filing or transaction.
+- **CH2-P100**: [TSB-M-86(1)M 1985 amendments summary](https://www.tax.ny.gov/pdf/memos/misc/m86_1m.pdf). January 15 1986; printed p.2 / physical PDF p.3, section 283-5. Historical departmental description, not session-law image or proof of an actual Conlo filing or transaction.
+- **CH2-P101**: [TSB-M-86(9)M registration transfers](https://www.tax.ny.gov/pdf/memos/fuel_%26_gasoline/m86_9m.pdf). December 1 1986; pp.1,6-7, sections 283(9)-(10). Historical departmental description, not session-law image or proof of an actual Conlo filing or transaction.
+
+See the [identity note](research/early_petroleum_financing_2026/identity_note_2026-11-12.md) and [non-additive bank observations](research/early_petroleum_financing_2026/conlo_bank_observations.csv). Plural-name variants remain case-level only; historical memos are locator guidance, not actual filings.
+
+
+### November 14 seller identity extension
+
+- **CH2-P102**: [CT Business Registry business master](https://data.ct.gov/d/n7gp-d28j). CT IDs 0038199, 0112023, 0210038, 0087667. Dated registration/dissolution and observed index fields, not certified instruments, contemporaneous ownership or historical office terms. Do not use import date as event date.
+- **CH2-P103**: [CT Business Registry name history](https://data.ct.gov/d/enwv-52we). Rows joined to CT IDs 0038199, 0112023, 0087667 via the master key. Explicit old/new name and change dates; not amendment body, merger, transfer, or successor determination.
+- **CH2-P104**: [CT Business Registry filing history](https://data.ct.gov/d/ah3s-bes7). 0001930280; 0001930919; 0000112001; 0003360352; 0003360354. Indexed locator and type, not underlying instruments, asset transfers or winding-up distribution.
+- **CH2-P105**: [CT Business Registry principals](https://data.ct.gov/d/ka36-64k6). Richard V. Wiehl entries joined to the four distinct business IDs. Historical CPW and BMT entries omit designation; identical name does not establish title, ownership percentage or term. Snapshot/import timestamps are not dates of service.
+- **CH2-P106**: [2000 CT DRS quarterly distributor bulletin](https://portal.ct.gov/drs/publications/announcements/2000/an-2000-2-3). AN 2000(2.3), new and former motor-vehicle-fuel distributor headings and two Bridgeport lines. Limited fuel category excluding gasohol, diesel, propane and natural gas. Separate public agency corroboration of operating name/address; no ownership, consideration or proof of licensing process cause.
+- **CH2-P107**: [2006 CT DRS quarterly distributor bulletin](https://portal.ct.gov/-/media/DRS/Publications/pubsan/2006/AN-200633.pdf?la=en). AN 2006(3.3), Former Motor Vehicle Fuels Distributors, CPW row. License status for named category as reported, not cessation of all business, reason, corporate dissolution or sale.
+- **CH2-P108**: [March 7 2011 CT Environment Committee hearing](https://prdext2.cga.ct.gov/2011/envdata/chr/2011ENV00307-R001100-CHR.htm). Rich Wiehl opening statement on S.B. 1113. Self-described presidency and family business, not a share register or representation about the 2006 sale.
+- **CH2-P109**: [Global signed December 9 2020 retail asset agreement](https://www.sec.gov/Archives/edgar/data/1323468/000110465922009711/tm224849d1_ex2-1.htm). Heading and signature page after printed p.57; schedule list. Dated signatory capacities, not the May 2006 terminal contract. Schedules and exhibits omitted in public filing.
+- **CH2-P110**: [FTC final Global and Wiehl order](https://www.ftc.gov/system/files/documents/cases/final_global_wiehl_order.pdf). Definitions I.B, PDF p.2. Controlled affiliates as defined for the order, not a finding of 2006 BMT ownership or wrongdoing in the terminal acquisition.
+- **CH2-P111**: [Global January 2022 closing 8-K](https://www.sec.gov/Archives/edgar/data/1323468/000110465922009711/tm224849d1_8k.htm). Item 2.01, January 25 closing, seller group, initial price and funding. Separate retail acquisition. Early approximate price subject to adjustment; no allocation to any individual seller.
+- **CH2-P112**: [Global FY2023 Note 3 acquisition accounting](https://www.sec.gov/Archives/edgar/data/1323468/000155837024002047/R10.htm). Consumers Petroleum subsection, Jan. 25 2022 and approximately USD 154.7m including inventory. Later version of same separate retail deal; not added to early USD 151m or any terminal amount. No verified personal net receipt.
+- **CH2-P113**: [1998 CT DRS annual distributor list](https://portal.ct.gov/drs/publications/announcements/1998/an-98-1). AN 98(1), February 1 1998 entries for R H Holcomb and Consumers Petroleum of Connecticut. Both printed at 400 Eagles Nest Road in different categories. Does not identify a corporate ID, payment, ownership or a shared license.
+- **CH2-P114**: [2002 CT DRS annual distributor list](https://portal.ct.gov/drs/publications/announcements/2002/an-2002-1). AN 2002(1), January 1 2002 entries for CPW and Consumers Petroleum of Connecticut. Both printed at 400 Eagles Nest Road in different categories. Not a common account, supply contract, ownership, or payment evidence.
+- **CH2-P115**: [CT Business Records Search displayed Bridgeport Marine Terminals officer and agent fields](https://service.ct.gov/business/s/onlinebusinesssearch). Search Business ALEI 0210038, Principal Details and Agent details. Presentation snapshot with no dates of officer service; agent business-address label starts with Consumers Petroleum wording, not ownership or a current business-location claim. No residential/contact fields reproduced.
+
+See [seller-identity analysis](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md#november-14-seller-identity-extension). No added cash, ownership conclusion, or modern event.
+
+
+### November 14 Getty marketing acquisition and Connecticut operating-model supplement
+
+- **CH2-P116**: [OAO LUKOIL 2002 consolidated financial statements](https://www.sec.gov/Archives/edgar/vprr/0303/03032473.pdf). Note 18; printed p.101 / physical p.103. Original PDF acquired HTTP 200; relevant page rendered, OCR-assisted and visually inspected. Entire 117-page filing not fully reviewed. Rounded company accounting disclosure, not bank instrument.
+- **CH2-P117**: [Getty Realty first-quarter 2001 Form 10-Q](https://www.sec.gov/Archives/edgar/data/1052752/000095013701501554/c62504e10-q.txt). Note 2; MD&A General. Original SEC text acquired HTTP 200; named sections inspected. Separate lessor source; unrelated lender allegations not promoted.
+- **CH2-P118**: [Connecticut Judiciary public-hearing transcript](https://prdext2.cga.ct.gov/2001/juddata/chr/2001JUD00402-R001300-CHR.htm). DeLaurentis; Hawthorne; Coscia segments. Original official-mirror HTML acquired HTTP 200 and independently read. Main-host retrieval initially failed. Statements remain attributed; transcript has inaudible passages and a 74 or 92 wording imperfection.
+- **CH2-P119**: [Raised S.B.1426: An Act Concerning Contract-Operators](https://prdext2.cga.ct.gov/2001/tob/s/2001SB-01426-R00-SB.htm). Sections 1-3; statement of purpose. Original official-mirror HTML acquired HTTP 200 and full bill read. Introduced text, not enrolled act; March 26 referral separately from status record.
+- **CH2-P120**: [Official bill status: Raised S.B.1426 session 2001](https://prdext2.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB01426&which_year=2001). Bill title/session and Bill History table. Original official-mirror HTML acquired HTTP 200. Status readback shows only referral and hearing scheduling; no affirmative rejection vote or later docket obtained.
+- **CH2-P121**: [Connecticut General Statutes chapter 250a, 2025 edition](https://prdext3.cga.ct.gov/2025/pub/chap_250a.htm). Sections 14-344a-d and histories. Original official-mirror HTML acquired HTTP 200. Current page points to later supplements; no assertion this is exhaustive 2026 law.
+- **CH2-P122**: [OLR 2006-R-0321: Zone Pricing](https://prdext2.cga.ct.gov/2006/rpt/2006-R-0321.htm). Description of divorcement law and jobbers. Original official-mirror HTML acquired HTTP 200. OLR expressly disclaims legal-opinion authority. Report about a separate 2006 proposal, not an enacted zone-pricing finding.
+
+See the [historical Getty sidecar](research/early_petroleum_financing_2026/consumers_getty_note_2026-11-14.md). Reuses CH2-P114 (DRS) and CH2-P111 (distinct 2022 retail acquisition); no modern licensing, financial aggregate, or score change.
+
+
+### November 14 Getty operating and settlement follow-through
+
+- **CH2-P123**: [Getty Realty FY2015 Form 10-K](https://www.sec.gov/Archives/edgar/data/1052752/000119312516500301/d62672d10k.htm). Note 3 pp.54–55, Marketing and the Master Lease; Major Tenants. Reported estate/creditor funding, distributions and separate lease assignments; not bank evidence. Annual totals overlap reported components. Avoid deriving residual-source shares.
+- **CH2-P124**: [March 3, 2015 signed Marketing estate settlement](https://www.sec.gov/Archives/edgar/data/1052752/000119312515083549/d889258dex991.htm). Recitals, paragraphs 1–4 and signature page. An allowed claim and conditional distributions are not receipts. Release scope has limits; not an admission or adjudication.
+- **CH2-P125**: [Getty Realty FY2020 Form 10-K](https://www.sec.gov/Archives/edgar/data/1052752/000156459021008446/gty-10k_20201231.htm). Note 3, printed p.59, Lukoil Americas Case. Reported net payment on separate case. No gross amount, fee size, payer allocation, insurer share or independently verified bank clearance.
+- **CH2-P126**: [Getty Realty July 17, 2013 settlement release](https://www.sec.gov/Archives/edgar/data/1052752/000115752313003422/a50674938ex99-1.htm). Exhibit 99.1, opening settlement and term paragraphs. Collective payment by or on behalf of defendants, then still subject to bankruptcy court approval. Forecast Realty proceeds are not receipt; exclude asserted underlying complaint theories.
+- **CH2-P127**: [Connecticut General Law public hearing, February 15, 2005](https://prdext2.cga.ct.gov/2005/gldata/chr/2005GL-00215-R001000-CHR.htm). Mike Lindquist testimony; after Michael J. Fox and before Richard Ficarilli. Single operator self-report; no executed station contract, regulator decision, audit, exact change date or statewide inference. H.B.6653 is a separate proposal.
+- **CH2-P128**: [Getty Realty FY2011 Form 10-K ownership and bankruptcy chronology](https://www.sec.gov/Archives/edgar/data/1052752/000119312512117565/d285705d10k.htm). The History of Our Company, printed p.7. Reported prior ownership transfer and later Chapter 11 filing; not an inspected transfer agreement, consideration, Cambridge ultimate ownership or an independently traced payment.
+
+[Operating and settlement follow-through](research/early_petroleum_financing_2026/consumers_getty_note_2026-11-14.md#november-14-getty-operating-and-settlement-follow-through); no aggregate, central event or categorical motivation claim.
+
+
+### November 14 Getty restructuring, equity exit and retained supply channels
+
+- **CH2-P129**: [April 22, 2013 LUKOIL prospectus, FCA archive and LSE copy](https://data.fca.org.uk/artefacts/NSM/data-migration/51344688.pdf). Cover; printed pp.118,135; physical PDF pp.127,144. Issuer-reported affiliate asset acquisition and U.S. station snapshot; assumed obligations are not cash or a known discharge.
+- **CH2-P130**: [SDNY Han declaration and attached contemporary exhibits](https://cases.justia.com/federal/district-courts/new-york/nysdce/1%3A2000cv01898/4606/4373/0.pdf). Doc. 4373, Ex. 10-b (physical PDF pp.102–106) and Ex. 10-c (p.108). Filed exhibit copies. Advisor described adjustable preclosing terms; internal restructuring plan includes received-equity account, intended funding uses, modeled arrangements and unverified implementation.
+- **CH2-P131**: [Getty Realty FY2009 Form 10-K](https://www.sec.gov/Archives/edgar/data/1052752/000117120010000264/i00097_getty-10k.htm). Item 1, Item 7 and Note 3; Marketing restructuring and leases. Issuer reporting about its tenant. Affiliate-sale proceeds and parent support retired guaranteed debt; not a parent guarantee of the Realty leases. BP cohort is not the entire business.
+- **CH2-P132**: [SDNY April 4, 2016 discovery order](https://law.justia.com/cases/federal/district-courts/new-york/nysdce/1:2000cv01898/4606/4405/). Doc. 4405 §§ II.B/C, nn.21–26, 42. Procedural background only; sealed stock agreement not inspected; does not allocate cash, verify contingent payment or adjudicate liability, solvency or intent.
+- **CH2-P133**: [SDNY bankruptcy docket exhibit hosted by U.S. DOJ](https://www.justice.gov/sites/default/files/usao-sdny/legacy/2015/03/25/InReGetty%20Notice%20of%20Lodging.pdf). Case 11-15606-scc, Doc. 1260-1, Exhibit A opening recital. Filed consent-decree exhibit recites December 5 petition date and August 24 confirmation order date. Not the original petition or proof of the unrelated settlement terms.
+- **CH2-P134**: [Signed Getty Properties litigation funding letter](https://www.sec.gov/Archives/edgar/data/1052752/000119312513112263/d448426dex1012.htm). Exhibit 10.12 opening terms and signature page. Defines funding and specific adversary cases; ceiling and terms not new receipts. No allocation by case or proof of bank movement.
+- **CH2-P135**: [LUKOIL Americas release on completed Cambridge transfer](https://www.prnewswire.com/news-releases/lukoil-americas-corporation-announces-sale-of-getty-petroleum-marketing-inc-to-cambridge-petroleum-holding-inc-117270123.html). Opening two paragraphs and about LUKOIL Americas. Issuer release carried by PR Newswire; reported equity completion and retained brand channel, not closing terms, ultimate buyer identity or ownership census.
+
+[Historical Getty extension](research/early_petroleum_financing_2026/consumers_getty_note_2026-11-14.md#november-14-getty-restructuring-equity-exit-and-retained-supply-channels); no new counts or scored actions.
+
+
+### November 14 trustee ledger follow-through and cash reconciliation
+
+- **CH2-P136**: [Getty Petroleum Liquidating Trust Form 2; case 11-15606 SCC](https://giulianomiller.com/Images/form2/gpi_form2_1.pdf). Printed/PDF pp.49,117–118,193,205,250–251,270,277. Contemporaneous-entry trustee cash record. Case tags and net posting match, not a bank instrument, payer-by-payer allocation or funding provenance; no account identifiers republished.
+- **CH2-P137**: [Bionol Clearfield LLC Form 2; case 11-12301 CSS](https://giulianomiller.com/Images/form2/bio_form2_1.pdf). Printed/PDF pp.4,6,8. Same trustee administrator, separate estate and records. Four recipient-side postings, not standalone bank clearance or onward recoveries.
+- **CH2-P138**: [Bionol case website, trustee narrative](https://giulianomiller.com/debtor.php?id=bio). GPMI Litigation and Judgment paragraph. Trustee-reported allowed claim including judgment and interest, not independently inspected court order or full satisfaction. Conflicting chronology elsewhere excluded.
+
+See the [trustee-ledger refinement](research/early_petroleum_financing_2026/consumers_getty_note_2026-11-14.md#november-14-trustee-ledger-follow-through-and-cash-reconciliation). No scored action or new aggregate.
+
+
+### November 14 Bridgeport facility-response and navigation survey crosswalk
+
+- **CH2-P139**: [EPA Region I Inland Area Contingency Plan, vol. II](https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=9101NT1R.txt). Printed pp.66–67 and 70–71; Section VII FRP01A0036 and distinct FRP01A0033. Primary EPA inventory and numbered submitted-FRP locator, not plan body, approval, actual storage, asset title or financing. Coastal inventory classification is not Inland ACP coverage.
+- **CH2-P140**: [U.S. Army Corps Port Series No. 04, 2004 survey](https://usace.contentdm.oclc.org/digital/api/collection/p16021coll2/id/3199/download). Printed p.34 / physical PDF p.35; PWD 140, waterway 01685, dock 300. USACE owner/operator survey labels, not recorded title or corporate identity. No 1983 survey holdings/content asserted. Capacity metadata is not certified same tank set or inventory.
+- **CH2-P141**: [Bridgeport History Center exhibit caption and archived oil-tank photo](https://www.bridgeporthistory.org/exhibit?decade=1900). Exhibit item Oil tanks, Bridgeport, 1978 and linked JPEG. Creator/date/location attribution from modern exhibit caption, not photo evidence of exact address, title, employer, legal entity or financing. No media republished.
+
+[Facility crosswalk](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md#november-14-bridgeport-facility-response-and-navigation-survey-crosswalk). Nonmonetary facility records and separately attributed archival photo context; 1983 edition metadata only.
+
+
+### Later exact installation ID and distinct neighboring terminal
+
+- **CH2-P142**: [EPA RCRARRep Handler List, report run April9 2013 12:16PM](https://downloads.regulations.gov/EPA-HQ-RCRA-2012-0121-0052/content.pdf). printed86 and125 in cached rendition; physical pagination unverified. Direct GET403; no retry, original byte/page-image unavailable. Do not claim visual inspection or PDF hash.
+- **CH2-P143**: [Bridgeport Board of Assessment Appeals2021 minutes/list bundle](https://www.bridgeportct.gov/sites/default/files/2024-04/FINANCE_TA_BAA%2020210500.pdf). physicalPDF8 owner/parcel row; physicalPDF1 May10 minutes. Source spells EAGLES NECK; administrative label not current title or cash.
+- **CH2-P144**: [Global Bridgeport current terminal page](https://www.globalp.com/where-we-are/all-terminals/global-bridgeport). Location, Current Products, Methods of Supply. Operator self-description; no underlying publication date, title record, quantities or origins. No raw HTML hash claimed.
+- **CH2-P145**: [Connecticut DEEP PFAS-Containing Firefighting Foam Ban / historical extensions](https://portal.ct.gov/DEEP/Remediation--Site-Clean-Up/PFAS-Task-Force/Extension-of-Class-B-PFAS-Firefighting-Foam-Use). Approved AFFF Use Extensions: Licensed Marine Terminals; immediately preceding expiration/status explanation. All extensions expired October1 2023; Complete is facility-reported transition, not current permit/compliance judgment.
+- **CH2-P146**: [IRS Terminal Control Numbers Database, acquired November14 2026](https://www.irs.gov/pub/irs-sbse/tcn-db.pdf). physicalPDF2, both exact TCN rows. No cached August30 date/pagination applied. TCN is terminal listing not cash or title.
+
+[Later installation and address crosswalk](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md#later-exact-installation-id-and-distinct-neighboring-terminal). Distinct registration and property systems; no additional monetary observations.
+
+
+### Separate downstream terminal and transaction at 250 Eagles Nest
+
+- **CH2-P147**: [U.S. Army Corps Bridgeport and Black Rock Harbors draft navigation study](https://www.nae.usace.army.mil/Portals/74/Bridgeport%20and%20Black%20Rock%20DRAFT%20DMMP-EA%20FONSI%20MAR%2026_Combined.pdf). Appendix C, Draft Economic Analysis, printed pp.3–4, narrative and Table 1. Draft distinguishes upstream Global barge receipts of heating oil and diesel from Sprague and Harborview at the creek entrance; actual tonnage by operator, cargo provenance, costs, contracts and final dredging decision not established.
+- **CH2-P148**: [Sprague issuer-filed form of credit agreement, exhibit 10.1](https://www.sec.gov/Archives/edgar/data/1525287/000119312513375119/d552047dex101.htm). Definitions: Motiva Bridgeport Acquisition; Schedule 5.1(f) §II. Credit agreement form has blank day in October cover. It describes a distinct completed Motiva acquisition under a July 30 PSA, but is not the underlying PSA, inventory or settlement; it does not establish separate closing date, price, lender funding or payment.
+
+[Separate terminal check](research/early_petroleum_financing_2026/century_bridgeport_note_2026-11-14.md#separate-downstream-terminal-and-transaction-at-250-eagles-nest). This does not add funding, amounts or an operating claim about a named cargo.
+
+### November 15 judicial follow-through on the 2015 Getty settlement
+
+- **CH2-P149**: [New York Supreme Court 2017 order](https://www.nycourts.gov/reporter/pdfs/2017/2017_31712.pdf), Index 151772/2016, NYSCEF 41, Motion 001, signed August 14, filed August 16. Printed p.3 identifies the 2015 agreement and §4; printed p.18 records partial dismissal. Pleadings background is not a merits finding.
+- **CH2-P150**: [New York Appellate Division 2019 decision](https://www.nycourts.gov/reporter/3dseries/2019/2019_02040.htm), 170 AD3d 539, 2019 NY Slip Op 02040, decided March 19. Disposition, settlement-bar analysis and prior-case line connect and modify the 2017 order. Contract claim against Lukoil reinstated; no damages, liability or settlement payment adjudicated.
+
+[Procedural claim-continuity crosswalk](research/early_petroleum_financing_2026/consumers_getty_note_2026-11-14.md#november-15-judicial-follow-through-on-the-2015-getty-settlement). No added payment, liability or geopolitical inference.
+
+### November 16 Getty credit, imports and export capacity crosswalk
+
+- **CH2-P151**: [East Providence recorded Chase mortgage](https://eastprovidence.ri.publicsearch.us/doc/195658501). 1985-02-22 (recording date); Book 562 pp.138–168, instrument 19850000000780; images 1–2, 30–31. Executed February 1; same-date note recital and site plan. No purchase wire, note payoff or parcel-by-parcel match.
+- **CH2-P152**: [Executed 1984 acquisition agreement filed at SEC](https://www.sec.gov/Archives/edgar/data/1052752/000117120010000264/i00097_ex10-3.htm). 1984-12-21 (agreement date); §2(a) purchase-price mechanics. Seller note, distinct senior ceiling, estimated base and balance formula; not settlement ledger.
+- **CH2-P153**: [Power Test / Chase second amended and restated loan agreement](https://www.sec.gov/Archives/edgar/data/1052752/000095013701502462/c63909ex99-1.txt). 2001-07-20 (agreement date); Recitals and §§2.1, 2.2, 2.6(b). Continued principal, not fresh advance, lender purchase price or proof of later debit.
+- **CH2-P154**: [Getty Realty Form 10-Q, third quarter 2001](https://www.sec.gov/Archives/edgar/data/1052752/000095013701504477/c65902e10-q.txt). 2001-09-30 (period end); Notes 4 and 6. Issuer reports August 1 payoff funded from equity; MD&A year conflict; notes control the dated claim.
+- **CH2-P155**: [Getty Petroleum Marketing change-of-control Form 8-K](https://www.sec.gov/Archives/edgar/data/1025742/000095013700005244/c59113e8-k.txt). 2000-12-08 (earliest reported event date); Item 1; December 11 announcement; December 15 filing. Issuer reports $56m actually borrowed and paid valid tenders; no individual settlement or bank ledger.
+- **CH2-P156**: [LUKOIL Finance / Lukoil Americas acquisition loan agreement](https://www.lawinsider.com/contracts/ldaKAL0WmUN). 2000-10-30 (tender filing date); Schedule TO Ex.99.B, §§10–11, 14–15; text reproduction cross-checked to exhibit locator. SEC original locator https://www.sec.gov/Archives/edgar/data/1126976/000095012300010218/y42101tex99-b.txt inaccessible on direct read. Conditional dividend and treaty structure, not performance.
+- **CH2-P157**: [Court-filed Gluzman bankruptcy cross-examination](https://cases.justia.com/federal/district-courts/new-york/nysdce/1%3A2000cv01898/4606/4373/0.pdf#page=53). 2013-05-28 (testimony date); Adv. Proc. 11-02941 (SCC), trial transcript p.968 lines 16–24 (PDF p.53). Witness account, not adjudication or audited cash-flow record.
+- **CH2-P158**: [EIA 2005 company-level imports workbook](https://www.eia.gov/petroleum/imports/companylevel/archive/2005/data/impa05d.xls). 2005 (reporting year); EIA-814 data: importer Getty Petro Mktg Inc; country 805; product 138; port 1001. 23 qualifying rows; quantities are thousand barrels. Company file excludes estimates; no vessel, supplier, purchase price or destination station. Original workbook SHA-256: `eed9dd0aa6ffc3ce50f4ea4d7e31ab7994533846282e2a0ff387bedca327811f`.
+- **CH2-P159**: [EIA 2006 company-level imports workbook](https://www.eia.gov/petroleum/imports/companylevel/archive/2006/data/impa06d.xls). 2006 (reporting year); EIA-814 data: importer Getty Petro Mktg Inc; same identity filter. Three importer rows, none Russia-origin; other companies can name Getty as processor, not excluded from the market. Original workbook SHA-256: `892b3fddedcea12dde5fa9c05bd5255eb89ef88b1a5ce19ced2e812b11119df7`.
+- **CH2-P160**: [OPIC Russia project summary](https://www.govinfo.gov/content/pkg/GOVPUB-OP-PURL-LPS81139/pdf/GOVPUB-OP-PURL-LPS81139.pdf). 2004-03 (publication month); p.1, Oil Export Project; September 2003 commitment. $130m guarantee on $225m private facility, not federal disbursement.
+- **CH2-P161**: [LUKOIL Vysotsk completion release](https://www.lukoil.com/PressCenter/Pressreleases/Pressrelease/lukoil-completes-construction-of-terminal-in). 2006-09-05 (issuer release date); Completion and throughput paragraphs. Throughput and capacity reported by operator; not route or origin documentation for Getty shipments.
+- **CH2-P162**: [CY2015 portfolio inventory prepared for OPIC](https://www.dfc.gov/sites/default/files/2019-08/opic_2015_ghg_emissions_inventory_report_final_8_28_2017.pdf#page=14). 2017-08 (report update month); Printed p.10/PDF p.14; portfolio boundary and results. Expressly attributes Vysotsk portfolio exit to loan repayment; no exact amount or bank date, or guarantee claim history.
+- **CH2-P163**: [Bush-Putin joint statement on energy cooperation](https://georgewbush-whitehouse.archives.gov/news/releases/2005/02/20050224-6.html). 2005-02-24 (statement date); Energy dialogue and Russian oil export/import paragraphs; see also May 2002 joint statement. Affirmative pre-Trump policy baseline, not an instrument or evidence of any specific shipment, current comparable conditions or later intent.
+- **CH2-P164**: [Fluor Vysotsk project release](https://newsroom.fluor.com/news-releases/news-details/2003/Fluor-and-Lukoil-Neftegazstroy-to-Build-Russian-Oil-Products-Export-Terminal/default.aspx). 2003 (publication year); Turnkey agreement and separate CSFB guarantee. Documents the U.S. engineering contractor commercial opportunity, not realized net margin or OPIC claim.
+
+[Linked historical findings](research/early_petroleum_financing_2026/consumers_getty_note_2026-11-14.md#november-16-source-crosswalk-bank-collateral-acquisition-funding-and-realized-imports). Sources establish different bank, acquisition, trade and guarantee stages; no new count, refund, license action or Trump attribution.
