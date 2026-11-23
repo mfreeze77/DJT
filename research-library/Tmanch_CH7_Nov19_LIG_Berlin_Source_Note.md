@@ -9,6 +9,8 @@
 - **Paragraphs (b)/(c)** cover specified maintenance and wind-down until **12:01 a.m. EST February 20, 2027 (05:01 UTC)**; blocked-account use is limited to otherwise authorized (b) transactions. **Paragraph (d)** excludes transfers to any Russia-located person or account and retains other prohibitions subject to its terms. No transaction-specific application is inferred from a minority holding alone.
 - **Who benefits:** mixed at the level of permitted options. Covered foreign operations, workers and host-country counterparties gain additional continuity, and nonblocked buyers more time. Preserving operating value may indirectly benefit LIG, while keeping closing controls and the Russia-located transfer exclusion limits the inference that Moscow gains proceeds. No actual transfer, closing, delisting, change to Russian revenue or intent is established.
 
+**Financial follow-up, not a new policy event:** [Burgas refinery shareholder debt and trade setoff](Tmanch_CH7_Burgas_Litasco_Finance_Source_Note.md) documents the year-end amount drawn, the repayment demand and separate noncash trade netting. It identifies what to verify at any refinancing or authorized sale without presuming a closing or payment.
+
 ## Berlin
 
 **J20-2026-115** records allied coordination, not a discrete U.S. transfer or guaranteed protection. It sits alongside, not inside, the equipment mobilization reported under [J20-2026-104](Tmanch_CH7_Nov12_EU_Winter_Source_Note.md), [J20-2026-102](Tmanch_CH7_Nov10_Denmark_Source_Note.md), and the separate prior PURL record (legacy J20-032).
