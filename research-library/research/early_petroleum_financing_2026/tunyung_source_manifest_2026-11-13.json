@@ -1,0 +1,46 @@
+{
+  "baseline_commit": "3d9605799d8f20a3ec3cc5c5d10d3afa8d6741d8",
+  "scope": "Bounded NYFT/Tunyung supply, accounting, payment and conflicting judgment observations; no aggregate or identity merge",
+  "sources": [
+    {
+      "source_id": "CH2-P53",
+      "publication_date": "1998-02-12",
+      "url": "https://www.dta.ny.gov/pdf/archive/decisions/810139.dec.pdf",
+      "retrieved_utc": "2026-11-13T14:26:10.705614+00:00",
+      "http_status": 200,
+      "original_artifact_type": "official PDF bytes",
+      "bytes": 213823,
+      "sha256": "be18d40e71cf71bd9a55325fc1a759666dee30cf2bc93d816a7e55c05d3d6079",
+      "printed_pages_reviewed": "3-5,9-10,13,19-20",
+      "limits": "Controlling administrative decision: qualified 1984 supply/book-credit findings, reported 1988 payment and uncollected judgment; partly corrects the ALJ. No bank-clearing proof or corporate identifier match.",
+      "original_in_publication": false
+    },
+    {
+      "source_id": "CH2-P54",
+      "publication_date": "1997-02-20",
+      "url": "https://www.dta.ny.gov/pdf/archive/determinations/810139.DET.pdf",
+      "retrieved_utc": "2026-11-13T14:25:19.063830+00:00",
+      "http_status": 200,
+      "original_artifact_type": "official PDF bytes",
+      "bytes": 237435,
+      "sha256": "f97b391f58612af07e625a00ad7420f4bff4e385aa0efe46616359b0b614802d",
+      "printed_pages_reviewed": "4-5,11,26",
+      "limits": "Prior procedural version, not independent payment corroboration. Conclusion H blanket cancellation was corrected by the 1998 Tribunal; use P53 for disposition.",
+      "original_in_publication": false
+    },
+    {
+      "source_id": "CH2-P55",
+      "publication_date": "1995-10-26",
+      "url": "https://www.dta.ny.gov/pdf/archive/decisions/811653.dec.pdf",
+      "retrieved_utc": "2026-11-13T14:27:41.459903+00:00",
+      "http_status": 200,
+      "original_artifact_type": "official PDF bytes",
+      "bytes": 164069,
+      "sha256": "3c5848ac16013c1a47be9812c262b8a87a436c211bf4558892e94c3b79a0d35c",
+      "printed_pages_reviewed": "4-5",
+      "limits": "DTA 811653/811678 reports conflicting judgment county/total; no original judgment acquired. Same debt, not additional receipt. Other debtors and later tax-credit/payment matters excluded from this supplement.",
+      "original_in_publication": false
+    }
+  ],
+  "derived_artifacts": "Text extractions and page renders support review only; no original archive or raw headers included in publication"
+}

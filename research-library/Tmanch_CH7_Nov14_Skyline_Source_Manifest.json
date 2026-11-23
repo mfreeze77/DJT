@@ -1,0 +1,53 @@
+{
+  "baseline_commit": "ccc7d48f97dac5a846e149c0037ae08edac329a0",
+  "review_date_utc": "2026-11-14",
+  "scope": "Two unscored non-additive issuer corporate-action observations; no central financial-flow or presidential-event addition",
+  "sources": [
+    {
+      "source_id": "SKYLINE-NOV12-S001",
+      "report_date": "2026-11-12",
+      "announcement_date_as_reported": "2026-11-12",
+      "edgar_acceptance_time_checked": false,
+      "source_tier": "Issuer disclosure hosted by SEC; not independent verification of implementation",
+      "artifacts": [
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/2031009/000121390026118491/ea0311820-6k_skyline.htm",
+          "artifact_type": "Original SEC-hosted HTML bytes retained privately, not published",
+          "bytes": 10630,
+          "sha256": "903c318913fb98271af333a7a5d74d6801d4ffb693b8c35210f06b7656f13e47",
+          "http_status": null,
+          "exact_acquisition_time_utc": null,
+          "retrieval_note": "Successful curl -fsS retrieval reported by verifier; numeric response status and request/response times not retained"
+        }
+      ]
+    },
+    {
+      "source_id": "SKYLINE-NOV12-S002",
+      "report_date": "2026-11-12",
+      "announcement_date_as_reported": "2026-11-12",
+      "edgar_acceptance_time_checked": false,
+      "source_tier": "Issuer disclosure hosted by SEC; not independent verification of implementation",
+      "artifacts": [
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/2031009/000121390026118516/ea0312035-6k_skyline.htm",
+          "artifact_type": "Original SEC-hosted HTML bytes retained privately, not published",
+          "bytes": 10732,
+          "sha256": "d57a2ba924f9bf6cd00cfae1014c29f2aaceeee5272491ff15101890bc218657",
+          "http_status": null,
+          "exact_acquisition_time_utc": null,
+          "retrieval_note": "Successful curl -fsS retrieval reported by verifier; numeric response status and request/response times not retained"
+        },
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/2031009/000121390026118516/ea031203501ex99-1.htm",
+          "artifact_type": "Original SEC-hosted HTML bytes retained privately, not published",
+          "bytes": 31762,
+          "sha256": "c7627666af5de8c4bbde2bdcd0149d6fdc7816ce4b9560d9ef3598275b9c87d3",
+          "http_status": null,
+          "exact_acquisition_time_utc": null,
+          "retrieval_note": "Successful curl -fsS retrieval reported by verifier; numeric response status and request/response times not retained"
+        }
+      ]
+    }
+  ],
+  "no_raw_archive_published": true
+}

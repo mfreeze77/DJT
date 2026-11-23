@@ -1,0 +1,228 @@
+{
+  "observation_id": "UK-NOV12-LIST-REF01",
+  "type": "legal_list_change_reference_not_financial_flow",
+  "joins": [
+    "J20-2026-103",
+    "CH7-UK-NOV12-SANCTIONS-001"
+  ],
+  "source_id": "UK-NOV12-S001",
+  "additions": [
+    {
+      "unique_id": "RUS3792",
+      "kind": "entity",
+      "heading": "JSC NIPIGAZPERERABOTKA",
+      "date_designated": "2026-11-12",
+      "sanctions_imposed_heading": "Asset freeze, Trust Services Sanctions, Director Disqualification Sanction, Transport sanctions: see \"Other information\"",
+      "source_id": "UK-NOV12-S001",
+      "statement_of_reasons_adopted": false
+    },
+    {
+      "unique_id": "RUS3793",
+      "kind": "entity",
+      "heading": "PJSC SIBUR HOLDING",
+      "date_designated": "2026-11-12",
+      "sanctions_imposed_heading": "Asset freeze, Trust Services Sanctions, Director Disqualification Sanction, Transport sanctions: see \"Other information\"",
+      "source_id": "UK-NOV12-S001",
+      "statement_of_reasons_adopted": false
+    },
+    {
+      "unique_id": "RUS3794",
+      "kind": "entity",
+      "heading": "FORTEZA TRADING DMCC",
+      "date_designated": "2026-11-12",
+      "sanctions_imposed_heading": "Asset freeze, Trust Services Sanctions, Director Disqualification Sanction, Transport sanctions: see \"Other information\"",
+      "source_id": "UK-NOV12-S001",
+      "statement_of_reasons_adopted": false
+    },
+    {
+      "unique_id": "RUS3795",
+      "kind": "ship",
+      "heading": "IMO 9958303",
+      "date_designated": "2026-11-12",
+      "sanctions_imposed_heading": "Shipping & Trade Sanctions: see \"Other Information\"",
+      "source_id": "UK-NOV12-S001",
+      "statement_of_reasons_adopted": false,
+      "imo": "9958303"
+    },
+    {
+      "unique_id": "RUS3796",
+      "kind": "ship",
+      "heading": "IMO 9958315",
+      "date_designated": "2026-11-12",
+      "sanctions_imposed_heading": "Shipping & Trade Sanctions: see \"Other Information\"",
+      "source_id": "UK-NOV12-S001",
+      "statement_of_reasons_adopted": false,
+      "imo": "9958315"
+    },
+    {
+      "unique_id": "RUS3797",
+      "kind": "ship",
+      "heading": "IMO 9274616",
+      "date_designated": "2026-11-12",
+      "sanctions_imposed_heading": "Shipping & Trade Sanctions: see \"Other Information\"",
+      "source_id": "UK-NOV12-S001",
+      "statement_of_reasons_adopted": false,
+      "imo": "9274616"
+    },
+    {
+      "unique_id": "RUS3798",
+      "kind": "ship",
+      "heading": "IMO 9402328",
+      "date_designated": "2026-11-12",
+      "sanctions_imposed_heading": "Shipping & Trade Sanctions: see \"Other Information\"",
+      "source_id": "UK-NOV12-S001",
+      "statement_of_reasons_adopted": false,
+      "imo": "9402328"
+    },
+    {
+      "unique_id": "RUS3799",
+      "kind": "ship",
+      "heading": "IMO 9460564",
+      "date_designated": "2026-11-12",
+      "sanctions_imposed_heading": "Shipping & Trade Sanctions: see \"Other Information\"",
+      "source_id": "UK-NOV12-S001",
+      "statement_of_reasons_adopted": false,
+      "imo": "9460564"
+    },
+    {
+      "unique_id": "RUS3800",
+      "kind": "entity",
+      "heading": "PJSC OIL AND GAS COMPANY SLAVNEFT",
+      "date_designated": "2026-11-12",
+      "sanctions_imposed_heading": "Asset freeze, Trust Services Sanctions, Director Disqualification Sanction, Transport sanctions: see \"Other information\"",
+      "source_id": "UK-NOV12-S001",
+      "statement_of_reasons_adopted": false
+    },
+    {
+      "unique_id": "RUS3801",
+      "kind": "entity",
+      "heading": "JOINT STOCK COMPANY UGOLNAYA KOMPANIYA KUZBASSRAZREZUGOL",
+      "date_designated": "2026-11-12",
+      "sanctions_imposed_heading": "Asset freeze, Trust Services Sanctions, Director Disqualification Sanction, Transport sanctions: see \"Other information\"",
+      "source_id": "UK-NOV12-S001",
+      "statement_of_reasons_adopted": false
+    },
+    {
+      "unique_id": "RUS3802",
+      "kind": "entity",
+      "heading": "JOINT-STOCK COMPANY \"SIBERIAN COAL ENERGY COMPANY\"",
+      "date_designated": "2026-11-12",
+      "sanctions_imposed_heading": "Asset freeze, Trust Services Sanctions, Director Disqualification Sanction, Transport sanctions: see \"Other information\"",
+      "source_id": "UK-NOV12-S001",
+      "statement_of_reasons_adopted": false
+    },
+    {
+      "unique_id": "RUS3803",
+      "kind": "entity",
+      "heading": "PATERA FZCO",
+      "date_designated": "2026-11-12",
+      "sanctions_imposed_heading": "Asset freeze, Trust Services Sanctions, Director Disqualification Sanction, Transport sanctions: see \"Other information\"",
+      "source_id": "UK-NOV12-S001",
+      "statement_of_reasons_adopted": false
+    },
+    {
+      "unique_id": "RUS3804",
+      "kind": "entity",
+      "heading": "NOVUS ENERGY DMCC",
+      "date_designated": "2026-11-12",
+      "sanctions_imposed_heading": "Asset freeze, Trust Services Sanctions, Director Disqualification Sanction, Transport sanctions: see \"Other information\"",
+      "source_id": "UK-NOV12-S001",
+      "statement_of_reasons_adopted": false
+    },
+    {
+      "unique_id": "RUS3805",
+      "kind": "ship",
+      "heading": "IMO9630028",
+      "date_designated": "2026-11-12",
+      "sanctions_imposed_heading": "Shipping sanctions: (see \"Other information\")",
+      "source_id": "UK-NOV12-S001",
+      "statement_of_reasons_adopted": false,
+      "imo": "9630028"
+    },
+    {
+      "unique_id": "RUS3806",
+      "kind": "ship",
+      "heading": "IMO9915105",
+      "date_designated": "2026-11-12",
+      "sanctions_imposed_heading": "Shipping sanctions: (see \"Other information\")",
+      "source_id": "UK-NOV12-S001",
+      "statement_of_reasons_adopted": false,
+      "imo": "9915105"
+    },
+    {
+      "unique_id": "RUS3807",
+      "kind": "ship",
+      "heading": "IMO9958298",
+      "date_designated": "2026-11-12",
+      "sanctions_imposed_heading": "Shipping sanctions: (see \"Other information\")",
+      "source_id": "UK-NOV12-S001",
+      "statement_of_reasons_adopted": false,
+      "imo": "9958298"
+    },
+    {
+      "unique_id": "RUS3808",
+      "kind": "ship",
+      "heading": "IMO9958327",
+      "date_designated": "2026-11-12",
+      "sanctions_imposed_heading": "Shipping sanctions: (see \"Other information\")",
+      "source_id": "UK-NOV12-S001",
+      "statement_of_reasons_adopted": false,
+      "imo": "9958327"
+    },
+    {
+      "unique_id": "RUS3809",
+      "kind": "entity",
+      "heading": "LLC Vostok Oil",
+      "date_designated": "2026-11-12",
+      "sanctions_imposed_heading": "Asset freeze, Trust Services Sanctions, Director Disqualification Sanction, Transport sanctions: see \"Other information\"",
+      "source_id": "UK-NOV12-S001",
+      "statement_of_reasons_adopted": false
+    },
+    {
+      "unique_id": "RUS3810",
+      "kind": "ship",
+      "heading": "IMO 9252967",
+      "date_designated": "2026-11-12",
+      "sanctions_imposed_heading": "Shipping & Trade Sanctions: see \"Other Information\"",
+      "source_id": "UK-NOV12-S001",
+      "statement_of_reasons_adopted": false,
+      "imo": "9252967"
+    },
+    {
+      "unique_id": "RUS3811",
+      "kind": "ship",
+      "heading": "IMO 9321304",
+      "date_designated": "2026-11-12",
+      "sanctions_imposed_heading": "Shipping & Trade Sanctions: see \"Other Information\"",
+      "source_id": "UK-NOV12-S001",
+      "statement_of_reasons_adopted": false,
+      "imo": "9321304"
+    }
+  ],
+  "existing_variation": {
+    "unique_id": "RUS3185",
+    "name": "ALTRUM GROUP FZCO",
+    "original_designation_date": "2025-12-18",
+    "variation_date": "2026-11-12",
+    "removed_alias": "NOVUS ENERGY DMCC",
+    "remains_designated": true,
+    "new_designation_counted": false,
+    "cross_entry_legal_identity_established": false
+  },
+  "diesel_context": {
+    "event_id": "J20-2026-040",
+    "tracked_imos": {
+      "Talisman": "9292060",
+      "Leruo": "9385831",
+      "Agioi Fanendes": "9798375"
+    },
+    "intersection": []
+  },
+  "source_discrepancy": "RUS3807 header and IMO field identify 9958298, while its statement of reasons refers to 9958315 (NELEUS). No erratum acquired; no reconciliation or conduct finding inferred.",
+  "measure_limits": "Preserve exact headline labels. RUS3805–3808 Other Information also includes conditional trade prohibitions; do not infer categorical exemption from trade measures. Exceptions/licences require entry-specific reading.",
+  "observed_blocked_amount": null,
+  "observed_revenue_effect": null,
+  "amount_counted": false,
+  "transaction_counted": false,
+  "financial_flow_total_eligible": false
+}

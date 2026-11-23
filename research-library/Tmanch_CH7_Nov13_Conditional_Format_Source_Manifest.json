@@ -1,0 +1,77 @@
+{
+  "review_date_utc": "2026-11-13",
+  "baseline_commit": "8ed4eeb7832ef325ade670090c527f6267dbe01d",
+  "scope": "Source-only qualification under existing 079/080; no status, ledger, score or financial changes",
+  "sources": [
+    {
+      "source_id": "EUROPE-NOV13-S004",
+      "url": "https://apnews.com/article/russia-ukraine-war-putin-trump-zelenskyy-europe-157d168cb7ff9cae318cbf6cecb3988f",
+      "source_tier": "Original AP publisher HTML reporting named Peskov and Kushner accounts",
+      "acquired_at_utc": "2026-11-13T12:28:44.772331+00:00",
+      "bytes": 878685,
+      "sha256": "47a1b27c316332c6bdcf38ca5e90876c59780820a577b4d6fc480b77d7097724",
+      "artifact_type": "Original HTML bytes retained privately, not published",
+      "jsonld_published": "2026-11-13T12:01:34Z",
+      "jsonld_modified": "2026-11-13T12:01:34Z",
+      "og_modified_without_timezone": "2026-11-13T12:01:57.721",
+      "limits": "AP attribution, not independently acquired Kremlin briefing or Kushner post. Conditional decision versus claimed agreement remains unresolved; no final rejection or executed future round inferred."
+    },
+    {
+      "source_id": "EUROPE-NOV13-S005",
+      "url": "https://audiovisual.ec.europa.eu/en/media/video/I-297766",
+      "source_tier": "Official Commission audiovisual page automatic written transcript inspected via rendered text",
+      "media_date": "2026-11-13",
+      "duration_as_displayed": "08:43",
+      "acquisition_date_utc": "2026-11-13",
+      "exact_acquisition_time_utc": null,
+      "artifacts": [
+        {
+          "artifact": "kallas_selected_auto_transcript.json",
+          "bytes": 2238,
+          "sha256": "d9bb3342e3ec8f55b6df718589dccb2f71ca230f7d366b40f70214356a82c7b4",
+          "artifact_type": "Sanitized selected rendered automatic-transcript lines; derivative, not original HTML"
+        }
+      ],
+      "automatic_transcript_error_warning": true,
+      "video_inspected": false,
+      "original_html_acquired": false,
+      "limits": "Her negotiating position and institutional-role claim, not adopted summit outcome or a newly appointed envoy. Automatic transcript warns of possible errors. Video not inspected. Raw HTML request403 stopped; no raw original artifact claimed."
+    },
+    {
+      "source_id": "EUROPE-NOV13-S006",
+      "url": "https://audiovisual.ec.europa.eu/en/media/video/I-297128",
+      "source_tier": "Official Commission audiovisual page automatic written transcript inspected via rendered text",
+      "media_date": "2026-11-13",
+      "duration_as_displayed": "13:18",
+      "acquisition_date_utc": "2026-11-13",
+      "exact_acquisition_time_utc": null,
+      "artifacts": [
+        {
+          "artifact": "martin_selected_auto_transcript.json",
+          "bytes": 1310,
+          "sha256": "8db2ed1ada55c5052cf984a6532f4468584ea6fd23af96ab1e5375f29720b018",
+          "artifact_type": "Sanitized selected rendered automatic-transcript lines; derivative, not original HTML"
+        }
+      ],
+      "automatic_transcript_error_warning": true,
+      "video_inspected": false,
+      "original_html_acquired": false,
+      "limits": "Arrival-stage statement, not final summit outcome. Timing preference is not an agreed deadline. Video not inspected; automatic transcript errors possible. Raw request403 stopped.",
+      "date_duration_basis": "Official audiovisual index entry and verified click mapping to Martin; not inferred from the truncated transcript",
+      "metadata_artifact": {
+        "artifact": "nov13_martin_index_provenance_derivative.json",
+        "bytes": 8627,
+        "sha256": "d351a1cc7cbc27f842ce15a4d8dc747d533ac80837cde40ff6c5ab5da4d4464e",
+        "artifact_type": "Retained official-index rendering and click-mapping derivative, not raw HTML or video"
+      }
+    }
+  ],
+  "joins": [
+    "J20-2026-079",
+    "CH7-BRUSSELS-RECOVERY-001",
+    "J20-2026-080",
+    "CH7-NOV4-ENVOY-CALL-001"
+  ],
+  "no_raw_archive_published": true,
+  "no_new_event_claim_score_or_financial_flow": true
+}

@@ -78,3 +78,89 @@ These targeted records could close substantive gaps; more name-only litigation m
 ## Bounded DOE proceeding companion (November 12, 2026)
 
 [DOE refund note](doe_refund_note_2026-11-12.md), [non-additive stage observations](doe_refund_observations.csv) and [sanitized original-source provenance](doe_source_manifest_2026-11-12.json) distinguish stages of HEF-0053/RF236-1. They do not identify the DOE firm with DTA/Macchia corporations or add financial-flow totals. Printed discrepancies are retained.
+
+## NYFT/Tunyung source-controlled companion (November 13, 2026)
+
+[Supply, book credits, reported payment and judgment limits](tunyung_note_2026-11-13.md), [typed non-additive observations](tunyung_observations.csv) and [sanitized source manifest](tunyung_source_manifest_2026-11-13.json) add an NYFT customer/account branch without changing existing transactions, relationships, claim scores or totals. The 1988 payment is distinct from the 1983 Lesez/SMI group; corporate and payment-origin joins remain unresolved.
+
+## Meridian import-tax disposition companion (November 13, 2026)
+
+[Bounded note](meridian_note_2026-11-13.md), [typed non-additive observations](meridian_observations.csv) and [sanitized provenance](meridian_source_manifest_2026-11-13.json) separate assessed tax, net adjustments and limited relief from payments. Existing flow rows and correction history are unchanged.
+
+## Separate Westchester/Shore Line later-record appendix (November 13, 2026)
+
+[Note](westchester_shoreline_note_2026-11-13.md), [typed observations](westchester_shoreline_observations.csv) and [source provenance](westchester_shoreline_source_manifest_2026-11-13.json) distinguish CARTS receipts, liabilities, sale consideration and registration outcomes. No new payment-chain edges or totals; all prior records remain unchanged.
+
+## Separate Barrier acquisition/financing comparison (November 13, 2026)
+
+[Note](barrier_note_2026-11-13.md), [typed observations](barrier_observations.csv) and [four-source provenance](barrier_source_manifest_2026-11-13.json) distinguish mixed consideration, an unresolved later sale account, reported debt balances and tax payments. No central counted flows or prior records changed.
+
+## Separate Century / Bridgeport comparison (November 14, 2026)
+
+[Note](century_bridgeport_note_2026-11-14.md), [typed observations](century_bridgeport_observations.csv) and [source provenance](century_bridgeport_source_manifest_2026-11-14.json) separate reported asset consideration, a recorded land conveyance, administrative fee/date discrepancies and a mortgage-release instrument with no established cash amount. Existing flows, Barrier and Westchester rows remain unchanged.
+
+### Century context follow-up (November 14, 2026)
+
+[Installation/index/permit context](century_bridgeport_note_2026-11-14.md#november-14-follow-up-installation-indexed-title-and-scoped-operating-context) adds five amount-blank observations, preserving the distinction between official text, index metadata, consultant narrative and signed permit. No new counted flows or prior-row changes.
+
+### Century price-source refinement (November 14, 2026)
+
+[Dated source refinement](century_bridgeport_note_2026-11-14.md#november-14-price-source-refinement-assessor-record-and-conditional-tax-base-check) adds an assessor-reported $2.78 million and conditional tax-base consistency check for the same deed, not additional cash flows. Earlier deed no-numeric-price observation and all rows are preserved.
+
+### Bridgeport 2006 continuity extension (November 14, 2026)
+
+[Signed transfer and issuer-accounting extension](century_bridgeport_note_2026-11-14.md#november-14-continuity-extension-may-2006-transfer-and-issuer-accounting) links the submitted transfer to prior 2446:116 and preserves approximate early/later acquisition amounts without double counting or seller-proceeds inference. Prior rows remain unchanged.
+
+### Global pre-purchase access and credit context (November 14, 2026)
+
+[Access, framework and period-flow extension](century_bridgeport_note_2026-11-14.md#november-14-access-and-credit-extension-framework-is-not-acquisition-funding) separates CPW access, credit availability and issuer period flows from any proved acquisition funding. Earlier rows and unresolved disclosure versions remain unchanged.
+
+## November 14 DOE account and archival supplement
+
+The [DOE note](doe_refund_note_2026-11-12.md) and [observations](doe_refund_observations.csv) now distinguish Tarricone HEF-0177 commitment components, reported remittance and final refund procedure, later exact Tarricone/Conlo account snapshots, and series-specific NARA limits. These are non-additive administrative observations, not new central flows or corporate-identity joins. Prior records remain intact.
+
+## November 14 claimant-outcome refinement
+
+The [DOE note](doe_refund_note_2026-11-12.md) and [typed observations](doe_refund_observations.csv) append five RF155 claimant dispositions and a separate nonmonetary KEF judgment locator. They explicitly refine the earlier acquisition gap without replacing prior rows. Awards, attributed receipt wording, eligibility and denial remain distinct from independently bank-cleared payment; all counting flags stay false.
+
+## November 14 bounded Conlo bank-item comparison
+
+The [identity note](identity_note_2026-11-12.md) adds case-level plural-name controls and dated registration-source guidance. The separate [bank observations](conlo_bank_observations.csv) distinguish one check face amount, its court-described actual posting and an affirmed discrepancy judgment. They are not additive cash, a corporate merger or a central payment-chain extension.
+
+
+### Bridgeport seller identity (November 14, 2026)
+
+[Seller identity and operating-name refinement](century_bridgeport_note_2026-11-14.md#november-14-seller-identity-extension) distinguishes two same-name CPW corporations, joins officer and operating records to the 2006 property-side seller, and keeps the later same-counterparty retail deal out of terminal amounts and scores. Earlier filing, reporting and funding limits remain unchanged.
+
+
+### Getty equity acquisition and Connecticut distributor context (November 14, 2026)
+
+The [historical sidecar](consumers_getty_note_2026-11-14.md) separates LUKOIL’s completed equity acquisition, Getty Realty’s property/lease boundary, attributed hearing positions, a Connecticut bill not enacted as introduced, and the subsequent tax-distributor listing. [Typed observations](consumers_getty_observations.csv) are excluded from all central financial amounts, contemporary licensing conclusions and beneficiary scores.
+
+
+### Getty reported operating and settlement follow-through (November 14, 2026)
+
+[Historical sidecar extension](consumers_getty_note_2026-11-14.md#november-14-getty-operating-and-settlement-follow-through) adds an attributed single-station operating adaptation, the distinct 2013 estate and 2015 creditor stages, and a separate 2020 net payment. [Typed observations](consumers_getty_observations.csv) distinguish obligations, realized reported receipts, overlaps and missing payer allocations; none enters central aggregates or scores.
+
+
+### Getty restructuring and retained U.S. operating channels (November 14, 2026)
+
+[Historical extension](consumers_getty_note_2026-11-14.md#november-14-getty-restructuring-equity-exit-and-retained-supply-channels) separates affiliate asset consideration and obligations, parent support and planned uses, Cambridge share-sale and target-support terms, and the retained LNA channel. The [typed observations](consumers_getty_observations.csv) do not enter scored events or financial aggregates.
+
+
+### Getty trustee ledgers and Bionol creditor matches (November 14, 2026)
+
+[Cash reconciliation extension](consumers_getty_note_2026-11-14.md#november-14-trustee-ledger-follow-through-and-cash-reconciliation) verifies a post/reversal pair, received-vs-disbursed amounts, and four matched estate-to-estate transfers. For similar cases, match date sequence, amount, direction, legal party and transaction reference before counting; net reversals within the same ledger; reconcile only like-scoped components and preserve unresolved funding and bank-clearance limits. See [typed observations](consumers_getty_observations.csv).
+
+
+### Bridgeport EPA/Corps locator crosswalk (November 14, 2026)
+
+[Facility locator and capacity comparison](century_bridgeport_note_2026-11-14.md#november-14-bridgeport-facility-response-and-navigation-survey-crosswalk) connects the 1993 coastal inventory and 2004 Corps survey. Shared location and capacity scale strengthen operating continuity, not identical assets, legal title or a new transaction. See [typed observations](century_bridgeport_observations.csv).
+
+[Later exact installation ID and property/operation address separation](century_bridgeport_note_2026-11-14.md#later-exact-installation-id-and-distinct-neighboring-terminal) extends the nonmonetary facility crosswalk.
+
+[Separate 250 Eagles Nest terminal](century_bridgeport_note_2026-11-14.md#separate-downstream-terminal-and-transaction-at-250-eagles-nest): distinct agency/issuer terminal and navigation evidence; not a second Global purchase.
+
+[Getty claim-preservation court crosswalk](consumers_getty_note_2026-11-14.md#november-15-judicial-follow-through-on-the-2015-getty-settlement): CH2-P149–150 / EP-CGL68–70 connect the already recorded 2015 reserved-claims clause and later litigation. No amounts or counted flows changed.
+
+[Getty credit, realized imports and export capacity](consumers_getty_note_2026-11-14.md#november-16-source-crosswalk-bank-collateral-acquisition-funding-and-realized-imports): CH2-P151–164 / EP-CGL71–81 separate the U.S. lessor's collateral and repayment, LUKOIL's acquisition funding, EIA-reported imports and OPIC-backed export capacity. Mixed commercial benefits; no joined payment/ship chain or new monetary total.

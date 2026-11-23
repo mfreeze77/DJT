@@ -1,0 +1,916 @@
+{
+  "baseline_commit": "acf03f495a96a53e3898f698fa01b511bba9c77d",
+  "scope": "Separate Century asset acquisition, recorded terminal conveyance, administrative date/fee controls and bounded mortgage release",
+  "sources": [
+    {
+      "source_id": "CH2-P64",
+      "title": "CT DEP Property Transfer Forms bundle",
+      "url": "https://filings.deep.ct.gov/DEEPDocumentSearchPortal/Home/DisplayPDF?DocID={B036CB84-0100-C42C-80D5-DB0453662158}",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T03:32:26.899868+00:00",
+      "bytes": 4617534,
+      "sha256": "209b57a4ca4bf31cb39f097ab6154a546e6e489dbca1a01665394498a54fc397",
+      "original_artifact_type": "official downloaded PDF bytes",
+      "physical_PDF_pages": "3,6-7,9-11",
+      "limits": "Signed filing declarations, agency chronology and later fee form; not actual land price or bank instrument"
+    },
+    {
+      "source_id": "CH2-P65",
+      "title": "Bridgeport recorded warranty deed",
+      "url": "https://i2o.uslandrecords.com/CT/Bridgeport/D/",
+      "session_dependent_viewer_url": "https://i2o.uslandrecords.com/CT/Bridgeport/D/ImageViewerEx.aspx",
+      "observed_date_utc": "2026-11-14",
+      "observation_precision": "date_only",
+      "locator": "Document 1695; Vol2446 pp116-118; 001/02446/116",
+      "access_route": "Recorded Land > Name Search > Business/Last Name CENTURY RESOURCES; PartyType Both; open exact locator; ViewImages",
+      "original_artifact_type": "official original recorded instrument viewed as free watermarked page images",
+      "raw_original_downloaded": false,
+      "raw_original_sha256": null,
+      "review_derivatives": [
+        {
+          "review_artifact": "century-deed-116-bottom.jpg",
+          "bytes": 185741,
+          "sha256": "e72f1cd679de938ba0bca3b4637bcdac07111c70ac42e168dae3ec46b1d922fb",
+          "kind": "browser screenshot or rendered UI text derivative; not raw instrument"
+        },
+        {
+          "review_artifact": "century-deed-116-top.jpg",
+          "bytes": 150800,
+          "sha256": "dd5d1f9b192b6acbd13c318fe5ea8717a09de3b7fd434573b3b55a523a32c667",
+          "kind": "browser screenshot or rendered UI text derivative; not raw instrument"
+        },
+        {
+          "review_artifact": "century-deed-117-execution.jpg",
+          "bytes": 127258,
+          "sha256": "28b4a209a34981b14943e70d316d0ba2c461828b3efe1c44779c0fb2394d8e59",
+          "kind": "browser screenshot or rendered UI text derivative; not raw instrument"
+        },
+        {
+          "review_artifact": "century-deed-117-top.jpg",
+          "bytes": 134795,
+          "sha256": "5c97b63167ab6679330adfab91a80a1ccc070cc41e0be9a836452c12a54ca434",
+          "kind": "browser screenshot or rendered UI text derivative; not raw instrument"
+        },
+        {
+          "review_artifact": "century-deed-118-acknowledgment.jpg",
+          "bytes": 96366,
+          "sha256": "82d2858b15bd7d97f9d8f440c838572b33c7c506dee16ad3129e012f2a72475b",
+          "kind": "browser screenshot or rendered UI text derivative; not raw instrument"
+        },
+        {
+          "review_artifact": "century-deed-118-recorded.jpg",
+          "bytes": 56364,
+          "sha256": "fcf36ffcfd35cec916d95c42d66ee9f1c9ff0c56643885fc95309b3580f6a2ab",
+          "kind": "browser screenshot or rendered UI text derivative; not raw instrument"
+        }
+      ],
+      "limits": "Review captures are not original-instrument bytes or certified copies; no amount inferred from consideration/tax/release language. Earlier referenced mortgage/assignment not inspected."
+    },
+    {
+      "source_id": "CH2-P66",
+      "title": "Bridgeport recorded mortgage release",
+      "url": "https://i2o.uslandrecords.com/CT/Bridgeport/D/",
+      "session_dependent_viewer_url": "https://i2o.uslandrecords.com/CT/Bridgeport/D/ImageViewerEx.aspx",
+      "observed_date_utc": "2026-11-14",
+      "observation_precision": "date_only",
+      "locator": "Document 1693; Vol2446 pp113-114; 001/02446/113",
+      "access_route": "Recorded Land > Name Search > Business/Last Name CENTURY RESOURCES; PartyType Both; open exact locator; ViewImages",
+      "original_artifact_type": "official original recorded instrument viewed as free watermarked page images",
+      "raw_original_downloaded": false,
+      "raw_original_sha256": null,
+      "review_derivatives": [
+        {
+          "review_artifact": "century-release-113-bottom.jpg",
+          "bytes": 120326,
+          "sha256": "abe2b66ddf3edb707555e4e5072fbc6100a5a96f9786c304e33a893195fd763f",
+          "kind": "browser screenshot or rendered UI text derivative; not raw instrument"
+        },
+        {
+          "review_artifact": "century-release-113-index.txt",
+          "bytes": 318,
+          "sha256": "65d38048355f26f1714ab24cca428893a8e5c1082cd1d3f2a75d2a96e5cc8a02",
+          "kind": "browser screenshot or rendered UI text derivative; not raw instrument"
+        },
+        {
+          "review_artifact": "century-release-113-top.jpg",
+          "bytes": 119909,
+          "sha256": "444fc143369699de89298ea50468211bae13d77d5e934617963fa508d2256377",
+          "kind": "browser screenshot or rendered UI text derivative; not raw instrument"
+        },
+        {
+          "review_artifact": "century-release-114-acknowledgment.jpg",
+          "bytes": 109391,
+          "sha256": "613023be538e340719a580c5b08bc6ce54354ba41a299ce4cabcd55ad612d4c7",
+          "kind": "browser screenshot or rendered UI text derivative; not raw instrument"
+        },
+        {
+          "review_artifact": "century-release-114-recorded.jpg",
+          "bytes": 57995,
+          "sha256": "aa9b45f5c2267a04744c0449c6a8ce1cd3bf61138fbbd56e72853cd822a5e3c2",
+          "kind": "browser screenshot or rendered UI text derivative; not raw instrument"
+        }
+      ],
+      "limits": "Review captures are not original-instrument bytes or certified copies; no amount inferred from consideration/tax/release language. Earlier referenced mortgage/assignment not inspected."
+    },
+    {
+      "source_id": "CH2-P62",
+      "url": "https://www.dta.ny.gov/pdf/archive/decisions/807303.dec.pdf",
+      "publication_date": "1991-01-04",
+      "retrieved_utc": "2026-11-13T22:28:59.830435+00:00",
+      "http_status": 200,
+      "bytes": 211322,
+      "sha256": "dc67697f63e9f658be97ff727f0859706f96ecff8372c884f5e3bb2c46be79e6",
+      "original_artifact_type": "official PDF bytes",
+      "original_in_publication": false,
+      "printed_pages_reviewed": "2-3",
+      "reused_existing_source": true
+    },
+    {
+      "source_id": "CH2-P63",
+      "url": "https://www.dta.ny.gov/pdf/archive/determinations/807303.DET.pdf",
+      "publication_date": "1990-05-02",
+      "retrieved_utc": "2026-11-13T22:29:51.432065+00:00",
+      "http_status": 200,
+      "bytes": 187804,
+      "sha256": "76e42ed23e04d79ef9789cec347d92a56870198f1af714972824ef8db3acf1d1",
+      "original_artifact_type": "official PDF bytes",
+      "original_in_publication": false,
+      "printed_pages_reviewed": "2",
+      "reused_existing_source": true
+    },
+    {
+      "source_id": "CH2-P67",
+      "title": "CT REACT DCN-017205 displayed metadata",
+      "url": "https://deep-react.service.ct.gov/s/case/500cs00001Q1xTN/detail",
+      "observed_utc": "2026-11-14T03:37:54.501Z",
+      "original_artifact_type": "official browser-rendered case page",
+      "review_derivative": {
+        "kind": "CUA accessibility-text capture, not original historical filing",
+        "bytes": 10422,
+        "sha256": "de502176a1e5247d4d36ef6b681e911ecf9f90f43e1cab8833e66353539ff226"
+      },
+      "limits": "Current migrated fields only. Date Of Transfer is not independently verified conveyance date; no historic original document bytes represented."
+    },
+    {
+      "source_id": "CH2-P68",
+      "title": "EPA 1980 Region1 notification report, official text rendition",
+      "url": "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=2000KBNF.TXT",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T03:39:47.371569+00:00",
+      "bytes": 1693835,
+      "sha256": "db59a43aa86ca7aaf2b732d466f0135a92cb6bf0f48ea0e53a060a84cbe3b40c",
+      "artifact_type": "official-hosted OCR/text HTML, raw Latin1 response; not original scan",
+      "locator": "Preface; information-format key; HTML page-segment113",
+      "limits": "Notifier-submitted/unverified; exact entry notification date garbled. Original PDF403 stopped; no PDF acquired."
+    },
+    {
+      "source_id": "CH2-P69",
+      "title": "Bridgeport1981 deed index metadata",
+      "url": "https://i2o.uslandrecords.com/CT/Bridgeport/D/",
+      "observed_date": "2026-11-14",
+      "observation_precision": "date_only",
+      "locator": "Document34267;001/01652/932;CENTURY RESOURCES/Both",
+      "artifact_type": "official index UI, not original deed",
+      "review_derivatives": [
+        {
+          "file": "sun-century-1981-index.jpg",
+          "bytes": 135761,
+          "sha256": "8d715b86f8fe05dbd03a71cca0f04b40f5ccd3654ba984c591a8b4f706284a19",
+          "kind": "browser screenshot"
+        },
+        {
+          "file": "sun-century-1981-index.txt",
+          "bytes": 342,
+          "sha256": "7738b7c81181036c02e87b17fbd69a4d15f7e90ece63b0fe15766394bfb432fc",
+          "kind": "rendered UI text"
+        }
+      ],
+      "original_instrument_acquired": false,
+      "original_instrument_sha256": null,
+      "limits": "Zero images; original unavailable. Index field Verified/Certified does not mean certified copy obtained; no price/legal description/parcel equivalence."
+    },
+    {
+      "source_id": "CH2-P70",
+      "title": "CT DEP-hosted Keck assessment with attached NPDES permit",
+      "url": "https://filings.deep.ct.gov/DEEPDocumentSearchPortal/Home/DisplayPDF?DocID={D036CB84-0100-CCAF-B710-6042FA331F74}",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T03:42:33.732586+00:00",
+      "bytes": 5104502,
+      "sha256": "33022f0c6b71c2c22b7c975ebe2b0ab7914bcc31a6ed632e9879cc6df42785ad",
+      "artifact_type": "official-hosted PDF bundle of separately authored documents",
+      "author_tiers": [
+        {
+          "pages": "PDF1,5",
+          "author": "Keck Consulting Services",
+          "date": "1987-12-03",
+          "scope": "attributed pre-purchase/operating/occupancy account"
+        },
+        {
+          "pages": "PDF64-66",
+          "author": "Connecticut DEP",
+          "date": "1986-12-10",
+          "scope": "signed NPDES permit CT0021776"
+        }
+      ],
+      "limits": "Report not agency ownership finding or executed lease; permit not actual compliance/payment. Broader environmental findings outside this supplement."
+    },
+    {
+      "source_id": "CH2-P71",
+      "title": "Recorded Sun Oil boundary/location survey referenced by1988 deed",
+      "url": "https://i2o.uslandrecords.com/CT/Bridgeport/D/",
+      "session_dependent_viewer_url": "https://i2o.uslandrecords.com/CT/Bridgeport/D/ImageViewerEx.aspx",
+      "observed_date": "2026-11-14",
+      "observation_precision": "date_only",
+      "locator": "MapsVol48p15;document77006671;drawing3257;Maps/SUN OIL/Both",
+      "artifact_type": "official recorded original map viewed as free watermarked image",
+      "raw_original_acquired": false,
+      "raw_original_sha256": null,
+      "review_derivatives": [
+        {
+          "file": "sun-map-48-15-index.txt",
+          "bytes": 317,
+          "sha256": "68d3a55f39feb0e84ffce22655ae02fb94d8165cafcaf606732822ca4a4e7086",
+          "kind": "rendered index text"
+        },
+        {
+          "file": "sun-map-search.txt",
+          "bytes": 339,
+          "sha256": "dbc9463367c33052778099e64386fa92ff92226b347a4aadc21937ea2965bf08",
+          "kind": "rendered index text"
+        },
+        {
+          "file": "sun-map48-15-bottom.jpg",
+          "bytes": 120516,
+          "sha256": "205a23ebf69178bb883333c8e376bc94c96d25a8084c059448a05b6a87913ca8",
+          "kind": "browser screenshot of watermarked original map image"
+        },
+        {
+          "file": "sun-map48-15-date.jpg",
+          "bytes": 72386,
+          "sha256": "b335d0a677722496a2b7ef17075e0d62c8d6a80db62c37ca96b09b47af3ff2ca",
+          "kind": "browser screenshot of watermarked original map image"
+        },
+        {
+          "file": "sun-map48-15-overview.jpg",
+          "bytes": 118206,
+          "sha256": "2f94d1895267cdbbb835f33e2d24c1605488332e0ea0379410a5e8a577ed29e0",
+          "kind": "browser screenshot of watermarked original map image"
+        },
+        {
+          "file": "sun-map48-15-title-area.jpg",
+          "bytes": 99553,
+          "sha256": "34b7325b78b397afc948b3382d3be265fbaf9498c1519afa6ada3ca7e5a7b3d6",
+          "kind": "browser screenshot of watermarked original map image"
+        }
+      ],
+      "limits": "Specific match to1988 deed survey reference only; not1981 deed original/terms, full title timeline, price or payment. Screenshot hashes are review derivatives, not raw map hashes."
+    },
+    {
+      "source_id": "CH2-P72",
+      "title": "City-linked Bridgeport assessor parcel4480 ownership history",
+      "url": "https://gis.vgsi.com/cards/BridgeportCTCards//4480.pdf",
+      "city_authority_url": "https://www.bridgeportct.gov/government/departments/tax-assessor/assessments-online",
+      "artifact_type": "official-city-linked vendor parcel HTML and downloadable field-card PDF; modern assessment record",
+      "artifacts": [
+        {
+          "artifact": "official_city_assessments.html",
+          "url": "https://www.bridgeportct.gov/government/departments/tax-assessor/assessments-online",
+          "http_status": 200,
+          "acquired_utc": "2026-11-14T04:23:12.472921+00:00",
+          "bytes": 22778,
+          "sha256": "3857bde973e607f2d78664492b4f17b9a4a52bdd9e771852d9090dc953e5d4a5"
+        },
+        {
+          "artifact": "parcel4480.html",
+          "url": "https://gis.vgsi.com/bridgeportct/Parcel.aspx?pid=4480",
+          "http_status": 200,
+          "acquired_utc": "2026-11-14T04:23:19.121142+00:00",
+          "bytes": 106841,
+          "sha256": "0ab39934b1bae4bd31de1bf3428d000cf38c01eafad010a26e2f75c88c9c1010"
+        },
+        {
+          "artifact": "fieldcard4480.pdf",
+          "url": "https://gis.vgsi.com/cards/BridgeportCTCards//4480.pdf",
+          "http_status": 200,
+          "acquired_utc": "2026-11-14T04:23:16.420992+00:00",
+          "bytes": 132641,
+          "sha256": "28b75733901e5cd51f2631442292ddf5a4d7fb54cdbeaccc42c62540c36de242"
+        }
+      ],
+      "locator": "PDF1;ownership history exact2446/0116 and2446/0119;parcel4480",
+      "limits": "Reported price not contract or bank receipt; underlying tax/assessor lineage unknown;7.98 vs historical8.8 acres unresolved;zero row not proof no consideration."
+    },
+    {
+      "source_id": "CH2-P73",
+      "title": "DRS LSN-98 prior-rate description",
+      "url": "https://portal.ct.gov/DRS/Publications/Legal-Special-Notices/LSN/LSN-98",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T04:21:53.085573+00:00",
+      "bytes": 37358,
+      "sha256": "f8e4efd4364f1905cd92a84c7b62f62f5b647e0c8f70516d38f72021294bdf7a",
+      "artifact_type": "official DRS HTML retrospective description of prior rates",
+      "limits": "Use prior0.45percent and1.10per1000/fraction only;1989 replacement rates do not apply1988;historical tax return/rounding absent."
+    },
+    {
+      "source_id": "CH2-P74",
+      "title": "RCSA12-494-1 full-purchase-price definition",
+      "url": "https://eregulations.ct.gov/eRegsPortal/Browse/getDocument?guid=%7B0E70C7B4-8A62-42DA-9243-6FC81C43545B%7D",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T04:22:00.452916+00:00",
+      "bytes": 19745,
+      "sha256": "c9bd2e201a4f15cfc4a72c5fbf020c63b9a5b8951ca5931578a0d736a4f1d53f",
+      "artifact_type": "official-hosted regulation PDF carrying August24 1987 effective date",
+      "limits": "Current-hosted historical-effective rule, not original1987 paper scan;nonmoney and liability-inclusive base not necessarily cash."
+    },
+    {
+      "source_id": "CH2-P75",
+      "title": "CT DEP 2006 CPW Terminal signed Form III and agency acknowledgment",
+      "url": "https://filings.deep.ct.gov/DEEPDocumentSearchPortal/Home/DisplayPDF?DocID={50EEFB89-0000-C126-A5F2-88535E424B4A}",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T05:34:34.503139+00:00",
+      "bytes": 12024770,
+      "sha256": "83f9d5b3721c1e60d641d001431b245f386cfbc14040579597472cb07df61617",
+      "artifact_type": "official PDF bytes",
+      "physical_PDF_pages": "5,7-11,13",
+      "limits": "Signed submissions and dated administrative acknowledgment; not acquired 2006 deed or bank record. No DEP certification of submitted correctness."
+    },
+    {
+      "source_id": "CH2-P76",
+      "title": "Global Partners 2006 early acquisition disclosure family",
+      "url": "https://www.sec.gov/Archives/edgar/data/1323468/000110465906033565/a06-11681_18k.htm",
+      "artifacts": [
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/1323468/000110465906033565/a06-11681_18k.htm",
+          "http_status": 200,
+          "retrieved_utc": "2026-11-14T05:27:13.479204+00:00",
+          "bytes": 39281,
+          "sha256": "7733142e8bce7dc90fea191be3af4cb2f1f58bdca3d773f2b4e909f8c960e999",
+          "artifact_type": "SEC-hosted original HTML bytes"
+        },
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/1323468/000110465906033565/a06-11681_1ex99d3.htm",
+          "http_status": 200,
+          "retrieved_utc": "2026-11-14T05:27:17.739184+00:00",
+          "bytes": 13132,
+          "sha256": "e7487ba0915e78e29f6262f510fe04a00388f1ad14bc85aadc644f2e0c33fb9c",
+          "artifact_type": "SEC-hosted original HTML bytes"
+        },
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/1323468/000110465906054711/a06-15709_110q.htm",
+          "http_status": 200,
+          "retrieved_utc": "2026-11-14T05:29:08.927516+00:00",
+          "bytes": 886108,
+          "sha256": "d275237a79d712d2414c37bc1573be99a206eb1571c741752acdbab52e15c8c6",
+          "artifact_type": "SEC-hosted original HTML bytes"
+        }
+      ],
+      "locators": "May 11 8-K Item 8.01; May 9 Exhibit 99.3; June 30 quarter 10-Q p.26",
+      "limits": "Early approximate 2.3 million same acquisition; release seller affiliate unnamed; relevant 8-K information furnished not filed; not independent money events."
+    },
+    {
+      "source_id": "CH2-P77",
+      "title": "Global Partners fiscal 2006 annual acquisition and group disclosures",
+      "url": "https://www.sec.gov/Archives/edgar/data/1323468/000110465907020106/a07-6021_210k.htm",
+      "artifacts": [
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/1323468/000110465907020106/a07-6021_210k.htm",
+          "http_status": 200,
+          "retrieved_utc": "2026-11-14T05:26:50.394709+00:00",
+          "bytes": 3009411,
+          "sha256": "083727b8df08cdfc8c440c43bda635e5189bd5a4989b2dccae8d1d83029ef448",
+          "artifact_type": "SEC-hosted original HTML bytes"
+        },
+        {
+          "url": "https://media.corporate-ir.net/media_files/irol/19/190320/glp_2006_ar.pdf",
+          "http_status": 200,
+          "retrieved_utc": "2026-11-14T05:27:20.412672+00:00",
+          "bytes": 2607808,
+          "sha256": "13c52ca92c650e313f8345d06a6691007275747daf099b5afb1e46ad04e462a4",
+          "artifact_type": "official PDF bytes"
+        }
+      ],
+      "locators": "Note 1 F-7; Note 6 F-19; issuer annual PDF pp.107/119",
+      "limits": "Same issuer annual disclosure versions, not independent receipts; separate subsidiaries; 2.4 million includes buyer costs and is not seller proceeds."
+    },
+    {
+      "source_id": "CH2-P78",
+      "title": "Global Partners fiscal 2007 repeated 2006 acquisition account",
+      "url": "https://www.sec.gov/Archives/edgar/data/1323468/000104746908002790/a2183777z10-k.htm",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T05:27:11.305407+00:00",
+      "bytes": 1577897,
+      "sha256": "6a3e07d908f3c8f69063844ed24f0451534002921299bb658c55fb436dd3ff67",
+      "artifact_type": "SEC-hosted original HTML bytes",
+      "locator": "Note 5 Terminal Acquisitions F-21",
+      "limits": "Repeats same 2006 Bridgeport account; do not add neighboring 2007 acquisition table or resolve early 2.3 million discrepancy without evidence."
+    },
+    {
+      "source_id": "CH2-P79",
+      "title": "Global Partners final 2005 prospectus: CPW access",
+      "url": "https://www.sec.gov/Archives/edgar/data/1323468/000104746905023615/a2163408z424b4.htm",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T06:21:31.880372+00:00",
+      "bytes": 2011949,
+      "sha256": "752afe3fbb9c9f50c0480287719dbd4393340fed5e5dc3d9dc219a32b1396fa2",
+      "artifact_type": "SEC-hosted original HTML bytes",
+      "locator": "September 28, 2005 prospectus pp.87,92",
+      "limits": "Pre-purchase access only; throughput/exchange alternatives and As Available do not establish CPW-specific contract terms, title or seller affiliation."
+    },
+    {
+      "source_id": "CH2-P80",
+      "title": "Executed 2005 credit framework and bounded amendments",
+      "url": "https://www.sec.gov/Archives/edgar/data/1323468/000110465905048061/a05-17438_1ex10d8.htm",
+      "artifacts": [
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/1323468/000110465905048061/a05-17438_1ex10d8.htm",
+          "http_status": 200,
+          "retrieved_utc": "2026-11-14T06:22:32.308442+00:00",
+          "bytes": 982142,
+          "sha256": "3d194742203d307f8ab26b081712feb7d220acf2f28f16ff4931bcd290f9eb1e",
+          "artifact_type": "SEC-hosted original HTML bytes"
+        },
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/1323468/000110465905055075/a05-20232_1ex10d1.htm",
+          "http_status": 200,
+          "retrieved_utc": "2026-11-14T06:22:35.944873+00:00",
+          "bytes": 125520,
+          "sha256": "61ada31f40b1d8187c4ce4335688ddfe45b3c82bc3fd161475423ecb49dc7987",
+          "artifact_type": "SEC-hosted original HTML bytes"
+        },
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/1323468/000110465906051092/a06-17158_1ex10d1.htm",
+          "http_status": 200,
+          "retrieved_utc": "2026-11-14T06:22:38.699931+00:00",
+          "bytes": 229490,
+          "sha256": "cb8982a47571ad4c5e44616d51092379a3c5fd0e0add4d012c2418261fd77af6",
+          "artifact_type": "SEC-hosted original HTML bytes"
+        }
+      ],
+      "locators": "Agreement sections 2.1(b),2.2,6.11,7.6; first/second amendments",
+      "limits": "Contract contents, not compliance finding or funded Bridgeport draw. Postclosing amendment schedule not closing funding proof; completed acquisition/loan notices not acquired."
+    },
+    {
+      "source_id": "CH2-P81",
+      "title": "Global Partners first-quarter 2006 subsequent event",
+      "url": "https://www.sec.gov/Archives/edgar/data/1323468/000110465906034912/a06-9928_110q.htm",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T06:21:50.282023+00:00",
+      "bytes": 727713,
+      "sha256": "df25e2e325a5742b5e911595bc71a354dc1060c837c0703bb6aac21a76277150",
+      "artifact_type": "SEC-hosted original HTML bytes",
+      "locator": "Quarter ended March 31, 2006; Note 12 p.14",
+      "limits": "May 8 completion is subsequent event, not March closing or extra transaction."
+    },
+    {
+      "source_id": "CH2-P82",
+      "title": "Global Partners third-quarter 2006 availability and acquisition disclosure",
+      "url": "https://www.sec.gov/Archives/edgar/data/1323468/000110465906074903/a06-22008_110q.htm",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T06:21:52.803085+00:00",
+      "bytes": 887920,
+      "sha256": "d8a9658f0275917a234705b23419e6a015cae534368b384b1786c974d95031f8",
+      "artifact_type": "SEC-hosted original HTML bytes",
+      "locator": "Quarter ended September 30, 2006; Note 6 p.9; MD&A p.26",
+      "limits": "Availability is snapshot, not draw/never-used proof; approximately $2.4m stage does not reconcile earlier $2.3m or create another acquisition."
+    },
+    {
+      "source_id": "CH2-P102",
+      "title": "CT Business Registry business master",
+      "url": "https://data.ct.gov/d/n7gp-d28j",
+      "retrieval_url": "https://data.ct.gov/resource/n7gp-d28j.json?%24select=id%2Cname%2Cstatus%2Caccountnumber%2Cbillingstreet%2Cbillingcity%2Cbillingpostalcode%2Cdate_registration%2Cdissolution_date%2Cmailing_address&%24where=accountnumber+in+%28%270038199%27%2C%270112023%27%2C%270210038%27%2C%270087667%27%29&%24order=accountnumber",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T13:37:39.465290+00:00",
+      "bytes": 1458,
+      "sha256": "3a9fdf70bcf432a13df4943bd57b97b4db6b77d5ece842b2a13f77f34571c692",
+      "original_artifact_type": "official filtered CT registry dataset response",
+      "locator": "CT IDs 0038199, 0112023, 0210038, 0087667",
+      "limits": "Dated registration/dissolution and observed index fields, not certified instruments, contemporaneous ownership or historical office terms. Do not use import date as event date."
+    },
+    {
+      "source_id": "CH2-P103",
+      "title": "CT Business Registry name history",
+      "url": "https://data.ct.gov/d/enwv-52we",
+      "retrieval_url": "https://data.ct.gov/resource/enwv-52we.json?%24where=unique_key+in+%28%27001t000000hjcNuAAI%27%2C%27001t000000XgC2tAAF%27%2C%27001t000000WmVaYAAV%27%2C%27001t000000XfvTTAAZ%27%29&%24limit=1000&%24order=unique_key%2Cname_change_date",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T13:34:51.363859+00:00",
+      "bytes": 572,
+      "sha256": "e9a95a0ebc8dc6d6f62f32558c786d1fde8f773d38ffd9d39c5da6aaf7103f36",
+      "original_artifact_type": "official filtered CT registry dataset response",
+      "locator": "Rows joined to CT IDs 0038199, 0112023, 0087667 via the master key",
+      "limits": "Explicit old/new name and change dates; not amendment body, merger, transfer, or successor determination."
+    },
+    {
+      "source_id": "CH2-P104",
+      "title": "CT Business Registry filing history",
+      "url": "https://data.ct.gov/d/ah3s-bes7",
+      "retrieval_url": "https://data.ct.gov/resource/ah3s-bes7.json?%24where=account+in+%28%27001t000000hjcNuAAI%27%2C%27001t000000XgC2tAAF%27%2C%27001t000000WmVaYAAV%27%2C%27001t000000XfvTTAAZ%27%29&%24limit=2000&%24order=account%2Cfiling_date",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T13:34:41.212313+00:00",
+      "bytes": 25787,
+      "sha256": "c95b8f5d012c16be0d4b3223408cf257aa0220b84714f570dd83b6d5c129ce58",
+      "original_artifact_type": "official filtered CT registry dataset response",
+      "locator": "0001930280; 0001930919; 0000112001; 0003360352; 0003360354",
+      "limits": "Indexed locator and type, not underlying instruments, asset transfers or winding-up distribution."
+    },
+    {
+      "source_id": "CH2-P105",
+      "title": "CT Business Registry principals",
+      "url": "https://data.ct.gov/d/ka36-64k6",
+      "retrieval_url": "https://data.ct.gov/resource/ka36-64k6.json?%24select=business_id%2Cname__c%2Cfirstname%2Cmiddlename%2Clastname%2Cdesignation%2Cbusiness_city%2Cbusiness_state%2Ccreate_dt&%24where=business_id+in+%28%27001t000000hjcNuAAI%27%2C%27001t000000XgC2tAAF%27%2C%27001t000000WmVaYAAV%27%2C%27001t000000XfvTTAAZ%27%29&%24limit=1000",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T13:34:41.075781+00:00",
+      "bytes": 1868,
+      "sha256": "5d4b42c19c9030b8a198db313bb3652605d10d8ac74a1fccfb02b3afcd2b1b5f",
+      "original_artifact_type": "official filtered CT registry dataset response",
+      "locator": "Richard V. Wiehl entries joined to the four distinct business IDs",
+      "limits": "Historical CPW and BMT entries omit designation; identical name does not establish title, ownership percentage or term. Snapshot/import timestamps are not dates of service."
+    },
+    {
+      "source_id": "CH2-P106",
+      "title": "2000 CT DRS quarterly distributor bulletin",
+      "url": "https://portal.ct.gov/drs/publications/announcements/2000/an-2000-2-3",
+      "retrieval_url": "https://portal.ct.gov/drs/publications/announcements/2000/an-2000-2-3",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T13:37:16.820949+00:00",
+      "bytes": 44669,
+      "sha256": "80bdf3f85dc6cb0bdb039e688f189c3291951bf987e59b46e1ecf087c81f81d3",
+      "original_artifact_type": "official downloaded HTML",
+      "locator": "AN 2000(2.3), new and former motor-vehicle-fuel distributor headings and two Bridgeport lines",
+      "limits": "Limited fuel category excluding gasohol, diesel, propane and natural gas. Separate public agency corroboration of operating name/address; no ownership, consideration or proof of licensing process cause."
+    },
+    {
+      "source_id": "CH2-P107",
+      "title": "2006 CT DRS quarterly distributor bulletin",
+      "url": "https://portal.ct.gov/-/media/DRS/Publications/pubsan/2006/AN-200633.pdf?la=en",
+      "retrieval_url": "https://portal.ct.gov/-/media/DRS/Publications/pubsan/2006/AN-200633.pdf?la=en",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T13:37:17.144144+00:00",
+      "bytes": 133188,
+      "sha256": "b490e65f5b2be073075ec9153cac9f56b9fae1b8d88ee1c0308815548f16a34e",
+      "original_artifact_type": "official downloaded PDF",
+      "locator": "AN 2006(3.3), Former Motor Vehicle Fuels Distributors, CPW row",
+      "limits": "License status for named category as reported, not cessation of all business, reason, corporate dissolution or sale."
+    },
+    {
+      "source_id": "CH2-P108",
+      "title": "March 7 2011 CT Environment Committee hearing",
+      "url": "https://prdext2.cga.ct.gov/2011/envdata/chr/2011ENV00307-R001100-CHR.htm",
+      "retrieval_url": "https://prdext2.cga.ct.gov/2011/envdata/chr/2011ENV00307-R001100-CHR.htm",
+      "http_status": 200,
+      "retrieved_utc": null,
+      "bytes": 581205,
+      "sha256": "4660c83f497b5eac4d27dbdc77b1268b4919f91fd4294c4738bab3a9657d7640",
+      "original_artifact_type": "official legislature mirror HTML",
+      "locator": "Rich Wiehl opening statement on S.B. 1113",
+      "limits": "Self-described presidency and family business, not a share register or representation about the 2006 sale."
+    },
+    {
+      "source_id": "CH2-P109",
+      "title": "Global signed December 9 2020 retail asset agreement",
+      "url": "https://www.sec.gov/Archives/edgar/data/1323468/000110465922009711/tm224849d1_ex2-1.htm",
+      "retrieval_url": "https://www.sec.gov/Archives/edgar/data/1323468/000110465922009711/tm224849d1_ex2-1.htm",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T13:32:32.803907+00:00",
+      "bytes": 443604,
+      "sha256": "57b0a11dceac7d787992beced24d5dafd884b7d3a12070789263852b82e0083a",
+      "original_artifact_type": "official SEC exhibit HTML",
+      "locator": "Heading and signature page after printed p.57; schedule list",
+      "limits": "Dated signatory capacities, not the May 2006 terminal contract. Schedules and exhibits omitted in public filing."
+    },
+    {
+      "source_id": "CH2-P110",
+      "title": "FTC final Global and Wiehl order",
+      "url": "https://www.ftc.gov/system/files/documents/cases/final_global_wiehl_order.pdf",
+      "retrieval_url": "https://www.ftc.gov/system/files/documents/cases/final_global_wiehl_order.pdf",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T13:37:18.847439+00:00",
+      "bytes": 244957,
+      "sha256": "31e4f8c4fda64faa2096dce2a8e0a19a295d001772b9ad94bb7e7b41b0d4f028",
+      "original_artifact_type": "official downloaded decision PDF",
+      "locator": "Definitions I.B, PDF p.2",
+      "limits": "Controlled affiliates as defined for the order, not a finding of 2006 BMT ownership or wrongdoing in the terminal acquisition."
+    },
+    {
+      "source_id": "CH2-P111",
+      "title": "Global January 2022 closing 8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1323468/000110465922009711/tm224849d1_8k.htm",
+      "retrieval_url": "https://www.sec.gov/Archives/edgar/data/1323468/000110465922009711/tm224849d1_8k.htm",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T13:37:15.524628+00:00",
+      "bytes": 33263,
+      "sha256": "b42d613f1a427a3da1854351af381874fbc074544bc3f8264666ba99b1744623",
+      "original_artifact_type": "official SEC issuer filing HTML",
+      "locator": "Item 2.01, January 25 closing, seller group, initial price and funding",
+      "limits": "Separate retail acquisition. Early approximate price subject to adjustment; no allocation to any individual seller."
+    },
+    {
+      "source_id": "CH2-P112",
+      "title": "Global FY2023 Note 3 acquisition accounting",
+      "url": "https://www.sec.gov/Archives/edgar/data/1323468/000155837024002047/R10.htm",
+      "retrieval_url": "https://www.sec.gov/Archives/edgar/data/1323468/000155837024002047/R10.htm",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T13:37:15.427524+00:00",
+      "bytes": 61763,
+      "sha256": "f4317eb843568ab4d90c22cea268209801108b6e208dc5b0c82ceb32a062f159",
+      "original_artifact_type": "official SEC structured financial note HTML",
+      "locator": "Consumers Petroleum subsection, Jan. 25 2022 and approximately USD 154.7m including inventory",
+      "limits": "Later version of same separate retail deal; not added to early USD 151m or any terminal amount. No verified personal net receipt."
+    },
+    {
+      "source_id": "CH2-P113",
+      "title": "1998 CT DRS annual distributor list",
+      "url": "https://portal.ct.gov/drs/publications/announcements/1998/an-98-1",
+      "retrieval_url": "https://portal.ct.gov/drs/publications/announcements/1998/an-98-1",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T13:41:25.693868+00:00",
+      "bytes": 247503,
+      "sha256": "c36d09aa22f146009160b25ba71cd5c9b7828e50e2afc6c0bc1350fdbc3ab617",
+      "original_artifact_type": "official downloaded HTML",
+      "locator": "AN 98(1), February 1 1998 entries for R H Holcomb and Consumers Petroleum of Connecticut",
+      "limits": "Both printed at 400 Eagles Nest Road in different categories. Does not identify a corporate ID, payment, ownership or a shared license."
+    },
+    {
+      "source_id": "CH2-P114",
+      "title": "2002 CT DRS annual distributor list",
+      "url": "https://portal.ct.gov/drs/publications/announcements/2002/an-2002-1",
+      "retrieval_url": "https://portal.ct.gov/drs/publications/announcements/2002/an-2002-1",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T13:41:31.457727+00:00",
+      "bytes": 460875,
+      "sha256": "5817aec7bdedc0178e3973e8df1307961f99a27b606405c8a8e9a07440eb155e",
+      "original_artifact_type": "official downloaded HTML",
+      "locator": "AN 2002(1), January 1 2002 entries for CPW and Consumers Petroleum of Connecticut",
+      "limits": "Both printed at 400 Eagles Nest Road in different categories. Not a common account, supply contract, ownership, or payment evidence."
+    },
+    {
+      "source_id": "CH2-P115",
+      "title": "CT Business Records Search displayed Bridgeport Marine Terminals officer and agent fields",
+      "url": "https://service.ct.gov/business/s/onlinebusinesssearch",
+      "observed_date_utc": "2026-11-14",
+      "observation_precision": "date_only",
+      "locator": "Search Business ALEI 0210038, Principal Details and Agent details",
+      "original_artifact_type": "official registry display inspected; retained accessibility-tree derivative, not raw underlying filing",
+      "raw_original_downloaded": false,
+      "raw_original_sha256": null,
+      "review_derivatives": [
+        {
+          "bytes": 19721,
+          "sha256": "dd3a9b7379163dcba7f8a28cca9fb39c609a3008e6db2076763df52a422ca29d",
+          "kind": "official UI capture derivative; contents not published"
+        }
+      ],
+      "limits": "Presentation snapshot with no dates of officer service; agent business-address label starts with Consumers Petroleum wording, not ownership or a current business-location claim. No residential/contact fields reproduced."
+    },
+    {
+      "url": "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=9101NT1R.txt",
+      "bytes": 183558,
+      "sha256": "091eec6a5d4ecbaf2e6536b9e94eaedd9123b664678d0bdc203e98b51b86e54a",
+      "http_status": 200,
+      "retrieved_utc": "2026-11-14T16:32:55.564741+00:00",
+      "source_id": "CH2-P139",
+      "title": "EPA Region I Inland Area Contingency Plan, vol. II",
+      "source_date": "1993-12-17",
+      "locator": "Printed pp.66–67 and 70–71; Section VII FRP01A0036 and distinct FRP01A0033",
+      "original_artifact_type": "official NEPIS searchable HTML/OCR served at .txt URL",
+      "limits": "Primary EPA inventory and numbered submitted-FRP locator, not plan body, approval, actual storage, asset title or financing. Coastal inventory classification is not Inland ACP coverage."
+    },
+    {
+      "url": "https://usace.contentdm.oclc.org/digital/api/collection/p16021coll2/id/3199/download",
+      "bytes": 429910,
+      "sha256": "2cfc15c2e6c63e2e4a52515d375861c8affe8ea4fc707ba9846812d60260d3eb",
+      "http_status": 200,
+      "source_id": "CH2-P140",
+      "title": "U.S. Army Corps Port Series No. 04, 2004 survey",
+      "source_date": "2004",
+      "date_meaning": "last_survey_year_of_relevant_facility_not_publication_date",
+      "locator": "Printed p.34 / physical PDF p.35; PWD 140, waterway 01685, dock 300",
+      "original_artifact_type": "official USACE CONTENTdm original PDF",
+      "acquired_date_utc": "2026-11-14",
+      "limits": "USACE owner/operator survey labels, not recorded title or corporate identity. No 1983 survey holdings/content asserted. Capacity metadata is not certified same tank set or inventory."
+    },
+    {
+      "source_id": "CH2-P141",
+      "title": "Bridgeport History Center exhibit caption and archived oil-tank photo",
+      "url": "https://www.bridgeporthistory.org/exhibit?decade=1900",
+      "source_date": "1978",
+      "date_meaning": "caption_attributed_scene_year_not_exhibit_publication",
+      "locator": "Exhibit item Oil tanks, Bridgeport, 1978 and linked JPEG",
+      "original_artifact_type": "official exhibit HTML and linked archival photograph derivative",
+      "acquired_date_utc": "2026-11-14",
+      "bytes": 799512,
+      "sha256": "ed5a84e034532de49cc6807c401460f8afb0319f5ee9270d7335212587e1b3bc",
+      "linked_image": {
+        "url": "https://www.bridgeporthistory.org/getattachment/75fc6489-fe41-42b0-abeb-8a5f5b857e2c/Hi-Ho.aspx",
+        "bytes": 642858,
+        "sha256": "902dd9488a24f120db03d186d1d364ab00c2e92d85a46ee4b5616674332133d8"
+      },
+      "limits": "Creator/date/location attribution from modern exhibit caption, not photo evidence of exact address, title, employer, legal entity or financing. No media republished."
+    },
+    {
+      "source_id": "CH2-P142",
+      "title": "EPA RCRARRep Handler List, report run April9 2013 12:16PM",
+      "url": "https://downloads.regulations.gov/EPA-HQ-RCRA-2012-0121-0052/content.pdf",
+      "source_date": "2013-04-09",
+      "locator": "printed86 and125 in cached rendition; physical pagination unverified",
+      "original_artifact_type": "cached web-reader text derivative, not original PDF",
+      "original_bytes_acquired": false,
+      "acquired_date_utc": "2026-11-14",
+      "bytes": 18555,
+      "sha256": "b35a332a949eec6129e676d617adc9dfd989c07930572325f07d84ea9c137fec",
+      "limits": "Direct GET403; no retry, original byte/page-image unavailable. Do not claim visual inspection or PDF hash."
+    },
+    {
+      "source_id": "CH2-P143",
+      "title": "Bridgeport Board of Assessment Appeals2021 minutes/list bundle",
+      "url": "https://www.bridgeportct.gov/sites/default/files/2024-04/FINANCE_TA_BAA%2020210500.pdf",
+      "source_date": "2021",
+      "locator": "physicalPDF8 owner/parcel row; physicalPDF1 May10 minutes",
+      "original_artifact_type": "official PDF bytes",
+      "original_bytes_acquired": true,
+      "acquired_date_utc": "2026-11-14",
+      "bytes": 2774468,
+      "sha256": "f6d7913c7e6e54f9a870782e773168a2be7ed7bb8b13825c2d9b90a1d4495026",
+      "limits": "Source spells EAGLES NECK; administrative label not current title or cash.",
+      "provenance": {
+        "requested_url": "https://www.bridgeportct.gov/sites/default/files/2024-04/FINANCE_TA_BAA%2020210500.pdf",
+        "retrieved_utc": "2026-11-14T19:22:17.175481+00:00",
+        "status": 200,
+        "final_url": "https://www.bridgeportct.gov/sites/default/files/2024-04/FINANCE_TA_BAA%2020210500.pdf",
+        "content_type": "application/pdf",
+        "bytes": 2774468,
+        "sha256": "f6d7913c7e6e54f9a870782e773168a2be7ed7bb8b13825c2d9b90a1d4495026"
+      }
+    },
+    {
+      "source_id": "CH2-P144",
+      "title": "Global Bridgeport current terminal page",
+      "url": "https://www.globalp.com/where-we-are/all-terminals/global-bridgeport",
+      "source_date": null,
+      "locator": "Location, Current Products, Methods of Supply",
+      "original_artifact_type": "cached web-reader text derivative; raw HTML403",
+      "original_bytes_acquired": false,
+      "acquired_date_utc": "2026-11-14",
+      "bytes": 22284,
+      "sha256": "dd02c17fc87a12bbb8f8b24cc180a886fd854857a8193ff7be02b5120eeeed1f",
+      "limits": "Operator self-description; no underlying publication date, title record, quantities or origins. No raw HTML hash claimed."
+    },
+    {
+      "source_id": "CH2-P145",
+      "title": "Connecticut DEEP PFAS-Containing Firefighting Foam Ban / historical extensions",
+      "url": "https://portal.ct.gov/DEEP/Remediation--Site-Clean-Up/PFAS-Task-Force/Extension-of-Class-B-PFAS-Firefighting-Foam-Use",
+      "source_date": null,
+      "locator": "Approved AFFF Use Extensions: Licensed Marine Terminals; immediately preceding expiration/status explanation",
+      "original_artifact_type": "official HTML bytes",
+      "original_bytes_acquired": true,
+      "acquired_date_utc": "2026-11-14",
+      "bytes": 73683,
+      "sha256": "d19bb68ed92128935d3308f3253a6764fa2ffa346b331dbddf1f87d014d14c16",
+      "limits": "All extensions expired October1 2023; Complete is facility-reported transition, not current permit/compliance judgment.",
+      "provenance": {
+        "requested_url": "https://portal.ct.gov/DEEP/Remediation--Site-Clean-Up/PFAS-Task-Force/Extension-of-Class-B-PFAS-Firefighting-Foam-Use",
+        "retrieved_utc": "2026-11-14T19:22:54.131912+00:00",
+        "status": 200,
+        "final_url": "https://portal.ct.gov/DEEP/Remediation--Site-Clean-Up/PFAS-Task-Force/Extension-of-Class-B-PFAS-Firefighting-Foam-Use",
+        "bytes": 73683,
+        "sha256": "d19bb68ed92128935d3308f3253a6764fa2ffa346b331dbddf1f87d014d14c16"
+      }
+    },
+    {
+      "source_id": "CH2-P146",
+      "title": "IRS Terminal Control Numbers Database, acquired November14 2026",
+      "url": "https://www.irs.gov/pub/irs-sbse/tcn-db.pdf",
+      "source_date": null,
+      "locator": "physicalPDF2, both exact TCN rows",
+      "original_artifact_type": "official PDF bytes acquired by parent; independently hash/text/image checked",
+      "original_bytes_acquired": true,
+      "acquired_date_utc": "2026-11-14",
+      "bytes": 636302,
+      "sha256": "ed551a417e4c434eb02be9fb12f69be2ff0a21a14e8ce854e48e4bfa0833c7d2",
+      "limits": "No cached August30 date/pagination applied. TCN is terminal listing not cash or title.",
+      "pdf_metadata_dates": "CreationDate2026-11-09; ModDate2026-11-09, not record effective dates"
+    },
+    {
+      "source_id": "CH2-P147",
+      "title": "U.S. Army Corps Bridgeport and Black Rock Harbors draft navigation study",
+      "url": "https://www.nae.usace.army.mil/Portals/74/Bridgeport%20and%20Black%20Rock%20DRAFT%20DMMP-EA%20FONSI%20MAR%2026_Combined.pdf",
+      "source_date": "2026-03",
+      "date_meaning": "draft_cover_month_not_final_authorization",
+      "locator": "Appendix C, Draft Economic Analysis, printed pp.3–4, narrative and Table 1",
+      "original_artifact_type": "retained web-tool text extraction from official USACE PDF; original download HTTP403",
+      "original_bytes_acquired": false,
+      "acquired_date_utc": "2026-11-14",
+      "bytes": 49461,
+      "sha256": "498a97eeef38524fe82217b43ba99734c2b9833acfb1b0c1eab8b6d2e98773a1",
+      "limits": "Draft distinguishes upstream Global barge receipts of heating oil and diesel from Sprague and Harborview at the creek entrance; actual tonnage by operator, cargo provenance, costs, contracts and final dredging decision not established."
+    },
+    {
+      "source_id": "CH2-P148",
+      "title": "Sprague issuer-filed form of credit agreement, exhibit 10.1",
+      "url": "https://www.sec.gov/Archives/edgar/data/1525287/000119312513375119/d552047dex101.htm",
+      "source_date": "2013",
+      "date_meaning": "issuer_filing_year; underlying_PSA_dated_2013-07-30",
+      "locator": "Definitions: Motiva Bridgeport Acquisition; Schedule 5.1(f) §II",
+      "original_artifact_type": "SEC Archives original issuer-filed HTML exhibit",
+      "original_bytes_acquired": true,
+      "acquired_date_utc": "2026-11-14",
+      "bytes": 3115971,
+      "sha256": "e6f04794b0e3a6ebc372cb7864c19851ddf7d66580f87dddfea2da123df09f2a",
+      "limits": "Credit agreement form has blank day in October cover. It describes a distinct completed Motiva acquisition under a July 30 PSA, but is not the underlying PSA, inventory or settlement; it does not establish separate closing date, price, lender funding or payment."
+    }
+  ],
+  "publication_artifacts": "No source archives, raw headers or screenshots published. Screenshot hashes below identify review derivatives only, never original instrument bytes.",
+  "append_only_supplements": [
+    {
+      "baseline_commit": "04763a13e0c86722a9a1429a52f2d6c250e240ec",
+      "source_ids": [
+        "CH2-P68",
+        "CH2-P69",
+        "CH2-P70",
+        "CH2-P71"
+      ],
+      "reused_source_page": "CH2-P64 PDF9 installation identifier/contact; original record unchanged"
+    },
+    {
+      "baseline_commit": "a1208df7ae0d039957100f76c6a59715ce9a1589",
+      "source_ids": [
+        "CH2-P72",
+        "CH2-P73",
+        "CH2-P74"
+      ],
+      "refinement": "Assessor price and conditional same-conveyance tax-base check; prior deed no-numeric-price observation preserved"
+    },
+    {
+      "baseline_commit": "0108bc650332e6a7f873aefd3b363dada942ecda",
+      "source_ids": [
+        "CH2-P75",
+        "CH2-P76",
+        "CH2-P77",
+        "CH2-P78"
+      ],
+      "refinement": "2006 signed transfer continuity and non-additive issuer accounting; prior rows unchanged"
+    },
+    {
+      "baseline_commit": "c9033f626587ddd916b0976f964c5b67f6527f56",
+      "source_ids": [
+        "CH2-P79",
+        "CH2-P80",
+        "CH2-P81",
+        "CH2-P82"
+      ],
+      "reused_source": "CH2-P76 Q2 original, cash-flow statement p.3; existing source record unchanged",
+      "refinement": "Pre-purchase access and credit/period-flow distinctions, not funded-deal proof"
+    },
+    {
+      "baseline_commit": "875062601640a50aefde0a4407a206e4ab1c0c82",
+      "source_ids": [
+        "CH2-P102",
+        "CH2-P103",
+        "CH2-P104",
+        "CH2-P105",
+        "CH2-P106",
+        "CH2-P107",
+        "CH2-P108",
+        "CH2-P109",
+        "CH2-P110",
+        "CH2-P111",
+        "CH2-P112",
+        "CH2-P113",
+        "CH2-P114",
+        "CH2-P115"
+      ],
+      "reused_sources": "CH2-P75 physical pp.7,10,117; CH2-P76 Item 8.01",
+      "refinement": "Separate like-named domestic stock entities, dated roles and independent same-category DRS record. Reported 2022 retail acquisition is expressly excluded from 2006 amounts."
+    },
+    {
+      "baseline_commit": "158cdbef5ce1c3de8d6e1d9e5b8c2939ea1d2359",
+      "source_ids": [
+        "CH2-P139",
+        "CH2-P140",
+        "CH2-P141"
+      ],
+      "observation_range": "EP-CEN39–43",
+      "refinement": "Operational/context crosswalk, no legal identity, proved plan approval, or monetary rows."
+    },
+    {
+      "baseline_commit": "158cdbef5ce1c3de8d6e1d9e5b8c2939ea1d2359",
+      "source_ids": [
+        "CH2-P142",
+        "CH2-P143",
+        "CH2-P144",
+        "CH2-P145",
+        "CH2-P146"
+      ],
+      "observation_range": "EP-CEN44–48",
+      "refinement": "Exact site ID continuity, address classes and adjacent-terminal negative control; no money."
+    },
+    {
+      "baseline_commit": "158cdbef5ce1c3de8d6e1d9e5b8c2939ea1d2359",
+      "source_ids": [
+        "CH2-P147",
+        "CH2-P148"
+      ],
+      "observation_range": "EP-CEN49–50",
+      "refinement": "Draft Corps location distinctions and issuer-documented adjacent property; no money."
+    }
+  ]
+}

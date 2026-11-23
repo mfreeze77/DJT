@@ -1,0 +1,42 @@
+{
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/content/pkg/FR-1985-02-05/pdf/FR-1985-02-05.pdf",
+      "retrieved_utc": "2026-11-13T00:33:07.976510+00:00",
+      "status": 200,
+      "bytes": 17991421,
+      "sha256": "ad2f76b32198cdfed6a421a5b09745789497e46b787be7fae906208b48f5718a",
+      "printed_locator": "50 FR 4963,4965",
+      "visually_inspected_physical_pages": [
+        13,
+        15
+      ],
+      "artifact_type": "original official issue PDF bytes",
+      "render_and_text_type": "derivatives",
+      "amount_counted": false,
+      "transaction_counted": false,
+      "bank_cleared_payment_verified": false,
+      "source_id": "CH2-P51"
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/FR-1986-03-10/pdf/FR-1986-03-10.pdf",
+      "retrieved_utc": "2026-11-13T00:33:07.977148+00:00",
+      "status": 200,
+      "bytes": 34390873,
+      "sha256": "3ab904cc2f8719bb13ac939a7ea21e7615e257c190dbd8e722c645a361a9890d",
+      "printed_locator": "51 FR 8236",
+      "visually_inspected_physical_pages": [
+        62
+      ],
+      "artifact_type": "original official issue PDF bytes",
+      "render_and_text_type": "derivatives",
+      "amount_counted": false,
+      "transaction_counted": false,
+      "bank_cleared_payment_verified": false,
+      "source_id": "CH2-P52"
+    }
+  ],
+  "scope": "Two administrative chronology records, not new money flows",
+  "source_ids_assigned": true,
+  "identity_limits": "Appendix B has no HEF, consent date or corporate identifier; same-name/locality/agency chronology is correlation only. RF236-1 directly joins the already recorded application/award proceeding, not a corporate owner or bank payment."
+}

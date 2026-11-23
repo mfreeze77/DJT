@@ -1,0 +1,110 @@
+{
+  "review_date_utc": "2026-11-12",
+  "baseline_commit": "72b87d8ba544bf863c438ad016f76c6eed72e2a0",
+  "scope": "Existing 079/080 held-meeting advancement only; source publication and event dates separate; no new event, claim, score or financial flow.",
+  "prior_current_statuses": {
+    "J20-2026-079": "Original Brussels talks retained; Moscow meeting start officially reported; completion, terms and release unresolved",
+    "J20-2026-080": "Original call retained; Moscow meeting start officially reported; completion, terms and release unresolved",
+    "CH7-BRUSSELS-RECOVERY-001": "Original Brussels talks retained; Moscow meeting start officially reported; completion, terms and release unresolved",
+    "CH7-NOV4-ENVOY-CALL-001": "Original call retained; Moscow meeting start officially reported; completion, terms and release unresolved"
+  },
+  "sources": [
+    {
+      "source_ids": [
+        "MOSCOW-NOV12-S001"
+      ],
+      "url": "https://apnews.com/article/russia-ukraine-war-putin-kushner-witkoff-683810203340077f33611fd1d1757b23",
+      "source_class": "Original AP reporting, later snapshot of existing article",
+      "http_status": 200,
+      "acquired_at_utc": "2026-11-12T23:21:12.619517+00:00",
+      "json_ld_published": "2026-11-12T07:08:26Z",
+      "json_ld_modified": "2026-11-12T23:10:09Z",
+      "open_graph_modified": "2026-11-12T23:10:31.803",
+      "open_graph_timezone": null,
+      "artifacts": [
+        {
+          "artifact": "ap_nov12_late_meetings_original.html",
+          "artifact_type": "Original publisher HTML; only relevant diplomacy body inspected for this append",
+          "bytes": 1043200,
+          "sha256": "9e856ba1d47660efce3f8fe2fb05db981b65578bbced7ae4f5a61be507d10439"
+        }
+      ],
+      "limits": "Held Moscow and Dublin meetings reported for November 12. Future European role attributed to Witkoff/Zelenskyy; no executed future participation, finalized format, accepted settlement or actual release. Same article family; earlier snapshots preserved."
+    },
+    {
+      "source_ids": [
+        "MOSCOW-NOV12-S003"
+      ],
+      "url": "https://t.me/news_kremlin/8337",
+      "source_class": "Official written post-meeting caption in selected rendered response",
+      "displayed_time": "edited 17:38",
+      "post_calendar_date_metadata": null,
+      "post_timezone": null,
+      "acquisition_date_utc": "2026-11-12",
+      "artifacts": [
+        {
+          "artifact": "nov12_completed_meetings_sanitized_channel_packet.json",
+          "artifact_type": "Sanitized exact selected caption lines and clicked-permalink mappings from retained web responses; derivative, not original Telegram HTML",
+          "bytes": 4475,
+          "sha256": "5453407f0fe3984c7168a23dee61c098e8201a990d4ae07e2b8b1840c6890fc9"
+        }
+      ],
+      "inspection": "Written post-meeting caption only. Attached 8:31 video uninspected; linked Kremlin webpage unacquired.",
+      "limits": "Official completion-account context only, not substantive briefing content. Dated AP provides visit calendar context; displayed time not converted."
+    },
+    {
+      "source_ids": [
+        "DUBLIN-NOV12-S001"
+      ],
+      "url": "https://www.president.gov.ua/en/news/volodimir-zelenskij-obgovoriv-zi-stivenom-vitkoffom-i-dzhare-107325",
+      "companion_url": "https://t.me/V_Zelenskiy_official/21811",
+      "source_class": "Original Ukrainian presidency readout and same-source-family written Telegram post",
+      "http_status": 200,
+      "acquired_at_utc": "2026-11-12T23:24:52.442927+00:00",
+      "displayed_publication": "2026-11-13 01:03",
+      "displayed_timezone": null,
+      "open_graph_updated_epoch": 1794525233,
+      "open_graph_updated_utc": "2026-11-12T23:13:53Z",
+      "telegram_displayed_time": "22:52",
+      "telegram_date_timezone": null,
+      "artifacts": [
+        {
+          "artifact": "presidency_nov13_dublin_readout_original.html",
+          "artifact_type": "Original official HTML response bytes, retained locally, not published",
+          "bytes": 343615,
+          "sha256": "7c450c209da2ab3511832901aa8e3afdc944b70a02ed340c45a40305debc4319"
+        }
+      ],
+      "companion_artifact": "nov12_completed_meetings_sanitized_channel_packet.json",
+      "limits": "Held Dublin meeting confirmed; November 12 event context from dated AP. Prospective release, European equality ambition and further meetings are not actual release, final count/date or binding guarantees. Update epoch is not publication/meeting time. Same source family; no audiovisual inspection."
+    },
+    {
+      "source_ids": [
+        "DUBLIN-NOV12-S002"
+      ],
+      "url": "https://www.president.gov.ua/en/news/prezident-i-radniki-z-nacbezpeki-krayin-e4-yevrokomisiyi-ta-107321",
+      "source_class": "Original Ukrainian presidency readout of a separate Dublin European-adviser meeting",
+      "http_status": 200,
+      "acquired_at_utc": "2026-11-12T23:26:53.276047+00:00",
+      "displayed_publication": "2026-11-12 23:44",
+      "displayed_timezone": null,
+      "artifacts": [
+        {
+          "artifact": "presidency_nov12_e4_consultation_original.html",
+          "artifact_type": "Original official HTML response bytes, retained locally, not published",
+          "bytes": 343416,
+          "sha256": "8989356d413b4a3e52c8d418fd3095923e70c5e40a1469fc07fb109e7753f9b9"
+        }
+      ],
+      "limits": "Held E4/European Commission/European Council adviser coordination ahead of the US-envoy meeting. Not the specifically planned November 11 Abu Dhabi follow-on or European seats at Russian negotiations. Publication time not meeting time."
+    }
+  ],
+  "joins": [
+    "J20-2026-079",
+    "J20-2026-080",
+    "CH7-BRUSSELS-RECOVERY-001",
+    "CH7-NOV4-ENVOY-CALL-001"
+  ],
+  "no_raw_archive_published": true,
+  "no_financial_or_score_changes": true
+}

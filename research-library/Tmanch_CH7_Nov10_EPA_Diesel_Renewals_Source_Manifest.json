@@ -1,0 +1,51 @@
+{
+  "baseline_commit": "6a6f78bc3781fa16283bb74a0bbd4b0837208722",
+  "scope": "Two newly effective geographic extensions in existing domestic diesel accommodation track",
+  "instrument_date": "2026-11-10",
+  "effective_from": "2026-11-14",
+  "effective_through": "2026-12-03",
+  "inclusive_days": 20,
+  "observed_on": "2026-11-14",
+  "sources": [
+    {
+      "url": "https://www.epa.gov/system/files/documents/2026-11/fuel-waiver-txled-ulsd-2026-1110.pdf",
+      "http_status": 200,
+      "raw_original_sha256": "28e7d1282221e08a59c79c160559348e9fe2e91283d836765c530b13b69f9527",
+      "raw_original_bytes": 3914610,
+      "retrieved_utc": "2026-11-14T14:28:18.401448+00:00",
+      "source_id": "EPA-DIESEL-S004",
+      "title": "EPA November 10 Texas emergency fuel waiver",
+      "original_artifact_type": "Official signed original PDF",
+      "locator": "p.1 date/engine examples; pp.3–4 operative terms, limitations, sell-through; p.4 signature",
+      "physical_pdf_pages": 4,
+      "limits": "Signed legal terms and agency rationale. No implemented production, volume, prices, emissions, import origin, receipts or sanctions change verified."
+    },
+    {
+      "url": "https://www.epa.gov/system/files/documents/2026-11/fuel-waiver-alaska-arctic-2026-1110.pdf",
+      "http_status": 200,
+      "raw_original_sha256": "0753df3b95d1cedef2f7cbbfb36331aacd44742cd8c1540d3ce1cdf7809d1e5c",
+      "raw_original_bytes": 4391932,
+      "retrieved_utc": "2026-11-14T14:28:25.050888+00:00",
+      "source_id": "EPA-DIESEL-S005",
+      "title": "EPA November 10 Arctic Alaska emergency fuel waiver",
+      "original_artifact_type": "Official signed original PDF",
+      "locator": "p.1 date/geography/engine examples; pp.3–4 operative terms, limitations, sell-through; p.5 signature",
+      "physical_pdf_pages": 5,
+      "limits": "Signed legal terms and agency rationale. No implemented production, volume, prices, emissions, import origin, receipts or sanctions change verified."
+    },
+    {
+      "url": "https://www.epa.gov/gasoline-standards/fuel-waivers",
+      "http_status": 200,
+      "raw_original_sha256": "ec1c4cb19efa73a12a3a7fbb4338a51fac67dde7ffecc828351c82aff0d9ee35",
+      "raw_original_bytes": 194907,
+      "retrieved_utc": "2026-11-14T14:28:28.025071+00:00",
+      "source_id": "EPA-DIESEL-S006",
+      "title": "EPA fuel-waiver index November 14 observation",
+      "original_artifact_type": "Official HTML snapshot",
+      "locator": "Texas and Alaska 2026 sections; November 10 successor and October 20 predecessor listings",
+      "limits": "Agency summary and chronology; the signed letters control scope. Fetch date is not publication date."
+    }
+  ],
+  "publication_artifacts": "Source note and provenance only; no raw archives.",
+  "review": "Original letter text inspected and physical pages 1,4 (both) plus Alaska signature p.5 visually checked; date, scope and limits independently retained."
+}
