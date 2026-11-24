@@ -369,3 +369,9 @@ See [`Tmanch_CH7_open_questions.md`](Tmanch_CH7_open_questions.md) for the filin
 | ID | Date | Reconciled action or result | Evidence status | Russia benefit | Ukraine/allied cost | Source |
 |---|---|---|---|----:|---:|---|
 | **J20-2026-118** | 2026-11-20 notice and Dushanbe meeting; 2027-11-20 withdrawal effective | The UN recorded Tajikistan's withdrawal notification on the day its presidency records hosting Putin. Withdrawal takes effect one year later, subject to article 127. The EU reported that Tajikistan again did not comply with its arrest obligations; the earlier ICC finding addressed the October 2025 visit, not this one. No causation from Shenzhen is established. | Depositary notification and official meeting verified; November noncompliance attributed to EU; no new ICC finding verified | — | — | [Depositary, visit, referral and legal scope](Tmanch_CH7_Nov20_Tajikistan_ICC_Source_Note.md) |
+
+## Kazakhstan tungsten corporate financing
+
+| ID | Date | Reconciled action or result | Evidence status | Russia benefit | Ukraine/allied cost | Source |
+|---|---|---|---|---:|---:|---|
+| **J20-2026-119** | 2026-11-01 termination and term sheet; Nov. 12 and 17 disclosures | Skyline and Cove Kaz terminated their merger and proposed a separate private exchange for 63,994,955 Cove Kaz shares, followed by a planned distribution. Skyline reports $45 million already advanced privately. A Dominari-linked vehicle reported 6.36% of Skyline Class A, not a direct Cove Kaz stake. No completed distribution, public funding or family proceeds verified. | Termination and issuer-reported private disbursements documented; replacement exchange and distribution conditional | — | — | [SEC filings and beneficiary limits](Tmanch_CH7_Nov_Tungsten_Skyline_Cove_Kaz_Source_Note.md) |
