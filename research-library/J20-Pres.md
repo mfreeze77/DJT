@@ -389,3 +389,9 @@ See [`Tmanch_CH7_open_questions.md`](Tmanch_CH7_open_questions.md) for the filin
 | ID | Date | Reconciled action or result | Evidence status | Russia benefit | Ukraine/allied cost | Source |
 |---|---|---|---|---:|---:|---|
 | **J20-2026-121** | 2026-09-16 approval; Nov. 23 reported agreement | DFC approved a direct loan of up to $350 million to Vodafone Ukraine. The operator reportedly agreed financing and intends to repay the underlying loan and redeem $273.66 million of remaining notes at par plus interest. The original 2020 notes refinanced a bridge for the 2019 purchase from Russia’s MTS; no current MTS receipt is documented. | DFC approval and debt lineage verified; agreement reported; draw and settlement unverified | — | — | [Financing and note sources](Tmanch_CH7_Nov_Vodafone_Ukraine_DFC_Source_Note.md) |
+
+## Forfeited property and proceeds
+
+| ID | Date | Reconciled action or result | Evidence status | Russia benefit | Ukraine/allied cost | Source |
+|---|---|---|---|---:|---:|---|
+| **J20-2026-122** | 2025-10-10 sale; 2026-11 review | DOJ audited a $187 million completed Amadea sale in October 2025; a later report gives nearly $40 million in DOJ outlays and conflicts on timing. Net proceeds are held pending litigation. No transfer to Ukraine verified. | Audited sale and pending petition verified; outlays attributed to later report | — | — | [Amadea sources](Tmanch_CH7_Amadea_Forfeiture_Proceeds_Source_Note.md) |
