@@ -383,3 +383,9 @@ See [`Tmanch_CH7_open_questions.md`](Tmanch_CH7_open_questions.md) for the filin
 | ID | Date | Reconciled action or result | Evidence status | Russia benefit | Ukraine/allied cost | Source |
 |---|---|---|---|---:|---:|---|
 | **J20-2026-120** | 2026-11-19 | Ukraine’s Cabinet approved signing a NATO framework for directing EU Ukraine Support Loan funds through PURL, subject to package-level documentation and implementation. This is not evidence of execution, transfer, procurement or delivery and is distinct from the October 30 JUMPSTART and national-funds notice. | Official Cabinet readout verified; signature and transfers unverified | — | — | [Fiscal and framework sources](Tmanch_CH7_Nov_Ukraine_Aid_Fiscal_Stages_Source_Note.md) |
+
+## Ukraine telecom development finance
+
+| ID | Date | Reconciled action or result | Evidence status | Russia benefit | Ukraine/allied cost | Source |
+|---|---|---|---|---:|---:|---|
+| **J20-2026-121** | 2026-09-16 approval; Nov. 23 reported agreement | DFC approved a direct loan of up to $350 million to Vodafone Ukraine. The operator reportedly agreed financing and intends to repay the underlying loan and redeem $273.66 million of remaining notes at par plus interest. The original 2020 notes refinanced a bridge for the 2019 purchase from Russia’s MTS; no current MTS receipt is documented. | DFC approval and debt lineage verified; agreement reported; draw and settlement unverified | — | — | [Financing and note sources](Tmanch_CH7_Nov_Vodafone_Ukraine_DFC_Source_Note.md) |
