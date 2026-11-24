@@ -384,6 +384,7 @@ See [`Tmanch_CH7_open_questions.md`](Tmanch_CH7_open_questions.md) for the filin
 | ID | Date | Reconciled action or result | Evidence status | Russia benefit | Ukraine/allied cost | Source |
 |---|---|---|---|---:|---:|---|
 | **J20-2026-120** | 2026-11-19 | Ukraine’s Cabinet approved signing a NATO framework for directing EU Ukraine Support Loan funds through PURL, subject to package-level documentation and implementation. This is not evidence of execution, transfer, procurement or delivery and is distinct from the October 30 JUMPSTART and national-funds notice. | Official Cabinet readout verified; signature and transfers unverified | — | — | [Fiscal and framework sources](Tmanch_CH7_Nov_Ukraine_Aid_Fiscal_Stages_Source_Note.md) |
+| **J20-2026-124** | 2026-09-30 cutoff; Nov. 16 DFC report | DFC audited $5 million disbursed to the U.S.–Ukraine Reconstruction Investment Fund, against $75 million committed. A later oversight report calls the $75 million a disbursement. Project-level spending was not verified. | Audited partnership outflow verified; oversight report wording unreconciled | — | — | [URIF cash and DTEK financing stages](Tmanch_CH7_Nov_URIF_Seed_Cash_Source_Note.md) |
 
 ## Ukraine telecom development finance
 
