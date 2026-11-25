@@ -1,6 +1,6 @@
 {
-  "scope": "Separate prospective noncash refinancing observations; not monetary transactions or realized debt flows",
-  "review_date": "2026-11-10",
+  "scope": "Prospective refinancing observations; separate issuer-reported November 16 repurchase as a balance update, not a November 30 settlement or a quantified cash-flow row",
+  "review_date": "2026-11-25",
   "observations": [
     {
       "observation_id": "TAE-REF01",
@@ -92,7 +92,23 @@
             "TAE-REF01"
           ]
         }
-      ]
+      ],
+      "separate_disclosed_repurchase": {
+        "date": "2026-11-16",
+        "disclosure_date": "2026-11-17",
+        "instrument": "TMTG 0% senior secured convertible notes due 2028, not the TAE note receivable",
+        "status": "completed_as_reported_by_issuer",
+        "principal_retired_usd": 100000000,
+        "cash_paid_usd": null,
+        "cash_source_as_disclosed": "cash on hand",
+        "price_basis": "undisclosed discount to par",
+        "remaining_principal_immediately_after_usd_approx": 883500000,
+        "separate_november_30_holder_option_settlement_established": false,
+        "seller_identity": null,
+        "new_credit_or_collateral_release_established": false,
+        "historical_receipt_total_eligible": false,
+        "source": "https://www.sec.gov/Archives/edgar/data/1849635/000143774926037406/ex_1047428.htm"
+      }
     }
   ],
   "no_cash_flow_total": true
