@@ -391,6 +391,12 @@ See [`Tmanch_CH7_open_questions.md`](Tmanch_CH7_open_questions.md) for the filin
 | **J20-2026-128** | 2026-11-24 confirmation; deliveries in preceding months | Norway confirmed that several donated DESNA air-defense systems are in use in Ukraine. Its 2027 NOK 85 billion aid proposal is not spent money. Norwegian auditors found uneven military-aid handover times and separately reported inadequate grant controls. | In-use confirmation and audit verified; no delivery count, cost, 2027 appropriation or outlay established | — | — | [Norway delivery, audit and budget stages](Tmanch_CH7_Nov24_Norway_Ukraine_Delivery_Source_Note.md) |
 | **J20-2026-129** | 2026-11-24 | Hungary reported bringing approximately HUF 1 billion in civilian goods to Ukraine. Separately, two gazetted decisions describe one HUF 1,001,050,000 reallocation for a social-development program; a third authorizes ten patient monitors for a named hospital. | Government report and official decisions verified; onward cash and specific hospital receipt unverified | — | — | [Hungary civilian support and budget stages](Tmanch_CH7_Nov24_Hungary_Ukraine_Civilian_Aid_Source_Note.md) |
 
+## Ukraine energy fund deposits and deliveries
+
+| ID | Date | Reconciled action or result | Evidence status | Russia benefit | Ukraine/allied cost | Source |
+|---|---|---|---|---:|---:|---|
+| **J20-2026-131** | 2025-02-27 notice; 2025-06-30 deposit cutoff; 2026-11-24 update | Despite a reported USAID termination notice for a $75 million grant arrangement, the Ukraine Energy Support Fund records €71.247 million cumulatively deposited by June 2025, up €48.263 million from December 2024. U.S. oversight separately confirms $75 million contributed. | Notice and deposit totals verified; wire dates and mechanism unresolved; no new U.S. deposit established in 2026 | — | — | [Energy-fund receipts and delivery stages](Tmanch_CH7_Nov24_Ukraine_Energy_Support_Fund_Source_Note.md) |
+
 ## U.S. Iran shadow-banking enforcement
 
 | ID | Date | Reconciled action or result | Evidence status | Russia benefit | Ukraine/allied cost | Source |
