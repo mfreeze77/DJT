@@ -1,6 +1,6 @@
 {
   "scope": "Separate noncash merger-process observations; issuer-reported procedural milestone and prospective timetable, not monetary transactions or completed merger",
-  "review_date": "2026-11-09",
+  "review_date": "2026-11-25",
   "observations": [
     {
       "observation_id": "TAE-MERGER01",
@@ -59,7 +59,15 @@
             "timezone_as_stated": "Eastern Time"
           }
         ],
-        "conflict_resolution": "Unresolved; no acquired explanation or rescheduling notice."
+        "conflict_resolution": "Unresolved; no acquired explanation or rescheduling notice.",
+        "research_monitoring_time": {
+          "time": "10:00",
+          "timezone": "America/New_York",
+          "utc": "2026-12-14T15:00:00Z",
+          "source": "TAE-S42 definitive merger notice; use for monitoring only pending live listing or a newer special-meeting notice",
+          "distinct_annual_meeting_time": "2026-12-14T14:00:00Z",
+          "distinct_annual_meeting_source": "https://www.sec.gov/Archives/edgar/data/1849635/000143774926038072/djt20261119_def14a.htm"
+        }
       },
       "mailing": {
         "status": "issuer_reported_TMTG_mailed_receipt_unverified",
@@ -324,6 +332,10 @@
     {
       "date": "2026-11-09",
       "description": "Same TAE-MERGER01: TMTG mailing advances to issuer-reported status; full preceding observation retained. TAE solicitation, receipt, vote, meeting-time conflict and closing remain unresolved. No monetary row or duplicate outcome."
+    },
+    {
+      "date": "2026-11-25",
+      "description": "Preferred the definitive notice for monitoring. Preserved both source times and unresolved discrepancy; the separate annual-meeting proxy does not give a new merger-vote time."
     }
   ]
 }
