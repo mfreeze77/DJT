@@ -391,6 +391,12 @@ See [`Tmanch_CH7_open_questions.md`](Tmanch_CH7_open_questions.md) for the filin
 | **J20-2026-128** | 2026-11-24 confirmation; deliveries in preceding months | Norway confirmed that several donated DESNA air-defense systems are in use in Ukraine. Its 2027 NOK 85 billion aid proposal is not spent money. Norwegian auditors found uneven military-aid handover times and separately reported inadequate grant controls. | In-use confirmation and audit verified; no delivery count, cost, 2027 appropriation or outlay established | — | — | [Norway delivery, audit and budget stages](Tmanch_CH7_Nov24_Norway_Ukraine_Delivery_Source_Note.md) |
 | **J20-2026-129** | 2026-11-24 | Hungary reported bringing approximately HUF 1 billion in civilian goods to Ukraine. Separately, two gazetted decisions describe one HUF 1,001,050,000 reallocation for a social-development program; a third authorizes ten patient monitors for a named hospital. | Government report and official decisions verified; onward cash and specific hospital receipt unverified | — | — | [Hungary civilian support and budget stages](Tmanch_CH7_Nov24_Hungary_Ukraine_Civilian_Aid_Source_Note.md) |
 
+## U.S. Iran shadow-banking enforcement
+
+| ID | Date | Reconciled action or result | Evidence status | Russia benefit | Ukraine/allied cost | Source |
+|---|---|---|---|---:|---:|---|
+| **J20-2026-130** | 2026-11-23 | OFAC added eight individuals and 22 entities targeting Iranian shadow banking. Separately, FinCEN identified about $14.7 billion in 4,983 transactions potentially linked to those types of networks from January 2025 through August 2026, not verified proceeds or newly blocked funds. | Legal additions verified; FinCEN is a bounded analysis of leads; financial effects unmeasured | — | — | [Designations and financial-data scope](Tmanch_CH7_Nov23_Iran_Shadow_Banking_Source_Note.md) |
+
 ## Ukraine telecom development finance
 
 | ID | Date | Reconciled action or result | Evidence status | Russia benefit | Ukraine/allied cost | Source |
