@@ -424,7 +424,7 @@ See [`Tmanch_CH7_open_questions.md`](Tmanch_CH7_open_questions.md) for the filin
 
 | ID | Date | Reconciled action or result | Evidence status | Russia benefit | Ukraine/allied cost | Source |
 |---|---|---|---|---:|---:|---|
-| **J20-2026-121** | 2026-09-16 approval; Nov. 23 reported agreement | DFC approved a direct loan of up to $350 million to Vodafone Ukraine. The operator reportedly agreed financing and intends to repay the underlying loan and redeem $273.66 million of remaining notes at par plus interest. The original 2020 notes refinanced a bridge for the 2019 purchase from Russia’s MTS; no current MTS receipt is documented. | DFC approval and debt lineage verified; agreement reported; draw and settlement unverified | — | — | [Financing and note sources](Tmanch_CH7_Nov_Vodafone_Ukraine_DFC_Source_Note.md) |
+| **J20-2026-121** | 2026-09-16 DFC approval; Nov. 18 borrower approval; Nov. 23 reported agreement | DFC approved a direct loan of up to $350 million to Vodafone Ukraine. The operator reportedly agreed financing and intends to repay the underlying loan and redeem a reported $273.66 million of remaining notes at par plus interest. The original 2020 notes refinanced a bridge for the 2019 purchase from Russia’s MTS; no current MTS receipt is documented. | DFC and borrower approvals and debt lineage documented; agreement reported; draw and settlement unverified | — | — | [Financing and note sources](Tmanch_CH7_Nov_Vodafone_Ukraine_DFC_Source_Note.md) |
 
 ## Forfeited property and proceeds
 
