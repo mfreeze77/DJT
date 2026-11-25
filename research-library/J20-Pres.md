@@ -398,6 +398,13 @@ See [`Tmanch_CH7_open_questions.md`](Tmanch_CH7_open_questions.md) for the filin
 | **J20-2026-131** | 2025-02-27 notice; 2025-06-30 deposit cutoff; 2026-11-24 update | Despite a reported USAID termination notice for a $75 million grant arrangement, the Ukraine Energy Support Fund records €71.247 million cumulatively deposited by June 2025, up €48.263 million from December 2024. U.S. oversight confirms the same $75 million contributed. Separately, U.S.-registered firms signed about €42 million in supplier contracts in H1 2026; country-specific cash is unverified. | Notice and deposit totals verified; wire dates and mechanism unresolved; no new U.S. deposit established in 2026 | — | — | [Energy-fund receipts and delivery stages](Tmanch_CH7_Nov24_Ukraine_Energy_Support_Fund_Source_Note.md) |
 | **J20-2026-132** | 2026-09-04 approval; Sep. 22 receipt reported | Ukraine received $841 million from IBRD under loan K060-UA for pension expenditure reimbursement, backed by a Canadian guarantee. | Lender disbursement and recipient budget receipt corroborate the same loan; no Canadian cash payout verified | — | — | [PEACE loan and guarantee sources](Tmanch_CH7_Sep22_PEACE_Canadian_Guarantee_Source_Note.md) |
 
+## EU Ukraine Facility and European Peace Facility financing stages
+
+| ID | Date | Reconciled action or result | Evidence status | Russia benefit | Ukraine/allied cost | Source |
+|---|---|---|---|---:|---:|---|
+| **J20-2026-133** | 2026-11-20 proposal; Nov. 25 working-party agenda | The Commission proposes €2.946 billion gross for Ukraine Facility conditions, including €2.164 billion for the tenth installment and €782.2 million in earlier components. | Commission proposal; no adoption, net disbursement or Ukrainian receipt verified | — | — | [Facility proposal and EPF decisions](Tmanch_CH7_Nov25_EU_Facility_EPF_Stages_Source_Note.md) |
+| **J20-2026-134** | 2026-11-20 adoption; Nov. 23 publication | Two Council decisions establish €1 billion in EPF reference amounts within the September €6.6 billion agreement. Initial contribution-call ceilings total €667 million and are not additional funding. | Acts adopted; collection, vendor payment and delivery not verified | — | — | [Facility proposal and EPF decisions](Tmanch_CH7_Nov25_EU_Facility_EPF_Stages_Source_Note.md) |
+
 ## U.S. Iran shadow-banking enforcement
 
 | ID | Date | Reconciled action or result | Evidence status | Russia benefit | Ukraine/allied cost | Source |
