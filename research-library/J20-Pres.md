@@ -371,6 +371,12 @@ See [`Tmanch_CH7_open_questions.md`](Tmanch_CH7_open_questions.md) for the filin
 |---|---|---|---|---:|---:|---|
 | **J20-2026-143** | November 25 adopted; November 26 published; November 27 entry into force | The Council added 15 Russian entities to Annex IV's tighter controls on dual-use and advanced-technology exports and removed Yusha Group Co. Ltd. (China, entry 708) from that list. | Paired final acts verify one export-control amendment, not an asset freeze or a measured trade or financial effect | — | — | [Decision 2026/2622 and annex](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ%3AL_202602622); [Regulation 2026/2632](https://eur-lex.europa.eu/eli/reg/2026/2632/oj/eng) |
 
+## November 25 Trump–Rutte meeting
+
+| ID | Date | Reconciled action or result | Evidence status | Russia benefit | Ukraine/allied cost | Source |
+|---|---|---|---|---:|---:|---|
+| **J20-2026-144** | November 25 meeting; November 26 publication | A joint statement says Trump and NATO Secretary General Mark Rutte discussed Russia's war against Ukraine, Iran, avoiding Russian escalation, and expanding U.S. and allied defense spending and industrial investment. | Diplomatic signaling verified, with no new spending target, aid package, ceasefire terms or implementation disclosed | — | — | [NATO joint statement](https://nato.int/en/news-and-events/articles/news/2026/11/26/joint-statement-by-the-president-of-the-united-states-of-america-and-the-nato-secretary-general) |
+
 ## Tajikistan and the ICC
 
 | ID | Date | Reconciled action or result | Evidence status | Russia benefit | Ukraine/allied cost | Source |
