@@ -423,6 +423,9 @@ See [`Tmanch_CH7_open_questions.md`](Tmanch_CH7_open_questions.md) for the filin
 
 | **J20-2026-147** | 2026-11-26 receipt reported | Ukraine confirmed $450 million of World Bank budget receipts: $225 million each under SURGE and RISE. The total consists of $415 million of Japan-backed IBRD loans and $35 million of IDA credit. | Recipient-confirmed cash; separate guarantee payout or onward spending not verified | — | — | [World Bank budget receipt reconciliation](Tmanch_CH7_2026_Japan_ADVANCE_Receipts_Source_Note.md#november-26-surge-and-rise-j20-2026-147) |
 
+| **J20-2026-148** | 2026-11-11 contribution reported | Ukraine reported Ireland's second €25 million reached the Ukraine Energy Support Fund, bringing Ireland's total to €52 million. | Fund-level receipt reported; no supplier payment or delivery traced | — | — | [Fund receipt reconciliation](Tmanch_CH7_Nov24_Ukraine_Energy_Support_Fund_Source_Note.md#ireland-fund-receipt-and-separate-uk-wind-commitment) |
+| **J20-2026-149** | 2026-11-26 commitment reported | The UK announced £9.5 million for a 200 MW Ukraine wind project. Elementum's Ternopil development is a likely match, not a confirmed legal recipient. | Commitment reported; instrument, signing and draw unverified | — | — | [Commitment and lender project cross-check](Tmanch_CH7_Nov24_Ukraine_Energy_Support_Fund_Source_Note.md#ireland-fund-receipt-and-separate-uk-wind-commitment) |
+
 ## Naftogaz award enforcement (not aid or receipts)
 
 | ID | Date | Reconciled action or result | Evidence status | Russia benefit | Ukraine/allied cost | Source |
