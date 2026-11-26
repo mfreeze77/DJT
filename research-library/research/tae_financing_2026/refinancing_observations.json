@@ -1,6 +1,6 @@
 {
   "scope": "Prospective refinancing observations; separate issuer-reported November 16 repurchase as a balance update, not a November 30 settlement or a quantified cash-flow row",
-  "review_date": "2026-11-25",
+  "review_date": "2026-11-26",
   "observations": [
     {
       "observation_id": "TAE-REF01",
@@ -20,8 +20,8 @@
         "S21 section4.3(a), printed pp.42–43"
       ],
       "existing_optional_repurchase_principal_usd_approx": 1000000000,
-      "holder_exercise_date": "2026-11-30",
-      "consummation_limit": "Company notice specifies no more than ten business days after November 30; no actual notice/election/settlement acquired",
+      "holder_exercise_date": null,
+      "consummation_limit": "Required notice specifies consummation within ten business days after scheduled Repurchase Date; actual company notice, elections and settlement not acquired",
       "increment": "Possible credit facility; covenants, collateral and higher rates; explicit digital-asset sale fallback; issuer equity-efficiency judgment",
       "actual_new_loan_usd": null,
       "actual_asset_sale_usd": null,
@@ -108,6 +108,16 @@
         "new_credit_or_collateral_release_established": false,
         "historical_receipt_total_eligible": false,
         "source": "https://www.sec.gov/Archives/edgar/data/1849635/000143774926037406/ex_1047428.htm"
+      },
+      "scheduled_repurchase_date": "2026-11-30",
+      "timing_qualification": {
+        "source": "https://www.sec.gov/Archives/edgar/data/1849635/000114036125020967/ef20049966_ex4-1.htm",
+        "locator": "Section 4.3(a), printed pp. 42–44",
+        "delivery_and_withdrawal": "Close of business on second Business Day immediately preceding scheduled Repurchase Date, subject to depositary procedures as applicable",
+        "required_notice_summary": "Names scheduled Repurchase Date as last exercise date",
+        "operational_cutoff_verified": false,
+        "actual_settlement_date": null,
+        "public_reporting_checkpoint": "2026-11-30"
       }
     }
   ],
