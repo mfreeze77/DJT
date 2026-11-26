@@ -365,6 +365,12 @@ See [`Tmanch_CH7_open_questions.md`](Tmanch_CH7_open_questions.md) for the filin
 | **J20-2026-116** | 2026-11-19 | Trump, Putin and Xi jointly backed higher refined-fuel supply, official immunities and state consent in international-court matters, UN reform and nuclear-risk dialogue. The declaration does not amend sanctions, displace an ICC warrant, or agree a Ukraine settlement. | Joint declaration verified; no implementation established | — | — | [Source and evidence boundaries](Tmanch_CH7_Nov23_Shenzhen_EU22_Source_Note.md#shenzhen-j20-2026-116) |
 | **J20-2026-117** | 2026-11-23 | The Commission proposed wider Russian banking, crypto, energy-services and shipping restrictions, including around 60 banks and over 70 additional vessels. Separate visa-processing guidelines were adopted, but Council activation of the combatant visa ban and legal adoption of the package were not verified. | Proposal verified; separate Commission visa guidelines adopted; Council package adoption unverified | — | — | [Source and evidence boundaries](Tmanch_CH7_Nov23_Shenzhen_EU22_Source_Note.md#eu-22nd-sanctions-package-proposal-j20-2026-117) |
 
+## EU Annex IV export-control amendment
+
+| ID | Date | Reconciled action or result | Evidence status | Russia benefit | Ukraine/allied cost | Source |
+|---|---|---|---|---:|---:|---|
+| **J20-2026-143** | November 25 adopted; November 26 published; November 27 entry into force | The Council added 15 Russian entities to Annex IV's tighter controls on dual-use and advanced-technology exports and removed Yusha Group Co. Ltd. (China, entry 708) from that list. | Paired final acts verify one export-control amendment, not an asset freeze or a measured trade or financial effect | — | — | [Decision 2026/2622 and annex](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ%3AL_202602622); [Regulation 2026/2632](https://eur-lex.europa.eu/eli/reg/2026/2632/oj/eng) |
+
 ## Tajikistan and the ICC
 
 | ID | Date | Reconciled action or result | Evidence status | Russia benefit | Ukraine/allied cost | Source |
