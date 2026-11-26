@@ -1,6 +1,6 @@
 {
   "scope": "Separate noncash merger-process observations; issuer-reported procedural milestone and prospective timetable, not monetary transactions or completed merger",
-  "review_date": "2026-11-25",
+  "review_date": "2026-11-26",
   "observations": [
     {
       "observation_id": "TAE-MERGER01",
@@ -19,7 +19,8 @@
         "Form 425 headline and opening four substantive paragraphs",
         "424B3 cover/meeting notice, printed p.5 and actual p.84",
         "Separate SEC EFFECT rendered notice and raw XML; official indices/submissions",
-        "November 9 issuer release solicitation paragraph; 10-Q Note 17 and September 30 statements; Q3 source note"
+        "November 9 issuer release solicitation paragraph; 10-Q Note 17 and September 30 statements; Q3 source note",
+        "November 25 SEC DEFA14A, proxy solicitation section, identifies both meeting times"
       ],
       "registration_effectiveness": {
         "status": "separately_confirmed_by_SEC_notice",
@@ -41,10 +42,10 @@
         "date_qualification": "Earlier issuer reported filing November 5; SEC filingDate and acceptance are distinct metadata, not silently reconciled."
       },
       "stockholder_meeting": {
-        "status": "scheduled_not_held_time_conflict_unresolved",
+        "status": "scheduled_not_held_time_corroborated",
         "date": "2026-12-14",
-        "time": null,
-        "timezone_as_stated": null,
+        "time": "10:00",
+        "timezone_as_stated": "Eastern Time",
         "record_date": "2026-11-02",
         "record_date_qualifier": "close of business",
         "source_specific_times": [
@@ -57,14 +58,19 @@
             "source": "TAE-S42",
             "time": "10:00",
             "timezone_as_stated": "Eastern Time"
+          },
+          {
+            "source": "https://www.sec.gov/Archives/edgar/data/1849635/000143774926038289/djt20261125_defa14a.htm",
+            "time": "10:00",
+            "timezone_as_stated": "Eastern Time"
           }
         ],
-        "conflict_resolution": "Unresolved; no acquired explanation or rescheduling notice.",
+        "conflict_resolution": "The November 25 SEC supplement corroborates the definitive notice at 10:00 Eastern; the earlier 09:15 issuer release is retained as chronology. The reason for the difference is not established.",
         "research_monitoring_time": {
           "time": "10:00",
           "timezone": "America/New_York",
           "utc": "2026-12-14T15:00:00Z",
-          "source": "TAE-S42 definitive merger notice; use for monitoring only pending live listing or a newer special-meeting notice",
+          "source": "TAE-S42 definitive merger notice, corroborated by the November 25 SEC supplement; live webcast not independently checked",
           "distinct_annual_meeting_time": "2026-12-14T14:00:00Z",
           "distinct_annual_meeting_source": "https://www.sec.gov/Archives/edgar/data/1849635/000143774926038072/djt20261119_def14a.htm"
         }
@@ -101,7 +107,7 @@
         "TAE-T20",
         "TAE-REF01"
       ],
-      "limits": "Separate SEC EFFECT and definitive prospectus acquired. Filing, acceptance, document and effectiveness dates remain distinct. Meeting-time conflict preserved. TMTG mailing now issuer-reported; no independently verified receipt, vote, merger, new financing, asset sale, family receipt or policy bargain established. The earlier expected-mailing stage remains in prior_source_snapshots. New release supplies no meeting time; prior conflict remains unresolved. Disclosure amendment dates differ from SEC metadata as described in the Q3 source note.",
+      "limits": "Separate SEC EFFECT and definitive prospectus acquired. Filing, acceptance, document and effectiveness dates remain distinct. The current time is corroborated by two SEC filings; the discrepant earlier release is retained as chronology. TMTG mailing now issuer-reported; no independently verified receipt, vote, merger, new financing, asset sale, family receipt or policy bargain established. The earlier expected-mailing stage remains in prior_source_snapshots. The November 9 release supplied no meeting time. Disclosure amendment dates differ from SEC metadata as described in the Q3 source note.",
       "prior_source_snapshots": [
         {
           "as_recorded": "2026-11-06 earlier watch",
@@ -336,6 +342,10 @@
     {
       "date": "2026-11-25",
       "description": "Preferred the definitive notice for monitoring. Preserved both source times and unresolved discrepancy; the separate annual-meeting proxy does not give a new merger-vote time."
+    },
+    {
+      "date": "2026-11-26",
+      "description": "November 25 SEC supplement corroborates 15:00 UTC for the merger vote on December 14, after the separate 14:00 UTC annual meeting; earlier source times retained."
     }
   ]
 }

@@ -35,6 +35,13 @@ JPMorgan describes MTS as outside the applicable OFAC blocked categories. The co
 
 **Ownership versus commercial history:** The broker-dealer's [2018 SEC-filed statement, Notes 1 and 8](https://www.sec.gov/Archives/edgar/vprr/1900/19007893.pdf) records that VTB Capital IB Holding Limited sold its equity to existing officers and internal management in August 2018. Separately, the report describes brokerage and service agreements with VTB Capital PLC made as part of that transaction; it does not establish their continuation today. [FINRA BrokerCheck](https://files.brokercheck.finra.org/firm/firm_156048.pdf) lists Xtellus Partners LLC as managing direct owner of 75% or more of Xtellus Capital Partners Inc., and Paul Marshall Swigart in the 50% to under 75% indirect ownership band through that LLC. These percentages concern the broker-dealer, not the Lukoil consortium. No current VTB ownership, role in this swap or payment is established. No ledger flow is added.
 
+## Romania: Petrotel operating contracts disclosed November 19
+
+- [CONPET current report 24/2026](https://www.bvb.ro/infocont/infocont26/COTE_20261119163333_COTE-19-11-2026-RC-24-ASF-si-BVB-EN.pdf) reports contract BC LUK 250 with Petrotel Lukoil, estimated at RON 5,993,100 to transport imported crude from Oil Terminal to the refinery. The disclosed terms include advances for estimated quantities in ten-day periods and a separate RON 3.5 million guarantee. The term ends December 31, 2026, with automatic termination if GL 131K ceases to apply and no other OFAC authorization permits performance.
+- [Oil Terminal report 754/2026](https://iris.bvb.ro/ReportDetails/Contract/OIL/AF128) discloses contract 7/C/2026 with Petrotel Lukoil, estimated at RON 4,334,000 for terminal and forwarding services, effective November 18, with payment due 30 calendar days after invoicing. The issuer describes validity by reference to GL 131K, no later than December 31. Do not infer performance or amendment from the later OFAC renewal.
+
+The two estimates total RON 10,327,100, excluding the separate guarantee. They predate the consortium announcement and identify local operating counterparties, not actual deliveries, paid invoices or any ownership transfer. No addition to cash totals.
+
 ## Berlin
 
 **J20-2026-115** records allied coordination, not a discrete U.S. transfer or guaranteed protection. It sits alongside, not inside, the equipment mobilization reported under [J20-2026-104](Tmanch_CH7_Nov12_EU_Winter_Source_Note.md), [J20-2026-102](Tmanch_CH7_Nov10_Denmark_Source_Note.md), and the separate prior PURL record (legacy J20-032).
