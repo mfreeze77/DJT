@@ -419,6 +419,8 @@ See [`Tmanch_CH7_open_questions.md`](Tmanch_CH7_open_questions.md) for the filin
 | **J20-2026-145** | 2026-03-02 IMF purchase; March 3 receipt reported | The IMF recorded an SDR 1,106,500,000 purchase under the new Extended Fund Facility. Ukraine reported about USD 1.5 billion received. | Payer transaction and recipient report match; no onward expenditure verified | — | — | [IMF and recipient sources](Tmanch_CH7_2026_IMF_EFF_Receipts_Source_Note.md) |
 | **J20-2026-146** | 2026-07-22 IMF purchase; July 23 receipt reported | The IMF recorded an SDR 503,000,000 purchase under the new Extended Fund Facility. Ukraine reported about USD 690 million received. | Payer transaction and recipient report match; no onward expenditure verified | — | — | [IMF and recipient sources](Tmanch_CH7_2026_IMF_EFF_Receipts_Source_Note.md) |
 
+| **J20-2026-147** | 2026-11-26 receipt reported | Ukraine confirmed $450 million of World Bank budget receipts: $225 million each under SURGE and RISE. The total consists of $415 million of Japan-backed IBRD loans and $35 million of IDA credit. | Recipient-confirmed cash; separate guarantee payout or onward spending not verified | — | — | [World Bank budget receipt reconciliation](Tmanch_CH7_2026_Japan_ADVANCE_Receipts_Source_Note.md#november-26-surge-and-rise-j20-2026-147) |
+
 ## Naftogaz award enforcement (not aid or receipts)
 
 | ID | Date | Reconciled action or result | Evidence status | Russia benefit | Ukraine/allied cost | Source |
