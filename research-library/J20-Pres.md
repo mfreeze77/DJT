@@ -416,6 +416,9 @@ See [`Tmanch_CH7_open_questions.md`](Tmanch_CH7_open_questions.md) for the filin
 | **J20-2026-141** | 2026-10-28 receipt reported | Ukraine confirmed $404.5 million received in its state-budget general fund under THRIVE: $304.5 million in Japan-backed ADVANCE financing from IBRD and $100 million in IDA SPUR lending. | Recipient-confirmed budget cash and financing split; no guarantee call or onward payment verified | — | — | [LEARN and THRIVE receipt stages](Tmanch_CH7_2026_Japan_ADVANCE_Receipts_Source_Note.md) |
 | **J20-2026-142** | 2024-12-27 loan receipt; March 2025 grant receipt | Kyiv reports receiving a €50 million EBRD loan and a separate €5 million U.S.-funded EBRD grant for municipal energy resilience under project 55503. The EU's 25% first-loss loan guarantee is not cash. | City-budget receipts reported; contractor settlement and guarantee call unverified | — | — | [Kyiv municipal receipts and separate 2026 facilities](Tmanch_CH7_Kyiv_EBRD_Municipal_Liquidity_Source_Note.md) |
 
+| **J20-2026-145** | 2026-03-02 IMF purchase; March 3 receipt reported | The IMF recorded an SDR 1,106,500,000 purchase under the new Extended Fund Facility. Ukraine reported about USD 1.5 billion received. | Payer transaction and recipient report match; no onward expenditure verified | — | — | [IMF and recipient sources](Tmanch_CH7_2026_IMF_EFF_Receipts_Source_Note.md) |
+| **J20-2026-146** | 2026-07-22 IMF purchase; July 23 receipt reported | The IMF recorded an SDR 503,000,000 purchase under the new Extended Fund Facility. Ukraine reported about USD 690 million received. | Payer transaction and recipient report match; no onward expenditure verified | — | — | [IMF and recipient sources](Tmanch_CH7_2026_IMF_EFF_Receipts_Source_Note.md) |
+
 ## Naftogaz award enforcement (not aid or receipts)
 
 | ID | Date | Reconciled action or result | Evidence status | Russia benefit | Ukraine/allied cost | Source |
