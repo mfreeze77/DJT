@@ -464,3 +464,10 @@ See [`Tmanch_CH7_open_questions.md`](Tmanch_CH7_open_questions.md) for the filin
 | ID | Date | Reconciled action or result | Evidence status | Russia benefit | Ukraine/allied cost | Source |
 |---|---|---|---|---:|---:|---|
 | **J20-2026-122** | 2025-10-10 sale; 2026-11 review | DOJ audited a $187 million completed Amadea sale in October 2025; a later report gives nearly $40 million in DOJ outlays and conflicts on timing. Net proceeds are held pending litigation. No transfer to Ukraine verified. | Audited sale and pending petition verified; outlays attributed to later report | — | — | [Amadea sources](Tmanch_CH7_Amadea_Forfeiture_Proceeds_Source_Note.md) |
+
+## Ukraine war-risk insurance
+
+| ID | Date | Reconciled action or result | Evidence status | Russia benefit | Ukraine/allied cost | Source |
+|---|---|---|---|---:|---:|---|
+| **J20-2026-157** | FY2026 | DFC reports one $139,260 political-risk insurance cash settlement. The Ukraine and political-violence cumulative tables both rise by one claim and the exact amount. | Cash reported; Ukraine and peril strongly inferred; payee and policy undisclosed | — | — | [Claims, attribution and limits](Tmanch_CH7_DFC_Ukraine_War_Risk_Source_Note.md) |
+| **J20-2026-158** | 2025-09-30 issuance; 2026-02-01 effective | DFC provided a $25 million contingent reinsurance facility to Kniazha VIG for an underlying policy portfolio of up to $100 million. | Issuance and effectiveness documented; no payment link to J20-2026-157 | — | — | [Facility sources](Tmanch_CH7_DFC_Ukraine_War_Risk_Source_Note.md) |
