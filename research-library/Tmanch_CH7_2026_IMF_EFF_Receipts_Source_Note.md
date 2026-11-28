@@ -1,0 +1,12 @@
+# Ukraine’s 2026 IMF Extended Fund Facility: first two budget receipts
+
+Checked November 26, 2026. **J20-2026-145 and J20-2026-146**. Direct IMF lending under the February 26, 2026 arrangement, separate from the prior IMF arrangement and EU and World Bank funding.
+
+| Stage | IMF ledger, original unit | Ukraine recipient confirmation |
+|---|---:|---|
+| First purchase | March 2: SDR 1,106,500,000 | [March 3: about USD 1.5 billion](https://mof.gov.ua/en/news/-5611) |
+| First review purchase | July 22: SDR 503,000,000 | [July 23: about USD 690 million](https://www.kmu.gov.ua/en/news/ukraina-otrymala-blyzko-690-mln-dolariv-ssha-vid-mvf-u-mezhakh-novoi-prohramy-rozshyrenoho-finansuvannia-extended-fund-facility) |
+
+The [IMF transaction ledger](https://www.imf.org/external/np/fin/tad/extrans2.aspx?memberKey1=993&valueDate=2026) identifies two Extended Fund Facility purchases. Use the transaction dates for the IMF side and the announcement dates for recipient reporting. The [October 31 arrangement table](https://www.imf.org/external/np/fin/tad/extarr2.aspx?date1key=2026-10-31&memberKey1=993) shows SDR 1,609,500,000 drawn and outstanding on the 2026 facility against SDR 5,935,300,000 agreed. The outstanding balance is not additional cash; the agreed amount is a ceiling. Do not add the USD estimates to the SDR amounts or net unrelated repayments of older IMF facilities against either receipt. The borrower and direct beneficiary is Ukraine's state budget; the records do not identify final expenditure or a direct U.S. payment.
+
+The [IMF first-review report’s scheduled availability table](https://www.elibrary.imf.org/view/journals/002/2026/188/article-A001-en.xml?tab_body=fulltext) lists SDR 503 million for the second review and SDR 704 million for the third (SDR 1.207 billion combined, about USD 1.66 billion at the report's assumptions). Those are conditional scheduled amounts, not disbursements. The second review’s SDR 503 million is not the July first-review purchase. The [November 17 Ministry of Finance readout](https://mof.gov.ua/en/news/ukraine_and_the_imf_have_made_good_progress_on_the_second_and_third_reviews_of_the_eff_program-6022) confirms progress and the conclusion of the in-person stage, with discussions and partner financing assurances still in progress. No later formal staff agreement, Board completion, IMF purchase, or recipient confirmation for the second or third review was verified as of this check.

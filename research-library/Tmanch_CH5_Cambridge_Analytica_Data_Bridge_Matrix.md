@@ -145,7 +145,7 @@ The phrase does **not** mean that Russian use of the data is unlikely. It means 
 | CA-07 | Nix approach to Assange | Alexander Nix admitted Cambridge Analytica attempted to contact Assange through an intermediary to discuss material reportedly relevant to the election; the approach was rejected | Whether anyone else in the company or campaign pursued a separate channel | **Established interest; no working relationship proved** |
 | CA-08 | Kogan’s Russian work | Parliamentary testimony and submissions described Kogan performing Russian-funded psychological-profiling research while involved in the Facebook-data project | Whether Russian actors accessed, copied, or exploited Cambridge Analytica-related data | **Serious security-risk lead, not a proved transfer** |
 | CA-09 | Lukoil contacts | Wylie testified and submitted materials concerning Cambridge Analytica presentations to Lukoil involving U.S. targeting capacity, data, disinformation, and rumor-campaign techniques; Nix described a benign Turkish customer-marketing pitch | Full decks, recipients, follow-up, data shown, and any intelligence relationship | **Contested but document-specific lead** |
-| CA-10 | Russian-associated IP addresses | UK parliamentary report records that the ICO found Russian or associated-state IP addresses connected to data/server activity involving Kogan’s earlier app and referred the matter to authorities/NCA | Identity, intent, accessed data, and relationship to the Trump campaign dataset | **Officially reported investigative lead, not proof of Russian theft** |
+| CA-10 | Russian-associated IP addresses | UK parliamentary report records that the ICO found Russian or associated-state IP addresses connected to data/server activity involving Kogan’s earlier app and referred the matter to authorities/NCA | Identity, intent, accessed data, and relationship to the Trump campaign dataset | **Official referral; the [ICO's later review](https://ico.org.uk/media2/migrated/2618383/20201002_ico-o-ed-l-rtl-0181_to-julian-knight-mp.pdf#page=3) found no additional evidence of Russian involvement on the SCL/CA servers it obtained. The public outcome of the NCA referral remains unverified.** |
 | CA-11 | Cambridge Analytica as Manafort bridge | No public record proves CA transmitted Manafort data to Russia or received Russian targeting instructions | Vendor logs, model provenance, audience files, Russian intelligence records, and platform data | **Plausible hypothesis, currently unestablished** |
 | CA-12 | Russian intelligence meaningful use | An active service received uniquely valuable inside-campaign information during a priority influence operation | Exact downstream use | **Highly probable general inference** |
 
@@ -236,7 +236,9 @@ The decisive evidence is:
 
 The House of Commons final report records that the Information Commissioner found IP addresses associated with data or server activity involving Kogan that resolved to Russia and associated states. The report states that some addresses were linked to prior alleged cyberattacks or a Tor entry point, and that the issue was referred to relevant authorities and the National Crime Agency.
 
-This establishes an official investigative referral. It does **not** establish:
+The [ICO's October 2, 2020 letter to Parliament, ¶9](https://ico.org.uk/media2/migrated/2618383/20201002_ico-o-ed-l-rtl-0181_to-julian-knight-mp.pdf#page=3) confirms that reported possible Russia-located access activity was referred to the National Crime Agency because it fell outside the ICO's remit. The ICO found no additional evidence of Russian involvement in its examination of material on the SCL/Cambridge Analytica servers it obtained. That is a bounded finding about the materials examined, not a public disposition of the NCA referral or an exclusion of other routes. It does not change [Treasury's separate Kilimnik attribution](https://home.treasury.gov/news/press-releases/jy0126).
+
+The referral does **not** establish:
 
 - that Russian intelligence accessed the Trump campaign dataset;
 - that the IP traffic was malicious;
@@ -434,7 +436,8 @@ It requires an active hostile intelligence service, during a priority election o
 - data-security incident reports;
 - bankruptcy and administrator productions;
 - FTC and ICO investigative files;
-- National Crime Agency referral and disposition;
+- National Crime Agency referral and disposition (referral confirmed in 2020; public disposition not located);
+- distinguish the materials sought in [FEC MUR 7351, Second General Counsel's report, pp. 6–8](https://www.fec.gov/files/legal/murs/7351/7351_82.pdf#page=7) from those actually obtained by the ICO. For its foreign-national campaign decision-making inquiry, FEC staff worked through DOJ to seek 2013–16 Cambridge/SCL materials under the U.S.–UK mutual legal assistance treaty. The ICO reported that it could provide neither its seized data nor the emails supplied by the liquidators' counsel under its authority. The liquidators declined to produce the materials voluntarily; compulsion required a court order and faced a dual-criminality issue. FEC staff asked DOJ to withdraw the request on March 10, 2021, citing apparent limitations expiry and the expected time and resources. [The Commission closed the file 5–0](https://www.fec.gov/data/legal/matter-under-review/7351/); that is not a finding on the contents of the unproduced records;
 - and parliamentary exhibits not publicly released.
 
 ## 11.4 Manafort/Kilimnik and Russian intelligence
